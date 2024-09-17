@@ -1,0 +1,113 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_wanita	jumlah wanita	jumlah|wanita	jumlah|wanita	NNP|NNP	O|O	|					
+-1	2	fb:row.row.laki_laki_total	laki-laki total	laki|laki|total	laki|laki|total	NNP|NNP|NNP	PERSON|PERSON|O	||					
+-1	3	fb:row.row.wanita_kelahiran_kanada	wanita kelahiran Kanada	wanita|kelahiran|kanada	wanita|kelahiran|Kanada	NNP|NNP|NNP	PERSON|PERSON|PERSON	||					
+-1	4	fb:row.row.pria_kelahiran_kanada	pria kelahiran Kanada	pria|kelahiran|kanada	pria|kelahiran|Kanada	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.wanita_imigran	wanita imigran	wanita|imigran	wanita|imigran	NNP|NNP	O|O	|					
+-1	6	fb:row.row.laki_laki_imigran	laki-laki imigran	laki|laki|imigran	laki|laki|imigran	NNP|NNP|NNP	PERSON|PERSON|O	||					
+0	0	fb:cell_kharakteristik.persentase_usia_15_tahun_ke_atas	persentase usia 15 tahun ke atas	persentase|usia|15|tahun|ke|atas	persentase|usia|15|tahun|ke|atas	NN|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||15.0|||	15.0				
+0	1	fb:cell_jumlah_wanita.null											
+0	2	fb:cell_laki_laki_total.null											
+0	3	fb:cell_wanita_kelahiran_kanada.null											
+0	4	fb:cell_pria_kelahiran_kanada.null											
+0	5	fb:cell_wanita_imigran.null											
+0	6	fb:cell_laki_laki_imigran.null											
+1	0	fb:cell_kharakteristik.persentase_usia_15_tahun_ke_atas_merupakan_minoritas_yang_terlihat	persentase usia 15 tahun ke atas merupakan minoritas yang terlihat	persentase|usia|15|tahun|ke|atas|merupakan|minoritas|yang|terlihat	persentase|usia|15|tahun|ke|atas|merupakan|minoritas|yang|terlihat	NN|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O|O|O	||15.0|||||||	15.0				
+1	1	fb:cell_jumlah_wanita.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+1	2	fb:cell_laki_laki_total.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+1	3	fb:cell_wanita_kelahiran_kanada.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+1	4	fb:cell_pria_kelahiran_kanada.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+1	5	fb:cell_wanita_imigran.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+1	6	fb:cell_laki_laki_imigran.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+2	0	fb:cell_kharakteristik.persentase_usia_15_tahun_ke_atas_bukanlah_minoritas_yang_terlihat	persentase usia 15 tahun ke atas bukanlah minoritas yang terlihat	persentase|usia|15|tahun|ke|atas|bukanlah|minoritas|yang|terlihat	persentase|usia|15|tahun|ke|atas|bukanlah|minoritas|yang|terlihat	NN|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O|O|O	||15.0|||||||	15.0				
+2	1	fb:cell_jumlah_wanita.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+2	2	fb:cell_laki_laki_total.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+2	3	fb:cell_wanita_kelahiran_kanada.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+2	4	fb:cell_pria_kelahiran_kanada.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+2	5	fb:cell_wanita_imigran.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+2	6	fb:cell_laki_laki_imigran.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+3	0	fb:cell_kharakteristik.persentase_usia_15_hingga_24_tahun	persentase usia 15 hingga 24 tahun	persentase|usia|15|hingga|24|tahun	persentase|usia|15|hingga|24|tahun	NN|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||15.0||24.0|	15.0		24.0		
+3	1	fb:cell_jumlah_wanita.null											
+3	2	fb:cell_laki_laki_total.null											
+3	3	fb:cell_wanita_kelahiran_kanada.null											
+3	4	fb:cell_pria_kelahiran_kanada.null											
+3	5	fb:cell_wanita_imigran.null											
+3	6	fb:cell_laki_laki_imigran.null											
+4	0	fb:cell_kharakteristik.persentase_usia_15_hingga_24_tahun_minoritas_yang_terlihat	persentase usia 15 hingga 24 tahun minoritas yang terlihat	persentase|usia|15|hingga|24|tahun|minoritas|yang|terlihat	persentase|usia|15|hingga|24|tahun|minoritas|yang|terlihat	NN|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O	||15.0||24.0||||	15.0		24.0		
+4	1	fb:cell_jumlah_wanita.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+4	2	fb:cell_laki_laki_total.21_5	21.5	21.5	21.5	CD	NUMBER	21.5	21.5				
+4	3	fb:cell_wanita_kelahiran_kanada.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+4	4	fb:cell_pria_kelahiran_kanada.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+4	5	fb:cell_wanita_imigran.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+4	6	fb:cell_laki_laki_imigran.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+5	0	fb:cell_kharakteristik.persentase_usia_15_hingga_24_tahun_bukanlah_minoritas_yang_terlihat	persentase usia 15 hingga 24 tahun bukanlah minoritas yang terlihat	persentase|usia|15|hingga|24|tahun|bukanlah|minoritas|yang|terlihat	persentase|usia|15|hingga|24|tahun|bukanlah|minoritas|yang|terlihat	NN|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O|O	||15.0||24.0|||||	15.0		24.0		
+5	1	fb:cell_jumlah_wanita.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+5	2	fb:cell_laki_laki_total.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+5	3	fb:cell_wanita_kelahiran_kanada.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+5	4	fb:cell_pria_kelahiran_kanada.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+5	5	fb:cell_wanita_imigran.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+5	6	fb:cell_laki_laki_imigran.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+6	0	fb:cell_kharakteristik.persentase_usia_25_hingga_54_tahun	persentase usia 25 hingga 54 tahun	persentase|usia|25|hingga|54|tahun	persentase|usia|25|hingga|54|tahun	NN|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||25.0||54.0|	25.0		54.0		
+6	1	fb:cell_jumlah_wanita.null											
+6	2	fb:cell_laki_laki_total.null											
+6	3	fb:cell_wanita_kelahiran_kanada.null											
+6	4	fb:cell_pria_kelahiran_kanada.null											
+6	5	fb:cell_wanita_imigran.null											
+6	6	fb:cell_laki_laki_imigran.null											
+7	0	fb:cell_kharakteristik.persentase_usia_25_hingga_54_tahun_minoritas_yang_terlihat	persentase usia 25 hingga 54 tahun minoritas yang terlihat	persentase|usia|25|hingga|54|tahun|minoritas|yang|terlihat	persentase|usia|25|hingga|54|tahun|minoritas|yang|terlihat	NN|NNP|CD|NN|CD|NN|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O	||25.0||54.0||||	25.0		54.0		
+7	1	fb:cell_jumlah_wanita.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+7	2	fb:cell_laki_laki_total.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+7	3	fb:cell_wanita_kelahiran_kanada.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+7	4	fb:cell_pria_kelahiran_kanada.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+7	5	fb:cell_wanita_imigran.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+7	6	fb:cell_laki_laki_imigran.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+8	0	fb:cell_kharakteristik.persentase_usia_25_hingga_54_tahun_bukanlah_minoritas_yang_terlihat	persentase usia 25 hingga 54 tahun bukanlah minoritas yang terlihat	persentase|usia|25|hingga|54|tahun|bukanlah|minoritas|yang|terlihat	persentase|usia|25|hingga|54|tahun|bukanlah|minoritas|yang|terlihat	NN|NNP|CD|NN|CD|NN|NN|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O|O	||25.0||54.0|||||	25.0		54.0		
+8	1	fb:cell_jumlah_wanita.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+8	2	fb:cell_laki_laki_total.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+8	3	fb:cell_wanita_kelahiran_kanada.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+8	4	fb:cell_pria_kelahiran_kanada.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+8	5	fb:cell_wanita_imigran.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+8	6	fb:cell_laki_laki_imigran.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+9	0	fb:cell_kharakteristik.persentase_usia_55_hingga_64_tahun	persentase usia 55 hingga 64 tahun	persentase|usia|55|hingga|64|tahun	persentase|usia|55|hingga|64|tahun	NN|NNP|CD|NNP|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||55.0||64.0|	55.0		64.0		
+9	1	fb:cell_jumlah_wanita.null											
+9	2	fb:cell_laki_laki_total.null											
+9	3	fb:cell_wanita_kelahiran_kanada.null											
+9	4	fb:cell_pria_kelahiran_kanada.null											
+9	5	fb:cell_wanita_imigran.null											
+9	6	fb:cell_laki_laki_imigran.null											
+10	0	fb:cell_kharakteristik.persentase_usia_55_hingga_64_tahun_minoritas_yang_terlihat	persentase usia 55 hingga 64 tahun minoritas yang terlihat	persentase|usia|55|hingga|64|tahun|minoritas|yang|terlihat	persentase|usia|55|hingga|64|tahun|minoritas|yang|terlihat	NN|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP	O|ORGANIZATION|NUMBER|O|NUMBER|O|O|O|O	||55.0||64.0||||	55.0		64.0		
+10	1	fb:cell_jumlah_wanita.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+10	2	fb:cell_laki_laki_total.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+10	3	fb:cell_wanita_kelahiran_kanada.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+10	4	fb:cell_pria_kelahiran_kanada.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+10	5	fb:cell_wanita_imigran.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+10	6	fb:cell_laki_laki_imigran.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+11	0	fb:cell_kharakteristik.persentase_usia_55_hingga_64_tahun_bukanlah_minoritas_yang_terlihat	persentase usia 55 hingga 64 tahun bukanlah minoritas yang terlihat	persentase|usia|55|hingga|64|tahun|bukanlah|minoritas|yang|terlihat	persentase|usia|55|hingga|64|tahun|bukanlah|minoritas|yang|terlihat	NN|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|ORGANIZATION|NUMBER|O|NUMBER|O|O|O|O|O	||55.0||64.0|||||	55.0		64.0		
+11	1	fb:cell_jumlah_wanita.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+11	2	fb:cell_laki_laki_total.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+11	3	fb:cell_wanita_kelahiran_kanada.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+11	4	fb:cell_pria_kelahiran_kanada.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+11	5	fb:cell_wanita_imigran.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+11	6	fb:cell_laki_laki_imigran.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+12	0	fb:cell_kharakteristik.persentase_usia_65_tahun_ke_atas	persentase usia 65 tahun ke atas	persentase|usia|65|tahun|ke|atas	persentase|usia|65|tahun|ke|atas	NN|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||65.0|||	65.0				
+12	1	fb:cell_jumlah_wanita.null											
+12	2	fb:cell_laki_laki_total.null											
+12	3	fb:cell_wanita_kelahiran_kanada.null											
+12	4	fb:cell_pria_kelahiran_kanada.null											
+12	5	fb:cell_wanita_imigran.null											
+12	6	fb:cell_laki_laki_imigran.null											
+13	0	fb:cell_kharakteristik.persentase_usia_65_tahun_ke_atas_merupakan_minoritas_yang_terlihat	persentase usia 65 tahun ke atas merupakan minoritas yang terlihat	persentase|usia|65|tahun|ke|atas|merupakan|minoritas|yang|terlihat	persentase|usia|65|tahun|ke|atas|merupakan|minoritas|yang|terlihat	NN|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O|O|O	||65.0|||||||	65.0				
+13	1	fb:cell_jumlah_wanita.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+13	2	fb:cell_laki_laki_total.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+13	3	fb:cell_wanita_kelahiran_kanada.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+13	4	fb:cell_pria_kelahiran_kanada.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+13	5	fb:cell_wanita_imigran.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+13	6	fb:cell_laki_laki_imigran.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+14	0	fb:cell_kharakteristik.persentase_usia_65_tahun_ke_atas_bukanlah_minoritas_yang_terlihat	persentase usia 65 tahun ke atas bukanlah minoritas yang terlihat	persentase|usia|65|tahun|ke|atas|bukanlah|minoritas|yang|terlihat	persentase|usia|65|tahun|ke|atas|bukanlah|minoritas|yang|terlihat	NN|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O|O|O	||65.0|||||||	65.0				
+14	1	fb:cell_jumlah_wanita.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+14	2	fb:cell_laki_laki_total.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+14	3	fb:cell_wanita_kelahiran_kanada.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+14	4	fb:cell_pria_kelahiran_kanada.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+14	5	fb:cell_wanita_imigran.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+14	6	fb:cell_laki_laki_imigran.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				

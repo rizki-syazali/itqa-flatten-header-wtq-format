@@ -1,0 +1,136 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan	persentase penduduk berusia 17 hingga 64 tahun yang bekerja penuh waktu sebagai karyawan	persentase|penduduk|berusia|17|hingga|64|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan	persentase|penduduk|berusia|17|hingga|64|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan	NN|NN|NN|CD|NN|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O	|||17.0||64.0|||||||					
+-1	2	fb:row.row.persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta	persentase penduduk berusia 17 hingga 64 tahun yang bekerja penuh waktu sebagai karyawan atau wiraswasta	persentase|penduduk|berusia|17|hingga|64|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan|atau|wiraswasta	persentase|penduduk|berusia|17|hingga|64|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan|atau|wiraswasta	NN|NN|NN|CD|NN|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O|O|O	|||17.0||64.0|||||||||					
+-1	3	fb:row.row.persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan	persentase penduduk berusia 25 hingga 54 tahun yang bekerja penuh waktu sebagai karyawan	persentase|penduduk|berusia|25|hingga|54|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan	persentase|penduduk|berusia|25|hingga|54|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan	NN|NN|NN|CD|NN|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O	|||25.0||54.0|||||||					
+-1	4	fb:row.row.persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta	persentase penduduk berusia 25 hingga 54 tahun yang bekerja penuh waktu sebagai karyawan atau wiraswasta	persentase|penduduk|berusia|25|hingga|54|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan|atau|wiraswasta	persentase|penduduk|berusia|25|hingga|54|tahun|yang|bekerja|penuh|waktu|sebagai|karyawan|atau|wiraswasta	NN|NN|NN|CD|NN|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O|O|O	|||25.0||54.0|||||||||					
+0	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin	persen kedua jenis kelamin	persen|kedua|jenis|kelamin	persen|kedua|jenis|kelamin	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.null											
+0	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.null											
+0	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.null											
+0	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.null											
+1	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_1976	persen kedua jenis kelamin 1976	persen|kedua|jenis|kelamin|1976	persen|kedua|jenis|kelamin|1976	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||1976	1976.0				
+1	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.55_1	55.1	55.1	55.1	CD	NUMBER	55.1	55.1				
+1	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.62_1	62.1	62.1	62.1	CD	NUMBER	62.1	62.1				
+1	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.55_7	55.7	55.7	55.7	CD	NUMBER	55.7	55.7				
+1	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+2	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_1981	persen kedua jenis kelamin 1981	persen|kedua|jenis|kelamin|1981	persen|kedua|jenis|kelamin|1981	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||1981	1981.0				
+2	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+2	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.63_6	63.6	63.6	63.6	CD	NUMBER	63.6	63.6				
+2	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.57_7	57.7	57.7	57.7	CD	NUMBER	57.7	57.7				
+2	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.66_6	66.6	66.6	66.6	CD	NUMBER	66.6	66.6				
+3	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_pada_tahun_1989	persen kedua jenis kelamin pada tahun 1989	persen|kedua|jenis|kelamin|pada|tahun|1989	persen|kedua|jenis|kelamin|pada|tahun|1989	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||1989	1989.0				
+3	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.56_8	56.8	56.8	56.8	CD	NUMBER	56.8	56.8				
+3	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.65_4	65.4	65.4	65.4	CD	NUMBER	65.4	65.4				
+3	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.60_6	60.6	60.6	60.6	CD	NUMBER	60.6	60.6				
+3	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.70_4	70.4	70.4	70.4	CD	NUMBER	70.4	70.4				
+4	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_pada_tahun_1992	persen kedua jenis kelamin pada tahun 1992	persen|kedua|jenis|kelamin|pada|tahun|1992	persen|kedua|jenis|kelamin|pada|tahun|1992	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||1992	1992.0				
+4	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.52_3	52.3	52.3	52.3	CD	NUMBER	52.3	52.3				
+4	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+4	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+4	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.66_8	66.8	66.8	66.8	CD	NUMBER	66.8	66.8				
+5	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_pada_tahun_1995	persen kedua jenis kelamin pada tahun 1995	persen|kedua|jenis|kelamin|pada|tahun|1995	persen|kedua|jenis|kelamin|pada|tahun|1995	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||1995	1995.0				
+5	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+5	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.61_7	61.7	61.7	61.7	CD	NUMBER	61.7	61.7				
+5	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.57_7	57.7	57.7	57.7	CD	NUMBER	57.7	57.7				
+5	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.67_9	67.9	67.9	67.9	CD	NUMBER	67.9	67.9				
+6	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_pada_tahun_1997	persen kedua jenis kelamin pada tahun 1997	persen|kedua|jenis|kelamin|pada|tahun|1997	persen|kedua|jenis|kelamin|pada|tahun|1997	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||1997	1997.0				
+6	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.52_2	52.2	52.2	52.2	CD	NUMBER	52.2	52.2				
+6	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.62_1	62.1	62.1	62.1	CD	NUMBER	62.1	62.1				
+6	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+6	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+7	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_pada_tahun_2007	persen kedua jenis kelamin pada tahun 2007	persen|kedua|jenis|kelamin|pada|tahun|2007	persen|kedua|jenis|kelamin|pada|tahun|2007	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2007	2007.0				
+7	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+7	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+7	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+7	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.74_3	74.3	74.3	74.3	CD	NUMBER	74.3	74.3				
+8	0	fb:cell_kharakteristik.persen_kedua_jenis_kelamin_pada_tahun_2014	persen kedua jenis kelamin pada tahun 2014	persen|kedua|jenis|kelamin|pada|tahun|2014	persen|kedua|jenis|kelamin|pada|tahun|2014	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2014	2014.0				
+8	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.56_8	56.8	56.8	56.8	CD	NUMBER	56.8	56.8				
+8	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.65_8	65.8	65.8	65.8	CD	NUMBER	65.8	65.8				
+8	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.63_4	63.4	63.4	63.4	CD	NUMBER	63.4	63.4				
+8	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.73_1	73.1	73.1	73.1	CD	NUMBER	73.1	73.1				
+9	0	fb:cell_kharakteristik.persen_laki_laki	persen laki-laki	persen|laki|laki	persen|laki|laki	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.null											
+9	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.null											
+9	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.null											
+9	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.null											
+10	0	fb:cell_kharakteristik.persen_laki_laki_1976	persen laki-laki 1976	persen|laki|laki|1976	persen|laki|laki|1976	NNP|NNP|NNP|CD	O|O|O|DATE	|||1976	1976.0				
+10	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.72_8	72.8	72.8	72.8	CD	NUMBER	72.8	72.8				
+10	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.84_4	84.4	84.4	84.4	CD	NUMBER	84.4	84.4				
+10	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.76_2	76.2	76.2	76.2	CD	NUMBER	76.2	76.2				
+10	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.89_8	89.8	89.8	89.8	CD	NUMBER	89.8	89.8				
+11	0	fb:cell_kharakteristik.persen_pria_1981	persen pria 1981	persen|pria|1981	persen|pria|1981	NNP|NNP|CD	O|O|DATE	||1981	1981.0				
+11	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+11	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.82_9	82.9	82.9	82.9	CD	NUMBER	82.9	82.9				
+11	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.74_2	74.2	74.2	74.2	CD	NUMBER	74.2	74.2				
+11	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.88_5	88.5	88.5	88.5	CD	NUMBER	88.5	88.5				
+12	0	fb:cell_kharakteristik.persen_laki_laki_1989	persen laki-laki 1989	persen|laki|laki|1989	persen|laki|laki|1989	NNP|NNP|NNP|CD	O|O|O|DATE	|||1989	1989.0				
+12	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.67_1	67.1	67.1	67.1	CD	NUMBER	67.1	67.1				
+12	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.80_2	80.2	80.2	80.2	CD	NUMBER	80.2	80.2				
+12	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.71_4	71.4	71.4	71.4	CD	NUMBER	71.4	71.4				
+12	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.86_2	86.2	86.2	86.2	CD	NUMBER	86.2	86.2				
+13	0	fb:cell_kharakteristik.persen_laki_laki_1992	persen laki-laki 1992	persen|laki|laki|1992	persen|laki|laki|1992	NNP|NNP|NNP|CD	O|O|O|DATE	|||1992	1992.0				
+13	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.59_9	59.9	59.9	59.9	CD	NUMBER	59.9	59.9				
+13	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+13	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.65_2	65.2	65.2	65.2	CD	NUMBER	65.2	65.2				
+13	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.79_8	79.8	79.8	79.8	CD	NUMBER	79.8	79.8				
+14	0	fb:cell_kharakteristik.persen_laki_laki_1995	persen laki-laki 1995	persen|laki|laki|1995	persen|laki|laki|1995	NNP|NNP|NNP|CD	O|O|O|DATE	|||1995	1995.0				
+14	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.60_6	60.6	60.6	60.6	CD	NUMBER	60.6	60.6				
+14	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+14	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.66_1	66.1	66.1	66.1	CD	NUMBER	66.1	66.1				
+14	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.80_9	80.9	80.9	80.9	CD	NUMBER	80.9	80.9				
+15	0	fb:cell_kharakteristik.persen_laki_laki_1997	persen laki-laki 1997	persen|laki|laki|1997	persen|laki|laki|1997	NNP|NNP|NNP|CD	O|O|O|DATE	|||1997	1997.0				
+15	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.60_1	60.1	60.1	60.1	CD	NUMBER	60.1	60.1				
+15	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.74_6	74.6	74.6	74.6	CD	NUMBER	74.6	74.6				
+15	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+15	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.81_3	81.3	81.3	81.3	CD	NUMBER	81.3	81.3				
+16	0	fb:cell_kharakteristik.persen_pria_2007	persen pria 2007	persen|pria|2007	persen|pria|2007	NNP|NNP|CD	O|O|DATE	||2007	2007.0				
+16	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.62_8	62.8	62.8	62.8	CD	NUMBER	62.8	62.8				
+16	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.76_9	76.9	76.9	76.9	CD	NUMBER	76.9	76.9				
+16	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.68_4	68.4	68.4	68.4	CD	NUMBER	68.4	68.4				
+16	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.83_8	83.8	83.8	83.8	CD	NUMBER	83.8	83.8				
+17	0	fb:cell_kharakteristik.persen_pria_tahun_2014	persen pria tahun 2014	persen|pria|tahun|2014	persen|pria|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014	2014.0				
+17	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+17	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.74_2	74.2	74.2	74.2	CD	NUMBER	74.2	74.2				
+17	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.68_4	68.4	68.4	68.4	CD	NUMBER	68.4	68.4				
+17	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+18	0	fb:cell_kharakteristik.persen_perempuan	persen perempuan	persen|perempuan	persen|perempuan	NNP|NNP	O|O	|					
+18	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.null											
+18	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.null											
+18	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.null											
+18	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.null											
+19	0	fb:cell_kharakteristik.persen_perempuan_1976	persen perempuan 1976	persen|perempuan|1976	persen|perempuan|1976	NNP|NNP|CD	O|O|DATE	||1976	1976.0				
+19	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.37_7	37.7	37.7	37.7	CD	NUMBER	37.7	37.7				
+19	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.40_2	40.2	40.2	40.2	CD	NUMBER	40.2	40.2				
+19	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.35_2	35.2	35.2	35.2	CD	NUMBER	35.2	35.2				
+19	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+20	0	fb:cell_kharakteristik.persen_perempuan_1981	persen perempuan 1981	persen|perempuan|1981	persen|perempuan|1981	NNP|NNP|CD	O|O|DATE	||1981	1981.0				
+20	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.41_7	41.7	41.7	41.7	CD	NUMBER	41.7	41.7				
+20	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.44_4	44.4	44.4	44.4	CD	NUMBER	44.4	44.4				
+20	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+20	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.44_5	44.5	44.5	44.5	CD	NUMBER	44.5	44.5				
+21	0	fb:cell_kharakteristik.persen_perempuan_1989	persen perempuan 1989	persen|perempuan|1989	persen|perempuan|1989	NNP|NNP|CD	O|O|DATE	||1989	1989.0				
+21	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.46_6	46.6	46.6	46.6	CD	NUMBER	46.6	46.6				
+21	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+21	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.49_7	49.7	49.7	49.7	CD	NUMBER	49.7	49.7				
+21	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.54_6	54.6	54.6	54.6	CD	NUMBER	54.6	54.6				
+22	0	fb:cell_kharakteristik.persen_perempuan_1992	persen perempuan 1992	persen|perempuan|1992	persen|perempuan|1992	NNP|NNP|CD	O|O|DATE	||1992	1992.0				
+22	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.44_7	44.7	44.7	44.7	CD	NUMBER	44.7	44.7				
+22	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+22	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.48_9	48.9	48.9	48.9	CD	NUMBER	48.9	48.9				
+22	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.53_8	53.8	53.8	53.8	CD	NUMBER	53.8	53.8				
+23	0	fb:cell_kharakteristik.persen_perempuan_1997	persen perempuan 1997	persen|perempuan|1997	persen|perempuan|1997	NNP|NNP|CD	O|O|DATE	||1997	1997.0				
+23	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.44_2	44.2	44.2	44.2	CD	NUMBER	44.2	44.2				
+23	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.49_6	49.6	49.6	49.6	CD	NUMBER	49.6	49.6				
+23	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.49_2	49.2	49.2	49.2	CD	NUMBER	49.2	49.2				
+23	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.55_4	55.4	55.4	55.4	CD	NUMBER	55.4	55.4				
+24	0	fb:cell_kharakteristik.persen_perempuan_pada_tahun_2007	persen perempuan pada tahun 2007	persen|perempuan|pada|tahun|2007	persen|perempuan|pada|tahun|2007	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2007	2007.0				
+24	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.52_4	52.4	52.4	52.4	CD	NUMBER	52.4	52.4				
+24	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.58_2	58.2	58.2	58.2	CD	NUMBER	58.2	58.2				
+24	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.58_2	58.2	58.2	58.2	CD	NUMBER	58.2	58.2				
+24	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.64_7	64.7	64.7	64.7	CD	NUMBER	64.7	64.7				
+25	0	fb:cell_kharakteristik.persen_perempuan_pada_tahun_2014	persen perempuan pada tahun 2014	persen|perempuan|pada|tahun|2014	persen|perempuan|pada|tahun|2014	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2014	2014.0				
+25	1	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+25	2	fb:cell_persentase_penduduk_berusia_17_hingga_64_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.57_4	57.4	57.4	57.4	CD	NUMBER	57.4	57.4				
+25	3	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan.58_4	58.4	58.4	58.4	CD	NUMBER	58.4	58.4				
+25	4	fb:cell_persentase_penduduk_berusia_25_hingga_54_tahun_yang_bekerja_penuh_waktu_sebagai_karyawan_atau_wiraswasta.64_2	64.2	64.2	64.2	CD	NUMBER	64.2	64.2				

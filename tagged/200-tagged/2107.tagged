@@ -1,0 +1,91 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.metis_ashr	metis ashr	metis|ashr	metis|ashr	NNP|NNP	O|O	|					
+-1	2	fb:row.row.memenuhi_interval_kepercayaan_95_dari	memenuhi interval kepercayaan 95% dari	memenuhi|interval|kepercayaan|95|%|dari	memenuhi|interval|kepercayaan|95|%|dari	NNP|NN|NN|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	3	fb:row.row.memenuhi_interval_kepercayaan_95_untuk	memenuhi interval kepercayaan 95% untuk	memenuhi|interval|kepercayaan|95|%|untuk	memenuhi|interval|kepercayaan|95|%|untuk	NNP|NN|NN|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	4	fb:row.row.ashr_non_aborigin	ashr non-aborigin	ashr|non|aborigin	ashr|non|aborigin	NNP|JJ|NN	O|O|O	||					
+-1	5	fb:row.row.interval_kepercayaan_non_aborigin_95_dari	interval kepercayaan non-aborigin 95% dari	interval|kepercayaan|non|aborigin|95|%|dari	interval|kepercayaan|non|aborigin|95|%|dari	NN|NN|JJ|NN|CD|NN|NNP	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	6	fb:row.row.interval_kepercayaan_non_aborigin_95_menjadi	interval kepercayaan non-aborigin 95% menjadi	interval|kepercayaan|non|aborigin|95|%|menjadi	interval|kepercayaan|non|aborigin|95|%|menjadi	NN|NN|JJ|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	7	fb:row.row.rasio_tarif_rr	rasio tarif rr	rasio|tarif|rr	rasio|tarif|rr	NNP|NNP|NNP	PERSON|O|O	||					
+-1	8	fb:row.row.rasio_tingkat_interval_kepercayaan_95_dari	rasio tingkat interval kepercayaan 95% dari	rasio|tingkat|interval|kepercayaan|95|%|dari	rasio|tingkat|interval|kepercayaan|95|%|dari	NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	9	fb:row.row.rasio_tingkat_interval_kepercayaan_95_hingga	rasio tingkat interval kepercayaan 95% hingga	rasio|tingkat|interval|kepercayaan|95|%|hingga	rasio|tingkat|interval|kepercayaan|95|%|hingga	NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.semua_penyebab	semua penyebab	semua|penyebab	semua|penyebab	NN|NN	O|O	|					
+0	1	fb:cell_metis_ashr.4867_0	4867.0	4867.0	4867.0	CD	NUMBER	4867.0	4867.0				
+0	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.4736_0	4736.0	4736.0	4736.0	CD	NUMBER	4736.0	4736.0				
+0	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.5002_0	5002.0	5002.0	5002.0	CD	NUMBER	5002.0	5002.0				
+0	4	fb:cell_ashr_non_aborigin.3128_0	3128.0	3128.0	3128.0	CD	NUMBER	3128.0	3128.0				
+0	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.3115_0	3115.0	3115.0	3115.0	CD	NUMBER	3115.0	3115.0				
+0	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.3141_0	3141.0	3141.0	3141.0	CD	NUMBER	3141.0	3141.0				
+0	7	fb:cell_rasio_tarif_rr.1_56	1.56	1.56	1.56	CD	NUMBER	1.56	1.56				
+0	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.1_51	1.51	1.51	1.51	CD	NUMBER	1.51	1.51				
+0	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+1	0	fb:cell_kharakteristik.kondisi_sensitif_perawatan_rawat_jalan	kondisi sensitif perawatan rawat jalan	kondisi|sensitif|perawatan|rawat|jalan	kondisi|sensitif|perawatan|rawat|jalan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_metis_ashr.393_0	393.0	393.0	393.0	CD	NUMBER	393.0	393.0				
+1	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.362_0	362.0	362.0	362.0	CD	NUMBER	362.0	362.0				
+1	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.428_0	428.0	428.0	428.0	CD	NUMBER	428.0	428.0				
+1	4	fb:cell_ashr_non_aborigin.184_0	184.0	184.0	184.0	CD	NUMBER	184.0	184.0				
+1	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.181_0	181.0	181.0	181.0	CD	NUMBER	181.0	181.0				
+1	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+1	7	fb:cell_rasio_tarif_rr.2_14	2.14	2.14	2.14	CD	NUMBER	2.14	2.14				
+1	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.1_96	1.96	1.96	1.96	CD	NUMBER	1.96	1.96				
+1	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.2_33	2.33	2.33	2.33	CD	NUMBER	2.33	2.33				
+2	0	fb:cell_kharakteristik.diabetes	diabetes	diabetes	diabetes	NN	O						
+2	1	fb:cell_metis_ashr.110_0	110.0	110.0	110.0	CD	NUMBER	110.0	110.0				
+2	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+2	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.131_0	131.0	131.0	131.0	CD	NUMBER	131.0	131.0				
+2	4	fb:cell_ashr_non_aborigin.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+2	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+2	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+2	7	fb:cell_rasio_tarif_rr.2_75	2.75	2.75	2.75	CD	NUMBER	2.75	2.75				
+2	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.2_31	2.31	2.31	2.31	CD	NUMBER	2.31	2.31				
+2	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.3_28	3.28	3.28	3.28	CD	NUMBER	3.28	3.28				
+3	0	fb:cell_kharakteristik.penyakit_paru_obstruktif_kronis	penyakit paru obstruktif kronis	penyakit|paru|obstruktif|kronis	penyakit|paru|obstruktif|kronis	NN|NN|NN|NN	O|O|O|O	|||					
+3	1	fb:cell_metis_ashr.126_0	126.0	126.0	126.0	CD	NUMBER	126.0	126.0				
+3	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.111_0	111.0	111.0	111.0	CD	NUMBER	111.0	111.0				
+3	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.144_0	144.0	144.0	144.0	CD	NUMBER	144.0	144.0				
+3	4	fb:cell_ashr_non_aborigin.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+3	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+3	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+3	7	fb:cell_rasio_tarif_rr.2_36	2.36	2.36	2.36	CD	NUMBER	2.36	2.36				
+3	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.2_07	2.07	2.07	2.07	CD	NUMBER	2.07	2.07				
+3	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+4	0	fb:cell_kharakteristik.asma	asma	asma	asma	NNP	O						
+4	1	fb:cell_metis_ashr.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+4	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+4	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+4	4	fb:cell_ashr_non_aborigin.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+4	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+4	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+4	7	fb:cell_rasio_tarif_rr.2_35	2.35	2.35	2.35	CD	NUMBER	2.35	2.35				
+4	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+4	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.3_72	3.72	3.72	3.72	CD	NUMBER	3.72	3.72				
+5	0	fb:cell_kharakteristik.angina	angina	angina	angina	NN	O						
+5	1	fb:cell_metis_ashr.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+5	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+5	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+5	4	fb:cell_ashr_non_aborigin.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+5	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+5	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+5	7	fb:cell_rasio_tarif_rr.1_73	1.73	1.73	1.73	CD	NUMBER	1.73	1.73				
+5	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.1_39	1.39	1.39	1.39	CD	NUMBER	1.39	1.39				
+5	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.2_14	2.14	2.14	2.14	CD	NUMBER	2.14	2.14				
+6	0	fb:cell_kharakteristik.status_grand_mal_dan_kejang_epilepsi_lainnya	status grand mal dan kejang epilepsi lainnya	status|grand|mal|dan|kejang|epilepsi|lainnya	status|grand|mal|dan|kejang|epilepsi|lainnya	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON|PERSON|PERSON	||||||					
+6	1	fb:cell_metis_ashr.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+6	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+6	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+6	4	fb:cell_ashr_non_aborigin.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+6	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+6	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+6	7	fb:cell_rasio_tarif_rr.1_73	1.73	1.73	1.73	CD	NUMBER	1.73	1.73				
+6	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+6	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.2_64	2.64	2.64	2.64	CD	NUMBER	2.64	2.64				
+7	0	fb:cell_kharakteristik.gagal_jantung_dan_edema_paru	gagal jantung dan edema paru	gagal|jantung|dan|edema|paru	gagal|jantung|dan|edema|paru	JJ|NNP|NNP|NN|NN	O|O|O|O|O	||||					
+7	1	fb:cell_metis_ashr.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+7	2	fb:cell_memenuhi_interval_kepercayaan_95_dari.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+7	3	fb:cell_memenuhi_interval_kepercayaan_95_untuk.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+7	4	fb:cell_ashr_non_aborigin.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+7	5	fb:cell_interval_kepercayaan_non_aborigin_95_dari.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+7	6	fb:cell_interval_kepercayaan_non_aborigin_95_menjadi.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+7	7	fb:cell_rasio_tarif_rr.1_63	1.63	1.63	1.63	CD	NUMBER	1.63	1.63				
+7	8	fb:cell_rasio_tingkat_interval_kepercayaan_95_dari.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				
+7	9	fb:cell_rasio_tingkat_interval_kepercayaan_95_hingga.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				

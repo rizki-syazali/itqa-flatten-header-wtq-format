@@ -1,0 +1,50 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat	perempuan dengan disabilitas ringan, sedang, berat, atau sangat berat	perempuan|dengan|disabilitas|ringan|,|sedang|,|berat|,|atau|sangat|berat	perempuan|dengan|disabilita|ringan|,|sedang|,|berat|,|atau|sangat|berat	NNP|NNP|VBZ|NN|,|NNP|,|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|LOCATION|O|O|O|O	|||||||||||					
+-1	2	fb:row.row.perempuan_dengan_disabilitas_ringan_atau_sedang	perempuan dengan disabilitas ringan atau sedang	perempuan|dengan|disabilitas|ringan|atau|sedang	perempuan|dengan|disabilita|ringan|atau|sedang	NNP|NNP|VBZ|JJ|NN|NN	O|O|O|O|O|O	|||||					
+-1	3	fb:row.row.cacat_berat_atau_sangat_berat_pada_perempuan	cacat berat atau sangat berat pada perempuan	cacat|berat|atau|sangat|berat|pada|perempuan	cacat|berat|atau|sangat|berat|pada|perempuan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat	laki-laki cacat ringan, sedang, berat, atau sangat berat	laki|laki|cacat|ringan|,|sedang|,|berat|,|atau|sangat|berat	laki|laki|cacat|ringan|,|sedang|,|berat|,|atau|sangat|berat	NNP|NNP|NNP|NNP|,|NNP|,|NNP|,|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|LOCATION|O|O|O|O	|||||||||||					
+-1	5	fb:row.row.laki_laki_cacat_ringan_atau_sedang	laki-laki cacat ringan atau sedang	laki|laki|cacat|ringan|atau|sedang	laki|laki|cacat|ringan|atau|sedang	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O	|||||					
+-1	6	fb:row.row.laki_laki_cacat_parah_atau_sangat_parah	laki-laki cacat parah atau sangat parah	laki|laki|cacat|parah|atau|sangat|parah	laki|laki|cacat|parah|atau|sangat|parah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.persen_penggunaan_alat_bantu_atau_alat_bantu_pendengaran	persen penggunaan alat bantu atau alat bantu pendengaran	persen|penggunaan|alat|bantu|atau|alat|bantu|pendengaran	persen|penggunaan|alat|bantu|atau|alat|bantu|pendengaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	1	fb:cell_perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat.47_1	47.1	47.1	47.1	CD	NUMBER	47.1	47.1				
+0	2	fb:cell_perempuan_dengan_disabilitas_ringan_atau_sedang.46_6	46.6	46.6	46.6	CD	NUMBER	46.6	46.6				
+0	3	fb:cell_cacat_berat_atau_sangat_berat_pada_perempuan.47_4	47.4	47.4	47.4	CD	NUMBER	47.4	47.4				
+0	4	fb:cell_laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat.52_5	52.5	52.5	52.5	CD	NUMBER	52.5	52.5				
+0	5	fb:cell_laki_laki_cacat_ringan_atau_sedang.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+0	6	fb:cell_laki_laki_cacat_parah_atau_sangat_parah.53_9	53.9	53.9	53.9	CD	NUMBER	53.9	53.9				
+1	0	fb:cell_kharakteristik.persen_penggunaan_alat_bantu_atau_alat_bantu_untuk_melihat	persen penggunaan alat bantu atau alat bantu untuk melihat	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|melihat	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|melihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+1	2	fb:cell_perempuan_dengan_disabilitas_ringan_atau_sedang.62_2	62.2	62.2	62.2	CD	NUMBER	62.2	62.2				
+1	3	fb:cell_cacat_berat_atau_sangat_berat_pada_perempuan.74_3	74.3	74.3	74.3	CD	NUMBER	74.3	74.3				
+1	4	fb:cell_laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat.64_3	64.3	64.3	64.3	CD	NUMBER	64.3	64.3				
+1	5	fb:cell_laki_laki_cacat_ringan_atau_sedang.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+1	6	fb:cell_laki_laki_cacat_parah_atau_sangat_parah.68_5	68.5	68.5	68.5	CD	NUMBER	68.5	68.5				
+2	0	fb:cell_kharakteristik.persen_penggunaan_alat_bantu_atau_alat_bantu_untuk_membantu_mobilitas_atau_ketangkasan	persen penggunaan alat bantu atau alat bantu untuk membantu mobilitas atau ketangkasan	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|membantu|mobilitas|atau|ketangkasan	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|membantu|mobilitas|atau|ketangkasan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+2	1	fb:cell_perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat.80_5	80.5	80.5	80.5	CD	NUMBER	80.5	80.5				
+2	2	fb:cell_perempuan_dengan_disabilitas_ringan_atau_sedang.70_3	70.3	70.3	70.3	CD	NUMBER	70.3	70.3				
+2	3	fb:cell_cacat_berat_atau_sangat_berat_pada_perempuan.87_4	87.4	87.4	87.4	CD	NUMBER	87.4	87.4				
+2	4	fb:cell_laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+2	5	fb:cell_laki_laki_cacat_ringan_atau_sedang.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+2	6	fb:cell_laki_laki_cacat_parah_atau_sangat_parah.83_4	83.4	83.4	83.4	CD	NUMBER	83.4	83.4				
+3	0	fb:cell_kharakteristik.persen_penggunaan_alat_bantu_atau_alat_bantu_untuk_membantu_pembelajaran	persen penggunaan alat bantu atau alat bantu untuk membantu pembelajaran	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|membantu|pembelajaran	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|membantu|pembelajaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+3	1	fb:cell_perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat.29_3	29.3	29.3	29.3	CD	NUMBER	29.3	29.3				
+3	2	fb:cell_perempuan_dengan_disabilitas_ringan_atau_sedang.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+3	3	fb:cell_cacat_berat_atau_sangat_berat_pada_perempuan.27_6	27.6	27.6	27.6	CD	NUMBER	27.6	27.6				
+3	4	fb:cell_laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat.26_2	26.2	26.2	26.2	CD	NUMBER	26.2	26.2				
+3	5	fb:cell_laki_laki_cacat_ringan_atau_sedang.26_1	26.1	26.1	26.1	CD	NUMBER	26.1	26.1				
+3	6	fb:cell_laki_laki_cacat_parah_atau_sangat_parah.26_2	26.2	26.2	26.2	CD	NUMBER	26.2	26.2				
+4	0	fb:cell_kharakteristik.persen_penggunaan_alat_bantu_atau_alat_bantu_untuk_membantu_kondisi_lain	persen penggunaan alat bantu atau alat bantu untuk membantu kondisi lain	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|membantu|kondisi|lain	persen|penggunaan|alat|bantu|atau|alat|bantu|untuk|membantu|kondisi|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+4	1	fb:cell_perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat.55_9	55.9	55.9	55.9	CD	NUMBER	55.9	55.9				
+4	2	fb:cell_perempuan_dengan_disabilitas_ringan_atau_sedang.45_4	45.4	45.4	45.4	CD	NUMBER	45.4	45.4				
+4	3	fb:cell_cacat_berat_atau_sangat_berat_pada_perempuan.66_4	66.4	66.4	66.4	CD	NUMBER	66.4	66.4				
+4	4	fb:cell_laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+4	5	fb:cell_laki_laki_cacat_ringan_atau_sedang.43_5	43.5	43.5	43.5	CD	NUMBER	43.5	43.5				
+4	6	fb:cell_laki_laki_cacat_parah_atau_sangat_parah.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+5	0	fb:cell_kharakteristik.persen_penggunaan_obat_resep_setidaknya_sekali_seminggu	persen penggunaan obat resep setidaknya sekali seminggu	persen|penggunaan|obat|resep|setidaknya|sekali|seminggu	persen|penggunaan|obat|resep|setidaknya|sekali|seminggu	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_perempuan_dengan_disabilitas_ringan_sedang_berat_atau_sangat_berat.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+5	2	fb:cell_perempuan_dengan_disabilitas_ringan_atau_sedang.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+5	3	fb:cell_cacat_berat_atau_sangat_berat_pada_perempuan.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+5	4	fb:cell_laki_laki_cacat_ringan_sedang_berat_atau_sangat_berat.73_7	73.7	73.7	73.7	CD	NUMBER	73.7	73.7				
+5	5	fb:cell_laki_laki_cacat_ringan_atau_sedang.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+5	6	fb:cell_laki_laki_cacat_parah_atau_sangat_parah.82_7	82.7	82.7	82.7	CD	NUMBER	82.7	82.7				

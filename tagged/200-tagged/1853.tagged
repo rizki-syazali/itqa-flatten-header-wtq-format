@@ -1,0 +1,41 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kedua_jenis_kelamin	kedua jenis kelamin	kedua|jenis|kelamin	kedua|jenis|kelamin	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+-1	3	fb:row.row.wanita	wanita	wanita	wanita	NNP	PERSON						
+0	0	fb:cell_kharakteristik.persen_sebenarnya	persen sebenarnya	persen|sebenarnya	persen|sebenarnya	NNP|NNP	O|O	|					
+0	1	fb:cell_kedua_jenis_kelamin.null											
+0	2	fb:cell_laki_laki.null											
+0	3	fb:cell_wanita.null											
+1	0	fb:cell_kharakteristik.persen_aktual_tahun_1996	persen aktual tahun 1996	persen|aktual|tahun|1996	persen|aktual|tahun|1996	NNP|NNP|NNP|CD	O|O|O|DATE	|||1996	1996.0				
+1	1	fb:cell_kedua_jenis_kelamin.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+1	2	fb:cell_laki_laki.32_2	32.2	32.2	32.2	CD	NUMBER	32.2	32.2				
+1	3	fb:cell_wanita.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+2	0	fb:cell_kharakteristik.persen_aktual_tahun_2007	persen aktual tahun 2007	persen|aktual|tahun|2007	persen|aktual|tahun|2007	NNP|NNP|NNP|CD	O|O|O|DATE	|||2007	2007.0				
+2	1	fb:cell_kedua_jenis_kelamin.33_3	33.3	33.3	33.3	CD	NUMBER	33.3	33.3				
+2	2	fb:cell_laki_laki.40_1	40.1	40.1	40.1	CD	NUMBER	40.1	40.1				
+2	3	fb:cell_wanita.27_3	27.3	27.3	27.3	CD	NUMBER	27.3	27.3				
+3	0	fb:cell_kharakteristik.persen_aktual_tahun_2016	persen aktual tahun 2016	persen|aktual|tahun|2016	persen|aktual|tahun|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016	2016.0				
+3	1	fb:cell_kedua_jenis_kelamin.37_7	37.7	37.7	37.7	CD	NUMBER	37.7	37.7				
+3	2	fb:cell_laki_laki.43_5	43.5	43.5	43.5	CD	NUMBER	43.5	43.5				
+3	3	fb:cell_wanita.32_4	32.4	32.4	32.4	CD	NUMBER	32.4	32.4				
+4	0	fb:cell_kharakteristik.persen_2016_kontrafaktual	persen 2016 kontrafaktual	persen|2016|kontrafaktual	persen|2016|kontrafaktual	NNP|CD|NNP	O|DATE|O	|2016|	2016.0				
+4	1	fb:cell_kedua_jenis_kelamin.null											
+4	2	fb:cell_laki_laki.null											
+4	3	fb:cell_wanita.null											
+5	0	fb:cell_kharakteristik.persen_tahun_2016_kontrafaktual_dengan_struktur_umur_tahun_1996_saja	persen tahun 2016 kontrafaktual dengan struktur umur tahun 1996 saja	persen|tahun|2016|kontrafaktual|dengan|struktur|umur|tahun|1996|saja	persen|tahun|2016|kontrafaktual|dengan|struktur|umur|tahun|1996|saja	NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|DATE|O|O|O|O|O|DATE|O	||2016||||||1996|	2016.0		1996.0		
+5	1	fb:cell_kedua_jenis_kelamin.35_9	35.9	35.9	35.9	CD	NUMBER	35.9	35.9				
+5	2	fb:cell_laki_laki.42_6	42.6	42.6	42.6	CD	NUMBER	42.6	42.6				
+5	3	fb:cell_wanita.30_1	30.1	30.1	30.1	CD	NUMBER	30.1	30.1				
+6	0	fb:cell_kharakteristik.persen_tahun_2016_kontrafaktual_dengan_pendidikan_tahun_1996_saja	persen tahun 2016 kontrafaktual dengan pendidikan tahun 1996 saja	persen|tahun|2016|kontrafaktual|dengan|pendidikan|tahun|1996|saja	persen|tahun|2016|kontrafaktual|dengan|pendidikan|tahun|1996|saja	NNP|NNP|CD|NNP|NNP|NNP|NNP|CD|NNP	O|O|DATE|O|O|O|O|DATE|O	||2016|||||1996|	2016.0		1996.0		
+6	1	fb:cell_kedua_jenis_kelamin.30_6	30.6	30.6	30.6	CD	NUMBER	30.6	30.6				
+6	2	fb:cell_laki_laki.37_7	37.7	37.7	37.7	CD	NUMBER	37.7	37.7				
+6	3	fb:cell_wanita.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+7	0	fb:cell_kharakteristik.persen_tahun_2016_kontrafaktual_dengan_struktur_keluarga_tahun_1996_saja	persen tahun 2016 kontrafaktual dengan struktur keluarga tahun 1996 saja	persen|tahun|2016|kontrafaktual|dengan|struktur|keluarga|tahun|1996|saja	persen|tahun|2016|kontrafaktual|dengan|struktur|keluarga|tahun|1996|saja	NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|DATE|O|O|O|O|O|DATE|O	||2016||||||1996|	2016.0		1996.0		
+7	1	fb:cell_kedua_jenis_kelamin.33_7	33.7	33.7	33.7	CD	NUMBER	33.7	33.7				
+7	2	fb:cell_laki_laki.39_2	39.2	39.2	39.2	CD	NUMBER	39.2	39.2				
+7	3	fb:cell_wanita.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+8	0	fb:cell_kharakteristik.persen_tahun_2016_kontrafaktual_dengan_usia_keluarga_dan_struktur_pendidikan_tahun_1996	persen tahun 2016 kontrafaktual dengan usia, keluarga dan struktur pendidikan tahun 1996	persen|tahun|2016|kontrafaktual|dengan|usia|,|keluarga|dan|struktur|pendidikan|tahun|1996	persen|tahun|2016|kontrafaktual|dengan|usia|,|keluarga|dan|struktur|pendidikan|tahun|1996	NNP|NNP|CD|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|CD	O|O|DATE|O|O|O|O|O|O|O|O|O|DATE	||2016||||||||||1996	2016.0		1996.0	persen tahun 2016 kontrafaktual dengan usia|keluarga dan struktur pendidikan tahun 1996	fb:part_kharakteristik.persen_tahun_2016_kontrafaktual_dengan_usia|fb:part_kharakteristik.keluarga_dan_struktur_pendidikan_tahun_1996
+8	1	fb:cell_kedua_jenis_kelamin.31_6	31.6	31.6	31.6	CD	NUMBER	31.6	31.6				
+8	2	fb:cell_laki_laki.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+8	3	fb:cell_wanita.25_4	25.4	25.4	25.4	CD	NUMBER	25.4	25.4				

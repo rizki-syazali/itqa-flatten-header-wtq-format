@@ -1,0 +1,86 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1995_hingga_2000_poin_persentase_pertumbuhan_emfp	1995 hingga 2000 poin persentase pertumbuhan emfp	1995|hingga|2000|poin|persentase|pertumbuhan|emfp	1995|hingga|2000|poin|persentase|pertumbuhan|emfp	CD|NNP|CD|NNP|NNP|NNP|NNP	DATE|O|DATE|O|O|O|O	1995||2000||||					
+-1	2	fb:row.row.1995_hingga_2000_persen_kontribusi_relatif	1995 hingga 2000 persen kontribusi relatif	1995|hingga|2000|persen|kontribusi|relatif	1995|hingga|2000|persen|kontribusi|relatif	CD|NNP|CD|NNP|NNP|NN	DATE|O|DATE|O|O|O	1995||2000|||					
+-1	3	fb:row.row.poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007	Poin persentase pertumbuhan emfp tahun 2000 hingga 2007	poin|persentase|pertumbuhan|emfp|tahun|2000|hingga|2007	poin|persentase|pertumbuhan|emfp|tahun|2000|hingga|2007	NN|NN|NN|NN|NN|CD|NNP|CD	O|O|O|O|O|DATE|O|DATE	|||||2000||2007					
+-1	4	fb:row.row.2000_hingga_2007_kontribusi_relatif_persen	2000 hingga 2007 kontribusi relatif persen	2000|hingga|2007|kontribusi|relatif|persen	2000|hingga|2007|kontribusi|relatif|persen	CD|NNP|CD|NNP|NN|NN	DATE|O|DATE|O|O|O	2000||2007|||					
+0	0	fb:cell_kharakteristik.total_produk_permintaan_akhir	total, produk permintaan akhir	total|,|produk|permintaan|akhir	total|,|produk|permintaan|akhir	JJ|,|JJ|NNP|NNP	O|O|O|O|O	||||				total|produk permintaan akhir	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_permintaan_akhir
+0	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+0	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				
+0	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.total_produk_permintaan_akhir_kanada	total, produk permintaan akhir kanada	total|,|produk|permintaan|akhir|kanada	total|,|produk|permintaan|akhir|kanada	NN|,|NN|NN|NNP|NNP	O|O|O|O|O|O	|||||				total|produk permintaan akhir kanada	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_permintaan_akhir_kanada
+1	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+1	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+1	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+1	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+2	0	fb:cell_kharakteristik.total_produk_permintaan_akhir_amerika_serikat	total, produk permintaan akhir amerika serikat	total|,|produk|permintaan|akhir|amerika|serikat	total|,|produk|permintaan|akhir|amerika|serikat	JJ|,|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				total|produk permintaan akhir amerika serikat	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_permintaan_akhir_amerika_serikat
+2	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+2	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+2	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+2	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+3	0	fb:cell_kharakteristik.total_produk_permintaan_akhir_luar_negeri_lainnya	total, produk permintaan akhir luar negeri lainnya	total|,|produk|permintaan|akhir|luar|negeri|lainnya	total|,|produk|permintaan|akhir|luar|negeri|lainnya	JJ|,|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				total|produk permintaan akhir luar negeri lainnya	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_permintaan_akhir_luar_negeri_lainnya
+3	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+3	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+3	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+4	0	fb:cell_kharakteristik.total_produk_konsumsi	total, produk konsumsi	total|,|produk|konsumsi	total|,|produk|konsumsi	NN|,|NN|NN	O|O|O|O	|||				total|produk konsumsi	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_konsumsi
+4	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_53	0.53	0.53	0.53	CD	NUMBER	0.53	0.53				
+4	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+4	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+4	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+5	0	fb:cell_kharakteristik.total_produk_konsumsi_kanada	total, produk konsumsi kanada	total|,|produk|konsumsi|kanada	total|,|produk|konsumsi|kanada	NN|,|NN|NNP|NNP	O|O|O|O|O	||||				total|produk konsumsi kanada	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_konsumsi_kanada
+5	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_39	0.39	0.39	0.39	CD	NUMBER	0.39	0.39				
+5	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+5	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+5	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+6	0	fb:cell_kharakteristik.total_produk_konsumsi_amerika_serikat	total, produk konsumsi amerika serikat	total|,|produk|konsumsi|amerika|serikat	total|,|produk|konsumsi|amerika|serikat	NN|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||				total|produk konsumsi amerika serikat	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_konsumsi_amerika_serikat
+6	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+6	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+6	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+6	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+7	0	fb:cell_kharakteristik.total_produk_konsumsi_luar_negeri_lainnya	total, produk konsumsi luar negeri lainnya	total|,|produk|konsumsi|luar|negeri|lainnya	total|,|produk|konsumsi|luar|negeri|lainnya	NN|,|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||				total|produk konsumsi luar negeri lainnya	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_konsumsi_luar_negeri_lainnya
+7	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_02	0.02	0.02	0.02	CD	NUMBER	0.02	0.02				
+7	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+7	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_02	0.02	0.02	0.02	CD	NUMBER	0.02	0.02				
+7	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+8	0	fb:cell_kharakteristik.total_produk_investasi	total, produk investasi	total|,|produk|investasi	total|,|produk|investasus	JJ|,|JJ|NNS	O|O|O|O	|||				total|produk investasi	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_investasi
+8	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.1_94	1.94	1.94	1.94	CD	NUMBER	1.94	1.94				
+8	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+8	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_33	0.33	0.33	0.33	CD	NUMBER	0.33	0.33				
+8	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+9	0	fb:cell_kharakteristik.total_produk_investasi_kanada	total, produk investasi kanada	total|,|produk|investasi|kanada	total|,|produk|investasi|kanada	NN|,|NNP|NNP|NNP	O|O|O|O|O	||||				total|produk investasi kanada	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_investasi_kanada
+9	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.1_47	1.47	1.47	1.47	CD	NUMBER	1.47	1.47				
+9	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+9	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+9	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+10	0	fb:cell_kharakteristik.total_produk_investasi_amerika_serikat	total, produk investasi amerika serikat	total|,|produk|investasi|amerika|serikat	total|,|produk|investasi|amerika|serikat	NN|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||				total|produk investasi amerika serikat	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_investasi_amerika_serikat
+10	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_41	0.41	0.41	0.41	CD	NUMBER	0.41	0.41				
+10	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+10	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+10	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+11	0	fb:cell_kharakteristik.total_produk_investasi_luar_negeri_lainnya	total, produk investasi luar negeri lainnya	total|,|produk|investasi|luar|negeri|lainnya	total|,|produk|investasi|luar|negeri|lainnya	NN|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				total|produk investasi luar negeri lainnya	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_investasi_luar_negeri_lainnya
+11	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+11	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+11	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+11	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+12	0	fb:cell_kharakteristik.total_produk_ekspor	total, produk ekspor	total|,|produk|ekspor	total|,|produk|ekspor	NN|,|NNP|NNP	O|O|O|O	|||				total|produk ekspor	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_ekspor
+12	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.1_68	1.68	1.68	1.68	CD	NUMBER	1.68	1.68				
+12	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+12	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007._0_16	-0.16	-0.16	-0.16	CD	NUMBER	-0.16	0.16				
+12	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	0	fb:cell_kharakteristik.total_produk_ekspor_kanada	total, produk ekspor kanada	total|,|produk|ekspor|kanada	total|,|produk|ekspor|kanada	NN|,|NNP|NNP|NNP	O|O|O|O|O	||||				total|produk ekspor kanada	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_ekspor_kanada
+13	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.1_31	1.31	1.31	1.31	CD	NUMBER	1.31	1.31				
+13	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+13	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007._0_42	-0.42	-0.42	-0.42	CD	NUMBER	-0.42	0.42				
+13	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen.247_0	247.0	247.0	247.0	CD	NUMBER	247.0	247.0				
+14	0	fb:cell_kharakteristik.total_produk_ekspor_amerika_serikat	total, produk ekspor amerika serikat	total|,|produk|ekspor|amerika|serikat	total|,|produk|ekspor|amerika|serikat	NN|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||				total|produk ekspor amerika serikat	fb:part_kharakteristik.total|fb:part_kharakteristik.produk_ekspor_amerika_serikat
+14	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_33	0.33	0.33	0.33	CD	NUMBER	0.33	0.33				
+14	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+14	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+14	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen._118_0	-118.0	-118.0	-118.0	CD	NUMBER	-118.0	118.0				
+15	0	fb:cell_kharakteristik.total_mengekspor_produk_ke_luar_negeri_lainnya	Total, mengekspor produk ke luar negeri lainnya	total|,|mengekspor|produk|ke|luar|negeri|lainnya	total|,|mengekspor|produk|ke|luar|negeri|lainnya	NN|,|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				Total|mengekspor produk ke luar negeri lainnya	fb:part_kharakteristik.total|fb:part_kharakteristik.mengekspor_produk_ke_luar_negeri_lainnya
+15	1	fb:cell_1995_hingga_2000_poin_persentase_pertumbuhan_emfp.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+15	2	fb:cell_1995_hingga_2000_persen_kontribusi_relatif.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+15	3	fb:cell_poin_persentase_pertumbuhan_emfp_tahun_2000_hingga_2007.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+15	4	fb:cell_2000_hingga_2007_kontribusi_relatif_persen._29_0	-29.0	-29.0	-29.0	CD	NUMBER	-29.0	29.0				

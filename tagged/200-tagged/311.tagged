@@ -1,0 +1,92 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_partisipasi_perempuan	tingkat partisipasi perempuan	tingkat|partisipasi|perempuan	tingkat|partisipasi|perempuan	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.tingkat_lapangan_kerja_perempuan	tingkat lapangan kerja perempuan	tingkat|lapangan|kerja|perempuan	tingkat|lapangan|kerja|perempuan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.tingkat_pengangguran_perempuan	tingkat pengangguran perempuan	tingkat|pengangguran|perempuan	tingkat|pengangguran|perempuan	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.tingkat_partisipasi_laki_laki	tingkat partisipasi laki-laki	tingkat|partisipasi|laki|laki	tingkat|partisipasi|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	5	fb:row.row.tingkat_pekerjaan_laki_laki	tingkat pekerjaan laki-laki	tingkat|pekerjaan|laki|laki	tingkat|pekerjaan|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	6	fb:row.row.tingkat_pengangguran_laki_laki	tingkat pengangguran laki-laki	tingkat|pengangguran|laki|laki	tingkat|pengangguran|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.persen_asia_selatan	persen Asia Selatan	persen|asia|selatan	persen|Asia|Selatan	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_tingkat_partisipasi_perempuan.59_6	59.6	59.6	59.6	CD	NUMBER	59.6	59.6				
+0	2	fb:cell_tingkat_lapangan_kerja_perempuan.52_9	52.9	52.9	52.9	CD	NUMBER	52.9	52.9				
+0	3	fb:cell_tingkat_pengangguran_perempuan.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+0	4	fb:cell_tingkat_partisipasi_laki_laki.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+0	5	fb:cell_tingkat_pekerjaan_laki_laki.68_8	68.8	68.8	68.8	CD	NUMBER	68.8	68.8				
+0	6	fb:cell_tingkat_pengangguran_laki_laki.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+1	0	fb:cell_kharakteristik.persen_imigran_asia_selatan	persen imigran Asia Selatan	persen|imigran|asia|selatan	persen|imigran|Asia|Selatan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_tingkat_partisipasi_perempuan.57_8	57.8	57.8	57.8	CD	NUMBER	57.8	57.8				
+1	2	fb:cell_tingkat_lapangan_kerja_perempuan.51_5	51.5	51.5	51.5	CD	NUMBER	51.5	51.5				
+1	3	fb:cell_tingkat_pengangguran_perempuan.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+1	4	fb:cell_tingkat_partisipasi_laki_laki.75_7	75.7	75.7	75.7	CD	NUMBER	75.7	75.7				
+1	5	fb:cell_tingkat_pekerjaan_laki_laki.70_6	70.6	70.6	70.6	CD	NUMBER	70.6	70.6				
+1	6	fb:cell_tingkat_pengangguran_laki_laki.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+2	0	fb:cell_kharakteristik.persen_kelahiran_kanada_di_asia_selatan	persen kelahiran Kanada di Asia Selatan	persen|kelahiran|kanada|di|asia|selatan	persen|kelahiran|Kanada|di|Asia|Selatan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_tingkat_partisipasi_perempuan.67_2	67.2	67.2	67.2	CD	NUMBER	67.2	67.2				
+2	2	fb:cell_tingkat_lapangan_kerja_perempuan.59_6	59.6	59.6	59.6	CD	NUMBER	59.6	59.6				
+2	3	fb:cell_tingkat_pengangguran_perempuan.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+2	4	fb:cell_tingkat_partisipasi_laki_laki.67_9	67.9	67.9	67.9	CD	NUMBER	67.9	67.9				
+2	5	fb:cell_tingkat_pekerjaan_laki_laki.59_8	59.8	59.8	59.8	CD	NUMBER	59.8	59.8				
+2	6	fb:cell_tingkat_pengangguran_laki_laki.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+3	0	fb:cell_kharakteristik.persen_cina	persen Cina	persen|cina	persen|Cina	NNP|NNP	O|O	|					
+3	1	fb:cell_tingkat_partisipasi_perempuan.55_9	55.9	55.9	55.9	CD	NUMBER	55.9	55.9				
+3	2	fb:cell_tingkat_lapangan_kerja_perempuan.51_4	51.4	51.4	51.4	CD	NUMBER	51.4	51.4				
+3	3	fb:cell_tingkat_pengangguran_perempuan.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+3	4	fb:cell_tingkat_partisipasi_laki_laki.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+3	5	fb:cell_tingkat_pekerjaan_laki_laki.58_5	58.5	58.5	58.5	CD	NUMBER	58.5	58.5				
+3	6	fb:cell_tingkat_pengangguran_laki_laki.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+4	0	fb:cell_kharakteristik.persen_imigran_cina	persen imigran Cina	persen|imigran|cina	persen|imigran|Cina	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_tingkat_partisipasi_perempuan.55_1	55.1	55.1	55.1	CD	NUMBER	55.1	55.1				
+4	2	fb:cell_tingkat_lapangan_kerja_perempuan.50_9	50.9	50.9	50.9	CD	NUMBER	50.9	50.9				
+4	3	fb:cell_tingkat_pengangguran_perempuan.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+4	4	fb:cell_tingkat_partisipasi_laki_laki.64_8	64.8	64.8	64.8	CD	NUMBER	64.8	64.8				
+4	5	fb:cell_tingkat_pekerjaan_laki_laki.60_4	60.4	60.4	60.4	CD	NUMBER	60.4	60.4				
+4	6	fb:cell_tingkat_pengangguran_laki_laki.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+5	0	fb:cell_kharakteristik.persen_kelahiran_cina_di_kanada	persen kelahiran Cina di Kanada	persen|kelahiran|cina|di|kanada	persen|kelahiran|Cina|di|Kanada	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_tingkat_partisipasi_perempuan.70_3	70.3	70.3	70.3	CD	NUMBER	70.3	70.3				
+5	2	fb:cell_tingkat_lapangan_kerja_perempuan.64_7	64.7	64.7	64.7	CD	NUMBER	64.7	64.7				
+5	3	fb:cell_tingkat_pengangguran_perempuan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+5	4	fb:cell_tingkat_partisipasi_laki_laki.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+5	5	fb:cell_tingkat_pekerjaan_laki_laki.64_1	64.1	64.1	64.1	CD	NUMBER	64.1	64.1				
+5	6	fb:cell_tingkat_pengangguran_laki_laki.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+6	0	fb:cell_kharakteristik.persen_hitam	persen hitam	persen|hitam	persen|hitam	NNP|NNP	O|O	|					
+6	1	fb:cell_tingkat_partisipasi_perempuan.66_1	66.1	66.1	66.1	CD	NUMBER	66.1	66.1				
+6	2	fb:cell_tingkat_lapangan_kerja_perempuan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+6	3	fb:cell_tingkat_pengangguran_perempuan.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+6	4	fb:cell_tingkat_partisipasi_laki_laki.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+6	5	fb:cell_tingkat_pekerjaan_laki_laki.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+6	6	fb:cell_tingkat_pengangguran_laki_laki.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+7	0	fb:cell_kharakteristik.persen_imigran_kulit_hitam	persen imigran kulit hitam	persen|imigran|kulit|hitam	persen|imigran|kulit|hitam	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+7	1	fb:cell_tingkat_partisipasi_perempuan.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+7	2	fb:cell_tingkat_lapangan_kerja_perempuan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+7	3	fb:cell_tingkat_pengangguran_perempuan.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+7	4	fb:cell_tingkat_partisipasi_laki_laki.75_1	75.1	75.1	75.1	CD	NUMBER	75.1	75.1				
+7	5	fb:cell_tingkat_pekerjaan_laki_laki.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+7	6	fb:cell_tingkat_pengangguran_laki_laki.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+8	0	fb:cell_kharakteristik.persen_orang_kulit_hitam_kelahiran_kanada	persen orang kulit hitam kelahiran Kanada	persen|orang|kulit|hitam|kelahiran|kanada	persen|orang|kulit|hitam|kelahiran|Kanada	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+8	1	fb:cell_tingkat_partisipasi_perempuan.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+8	2	fb:cell_tingkat_lapangan_kerja_perempuan.59_5	59.5	59.5	59.5	CD	NUMBER	59.5	59.5				
+8	3	fb:cell_tingkat_pengangguran_perempuan.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+8	4	fb:cell_tingkat_partisipasi_laki_laki.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+8	5	fb:cell_tingkat_pekerjaan_laki_laki.56_2	56.2	56.2	56.2	CD	NUMBER	56.2	56.2				
+8	6	fb:cell_tingkat_pengangguran_laki_laki.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				
+9	0	fb:cell_kharakteristik.persen_sisa_populasi	persen sisa populasi	persen|sisa|populasi	persen|sisa|populasi	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_tingkat_partisipasi_perempuan.61_2	61.2	61.2	61.2	CD	NUMBER	61.2	61.2				
+9	2	fb:cell_tingkat_lapangan_kerja_perempuan.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+9	3	fb:cell_tingkat_pengangguran_perempuan.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+9	4	fb:cell_tingkat_partisipasi_laki_laki.69_5	69.5	69.5	69.5	CD	NUMBER	69.5	69.5				
+9	5	fb:cell_tingkat_pekerjaan_laki_laki.63_8	63.8	63.8	63.8	CD	NUMBER	63.8	63.8				
+9	6	fb:cell_tingkat_pengangguran_laki_laki.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+10	0	fb:cell_kharakteristik.persen_sisa_populasi_adalah_imigran	persen sisa populasi adalah imigran	persen|sisa|populasi|adalah|imigran	persen|sisa|populasi|adalah|imigran	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+10	1	fb:cell_tingkat_partisipasi_perempuan.55_2	55.2	55.2	55.2	CD	NUMBER	55.2	55.2				
+10	2	fb:cell_tingkat_lapangan_kerja_perempuan.51_3	51.3	51.3	51.3	CD	NUMBER	51.3	51.3				
+10	3	fb:cell_tingkat_pengangguran_perempuan.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+10	4	fb:cell_tingkat_partisipasi_laki_laki.66_3	66.3	66.3	66.3	CD	NUMBER	66.3	66.3				
+10	5	fb:cell_tingkat_pekerjaan_laki_laki.61_7	61.7	61.7	61.7	CD	NUMBER	61.7	61.7				
+10	6	fb:cell_tingkat_pengangguran_laki_laki.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+11	0	fb:cell_kharakteristik.persen_sisa_populasi_kelahiran_kanada	persen sisa populasi kelahiran Kanada	persen|sisa|populasi|kelahiran|kanada	persen|sisa|populasi|kelahiran|Kanada	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+11	1	fb:cell_tingkat_partisipasi_perempuan.62_6	62.6	62.6	62.6	CD	NUMBER	62.6	62.6				
+11	2	fb:cell_tingkat_lapangan_kerja_perempuan.58_5	58.5	58.5	58.5	CD	NUMBER	58.5	58.5				
+11	3	fb:cell_tingkat_pengangguran_perempuan.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+11	4	fb:cell_tingkat_partisipasi_laki_laki.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+11	5	fb:cell_tingkat_pekerjaan_laki_laki.64_2	64.2	64.2	64.2	CD	NUMBER	64.2	64.2				
+11	6	fb:cell_tingkat_pengangguran_laki_laki.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				

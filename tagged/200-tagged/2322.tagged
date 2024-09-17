@@ -1,0 +1,645 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_sebaran_penduduk	jumlah sebaran penduduk	jumlah|sebaran|penduduk	jumlah|sebaran|penduduk	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.jumlah_sebaran_penduduk_2	jumlah sebaran penduduk	jumlah|sebaran|penduduk	jumlah|sebaran|penduduk	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.distribusi_populasi_inti_perkotaan	distribusi populasi inti perkotaan	distribusi|populasi|inti|perkotaan	distribusi|populasus|inti|perkotaan	NN|NNS|VBP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.distribusi_populasi_pinggiran_kota	distribusi populasi pinggiran kota	distribusi|populasi|pinggiran|kota	distribusi|populasi|pinggiran|kota	NN|NN|NN|NN	O|O|O|O	|||					
+-1	5	fb:row.row.sebaran_penduduk_pedesaan	sebaran penduduk pedesaan	sebaran|penduduk|pedesaan	sebaran|penduduk|pedesaan	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.rata_rata_total_paparan_pm2_5	rata-rata total paparan pm2.5	rata|rata|total|paparan|pm2|.5	rata|rata|total|paparan|pm2|.5	JJ|JJ|JJ|NN|NN|NN	O|O|O|O|O|NUMBER	|||||0.5					
+-1	7	fb:row.row.pm2_5_paparan_total_s_d	pm2.5 paparan total s.d	pm2|.5|paparan|total|s.d	pm2|.5|paparan|total|s.d	NN|NN|NN|JJ|NN	O|NUMBER|O|O|O	|0.5|||					
+-1	8	fb:row.row.paparan_pm2_5_rata_rata_inti_perkotaan	paparan pm2.5 rata-rata inti perkotaan	paparan|pm2|.5|rata|rata|inti|perkotaan	paparan|pm2|.5|rata|rata|inti|perkotaan	NNP|NN|NN|JJ|JJ|NNP|NNP	O|O|NUMBER|O|O|O|O	||0.5||||					
+-1	9	fb:row.row.paparan_pm2_5_urban_core_s_d	paparan pm2.5 urban core s.d	paparan|pm2|.5|urban|core|s.d	paparan|pm2|.5|urban|core|s.d	NNP|NN|NN|JJ|NN|NN	O|O|NUMBER|O|O|O	||0.5|||					
+-1	10	fb:row.row.paparan_pm2_5_rata_rata_pinggiran_kota	paparan pm2.5 rata-rata pinggiran kota	paparan|pm2|.5|rata|rata|pinggiran|kota	paparan|pm2|.5|rata|rata|pinggiran|kota	NNP|NN|NN|JJ|JJ|NNP|NNP	O|O|NUMBER|O|O|O|O	||0.5||||					
+-1	11	fb:row.row.paparan_pm2_5_pinggiran_kota_s_d	paparan pm2.5 pinggiran kota s.d	paparan|pm2|.5|pinggiran|kota|s.d	paparan|pm2|.5|pinggiran|kota|s.d	NNP|NN|NN|NN|NNP|NNP	O|O|NUMBER|O|O|O	||0.5|||					
+-1	12	fb:row.row.paparan_pm2_5_rata_rata_pedesaan	paparan pm2.5 rata-rata pedesaan	paparan|pm2|.5|rata|rata|pedesaan	paparan|pm2|.5|rata|rata|pedesaan	NNP|NN|NN|JJ|JJ|NNP	O|O|NUMBER|O|O|O	||0.5|||					
+-1	13	fb:row.row.paparan_pm2_5_pedesaan_s_d	paparan pm2.5 pedesaan s.d	paparan|pm2|.5|pedesaan|s.d	paparan|pm2|.5|pedesaan|s.d	NNP|NN|NN|NN|NN	O|O|NUMBER|O|O	||0.5||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_jumlah_sebaran_penduduk.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	3	fb:cell_distribusi_populasi_inti_perkotaan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+0	4	fb:cell_distribusi_populasi_pinggiran_kota.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+0	5	fb:cell_sebaran_penduduk_pedesaan.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+0	6	fb:cell_rata_rata_total_paparan_pm2_5.7_05	7.05	7.05	7.05	CD	NUMBER	7.05	7.05				
+0	7	fb:cell_pm2_5_paparan_total_s_d.5_57	5.57	5.57	5.57	CD	NUMBER	5.57	5.57				
+0	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_03	8.03	8.03	8.03	CD	NUMBER	8.03	8.03				
+0	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+0	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_62	5.62	5.62	5.62	CD	NUMBER	5.62	5.62				
+0	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_24	4.24	4.24	4.24	CD	NUMBER	4.24	4.24				
+0	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_32	4.32	4.32	4.32	CD	NUMBER	4.32	4.32				
+0	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_77	2.77	2.77	2.77	CD	NUMBER	2.77	2.77				
+1	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+1	1	fb:cell_jumlah_sebaran_penduduk.null											
+1	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+1	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+1	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+1	5	fb:cell_sebaran_penduduk_pedesaan.null											
+1	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+1	7	fb:cell_pm2_5_paparan_total_s_d.null											
+1	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+1	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+1	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+1	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+1	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+1	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+2	0	fb:cell_kharakteristik.kelompok_usia_di_bawah_5_tahun	kelompok usia di bawah 5 tahun	kelompok|usia|di|bawah|5|tahun	kelompok|usia|di|bawah|5|tahun	NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|NUMBER|O	||||5.0|	5.0				
+2	1	fb:cell_jumlah_sebaran_penduduk.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+2	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	3	fb:cell_distribusi_populasi_inti_perkotaan.70_3	70.3	70.3	70.3	CD	NUMBER	70.3	70.3				
+2	4	fb:cell_distribusi_populasi_pinggiran_kota.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+2	5	fb:cell_sebaran_penduduk_pedesaan.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+2	6	fb:cell_rata_rata_total_paparan_pm2_5.6_94	6.94	6.94	6.94	CD	NUMBER	6.94	6.94				
+2	7	fb:cell_pm2_5_paparan_total_s_d.5_41	5.41	5.41	5.41	CD	NUMBER	5.41	5.41				
+2	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_86	7.86	7.86	7.86	CD	NUMBER	7.86	7.86				
+2	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_99	4.99	4.99	4.99	CD	NUMBER	4.99	4.99				
+2	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_55	5.55	5.55	5.55	CD	NUMBER	5.55	5.55				
+2	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+2	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_29	4.29	4.29	4.29	CD	NUMBER	4.29	4.29				
+2	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_53	2.53	2.53	2.53	CD	NUMBER	2.53	2.53				
+3	0	fb:cell_kharakteristik.kelompok_usia_5_hingga_17_tahun	kelompok usia 5 hingga 17 tahun	kelompok|usia|5|hingga|17|tahun	kelompok|usia|5|hingga|17|tahun	NNP|NNP|CD|NN|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||5.0||17.0|	5.0		17.0		
+3	1	fb:cell_jumlah_sebaran_penduduk.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+3	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+3	3	fb:cell_distribusi_populasi_inti_perkotaan.67_7	67.7	67.7	67.7	CD	NUMBER	67.7	67.7				
+3	4	fb:cell_distribusi_populasi_pinggiran_kota.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+3	5	fb:cell_sebaran_penduduk_pedesaan.21_6	21.6	21.6	21.6	CD	NUMBER	21.6	21.6				
+3	6	fb:cell_rata_rata_total_paparan_pm2_5.6_86	6.86	6.86	6.86	CD	NUMBER	6.86	6.86				
+3	7	fb:cell_pm2_5_paparan_total_s_d.5_44	5.44	5.44	5.44	CD	NUMBER	5.44	5.44				
+3	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_87	7.87	7.87	7.87	CD	NUMBER	7.87	7.87				
+3	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_94	4.94	4.94	4.94	CD	NUMBER	4.94	4.94				
+3	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_59	5.59	5.59	5.59	CD	NUMBER	5.59	5.59				
+3	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_17	4.17	4.17	4.17	CD	NUMBER	4.17	4.17				
+3	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+3	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_63	2.63	2.63	2.63	CD	NUMBER	2.63	2.63				
+4	0	fb:cell_kharakteristik.kelompok_usia_18_hingga_39_tahun	kelompok usia 18 hingga 39 tahun	kelompok|usia|18|hingga|39|tahun	kelompok|usia|18|hingga|39|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||18.0||39.0|	18.0		39.0		
+4	1	fb:cell_jumlah_sebaran_penduduk.29_1	29.1	29.1	29.1	CD	NUMBER	29.1	29.1				
+4	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+4	3	fb:cell_distribusi_populasi_inti_perkotaan.74_3	74.3	74.3	74.3	CD	NUMBER	74.3	74.3				
+4	4	fb:cell_distribusi_populasi_pinggiran_kota.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+4	5	fb:cell_sebaran_penduduk_pedesaan.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+4	6	fb:cell_rata_rata_total_paparan_pm2_5.7_23	7.23	7.23	7.23	CD	NUMBER	7.23	7.23				
+4	7	fb:cell_pm2_5_paparan_total_s_d.5_52	5.52	5.52	5.52	CD	NUMBER	5.52	5.52				
+4	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_06	8.06	8.06	8.06	CD	NUMBER	8.06	8.06				
+4	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_92	4.92	4.92	4.92	CD	NUMBER	4.92	4.92				
+4	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_62	5.62	5.62	5.62	CD	NUMBER	5.62	5.62				
+4	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_21	4.21	4.21	4.21	CD	NUMBER	4.21	4.21				
+4	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_33	4.33	4.33	4.33	CD	NUMBER	4.33	4.33				
+4	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_72	2.72	2.72	2.72	CD	NUMBER	2.72	2.72				
+5	0	fb:cell_kharakteristik.kelompok_usia_40_hingga_65_tahun	kelompok usia 40 hingga 65 tahun	kelompok|usia|40|hingga|65|tahun	kelompok|usia|40|hingga|65|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||40.0||65.0|	40.0		65.0		
+5	1	fb:cell_jumlah_sebaran_penduduk.36_7	36.7	36.7	36.7	CD	NUMBER	36.7	36.7				
+5	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+5	3	fb:cell_distribusi_populasi_inti_perkotaan.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+5	4	fb:cell_distribusi_populasi_pinggiran_kota.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+5	5	fb:cell_sebaran_penduduk_pedesaan.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+5	6	fb:cell_rata_rata_total_paparan_pm2_5.6_97	6.97	6.97	6.97	CD	NUMBER	6.97	6.97				
+5	7	fb:cell_pm2_5_paparan_total_s_d.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+5	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_01	8.01	8.01	8.01	CD	NUMBER	8.01	8.01				
+5	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_88	4.88	4.88	4.88	CD	NUMBER	4.88	4.88				
+5	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_63	5.63	5.63	5.63	CD	NUMBER	5.63	5.63				
+5	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_26	4.26	4.26	4.26	CD	NUMBER	4.26	4.26				
+5	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_33	4.33	4.33	4.33	CD	NUMBER	4.33	4.33				
+5	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_85	2.85	2.85	2.85	CD	NUMBER	2.85	2.85				
+6	0	fb:cell_kharakteristik.kelompok_usia_di_atas_65_tahun	kelompok usia di atas 65 tahun	kelompok|usia|di|atas|65|tahun	kelompok|usia|di|atas|65|tahun	NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|NUMBER|O	||||65.0|	65.0				
+6	1	fb:cell_jumlah_sebaran_penduduk.12_1	12.1	12.1	12.1	CD	NUMBER	12.1	12.1				
+6	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	3	fb:cell_distribusi_populasi_inti_perkotaan.68_9	68.9	68.9	68.9	CD	NUMBER	68.9	68.9				
+6	4	fb:cell_distribusi_populasi_pinggiran_kota.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+6	5	fb:cell_sebaran_penduduk_pedesaan.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+6	6	fb:cell_rata_rata_total_paparan_pm2_5.7_17	7.17	7.17	7.17	CD	NUMBER	7.17	7.17				
+6	7	fb:cell_pm2_5_paparan_total_s_d.5_73	5.73	5.73	5.73	CD	NUMBER	5.73	5.73				
+6	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_25	8.25	8.25	8.25	CD	NUMBER	8.25	8.25				
+6	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_82	4.82	4.82	4.82	CD	NUMBER	4.82	4.82				
+6	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_64	5.64	5.64	5.64	CD	NUMBER	5.64	5.64				
+6	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_39	4.39	4.39	4.39	CD	NUMBER	4.39	4.39				
+6	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_31	4.31	4.31	4.31	CD	NUMBER	4.31	4.31				
+6	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_97	2.97	2.97	2.97	CD	NUMBER	2.97	2.97				
+7	0	fb:cell_kharakteristik.status_minoritas_atau_aborigin_yang_terlihat	status minoritas atau aborigin yang terlihat	status|minoritas|atau|aborigin|yang|terlihat	status|minorita|atau|aborigin|yang|terlihat	NN|NNS|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+7	1	fb:cell_jumlah_sebaran_penduduk.null											
+7	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+7	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+7	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+7	5	fb:cell_sebaran_penduduk_pedesaan.null											
+7	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+7	7	fb:cell_pm2_5_paparan_total_s_d.null											
+7	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+7	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+7	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+7	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+7	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+7	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+8	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_berkulit_putih	minoritas yang terlihat atau status penduduk asli berkulit putih	minoritas|yang|terlihat|atau|status|penduduk|asli|berkulit|putih	minoritas|yang|terlihat|atau|status|penduduk|asli|berkulit|putih	NNP|NNP|NNP|NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+8	1	fb:cell_jumlah_sebaran_penduduk.80_1	80.1	80.1	80.1	CD	NUMBER	80.1	80.1				
+8	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+8	3	fb:cell_distribusi_populasi_inti_perkotaan.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+8	4	fb:cell_distribusi_populasi_pinggiran_kota.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+8	5	fb:cell_sebaran_penduduk_pedesaan.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+8	6	fb:cell_rata_rata_total_paparan_pm2_5.6_84	6.84	6.84	6.84	CD	NUMBER	6.84	6.84				
+8	7	fb:cell_pm2_5_paparan_total_s_d.5_68	5.68	5.68	5.68	CD	NUMBER	5.68	5.68				
+8	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_89	7.89	7.89	7.89	CD	NUMBER	7.89	7.89				
+8	9	fb:cell_paparan_pm2_5_urban_core_s_d.5_05	5.05	5.05	5.05	CD	NUMBER	5.05	5.05				
+8	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_65	5.65	5.65	5.65	CD	NUMBER	5.65	5.65				
+8	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+8	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_37	4.37	4.37	4.37	CD	NUMBER	4.37	4.37				
+8	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_01	3.01	3.01	3.01	CD	NUMBER	3.01	3.01				
+9	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli	minoritas yang terlihat atau status penduduk asli	minoritas|yang|terlihat|atau|status|penduduk|asli	minoritas|yang|terlihat|atau|status|penduduk|asli	NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+9	1	fb:cell_jumlah_sebaran_penduduk.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+9	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+9	3	fb:cell_distribusi_populasi_inti_perkotaan.44_9	44.9	44.9	44.9	CD	NUMBER	44.9	44.9				
+9	4	fb:cell_distribusi_populasi_pinggiran_kota.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+9	5	fb:cell_sebaran_penduduk_pedesaan.43_4	43.4	43.4	43.4	CD	NUMBER	43.4	43.4				
+9	6	fb:cell_rata_rata_total_paparan_pm2_5.5_29	5.29	5.29	5.29	CD	NUMBER	5.29	5.29				
+9	7	fb:cell_pm2_5_paparan_total_s_d.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+9	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+9	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_74	4.74	4.74	4.74	CD	NUMBER	4.74	4.74				
+9	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.4_71	4.71	4.71	4.71	CD	NUMBER	4.71	4.71				
+9	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_13	3.13	3.13	3.13	CD	NUMBER	3.13	3.13				
+9	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.3_67	3.67	3.67	3.67	CD	NUMBER	3.67	3.67				
+9	13	fb:cell_paparan_pm2_5_pedesaan_s_d.1_47	1.47	1.47	1.47	CD	NUMBER	1.47	1.47				
+10	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+10	1	fb:cell_jumlah_sebaran_penduduk.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+10	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+10	3	fb:cell_distribusi_populasi_inti_perkotaan.96_0	96.0	96.0	96.0	CD	NUMBER	96.0	96.0				
+10	4	fb:cell_distribusi_populasi_pinggiran_kota.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+10	5	fb:cell_sebaran_penduduk_pedesaan.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+10	6	fb:cell_rata_rata_total_paparan_pm2_5.8_45	8.45	8.45	8.45	CD	NUMBER	8.45	8.45				
+10	7	fb:cell_pm2_5_paparan_total_s_d.4_33	4.33	4.33	4.33	CD	NUMBER	4.33	4.33				
+10	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_58	8.58	8.58	8.58	CD	NUMBER	8.58	8.58				
+10	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+10	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_93	5.93	5.93	5.93	CD	NUMBER	5.93	5.93				
+10	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_99	3.99	3.99	3.99	CD	NUMBER	3.99	3.99				
+10	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_77	4.77	4.77	4.77	CD	NUMBER	4.77	4.77				
+10	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_18	3.18	3.18	3.18	CD	NUMBER	3.18	3.18				
+11	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat_di_asia_selatan	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat di Asia Selatan	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|di|asia|selatan	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|di|Asia|Selatan	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+11	1	fb:cell_jumlah_sebaran_penduduk.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+11	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+11	3	fb:cell_distribusi_populasi_inti_perkotaan.96_8	96.8	96.8	96.8	CD	NUMBER	96.8	96.8				
+11	4	fb:cell_distribusi_populasi_pinggiran_kota.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+11	5	fb:cell_sebaran_penduduk_pedesaan.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+11	6	fb:cell_rata_rata_total_paparan_pm2_5.8_36	8.36	8.36	8.36	CD	NUMBER	8.36	8.36				
+11	7	fb:cell_pm2_5_paparan_total_s_d.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+11	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_46	8.46	8.46	8.46	CD	NUMBER	8.46	8.46				
+11	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_14	4.14	4.14	4.14	CD	NUMBER	4.14	4.14				
+11	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_86	5.86	5.86	5.86	CD	NUMBER	5.86	5.86				
+11	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_78	3.78	3.78	3.78	CD	NUMBER	3.78	3.78				
+11	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.5_02	5.02	5.02	5.02	CD	NUMBER	5.02	5.02				
+11	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_07	3.07	3.07	3.07	CD	NUMBER	3.07	3.07				
+12	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_tionghoa_yang_terlihat_minoritas	minoritas yang terlihat atau status penduduk asli Tionghoa yang terlihat minoritas	minoritas|yang|terlihat|atau|status|penduduk|asli|tionghoa|yang|terlihat|minoritas	minoritas|yang|terlihat|atau|status|penduduk|asli|Tionghoa|yang|terlihat|minoritas	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+12	1	fb:cell_jumlah_sebaran_penduduk.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+12	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+12	3	fb:cell_distribusi_populasi_inti_perkotaan.97_0	97.0	97.0	97.0	CD	NUMBER	97.0	97.0				
+12	4	fb:cell_distribusi_populasi_pinggiran_kota.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+12	5	fb:cell_sebaran_penduduk_pedesaan.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+12	6	fb:cell_rata_rata_total_paparan_pm2_5.8_38	8.38	8.38	8.38	CD	NUMBER	8.38	8.38				
+12	7	fb:cell_pm2_5_paparan_total_s_d.3_94	3.94	3.94	3.94	CD	NUMBER	3.94	3.94				
+12	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_48	8.48	8.48	8.48	CD	NUMBER	8.48	8.48				
+12	9	fb:cell_paparan_pm2_5_urban_core_s_d.3_75	3.75	3.75	3.75	CD	NUMBER	3.75	3.75				
+12	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_73	5.73	5.73	5.73	CD	NUMBER	5.73	5.73				
+12	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_77	3.77	3.77	3.77	CD	NUMBER	3.77	3.77				
+12	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_66	4.66	4.66	4.66	CD	NUMBER	4.66	4.66				
+12	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_86	2.86	2.86	2.86	CD	NUMBER	2.86	2.86				
+13	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat_berkulit_hitam	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat berkulit hitam	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|berkulit|hitam	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|berkulit|hitam	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+13	1	fb:cell_jumlah_sebaran_penduduk.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+13	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	3	fb:cell_distribusi_populasi_inti_perkotaan.94_9	94.9	94.9	94.9	CD	NUMBER	94.9	94.9				
+13	4	fb:cell_distribusi_populasi_pinggiran_kota.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+13	5	fb:cell_sebaran_penduduk_pedesaan.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+13	6	fb:cell_rata_rata_total_paparan_pm2_5.8_71	8.71	8.71	8.71	CD	NUMBER	8.71	8.71				
+13	7	fb:cell_pm2_5_paparan_total_s_d.4_54	4.54	4.54	4.54	CD	NUMBER	4.54	4.54				
+13	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_89	8.89	8.89	8.89	CD	NUMBER	8.89	8.89				
+13	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_18	4.18	4.18	4.18	CD	NUMBER	4.18	4.18				
+13	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+13	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_31	4.31	4.31	4.31	CD	NUMBER	4.31	4.31				
+13	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_65	4.65	4.65	4.65	CD	NUMBER	4.65	4.65				
+13	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_44	3.44	3.44	3.44	CD	NUMBER	3.44	3.44				
+14	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_filipina_yang_terlihat_minoritas	minoritas yang terlihat atau status penduduk asli Filipina yang terlihat minoritas	minoritas|yang|terlihat|atau|status|penduduk|asli|filipina|yang|terlihat|minoritas	minoritas|yang|terlihat|atau|status|penduduk|asli|Filipina|yang|terlihat|minoritas	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+14	1	fb:cell_jumlah_sebaran_penduduk.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+14	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+14	3	fb:cell_distribusi_populasi_inti_perkotaan.96_4	96.4	96.4	96.4	CD	NUMBER	96.4	96.4				
+14	4	fb:cell_distribusi_populasi_pinggiran_kota.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+14	5	fb:cell_sebaran_penduduk_pedesaan.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+14	6	fb:cell_rata_rata_total_paparan_pm2_5.8_25	8.25	8.25	8.25	CD	NUMBER	8.25	8.25				
+14	7	fb:cell_pm2_5_paparan_total_s_d.4_38	4.38	4.38	4.38	CD	NUMBER	4.38	4.38				
+14	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_37	8.37	8.37	8.37	CD	NUMBER	8.37	8.37				
+14	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_17	4.17	4.17	4.17	CD	NUMBER	4.17	4.17				
+14	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_61	5.61	5.61	5.61	CD	NUMBER	5.61	5.61				
+14	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_54	3.54	3.54	3.54	CD	NUMBER	3.54	3.54				
+14	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_35	4.35	4.35	4.35	CD	NUMBER	4.35	4.35				
+14	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_15	3.15	3.15	3.15	CD	NUMBER	3.15	3.15				
+15	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat_di_amerika_latin	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat di Amerika Latin	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|di|amerika|latin	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|di|Amerika|Latin	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+15	1	fb:cell_jumlah_sebaran_penduduk.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+15	3	fb:cell_distribusi_populasi_inti_perkotaan.94_4	94.4	94.4	94.4	CD	NUMBER	94.4	94.4				
+15	4	fb:cell_distribusi_populasi_pinggiran_kota.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+15	5	fb:cell_sebaran_penduduk_pedesaan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+15	6	fb:cell_rata_rata_total_paparan_pm2_5.8_78	8.78	8.78	8.78	CD	NUMBER	8.78	8.78				
+15	7	fb:cell_pm2_5_paparan_total_s_d.4_46	4.46	4.46	4.46	CD	NUMBER	4.46	4.46				
+15	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_95	8.95	8.95	8.95	CD	NUMBER	8.95	8.95				
+15	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_19	4.19	4.19	4.19	CD	NUMBER	4.19	4.19				
+15	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.6_48	6.48	6.48	6.48	CD	NUMBER	6.48	6.48				
+15	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+15	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.5_21	5.21	5.21	5.21	CD	NUMBER	5.21	5.21				
+15	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_98	2.98	2.98	2.98	CD	NUMBER	2.98	2.98				
+16	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_arab_minoritas_yang_terlihat	minoritas yang terlihat atau status penduduk asli arab minoritas yang terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|arab|minoritas|yang|terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|arab|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NN|NN|IN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|MISC|O|O|O	||||||||||					
+16	1	fb:cell_jumlah_sebaran_penduduk.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+16	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+16	3	fb:cell_distribusi_populasi_inti_perkotaan.96_3	96.3	96.3	96.3	CD	NUMBER	96.3	96.3				
+16	4	fb:cell_distribusi_populasi_pinggiran_kota.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+16	5	fb:cell_sebaran_penduduk_pedesaan.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+16	6	fb:cell_rata_rata_total_paparan_pm2_5.8_73	8.73	8.73	8.73	CD	NUMBER	8.73	8.73				
+16	7	fb:cell_pm2_5_paparan_total_s_d.4_37	4.37	4.37	4.37	CD	NUMBER	4.37	4.37				
+16	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_87	8.87	8.87	8.87	CD	NUMBER	8.87	8.87				
+16	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_05	4.05	4.05	4.05	CD	NUMBER	4.05	4.05				
+16	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_38	5.38	5.38	5.38	CD	NUMBER	5.38	5.38				
+16	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_66	3.66	3.66	3.66	CD	NUMBER	3.66	3.66				
+16	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_61	4.61	4.61	4.61	CD	NUMBER	4.61	4.61				
+16	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_39	3.39	3.39	3.39	CD	NUMBER	3.39	3.39				
+17	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat_di_asia_lainnya	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat di Asia lainnya	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|di|asia|lainnya	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|di|Asia|lainnya	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+17	1	fb:cell_jumlah_sebaran_penduduk.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+17	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+17	3	fb:cell_distribusi_populasi_inti_perkotaan.94_7	94.7	94.7	94.7	CD	NUMBER	94.7	94.7				
+17	4	fb:cell_distribusi_populasi_pinggiran_kota.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+17	5	fb:cell_sebaran_penduduk_pedesaan.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+17	6	fb:cell_rata_rata_total_paparan_pm2_5.8_31	8.31	8.31	8.31	CD	NUMBER	8.31	8.31				
+17	7	fb:cell_pm2_5_paparan_total_s_d.4_54	4.54	4.54	4.54	CD	NUMBER	4.54	4.54				
+17	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_47	8.47	8.47	8.47	CD	NUMBER	8.47	8.47				
+17	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+17	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.6_04	6.04	6.04	6.04	CD	NUMBER	6.04	6.04				
+17	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_89	3.89	3.89	3.89	CD	NUMBER	3.89	3.89				
+17	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_69	4.69	4.69	4.69	CD	NUMBER	4.69	4.69				
+17	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_05	3.05	3.05	3.05	CD	NUMBER	3.05	3.05				
+18	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat_beberapa_minoritas_yang_terlihat	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat beberapa minoritas yang terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|beberapa|minoritas|yang|terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|beberapa|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+18	1	fb:cell_jumlah_sebaran_penduduk.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+18	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+18	3	fb:cell_distribusi_populasi_inti_perkotaan.95_2	95.2	95.2	95.2	CD	NUMBER	95.2	95.2				
+18	4	fb:cell_distribusi_populasi_pinggiran_kota.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+18	5	fb:cell_sebaran_penduduk_pedesaan.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+18	6	fb:cell_rata_rata_total_paparan_pm2_5.8_32	8.32	8.32	8.32	CD	NUMBER	8.32	8.32				
+18	7	fb:cell_pm2_5_paparan_total_s_d.4_47	4.47	4.47	4.47	CD	NUMBER	4.47	4.47				
+18	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_46	8.46	8.46	8.46	CD	NUMBER	8.46	8.46				
+18	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_24	4.24	4.24	4.24	CD	NUMBER	4.24	4.24				
+18	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_99	5.99	5.99	5.99	CD	NUMBER	5.99	5.99				
+18	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.3_95	3.95	3.95	3.95	CD	NUMBER	3.95	3.95				
+18	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_63	4.63	4.63	4.63	CD	NUMBER	4.63	4.63				
+18	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_58	2.58	2.58	2.58	CD	NUMBER	2.58	2.58				
+19	0	fb:cell_kharakteristik.minoritas_yang_terlihat_atau_status_penduduk_asli_minoritas_yang_terlihat_minoritas_lainnya_yang_terlihat	minoritas yang terlihat atau status penduduk asli minoritas yang terlihat minoritas lainnya yang terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|minoritas|lainnya|yang|terlihat	minoritas|yang|terlihat|atau|status|penduduk|asli|minoritas|yang|terlihat|minoritas|lainnya|yang|terlihat	NNP|NNP|NNP|NNP|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+19	1	fb:cell_jumlah_sebaran_penduduk.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+19	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+19	3	fb:cell_distribusi_populasi_inti_perkotaan.95_1	95.1	95.1	95.1	CD	NUMBER	95.1	95.1				
+19	4	fb:cell_distribusi_populasi_pinggiran_kota.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+19	5	fb:cell_sebaran_penduduk_pedesaan.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+19	6	fb:cell_rata_rata_total_paparan_pm2_5.8_68	8.68	8.68	8.68	CD	NUMBER	8.68	8.68				
+19	7	fb:cell_pm2_5_paparan_total_s_d.4_52	4.52	4.52	4.52	CD	NUMBER	4.52	4.52				
+19	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_83	8.83	8.83	8.83	CD	NUMBER	8.83	8.83				
+19	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_22	4.22	4.22	4.22	CD	NUMBER	4.22	4.22				
+19	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.6_43	6.43	6.43	6.43	CD	NUMBER	6.43	6.43				
+19	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_14	4.14	4.14	4.14	CD	NUMBER	4.14	4.14				
+19	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_94	4.94	4.94	4.94	CD	NUMBER	4.94	4.94				
+19	13	fb:cell_paparan_pm2_5_pedesaan_s_d.4_33	4.33	4.33	4.33	CD	NUMBER	4.33	4.33				
+20	0	fb:cell_kharakteristik.status_imigrasi	status imigrasi	status|imigrasi	status|imigrasi	NN|NN	O|O	|					
+20	1	fb:cell_jumlah_sebaran_penduduk.null											
+20	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+20	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+20	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+20	5	fb:cell_sebaran_penduduk_pedesaan.null											
+20	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+20	7	fb:cell_pm2_5_paparan_total_s_d.null											
+20	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+20	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+20	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+20	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+20	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+20	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+21	0	fb:cell_kharakteristik.status_imigrasi_bukan_imigran	status imigrasi bukan imigran	status|imigrasi|bukan|imigran	status|imigrasi|bukan|imigran	NN|NN|NN|NN	O|O|O|O	|||					
+21	1	fb:cell_jumlah_sebaran_penduduk.79_3	79.3	79.3	79.3	CD	NUMBER	79.3	79.3				
+21	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+21	3	fb:cell_distribusi_populasi_inti_perkotaan.64_9	64.9	64.9	64.9	CD	NUMBER	64.9	64.9				
+21	4	fb:cell_distribusi_populasi_pinggiran_kota.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+21	5	fb:cell_sebaran_penduduk_pedesaan.23_3	23.3	23.3	23.3	CD	NUMBER	23.3	23.3				
+21	6	fb:cell_rata_rata_total_paparan_pm2_5.6_73	6.73	6.73	6.73	CD	NUMBER	6.73	6.73				
+21	7	fb:cell_pm2_5_paparan_total_s_d.5_52	5.52	5.52	5.52	CD	NUMBER	5.52	5.52				
+21	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_81	7.81	7.81	7.81	CD	NUMBER	7.81	7.81				
+21	9	fb:cell_paparan_pm2_5_urban_core_s_d.5_02	5.02	5.02	5.02	CD	NUMBER	5.02	5.02				
+21	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_58	5.58	5.58	5.58	CD	NUMBER	5.58	5.58				
+21	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_23	4.23	4.23	4.23	CD	NUMBER	4.23	4.23				
+21	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_29	4.29	4.29	4.29	CD	NUMBER	4.29	4.29				
+21	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_73	2.73	2.73	2.73	CD	NUMBER	2.73	2.73				
+22	0	fb:cell_kharakteristik.status_imigrasi_imigran	status imigrasi imigran	status|imigrasi|imigran	status|imigrasus|imigran	NN|NNS|NN	O|O|O	||					
+22	1	fb:cell_jumlah_sebaran_penduduk.20_7	20.7	20.7	20.7	CD	NUMBER	20.7	20.7				
+22	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+22	3	fb:cell_distribusi_populasi_inti_perkotaan.89_8	89.8	89.8	89.8	CD	NUMBER	89.8	89.8				
+22	4	fb:cell_distribusi_populasi_pinggiran_kota.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+22	5	fb:cell_sebaran_penduduk_pedesaan.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+22	6	fb:cell_rata_rata_total_paparan_pm2_5.8_28	8.28	8.28	8.28	CD	NUMBER	8.28	8.28				
+22	7	fb:cell_pm2_5_paparan_total_s_d.4_82	4.82	4.82	4.82	CD	NUMBER	4.82	4.82				
+22	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_63	8.63	8.63	8.63	CD	NUMBER	8.63	8.63				
+22	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_26	4.26	4.26	4.26	CD	NUMBER	4.26	4.26				
+22	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.6_07	6.07	6.07	6.07	CD	NUMBER	6.07	6.07				
+22	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_23	4.23	4.23	4.23	CD	NUMBER	4.23	4.23				
+22	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_73	4.73	4.73	4.73	CD	NUMBER	4.73	4.73				
+22	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_29	3.29	3.29	3.29	CD	NUMBER	3.29	3.29				
+23	0	fb:cell_kharakteristik.pendidikan	pendidikan	pendidikan	pendidikan	NNP	O						
+23	1	fb:cell_jumlah_sebaran_penduduk.null											
+23	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+23	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+23	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+23	5	fb:cell_sebaran_penduduk_pedesaan.null											
+23	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+23	7	fb:cell_pm2_5_paparan_total_s_d.null											
+23	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+23	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+23	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+23	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+23	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+23	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+24	0	fb:cell_kharakteristik.pendidikannya_kurang_dari_kelulusan_sekolah_menengah	pendidikannya kurang dari kelulusan sekolah menengah	pendidikannya|kurang|dari|kelulusan|sekolah|menengah	pendidikannya|kurang|dari|kelulusan|sekolah|menengah	NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+24	1	fb:cell_jumlah_sebaran_penduduk.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+24	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+24	3	fb:cell_distribusi_populasi_inti_perkotaan.61_1	61.1	61.1	61.1	CD	NUMBER	61.1	61.1				
+24	4	fb:cell_distribusi_populasi_pinggiran_kota.12_1	12.1	12.1	12.1	CD	NUMBER	12.1	12.1				
+24	5	fb:cell_sebaran_penduduk_pedesaan.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+24	6	fb:cell_rata_rata_total_paparan_pm2_5.6_78	6.78	6.78	6.78	CD	NUMBER	6.78	6.78				
+24	7	fb:cell_pm2_5_paparan_total_s_d.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+24	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_17	8.17	8.17	8.17	CD	NUMBER	8.17	8.17				
+24	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+24	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+24	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_28	4.28	4.28	4.28	CD	NUMBER	4.28	4.28				
+24	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+24	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_64	2.64	2.64	2.64	CD	NUMBER	2.64	2.64				
+25	0	fb:cell_kharakteristik.kelulusan_menengah_pendidikan	kelulusan menengah pendidikan	kelulusan|menengah|pendidikan	kelulusan|menengah|pendidikan	NNP|NNP|NNP	O|O|O	||					
+25	1	fb:cell_jumlah_sebaran_penduduk.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+25	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+25	3	fb:cell_distribusi_populasi_inti_perkotaan.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+25	4	fb:cell_distribusi_populasi_pinggiran_kota.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+25	5	fb:cell_sebaran_penduduk_pedesaan.19_9	19.9	19.9	19.9	CD	NUMBER	19.9	19.9				
+25	6	fb:cell_rata_rata_total_paparan_pm2_5.7_08	7.08	7.08	7.08	CD	NUMBER	7.08	7.08				
+25	7	fb:cell_pm2_5_paparan_total_s_d.5_64	5.64	5.64	5.64	CD	NUMBER	5.64	5.64				
+25	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_06	8.06	8.06	8.06	CD	NUMBER	8.06	8.06				
+25	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_92	4.92	4.92	4.92	CD	NUMBER	4.92	4.92				
+25	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_73	5.73	5.73	5.73	CD	NUMBER	5.73	5.73				
+25	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_34	4.34	4.34	4.34	CD	NUMBER	4.34	4.34				
+25	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_38	4.38	4.38	4.38	CD	NUMBER	4.38	4.38				
+25	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_97	2.97	2.97	2.97	CD	NUMBER	2.97	2.97				
+26	0	fb:cell_kharakteristik.ijazah_atau_sertifikat_pendidikan_non_universitas	ijazah atau sertifikat pendidikan non-universitas	ijazah|atau|sertifikat|pendidikan|non|universitas	ijazah|atau|sertifikat|pendidikan|non|universita	NNP|NNP|NNP|NNP|JJ|NNS	O|O|O|O|O|O	|||||					
+26	1	fb:cell_jumlah_sebaran_penduduk.21_8	21.8	21.8	21.8	CD	NUMBER	21.8	21.8				
+26	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+26	3	fb:cell_distribusi_populasi_inti_perkotaan.69_3	69.3	69.3	69.3	CD	NUMBER	69.3	69.3				
+26	4	fb:cell_distribusi_populasi_pinggiran_kota.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+26	5	fb:cell_sebaran_penduduk_pedesaan.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+26	6	fb:cell_rata_rata_total_paparan_pm2_5.6_98	6.98	6.98	6.98	CD	NUMBER	6.98	6.98				
+26	7	fb:cell_pm2_5_paparan_total_s_d.5_58	5.58	5.58	5.58	CD	NUMBER	5.58	5.58				
+26	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_93	7.93	7.93	7.93	CD	NUMBER	7.93	7.93				
+26	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_94	4.94	4.94	4.94	CD	NUMBER	4.94	4.94				
+26	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_64	5.64	5.64	5.64	CD	NUMBER	5.64	5.64				
+26	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_27	4.27	4.27	4.27	CD	NUMBER	4.27	4.27				
+26	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_39	4.39	4.39	4.39	CD	NUMBER	4.39	4.39				
+26	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_93	2.93	2.93	2.93	CD	NUMBER	2.93	2.93				
+27	0	fb:cell_kharakteristik.gelar_universitas_pendidikan	gelar universitas pendidikan	gelar|universitas|pendidikan	gelar|universita|pendidikan	JJ|NNS|NN	O|O|O	||					
+27	1	fb:cell_jumlah_sebaran_penduduk.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+27	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+27	3	fb:cell_distribusi_populasi_inti_perkotaan.82_6	82.6	82.6	82.6	CD	NUMBER	82.6	82.6				
+27	4	fb:cell_distribusi_populasi_pinggiran_kota.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+27	5	fb:cell_sebaran_penduduk_pedesaan.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+27	6	fb:cell_rata_rata_total_paparan_pm2_5.7_59	7.59	7.59	7.59	CD	NUMBER	7.59	7.59				
+27	7	fb:cell_pm2_5_paparan_total_s_d.5_37	5.37	5.37	5.37	CD	NUMBER	5.37	5.37				
+27	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_17	8.17	8.17	8.17	CD	NUMBER	8.17	8.17				
+27	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_77	4.77	4.77	4.77	CD	NUMBER	4.77	4.77				
+27	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_66	5.66	5.66	5.66	CD	NUMBER	5.66	5.66				
+27	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_07	4.07	4.07	4.07	CD	NUMBER	4.07	4.07				
+27	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_39	4.39	4.39	4.39	CD	NUMBER	4.39	4.39				
+27	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_89	2.89	2.89	2.89	CD	NUMBER	2.89	2.89				
+28	0	fb:cell_kharakteristik.status_angkatan_kerja	status angkatan kerja	status|angkatan|kerja	status|angkatan|kerja	NN|NN|NN	O|O|O	||					
+28	1	fb:cell_jumlah_sebaran_penduduk.null											
+28	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+28	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+28	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+28	5	fb:cell_sebaran_penduduk_pedesaan.null											
+28	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+28	7	fb:cell_pm2_5_paparan_total_s_d.null											
+28	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+28	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+28	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+28	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+28	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+28	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+29	0	fb:cell_kharakteristik.status_angkatan_kerja_bekerja	status angkatan kerja bekerja	status|angkatan|kerja|bekerja	status|angkatan|kerja|bekerja	NN|NN|NN|NN	O|O|O|O	|||					
+29	1	fb:cell_jumlah_sebaran_penduduk.43_6	43.6	43.6	43.6	CD	NUMBER	43.6	43.6				
+29	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+29	3	fb:cell_distribusi_populasi_inti_perkotaan.70_7	70.7	70.7	70.7	CD	NUMBER	70.7	70.7				
+29	4	fb:cell_distribusi_populasi_pinggiran_kota.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+29	5	fb:cell_sebaran_penduduk_pedesaan.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+29	6	fb:cell_rata_rata_total_paparan_pm2_5.7_06	7.06	7.06	7.06	CD	NUMBER	7.06	7.06				
+29	7	fb:cell_pm2_5_paparan_total_s_d.5_57	5.57	5.57	5.57	CD	NUMBER	5.57	5.57				
+29	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_99	7.99	7.99	7.99	CD	NUMBER	7.99	7.99				
+29	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+29	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_65	5.65	5.65	5.65	CD	NUMBER	5.65	5.65				
+29	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_21	4.21	4.21	4.21	CD	NUMBER	4.21	4.21				
+29	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_37	4.37	4.37	4.37	CD	NUMBER	4.37	4.37				
+29	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_89	2.89	2.89	2.89	CD	NUMBER	2.89	2.89				
+30	0	fb:cell_kharakteristik.status_angkatan_kerja_menganggur	status angkatan kerja menganggur	status|angkatan|kerja|menganggur	status|angkatan|kerja|menganggur	NN|NN|NN|NN	O|O|O|O	|||					
+30	1	fb:cell_jumlah_sebaran_penduduk.22_5	22.5	22.5	22.5	CD	NUMBER	22.5	22.5				
+30	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+30	3	fb:cell_distribusi_populasi_inti_perkotaan.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+30	4	fb:cell_distribusi_populasi_pinggiran_kota.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+30	5	fb:cell_sebaran_penduduk_pedesaan.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+30	6	fb:cell_rata_rata_total_paparan_pm2_5.7_13	7.13	7.13	7.13	CD	NUMBER	7.13	7.13				
+30	7	fb:cell_pm2_5_paparan_total_s_d.5_69	5.69	5.69	5.69	CD	NUMBER	5.69	5.69				
+30	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_19	8.19	8.19	8.19	CD	NUMBER	8.19	8.19				
+30	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_85	4.85	4.85	4.85	CD	NUMBER	4.85	4.85				
+30	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_61	5.61	5.61	5.61	CD	NUMBER	5.61	5.61				
+30	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_36	4.36	4.36	4.36	CD	NUMBER	4.36	4.36				
+30	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_28	4.28	4.28	4.28	CD	NUMBER	4.28	4.28				
+30	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+31	0	fb:cell_kharakteristik.status_angkatan_kerja_bukan_angkatan_kerja	status angkatan kerja bukan angkatan kerja	status|angkatan|kerja|bukan|angkatan|kerja	status|angkatan|kerja|bukan|angkatan|kerja	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+31	1	fb:cell_jumlah_sebaran_penduduk.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+31	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+31	3	fb:cell_distribusi_populasi_inti_perkotaan.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+31	4	fb:cell_distribusi_populasi_pinggiran_kota.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+31	5	fb:cell_sebaran_penduduk_pedesaan.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+31	6	fb:cell_rata_rata_total_paparan_pm2_5.7_02	7.02	7.02	7.02	CD	NUMBER	7.02	7.02				
+31	7	fb:cell_pm2_5_paparan_total_s_d.5_79	5.79	5.79	5.79	CD	NUMBER	5.79	5.79				
+31	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+31	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_86	4.86	4.86	4.86	CD	NUMBER	4.86	4.86				
+31	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_34	5.34	5.34	5.34	CD	NUMBER	5.34	5.34				
+31	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_27	4.27	4.27	4.27	CD	NUMBER	4.27	4.27				
+31	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.3_99	3.99	3.99	3.99	CD	NUMBER	3.99	3.99				
+31	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_36	2.36	2.36	2.36	CD	NUMBER	2.36	2.36				
+32	0	fb:cell_kharakteristik.pendapatan_rumah_tangga	pendapatan rumah tangga	pendapatan|rumah|tangga	pendapatan|rumah|tangga	NNP|NNP|NNP	O|O|O	||					
+32	1	fb:cell_jumlah_sebaran_penduduk.null											
+32	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+32	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+32	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+32	5	fb:cell_sebaran_penduduk_pedesaan.null											
+32	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+32	7	fb:cell_pm2_5_paparan_total_s_d.null											
+32	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+32	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+32	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+32	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+32	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+32	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+33	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_kurang_dari_30_000	pendapatan rumah tangga kurang dari 30.000	pendapatan|rumah|tangga|kurang|dari|30.000	pendapatan|rumah|tangga|kurang|dari|30.000	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||30.0	30.0				
+33	1	fb:cell_jumlah_sebaran_penduduk.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+33	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+33	3	fb:cell_distribusi_populasi_inti_perkotaan.69_6	69.6	69.6	69.6	CD	NUMBER	69.6	69.6				
+33	4	fb:cell_distribusi_populasi_pinggiran_kota.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+33	5	fb:cell_sebaran_penduduk_pedesaan.20_4	20.4	20.4	20.4	CD	NUMBER	20.4	20.4				
+33	6	fb:cell_rata_rata_total_paparan_pm2_5.7_21	7.21	7.21	7.21	CD	NUMBER	7.21	7.21				
+33	7	fb:cell_pm2_5_paparan_total_s_d.5_67	5.67	5.67	5.67	CD	NUMBER	5.67	5.67				
+33	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_37	8.37	8.37	8.37	CD	NUMBER	8.37	8.37				
+33	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_79	4.79	4.79	4.79	CD	NUMBER	4.79	4.79				
+33	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_51	5.51	5.51	5.51	CD	NUMBER	5.51	5.51				
+33	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_35	4.35	4.35	4.35	CD	NUMBER	4.35	4.35				
+33	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_11	4.11	4.11	4.11	CD	NUMBER	4.11	4.11				
+33	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_36	2.36	2.36	2.36	CD	NUMBER	2.36	2.36				
+34	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_30_000_hingga_50_000	pendapatan rumah tangga 30.000 hingga 50.000	pendapatan|rumah|tangga|30.000|hingga|50.000	pendapatan|rumah|tangga|30.000|hingga|50.000	NNP|NNP|NNP|CD|JJ|CD	O|O|O|NUMBER|O|NUMBER	|||30.0||50.0	30.0		50.0		
+34	1	fb:cell_jumlah_sebaran_penduduk.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+34	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+34	3	fb:cell_distribusi_populasi_inti_perkotaan.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+34	4	fb:cell_distribusi_populasi_pinggiran_kota.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+34	5	fb:cell_sebaran_penduduk_pedesaan.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+34	6	fb:cell_rata_rata_total_paparan_pm2_5.7_05	7.05	7.05	7.05	CD	NUMBER	7.05	7.05				
+34	7	fb:cell_pm2_5_paparan_total_s_d.5_73	5.73	5.73	5.73	CD	NUMBER	5.73	5.73				
+34	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_21	8.21	8.21	8.21	CD	NUMBER	8.21	8.21				
+34	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_89	4.89	4.89	4.89	CD	NUMBER	4.89	4.89				
+34	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_59	5.59	5.59	5.59	CD	NUMBER	5.59	5.59				
+34	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_32	4.32	4.32	4.32	CD	NUMBER	4.32	4.32				
+34	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_23	4.23	4.23	4.23	CD	NUMBER	4.23	4.23				
+34	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_66	2.66	2.66	2.66	CD	NUMBER	2.66	2.66				
+35	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_50_000_hingga_90_000	pendapatan rumah tangga 50.000 hingga 90.000	pendapatan|rumah|tangga|50.000|hingga|90.000	pendapatan|rumah|tangga|50.000|hingga|90.000	NNP|NNP|NNP|CD|JJ|CD	O|O|O|NUMBER|O|NUMBER	|||50.0||90.0	50.0		90.0		
+35	1	fb:cell_jumlah_sebaran_penduduk.31_7	31.7	31.7	31.7	CD	NUMBER	31.7	31.7				
+35	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+35	3	fb:cell_distribusi_populasi_inti_perkotaan.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+35	4	fb:cell_distribusi_populasi_pinggiran_kota.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+35	5	fb:cell_sebaran_penduduk_pedesaan.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+35	6	fb:cell_rata_rata_total_paparan_pm2_5.6_94	6.94	6.94	6.94	CD	NUMBER	6.94	6.94				
+35	7	fb:cell_pm2_5_paparan_total_s_d.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+35	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_96	7.96	7.96	7.96	CD	NUMBER	7.96	7.96				
+35	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_95	4.95	4.95	4.95	CD	NUMBER	4.95	4.95				
+35	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_62	5.62	5.62	5.62	CD	NUMBER	5.62	5.62				
+35	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_25	4.25	4.25	4.25	CD	NUMBER	4.25	4.25				
+35	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_34	4.34	4.34	4.34	CD	NUMBER	4.34	4.34				
+35	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_85	2.85	2.85	2.85	CD	NUMBER	2.85	2.85				
+36	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_lebih_dari_90_000	pendapatan rumah tangga lebih dari 90.000	pendapatan|rumah|tangga|lebih|dari|90.000	pendapatan|rumah|tangga|lebih|dari|90.000	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||90.0	90.0				
+36	1	fb:cell_jumlah_sebaran_penduduk.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+36	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+36	3	fb:cell_distribusi_populasi_inti_perkotaan.73_7	73.7	73.7	73.7	CD	NUMBER	73.7	73.7				
+36	4	fb:cell_distribusi_populasi_pinggiran_kota.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+36	5	fb:cell_sebaran_penduduk_pedesaan.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+36	6	fb:cell_rata_rata_total_paparan_pm2_5.7_06	7.06	7.06	7.06	CD	NUMBER	7.06	7.06				
+36	7	fb:cell_pm2_5_paparan_total_s_d.5_36	5.36	5.36	5.36	CD	NUMBER	5.36	5.36				
+36	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_82	7.82	7.82	7.82	CD	NUMBER	7.82	7.82				
+36	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_87	4.87	4.87	4.87	CD	NUMBER	4.87	4.87				
+36	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_69	5.69	5.69	5.69	CD	NUMBER	5.69	5.69				
+36	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+36	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_51	4.51	4.51	4.51	CD	NUMBER	4.51	4.51				
+36	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_04	3.04	3.04	3.04	CD	NUMBER	3.04	3.04				
+37	0	fb:cell_kharakteristik.status_berpenghasilan_rendah	status berpenghasilan rendah	status|berpenghasilan|rendah	status|berpenghasilan|rendah	NN|NN|NN	O|O|O	||					
+37	1	fb:cell_jumlah_sebaran_penduduk.null											
+37	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+37	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+37	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+37	5	fb:cell_sebaran_penduduk_pedesaan.null											
+37	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+37	7	fb:cell_pm2_5_paparan_total_s_d.null											
+37	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+37	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+37	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+37	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+37	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+37	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+38	0	fb:cell_kharakteristik.status_berpendapatan_rendah_berpendapatan_rendah	status berpendapatan rendah berpendapatan rendah	status|berpendapatan|rendah|berpendapatan|rendah	status|berpendapatan|rendah|berpendapatan|rendah	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+38	1	fb:cell_jumlah_sebaran_penduduk.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+38	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+38	3	fb:cell_distribusi_populasi_inti_perkotaan.84_7	84.7	84.7	84.7	CD	NUMBER	84.7	84.7				
+38	4	fb:cell_distribusi_populasi_pinggiran_kota.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+38	5	fb:cell_sebaran_penduduk_pedesaan.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+38	6	fb:cell_rata_rata_total_paparan_pm2_5.7_94	7.94	7.94	7.94	CD	NUMBER	7.94	7.94				
+38	7	fb:cell_pm2_5_paparan_total_s_d.5_43	5.43	5.43	5.43	CD	NUMBER	5.43	5.43				
+38	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_52	8.52	8.52	8.52	CD	NUMBER	8.52	8.52				
+38	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_57	4.57	4.57	4.57	CD	NUMBER	4.57	4.57				
+38	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_59	5.59	5.59	5.59	CD	NUMBER	5.59	5.59				
+38	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_52	4.52	4.52	4.52	CD	NUMBER	4.52	4.52				
+38	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_21	4.21	4.21	4.21	CD	NUMBER	4.21	4.21				
+38	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_89	2.89	2.89	2.89	CD	NUMBER	2.89	2.89				
+39	0	fb:cell_kharakteristik.status_berpendapatan_rendah_bukan_berpendapatan_rendah	status berpendapatan rendah, bukan berpendapatan rendah	status|berpendapatan|rendah|,|bukan|berpendapatan|rendah	status|berpendapatan|rendah|,|bukan|berpendapatan|rendah	NN|NN|NN|,|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				status berpendapatan rendah|bukan berpendapatan rendah	fb:part_kharakteristik.status_berpendapatan_rendah|fb:part_kharakteristik.bukan_berpendapatan_rendah
+39	1	fb:cell_jumlah_sebaran_penduduk.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+39	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+39	3	fb:cell_distribusi_populasi_inti_perkotaan.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+39	4	fb:cell_distribusi_populasi_pinggiran_kota.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+39	5	fb:cell_sebaran_penduduk_pedesaan.20_2	20.2	20.2	20.2	CD	NUMBER	20.2	20.2				
+39	6	fb:cell_rata_rata_total_paparan_pm2_5.6_98	6.98	6.98	6.98	CD	NUMBER	6.98	6.98				
+39	7	fb:cell_pm2_5_paparan_total_s_d.5_68	5.68	5.68	5.68	CD	NUMBER	5.68	5.68				
+39	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_96	7.96	7.96	7.96	CD	NUMBER	7.96	7.96				
+39	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_96	4.96	4.96	4.96	CD	NUMBER	4.96	4.96				
+39	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_64	5.64	5.64	5.64	CD	NUMBER	5.64	5.64				
+39	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_31	4.31	4.31	4.31	CD	NUMBER	4.31	4.31				
+39	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_37	4.37	4.37	4.37	CD	NUMBER	4.37	4.37				
+39	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_06	3.06	3.06	3.06	CD	NUMBER	3.06	3.06				
+40	0	fb:cell_kharakteristik.minoritas_yang_terlihat_dan_berpenghasilan_rendah	minoritas yang terlihat dan berpenghasilan rendah	minoritas|yang|terlihat|dan|berpenghasilan|rendah	minoritas|yang|terlihat|dan|berpenghasilan|rendah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+40	1	fb:cell_jumlah_sebaran_penduduk.null											
+40	2	fb:cell_jumlah_sebaran_penduduk_2.null											
+40	3	fb:cell_distribusi_populasi_inti_perkotaan.null											
+40	4	fb:cell_distribusi_populasi_pinggiran_kota.null											
+40	5	fb:cell_sebaran_penduduk_pedesaan.null											
+40	6	fb:cell_rata_rata_total_paparan_pm2_5.null											
+40	7	fb:cell_pm2_5_paparan_total_s_d.null											
+40	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.null											
+40	9	fb:cell_paparan_pm2_5_urban_core_s_d.null											
+40	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.null											
+40	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.null											
+40	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.null											
+40	13	fb:cell_paparan_pm2_5_pedesaan_s_d.null											
+41	0	fb:cell_kharakteristik.minoritas_yang_terlihat_dan_orang_kulit_putih_berpenghasilan_rendah_berpenghasilan_rendah	minoritas yang terlihat dan orang kulit putih berpenghasilan rendah - berpenghasilan rendah	minoritas|yang|terlihat|dan|orang|kulit|putih|berpenghasilan|rendah|-|berpenghasilan|rendah	minoritas|yang|terlihat|dan|orang|kulit|putih|berpenghasilan|rendah|-|berpenghasilan|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+41	1	fb:cell_jumlah_sebaran_penduduk.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+41	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+41	3	fb:cell_distribusi_populasi_inti_perkotaan.78_3	78.3	78.3	78.3	CD	NUMBER	78.3	78.3				
+41	4	fb:cell_distribusi_populasi_pinggiran_kota.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+41	5	fb:cell_sebaran_penduduk_pedesaan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+41	6	fb:cell_rata_rata_total_paparan_pm2_5.7_59	7.59	7.59	7.59	CD	NUMBER	7.59	7.59				
+41	7	fb:cell_pm2_5_paparan_total_s_d.5_76	5.76	5.76	5.76	CD	NUMBER	5.76	5.76				
+41	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_37	8.37	8.37	8.37	CD	NUMBER	8.37	8.37				
+41	9	fb:cell_paparan_pm2_5_urban_core_s_d.3_85	3.85	3.85	3.85	CD	NUMBER	3.85	3.85				
+41	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_61	5.61	5.61	5.61	CD	NUMBER	5.61	5.61				
+41	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_56	4.56	4.56	4.56	CD	NUMBER	4.56	4.56				
+41	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_28	4.28	4.28	4.28	CD	NUMBER	4.28	4.28				
+41	13	fb:cell_paparan_pm2_5_pedesaan_s_d.2_96	2.96	2.96	2.96	CD	NUMBER	2.96	2.96				
+42	0	fb:cell_kharakteristik.minoritas_yang_terlihat_dan_orang_kulit_putih_berpenghasilan_rendah_bukan_orang_berpenghasilan_rendah	minoritas yang terlihat dan orang kulit putih berpenghasilan rendah - bukan orang berpenghasilan rendah	minoritas|yang|terlihat|dan|orang|kulit|putih|berpenghasilan|rendah|-|bukan|orang|berpenghasilan|rendah	minoritas|yang|terlihat|dan|orang|kulit|putih|berpenghasilan|rendah|-|bukan|orang|berpenghasilan|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+42	1	fb:cell_jumlah_sebaran_penduduk.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+42	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+42	3	fb:cell_distribusi_populasi_inti_perkotaan.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+42	4	fb:cell_distribusi_populasi_pinggiran_kota.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+42	5	fb:cell_sebaran_penduduk_pedesaan.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+42	6	fb:cell_rata_rata_total_paparan_pm2_5.6_78	6.78	6.78	6.78	CD	NUMBER	6.78	6.78				
+42	7	fb:cell_pm2_5_paparan_total_s_d.5_71	5.71	5.71	5.71	CD	NUMBER	5.71	5.71				
+42	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.7_84	7.84	7.84	7.84	CD	NUMBER	7.84	7.84				
+42	9	fb:cell_paparan_pm2_5_urban_core_s_d.5_09	5.09	5.09	5.09	CD	NUMBER	5.09	5.09				
+42	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_65	5.65	5.65	5.65	CD	NUMBER	5.65	5.65				
+42	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_32	4.32	4.32	4.32	CD	NUMBER	4.32	4.32				
+42	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_38	4.38	4.38	4.38	CD	NUMBER	4.38	4.38				
+42	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_08	3.08	3.08	3.08	CD	NUMBER	3.08	3.08				
+43	0	fb:cell_kharakteristik.minoritas_yang_terlihat_dan_berpenghasilan_rendah_minoritas_yang_terlihat_berpenghasilan_rendah	minoritas yang terlihat dan berpenghasilan rendah minoritas yang terlihat - berpenghasilan rendah	minoritas|yang|terlihat|dan|berpenghasilan|rendah|minoritas|yang|terlihat|-|berpenghasilan|rendah	minoritas|yang|terlihat|dan|berpenghasilan|rendah|minoritas|yang|terlihat|-|berpenghasilan|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+43	1	fb:cell_jumlah_sebaran_penduduk.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+43	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+43	3	fb:cell_distribusi_populasi_inti_perkotaan.98_3	98.3	98.3	98.3	CD	NUMBER	98.3	98.3				
+43	4	fb:cell_distribusi_populasi_pinggiran_kota.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+43	5	fb:cell_sebaran_penduduk_pedesaan.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+43	6	fb:cell_rata_rata_total_paparan_pm2_5.8_86	8.86	8.86	8.86	CD	NUMBER	8.86	8.86				
+43	7	fb:cell_pm2_5_paparan_total_s_d.3_92	3.92	3.92	3.92	CD	NUMBER	3.92	3.92				
+43	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_92	8.92	8.92	8.92	CD	NUMBER	8.92	8.92				
+43	9	fb:cell_paparan_pm2_5_urban_core_s_d.3_78	3.78	3.78	3.78	CD	NUMBER	3.78	3.78				
+43	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.6_02	6.02	6.02	6.02	CD	NUMBER	6.02	6.02				
+43	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_27	4.27	4.27	4.27	CD	NUMBER	4.27	4.27				
+43	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_66	4.66	4.66	4.66	CD	NUMBER	4.66	4.66				
+43	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_63	3.63	3.63	3.63	CD	NUMBER	3.63	3.63				
+44	0	fb:cell_kharakteristik.minoritas_yang_terlihat_dan_berpendapatan_rendah_minoritas_yang_terlihat_bukan_berpendapatan_rendah	minoritas yang terlihat dan berpendapatan rendah minoritas yang terlihat - bukan berpendapatan rendah	minoritas|yang|terlihat|dan|berpendapatan|rendah|minoritas|yang|terlihat|-|bukan|berpendapatan|rendah	minoritas|yang|terlihat|dan|berpendapatan|rendah|minoritas|yang|terlihat|-|bukan|berpendapatan|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+44	1	fb:cell_jumlah_sebaran_penduduk.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+44	2	fb:cell_jumlah_sebaran_penduduk_2.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+44	3	fb:cell_distribusi_populasi_inti_perkotaan.95_5	95.5	95.5	95.5	CD	NUMBER	95.5	95.5				
+44	4	fb:cell_distribusi_populasi_pinggiran_kota.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+44	5	fb:cell_sebaran_penduduk_pedesaan.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+44	6	fb:cell_rata_rata_total_paparan_pm2_5.8_34	8.34	8.34	8.34	CD	NUMBER	8.34	8.34				
+44	7	fb:cell_pm2_5_paparan_total_s_d.4_42	4.42	4.42	4.42	CD	NUMBER	4.42	4.42				
+44	8	fb:cell_paparan_pm2_5_rata_rata_inti_perkotaan.8_48	8.48	8.48	8.48	CD	NUMBER	8.48	8.48				
+44	9	fb:cell_paparan_pm2_5_urban_core_s_d.4_18	4.18	4.18	4.18	CD	NUMBER	4.18	4.18				
+44	10	fb:cell_paparan_pm2_5_rata_rata_pinggiran_kota.5_93	5.93	5.93	5.93	CD	NUMBER	5.93	5.93				
+44	11	fb:cell_paparan_pm2_5_pinggiran_kota_s_d.4_05	4.05	4.05	4.05	CD	NUMBER	4.05	4.05				
+44	12	fb:cell_paparan_pm2_5_rata_rata_pedesaan.4_71	4.71	4.71	4.71	CD	NUMBER	4.71	4.71				
+44	13	fb:cell_paparan_pm2_5_pedesaan_s_d.3_21	3.21	3.21	3.21	CD	NUMBER	3.21	3.21				

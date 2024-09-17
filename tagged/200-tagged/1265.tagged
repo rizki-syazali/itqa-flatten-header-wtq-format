@@ -1,0 +1,41 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis	ubah (%) tahun pra-rilis menjadi rata-rata 3 tahun pertama pasca-rilis	ubah|-lrb-|%|-rrb-|tahun|pra|rilis|menjadi|rata|rata|3|tahun|pertama|pasca|rilis	ubah|-lrb-|%|-rrb-|tahun|pra|rilis|menjadi|rata|rata|3|tahun|pertama|pasca|rilis	NNP|-LRB-|NN|-RRB-|NN|NNP|NNP|NNP|JJ|JJ|CD|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O|O	||||||||||3.0||||					
+-1	2	fb:row.row._klien_vaksin	% klien vaksin	%|klien|vaksin	%|klien|vaksin	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row._dari_kelompok	% dari kelompok	%|dari|kelompok	%|dari|kelompok	NN|NNP|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+0	2	fb:cell__klien_vaksin.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+0	3	fb:cell__dari_kelompok.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.peningkatan_terbesar	peningkatan terbesar	peningkatan|terbesar	peningkatan|terbesar	NN|NN	O|O	|					
+1	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis.null											
+1	2	fb:cell__klien_vaksin.null											
+1	3	fb:cell__dari_kelompok.null											
+2	0	fb:cell_kharakteristik.peningkatan_rekrutmen_terbesar	peningkatan rekrutmen terbesar	peningkatan|rekrutmen|terbesar	peningkatan|rekrutmen|terbesar	NN|NN|NN	O|O|O	||					
+2	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+2	2	fb:cell__klien_vaksin.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+2	3	fb:cell__dari_kelompok.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+3	0	fb:cell_kharakteristik.peningkatan_terbesar_penduduk_nunavut	peningkatan terbesar penduduk nunavut	peningkatan|terbesar|penduduk|nunavut	peningkatan|terbesar|penduduk|nunavut	NN|NN|NN|NN	O|O|O|O	|||					
+3	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+3	2	fb:cell__klien_vaksin.null											
+3	3	fb:cell__dari_kelompok.null											
+4	0	fb:cell_kharakteristik.peningkatan_terbesar_dilayani_kurang_dari_2_tahun	peningkatan terbesar dilayani kurang dari 2 tahun	peningkatan|terbesar|dilayani|kurang|dari|2|tahun	peningkatan|terbesar|dilayani|kurang|dari|2|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|NUMBER|O	|||||2.0|	2.0				
+4	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+4	2	fb:cell__klien_vaksin.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+4	3	fb:cell__dari_kelompok.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+5	0	fb:cell_kharakteristik.penurunan_terbesar	penurunan terbesar	penurunan|terbesar	penurunan|terbesar	NN|NN	O|O	|					
+5	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis.null											
+5	2	fb:cell__klien_vaksin.null											
+5	3	fb:cell__dari_kelompok.null											
+6	0	fb:cell_kharakteristik.penurunan_terbesar_perempuan	penurunan terbesar perempuan	penurunan|terbesar|perempuan	penurunan|terbesar|perempuan	NN|NN|NN	O|O|O	||					
+6	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+6	2	fb:cell__klien_vaksin.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+6	3	fb:cell__dari_kelompok.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+7	0	fb:cell_kharakteristik.penurunan_rilis_medis_terbesar	penurunan rilis medis terbesar	penurunan|rilis|medis|terbesar	penurunan|rilis|medis|terbesar	NN|NN|NN|NN	O|O|O|O	|||					
+7	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+7	2	fb:cell__klien_vaksin.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+7	3	fb:cell__dari_kelompok.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+8	0	fb:cell_kharakteristik.penurunan_terbesar_terjadi_pada_2_hingga_9_tahun	penurunan terbesar terjadi pada 2 hingga 9 tahun	penurunan|terbesar|terjadi|pada|2|hingga|9|tahun	penurunan|terbesar|terjadi|pada|2|hingga|9|tahun	NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||2.0||9.0|	2.0		9.0		
+8	1	fb:cell_ubah_tahun_pra_rilis_menjadi_rata_rata_3_tahun_pertama_pasca_rilis._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+8	2	fb:cell__klien_vaksin.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+8	3	fb:cell__dari_kelompok.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				

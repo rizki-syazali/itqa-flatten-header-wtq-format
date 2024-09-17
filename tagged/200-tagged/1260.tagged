@@ -1,0 +1,22 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+-1	2	fb:row.row.wanita	wanita	wanita	wanita	NNP	PERSON						
+0	0	fb:cell_kharakteristik.persen_saran_dari_penasihat_keuangan	persen saran dari penasihat keuangan	persen|saran|dari|penasihat|keuangan	persen|saran|dari|penasihat|keuangan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_laki_laki.43_9	43.9	43.9	43.9	CD	NUMBER	43.9	43.9				
+0	2	fb:cell_wanita.51_5	51.5	51.5	51.5	CD	NUMBER	51.5	51.5				
+1	0	fb:cell_kharakteristik.persen_saran_dari_skor_kuis_rata_rata_penasihat_keuangan	persen saran dari skor kuis rata-rata penasihat keuangan	persen|saran|dari|skor|kuis|rata|rata|penasihat|keuangan	persen|saran|dari|skor|kuis|rata|rata|penasihat|keuangan	NNP|NNP|NNP|NNP|NNP|JJ|JJ|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_laki_laki.67_5	67.5	67.5	67.5	CD	NUMBER	67.5	67.5				
+1	2	fb:cell_wanita.62_7	62.7	62.7	62.7	CD	NUMBER	62.7	62.7				
+2	0	fb:cell_kharakteristik.persen_saran_dari_penasihat_keuangan_menjawab_kelima_pertanyaan_kunci_dengan_benar	persen saran dari penasihat keuangan menjawab kelima pertanyaan kunci dengan benar	persen|saran|dari|penasihat|keuangan|menjawab|kelima|pertanyaan|kunci|dengan|benar	persen|saran|dari|penasihat|keuangan|menjawab|kelima|pertanyaan|kunci|dengan|benar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+2	1	fb:cell_laki_laki.25_8	25.8	25.8	25.8	CD	NUMBER	25.8	25.8				
+2	2	fb:cell_wanita.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+3	0	fb:cell_kharakteristik.persen_tidak_ada_saran_dari_penasihat_keuangan	persen tidak ada saran dari penasihat keuangan	persen|tidak|ada|saran|dari|penasihat|keuangan	persen|tidak|ada|saran|dari|penasihat|keuangan	NNP|NNP|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_laki_laki.56_1	56.1	56.1	56.1	CD	NUMBER	56.1	56.1				
+3	2	fb:cell_wanita.48_5	48.5	48.5	48.5	CD	NUMBER	48.5	48.5				
+4	0	fb:cell_kharakteristik.persen_tidak_ada_saran_dari_skor_tes_rata_rata_penasihat_keuangan	persen tidak ada saran dari skor tes rata-rata penasihat keuangan	persen|tidak|ada|saran|dari|skor|tes|rata|rata|penasihat|keuangan	persen|tidak|ada|saran|dari|skor|tes|rata|rata|penasihat|keuangan	NNP|NNP|NN|NNP|NNP|NNP|NNP|JJ|JJ|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+4	1	fb:cell_laki_laki.58_1	58.1	58.1	58.1	CD	NUMBER	58.1	58.1				
+4	2	fb:cell_wanita.54_2	54.2	54.2	54.2	CD	NUMBER	54.2	54.2				
+5	0	fb:cell_kharakteristik.persen_tidak_ada_nasihat_dari_penasihat_keuangan_yang_menjawab_kelima_pertanyaan_kunci_dengan_benar	persen tidak ada nasihat dari penasihat keuangan yang menjawab kelima pertanyaan kunci dengan benar	persen|tidak|ada|nasihat|dari|penasihat|keuangan|yang|menjawab|kelima|pertanyaan|kunci|dengan|benar	persen|tidak|ada|nasihat|dari|penasihat|keuangan|yang|menjawab|kelima|pertanyaan|kunci|dengan|benar	NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+5	1	fb:cell_laki_laki.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+5	2	fb:cell_wanita.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				

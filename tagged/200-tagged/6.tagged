@@ -1,0 +1,534 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_minuman_2004	total minuman 2004	total|minuman|2004	total|minuman|2004	JJ|NNP|CD	O|O|DATE	||2004					
+-1	2	fb:row.row.total_minuman_2015	total minuman 2015	total|minuman|2015	total|minuman|2015	JJ|NNP|CD	O|O|DATE	||2015					
+-1	3	fb:row.row.skim_1_atau_2_susu_2004	skim, 1% atau 2% susu 2004	skim|,|1|%|atau|2|%|susu|2004	skim|,|1|%|atau|2|%|susu|2004	NN|,|CD|NN|NN|CD|NN|NN|CD	O|O|PERCENT|PERCENT|O|PERCENT|PERCENT|O|DATE	||%1.0|%1.0||%2.0|%2.0||2004					
+-1	4	fb:row.row.skim_1_atau_2_susu_2015	skim, 1% atau 2% susu 2015	skim|,|1|%|atau|2|%|susu|2015	skim|,|1|%|atau|2|%|susu|2015	NN|,|CD|NN|NN|CD|NN|NN|CD	O|O|PERCENT|PERCENT|O|PERCENT|PERCENT|O|DATE	||%1.0|%1.0||%2.0|%2.0||2015					
+-1	5	fb:row.row.susu_utuh_dan_susu_rasa_2004	susu utuh dan susu rasa 2004	susu|utuh|dan|susu|rasa|2004	susu|utuh|dan|susu|rasa|2004	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2004					
+-1	6	fb:row.row.susu_utuh_dan_susu_rasa_2015	susu utuh dan susu rasa 2015	susu|utuh|dan|susu|rasa|2015	susu|utuh|dan|susu|rasa|2015	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2015					
+-1	7	fb:row.row.jus_buah_2004	jus buah 2004	jus|buah|2004	jus|buah|2004	NNP|NNP|CD	O|O|DATE	||2004					
+-1	8	fb:row.row.jus_buah_2015	jus buah 2015	jus|buah|2015	jus|buah|2015	NNP|NNP|CD	O|O|DATE	||2015					
+-1	9	fb:row.row.minuman_ringan_2004	minuman ringan 2004	minuman|ringan|2004	minuman|ringan|2004	NNP|NNP|CD	O|O|DATE	||2004					
+-1	10	fb:row.row.minuman_ringan_tahun_2015	minuman ringan tahun 2015	minuman|ringan|tahun|2015	minuman|ringan|tahun|2015	NNP|NNP|NNP|CD	O|O|O|DATE	|||2015					
+-1	11	fb:row.row.minuman_buah_2004	minuman buah 2004	minuman|buah|2004	minuman|buah|2004	NNP|NNP|CD	O|O|DATE	||2004					
+-1	12	fb:row.row.minuman_buah_2015	minuman buah 2015	minuman|buah|2015	minuman|buah|2015	NNP|NNP|CD	O|O|DATE	||2015					
+0	0	fb:cell_kharakteristik.kedua_jenis_kelamin_1_hingga_8_tahun	kedua jenis kelamin, 1 hingga 8 tahun	kedua|jenis|kelamin|,|1|hingga|8|tahun	kedua|jenis|kelamin|,|1|hingga|8|tahun	NNP|NNP|NNP|,|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.1_hingga_8_tahun
+0	1	fb:cell_total_minuman_2004.null											
+0	2	fb:cell_total_minuman_2015.null											
+0	3	fb:cell_skim_1_atau_2_susu_2004.null											
+0	4	fb:cell_skim_1_atau_2_susu_2015.null											
+0	5	fb:cell_susu_utuh_dan_susu_rasa_2004.null											
+0	6	fb:cell_susu_utuh_dan_susu_rasa_2015.null											
+0	7	fb:cell_jus_buah_2004.null											
+0	8	fb:cell_jus_buah_2015.null											
+0	9	fb:cell_minuman_ringan_2004.null											
+0	10	fb:cell_minuman_ringan_tahun_2015.null											
+0	11	fb:cell_minuman_buah_2004.null											
+0	12	fb:cell_minuman_buah_2015.null											
+1	0	fb:cell_kharakteristik.kedua_jenis_kelamin_kuantitas_1_hingga_8_tahun	kedua jenis kelamin, kuantitas 1 hingga 8 tahun	kedua|jenis|kelamin|,|kuantitas|1|hingga|8|tahun	kedua|jenis|kelamin|,|kuantitas|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|kuantitas 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.kuantitas_1_hingga_8_tahun
+1	1	fb:cell_total_minuman_2004.1091_0	1091.0	1091.0	1091.0	CD	NUMBER	1091.0	1091.0				
+1	2	fb:cell_total_minuman_2015.975_0	975.0	975.0	975.0	CD	NUMBER	975.0	975.0				
+1	3	fb:cell_skim_1_atau_2_susu_2004.243_0	243.0	243.0	243.0	CD	NUMBER	243.0	243.0				
+1	4	fb:cell_skim_1_atau_2_susu_2015.190_0	190.0	190.0	190.0	CD	NUMBER	190.0	190.0				
+1	5	fb:cell_susu_utuh_dan_susu_rasa_2004.167_0	167.0	167.0	167.0	CD	NUMBER	167.0	167.0				
+1	6	fb:cell_susu_utuh_dan_susu_rasa_2015.131_0	131.0	131.0	131.0	CD	NUMBER	131.0	131.0				
+1	7	fb:cell_jus_buah_2004.176_6	176.6	176.6	176.6	CD	NUMBER	176.6	176.6				
+1	8	fb:cell_jus_buah_2015.122_5	122.5	122.5	122.5	CD	NUMBER	122.5	122.5				
+1	9	fb:cell_minuman_ringan_2004.42_4	42.4	42.4	42.4	CD	NUMBER	42.4	42.4				
+1	10	fb:cell_minuman_ringan_tahun_2015.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+1	11	fb:cell_minuman_buah_2004.122_2	122.2	122.2	122.2	CD	NUMBER	122.2	122.2				
+1	12	fb:cell_minuman_buah_2015.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+2	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_energi_1_hingga_8_tahun	kedua jenis kelamin, proporsi energi 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|energi|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|energi|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi energi 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_energi_1_hingga_8_tahun
+2	1	fb:cell_total_minuman_2004.22_6	22.6	22.6	22.6	CD	NUMBER	22.6	22.6				
+2	2	fb:cell_total_minuman_2015.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+2	3	fb:cell_skim_1_atau_2_susu_2004.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+2	4	fb:cell_skim_1_atau_2_susu_2015.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+2	5	fb:cell_susu_utuh_dan_susu_rasa_2004.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+2	6	fb:cell_susu_utuh_dan_susu_rasa_2015.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+2	7	fb:cell_jus_buah_2004.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+2	8	fb:cell_jus_buah_2015.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+2	9	fb:cell_minuman_ringan_2004.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	10	fb:cell_minuman_ringan_tahun_2015.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+2	11	fb:cell_minuman_buah_2004.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+2	12	fb:cell_minuman_buah_2015.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+3	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_vitamin_c_1_hingga_8_tahun	kedua jenis kelamin, proporsi vitamin c 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|vitamin|c|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|vitamin|c|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NN|NN|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi vitamin c 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_vitamin_c_1_hingga_8_tahun
+3	1	fb:cell_total_minuman_2004.65_2	65.2	65.2	65.2	CD	NUMBER	65.2	65.2				
+3	2	fb:cell_total_minuman_2015.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+3	3	fb:cell_skim_1_atau_2_susu_2004.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+3	4	fb:cell_skim_1_atau_2_susu_2015.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	5	fb:cell_susu_utuh_dan_susu_rasa_2004.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+3	6	fb:cell_susu_utuh_dan_susu_rasa_2015.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+3	7	fb:cell_jus_buah_2004.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+3	8	fb:cell_jus_buah_2015.38_6	38.6	38.6	38.6	CD	NUMBER	38.6	38.6				
+3	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	11	fb:cell_minuman_buah_2004.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+3	12	fb:cell_minuman_buah_2015.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+4	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_kalsium_1_hingga_8_tahun	kedua jenis kelamin, proporsi kalsium 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|kalsium|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|kalsium|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi kalsium 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_kalsium_1_hingga_8_tahun
+4	1	fb:cell_total_minuman_2004.52_2	52.2	52.2	52.2	CD	NUMBER	52.2	52.2				
+4	2	fb:cell_total_minuman_2015.45_9	45.9	45.9	45.9	CD	NUMBER	45.9	45.9				
+4	3	fb:cell_skim_1_atau_2_susu_2004.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+4	4	fb:cell_skim_1_atau_2_susu_2015.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+4	5	fb:cell_susu_utuh_dan_susu_rasa_2004.18_8	18.8	18.8	18.8	CD	NUMBER	18.8	18.8				
+4	6	fb:cell_susu_utuh_dan_susu_rasa_2015.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+4	7	fb:cell_jus_buah_2004.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+4	8	fb:cell_jus_buah_2015.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+4	9	fb:cell_minuman_ringan_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+4	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	11	fb:cell_minuman_buah_2004.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+4	12	fb:cell_minuman_buah_2015.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+5	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_vitamin_d_1_hingga_8_tahun	kedua jenis kelamin, proporsi vitamin d 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|vitamin|d|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|vitamin|d|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NN|NN|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi vitamin d 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_vitamin_d_1_hingga_8_tahun
+5	1	fb:cell_total_minuman_2004.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+5	2	fb:cell_total_minuman_2015.58_7	58.7	58.7	58.7	CD	NUMBER	58.7	58.7				
+5	3	fb:cell_skim_1_atau_2_susu_2004.42_2	42.2	42.2	42.2	CD	NUMBER	42.2	42.2				
+5	4	fb:cell_skim_1_atau_2_susu_2015.33_8	33.8	33.8	33.8	CD	NUMBER	33.8	33.8				
+5	5	fb:cell_susu_utuh_dan_susu_rasa_2004.26_4	26.4	26.4	26.4	CD	NUMBER	26.4	26.4				
+5	6	fb:cell_susu_utuh_dan_susu_rasa_2015.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+5	7	fb:cell_jus_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	8	fb:cell_jus_buah_2015.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+5	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	11	fb:cell_minuman_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_lemak_jenuh_1_hingga_8_tahun	kedua jenis kelamin, proporsi lemak jenuh 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|lemak|jenuh|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|lemak|jenuh|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi lemak jenuh 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_lemak_jenuh_1_hingga_8_tahun
+6	1	fb:cell_total_minuman_2004.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+6	2	fb:cell_total_minuman_2015.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+6	3	fb:cell_skim_1_atau_2_susu_2004.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+6	4	fb:cell_skim_1_atau_2_susu_2015.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+6	5	fb:cell_susu_utuh_dan_susu_rasa_2004.13_1	13.1	13.1	13.1	CD	NUMBER	13.1	13.1				
+6	6	fb:cell_susu_utuh_dan_susu_rasa_2015.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+6	7	fb:cell_jus_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+6	8	fb:cell_jus_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+6	9	fb:cell_minuman_ringan_2004.null											
+6	10	fb:cell_minuman_ringan_tahun_2015.null											
+6	11	fb:cell_minuman_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+6	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+7	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_kelembapan_1_hingga_8_tahun	kedua jenis kelamin, proporsi kelembapan 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|kelembapan|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|kelembapan|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi kelembapan 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_kelembapan_1_hingga_8_tahun
+7	1	fb:cell_total_minuman_2004.66_8	66.8	66.8	66.8	CD	NUMBER	66.8	66.8				
+7	2	fb:cell_total_minuman_2015.63_5	63.5	63.5	63.5	CD	NUMBER	63.5	63.5				
+7	3	fb:cell_skim_1_atau_2_susu_2004.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+7	4	fb:cell_skim_1_atau_2_susu_2015.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+7	5	fb:cell_susu_utuh_dan_susu_rasa_2004.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+7	6	fb:cell_susu_utuh_dan_susu_rasa_2015.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+7	7	fb:cell_jus_buah_2004.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+7	8	fb:cell_jus_buah_2015.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+7	9	fb:cell_minuman_ringan_2004.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+7	10	fb:cell_minuman_ringan_tahun_2015.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+7	11	fb:cell_minuman_buah_2004.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+7	12	fb:cell_minuman_buah_2015.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+8	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_protein_1_hingga_8_tahun	kedua jenis kelamin, proporsi protein 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|protein|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|protein|1|hingga|8|tahun	NNP|NNP|NNP|,|NN|NN|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi protein 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_protein_1_hingga_8_tahun
+8	1	fb:cell_total_minuman_2004.22_8	22.8	22.8	22.8	CD	NUMBER	22.8	22.8				
+8	2	fb:cell_total_minuman_2015.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+8	3	fb:cell_skim_1_atau_2_susu_2004.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+8	4	fb:cell_skim_1_atau_2_susu_2015.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+8	5	fb:cell_susu_utuh_dan_susu_rasa_2004.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+8	6	fb:cell_susu_utuh_dan_susu_rasa_2015.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+8	7	fb:cell_jus_buah_2004.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+8	8	fb:cell_jus_buah_2015.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+8	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	11	fb:cell_minuman_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+8	12	fb:cell_minuman_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+9	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_gula_1_hingga_8_tahun	kedua jenis kelamin, proporsi gula 1 hingga 8 tahun	kedua|jenis|kelamin|,|proporsi|gula|1|hingga|8|tahun	kedua|jenis|kelamin|,|proporsi|gula|1|hingga|8|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||1.0||8.0|	1.0		8.0	kedua jenis kelamin|proporsi gula 1 hingga 8 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_gula_1_hingga_8_tahun
+9	1	fb:cell_total_minuman_2004.45_6	45.6	45.6	45.6	CD	NUMBER	45.6	45.6				
+9	2	fb:cell_total_minuman_2015.36_6	36.6	36.6	36.6	CD	NUMBER	36.6	36.6				
+9	3	fb:cell_skim_1_atau_2_susu_2004.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+9	4	fb:cell_skim_1_atau_2_susu_2015.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+9	5	fb:cell_susu_utuh_dan_susu_rasa_2004.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+9	6	fb:cell_susu_utuh_dan_susu_rasa_2015.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+9	7	fb:cell_jus_buah_2004.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+9	8	fb:cell_jus_buah_2015.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+9	9	fb:cell_minuman_ringan_2004.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+9	10	fb:cell_minuman_ringan_tahun_2015.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+9	11	fb:cell_minuman_buah_2004.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+9	12	fb:cell_minuman_buah_2015.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+10	0	fb:cell_kharakteristik.kedua_jenis_kelamin_9_hingga_13_tahun	kedua jenis kelamin, 9 hingga 13 tahun	kedua|jenis|kelamin|,|9|hingga|13|tahun	kedua|jenis|kelamin|,|9|hingga|13|tahun	NNP|NNP|NNP|,|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.9_hingga_13_tahun
+10	1	fb:cell_total_minuman_2004.null											
+10	2	fb:cell_total_minuman_2015.null											
+10	3	fb:cell_skim_1_atau_2_susu_2004.null											
+10	4	fb:cell_skim_1_atau_2_susu_2015.null											
+10	5	fb:cell_susu_utuh_dan_susu_rasa_2004.null											
+10	6	fb:cell_susu_utuh_dan_susu_rasa_2015.null											
+10	7	fb:cell_jus_buah_2004.null											
+10	8	fb:cell_jus_buah_2015.null											
+10	9	fb:cell_minuman_ringan_2004.null											
+10	10	fb:cell_minuman_ringan_tahun_2015.null											
+10	11	fb:cell_minuman_buah_2004.null											
+10	12	fb:cell_minuman_buah_2015.null											
+11	0	fb:cell_kharakteristik.kedua_jenis_kelamin_kuantitas_9_hingga_13_tahun	kedua jenis kelamin, kuantitas 9 hingga 13 tahun	kedua|jenis|kelamin|,|kuantitas|9|hingga|13|tahun	kedua|jenis|kelamin|,|kuantitas|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|CD|NNP|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|kuantitas 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.kuantitas_9_hingga_13_tahun
+11	1	fb:cell_total_minuman_2004.1449_0	1449.0	1449.0	1449.0	CD	NUMBER	1449.0	1449.0				
+11	2	fb:cell_total_minuman_2015.1276_0	1276.0	1276.0	1276.0	CD	NUMBER	1276.0	1276.0				
+11	3	fb:cell_skim_1_atau_2_susu_2004.289_0	289.0	289.0	289.0	CD	NUMBER	289.0	289.0				
+11	4	fb:cell_skim_1_atau_2_susu_2015.217_0	217.0	217.0	217.0	CD	NUMBER	217.0	217.0				
+11	5	fb:cell_susu_utuh_dan_susu_rasa_2004.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+11	6	fb:cell_susu_utuh_dan_susu_rasa_2015.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+11	7	fb:cell_jus_buah_2004.159_9	159.9	159.9	159.9	CD	NUMBER	159.9	159.9				
+11	8	fb:cell_jus_buah_2015.121_0	121.0	121.0	121.0	CD	NUMBER	121.0	121.0				
+11	9	fb:cell_minuman_ringan_2004.130_7	130.7	130.7	130.7	CD	NUMBER	130.7	130.7				
+11	10	fb:cell_minuman_ringan_tahun_2015.66_4	66.4	66.4	66.4	CD	NUMBER	66.4	66.4				
+11	11	fb:cell_minuman_buah_2004.186_3	186.3	186.3	186.3	CD	NUMBER	186.3	186.3				
+11	12	fb:cell_minuman_buah_2015.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+12	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_energi_9_hingga_13_tahun	kedua jenis kelamin, proporsi energi 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|energi|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|energi|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi energi 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_energi_9_hingga_13_tahun
+12	1	fb:cell_total_minuman_2004.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+12	2	fb:cell_total_minuman_2015.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				
+12	3	fb:cell_skim_1_atau_2_susu_2004.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+12	4	fb:cell_skim_1_atau_2_susu_2015.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+12	5	fb:cell_susu_utuh_dan_susu_rasa_2004.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+12	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+12	7	fb:cell_jus_buah_2004.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+12	8	fb:cell_jus_buah_2015.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+12	9	fb:cell_minuman_ringan_2004.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+12	10	fb:cell_minuman_ringan_tahun_2015.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+12	11	fb:cell_minuman_buah_2004.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+12	12	fb:cell_minuman_buah_2015.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+13	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_vitamin_c_9_hingga_13_tahun	kedua jenis kelamin, proporsi vitamin c 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|vitamin|c|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|vitamin|c|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NN|NN|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi vitamin c 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_vitamin_c_9_hingga_13_tahun
+13	1	fb:cell_total_minuman_2004.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+13	2	fb:cell_total_minuman_2015.53_7	53.7	53.7	53.7	CD	NUMBER	53.7	53.7				
+13	3	fb:cell_skim_1_atau_2_susu_2004.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+13	4	fb:cell_skim_1_atau_2_susu_2015.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+13	5	fb:cell_susu_utuh_dan_susu_rasa_2004.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+13	6	fb:cell_susu_utuh_dan_susu_rasa_2015.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+13	7	fb:cell_jus_buah_2004.36_6	36.6	36.6	36.6	CD	NUMBER	36.6	36.6				
+13	8	fb:cell_jus_buah_2015.36_1	36.1	36.1	36.1	CD	NUMBER	36.1	36.1				
+13	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	11	fb:cell_minuman_buah_2004.21_6	21.6	21.6	21.6	CD	NUMBER	21.6	21.6				
+13	12	fb:cell_minuman_buah_2015.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+14	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_kalsium_9_hingga_13_tahun	kedua jenis kelamin, proporsi kalsium 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|kalsium|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|kalsium|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi kalsium 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_kalsium_9_hingga_13_tahun
+14	1	fb:cell_total_minuman_2004.46_3	46.3	46.3	46.3	CD	NUMBER	46.3	46.3				
+14	2	fb:cell_total_minuman_2015.40_1	40.1	40.1	40.1	CD	NUMBER	40.1	40.1				
+14	3	fb:cell_skim_1_atau_2_susu_2004.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+14	4	fb:cell_skim_1_atau_2_susu_2015.27_4	27.4	27.4	27.4	CD	NUMBER	27.4	27.4				
+14	5	fb:cell_susu_utuh_dan_susu_rasa_2004.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+14	6	fb:cell_susu_utuh_dan_susu_rasa_2015.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+14	7	fb:cell_jus_buah_2004.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+14	8	fb:cell_jus_buah_2015.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+14	9	fb:cell_minuman_ringan_2004.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+14	10	fb:cell_minuman_ringan_tahun_2015.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+14	11	fb:cell_minuman_buah_2004.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+14	12	fb:cell_minuman_buah_2015.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+15	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_vitamin_d_9_hingga_13_tahun	kedua jenis kelamin, proporsi vitamin d 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|vitamin|d|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|vitamin|d|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NN|NN|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi vitamin d 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_vitamin_d_9_hingga_13_tahun
+15	1	fb:cell_total_minuman_2004.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+15	2	fb:cell_total_minuman_2015.53_1	53.1	53.1	53.1	CD	NUMBER	53.1	53.1				
+15	3	fb:cell_skim_1_atau_2_susu_2004.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+15	4	fb:cell_skim_1_atau_2_susu_2015.40_4	40.4	40.4	40.4	CD	NUMBER	40.4	40.4				
+15	5	fb:cell_susu_utuh_dan_susu_rasa_2004.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+15	6	fb:cell_susu_utuh_dan_susu_rasa_2015.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+15	7	fb:cell_jus_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	8	fb:cell_jus_buah_2015.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+15	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	11	fb:cell_minuman_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+16	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_lemak_jenuh_9_hingga_13_tahun	kedua jenis kelamin, proporsi lemak jenuh 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|lemak|jenuh|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|lemak|jenuh|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi lemak jenuh 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_lemak_jenuh_9_hingga_13_tahun
+16	1	fb:cell_total_minuman_2004.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				
+16	2	fb:cell_total_minuman_2015.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+16	3	fb:cell_skim_1_atau_2_susu_2004.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+16	4	fb:cell_skim_1_atau_2_susu_2015.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+16	5	fb:cell_susu_utuh_dan_susu_rasa_2004.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+16	6	fb:cell_susu_utuh_dan_susu_rasa_2015.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+16	7	fb:cell_jus_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+16	8	fb:cell_jus_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+16	9	fb:cell_minuman_ringan_2004.null											
+16	10	fb:cell_minuman_ringan_tahun_2015.null											
+16	11	fb:cell_minuman_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+16	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+17	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_kelembapan_9_hingga_13_tahun	kedua jenis kelamin, proporsi kelembapan 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|kelembapan|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|kelembapan|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi kelembapan 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_kelembapan_9_hingga_13_tahun
+17	1	fb:cell_total_minuman_2004.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+17	2	fb:cell_total_minuman_2015.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+17	3	fb:cell_skim_1_atau_2_susu_2004.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+17	4	fb:cell_skim_1_atau_2_susu_2015.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+17	5	fb:cell_susu_utuh_dan_susu_rasa_2004.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+17	6	fb:cell_susu_utuh_dan_susu_rasa_2015.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+17	7	fb:cell_jus_buah_2004.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+17	8	fb:cell_jus_buah_2015.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+17	9	fb:cell_minuman_ringan_2004.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+17	10	fb:cell_minuman_ringan_tahun_2015.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+17	11	fb:cell_minuman_buah_2004.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+17	12	fb:cell_minuman_buah_2015.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+18	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_protein_9_hingga_13_tahun	kedua jenis kelamin, proporsi protein 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|protein|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|protein|9|hingga|13|tahun	NNP|NNP|NNP|,|NN|NN|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi protein 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_protein_9_hingga_13_tahun
+18	1	fb:cell_total_minuman_2004.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+18	2	fb:cell_total_minuman_2015.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+18	3	fb:cell_skim_1_atau_2_susu_2004.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+18	4	fb:cell_skim_1_atau_2_susu_2015.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+18	5	fb:cell_susu_utuh_dan_susu_rasa_2004.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+18	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+18	7	fb:cell_jus_buah_2004.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+18	8	fb:cell_jus_buah_2015.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+18	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	11	fb:cell_minuman_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+18	12	fb:cell_minuman_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+19	0	fb:cell_kharakteristik.kedua_jenis_kelamin_proporsi_gula_9_hingga_13_tahun	kedua jenis kelamin, proporsi gula 9 hingga 13 tahun	kedua|jenis|kelamin|,|proporsi|gula|9|hingga|13|tahun	kedua|jenis|kelamin|,|proporsi|gula|9|hingga|13|tahun	NNP|NNP|NNP|,|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||9.0||13.0|	9.0		13.0	kedua jenis kelamin|proporsi gula 9 hingga 13 tahun	fb:part_kharakteristik.kedua_jenis_kelamin|fb:part_kharakteristik.proporsi_gula_9_hingga_13_tahun
+19	1	fb:cell_total_minuman_2004.43_4	43.4	43.4	43.4	CD	NUMBER	43.4	43.4				
+19	2	fb:cell_total_minuman_2015.38_5	38.5	38.5	38.5	CD	NUMBER	38.5	38.5				
+19	3	fb:cell_skim_1_atau_2_susu_2004.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+19	4	fb:cell_skim_1_atau_2_susu_2015.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+19	5	fb:cell_susu_utuh_dan_susu_rasa_2004.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+19	6	fb:cell_susu_utuh_dan_susu_rasa_2015.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+19	7	fb:cell_jus_buah_2004.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+19	8	fb:cell_jus_buah_2015.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+19	9	fb:cell_minuman_ringan_2004.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+19	10	fb:cell_minuman_ringan_tahun_2015.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+19	11	fb:cell_minuman_buah_2004.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+19	12	fb:cell_minuman_buah_2015.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+20	0	fb:cell_kharakteristik.laki_laki_14_hingga_18_tahun	laki-laki, 14 hingga 18 tahun	laki|laki|,|14|hingga|18|tahun	laki|laki|,|14|hingga|18|tahun	NNP|NNP|,|CD|NN|CD|NN	PERSON|PERSON|O|NUMBER|O|NUMBER|O	|||14.0||18.0|	14.0		18.0	laki-laki|14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.14_hingga_18_tahun
+20	1	fb:cell_total_minuman_2004.null											
+20	2	fb:cell_total_minuman_2015.null											
+20	3	fb:cell_skim_1_atau_2_susu_2004.null											
+20	4	fb:cell_skim_1_atau_2_susu_2015.null											
+20	5	fb:cell_susu_utuh_dan_susu_rasa_2004.null											
+20	6	fb:cell_susu_utuh_dan_susu_rasa_2015.null											
+20	7	fb:cell_jus_buah_2004.null											
+20	8	fb:cell_jus_buah_2015.null											
+20	9	fb:cell_minuman_ringan_2004.null											
+20	10	fb:cell_minuman_ringan_tahun_2015.null											
+20	11	fb:cell_minuman_buah_2004.null											
+20	12	fb:cell_minuman_buah_2015.null											
+21	0	fb:cell_kharakteristik.laki_laki_kuantitas_14_hingga_18_tahun	laki-laki, kuantitas 14 hingga 18 tahun	laki|laki|,|kuantitas|14|hingga|18|tahun	laki|laki|,|kuantitas|14|hingga|18|tahun	NNP|NNP|,|NNP|CD|NN|CD|NN	PERSON|PERSON|O|O|NUMBER|O|NUMBER|O	||||14.0||18.0|	14.0		18.0	laki-laki|kuantitas 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.kuantitas_14_hingga_18_tahun
+21	1	fb:cell_total_minuman_2004.2175_0	2175.0	2175.0	2175.0	CD	NUMBER	2175.0	2175.0				
+21	2	fb:cell_total_minuman_2015.1901_0	1901.0	1901.0	1901.0	CD	NUMBER	1901.0	1901.0				
+21	3	fb:cell_skim_1_atau_2_susu_2004.313_0	313.0	313.0	313.0	CD	NUMBER	313.0	313.0				
+21	4	fb:cell_skim_1_atau_2_susu_2015.239_0	239.0	239.0	239.0	CD	NUMBER	239.0	239.0				
+21	5	fb:cell_susu_utuh_dan_susu_rasa_2004.106_0	106.0	106.0	106.0	CD	NUMBER	106.0	106.0				
+21	6	fb:cell_susu_utuh_dan_susu_rasa_2015.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+21	7	fb:cell_jus_buah_2004.191_1	191.1	191.1	191.1	CD	NUMBER	191.1	191.1				
+21	8	fb:cell_jus_buah_2015.161_5	161.5	161.5	161.5	CD	NUMBER	161.5	161.5				
+21	9	fb:cell_minuman_ringan_2004.375_3	375.3	375.3	375.3	CD	NUMBER	375.3	375.3				
+21	10	fb:cell_minuman_ringan_tahun_2015.161_6	161.6	161.6	161.6	CD	NUMBER	161.6	161.6				
+21	11	fb:cell_minuman_buah_2004.178_4	178.4	178.4	178.4	CD	NUMBER	178.4	178.4				
+21	12	fb:cell_minuman_buah_2015.61_2	61.2	61.2	61.2	CD	NUMBER	61.2	61.2				
+22	0	fb:cell_kharakteristik.laki_laki_proporsi_energi_14_hingga_18_tahun	laki-laki, proporsi energi 14 hingga 18 tahun	laki|laki|,|proporsi|energi|14|hingga|18|tahun	laki|laki|,|proporsi|energi|14|hingga|18|tahun	NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	PERSON|PERSON|O|O|O|NUMBER|O|NUMBER|O	|||||14.0||18.0|	14.0		18.0	laki-laki|proporsi energi 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.proporsi_energi_14_hingga_18_tahun
+22	1	fb:cell_total_minuman_2004.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+22	2	fb:cell_total_minuman_2015.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+22	3	fb:cell_skim_1_atau_2_susu_2004.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+22	4	fb:cell_skim_1_atau_2_susu_2015.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+22	5	fb:cell_susu_utuh_dan_susu_rasa_2004.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+22	6	fb:cell_susu_utuh_dan_susu_rasa_2015.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+22	7	fb:cell_jus_buah_2004.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+22	8	fb:cell_jus_buah_2015.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+22	9	fb:cell_minuman_ringan_2004.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+22	10	fb:cell_minuman_ringan_tahun_2015.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+22	11	fb:cell_minuman_buah_2004.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+22	12	fb:cell_minuman_buah_2015.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+23	0	fb:cell_kharakteristik.laki_laki_14_hingga_18_tahun_proporsi_vitamin_c	laki-laki, 14 hingga 18 tahun proporsi vitamin c	laki|laki|,|14|hingga|18|tahun|proporsi|vitamin|c	laki|laki|,|14|hingga|18|tahun|proporsi|vitamin|c	NNP|NNP|,|CD|NN|CD|NN|NN|NN|NN	PERSON|PERSON|O|NUMBER|O|NUMBER|O|O|O|O	|||14.0||18.0||||	14.0		18.0	laki-laki|14 hingga 18 tahun proporsi vitamin c	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.14_hingga_18_tahun_proporsi_vitamin_c
+23	1	fb:cell_total_minuman_2004.60_9	60.9	60.9	60.9	CD	NUMBER	60.9	60.9				
+23	2	fb:cell_total_minuman_2015.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+23	3	fb:cell_skim_1_atau_2_susu_2004.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+23	4	fb:cell_skim_1_atau_2_susu_2015.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+23	5	fb:cell_susu_utuh_dan_susu_rasa_2004.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+23	6	fb:cell_susu_utuh_dan_susu_rasa_2015.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+23	7	fb:cell_jus_buah_2004.41_1	41.1	41.1	41.1	CD	NUMBER	41.1	41.1				
+23	8	fb:cell_jus_buah_2015.38_9	38.9	38.9	38.9	CD	NUMBER	38.9	38.9				
+23	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	11	fb:cell_minuman_buah_2004.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+23	12	fb:cell_minuman_buah_2015.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+24	0	fb:cell_kharakteristik.laki_laki_proporsi_kalsium_14_hingga_18_tahun	laki-laki, proporsi kalsium 14 hingga 18 tahun	laki|laki|,|proporsi|kalsium|14|hingga|18|tahun	laki|laki|,|proporsi|kalsium|14|hingga|18|tahun	NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	PERSON|PERSON|O|O|O|NUMBER|O|NUMBER|O	|||||14.0||18.0|	14.0		18.0	laki-laki|proporsi kalsium 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.proporsi_kalsium_14_hingga_18_tahun
+24	1	fb:cell_total_minuman_2004.44_3	44.3	44.3	44.3	CD	NUMBER	44.3	44.3				
+24	2	fb:cell_total_minuman_2015.38_8	38.8	38.8	38.8	CD	NUMBER	38.8	38.8				
+24	3	fb:cell_skim_1_atau_2_susu_2004.29_8	29.8	29.8	29.8	CD	NUMBER	29.8	29.8				
+24	4	fb:cell_skim_1_atau_2_susu_2015.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+24	5	fb:cell_susu_utuh_dan_susu_rasa_2004.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+24	6	fb:cell_susu_utuh_dan_susu_rasa_2015.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+24	7	fb:cell_jus_buah_2004.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+24	8	fb:cell_jus_buah_2015.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+24	9	fb:cell_minuman_ringan_2004.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+24	10	fb:cell_minuman_ringan_tahun_2015.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+24	11	fb:cell_minuman_buah_2004.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+24	12	fb:cell_minuman_buah_2015.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+25	0	fb:cell_kharakteristik.laki_laki_14_hingga_18_tahun_proporsi_vitamin_d	laki-laki, 14 hingga 18 tahun proporsi vitamin d	laki|laki|,|14|hingga|18|tahun|proporsi|vitamin|d	laki|laki|,|14|hingga|18|tahun|proporsi|vitamin|d	NNP|NNP|,|CD|NN|CD|NN|NN|NN|NN	PERSON|PERSON|O|NUMBER|O|NUMBER|O|O|O|O	|||14.0||18.0||||	14.0		18.0	laki-laki|14 hingga 18 tahun proporsi vitamin d	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.14_hingga_18_tahun_proporsi_vitamin_d
+25	1	fb:cell_total_minuman_2004.56_5	56.5	56.5	56.5	CD	NUMBER	56.5	56.5				
+25	2	fb:cell_total_minuman_2015.46_7	46.7	46.7	46.7	CD	NUMBER	46.7	46.7				
+25	3	fb:cell_skim_1_atau_2_susu_2004.43_7	43.7	43.7	43.7	CD	NUMBER	43.7	43.7				
+25	4	fb:cell_skim_1_atau_2_susu_2015.35_4	35.4	35.4	35.4	CD	NUMBER	35.4	35.4				
+25	5	fb:cell_susu_utuh_dan_susu_rasa_2004.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+25	6	fb:cell_susu_utuh_dan_susu_rasa_2015.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+25	7	fb:cell_jus_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	8	fb:cell_jus_buah_2015.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+25	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	11	fb:cell_minuman_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	0	fb:cell_kharakteristik.laki_laki_proporsi_lemak_jenuh_14_hingga_18_tahun	laki-laki, proporsi lemak jenuh 14 hingga 18 tahun	laki|laki|,|proporsi|lemak|jenuh|14|hingga|18|tahun	laki|laki|,|proporsi|lemak|jenuh|14|hingga|18|tahun	NNP|NNP|,|NNP|NNP|NNP|CD|NN|CD|NN	PERSON|PERSON|O|O|O|O|NUMBER|O|NUMBER|O	||||||14.0||18.0|	14.0		18.0	laki-laki|proporsi lemak jenuh 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.proporsi_lemak_jenuh_14_hingga_18_tahun
+26	1	fb:cell_total_minuman_2004.13_5	13.5	13.5	13.5	CD	NUMBER	13.5	13.5				
+26	2	fb:cell_total_minuman_2015.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+26	3	fb:cell_skim_1_atau_2_susu_2004.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+26	4	fb:cell_skim_1_atau_2_susu_2015.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+26	5	fb:cell_susu_utuh_dan_susu_rasa_2004.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+26	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+26	7	fb:cell_jus_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+26	8	fb:cell_jus_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+26	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	10	fb:cell_minuman_ringan_tahun_2015.null											
+26	11	fb:cell_minuman_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+26	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	0	fb:cell_kharakteristik.laki_laki_proporsi_kelembapan_14_hingga_18_tahun	laki-laki, proporsi kelembapan 14 hingga 18 tahun	laki|laki|,|proporsi|kelembapan|14|hingga|18|tahun	laki|laki|,|proporsi|kelembapan|14|hingga|18|tahun	NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	PERSON|PERSON|O|O|O|NUMBER|O|NUMBER|O	|||||14.0||18.0|	14.0		18.0	laki-laki|proporsi kelembapan 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.proporsi_kelembapan_14_hingga_18_tahun
+27	1	fb:cell_total_minuman_2004.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+27	2	fb:cell_total_minuman_2015.72_9	72.9	72.9	72.9	CD	NUMBER	72.9	72.9				
+27	3	fb:cell_skim_1_atau_2_susu_2004.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+27	4	fb:cell_skim_1_atau_2_susu_2015.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+27	5	fb:cell_susu_utuh_dan_susu_rasa_2004.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+27	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+27	7	fb:cell_jus_buah_2004.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+27	8	fb:cell_jus_buah_2015.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+27	9	fb:cell_minuman_ringan_2004.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+27	10	fb:cell_minuman_ringan_tahun_2015.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+27	11	fb:cell_minuman_buah_2004.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+27	12	fb:cell_minuman_buah_2015.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+28	0	fb:cell_kharakteristik.laki_laki_proporsi_protein_14_hingga_18_tahun	laki-laki, proporsi protein 14 hingga 18 tahun	laki|laki|,|proporsi|protein|14|hingga|18|tahun	laki|laki|,|proporsi|protein|14|hingga|18|tahun	NNP|NNP|,|NN|NN|CD|NN|CD|NN	PERSON|PERSON|O|O|O|NUMBER|O|NUMBER|O	|||||14.0||18.0|	14.0		18.0	laki-laki|proporsi protein 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.proporsi_protein_14_hingga_18_tahun
+28	1	fb:cell_total_minuman_2004.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+28	2	fb:cell_total_minuman_2015.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+28	3	fb:cell_skim_1_atau_2_susu_2004.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+28	4	fb:cell_skim_1_atau_2_susu_2015.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+28	5	fb:cell_susu_utuh_dan_susu_rasa_2004.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+28	6	fb:cell_susu_utuh_dan_susu_rasa_2015.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+28	7	fb:cell_jus_buah_2004.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+28	8	fb:cell_jus_buah_2015.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+28	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	11	fb:cell_minuman_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+28	12	fb:cell_minuman_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+29	0	fb:cell_kharakteristik.laki_laki_proporsi_gula_14_hingga_18_tahun	laki-laki, proporsi gula 14 hingga 18 tahun	laki|laki|,|proporsi|gula|14|hingga|18|tahun	laki|laki|,|proporsi|gula|14|hingga|18|tahun	NNP|NNP|,|NNP|NNP|CD|NN|CD|NN	PERSON|PERSON|O|O|O|NUMBER|O|NUMBER|O	|||||14.0||18.0|	14.0		18.0	laki-laki|proporsi gula 14 hingga 18 tahun	fb:part_kharakteristik.laki_laki|fb:part_kharakteristik.proporsi_gula_14_hingga_18_tahun
+29	1	fb:cell_total_minuman_2004.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+29	2	fb:cell_total_minuman_2015.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+29	3	fb:cell_skim_1_atau_2_susu_2004.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+29	4	fb:cell_skim_1_atau_2_susu_2015.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+29	5	fb:cell_susu_utuh_dan_susu_rasa_2004.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+29	6	fb:cell_susu_utuh_dan_susu_rasa_2015.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+29	7	fb:cell_jus_buah_2004.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+29	8	fb:cell_jus_buah_2015.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+29	9	fb:cell_minuman_ringan_2004.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+29	10	fb:cell_minuman_ringan_tahun_2015.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+29	11	fb:cell_minuman_buah_2004.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+29	12	fb:cell_minuman_buah_2015.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+30	0	fb:cell_kharakteristik.perempuan_14_hingga_18_tahun	perempuan, 14 hingga 18 tahun	perempuan|,|14|hingga|18|tahun	perempuan|,|14|hingga|18|tahun	NNP|,|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||14.0||18.0|	14.0		18.0	perempuan|14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.14_hingga_18_tahun
+30	1	fb:cell_total_minuman_2004.null											
+30	2	fb:cell_total_minuman_2015.null											
+30	3	fb:cell_skim_1_atau_2_susu_2004.null											
+30	4	fb:cell_skim_1_atau_2_susu_2015.null											
+30	5	fb:cell_susu_utuh_dan_susu_rasa_2004.null											
+30	6	fb:cell_susu_utuh_dan_susu_rasa_2015.null											
+30	7	fb:cell_jus_buah_2004.null											
+30	8	fb:cell_jus_buah_2015.null											
+30	9	fb:cell_minuman_ringan_2004.null											
+30	10	fb:cell_minuman_ringan_tahun_2015.null											
+30	11	fb:cell_minuman_buah_2004.null											
+30	12	fb:cell_minuman_buah_2015.null											
+31	0	fb:cell_kharakteristik.perempuan_kuantitas_14_hingga_18_tahun	perempuan, kuantitas 14 hingga 18 tahun	perempuan|,|kuantitas|14|hingga|18|tahun	perempuan|,|kuantitas|14|hingga|18|tahun	NNP|,|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||14.0||18.0|	14.0		18.0	perempuan|kuantitas 14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.kuantitas_14_hingga_18_tahun
+31	1	fb:cell_total_minuman_2004.1693_0	1693.0	1693.0	1693.0	CD	NUMBER	1693.0	1693.0				
+31	2	fb:cell_total_minuman_2015.1486_0	1486.0	1486.0	1486.0	CD	NUMBER	1486.0	1486.0				
+31	3	fb:cell_skim_1_atau_2_susu_2004.201_0	201.0	201.0	201.0	CD	NUMBER	201.0	201.0				
+31	4	fb:cell_skim_1_atau_2_susu_2015.149_0	149.0	149.0	149.0	CD	NUMBER	149.0	149.0				
+31	5	fb:cell_susu_utuh_dan_susu_rasa_2004.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+31	6	fb:cell_susu_utuh_dan_susu_rasa_2015.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+31	7	fb:cell_jus_buah_2004.164_1	164.1	164.1	164.1	CD	NUMBER	164.1	164.1				
+31	8	fb:cell_jus_buah_2015.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+31	9	fb:cell_minuman_ringan_2004.178_2	178.2	178.2	178.2	CD	NUMBER	178.2	178.2				
+31	10	fb:cell_minuman_ringan_tahun_2015.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+31	11	fb:cell_minuman_buah_2004.167_4	167.4	167.4	167.4	CD	NUMBER	167.4	167.4				
+31	12	fb:cell_minuman_buah_2015.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+32	0	fb:cell_kharakteristik.perempuan_proporsi_energi_14_hingga_18_tahun	perempuan, proporsi energi 14 hingga 18 tahun	perempuan|,|proporsi|energi|14|hingga|18|tahun	perempuan|,|proporsi|energi|14|hingga|18|tahun	NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||14.0||18.0|	14.0		18.0	perempuan|proporsi energi 14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.proporsi_energi_14_hingga_18_tahun
+32	1	fb:cell_total_minuman_2004.19_7	19.7	19.7	19.7	CD	NUMBER	19.7	19.7				
+32	2	fb:cell_total_minuman_2015.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+32	3	fb:cell_skim_1_atau_2_susu_2004.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+32	4	fb:cell_skim_1_atau_2_susu_2015.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+32	5	fb:cell_susu_utuh_dan_susu_rasa_2004.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+32	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+32	7	fb:cell_jus_buah_2004.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+32	8	fb:cell_jus_buah_2015.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+32	9	fb:cell_minuman_ringan_2004.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+32	10	fb:cell_minuman_ringan_tahun_2015.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+32	11	fb:cell_minuman_buah_2004.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+32	12	fb:cell_minuman_buah_2015.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+33	0	fb:cell_kharakteristik.perempuan_14_hingga_18_tahun_proporsi_vitamin_c	perempuan, 14 hingga 18 tahun proporsi vitamin c	perempuan|,|14|hingga|18|tahun|proporsi|vitamin|c	perempuan|,|14|hingga|18|tahun|proporsi|vitamin|c	NNP|,|CD|NN|CD|NN|NN|NN|NN	O|O|NUMBER|O|NUMBER|O|O|O|O	||14.0||18.0||||	14.0		18.0	perempuan|14 hingga 18 tahun proporsi vitamin c	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.14_hingga_18_tahun_proporsi_vitamin_c
+33	1	fb:cell_total_minuman_2004.61_1	61.1	61.1	61.1	CD	NUMBER	61.1	61.1				
+33	2	fb:cell_total_minuman_2015.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+33	3	fb:cell_skim_1_atau_2_susu_2004.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+33	4	fb:cell_skim_1_atau_2_susu_2015.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+33	5	fb:cell_susu_utuh_dan_susu_rasa_2004.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+33	6	fb:cell_susu_utuh_dan_susu_rasa_2015.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+33	7	fb:cell_jus_buah_2004.38_6	38.6	38.6	38.6	CD	NUMBER	38.6	38.6				
+33	8	fb:cell_jus_buah_2015.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+33	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	11	fb:cell_minuman_buah_2004.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+33	12	fb:cell_minuman_buah_2015.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+34	0	fb:cell_kharakteristik.perempuan_proporsi_kalsium_14_hingga_18_tahun	perempuan, proporsi kalsium 14 hingga 18 tahun	perempuan|,|proporsi|kalsium|14|hingga|18|tahun	perempuan|,|proporsi|kalsium|14|hingga|18|tahun	NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||14.0||18.0|	14.0		18.0	perempuan|proporsi kalsium 14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.proporsi_kalsium_14_hingga_18_tahun
+34	1	fb:cell_total_minuman_2004.42_8	42.8	42.8	42.8	CD	NUMBER	42.8	42.8				
+34	2	fb:cell_total_minuman_2015.38_8	38.8	38.8	38.8	CD	NUMBER	38.8	38.8				
+34	3	fb:cell_skim_1_atau_2_susu_2004.26_9	26.9	26.9	26.9	CD	NUMBER	26.9	26.9				
+34	4	fb:cell_skim_1_atau_2_susu_2015.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+34	5	fb:cell_susu_utuh_dan_susu_rasa_2004.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+34	6	fb:cell_susu_utuh_dan_susu_rasa_2015.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+34	7	fb:cell_jus_buah_2004.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+34	8	fb:cell_jus_buah_2015.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+34	9	fb:cell_minuman_ringan_2004.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+34	10	fb:cell_minuman_ringan_tahun_2015.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+34	11	fb:cell_minuman_buah_2004.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+34	12	fb:cell_minuman_buah_2015.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+35	0	fb:cell_kharakteristik.perempuan_14_hingga_18_tahun_proporsi_vitamin_d	perempuan, 14 hingga 18 tahun proporsi vitamin d	perempuan|,|14|hingga|18|tahun|proporsi|vitamin|d	perempuan|,|14|hingga|18|tahun|proporsi|vitamin|d	NNP|,|CD|NN|CD|NN|NN|NN|NN	O|O|NUMBER|O|NUMBER|O|O|O|O	||14.0||18.0||||	14.0		18.0	perempuan|14 hingga 18 tahun proporsi vitamin d	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.14_hingga_18_tahun_proporsi_vitamin_d
+35	1	fb:cell_total_minuman_2004.55_5	55.5	55.5	55.5	CD	NUMBER	55.5	55.5				
+35	2	fb:cell_total_minuman_2015.46_7	46.7	46.7	46.7	CD	NUMBER	46.7	46.7				
+35	3	fb:cell_skim_1_atau_2_susu_2004.41_3	41.3	41.3	41.3	CD	NUMBER	41.3	41.3				
+35	4	fb:cell_skim_1_atau_2_susu_2015.30_1	30.1	30.1	30.1	CD	NUMBER	30.1	30.1				
+35	5	fb:cell_susu_utuh_dan_susu_rasa_2004.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+35	6	fb:cell_susu_utuh_dan_susu_rasa_2015.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+35	7	fb:cell_jus_buah_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+35	8	fb:cell_jus_buah_2015.null											
+35	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+35	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+35	11	fb:cell_minuman_buah_2004.null											
+35	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+36	0	fb:cell_kharakteristik.perempuan_proporsi_lemak_jenuh_14_hingga_18_tahun	perempuan, proporsi lemak jenuh 14 hingga 18 tahun	perempuan|,|proporsi|lemak|jenuh|14|hingga|18|tahun	perempuan|,|proporsi|lemak|jenuh|14|hingga|18|tahun	NNP|,|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||14.0||18.0|	14.0		18.0	perempuan|proporsi lemak jenuh 14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.proporsi_lemak_jenuh_14_hingga_18_tahun
+36	1	fb:cell_total_minuman_2004.12_1	12.1	12.1	12.1	CD	NUMBER	12.1	12.1				
+36	2	fb:cell_total_minuman_2015.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+36	3	fb:cell_skim_1_atau_2_susu_2004.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+36	4	fb:cell_skim_1_atau_2_susu_2015.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+36	5	fb:cell_susu_utuh_dan_susu_rasa_2004.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+36	6	fb:cell_susu_utuh_dan_susu_rasa_2015.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+36	7	fb:cell_jus_buah_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+36	8	fb:cell_jus_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+36	9	fb:cell_minuman_ringan_2004.null											
+36	10	fb:cell_minuman_ringan_tahun_2015.null											
+36	11	fb:cell_minuman_buah_2004.null											
+36	12	fb:cell_minuman_buah_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	0	fb:cell_kharakteristik.betina_proporsi_kelembapan_14_hingga_18_tahun	betina, proporsi kelembapan 14 hingga 18 tahun	betina|,|proporsi|kelembapan|14|hingga|18|tahun	betina|,|proporsi|kelembapan|14|hingga|18|tahun	NNP|,|NNP|NNP|CD|NN|CD|NN	PERSON|O|O|O|NUMBER|O|NUMBER|O	||||14.0||18.0|	14.0		18.0	betina|proporsi kelembapan 14 hingga 18 tahun	fb:part_kharakteristik.betina|fb:part_kharakteristik.proporsi_kelembapan_14_hingga_18_tahun
+37	1	fb:cell_total_minuman_2004.73_6	73.6	73.6	73.6	CD	NUMBER	73.6	73.6				
+37	2	fb:cell_total_minuman_2015.72_9	72.9	72.9	72.9	CD	NUMBER	72.9	72.9				
+37	3	fb:cell_skim_1_atau_2_susu_2004.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+37	4	fb:cell_skim_1_atau_2_susu_2015.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+37	5	fb:cell_susu_utuh_dan_susu_rasa_2004.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+37	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+37	7	fb:cell_jus_buah_2004.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+37	8	fb:cell_jus_buah_2015.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+37	9	fb:cell_minuman_ringan_2004.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+37	10	fb:cell_minuman_ringan_tahun_2015.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+37	11	fb:cell_minuman_buah_2004.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+37	12	fb:cell_minuman_buah_2015.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+38	0	fb:cell_kharakteristik.perempuan_proporsi_protein_14_hingga_18_tahun	perempuan, proporsi protein 14 hingga 18 tahun	perempuan|,|proporsi|protein|14|hingga|18|tahun	perempuan|,|proporsi|protein|14|hingga|18|tahun	NNP|,|NN|NN|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||14.0||18.0|	14.0		18.0	perempuan|proporsi protein 14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.proporsi_protein_14_hingga_18_tahun
+38	1	fb:cell_total_minuman_2004.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+38	2	fb:cell_total_minuman_2015.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+38	3	fb:cell_skim_1_atau_2_susu_2004.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+38	4	fb:cell_skim_1_atau_2_susu_2015.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+38	5	fb:cell_susu_utuh_dan_susu_rasa_2004.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+38	6	fb:cell_susu_utuh_dan_susu_rasa_2015.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+38	7	fb:cell_jus_buah_2004.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+38	8	fb:cell_jus_buah_2015.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+38	9	fb:cell_minuman_ringan_2004.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+38	10	fb:cell_minuman_ringan_tahun_2015.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+38	11	fb:cell_minuman_buah_2004.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+38	12	fb:cell_minuman_buah_2015.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+39	0	fb:cell_kharakteristik.perempuan_proporsi_gula_14_hingga_18_tahun	perempuan, proporsi gula 14 hingga 18 tahun	perempuan|,|proporsi|gula|14|hingga|18|tahun	perempuan|,|proporsi|gula|14|hingga|18|tahun	NNP|,|NNP|NNP|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||14.0||18.0|	14.0		18.0	perempuan|proporsi gula 14 hingga 18 tahun	fb:part_kharakteristik.perempuan|fb:part_kharakteristik.proporsi_gula_14_hingga_18_tahun
+39	1	fb:cell_total_minuman_2004.47_3	47.3	47.3	47.3	CD	NUMBER	47.3	47.3				
+39	2	fb:cell_total_minuman_2015.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+39	3	fb:cell_skim_1_atau_2_susu_2004.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+39	4	fb:cell_skim_1_atau_2_susu_2015.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+39	5	fb:cell_susu_utuh_dan_susu_rasa_2004.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+39	6	fb:cell_susu_utuh_dan_susu_rasa_2015.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+39	7	fb:cell_jus_buah_2004.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+39	8	fb:cell_jus_buah_2015.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+39	9	fb:cell_minuman_ringan_2004.14_1	14.1	14.1	14.1	CD	NUMBER	14.1	14.1				
+39	10	fb:cell_minuman_ringan_tahun_2015.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+39	11	fb:cell_minuman_buah_2004.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+39	12	fb:cell_minuman_buah_2015.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				

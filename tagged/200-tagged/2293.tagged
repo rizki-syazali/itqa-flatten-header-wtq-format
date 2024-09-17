@@ -1,0 +1,17 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.cewek_cewek	cewek-cewek	cewek|cewek	cewek|cewek	NN|NN	O|O	|					
+-1	2	fb:row.row.anak_laki_laki	anak laki-laki	anak|laki|laki	anak|laki|laki	NNP|NNP|NNP	O|PERSON|PERSON	||					
+-1	3	fb:row.row.celah	celah	celah	celah	NNP	O						
+0	0	fb:cell_kharakteristik.skor_rata_rata_dalam_matematika_matematika_gabungan	skor rata-rata dalam matematika matematika gabungan	skor|rata|rata|dalam|matematika|matematika|gabungan	skor|rata|rata|dalam|matematika|matematika|gabungan	NNP|JJ|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_cewek_cewek.514	514	514	514	CD	NUMBER	514.0	514.0				
+0	2	fb:cell_anak_laki_laki.527	527	527	527	CD	NUMBER	527.0	527.0				
+0	3	fb:cell_celah._14	-14	-14	-14	CD	NUMBER	-14.0	14.0				
+1	0	fb:cell_kharakteristik.skor_rata_rata_dalam_matematika_matematika_komposit_berbasis_kertas	skor rata-rata dalam matematika matematika komposit berbasis kertas	skor|rata|rata|dalam|matematika|matematika|komposit|berbasis|kertas	skor|rata|rata|dalam|matematika|matematika|komposit|berbasis|kertas	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_cewek_cewek.513	513	513	513	CD	NUMBER	513.0	513.0				
+1	2	fb:cell_anak_laki_laki.523	523	523	523	CD	NUMBER	523.0	523.0				
+1	3	fb:cell_celah._10	-10	-10	-10	CD	NUMBER	-10.0	10.0				
+2	0	fb:cell_kharakteristik.nilai_rata_rata_matematika_gabungan_matematika_berbasis_komputer	nilai rata-rata matematika gabungan matematika berbasis komputer	nilai|rata|rata|matematika|gabungan|matematika|berbasis|komputer	nilai|rata|rata|matematika|gabungan|matematika|berbasis|komputer	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_cewek_cewek.514	514	514	514	CD	NUMBER	514.0	514.0				
+2	2	fb:cell_anak_laki_laki.532	532	532	532	CD	NUMBER	532.0	532.0				
+2	3	fb:cell_celah._17	-17	-17	-17	CD	NUMBER	-17.0	17.0				

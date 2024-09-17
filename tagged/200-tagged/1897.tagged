@@ -1,0 +1,65 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_populasi_perempuan_identitas_penduduk_asli	total populasi perempuan identitas penduduk asli	total|populasi|perempuan|identitas|penduduk|asli	total|populasi|perempuan|identitas|penduduk|asli	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.total_identitas_tunggal_negara_pertama	total identitas tunggal negara pertama	total|identitas|tunggal|negara|pertama	total|identita|tunggal|negara|pertama	JJ|NNS|JJ|NN|NN	O|O|O|O|O	||||					
+-1	3	fb:row.row.identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india	identitas tunggal negara pertama yang terdaftar atau perjanjian India	identitas|tunggal|negara|pertama|yang|terdaftar|atau|perjanjian|india	identitas|tunggal|negara|pertama|yang|terdaftar|atau|perjanjian|India	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	4	fb:row.row.identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian	identitas tunggal negara pertama bukan orang India yang terdaftar atau perjanjian	identitas|tunggal|negara|pertama|bukan|orang|india|yang|terdaftar|atau|perjanjian	identitas|tunggal|negara|pertama|bukan|orang|India|yang|terdaftar|atau|perjanjian	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	5	fb:row.row.identitas_tunggal_metis	identitas tunggal metis	identitas|tunggal|metis	identitas|tunggal|metis	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.identitas_tunggal_inuit	identitas tunggal inuit	identitas|tunggal|inuit	identitas|tunggal|inuit	NNP|NNP|NNP	O|O|O	||					
+-1	7	fb:row.row.populasi_perempuan_identitas_non_aborigin	populasi perempuan identitas non-aborigin	populasi|perempuan|identitas|non|aborigin	populasi|perempuan|identitas|non|aborigin	NNP|NNP|NNP|JJ|NN	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.persentase_tidak_ada_sertifikat_diploma_atau_gelar	persentase tidak ada sertifikat, diploma atau gelar	persentase|tidak|ada|sertifikat|,|diploma|atau|gelar	persentase|tidak|ada|sertifikat|,|diploma|atau|gelar	NN|NN|NN|NN|,|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||				persentase tidak ada sertifikat|diploma atau gelar	fb:part_kharakteristik.persentase_tidak_ada_sertifikat|fb:part_kharakteristik.diploma_atau_gelar
+0	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.26_3	26.3	26.3	26.3	CD	NUMBER	26.3	26.3				
+0	2	fb:cell_total_identitas_tunggal_negara_pertama.30_1	30.1	30.1	30.1	CD	NUMBER	30.1	30.1				
+0	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+0	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.19_9	19.9	19.9	19.9	CD	NUMBER	19.9	19.9				
+0	5	fb:cell_identitas_tunggal_metis.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+0	6	fb:cell_identitas_tunggal_inuit.47_4	47.4	47.4	47.4	CD	NUMBER	47.4	47.4				
+0	7	fb:cell_populasi_perempuan_identitas_non_aborigin.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+1	0	fb:cell_kharakteristik.persentase_ijazah_sma_atau_sederajat	persentase ijazah SMA atau sederajat	persentase|ijazah|sma|atau|sederajat	persentase|ijazah|sma|atau|sederajat	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+1	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+1	2	fb:cell_total_identitas_tunggal_negara_pertama.22_6	22.6	22.6	22.6	CD	NUMBER	22.6	22.6				
+1	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.21_4	21.4	21.4	21.4	CD	NUMBER	21.4	21.4				
+1	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.26_2	26.2	26.2	26.2	CD	NUMBER	26.2	26.2				
+1	5	fb:cell_identitas_tunggal_metis.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+1	6	fb:cell_identitas_tunggal_inuit.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+1	7	fb:cell_populasi_perempuan_identitas_non_aborigin.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+2	0	fb:cell_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar	persentase sertifikat pasca sekolah menengah, diploma atau gelar	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	NN|NN|NN|NN|NN|,|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				persentase sertifikat pasca sekolah menengah|diploma atau gelar	fb:part_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar
+2	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.50_7	50.7	50.7	50.7	CD	NUMBER	50.7	50.7				
+2	2	fb:cell_total_identitas_tunggal_negara_pertama.47_3	47.3	47.3	47.3	CD	NUMBER	47.3	47.3				
+2	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+2	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.53_8	53.8	53.8	53.8	CD	NUMBER	53.8	53.8				
+2	5	fb:cell_identitas_tunggal_metis.57_1	57.1	57.1	57.1	CD	NUMBER	57.1	57.1				
+2	6	fb:cell_identitas_tunggal_inuit.35_6	35.6	35.6	35.6	CD	NUMBER	35.6	35.6				
+2	7	fb:cell_populasi_perempuan_identitas_non_aborigin.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+3	0	fb:cell_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar_magang_atau_sertifikat_atau_diploma_perdagangan	persentase sertifikat pasca sekolah menengah, diploma atau gelar magang atau sertifikat atau diploma perdagangan	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|magang|atau|sertifikat|atau|diploma|perdagangan	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|magang|atau|sertifikat|atau|diploma|perdagangan	NN|NN|NN|NN|NN|,|NN|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||				persentase sertifikat pasca sekolah menengah|diploma atau gelar magang atau sertifikat atau diploma perdagangan	fb:part_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar_magang_atau_sertifikat_atau_diploma_perdagangan
+3	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+3	2	fb:cell_total_identitas_tunggal_negara_pertama.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+3	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+3	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+3	5	fb:cell_identitas_tunggal_metis.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+3	6	fb:cell_identitas_tunggal_inuit.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+3	7	fb:cell_populasi_perempuan_identitas_non_aborigin.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+4	0	fb:cell_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar_perguruan_tinggi_cegep_atau_sertifikat_atau_diploma_non_universitas_lainnya	persentase sertifikat pasca sekolah menengah, diploma atau gelar perguruan tinggi, cegep atau sertifikat atau diploma non-universitas lainnya	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|perguruan|tinggi|,|cegep|atau|sertifikat|atau|diploma|non|universitas|lainnya	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|perguruan|tinggi|,|cegep|atau|sertifikat|atau|diploma|non|universitas|lainnya	NN|NN|NN|NN|NN|,|NN|NN|JJ|NN|NN|,|NNP|NNP|NNP|NNP|NN|JJ|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				persentase sertifikat pasca sekolah menengah|diploma atau gelar perguruan tinggi|cegep atau sertifikat atau diploma non-universitas lainnya	fb:part_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar_perguruan_tinggi|fb:part_kharakteristik.cegep_atau_sertifikat_atau_diploma_non_universitas_lainnya
+4	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+4	2	fb:cell_total_identitas_tunggal_negara_pertama.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+4	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+4	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.26_6	26.6	26.6	26.6	CD	NUMBER	26.6	26.6				
+4	5	fb:cell_identitas_tunggal_metis.28_2	28.2	28.2	28.2	CD	NUMBER	28.2	28.2				
+4	6	fb:cell_identitas_tunggal_inuit.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+4	7	fb:cell_populasi_perempuan_identitas_non_aborigin.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+5	0	fb:cell_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar_sertifikat_universitas_atau_diploma_di_bawah_tingkat_sarjana	persentase sertifikat pasca sekolah menengah, diploma atau gelar sertifikat universitas atau diploma di bawah tingkat sarjana	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|sertifikat|universitas|atau|diploma|di|bawah|tingkat|sarjana	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|sertifikat|universita|atau|diploma|di|bawah|tingkat|sarjana	NN|NN|NN|NN|NN|,|NN|NN|JJ|NN|NNS|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||				persentase sertifikat pasca sekolah menengah|diploma atau gelar sertifikat universitas atau diploma di bawah tingkat sarjana	fb:part_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar_sertifikat_universitas_atau_diploma_di_bawah_tingkat_sarjana
+5	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+5	2	fb:cell_total_identitas_tunggal_negara_pertama.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+5	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+5	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+5	5	fb:cell_identitas_tunggal_metis.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+5	6	fb:cell_identitas_tunggal_inuit.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+5	7	fb:cell_populasi_perempuan_identitas_non_aborigin.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+6	0	fb:cell_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar_sertifikat_universitas_diploma_atau_gelar_sarjana_atau_lebih_tinggi	persentase sertifikat pasca sekolah menengah, diploma atau gelar sertifikat universitas, diploma atau gelar sarjana atau lebih tinggi	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|sertifikat|universitas|,|diploma|atau|gelar|sarjana|atau|lebih|tinggi	persentase|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar|sertifikat|universita|,|diploma|atau|gelar|sarjana|atau|lebih|tinggi	NN|NN|NN|NN|NN|,|NN|NN|JJ|NN|NNS|,|NN|NN|JJ|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||				persentase sertifikat pasca sekolah menengah|diploma atau gelar sertifikat universitas|diploma atau gelar sarjana atau lebih tinggi	fb:part_kharakteristik.persentase_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar_sertifikat_universitas|fb:part_kharakteristik.diploma_atau_gelar_sarjana_atau_lebih_tinggi
+6	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.12_1	12.1	12.1	12.1	CD	NUMBER	12.1	12.1				
+6	2	fb:cell_total_identitas_tunggal_negara_pertama.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+6	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+6	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+6	5	fb:cell_identitas_tunggal_metis.13_9	13.9	13.9	13.9	CD	NUMBER	13.9	13.9				
+6	6	fb:cell_identitas_tunggal_inuit.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+6	7	fb:cell_populasi_perempuan_identitas_non_aborigin.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				

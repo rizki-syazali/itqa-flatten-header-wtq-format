@@ -1,0 +1,295 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+-1	2	fb:row.row.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+-1	4	fb:row.row.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+-1	5	fb:row.row.quebec	Quebec	quebec	Quebec	NNP	O						
+-1	6	fb:row.row.ontario	ontario	ontario	ontario	NNP	O						
+-1	7	fb:row.row.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+-1	8	fb:row.row.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+-1	9	fb:row.row.alberta	alberta	alberta	alberta	NNP	O						
+-1	10	fb:row.row.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+-1	11	fb:row.row.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+-1	12	fb:row.row.yukon	yukon	yukon	yukon	NNP	O						
+-1	13	fb:row.row.nunavut	nunavut	nunavut	nunavut	NNP	O						
+0	0	fb:cell_kharakteristik.nomor_2002	nomor 2002	nomor|2002	nomor|2002	NNP|CD	O|DATE	|2002	2002.0				
+0	1	fb:cell_newfoundland_dan_labrador.18075_0	18075.0	18075.0	18075.0	CD	NUMBER	18075.0	18075.0				
+0	2	fb:cell_pulau_pangeran_edward.3378_0	3378.0	3378.0	3378.0	CD	NUMBER	3378.0	3378.0				
+0	3	fb:cell_nova_scotia.16290_0	16290.0	16290.0	16290.0	CD	NUMBER	16290.0	16290.0				
+0	4	fb:cell_brunswick_baru.15059_0	15059.0	15059.0	15059.0	CD	NUMBER	15059.0	15059.0				
+0	5	fb:cell_quebec.91356_0	91356.0	91356.0	91356.0	CD	NUMBER	91356.0	91356.0				
+0	6	fb:cell_ontario.71933_0	71933.0	71933.0	71933.0	CD	NUMBER	71933.0	71933.0				
+0	7	fb:cell_manitoba.13468_0	13468.0	13468.0	13468.0	CD	NUMBER	13468.0	13468.0				
+0	8	fb:cell_saskatchewan.21269_0	21269.0	21269.0	21269.0	CD	NUMBER	21269.0	21269.0				
+0	9	fb:cell_alberta.45219_0	45219.0	45219.0	45219.0	CD	NUMBER	45219.0	45219.0				
+0	10	fb:cell_columbia_inggris.41629_0	41629.0	41629.0	41629.0	CD	NUMBER	41629.0	41629.0				
+0	11	fb:cell_wilayah_barat_laut.1924_0	1924.0	1924.0	1924.0	CD	NUMBER	1924.0	1924.0				
+0	12	fb:cell_yukon.1827_0	1827.0	1827.0	1827.0	CD	NUMBER	1827.0	1827.0				
+0	13	fb:cell_nunavut.2361_0	2361.0	2361.0	2361.0	CD	NUMBER	2361.0	2361.0				
+1	0	fb:cell_kharakteristik.nomor_2003	nomor 2003	nomor|2003	nomor|2003	NNP|CD	O|DATE	|2003	2003.0				
+1	1	fb:cell_newfoundland_dan_labrador.17670_0	17670.0	17670.0	17670.0	CD	NUMBER	17670.0	17670.0				
+1	2	fb:cell_pulau_pangeran_edward.3496_0	3496.0	3496.0	3496.0	CD	NUMBER	3496.0	3496.0				
+1	3	fb:cell_nova_scotia.16108_0	16108.0	16108.0	16108.0	CD	NUMBER	16108.0	16108.0				
+1	4	fb:cell_brunswick_baru.14941_0	14941.0	14941.0	14941.0	CD	NUMBER	14941.0	14941.0				
+1	5	fb:cell_quebec.90650_0	90650.0	90650.0	90650.0	CD	NUMBER	90650.0	90650.0				
+1	6	fb:cell_ontario.69600_0	69600.0	69600.0	69600.0	CD	NUMBER	69600.0	69600.0				
+1	7	fb:cell_manitoba.12892_0	12892.0	12892.0	12892.0	CD	NUMBER	12892.0	12892.0				
+1	8	fb:cell_saskatchewan.22667_0	22667.0	22667.0	22667.0	CD	NUMBER	22667.0	22667.0				
+1	9	fb:cell_alberta.43620_0	43620.0	43620.0	43620.0	CD	NUMBER	43620.0	43620.0				
+1	10	fb:cell_columbia_inggris.42460_0	42460.0	42460.0	42460.0	CD	NUMBER	42460.0	42460.0				
+1	11	fb:cell_wilayah_barat_laut.1865_0	1865.0	1865.0	1865.0	CD	NUMBER	1865.0	1865.0				
+1	12	fb:cell_yukon.1855_0	1855.0	1855.0	1855.0	CD	NUMBER	1855.0	1855.0				
+1	13	fb:cell_nunavut.1858_0	1858.0	1858.0	1858.0	CD	NUMBER	1858.0	1858.0				
+2	0	fb:cell_kharakteristik.nomor_2004	nomor 2004	nomor|2004	nomor|2004	NNP|CD	O|DATE	|2004	2004.0				
+2	1	fb:cell_newfoundland_dan_labrador.17586_0	17586.0	17586.0	17586.0	CD	NUMBER	17586.0	17586.0				
+2	2	fb:cell_pulau_pangeran_edward.3621_0	3621.0	3621.0	3621.0	CD	NUMBER	3621.0	3621.0				
+2	3	fb:cell_nova_scotia.16152_0	16152.0	16152.0	16152.0	CD	NUMBER	16152.0	16152.0				
+2	4	fb:cell_brunswick_baru.14183_0	14183.0	14183.0	14183.0	CD	NUMBER	14183.0	14183.0				
+2	5	fb:cell_quebec.91338_0	91338.0	91338.0	91338.0	CD	NUMBER	91338.0	91338.0				
+2	6	fb:cell_ontario.68672_0	68672.0	68672.0	68672.0	CD	NUMBER	68672.0	68672.0				
+2	7	fb:cell_manitoba.13368_0	13368.0	13368.0	13368.0	CD	NUMBER	13368.0	13368.0				
+2	8	fb:cell_saskatchewan.24230_0	24230.0	24230.0	24230.0	CD	NUMBER	24230.0	24230.0				
+2	9	fb:cell_alberta.46646_0	46646.0	46646.0	46646.0	CD	NUMBER	46646.0	46646.0				
+2	10	fb:cell_columbia_inggris.43998_0	43998.0	43998.0	43998.0	CD	NUMBER	43998.0	43998.0				
+2	11	fb:cell_wilayah_barat_laut.1765_0	1765.0	1765.0	1765.0	CD	NUMBER	1765.0	1765.0				
+2	12	fb:cell_yukon.1785_0	1785.0	1785.0	1785.0	CD	NUMBER	1785.0	1785.0				
+2	13	fb:cell_nunavut.1602_0	1602.0	1602.0	1602.0	CD	NUMBER	1602.0	1602.0				
+3	0	fb:cell_kharakteristik.nomor_2005	nomor 2005	nomor|2005	nomor|2005	NNP|CD	O|DATE	|2005	2005.0				
+3	1	fb:cell_newfoundland_dan_labrador.19477_0	19477.0	19477.0	19477.0	CD	NUMBER	19477.0	19477.0				
+3	2	fb:cell_pulau_pangeran_edward.4040_0	4040.0	4040.0	4040.0	CD	NUMBER	4040.0	4040.0				
+3	3	fb:cell_nova_scotia.18808_0	18808.0	18808.0	18808.0	CD	NUMBER	18808.0	18808.0				
+3	4	fb:cell_brunswick_baru.16515_0	16515.0	16515.0	16515.0	CD	NUMBER	16515.0	16515.0				
+3	5	fb:cell_quebec.95974_0	95974.0	95974.0	95974.0	CD	NUMBER	95974.0	95974.0				
+3	6	fb:cell_ontario.72231_0	72231.0	72231.0	72231.0	CD	NUMBER	72231.0	72231.0				
+3	7	fb:cell_manitoba.15480_0	15480.0	15480.0	15480.0	CD	NUMBER	15480.0	15480.0				
+3	8	fb:cell_saskatchewan.26638_0	26638.0	26638.0	26638.0	CD	NUMBER	26638.0	26638.0				
+3	9	fb:cell_alberta.53349_0	53349.0	53349.0	53349.0	CD	NUMBER	53349.0	53349.0				
+3	10	fb:cell_columbia_inggris.47709_0	47709.0	47709.0	47709.0	CD	NUMBER	47709.0	47709.0				
+3	11	fb:cell_wilayah_barat_laut.1826_0	1826.0	1826.0	1826.0	CD	NUMBER	1826.0	1826.0				
+3	12	fb:cell_yukon.1857_0	1857.0	1857.0	1857.0	CD	NUMBER	1857.0	1857.0				
+3	13	fb:cell_nunavut.1050_0	1050.0	1050.0	1050.0	CD	NUMBER	1050.0	1050.0				
+4	0	fb:cell_kharakteristik.nomor_2006	nomor 2006	nomor|2006	nomor|2006	NNP|CD	O|DATE	|2006	2006.0				
+4	1	fb:cell_newfoundland_dan_labrador.23049_0	23049.0	23049.0	23049.0	CD	NUMBER	23049.0	23049.0				
+4	2	fb:cell_pulau_pangeran_edward.4985_0	4985.0	4985.0	4985.0	CD	NUMBER	4985.0	4985.0				
+4	3	fb:cell_nova_scotia.21493_0	21493.0	21493.0	21493.0	CD	NUMBER	21493.0	21493.0				
+4	4	fb:cell_brunswick_baru.17787_0	17787.0	17787.0	17787.0	CD	NUMBER	17787.0	17787.0				
+4	5	fb:cell_quebec.99655_0	99655.0	99655.0	99655.0	CD	NUMBER	99655.0	99655.0				
+4	6	fb:cell_ontario.82784_0	82784.0	82784.0	82784.0	CD	NUMBER	82784.0	82784.0				
+4	7	fb:cell_manitoba.16107_0	16107.0	16107.0	16107.0	CD	NUMBER	16107.0	16107.0				
+4	8	fb:cell_saskatchewan.29796_0	29796.0	29796.0	29796.0	CD	NUMBER	29796.0	29796.0				
+4	9	fb:cell_alberta.59414_0	59414.0	59414.0	59414.0	CD	NUMBER	59414.0	59414.0				
+4	10	fb:cell_columbia_inggris.51819_0	51819.0	51819.0	51819.0	CD	NUMBER	51819.0	51819.0				
+4	11	fb:cell_wilayah_barat_laut.1822_0	1822.0	1822.0	1822.0	CD	NUMBER	1822.0	1822.0				
+4	12	fb:cell_yukon.1957_0	1957.0	1957.0	1957.0	CD	NUMBER	1957.0	1957.0				
+4	13	fb:cell_nunavut.977_0	977.0	977.0	977.0	CD	NUMBER	977.0	977.0				
+5	0	fb:cell_kharakteristik.nomor_2007	nomor 2007	nomor|2007	nomor|2007	NNP|CD	O|DATE	|2007	2007.0				
+5	1	fb:cell_newfoundland_dan_labrador.24998_0	24998.0	24998.0	24998.0	CD	NUMBER	24998.0	24998.0				
+5	2	fb:cell_pulau_pangeran_edward.5280_0	5280.0	5280.0	5280.0	CD	NUMBER	5280.0	5280.0				
+5	3	fb:cell_nova_scotia.23211_0	23211.0	23211.0	23211.0	CD	NUMBER	23211.0	23211.0				
+5	4	fb:cell_brunswick_baru.19711_0	19711.0	19711.0	19711.0	CD	NUMBER	19711.0	19711.0				
+5	5	fb:cell_quebec.103984_0	103984.0	103984.0	103984.0	CD	NUMBER	103984.0	103984.0				
+5	6	fb:cell_ontario.88348_0	88348.0	88348.0	88348.0	CD	NUMBER	88348.0	88348.0				
+5	7	fb:cell_manitoba.16479_0	16479.0	16479.0	16479.0	CD	NUMBER	16479.0	16479.0				
+5	8	fb:cell_saskatchewan.30537_0	30537.0	30537.0	30537.0	CD	NUMBER	30537.0	30537.0				
+5	9	fb:cell_alberta.57332_0	57332.0	57332.0	57332.0	CD	NUMBER	57332.0	57332.0				
+5	10	fb:cell_columbia_inggris.56782_0	56782.0	56782.0	56782.0	CD	NUMBER	56782.0	56782.0				
+5	11	fb:cell_wilayah_barat_laut.1944_0	1944.0	1944.0	1944.0	CD	NUMBER	1944.0	1944.0				
+5	12	fb:cell_yukon.1971_0	1971.0	1971.0	1971.0	CD	NUMBER	1971.0	1971.0				
+5	13	fb:cell_nunavut.968_0	968.0	968.0	968.0	CD	NUMBER	968.0	968.0				
+6	0	fb:cell_kharakteristik.nomor_2008	nomor 2008	nomor|2008	nomor|2008	NNP|CD	O|DATE	|2008	2008.0				
+6	1	fb:cell_newfoundland_dan_labrador.26523_0	26523.0	26523.0	26523.0	CD	NUMBER	26523.0	26523.0				
+6	2	fb:cell_pulau_pangeran_edward.5443_0	5443.0	5443.0	5443.0	CD	NUMBER	5443.0	5443.0				
+6	3	fb:cell_nova_scotia.24339_0	24339.0	24339.0	24339.0	CD	NUMBER	24339.0	24339.0				
+6	4	fb:cell_brunswick_baru.19973_0	19973.0	19973.0	19973.0	CD	NUMBER	19973.0	19973.0				
+6	5	fb:cell_quebec.105793_0	105793.0	105793.0	105793.0	CD	NUMBER	105793.0	105793.0				
+6	6	fb:cell_ontario.91849_0	91849.0	91849.0	91849.0	CD	NUMBER	91849.0	91849.0				
+6	7	fb:cell_manitoba.16685_0	16685.0	16685.0	16685.0	CD	NUMBER	16685.0	16685.0				
+6	8	fb:cell_saskatchewan.30979_0	30979.0	30979.0	30979.0	CD	NUMBER	30979.0	30979.0				
+6	9	fb:cell_alberta.58275_0	58275.0	58275.0	58275.0	CD	NUMBER	58275.0	58275.0				
+6	10	fb:cell_columbia_inggris.60517_0	60517.0	60517.0	60517.0	CD	NUMBER	60517.0	60517.0				
+6	11	fb:cell_wilayah_barat_laut.1793_0	1793.0	1793.0	1793.0	CD	NUMBER	1793.0	1793.0				
+6	12	fb:cell_yukon.1900_0	1900.0	1900.0	1900.0	CD	NUMBER	1900.0	1900.0				
+6	13	fb:cell_nunavut.1220_0	1220.0	1220.0	1220.0	CD	NUMBER	1220.0	1220.0				
+7	0	fb:cell_kharakteristik.nomor_2009	nomor 2009	nomor|2009	nomor|2009	NNP|CD	O|DATE	|2009	2009.0				
+7	1	fb:cell_newfoundland_dan_labrador.21969_0	21969.0	21969.0	21969.0	CD	NUMBER	21969.0	21969.0				
+7	2	fb:cell_pulau_pangeran_edward.4671_0	4671.0	4671.0	4671.0	CD	NUMBER	4671.0	4671.0				
+7	3	fb:cell_nova_scotia.20699_0	20699.0	20699.0	20699.0	CD	NUMBER	20699.0	20699.0				
+7	4	fb:cell_brunswick_baru.16556_0	16556.0	16556.0	16556.0	CD	NUMBER	16556.0	16556.0				
+7	5	fb:cell_quebec.100195_0	100195.0	100195.0	100195.0	CD	NUMBER	100195.0	100195.0				
+7	6	fb:cell_ontario.83603_0	83603.0	83603.0	83603.0	CD	NUMBER	83603.0	83603.0				
+7	7	fb:cell_manitoba.14137_0	14137.0	14137.0	14137.0	CD	NUMBER	14137.0	14137.0				
+7	8	fb:cell_saskatchewan.26140_0	26140.0	26140.0	26140.0	CD	NUMBER	26140.0	26140.0				
+7	9	fb:cell_alberta.47721_0	47721.0	47721.0	47721.0	CD	NUMBER	47721.0	47721.0				
+7	10	fb:cell_columbia_inggris.54091_0	54091.0	54091.0	54091.0	CD	NUMBER	54091.0	54091.0				
+7	11	fb:cell_wilayah_barat_laut.1434_0	1434.0	1434.0	1434.0	CD	NUMBER	1434.0	1434.0				
+7	12	fb:cell_yukon.1672_0	1672.0	1672.0	1672.0	CD	NUMBER	1672.0	1672.0				
+7	13	fb:cell_nunavut.794_0	794.0	794.0	794.0	CD	NUMBER	794.0	794.0				
+8	0	fb:cell_kharakteristik.nomor_2010	nomor 2010	nomor|2010	nomor|2010	NNP|CD	O|DATE	|2010	2010.0				
+8	1	fb:cell_newfoundland_dan_labrador.21440_0	21440.0	21440.0	21440.0	CD	NUMBER	21440.0	21440.0				
+8	2	fb:cell_pulau_pangeran_edward.4435_0	4435.0	4435.0	4435.0	CD	NUMBER	4435.0	4435.0				
+8	3	fb:cell_nova_scotia.20600_0	20600.0	20600.0	20600.0	CD	NUMBER	20600.0	20600.0				
+8	4	fb:cell_brunswick_baru.16698_0	16698.0	16698.0	16698.0	CD	NUMBER	16698.0	16698.0				
+8	5	fb:cell_quebec.100343_0	100343.0	100343.0	100343.0	CD	NUMBER	100343.0	100343.0				
+8	6	fb:cell_ontario.83532_0	83532.0	83532.0	83532.0	CD	NUMBER	83532.0	83532.0				
+8	7	fb:cell_manitoba.14446_0	14446.0	14446.0	14446.0	CD	NUMBER	14446.0	14446.0				
+8	8	fb:cell_saskatchewan.26199_0	26199.0	26199.0	26199.0	CD	NUMBER	26199.0	26199.0				
+8	9	fb:cell_alberta.50419_0	50419.0	50419.0	50419.0	CD	NUMBER	50419.0	50419.0				
+8	10	fb:cell_columbia_inggris.57050_0	57050.0	57050.0	57050.0	CD	NUMBER	57050.0	57050.0				
+8	11	fb:cell_wilayah_barat_laut.1396_0	1396.0	1396.0	1396.0	CD	NUMBER	1396.0	1396.0				
+8	12	fb:cell_yukon.1616_0	1616.0	1616.0	1616.0	CD	NUMBER	1616.0	1616.0				
+8	13	fb:cell_nunavut.1447_0	1447.0	1447.0	1447.0	CD	NUMBER	1447.0	1447.0				
+9	0	fb:cell_kharakteristik.nomor_2011	nomor 2011	nomor|2011	nomor|2011	NNP|CD	O|DATE	|2011	2011.0				
+9	1	fb:cell_newfoundland_dan_labrador.20464_0	20464.0	20464.0	20464.0	CD	NUMBER	20464.0	20464.0				
+9	2	fb:cell_pulau_pangeran_edward.5036_0	5036.0	5036.0	5036.0	CD	NUMBER	5036.0	5036.0				
+9	3	fb:cell_nova_scotia.21808_0	21808.0	21808.0	21808.0	CD	NUMBER	21808.0	21808.0				
+9	4	fb:cell_brunswick_baru.18399_0	18399.0	18399.0	18399.0	CD	NUMBER	18399.0	18399.0				
+9	5	fb:cell_quebec.101465_0	101465.0	101465.0	101465.0	CD	NUMBER	101465.0	101465.0				
+9	6	fb:cell_ontario.86539_0	86539.0	86539.0	86539.0	CD	NUMBER	86539.0	86539.0				
+9	7	fb:cell_manitoba.15905_0	15905.0	15905.0	15905.0	CD	NUMBER	15905.0	15905.0				
+9	8	fb:cell_saskatchewan.28388_0	28388.0	28388.0	28388.0	CD	NUMBER	28388.0	28388.0				
+9	9	fb:cell_alberta.54065_0	54065.0	54065.0	54065.0	CD	NUMBER	54065.0	54065.0				
+9	10	fb:cell_columbia_inggris.64181_0	64181.0	64181.0	64181.0	CD	NUMBER	64181.0	64181.0				
+9	11	fb:cell_wilayah_barat_laut.1558_0	1558.0	1558.0	1558.0	CD	NUMBER	1558.0	1558.0				
+9	12	fb:cell_yukon.1756_0	1756.0	1756.0	1756.0	CD	NUMBER	1756.0	1756.0				
+9	13	fb:cell_nunavut.963_0	963.0	963.0	963.0	CD	NUMBER	963.0	963.0				
+10	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2002	persen dari pekerjaan berbayar pada tahun 2002	persen|dari|pekerjaan|berbayar|pada|tahun|2002	persen|dari|pekerjaan|berbayar|pada|tahun|2002	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2002	2002.0				
+10	1	fb:cell_newfoundland_dan_labrador.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+10	2	fb:cell_pulau_pangeran_edward.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+10	3	fb:cell_nova_scotia.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+10	4	fb:cell_brunswick_baru.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+10	5	fb:cell_quebec.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+10	6	fb:cell_ontario.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+10	7	fb:cell_manitoba.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+10	8	fb:cell_saskatchewan.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+10	9	fb:cell_alberta.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+10	10	fb:cell_columbia_inggris.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+10	11	fb:cell_wilayah_barat_laut.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+10	12	fb:cell_yukon.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				
+10	13	fb:cell_nunavut.null											
+11	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2003	persen dari pekerjaan berbayar pada tahun 2003	persen|dari|pekerjaan|berbayar|pada|tahun|2003	persen|dari|pekerjaan|berbayar|pada|tahun|2003	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2003	2003.0				
+11	1	fb:cell_newfoundland_dan_labrador.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+11	2	fb:cell_pulau_pangeran_edward.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+11	3	fb:cell_nova_scotia.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+11	4	fb:cell_brunswick_baru.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+11	5	fb:cell_quebec.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+11	6	fb:cell_ontario.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+11	7	fb:cell_manitoba.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+11	8	fb:cell_saskatchewan.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+11	9	fb:cell_alberta.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+11	10	fb:cell_columbia_inggris.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+11	11	fb:cell_wilayah_barat_laut.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+11	12	fb:cell_yukon.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+11	13	fb:cell_nunavut.null											
+12	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2004	persen dari pekerjaan berbayar pada tahun 2004	persen|dari|pekerjaan|berbayar|pada|tahun|2004	persen|dari|pekerjaan|berbayar|pada|tahun|2004	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2004	2004.0				
+12	1	fb:cell_newfoundland_dan_labrador.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+12	2	fb:cell_pulau_pangeran_edward.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+12	3	fb:cell_nova_scotia.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+12	4	fb:cell_brunswick_baru.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+12	5	fb:cell_quebec.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+12	6	fb:cell_ontario.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+12	7	fb:cell_manitoba.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+12	8	fb:cell_saskatchewan.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+12	9	fb:cell_alberta.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+12	10	fb:cell_columbia_inggris.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+12	11	fb:cell_wilayah_barat_laut.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+12	12	fb:cell_yukon.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+12	13	fb:cell_nunavut.null											
+13	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2005	persen dari pekerjaan berbayar pada tahun 2005	persen|dari|pekerjaan|berbayar|pada|tahun|2005	persen|dari|pekerjaan|berbayar|pada|tahun|2005	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2005	2005.0				
+13	1	fb:cell_newfoundland_dan_labrador.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+13	2	fb:cell_pulau_pangeran_edward.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+13	3	fb:cell_nova_scotia.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+13	4	fb:cell_brunswick_baru.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+13	5	fb:cell_quebec.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+13	6	fb:cell_ontario.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+13	7	fb:cell_manitoba.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+13	8	fb:cell_saskatchewan.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+13	9	fb:cell_alberta.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+13	10	fb:cell_columbia_inggris.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+13	11	fb:cell_wilayah_barat_laut.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+13	12	fb:cell_yukon.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+13	13	fb:cell_nunavut.null											
+14	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2006	persen dari pekerjaan berbayar pada tahun 2006	persen|dari|pekerjaan|berbayar|pada|tahun|2006	persen|dari|pekerjaan|berbayar|pada|tahun|2006	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2006	2006.0				
+14	1	fb:cell_newfoundland_dan_labrador.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+14	2	fb:cell_pulau_pangeran_edward.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+14	3	fb:cell_nova_scotia.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+14	4	fb:cell_brunswick_baru.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+14	5	fb:cell_quebec.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+14	6	fb:cell_ontario.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+14	7	fb:cell_manitoba.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+14	8	fb:cell_saskatchewan.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+14	9	fb:cell_alberta.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+14	10	fb:cell_columbia_inggris.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+14	11	fb:cell_wilayah_barat_laut.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+14	12	fb:cell_yukon.14_3	14.3	14.3	14.3	CD	NUMBER	14.3	14.3				
+14	13	fb:cell_nunavut.null											
+15	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2007	persen dari pekerjaan berbayar pada tahun 2007	persen|dari|pekerjaan|berbayar|pada|tahun|2007	persen|dari|pekerjaan|berbayar|pada|tahun|2007	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2007	2007.0				
+15	1	fb:cell_newfoundland_dan_labrador.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+15	2	fb:cell_pulau_pangeran_edward.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+15	3	fb:cell_nova_scotia.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+15	4	fb:cell_brunswick_baru.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+15	5	fb:cell_quebec.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+15	6	fb:cell_ontario.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+15	7	fb:cell_manitoba.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+15	8	fb:cell_saskatchewan.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+15	9	fb:cell_alberta.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+15	10	fb:cell_columbia_inggris.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+15	11	fb:cell_wilayah_barat_laut.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+15	12	fb:cell_yukon.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+15	13	fb:cell_nunavut.null											
+16	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2008	persen dari pekerjaan berbayar pada tahun 2008	persen|dari|pekerjaan|berbayar|pada|tahun|2008	persen|dari|pekerjaan|berbayar|pada|tahun|2008	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2008	2008.0				
+16	1	fb:cell_newfoundland_dan_labrador.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+16	2	fb:cell_pulau_pangeran_edward.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+16	3	fb:cell_nova_scotia.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+16	4	fb:cell_brunswick_baru.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+16	5	fb:cell_quebec.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+16	6	fb:cell_ontario.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+16	7	fb:cell_manitoba.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+16	8	fb:cell_saskatchewan.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+16	9	fb:cell_alberta.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+16	10	fb:cell_columbia_inggris.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+16	11	fb:cell_wilayah_barat_laut.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+16	12	fb:cell_yukon.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+16	13	fb:cell_nunavut.null											
+17	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2009	persen dari pekerjaan berbayar pada tahun 2009	persen|dari|pekerjaan|berbayar|pada|tahun|2009	persen|dari|pekerjaan|berbayar|pada|tahun|2009	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2009	2009.0				
+17	1	fb:cell_newfoundland_dan_labrador.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+17	2	fb:cell_pulau_pangeran_edward.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+17	3	fb:cell_nova_scotia.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+17	4	fb:cell_brunswick_baru.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+17	5	fb:cell_quebec.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+17	6	fb:cell_ontario.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+17	7	fb:cell_manitoba.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+17	8	fb:cell_saskatchewan.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+17	9	fb:cell_alberta.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+17	10	fb:cell_columbia_inggris.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+17	11	fb:cell_wilayah_barat_laut.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+17	12	fb:cell_yukon.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+17	13	fb:cell_nunavut.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+18	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2010	persen dari pekerjaan berbayar pada tahun 2010	persen|dari|pekerjaan|berbayar|pada|tahun|2010	persen|dari|pekerjaan|berbayar|pada|tahun|2010	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2010	2010.0				
+18	1	fb:cell_newfoundland_dan_labrador.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+18	2	fb:cell_pulau_pangeran_edward.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+18	3	fb:cell_nova_scotia.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+18	4	fb:cell_brunswick_baru.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+18	5	fb:cell_quebec.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+18	6	fb:cell_ontario.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+18	7	fb:cell_manitoba.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+18	8	fb:cell_saskatchewan.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+18	9	fb:cell_alberta.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+18	10	fb:cell_columbia_inggris.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+18	11	fb:cell_wilayah_barat_laut.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+18	12	fb:cell_yukon.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+18	13	fb:cell_nunavut.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+19	0	fb:cell_kharakteristik.persen_dari_pekerjaan_berbayar_pada_tahun_2011	persen dari pekerjaan berbayar pada tahun 2011	persen|dari|pekerjaan|berbayar|pada|tahun|2011	persen|dari|pekerjaan|berbayar|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2011	2011.0				
+19	1	fb:cell_newfoundland_dan_labrador.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+19	2	fb:cell_pulau_pangeran_edward.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+19	3	fb:cell_nova_scotia.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+19	4	fb:cell_brunswick_baru.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+19	5	fb:cell_quebec.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+19	6	fb:cell_ontario.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+19	7	fb:cell_manitoba.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+19	8	fb:cell_saskatchewan.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+19	9	fb:cell_alberta.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+19	10	fb:cell_columbia_inggris.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+19	11	fb:cell_wilayah_barat_laut.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+19	12	fb:cell_yukon.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+19	13	fb:cell_nunavut.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				

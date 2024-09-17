@@ -1,0 +1,162 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003	orang yang berbuat kebaikan kepada tetangganya pada bulan lalu tahun 2003	orang|yang|berbuat|kebaikan|kepada|tetangganya|pada|bulan|lalu|tahun|2003	orang|yang|berbuat|kebaikan|kepada|tetangganya|pada|bulan|lalu|tahun|2003	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE	||||||||||2003					
+-1	2	fb:row.row.orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008	orang yang berbuat kebaikan kepada tetangganya dalam sebulan terakhir tahun 2008	orang|yang|berbuat|kebaikan|kepada|tetangganya|dalam|sebulan|terakhir|tahun|2008	orang|yang|berbuat|kebaikan|kepada|tetangganya|dalam|sebulan|terakhir|tahun|2008	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE	||||||||||2008					
+-1	3	fb:row.row.orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013	orang yang berbuat kebaikan kepada tetangganya dalam sebulan terakhir tahun 2013	orang|yang|berbuat|kebaikan|kepada|tetangganya|dalam|sebulan|terakhir|tahun|2013	orang|yang|berbuat|kebaikan|kepada|tetangganya|dalam|sebulan|terakhir|tahun|2013	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE	||||||||||2013					
+-1	4	fb:row.row.orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003	orang yang menerima bantuan dari tetangganya pada bulan lalu tahun 2003	orang|yang|menerima|bantuan|dari|tetangganya|pada|bulan|lalu|tahun|2003	orang|yang|menerima|bantuan|dari|tetangganya|pada|bulan|lalu|tahun|2003	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE	||||||||||2003					
+-1	5	fb:row.row.orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008	orang yang menerima bantuan dari tetangganya dalam sebulan terakhir tahun 2008	orang|yang|menerima|bantuan|dari|tetangganya|dalam|sebulan|terakhir|tahun|2008	orang|yang|menerima|bantuan|dari|tetangganya|dalam|sebulan|terakhir|tahun|2008	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE	||||||||||2008					
+-1	6	fb:row.row.orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013	orang yang menerima bantuan dari tetangganya dalam sebulan terakhir tahun 2013	orang|yang|menerima|bantuan|dari|tetangganya|dalam|sebulan|terakhir|tahun|2013	orang|yang|menerima|bantuan|dari|tetangganya|dalam|sebulan|terakhir|tahun|2013	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE	||||||||||2013					
+0	0	fb:cell_kharakteristik.persentase_total	persentase total	persentase|total	persentase|total	NN|NN	O|O	|					
+0	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+0	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+0	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+0	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+0	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+0	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+1	0	fb:cell_kharakteristik.persentase_total_laki_laki	persentase total laki-laki	persentase|total|laki|laki	persentase|total|laki|laki	NN|JJ|NNP|NNP	O|O|PERSON|PERSON	|||					
+1	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+1	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+1	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+1	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+1	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+1	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+2	0	fb:cell_kharakteristik.persentase_total_perempuan	persentase total perempuan	persentase|total|perempuan	persentase|total|perempuan	NN|JJ|NN	O|O|O	||					
+2	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+2	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+2	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+2	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+2	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+2	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+3	0	fb:cell_kharakteristik.persentase_kelompok_umur	persentase kelompok umur	persentase|kelompok|umur	persentase|kelompok|umur	NN|NN|NN	O|O|O	||					
+3	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.null											
+3	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.null											
+3	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.null											
+3	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.null											
+3	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.null											
+3	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.null											
+4	0	fb:cell_kharakteristik.persentase_kelompok_umur_15_sampai_24_tahun	persentase kelompok umur 15 sampai 24 tahun	persentase|kelompok|umur|15|sampai|24|tahun	persentase|kelompok|umur|15|sampai|24|tahun	NN|NN|NN|CD|FW|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||15.0||24.0|	15.0		24.0		
+4	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+4	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+4	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+4	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+4	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+4	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+5	0	fb:cell_kharakteristik.persentase_kelompok_umur_25_sampai_34_tahun	persentase kelompok umur 25 sampai 34 tahun	persentase|kelompok|umur|25|sampai|34|tahun	persentase|kelompok|umur|25|sampai|34|tahun	NN|NN|NN|CD|FW|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||25.0||34.0|	25.0		34.0		
+5	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+5	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+5	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+5	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+5	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+5	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+6	0	fb:cell_kharakteristik.persentase_kelompok_umur_35_sampai_44_tahun	persentase kelompok umur 35 sampai 44 tahun	persentase|kelompok|umur|35|sampai|44|tahun	persentase|kelompok|umur|35|sampai|44|tahun	NN|NN|NN|CD|FW|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||35.0||44.0|	35.0		44.0		
+6	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+6	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+6	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+6	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+6	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+6	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+7	0	fb:cell_kharakteristik.persentase_kelompok_umur_45_sampai_54_tahun	persentase kelompok umur 45 sampai 54 tahun	persentase|kelompok|umur|45|sampai|54|tahun	persentase|kelompok|umur|45|sampai|54|tahun	NN|NN|NN|CD|FW|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||45.0||54.0|	45.0		54.0		
+7	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+7	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+7	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+7	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+7	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+7	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+8	0	fb:cell_kharakteristik.persentase_kelompok_umur_55_sampai_64_tahun	persentase kelompok umur 55 sampai 64 tahun	persentase|kelompok|umur|55|sampai|64|tahun	persentase|kelompok|umur|55|sampai|64|tahun	NN|NN|NN|CD|FW|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||55.0||64.0|	55.0		64.0		
+8	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+8	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+8	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+8	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+8	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+8	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+9	0	fb:cell_kharakteristik.persentase_kelompok_umur_65_sampai_74_tahun	persentase kelompok umur 65 sampai 74 tahun	persentase|kelompok|umur|65|sampai|74|tahun	persentase|kelompok|umur|65|sampai|74|tahun	NN|NN|NN|CD|FW|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||65.0||74.0|	65.0		74.0		
+9	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+9	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+9	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+9	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+9	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+9	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+10	0	fb:cell_kharakteristik.persentase_kelompok_umur_75_tahun_ke_atas	persentase kelompok umur 75 tahun ke atas	persentase|kelompok|umur|75|tahun|ke|atas	persentase|kelompok|umur|75|tahun|ke|atas	NN|NN|NN|CD|NNP|NNP|NNP	O|O|O|NUMBER|O|O|O	|||75.0|||	75.0				
+10	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+10	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+10	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+10	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+10	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+10	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+11	0	fb:cell_kharakteristik.persentase_provinsi	persentase provinsi	persentase|provinsi	persentase|provinsi	NN|NN	O|O	|					
+11	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.null											
+11	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.null											
+11	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.null											
+11	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.null											
+11	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.null											
+11	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.null											
+12	0	fb:cell_kharakteristik.persentase_provinsi_newfoundland_dan_labrador	persentase provinsi newfoundland dan labrador	persentase|provinsi|newfoundland|dan|labrador	persentase|provinsi|newfoundland|dan|labrador	NN|NN|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+12	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+12	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+12	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+12	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+12	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+12	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+13	0	fb:cell_kharakteristik.persentase_provinsi_pulau_pangeran_edward	persentase provinsi pulau pangeran edward	persentase|provinsi|pulau|pangeran|edward	persentase|provinsus|pulau|pangeran|edward	NN|NNS|VBP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+13	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+13	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+13	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+13	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+13	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+14	0	fb:cell_kharakteristik.persentase_provinsi_nova_scotia	persentase provinsi nova scotia	persentase|provinsi|nova|scotia	persentase|provinsi|nova|scotia	NN|NN|NNP|NNP	O|O|O|O	|||					
+14	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+14	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+14	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+14	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+14	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+14	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+15	0	fb:cell_kharakteristik.persentase_provinsi_new_brunswick	persentase provinsi new brunswick	persentase|provinsi|new|brunswick	persentase|provinsus|new|brunswick	NN|NNS|JJ|NNP	O|O|O|O	|||					
+15	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+15	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+15	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+15	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+15	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+15	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+16	0	fb:cell_kharakteristik.persentase_provinsi_quebec	persentase provinsi quebec	persentase|provinsi|quebec	persentase|provinsi|quebec	NN|NN|NNP	O|O|O	||					
+16	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+16	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+16	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+16	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+16	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+16	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+17	0	fb:cell_kharakteristik.persentase_provinsi_ontario	persentase provinsi ontario	persentase|provinsi|ontario	persentase|provinsi|ontario	NN|NN|NNP	O|O|O	||					
+17	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+17	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+17	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+17	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+17	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+17	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+18	0	fb:cell_kharakteristik.persentase_provinsi_manitoba	persentase provinsi manitoba	persentase|provinsi|manitoba	persentase|provinsi|manitoba	NN|NN|NNP	O|O|O	||					
+18	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+18	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+18	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+18	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+18	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+18	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+19	0	fb:cell_kharakteristik.persentase_provinsi_saskatchewan	persentase provinsi saskatchewan	persentase|provinsi|saskatchewan	persentase|provinsi|saskatchewan	NN|NN|NNP	O|O|O	||					
+19	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+19	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+19	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+19	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+19	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+19	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+20	0	fb:cell_kharakteristik.persentase_provinsi_alberta	persentase provinsi alberta	persentase|provinsi|alberta	persentase|provinsi|alberta	NN|NN|NNP	O|O|O	||					
+20	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+20	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+20	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+20	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+20	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+20	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+21	0	fb:cell_kharakteristik.persentase_provinsi_british_columbia	persentase provinsi british columbia	persentase|provinsi|british|columbia	persentase|provinsus|british|columbia	NN|NNS|JJ|NNP	O|O|MISC|O	|||					
+21	1	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_pada_bulan_lalu_tahun_2003.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+21	2	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2008.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+21	3	fb:cell_orang_yang_berbuat_kebaikan_kepada_tetangganya_dalam_sebulan_terakhir_tahun_2013.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+21	4	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_pada_bulan_lalu_tahun_2003.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+21	5	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2008.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+21	6	fb:cell_orang_yang_menerima_bantuan_dari_tetangganya_dalam_sebulan_terakhir_tahun_2013.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				

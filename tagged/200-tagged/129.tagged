@@ -1,0 +1,53 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pekerja_laki_laki_kolom_1_dolar_konstan_2012	pekerja laki-laki kolom 1 dolar konstan 2012	pekerja|laki|laki|kolom|1|dolar|konstan|2012	pekerja|laki|laki|kolom|1|dolar|konstan|2012	NNP|NNP|NNP|NNP|CD|JJ|NNP|CD	MISC|MISC|MISC|O|NUMBER|O|O|DATE	||||1.0|||2012					
+-1	2	fb:row.row.pekerja_wanita_kolom_2_dolar_konstan_2012	pekerja wanita kolom 2 dolar konstan 2012	pekerja|wanita|kolom|2|dolar|konstan|2012	pekerja|wanita|kolom|2|dolar|konstan|2012	NNP|NNP|NNP|CD|JJ|NNP|CD	O|O|O|NUMBER|O|O|DATE	|||2.0|||2012					
+-1	3	fb:row.row.rasio_kesenjangan_pendapatan_gender_kolom_3	rasio kesenjangan pendapatan gender kolom 3	rasio|kesenjangan|pendapatan|gender|kolom|3	rasio|kesenjangan|pendapatan|gender|kolom|3	NNP|NNP|NNP|NN|NN|CD	O|O|O|O|O|NUMBER	|||||3.0					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.72556_0	72556.0	72556.0	72556.0	CD	NUMBER	72556.0	72556.0				
+0	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.52001_0	52001.0	52001.0	52001.0	CD	NUMBER	52001.0	52001.0				
+0	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_72	0.72	0.72	0.72	CD	NUMBER	0.72	0.72				
+1	0	fb:cell_kharakteristik.berdasarkan_kelompok_umur	berdasarkan kelompok umur	berdasarkan|kelompok|umur	berdasarkan|kelompok|umur	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.null											
+1	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.null											
+1	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.null											
+2	0	fb:cell_kharakteristik.berdasarkan_kelompok_umur_25_hingga_29_tahun	berdasarkan kelompok umur 25 hingga 29 tahun	berdasarkan|kelompok|umur|25|hingga|29|tahun	berdasarkan|kelompok|umur|25|hingga|29|tahun	NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||25.0||29.0|	25.0		29.0		
+2	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.50664_0	50664.0	50664.0	50664.0	CD	NUMBER	50664.0	50664.0				
+2	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.40020_0	40020.0	40020.0	40020.0	CD	NUMBER	40020.0	40020.0				
+2	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+3	0	fb:cell_kharakteristik.berdasarkan_kelompok_usia_30_hingga_39_tahun	berdasarkan kelompok usia 30 hingga 39 tahun	berdasarkan|kelompok|usia|30|hingga|39|tahun	berdasarkan|kelompok|usia|30|hingga|39|tahun	NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||30.0||39.0|	30.0		39.0		
+3	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.66506_0	66506.0	66506.0	66506.0	CD	NUMBER	66506.0	66506.0				
+3	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.49264_0	49264.0	49264.0	49264.0	CD	NUMBER	49264.0	49264.0				
+3	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_74	0.74	0.74	0.74	CD	NUMBER	0.74	0.74				
+4	0	fb:cell_kharakteristik.berdasarkan_kelompok_usia_40_hingga_49_tahun	berdasarkan kelompok usia 40 hingga 49 tahun	berdasarkan|kelompok|usia|40|hingga|49|tahun	berdasarkan|kelompok|usia|40|hingga|49|tahun	NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||40.0||49.0|	40.0		49.0		
+4	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.82470_0	82470.0	82470.0	82470.0	CD	NUMBER	82470.0	82470.0				
+4	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.57215_0	57215.0	57215.0	57215.0	CD	NUMBER	57215.0	57215.0				
+4	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_69	0.69	0.69	0.69	CD	NUMBER	0.69	0.69				
+5	0	fb:cell_kharakteristik.berdasarkan_kelompok_usia_50_hingga_54_tahun	berdasarkan kelompok usia 50 hingga 54 tahun	berdasarkan|kelompok|usia|50|hingga|54|tahun	berdasarkan|kelompok|usia|50|hingga|54|tahun	NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||50.0||54.0|	50.0		54.0		
+5	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.85400_0	85400.0	85400.0	85400.0	CD	NUMBER	85400.0	85400.0				
+5	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.56597_0	56597.0	56597.0	56597.0	CD	NUMBER	56597.0	56597.0				
+5	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+6	0	fb:cell_kharakteristik.berdasarkan_status_perkawinan	berdasarkan status perkawinan	berdasarkan|status|perkawinan	berdasarkan|status|perkawinan	NNP|NN|NN	O|O|O	||					
+6	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.null											
+6	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.null											
+6	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.null											
+7	0	fb:cell_kharakteristik.berdasarkan_kesatuan_status_perkawinan	berdasarkan kesatuan status perkawinan	berdasarkan|kesatuan|status|perkawinan	berdasarkan|kesatuan|status|perkawinan	NNP|NNP|NN|NN	O|O|O|O	|||					
+7	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.80507_0	80507.0	80507.0	80507.0	CD	NUMBER	80507.0	80507.0				
+7	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.54288_0	54288.0	54288.0	54288.0	CD	NUMBER	54288.0	54288.0				
+7	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_67	0.67	0.67	0.67	CD	NUMBER	0.67	0.67				
+8	0	fb:cell_kharakteristik.berdasarkan_status_perkawinan_saja	berdasarkan status perkawinan saja	berdasarkan|status|perkawinan|saja	berdasarkan|status|perkawinan|saja	NNP|NN|NNP|NNP	O|O|O|O	|||					
+8	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.57421_0	57421.0	57421.0	57421.0	CD	NUMBER	57421.0	57421.0				
+8	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.48273_0	48273.0	48273.0	48273.0	CD	NUMBER	48273.0	48273.0				
+8	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+9	0	fb:cell_kharakteristik.berdasarkan_status_keluarga	berdasarkan status keluarga	berdasarkan|status|keluarga	berdasarkan|status|keluarga	NNP|NN|NN	O|O|O	||					
+9	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.null											
+9	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.null											
+9	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.null											
+10	0	fb:cell_kharakteristik.berdasarkan_status_keluarga_tanpa_anak	berdasarkan status keluarga tanpa anak	berdasarkan|status|keluarga|tanpa|anak	berdasarkan|status|keluarga|tanpa|anak	NNP|NN|NN|NN|NN	O|O|O|O|O	||||					
+10	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.70721_0	70721.0	70721.0	70721.0	CD	NUMBER	70721.0	70721.0				
+10	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.51923_0	51923.0	51923.0	51923.0	CD	NUMBER	51923.0	51923.0				
+10	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_73	0.73	0.73	0.73	CD	NUMBER	0.73	0.73				
+11	0	fb:cell_kharakteristik.berdasarkan_status_keluarga_dengan_anak_anak	berdasarkan status keluarga dengan anak-anak	berdasarkan|status|keluarga|dengan|anak|anak	berdasarkan|status|keluarga|dengan|anak|anak	NNP|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_pekerja_laki_laki_kolom_1_dolar_konstan_2012.85539_0	85539.0	85539.0	85539.0	CD	NUMBER	85539.0	85539.0				
+11	2	fb:cell_pekerja_wanita_kolom_2_dolar_konstan_2012.52334_0	52334.0	52334.0	52334.0	CD	NUMBER	52334.0	52334.0				
+11	3	fb:cell_rasio_kesenjangan_pendapatan_gender_kolom_3.0_61	0.61	0.61	0.61	CD	NUMBER	0.61	0.61				

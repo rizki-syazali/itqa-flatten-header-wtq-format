@@ -1,0 +1,111 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.wilayah_metropolitan_montreal_hadir_pada_tahun_2011	wilayah metropolitan montreal hadir pada tahun 2011	wilayah|metropolitan|montreal|hadir|pada|tahun|2011	wilayah|metropolitan|montreal|hadir|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2011					
+-1	2	fb:row.row.wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011	wilayah metropolitan montreal diharapkan pada tahun 2011	wilayah|metropolitan|montreal|diharapkan|pada|tahun|2011	wilayah|metropolitan|montreal|diharapkan|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2011					
+-1	3	fb:row.row.perbedaan_wilayah_metropolitan_montreal	perbedaan wilayah metropolitan montreal	perbedaan|wilayah|metropolitan|montreal	perbedaan|wilayah|metropolitan|montreal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.pulau_montreal_hadir_pada_tahun_2011	pulau montreal hadir pada tahun 2011	pulau|montreal|hadir|pada|tahun|2011	pulau|montreal|hadir|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2011					
+-1	5	fb:row.row.pulau_montreal_diharapkan_pada_tahun_2011	pulau montreal diharapkan pada tahun 2011	pulau|montreal|diharapkan|pada|tahun|2011	pulau|montreal|diharapkan|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2011					
+-1	6	fb:row.row.perbedaan_pulau_montreal	perbedaan pulau montreal	perbedaan|pulau|montreal	perbedaan|pulau|montreal	NNP|NNP|NNP	O|O|O	||					
+-1	7	fb:row.row.kota_laval_hadir_pada_tahun_2011	kota laval hadir pada tahun 2011	kota|laval|hadir|pada|tahun|2011	kota|laval|hadir|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2011					
+-1	8	fb:row.row.kota_laval_diharapkan_pada_tahun_2011	kota laval diharapkan pada tahun 2011	kota|laval|diharapkan|pada|tahun|2011	kota|laval|diharapkan|pada|tahun|2011	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2011					
+-1	9	fb:row.row.kota_perbedaan_lava	kota perbedaan lava	kota|perbedaan|lava	kota|perbedaan|lava	NNP|NNP|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.jumlah_total_profesional_kesehatan	jumlah total - profesional kesehatan	jumlah|total|-|profesional|kesehatan	jumlah|total|-|profesional|kesehatan	NNP|NNP|:|JJ|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.95340	95340	95340	95340	CD	NUMBER	95340.0	95340.0				
+0	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.96980	96980	96980	96980	CD	NUMBER	96980.0	96980.0				
+0	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._1640	-1640	-1640	-1640	CD	NUMBER	-1640.0	1640.0				
+0	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.67025	67025	67025	67025	CD	NUMBER	67025.0	67025.0				
+0	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.68560	68560	68560	68560	CD	NUMBER	68560.0	68560.0				
+0	6	fb:cell_perbedaan_pulau_montreal._1535	-1535	-1535	-1535	CD	NUMBER	-1535.0	1535.0				
+0	7	fb:cell_kota_laval_hadir_pada_tahun_2011.6350	6350	6350	6350	CD	NUMBER	6350.0	6350.0	6350-xx-xx			
+0	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.7950	7950	7950	7950	CD	NUMBER	7950.0	7950.0	7950-xx-xx			
+0	9	fb:cell_kota_perbedaan_lava._1600	-1600	-1600	-1600	CD	NUMBER	-1600.0	1600.0				
+1	0	fb:cell_kharakteristik.jumlah_total_profesional_kesehatan_perawat_terdaftar_dan_perawat_psikiatri_terdaftar	jumlah total - profesional kesehatan perawat terdaftar dan perawat psikiatri terdaftar	jumlah|total|-|profesional|kesehatan|perawat|terdaftar|dan|perawat|psikiatri|terdaftar	jumlah|total|-|profesional|kesehatan|perawat|terdaftar|dan|perawat|psikiatri|terdaftar	NNP|NNP|:|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+1	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.20800	20800	20800	20800	CD	NUMBER	20800.0	20800.0				
+1	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.20530	20530	20530	20530	CD	NUMBER	20530.0	20530.0				
+1	3	fb:cell_perbedaan_wilayah_metropolitan_montreal.270	270	270	270	CD	NUMBER	270.0	270.0				
+1	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.15715	15715	15715	15715	CD	NUMBER	15715.0	15715.0				
+1	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.15105	15105	15105	15105	CD	NUMBER	15105.0	15105.0				
+1	6	fb:cell_perbedaan_pulau_montreal.610	610	610	610	CD	NUMBER	610.0	610.0				
+1	7	fb:cell_kota_laval_hadir_pada_tahun_2011.1195	1195	1195	1195	CD	DATE	1195	1195.0	1195-xx-xx			
+1	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.1705	1705	1705	1705	CD	DATE	1705	1705.0	1705-xx-xx			
+1	9	fb:cell_kota_perbedaan_lava._510	-510	-510	-510	CD	NUMBER	-510.0	510.0				
+2	0	fb:cell_kharakteristik.jumlah_total_profesional_kesehatan_dokter_umum_dan_dokter_keluarga	jumlah total - profesional kesehatan dokter umum dan dokter keluarga	jumlah|total|-|profesional|kesehatan|dokter|umum|dan|dokter|keluarga	jumlah|total|-|profesional|kesehatan|dokter|umum|dan|dokter|keluarga	NNP|NNP|:|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+2	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.4895	4895	4895	4895	CD	NUMBER	4895.0	4895.0	4895-xx-xx			
+2	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.4995	4995	4995	4995	CD	NUMBER	4995.0	4995.0	4995-xx-xx			
+2	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._100	-100	-100	-100	CD	NUMBER	-100.0	100.0				
+2	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.3470	3470	3470	3470	CD	NUMBER	3470.0	3470.0	3470-xx-xx			
+2	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.3370	3370	3370	3370	CD	NUMBER	3370.0	3370.0	3370-xx-xx			
+2	6	fb:cell_perbedaan_pulau_montreal.100	100	100	100	CD	NUMBER	100.0	100.0				
+2	7	fb:cell_kota_laval_hadir_pada_tahun_2011.305	305	305	305	CD	NUMBER	305.0	305.0				
+2	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.420	420	420	420	CD	NUMBER	420.0	420.0				
+2	9	fb:cell_kota_perbedaan_lava._115	-115	-115	-115	CD	NUMBER	-115.0	115.0				
+3	0	fb:cell_kharakteristik.angka_total_psikolog_profesional_kesehatan	angka total - psikolog profesional kesehatan	angka|total|-|psikolog|profesional|kesehatan	angka|total|-|psikolog|profesional|kesehatan	NNP|NNP|:|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.3690	3690	3690	3690	CD	NUMBER	3690.0	3690.0	3690-xx-xx			
+3	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.3690	3690	3690	3690	CD	NUMBER	3690.0	3690.0	3690-xx-xx			
+3	3	fb:cell_perbedaan_wilayah_metropolitan_montreal.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.2660	2660	2660	2660	CD	DATE	2660	2660.0	2660-xx-xx			
+3	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.2425	2425	2425	2425	CD	DATE	2425	2425.0	2425-xx-xx			
+3	6	fb:cell_perbedaan_pulau_montreal.235	235	235	235	CD	NUMBER	235.0	235.0				
+3	7	fb:cell_kota_laval_hadir_pada_tahun_2011.240	240	240	240	CD	NUMBER	240.0	240.0				
+3	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.345	345	345	345	CD	NUMBER	345.0	345.0				
+3	9	fb:cell_kota_perbedaan_lava._105	-105	-105	-105	CD	NUMBER	-105.0	105.0				
+4	0	fb:cell_kharakteristik.jumlah_total_profesional_kesehatan_pekerja_sosial	jumlah total - profesional kesehatan pekerja sosial	jumlah|total|-|profesional|kesehatan|pekerja|sosial	jumlah|total|-|profesional|kesehatan|pekerja|sosial	NNP|NNP|:|JJ|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+4	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.4145	4145	4145	4145	CD	NUMBER	4145.0	4145.0	4145-xx-xx			
+4	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.4310	4310	4310	4310	CD	NUMBER	4310.0	4310.0	4310-xx-xx			
+4	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._165	-165	-165	-165	CD	NUMBER	-165.0	165.0				
+4	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.2900	2900	2900	2900	CD	DATE	2900	2900.0	2900-xx-xx			
+4	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.3190	3190	3190	3190	CD	NUMBER	3190.0	3190.0	3190-xx-xx			
+4	6	fb:cell_perbedaan_pulau_montreal._290	-290	-290	-290	CD	NUMBER	-290.0	290.0				
+4	7	fb:cell_kota_laval_hadir_pada_tahun_2011.260	260	260	260	CD	NUMBER	260.0	260.0				
+4	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.350	350	350	350	CD	NUMBER	350.0	350.0				
+4	9	fb:cell_kota_perbedaan_lava._90	-90	-90	-90	CD	NUMBER	-90.0	90.0				
+5	0	fb:cell_kharakteristik.jumlah_total_apoteker_profesional_kesehatan	jumlah total - apoteker profesional kesehatan	jumlah|total|-|apoteker|profesional|kesehatan	jumlah|total|-|apoteker|profesional|kesehatan	NNP|NNP|:|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+5	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.3315	3315	3315	3315	CD	NUMBER	3315.0	3315.0	3315-xx-xx			
+5	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.3410	3410	3410	3410	CD	NUMBER	3410.0	3410.0	3410-xx-xx			
+5	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._95	-95	-95	-95	CD	NUMBER	-95.0	95.0				
+5	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.2055	2055	2055	2055	CD	DATE	2055	2055.0	2055-xx-xx			
+5	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.2170	2170	2170	2170	CD	DATE	2170	2170.0	2170-xx-xx			
+5	6	fb:cell_perbedaan_pulau_montreal._115	-115	-115	-115	CD	NUMBER	-115.0	115.0				
+5	7	fb:cell_kota_laval_hadir_pada_tahun_2011.305	305	305	305	CD	NUMBER	305.0	305.0				
+5	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.375	375	375	375	CD	NUMBER	375.0	375.0				
+5	9	fb:cell_kota_perbedaan_lava._70	-70	-70	-70	CD	NUMBER	-70.0	70.0				
+6	0	fb:cell_kharakteristik.jumlah_total_profesional_perawatan_kesehatan_yang_memiliki_lisensi_perawat_praktis	jumlah total - profesional perawatan kesehatan yang memiliki lisensi perawat praktis	jumlah|total|-|profesional|perawatan|kesehatan|yang|memiliki|lisensi|perawat|praktis	jumlah|total|-|profesional|perawatan|kesehatan|yang|memiliki|lisensi|perawat|praktis	NNP|NNP|:|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+6	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.3480	3480	3480	3480	CD	NUMBER	3480.0	3480.0	3480-xx-xx			
+6	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.2995	2995	2995	2995	CD	DATE	2995	2995.0	2995-xx-xx			
+6	3	fb:cell_perbedaan_wilayah_metropolitan_montreal.485	485	485	485	CD	NUMBER	485.0	485.0				
+6	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.2540	2540	2540	2540	CD	DATE	2540	2540.0	2540-xx-xx			
+6	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.2130	2130	2130	2130	CD	DATE	2130	2130.0	2130-xx-xx			
+6	6	fb:cell_perbedaan_pulau_montreal.410	410	410	410	CD	NUMBER	410.0	410.0				
+6	7	fb:cell_kota_laval_hadir_pada_tahun_2011.300	300	300	300	CD	NUMBER	300.0	300.0				
+6	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.190	190	190	190	CD	NUMBER	190.0	190.0				
+6	9	fb:cell_kota_perbedaan_lava.110	110	110	110	CD	NUMBER	110.0	110.0				
+7	0	fb:cell_kharakteristik.jumlah_total_pekerjaan_paramedis_profesional_kesehatan	jumlah total - pekerjaan paramedis profesional kesehatan	jumlah|total|-|pekerjaan|paramedis|profesional|kesehatan	jumlah|total|-|pekerjaan|paramedis|profesional|kesehatan	NNP|NNP|:|JJ|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+7	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.820	820	820	820	CD	NUMBER	820.0	820.0				
+7	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.990	990	990	990	CD	NUMBER	990.0	990.0				
+7	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._170	-170	-170	-170	CD	NUMBER	-170.0	170.0				
+7	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.570	570	570	570	CD	NUMBER	570.0	570.0				
+7	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.615	615	615	615	CD	NUMBER	615.0	615.0				
+7	6	fb:cell_perbedaan_pulau_montreal._45	-45	-45	-45	CD	NUMBER	-45.0	45.0				
+7	7	fb:cell_kota_laval_hadir_pada_tahun_2011.15	15	15	15	CD	NUMBER	15.0	15.0				
+7	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.65	65	65	65	CD	NUMBER	65.0	65.0				
+7	9	fb:cell_kota_perbedaan_lava._50	-50	-50	-50	CD	NUMBER	-50.0	50.0				
+8	0	fb:cell_kharakteristik.jumlah_total_perawat_profesional_kesehatan_perawat_dan_rekan_layanan_pasien	jumlah total - perawat profesional kesehatan, perawat, dan rekan layanan pasien	jumlah|total|-|perawat|profesional|kesehatan|,|perawat|,|dan|rekan|layanan|pasien	jumlah|total|-|perawat|profesional|kesehatan|,|perawat|,|dan|rekan|layanan|pasien	NNP|NNP|:|NNP|NNP|NNP|,|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				jumlah total - perawat profesional kesehatan|perawat|dan rekan layanan pasien	fb:part_kharakteristik.jumlah_total_perawat_profesional_kesehatan|fb:part_kharakteristik.perawat|fb:part_kharakteristik.dan_rekan_layanan_pasien
+8	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.12755	12755	12755	12755	CD	NUMBER	12755.0	12755.0				
+8	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.13590	13590	13590	13590	CD	NUMBER	13590.0	13590.0				
+8	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._835	-835	-835	-835	CD	NUMBER	-835.0	835.0				
+8	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.9565	9565	9565	9565	CD	NUMBER	9565.0	9565.0	9565-xx-xx			
+8	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.10020	10020	10020	10020	CD	NUMBER	10020.0	10020.0				
+8	6	fb:cell_perbedaan_pulau_montreal._455	-455	-455	-455	CD	NUMBER	-455.0	455.0				
+8	7	fb:cell_kota_laval_hadir_pada_tahun_2011.690	690	690	690	CD	NUMBER	690.0	690.0				
+8	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.990	990	990	990	CD	NUMBER	990.0	990.0				
+8	9	fb:cell_kota_perbedaan_lava._300	-300	-300	-300	CD	NUMBER	-300.0	300.0				
+9	0	fb:cell_kharakteristik.jumlah_total_profesional_kesehatan_profesional_kesehatan_lainnya	jumlah total - profesional kesehatan profesional kesehatan lainnya	jumlah|total|-|profesional|kesehatan|profesional|kesehatan|lainnya	jumlah|total|-|profesional|kesehatan|profesional|kesehatan|lainnya	NNP|NNP|:|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+9	1	fb:cell_wilayah_metropolitan_montreal_hadir_pada_tahun_2011.41440	41440	41440	41440	CD	NUMBER	41440.0	41440.0				
+9	2	fb:cell_wilayah_metropolitan_montreal_diharapkan_pada_tahun_2011.42535	42535	42535	42535	CD	NUMBER	42535.0	42535.0				
+9	3	fb:cell_perbedaan_wilayah_metropolitan_montreal._1095	-1095	-1095	-1095	CD	NUMBER	-1095.0	1095.0				
+9	4	fb:cell_pulau_montreal_hadir_pada_tahun_2011.27550	27550	27550	27550	CD	NUMBER	27550.0	27550.0				
+9	5	fb:cell_pulau_montreal_diharapkan_pada_tahun_2011.29450	29450	29450	29450	CD	NUMBER	29450.0	29450.0				
+9	6	fb:cell_perbedaan_pulau_montreal._1900	-1900	-1900	-1900	CD	NUMBER	-1900.0	1900.0				
+9	7	fb:cell_kota_laval_hadir_pada_tahun_2011.3040	3040	3040	3040	CD	NUMBER	3040.0	3040.0	3040-xx-xx			
+9	8	fb:cell_kota_laval_diharapkan_pada_tahun_2011.3535	3535	3535	3535	CD	NUMBER	3535.0	3535.0	3535-xx-xx			
+9	9	fb:cell_kota_perbedaan_lava._495	-495	-495	-495	CD	NUMBER	-495.0	495.0				

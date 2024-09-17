@@ -1,0 +1,89 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_pendidikan_perguruan_tinggi	tingkat pendidikan perguruan tinggi	tingkat|pendidikan|perguruan|tinggi	tingkat|pendidikan|perguruan|tinggi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.tingkat_pendidikan_sarjana	tingkat pendidikan sarjana	tingkat|pendidikan|sarjana	tingkat|pendidikan|sarjana	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.tingkat_pendidikan_magister_dan_doktor	tingkat pendidikan magister dan doktor	tingkat|pendidikan|magister|dan|doktor	tingkat|pendidikan|magister|dan|doktor	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.persen_tingkat_lapangan_kerja	persen tingkat lapangan kerja	persen|tingkat|lapangan|kerja	persen|tingkat|lapangan|kerja	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+0	2	fb:cell_tingkat_pendidikan_sarjana.null											
+0	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+1	0	fb:cell_kharakteristik.persen_partisipasi_tingkat_lapangan_kerja_di_wil	persen partisipasi tingkat lapangan kerja di wil	persen|partisipasi|tingkat|lapangan|kerja|di|wil	persen|partisipasi|tingkat|lapangan|kerja|di|wil	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.87_4	87.4	87.4	87.4	CD	NUMBER	87.4	87.4				
+1	2	fb:cell_tingkat_pendidikan_sarjana.92_4	92.4	92.4	92.4	CD	NUMBER	92.4	92.4				
+1	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.93_8	93.8	93.8	93.8	CD	NUMBER	93.8	93.8				
+2	0	fb:cell_kharakteristik.persen_tingkat_lapangan_kerja_tidak_ada_partisipasi_dalam_kehendak	persen tingkat lapangan kerja tidak ada partisipasi dalam kehendak	persen|tingkat|lapangan|kerja|tidak|ada|partisipasi|dalam|kehendak	persen|tingkat|lapangan|kerja|tidak|ada|partisipasi|dalam|kehendak	NNP|NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+2	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.89_6	89.6	89.6	89.6	CD	NUMBER	89.6	89.6				
+2	2	fb:cell_tingkat_pendidikan_sarjana.90_4	90.4	90.4	90.4	CD	NUMBER	90.4	90.4				
+2	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.91_7	91.7	91.7	91.7	CD	NUMBER	91.7	91.7				
+3	0	fb:cell_kharakteristik.persen_tingkat_pekerjaan_penuh_waktu	persen tingkat pekerjaan penuh waktu	persen|tingkat|pekerjaan|penuh|waktu	persen|tingkat|pekerjaan|penuh|waktu	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+3	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+3	2	fb:cell_tingkat_pendidikan_sarjana.null											
+3	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+4	0	fb:cell_kharakteristik.persen_partisipasi_tingkat_pekerjaan_penuh_waktu_di_wil	persen partisipasi tingkat pekerjaan penuh waktu di wil	persen|partisipasi|tingkat|pekerjaan|penuh|waktu|di|wil	persen|partisipasi|tingkat|pekerjaan|penuh|waktu|di|wil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+4	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.79_5	79.5	79.5	79.5	CD	NUMBER	79.5	79.5				
+4	2	fb:cell_tingkat_pendidikan_sarjana.86_9	86.9	86.9	86.9	CD	NUMBER	86.9	86.9				
+4	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+5	0	fb:cell_kharakteristik.persen_tingkat_pekerjaan_penuh_waktu_tidak_ada_partisipasi_dalam_wasiat	persen tingkat pekerjaan penuh waktu tidak ada partisipasi dalam wasiat	persen|tingkat|pekerjaan|penuh|waktu|tidak|ada|partisipasi|dalam|wasiat	persen|tingkat|pekerjaan|penuh|waktu|tidak|ada|partisipasi|dalam|wasiat	NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+5	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.81_3	81.3	81.3	81.3	CD	NUMBER	81.3	81.3				
+5	2	fb:cell_tingkat_pendidikan_sarjana.84_4	84.4	84.4	84.4	CD	NUMBER	84.4	84.4				
+5	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.87_2	87.2	87.2	87.2	CD	NUMBER	87.2	87.2				
+6	0	fb:cell_kharakteristik.persen_pekerjaan_tetap	persen pekerjaan tetap	persen|pekerjaan|tetap	persen|pekerjaan|tetap	JJ|NN|NN	O|O|O	||					
+6	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+6	2	fb:cell_tingkat_pendidikan_sarjana.null											
+6	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+7	0	fb:cell_kharakteristik.persen_partisipasi_kerja_tetap_di_wil	persen partisipasi kerja tetap di wil	persen|partisipasi|kerja|tetap|di|wil	persen|partisipasi|kerja|tetap|di|wil	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+7	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+7	2	fb:cell_tingkat_pendidikan_sarjana.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+7	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+8	0	fb:cell_kharakteristik.persen_pekerjaan_tetap_tidak_ada_partisipasi_dalam_wasiat	persen pekerjaan tetap tidak ada partisipasi dalam wasiat	persen|pekerjaan|tetap|tidak|ada|partisipasi|dalam|wasiat	persen|pekerjaan|tetap|tidak|ada|partisipasi|dalam|wasiat	NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+8	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+8	2	fb:cell_tingkat_pendidikan_sarjana.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+8	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+9	0	fb:cell_kharakteristik.persen_persepsi_bahwa_pekerjaan_itu_agak_atau_berkaitan_erat_dengan_bidang_studi	persen persepsi bahwa pekerjaan itu agak atau berkaitan erat dengan bidang studi	persen|persepsi|bahwa|pekerjaan|itu|agak|atau|berkaitan|erat|dengan|bidang|studi	persen|persepsi|bahwa|pekerjaan|itu|agak|atau|berkaitan|erat|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+9	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+9	2	fb:cell_tingkat_pendidikan_sarjana.null											
+9	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+10	0	fb:cell_kharakteristik.persen_persepsi_bahwa_pekerjaan_agak_atau_berkaitan_erat_dengan_partisipasi_bidang_studi_di_wil	persen persepsi bahwa pekerjaan agak atau berkaitan erat dengan partisipasi bidang studi di wil	persen|persepsi|bahwa|pekerjaan|agak|atau|berkaitan|erat|dengan|partisipasi|bidang|studi|di|wil	persen|persepsi|bahwa|pekerjaan|agak|atau|berkaitan|erat|dengan|partisipasi|bidang|studi|di|wil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+10	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+10	2	fb:cell_tingkat_pendidikan_sarjana.88_4	88.4	88.4	88.4	CD	NUMBER	88.4	88.4				
+10	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.92_1	92.1	92.1	92.1	CD	NUMBER	92.1	92.1				
+11	0	fb:cell_kharakteristik.persen_persepsi_bahwa_pekerjaan_itu_agak_atau_berkaitan_erat_dengan_bidang_studi_tidak_berpartisipasi_dalam_kemauan	persen persepsi bahwa pekerjaan itu agak atau berkaitan erat dengan bidang studi tidak berpartisipasi dalam kemauan	persen|persepsi|bahwa|pekerjaan|itu|agak|atau|berkaitan|erat|dengan|bidang|studi|tidak|berpartisipasi|dalam|kemauan	persen|persepsi|bahwa|pekerjaan|itu|agak|atau|berkaitan|erat|dengan|bidang|studi|tidak|berpartisipasi|dalam|kemauan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+11	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+11	2	fb:cell_tingkat_pendidikan_sarjana.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+11	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.88_3	88.3	88.3	88.3	CD	NUMBER	88.3	88.3				
+12	0	fb:cell_kharakteristik.persen_memiliki_tingkat_pendidikan_yang_lebih_tinggi_dari_tingkat_yang_dibutuhkan_oleh_pekerjaan_tersebut	persen memiliki tingkat pendidikan yang lebih tinggi dari tingkat yang dibutuhkan oleh pekerjaan tersebut	persen|memiliki|tingkat|pendidikan|yang|lebih|tinggi|dari|tingkat|yang|dibutuhkan|oleh|pekerjaan|tersebut	persen|memiliki|tingkat|pendidikan|yang|lebih|tinggi|dari|tingkat|yang|dibutuhkan|oleh|pekerjaan|tersebut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+12	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+12	2	fb:cell_tingkat_pendidikan_sarjana.null											
+12	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+13	0	fb:cell_kharakteristik.persen_mempunyai_tingkat_pendidikan_yang_lebih_tinggi_dari_tingkat_yang_disyaratkan_untuk_berpartisipasi_dalam_pekerjaan_di_daerah_wil	persen mempunyai tingkat pendidikan yang lebih tinggi dari tingkat yang disyaratkan untuk berpartisipasi dalam pekerjaan di daerah wil	persen|mempunyai|tingkat|pendidikan|yang|lebih|tinggi|dari|tingkat|yang|disyaratkan|untuk|berpartisipasi|dalam|pekerjaan|di|daerah|wil	persen|mempunyai|tingkat|pendidikan|yang|lebih|tinggi|dari|tingkat|yang|disyaratkan|untuk|berpartisipasi|dalam|pekerjaan|di|daerah|wil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||					
+13	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+13	2	fb:cell_tingkat_pendidikan_sarjana.31_8	31.8	31.8	31.8	CD	NUMBER	31.8	31.8				
+13	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.58_1	58.1	58.1	58.1	CD	NUMBER	58.1	58.1				
+14	0	fb:cell_kharakteristik.persen_memiliki_tingkat_pendidikan_yang_lebih_tinggi_dari_tingkat_yang_dibutuhkan_oleh_pekerjaan_tersebut_tidak_ada_partisipasi_dalam_wasiat	persen memiliki tingkat pendidikan yang lebih tinggi dari tingkat yang dibutuhkan oleh pekerjaan tersebut. Tidak ada partisipasi dalam wasiat	persen|memiliki|tingkat|pendidikan|yang|lebih|tinggi|dari|tingkat|yang|dibutuhkan|oleh|pekerjaan|tersebut|.|tidak|ada|partisipasi|dalam|wasiat	persen|memiliki|tingkat|pendidikan|yang|lebih|tinggi|dari|tingkat|yang|dibutuhkan|oleh|pekerjaan|tersebut|.|Tidak|ada|partisipasi|dalam|wasiat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||					
+14	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.47_9	47.9	47.9	47.9	CD	NUMBER	47.9	47.9				
+14	2	fb:cell_tingkat_pendidikan_sarjana.48_9	48.9	48.9	48.9	CD	NUMBER	48.9	48.9				
+14	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+15	0	fb:cell_kharakteristik.pendapatan_pekerjaan_dolar	pendapatan pekerjaan dolar	pendapatan|pekerjaan|dolar	pendapatan|pekerjaan|dolar	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+15	2	fb:cell_tingkat_pendidikan_sarjana.null											
+15	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+16	0	fb:cell_kharakteristik.partisipasi_pendapatan_pekerjaan_dolar_di_wil	partisipasi pendapatan pekerjaan dolar di wil	partisipasi|pendapatan|pekerjaan|dolar|di|wil	partisipasi|pendapatan|pekerjaan|dolar|di|wil	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+16	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.44600_0	44600.0	44600.0	44600.0	CD	NUMBER	44600.0	44600.0				
+16	2	fb:cell_tingkat_pendidikan_sarjana.57900_0	57900.0	57900.0	57900.0	CD	NUMBER	57900.0	57900.0				
+16	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.69700_0	69700.0	69700.0	69700.0	CD	NUMBER	69700.0	69700.0				
+17	0	fb:cell_kharakteristik.dolar_pendapatan_pekerjaan_tidak_ada_partisipasi_dalam_kehendak	dolar pendapatan pekerjaan tidak ada partisipasi dalam kehendak	dolar|pendapatan|pekerjaan|tidak|ada|partisipasi|dalam|kehendak	dolar|pendapatan|pekerjaan|tidak|ada|partisipasi|dalam|kehendak	NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+17	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.45400_0	45400.0	45400.0	45400.0	CD	NUMBER	45400.0	45400.0				
+17	2	fb:cell_tingkat_pendidikan_sarjana.54100_0	54100.0	54100.0	54100.0	CD	NUMBER	54100.0	54100.0				
+17	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.73000_0	73000.0	73000.0	73000.0	CD	NUMBER	73000.0	73000.0				
+18	0	fb:cell_kharakteristik.pendapatan_pekerjaan_penuh_waktu_dolar	pendapatan pekerjaan penuh waktu dolar	pendapatan|pekerjaan|penuh|waktu|dolar	pendapatan|pekerjaan|penuh|waktu|dolar	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+18	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.null											
+18	2	fb:cell_tingkat_pendidikan_sarjana.null											
+18	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.null											
+19	0	fb:cell_kharakteristik.dolar_partisipasi_pendapatan_pekerjaan_penuh_waktu_di_wil	dolar partisipasi pendapatan pekerjaan penuh waktu di wil	dolar|partisipasi|pendapatan|pekerjaan|penuh|waktu|di|wil	dolar|partisipasi|pendapatan|pekerjaan|penuh|waktu|di|wil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+19	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.46600_0	46600.0	46600.0	46600.0	CD	NUMBER	46600.0	46600.0				
+19	2	fb:cell_tingkat_pendidikan_sarjana.59900_0	59900.0	59900.0	59900.0	CD	NUMBER	59900.0	59900.0				
+19	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.72300_0	72300.0	72300.0	72300.0	CD	NUMBER	72300.0	72300.0				
+20	0	fb:cell_kharakteristik.dolar_pendapatan_pekerjaan_penuh_waktu_tidak_ada_partisipasi_dalam_wasiat	dolar pendapatan pekerjaan penuh waktu tidak ada partisipasi dalam wasiat	dolar|pendapatan|pekerjaan|penuh|waktu|tidak|ada|partisipasi|dalam|wasiat	dolar|pendapatan|pekerjaan|penuh|waktu|tidak|ada|partisipasi|dalam|wasiat	NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+20	1	fb:cell_tingkat_pendidikan_perguruan_tinggi.47800_0	47800.0	47800.0	47800.0	CD	NUMBER	47800.0	47800.0				
+20	2	fb:cell_tingkat_pendidikan_sarjana.56000_0	56000.0	56000.0	56000.0	CD	NUMBER	56000.0	56000.0				
+20	3	fb:cell_tingkat_pendidikan_magister_dan_doktor.74600_0	74600.0	74600.0	74600.0	CD	NUMBER	74600.0	74600.0				

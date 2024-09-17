@@ -1,0 +1,241 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.ras_atau_etnis_2014	ras atau etnis 2014	ras|atau|etnis|2014	ras|atau|etni|2014	NN|NN|VBZ|CD	O|O|O|DATE	|||2014					
+-1	2	fb:row.row.ras_atau_etnis_pada_tahun_2015	ras atau etnis pada tahun 2015	ras|atau|etnis|pada|tahun|2015	ras|atau|etnis|pada|tahun|2015	NN|NN|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2015					
+-1	3	fb:row.row.ras_atau_etnis_2016	ras atau etnis 2016	ras|atau|etnis|2016	ras|atau|etni|2016	NN|NN|VBZ|CD	O|O|O|DATE	|||2016					
+-1	4	fb:row.row.agama_2014	agama 2014	agama|2014	agama|2014	NNP|CD	O|DATE	|2014					
+-1	5	fb:row.row.agama_tahun_2015	agama tahun 2015	agama|tahun|2015	agama|tahun|2015	NNP|NNP|CD	O|O|DATE	||2015					
+-1	6	fb:row.row.agama_2016	agama 2016	agama|2016	agama|2016	NNP|CD	O|DATE	|2016					
+-1	7	fb:row.row.orientasi_seksual_2014	orientasi seksual 2014	orientasi|seksual|2014	orientasi|seksual|2014	NNP|NNP|CD	O|O|DATE	||2014					
+-1	8	fb:row.row.orientasi_seksual_2015	orientasi seksual 2015	orientasi|seksual|2015	orientasi|seksual|2015	NNP|NNP|CD	O|O|DATE	||2015					
+-1	9	fb:row.row.orientasi_seksual_2016	orientasi seksual 2016	orientasi|seksual|2016	orientasi|seksual|2016	NNP|NNP|CD	O|O|DATE	||2016					
+-1	10	fb:row.row.lainnya_tahun_2014	lainnya tahun 2014	lainnya|tahun|2014	lainnya|tahun|2014	NNP|NNP|CD	O|O|DATE	||2014					
+-1	11	fb:row.row.lainnya_tahun_2015	lainnya tahun 2015	lainnya|tahun|2015	lainnya|tahun|2015	NNP|NNP|CD	O|O|DATE	||2015					
+-1	12	fb:row.row.lainnya_tahun_2016	lainnya tahun 2016	lainnya|tahun|2016	lainnya|tahun|2016	NNP|NNP|CD	O|O|DATE	||2016					
+-1	13	fb:row.row.jumlah_tahun_2014	jumlah tahun 2014	jumlah|tahun|2014	jumlah|tahun|2014	NNP|NNP|CD	O|O|DATE	||2014					
+-1	14	fb:row.row.jumlah_tahun_2015	jumlah tahun 2015	jumlah|tahun|2015	jumlah|tahun|2015	NNP|NNP|CD	O|O|DATE	||2015					
+-1	15	fb:row.row.jumlah_tahun_2016	jumlah tahun 2016	jumlah|tahun|2016	jumlah|tahun|2016	NNP|NNP|CD	O|O|DATE	||2016					
+0	0	fb:cell_kharakteristik.nomor_newfoundland_dan_labrador	nomor newfoundland dan labrador	nomor|newfoundland|dan|labrador	nomor|newfoundland|dan|labrador	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+0	1	fb:cell_ras_atau_etnis_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	2	fb:cell_ras_atau_etnis_pada_tahun_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+0	3	fb:cell_ras_atau_etnis_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	4	fb:cell_agama_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	5	fb:cell_agama_tahun_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	6	fb:cell_agama_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	7	fb:cell_orientasi_seksual_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	8	fb:cell_orientasi_seksual_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	9	fb:cell_orientasi_seksual_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	11	fb:cell_lainnya_tahun_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	12	fb:cell_lainnya_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	13	fb:cell_jumlah_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	14	fb:cell_jumlah_tahun_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+0	15	fb:cell_jumlah_tahun_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+1	0	fb:cell_kharakteristik.nomor_pulau_pangeran_edward	nomor pulau pangeran Edward	nomor|pulau|pangeran|edward	nomor|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_ras_atau_etnis_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	2	fb:cell_ras_atau_etnis_pada_tahun_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	3	fb:cell_ras_atau_etnis_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+1	4	fb:cell_agama_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	5	fb:cell_agama_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	6	fb:cell_agama_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	7	fb:cell_orientasi_seksual_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	8	fb:cell_orientasi_seksual_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	9	fb:cell_orientasi_seksual_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	11	fb:cell_lainnya_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	12	fb:cell_lainnya_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	13	fb:cell_jumlah_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	14	fb:cell_jumlah_tahun_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+1	15	fb:cell_jumlah_tahun_2016.3	3	3	3	CD	NUMBER	3.0	3.0				
+2	0	fb:cell_kharakteristik.nomor_nova_scotia	nomor nova scotia	nomor|nova|scotia	nomor|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_ras_atau_etnis_2014.16	16	16	16	CD	NUMBER	16.0	16.0				
+2	2	fb:cell_ras_atau_etnis_pada_tahun_2015.14	14	14	14	CD	NUMBER	14.0	14.0				
+2	3	fb:cell_ras_atau_etnis_2016.9	9	9	9	CD	NUMBER	9.0	9.0				
+2	4	fb:cell_agama_2014.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	5	fb:cell_agama_tahun_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+2	6	fb:cell_agama_2016.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	7	fb:cell_orientasi_seksual_2014.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	8	fb:cell_orientasi_seksual_2015.6	6	6	6	CD	NUMBER	6.0	6.0				
+2	9	fb:cell_orientasi_seksual_2016.7	7	7	7	CD	NUMBER	7.0	7.0				
+2	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	11	fb:cell_lainnya_tahun_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+2	12	fb:cell_lainnya_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	13	fb:cell_jumlah_tahun_2014.27	27	27	27	CD	NUMBER	27.0	27.0				
+2	14	fb:cell_jumlah_tahun_2015.32	32	32	32	CD	NUMBER	32.0	32.0				
+2	15	fb:cell_jumlah_tahun_2016.21	21	21	21	CD	NUMBER	21.0	21.0				
+3	0	fb:cell_kharakteristik.nomor_brunswick_baru	nomor brunswick baru	nomor|brunswick|baru	nomor|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_ras_atau_etnis_2014.1	1	1	1	CD	NUMBER	1.0	1.0				
+3	2	fb:cell_ras_atau_etnis_pada_tahun_2015.6	6	6	6	CD	NUMBER	6.0	6.0				
+3	3	fb:cell_ras_atau_etnis_2016.12	12	12	12	CD	NUMBER	12.0	12.0				
+3	4	fb:cell_agama_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	5	fb:cell_agama_tahun_2015.6	6	6	6	CD	NUMBER	6.0	6.0				
+3	6	fb:cell_agama_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	7	fb:cell_orientasi_seksual_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	8	fb:cell_orientasi_seksual_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+3	9	fb:cell_orientasi_seksual_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	10	fb:cell_lainnya_tahun_2014.1	1	1	1	CD	NUMBER	1.0	1.0				
+3	11	fb:cell_lainnya_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	12	fb:cell_lainnya_tahun_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	13	fb:cell_jumlah_tahun_2014.6	6	6	6	CD	NUMBER	6.0	6.0				
+3	14	fb:cell_jumlah_tahun_2015.17	17	17	17	CD	NUMBER	17.0	17.0				
+3	15	fb:cell_jumlah_tahun_2016.18	18	18	18	CD	NUMBER	18.0	18.0				
+4	0	fb:cell_kharakteristik.nomor_quebec	nomor Quebec	nomor|quebec	nomor|Quebec	NNP|NNP	O|O	|					
+4	1	fb:cell_ras_atau_etnis_2014.82	82	82	82	CD	NUMBER	82.0	82.0				
+4	2	fb:cell_ras_atau_etnis_pada_tahun_2015.84	84	84	84	CD	NUMBER	84.0	84.0				
+4	3	fb:cell_ras_atau_etnis_2016.118	118	118	118	CD	NUMBER	118.0	118.0				
+4	4	fb:cell_agama_2014.93	93	93	93	CD	NUMBER	93.0	93.0				
+4	5	fb:cell_agama_tahun_2015.127	127	127	127	CD	NUMBER	127.0	127.0				
+4	6	fb:cell_agama_2016.116	116	116	116	CD	NUMBER	116.0	116.0				
+4	7	fb:cell_orientasi_seksual_2014.27	27	27	27	CD	NUMBER	27.0	27.0				
+4	8	fb:cell_orientasi_seksual_2015.12	12	12	12	CD	NUMBER	12.0	12.0				
+4	9	fb:cell_orientasi_seksual_2016.27	27	27	27	CD	NUMBER	27.0	27.0				
+4	10	fb:cell_lainnya_tahun_2014.44	44	44	44	CD	NUMBER	44.0	44.0				
+4	11	fb:cell_lainnya_tahun_2015.38	38	38	38	CD	NUMBER	38.0	38.0				
+4	12	fb:cell_lainnya_tahun_2016.51	51	51	51	CD	NUMBER	51.0	51.0				
+4	13	fb:cell_jumlah_tahun_2014.258	258	258	258	CD	NUMBER	258.0	258.0				
+4	14	fb:cell_jumlah_tahun_2015.270	270	270	270	CD	NUMBER	270.0	270.0				
+4	15	fb:cell_jumlah_tahun_2016.327	327	327	327	CD	NUMBER	327.0	327.0				
+5	0	fb:cell_kharakteristik.nomor_ontario	nomor ontario	nomor|ontario	nomor|ontario	NNP|NNP	O|O	|					
+5	1	fb:cell_ras_atau_etnis_2014.315	315	315	315	CD	NUMBER	315.0	315.0				
+5	2	fb:cell_ras_atau_etnis_pada_tahun_2015.308	308	308	308	CD	NUMBER	308.0	308.0				
+5	3	fb:cell_ras_atau_etnis_2016.273	273	273	273	CD	NUMBER	273.0	273.0				
+5	4	fb:cell_agama_2014.246	246	246	246	CD	NUMBER	246.0	246.0				
+5	5	fb:cell_agama_tahun_2015.224	224	224	224	CD	NUMBER	224.0	224.0				
+5	6	fb:cell_agama_2016.242	242	242	242	CD	NUMBER	242.0	242.0				
+5	7	fb:cell_orientasi_seksual_2014.70	70	70	70	CD	NUMBER	70.0	70.0				
+5	8	fb:cell_orientasi_seksual_2015.69	69	69	69	CD	NUMBER	69.0	69.0				
+5	9	fb:cell_orientasi_seksual_2016.76	76	76	76	CD	NUMBER	76.0	76.0				
+5	10	fb:cell_lainnya_tahun_2014.23	23	23	23	CD	NUMBER	23.0	23.0				
+5	11	fb:cell_lainnya_tahun_2015.21	21	21	21	CD	NUMBER	21.0	21.0				
+5	12	fb:cell_lainnya_tahun_2016.19	19	19	19	CD	NUMBER	19.0	19.0				
+5	13	fb:cell_jumlah_tahun_2014.660	660	660	660	CD	NUMBER	660.0	660.0				
+5	14	fb:cell_jumlah_tahun_2015.628	628	628	628	CD	NUMBER	628.0	628.0				
+5	15	fb:cell_jumlah_tahun_2016.612	612	612	612	CD	NUMBER	612.0	612.0				
+6	0	fb:cell_kharakteristik.nomor_manitoba	nomor manitoba	nomor|manitoba	nomor|manitoba	NNP|NNP	O|O	|					
+6	1	fb:cell_ras_atau_etnis_2014.9	9	9	9	CD	NUMBER	9.0	9.0				
+6	2	fb:cell_ras_atau_etnis_pada_tahun_2015.18	18	18	18	CD	NUMBER	18.0	18.0				
+6	3	fb:cell_ras_atau_etnis_2016.17	17	17	17	CD	NUMBER	17.0	17.0				
+6	4	fb:cell_agama_2014.7	7	7	7	CD	NUMBER	7.0	7.0				
+6	5	fb:cell_agama_tahun_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+6	6	fb:cell_agama_2016.13	13	13	13	CD	NUMBER	13.0	13.0				
+6	7	fb:cell_orientasi_seksual_2014.1	1	1	1	CD	NUMBER	1.0	1.0				
+6	8	fb:cell_orientasi_seksual_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+6	9	fb:cell_orientasi_seksual_2016.4	4	4	4	CD	NUMBER	4.0	4.0				
+6	10	fb:cell_lainnya_tahun_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+6	11	fb:cell_lainnya_tahun_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+6	12	fb:cell_lainnya_tahun_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+6	13	fb:cell_jumlah_tahun_2014.20	20	20	20	CD	NUMBER	20.0	20.0				
+6	14	fb:cell_jumlah_tahun_2015.30	30	30	30	CD	NUMBER	30.0	30.0				
+6	15	fb:cell_jumlah_tahun_2016.36	36	36	36	CD	NUMBER	36.0	36.0				
+7	0	fb:cell_kharakteristik.nomor_saskatchewan	nomor saskatchewan	nomor|saskatchewan	nomor|saskatchewan	NNP|NNP	O|O	|					
+7	1	fb:cell_ras_atau_etnis_2014.9	9	9	9	CD	NUMBER	9.0	9.0				
+7	2	fb:cell_ras_atau_etnis_pada_tahun_2015.11	11	11	11	CD	NUMBER	11.0	11.0				
+7	3	fb:cell_ras_atau_etnis_2016.16	16	16	16	CD	NUMBER	16.0	16.0				
+7	4	fb:cell_agama_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+7	5	fb:cell_agama_tahun_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+7	6	fb:cell_agama_2016.6	6	6	6	CD	NUMBER	6.0	6.0				
+7	7	fb:cell_orientasi_seksual_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+7	8	fb:cell_orientasi_seksual_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+7	9	fb:cell_orientasi_seksual_2016.4	4	4	4	CD	NUMBER	4.0	4.0				
+7	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+7	11	fb:cell_lainnya_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+7	12	fb:cell_lainnya_tahun_2016.3	3	3	3	CD	NUMBER	3.0	3.0				
+7	13	fb:cell_jumlah_tahun_2014.13	13	13	13	CD	NUMBER	13.0	13.0				
+7	14	fb:cell_jumlah_tahun_2015.16	16	16	16	CD	NUMBER	16.0	16.0				
+7	15	fb:cell_jumlah_tahun_2016.29	29	29	29	CD	NUMBER	29.0	29.0				
+8	0	fb:cell_kharakteristik.nomor_alberta	nomor alberta	nomor|alberta	nomor|alberta	NNP|NNP	O|O	|					
+8	1	fb:cell_ras_atau_etnis_2014.86	86	86	86	CD	NUMBER	86.0	86.0				
+8	2	fb:cell_ras_atau_etnis_pada_tahun_2015.108	108	108	108	CD	NUMBER	108.0	108.0				
+8	3	fb:cell_ras_atau_etnis_2016.92	92	92	92	CD	NUMBER	92.0	92.0				
+8	4	fb:cell_agama_2014.30	30	30	30	CD	NUMBER	30.0	30.0				
+8	5	fb:cell_agama_tahun_2015.56	56	56	56	CD	NUMBER	56.0	56.0				
+8	6	fb:cell_agama_2016.25	25	25	25	CD	NUMBER	25.0	25.0				
+8	7	fb:cell_orientasi_seksual_2014.20	20	20	20	CD	NUMBER	20.0	20.0				
+8	8	fb:cell_orientasi_seksual_2015.19	19	19	19	CD	NUMBER	19.0	19.0				
+8	9	fb:cell_orientasi_seksual_2016.19	19	19	19	CD	NUMBER	19.0	19.0				
+8	10	fb:cell_lainnya_tahun_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+8	11	fb:cell_lainnya_tahun_2015.10	10	10	10	CD	NUMBER	10.0	10.0				
+8	12	fb:cell_lainnya_tahun_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+8	13	fb:cell_jumlah_tahun_2014.139	139	139	139	CD	NUMBER	139.0	139.0				
+8	14	fb:cell_jumlah_tahun_2015.193	193	193	193	CD	NUMBER	193.0	193.0				
+8	15	fb:cell_jumlah_tahun_2016.139	139	139	139	CD	NUMBER	139.0	139.0				
+9	0	fb:cell_kharakteristik.nomor_columbia_inggris	nomor columbia inggris	nomor|columbia|inggris	nomor|columbia|inggris	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_ras_atau_etnis_2014.90	90	90	90	CD	NUMBER	90.0	90.0				
+9	2	fb:cell_ras_atau_etnis_pada_tahun_2015.84	84	84	84	CD	NUMBER	84.0	84.0				
+9	3	fb:cell_ras_atau_etnis_2016.118	118	118	118	CD	NUMBER	118.0	118.0				
+9	4	fb:cell_agama_2014.44	44	44	44	CD	NUMBER	44.0	44.0				
+9	5	fb:cell_agama_tahun_2015.38	38	38	38	CD	NUMBER	38.0	38.0				
+9	6	fb:cell_agama_2016.47	47	47	47	CD	NUMBER	47.0	47.0				
+9	7	fb:cell_orientasi_seksual_2014.27	27	27	27	CD	NUMBER	27.0	27.0				
+9	8	fb:cell_orientasi_seksual_2015.25	25	25	25	CD	NUMBER	25.0	25.0				
+9	9	fb:cell_orientasi_seksual_2016.36	36	36	36	CD	NUMBER	36.0	36.0				
+9	10	fb:cell_lainnya_tahun_2014.5	5	5	5	CD	NUMBER	5.0	5.0				
+9	11	fb:cell_lainnya_tahun_2015.11	11	11	11	CD	NUMBER	11.0	11.0				
+9	12	fb:cell_lainnya_tahun_2016.10	10	10	10	CD	NUMBER	10.0	10.0				
+9	13	fb:cell_jumlah_tahun_2014.168	168	168	168	CD	NUMBER	168.0	168.0				
+9	14	fb:cell_jumlah_tahun_2015.164	164	164	164	CD	NUMBER	164.0	164.0				
+9	15	fb:cell_jumlah_tahun_2016.211	211	211	211	CD	NUMBER	211.0	211.0				
+10	0	fb:cell_kharakteristik.nomor_yukon	nomor yukon	nomor|yukon	nomor|yukon	NNP|NNP	O|O	|					
+10	1	fb:cell_ras_atau_etnis_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+10	2	fb:cell_ras_atau_etnis_pada_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	3	fb:cell_ras_atau_etnis_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+10	4	fb:cell_agama_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	5	fb:cell_agama_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	6	fb:cell_agama_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+10	7	fb:cell_orientasi_seksual_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	8	fb:cell_orientasi_seksual_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	9	fb:cell_orientasi_seksual_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	11	fb:cell_lainnya_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	12	fb:cell_lainnya_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	13	fb:cell_jumlah_tahun_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+10	14	fb:cell_jumlah_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	15	fb:cell_jumlah_tahun_2016.2	2	2	2	CD	NUMBER	2.0	2.0				
+11	0	fb:cell_kharakteristik.nomor_wilayah_barat_laut	nomor wilayah barat laut	nomor|wilayah|barat|laut	nomor|wilayah|barat|laut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_ras_atau_etnis_2014.1	1	1	1	CD	NUMBER	1.0	1.0				
+11	2	fb:cell_ras_atau_etnis_pada_tahun_2015.3	3	3	3	CD	NUMBER	3.0	3.0				
+11	3	fb:cell_ras_atau_etnis_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	4	fb:cell_agama_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	5	fb:cell_agama_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	6	fb:cell_agama_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	7	fb:cell_orientasi_seksual_2014.1	1	1	1	CD	NUMBER	1.0	1.0				
+11	8	fb:cell_orientasi_seksual_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+11	9	fb:cell_orientasi_seksual_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	11	fb:cell_lainnya_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	12	fb:cell_lainnya_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	13	fb:cell_jumlah_tahun_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+11	14	fb:cell_jumlah_tahun_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+11	15	fb:cell_jumlah_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	0	fb:cell_kharakteristik.nomor_nunavut	nomor nunavut	nomor|nunavut	nomor|nunavut	NNP|NNP	O|O	|					
+12	1	fb:cell_ras_atau_etnis_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	2	fb:cell_ras_atau_etnis_pada_tahun_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+12	3	fb:cell_ras_atau_etnis_2016.8	8	8	8	CD	NUMBER	8.0	8.0				
+12	4	fb:cell_agama_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	5	fb:cell_agama_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	6	fb:cell_agama_2016.1	1	1	1	CD	NUMBER	1.0	1.0				
+12	7	fb:cell_orientasi_seksual_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	8	fb:cell_orientasi_seksual_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	9	fb:cell_orientasi_seksual_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	10	fb:cell_lainnya_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	11	fb:cell_lainnya_tahun_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	12	fb:cell_lainnya_tahun_2016.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	13	fb:cell_jumlah_tahun_2014.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	14	fb:cell_jumlah_tahun_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+12	15	fb:cell_jumlah_tahun_2016.9	9	9	9	CD	NUMBER	9.0	9.0				
+13	0	fb:cell_kharakteristik.nomor_kanada	nomor Kanada	nomor|kanada	nomor|Kanada	NNP|NNP	O|O	|					
+13	1	fb:cell_ras_atau_etnis_2014.611	611	611	611	CD	NUMBER	611.0	611.0				
+13	2	fb:cell_ras_atau_etnis_pada_tahun_2015.641	641	641	641	CD	NUMBER	641.0	641.0				
+13	3	fb:cell_ras_atau_etnis_2016.666	666	666	666	CD	NUMBER	666.0	666.0				
+13	4	fb:cell_agama_2014.429	429	429	429	CD	NUMBER	429.0	429.0				
+13	5	fb:cell_agama_tahun_2015.469	469	469	469	CD	NUMBER	469.0	469.0				
+13	6	fb:cell_agama_2016.460	460	460	460	CD	NUMBER	460.0	460.0				
+13	7	fb:cell_orientasi_seksual_2014.155	155	155	155	CD	NUMBER	155.0	155.0				
+13	8	fb:cell_orientasi_seksual_2015.141	141	141	141	CD	NUMBER	141.0	141.0				
+13	9	fb:cell_orientasi_seksual_2016.176	176	176	176	CD	NUMBER	176.0	176.0				
+13	10	fb:cell_lainnya_tahun_2014.77	77	77	77	CD	NUMBER	77.0	77.0				
+13	11	fb:cell_lainnya_tahun_2015.86	86	86	86	CD	NUMBER	86.0	86.0				
+13	12	fb:cell_lainnya_tahun_2016.88	88	88	88	CD	NUMBER	88.0	88.0				
+13	13	fb:cell_jumlah_tahun_2014.1295	1295	1295	1295	CD	DATE	1295	1295.0	1295-xx-xx			
+13	14	fb:cell_jumlah_tahun_2015.1362	1362	1362	1362	CD	DATE	1362	1362.0	1362-xx-xx			
+13	15	fb:cell_jumlah_tahun_2016.1409	1409	1409	1409	CD	DATE	1409	1409.0	1409-xx-xx			

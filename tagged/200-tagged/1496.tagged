@@ -1,0 +1,452 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_bersalah	nomor bersalah	nomor|bersalah	nomor|bersalah	NNP|NNP	O|O	|					
+-1	2	fb:row.row.persen_bersalah	persen bersalah	persen|bersalah	persen|bersalah	NNP|NNP	O|O	|					
+-1	3	fb:row.row.nomor_tinggal_ditarik	nomor tinggal/ditarik	nomor|tinggal/ditarik	nomor|tinggal/ditarik	NNP|NNP	O|O	|					
+-1	4	fb:row.row.persen_tinggal_ditarik	persen tinggal/ditarik	persen|tinggal/ditarik	persen|tinggal/ditarik	NNP|NNP	O|O	|					
+-1	5	fb:row.row.nomor_bebas	nomor bebas	nomor|bebas	nomor|bebas	NNP|NNP	O|O	|					
+-1	6	fb:row.row.persen_dibebaskan	persen dibebaskan	persen|dibebaskan	persen|dibebaskan	NNP|NNP	O|O	|					
+-1	7	fb:row.row.nomor_keputusan_lainnya	nomor keputusan lainnya	nomor|keputusan|lainnya	nomor|keputusan|lainnya	NNP|NNP|NNP	O|O|O	||					
+-1	8	fb:row.row.persen_keputusan_lainnya	persen keputusan lainnya	persen|keputusan|lainnya	persen|keputusan|lainnya	NNP|NNP|NNP	O|O|O	||					
+-1	9	fb:row.row.jumlah_total_kasus	jumlah total kasus	jumlah|total|kasus	jumlah|total|kasus	NNP|NNP|NNP	O|O|O	||					
+-1	10	fb:row.row.total_kasus_persen	total kasus persen	total|kasus|persen	total|kasus|persen	JJ|NN|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.pelanggaran_kekerasan	pelanggaran kekerasan	pelanggaran|kekerasan	pelanggaran|kekerasan	NNP|NNP	O|O	|					
+0	1	fb:cell_nomor_bersalah.6482	6482	6482	6482	CD	NUMBER	6482.0	6482.0	6482-xx-xx			
+0	2	fb:cell_persen_bersalah.55	55	55	55	CD	NUMBER	55.0	55.0				
+0	3	fb:cell_nomor_tinggal_ditarik.4783	4783	4783	4783	CD	NUMBER	4783.0	4783.0	4783-xx-xx			
+0	4	fb:cell_persen_tinggal_ditarik.41	41	41	41	CD	NUMBER	41.0	41.0				
+0	5	fb:cell_nomor_bebas.395	395	395	395	CD	NUMBER	395.0	395.0				
+0	6	fb:cell_persen_dibebaskan.3	3	3	3	CD	NUMBER	3.0	3.0				
+0	7	fb:cell_nomor_keputusan_lainnya.60	60	60	60	CD	NUMBER	60.0	60.0				
+0	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	9	fb:cell_jumlah_total_kasus.11720	11720	11720	11720	CD	NUMBER	11720.0	11720.0				
+0	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pembunuhan	pelanggaran kekerasan pembunuhan	pelanggaran|kekerasan|pembunuhan	pelanggaran|kekerasan|pembunuhan	NN|NN|NN	O|O|O	||					
+1	1	fb:cell_nomor_bersalah.21	21	21	21	CD	NUMBER	21.0	21.0				
+1	2	fb:cell_persen_bersalah.64	64	64	64	CD	NUMBER	64.0	64.0				
+1	3	fb:cell_nomor_tinggal_ditarik.11	11	11	11	CD	NUMBER	11.0	11.0				
+1	4	fb:cell_persen_tinggal_ditarik.33	33	33	33	CD	NUMBER	33.0	33.0				
+1	5	fb:cell_nomor_bebas.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	7	fb:cell_nomor_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	8	fb:cell_persen_keputusan_lainnya.3	3	3	3	CD	NUMBER	3.0	3.0				
+1	9	fb:cell_jumlah_total_kasus.33	33	33	33	CD	NUMBER	33.0	33.0				
+1	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+2	0	fb:cell_kharakteristik.pelanggaran_kekerasan_percobaan_pembunuhan	pelanggaran kekerasan percobaan pembunuhan	pelanggaran|kekerasan|percobaan|pembunuhan	pelanggaran|kekerasan|percobaan|pembunuhan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_nomor_bersalah.9	9	9	9	CD	NUMBER	9.0	9.0				
+2	2	fb:cell_persen_bersalah.45	45	45	45	CD	NUMBER	45.0	45.0				
+2	3	fb:cell_nomor_tinggal_ditarik.10	10	10	10	CD	NUMBER	10.0	10.0				
+2	4	fb:cell_persen_tinggal_ditarik.50	50	50	50	CD	NUMBER	50.0	50.0				
+2	5	fb:cell_nomor_bebas.1	1	1	1	CD	NUMBER	1.0	1.0				
+2	6	fb:cell_persen_dibebaskan.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	7	fb:cell_nomor_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	9	fb:cell_jumlah_total_kasus.20	20	20	20	CD	NUMBER	20.0	20.0				
+2	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+3	0	fb:cell_kharakteristik.pelanggaran_kekerasan_perampokan	pelanggaran kekerasan perampokan	pelanggaran|kekerasan|perampokan	pelanggaran|kekerasan|perampokan	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_nomor_bersalah.1040	1040	1040	1040	CD	DATE	1040	1040.0	1040-xx-xx			
+3	2	fb:cell_persen_bersalah.55	55	55	55	CD	NUMBER	55.0	55.0				
+3	3	fb:cell_nomor_tinggal_ditarik.806	806	806	806	CD	NUMBER	806.0	806.0				
+3	4	fb:cell_persen_tinggal_ditarik.42	42	42	42	CD	NUMBER	42.0	42.0				
+3	5	fb:cell_nomor_bebas.55	55	55	55	CD	NUMBER	55.0	55.0				
+3	6	fb:cell_persen_dibebaskan.3	3	3	3	CD	NUMBER	3.0	3.0				
+3	7	fb:cell_nomor_keputusan_lainnya.3	3	3	3	CD	NUMBER	3.0	3.0				
+3	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	9	fb:cell_jumlah_total_kasus.1904	1904	1904	1904	CD	DATE	1904	1904.0	1904-xx-xx			
+3	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+4	0	fb:cell_kharakteristik.pelanggaran_kekerasan_penyerangan_seksual	pelanggaran kekerasan penyerangan seksual	pelanggaran|kekerasan|penyerangan|seksual	pelanggaran|kekerasan|penyerangan|seksual	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_nomor_bersalah.457	457	457	457	CD	NUMBER	457.0	457.0				
+4	2	fb:cell_persen_bersalah.61	61	61	61	CD	NUMBER	61.0	61.0				
+4	3	fb:cell_nomor_tinggal_ditarik.226	226	226	226	CD	NUMBER	226.0	226.0				
+4	4	fb:cell_persen_tinggal_ditarik.30	30	30	30	CD	NUMBER	30.0	30.0				
+4	5	fb:cell_nomor_bebas.57	57	57	57	CD	NUMBER	57.0	57.0				
+4	6	fb:cell_persen_dibebaskan.8	8	8	8	CD	NUMBER	8.0	8.0				
+4	7	fb:cell_nomor_keputusan_lainnya.10	10	10	10	CD	NUMBER	10.0	10.0				
+4	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+4	9	fb:cell_jumlah_total_kasus.750	750	750	750	CD	NUMBER	750.0	750.0				
+4	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+5	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelanggaran_seksual_lainnya	pelanggaran kekerasan pelanggaran seksual lainnya	pelanggaran|kekerasan|pelanggaran|seksual|lainnya	pelanggaran|kekerasan|pelanggaran|seksual|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_nomor_bersalah.407	407	407	407	CD	NUMBER	407.0	407.0				
+5	2	fb:cell_persen_bersalah.61	61	61	61	CD	NUMBER	61.0	61.0				
+5	3	fb:cell_nomor_tinggal_ditarik.211	211	211	211	CD	NUMBER	211.0	211.0				
+5	4	fb:cell_persen_tinggal_ditarik.32	32	32	32	CD	NUMBER	32.0	32.0				
+5	5	fb:cell_nomor_bebas.45	45	45	45	CD	NUMBER	45.0	45.0				
+5	6	fb:cell_persen_dibebaskan.7	7	7	7	CD	NUMBER	7.0	7.0				
+5	7	fb:cell_nomor_keputusan_lainnya.4	4	4	4	CD	NUMBER	4.0	4.0				
+5	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+5	9	fb:cell_jumlah_total_kasus.667	667	667	667	CD	NUMBER	667.0	667.0				
+5	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+6	0	fb:cell_kharakteristik.pelanggaran_kekerasan_serangan_besar	pelanggaran kekerasan serangan besar	pelanggaran|kekerasan|serangan|besar	pelanggaran|kekerasan|serangan|besar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_nomor_bersalah.1478	1478	1478	1478	CD	DATE	1478	1478.0	1478-xx-xx			
+6	2	fb:cell_persen_bersalah.62	62	62	62	CD	NUMBER	62.0	62.0				
+6	3	fb:cell_nomor_tinggal_ditarik.835	835	835	835	CD	NUMBER	835.0	835.0				
+6	4	fb:cell_persen_tinggal_ditarik.35	35	35	35	CD	NUMBER	35.0	35.0				
+6	5	fb:cell_nomor_bebas.71	71	71	71	CD	NUMBER	71.0	71.0				
+6	6	fb:cell_persen_dibebaskan.3	3	3	3	CD	NUMBER	3.0	3.0				
+6	7	fb:cell_nomor_keputusan_lainnya.12	12	12	12	CD	NUMBER	12.0	12.0				
+6	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+6	9	fb:cell_jumlah_total_kasus.2396	2396	2396	2396	CD	DATE	2396	2396.0	2396-xx-xx			
+6	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+7	0	fb:cell_kharakteristik.pelanggaran_kekerasan_penyerangan_biasa	pelanggaran kekerasan penyerangan biasa	pelanggaran|kekerasan|penyerangan|biasa	pelanggaran|kekerasan|penyerangan|biasa	NN|NN|NN|NN	O|O|O|O	|||					
+7	1	fb:cell_nomor_bersalah.1858	1858	1858	1858	CD	DATE	1858	1858.0	1858-xx-xx			
+7	2	fb:cell_persen_bersalah.51	51	51	51	CD	NUMBER	51.0	51.0				
+7	3	fb:cell_nomor_tinggal_ditarik.1663	1663	1663	1663	CD	DATE	1663	1663.0	1663-xx-xx			
+7	4	fb:cell_persen_tinggal_ditarik.46	46	46	46	CD	NUMBER	46.0	46.0				
+7	5	fb:cell_nomor_bebas.77	77	77	77	CD	NUMBER	77.0	77.0				
+7	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+7	7	fb:cell_nomor_keputusan_lainnya.15	15	15	15	CD	NUMBER	15.0	15.0				
+7	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+7	9	fb:cell_jumlah_total_kasus.3613	3613	3613	3613	CD	NUMBER	3613.0	3613.0	3613-xx-xx			
+7	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+8	0	fb:cell_kharakteristik.pelanggaran_kekerasan_yang_mengucapkan_ancaman	pelanggaran kekerasan yang mengucapkan ancaman	pelanggaran|kekerasan|yang|mengucapkan|ancaman	pelanggaran|kekerasan|yang|mengucapkan|ancaman	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+8	1	fb:cell_nomor_bersalah.987	987	987	987	CD	NUMBER	987.0	987.0				
+8	2	fb:cell_persen_bersalah.53	53	53	53	CD	NUMBER	53.0	53.0				
+8	3	fb:cell_nomor_tinggal_ditarik.791	791	791	791	CD	NUMBER	791.0	791.0				
+8	4	fb:cell_persen_tinggal_ditarik.42	42	42	42	CD	NUMBER	42.0	42.0				
+8	5	fb:cell_nomor_bebas.77	77	77	77	CD	NUMBER	77.0	77.0				
+8	6	fb:cell_persen_dibebaskan.4	4	4	4	CD	NUMBER	4.0	4.0				
+8	7	fb:cell_nomor_keputusan_lainnya.12	12	12	12	CD	NUMBER	12.0	12.0				
+8	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+8	9	fb:cell_jumlah_total_kasus.1867	1867	1867	1867	CD	DATE	1867	1867.0	1867-xx-xx			
+8	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+9	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelecehan_pidana	pelanggaran kekerasan pelecehan pidana	pelanggaran|kekerasan|pelecehan|pidana	pelanggaran|kekerasan|pelecehan|pidana	NN|NN|NN|NN	O|O|O|O	|||					
+9	1	fb:cell_nomor_bersalah.80	80	80	80	CD	NUMBER	80.0	80.0				
+9	2	fb:cell_persen_bersalah.42	42	42	42	CD	NUMBER	42.0	42.0				
+9	3	fb:cell_nomor_tinggal_ditarik.108	108	108	108	CD	NUMBER	108.0	108.0				
+9	4	fb:cell_persen_tinggal_ditarik.56	56	56	56	CD	NUMBER	56.0	56.0				
+9	5	fb:cell_nomor_bebas.2	2	2	2	CD	NUMBER	2.0	2.0				
+9	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+9	7	fb:cell_nomor_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+9	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+9	9	fb:cell_jumlah_total_kasus.192	192	192	192	CD	NUMBER	192.0	192.0				
+9	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+10	0	fb:cell_kharakteristik.pelanggaran_kekerasan_kejahatan_lainnya_terhadap_orang	pelanggaran kekerasan kejahatan lainnya terhadap orang	pelanggaran|kekerasan|kejahatan|lainnya|terhadap|orang	pelanggaran|kekerasan|kejahatan|lainnya|terhadap|orang	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+10	1	fb:cell_nomor_bersalah.145	145	145	145	CD	NUMBER	145.0	145.0				
+10	2	fb:cell_persen_bersalah.52	52	52	52	CD	NUMBER	52.0	52.0				
+10	3	fb:cell_nomor_tinggal_ditarik.122	122	122	122	CD	NUMBER	122.0	122.0				
+10	4	fb:cell_persen_tinggal_ditarik.44	44	44	44	CD	NUMBER	44.0	44.0				
+10	5	fb:cell_nomor_bebas.10	10	10	10	CD	NUMBER	10.0	10.0				
+10	6	fb:cell_persen_dibebaskan.4	4	4	4	CD	NUMBER	4.0	4.0				
+10	7	fb:cell_nomor_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+10	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	9	fb:cell_jumlah_total_kasus.278	278	278	278	CD	NUMBER	278.0	278.0				
+10	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+11	0	fb:cell_kharakteristik.pelanggaran_properti	pelanggaran properti	pelanggaran|properti	pelanggaran|properti	NN|NN	O|O	|					
+11	1	fb:cell_nomor_bersalah.6469	6469	6469	6469	CD	NUMBER	6469.0	6469.0	6469-xx-xx			
+11	2	fb:cell_persen_bersalah.48	48	48	48	CD	NUMBER	48.0	48.0				
+11	3	fb:cell_nomor_tinggal_ditarik.6735	6735	6735	6735	CD	NUMBER	6735.0	6735.0	6735-xx-xx			
+11	4	fb:cell_persen_tinggal_ditarik.50	50	50	50	CD	NUMBER	50.0	50.0				
+11	5	fb:cell_nomor_bebas.108	108	108	108	CD	NUMBER	108.0	108.0				
+11	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+11	7	fb:cell_nomor_keputusan_lainnya.58	58	58	58	CD	NUMBER	58.0	58.0				
+11	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	9	fb:cell_jumlah_total_kasus.13370	13370	13370	13370	CD	NUMBER	13370.0	13370.0				
+11	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+12	0	fb:cell_kharakteristik.pencurian_pelanggaran_properti	pencurian pelanggaran properti	pencurian|pelanggaran|properti	pencurian|pelanggaran|properti	JJ|NN|NN	O|O|O	||					
+12	1	fb:cell_nomor_bersalah.2083	2083	2083	2083	CD	DATE	2083	2083.0	2083-xx-xx			
+12	2	fb:cell_persen_bersalah.45	45	45	45	CD	NUMBER	45.0	45.0				
+12	3	fb:cell_nomor_tinggal_ditarik.2528	2528	2528	2528	CD	DATE	2528	2528.0	2528-xx-xx			
+12	4	fb:cell_persen_tinggal_ditarik.54	54	54	54	CD	NUMBER	54.0	54.0				
+12	5	fb:cell_nomor_bebas.34	34	34	34	CD	NUMBER	34.0	34.0				
+12	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+12	7	fb:cell_nomor_keputusan_lainnya.13	13	13	13	CD	NUMBER	13.0	13.0				
+12	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	9	fb:cell_jumlah_total_kasus.4658	4658	4658	4658	CD	NUMBER	4658.0	4658.0	4658-xx-xx			
+12	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+13	0	fb:cell_kharakteristik.pelanggaran_properti_menerobos_dan_masuk	pelanggaran properti menerobos dan masuk	pelanggaran|properti|menerobos|dan|masuk	pelanggaran|properti|menerobos|dan|masuk	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+13	1	fb:cell_nomor_bersalah.1890	1890	1890	1890	CD	DATE	1890	1890.0	1890-xx-xx			
+13	2	fb:cell_persen_bersalah.61	61	61	61	CD	NUMBER	61.0	61.0				
+13	3	fb:cell_nomor_tinggal_ditarik.1170	1170	1170	1170	CD	DATE	1170	1170.0	1170-xx-xx			
+13	4	fb:cell_persen_tinggal_ditarik.38	38	38	38	CD	NUMBER	38.0	38.0				
+13	5	fb:cell_nomor_bebas.24	24	24	24	CD	NUMBER	24.0	24.0				
+13	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+13	7	fb:cell_nomor_keputusan_lainnya.16	16	16	16	CD	NUMBER	16.0	16.0				
+13	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+13	9	fb:cell_jumlah_total_kasus.3100	3100	3100	3100	CD	NUMBER	3100.0	3100.0	3100-xx-xx			
+13	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+14	0	fb:cell_kharakteristik.penipuan_pelanggaran_properti	penipuan pelanggaran properti	penipuan|pelanggaran|properti	penipuan|pelanggaran|properti	NN|NN|NN	O|O|O	||					
+14	1	fb:cell_nomor_bersalah.255	255	255	255	CD	NUMBER	255.0	255.0				
+14	2	fb:cell_persen_bersalah.55	55	55	55	CD	NUMBER	55.0	55.0				
+14	3	fb:cell_nomor_tinggal_ditarik.204	204	204	204	CD	NUMBER	204.0	204.0				
+14	4	fb:cell_persen_tinggal_ditarik.44	44	44	44	CD	NUMBER	44.0	44.0				
+14	5	fb:cell_nomor_bebas.4	4	4	4	CD	NUMBER	4.0	4.0				
+14	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+14	7	fb:cell_nomor_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+14	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+14	9	fb:cell_jumlah_total_kasus.465	465	465	465	CD	NUMBER	465.0	465.0				
+14	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+15	0	fb:cell_kharakteristik.pelanggaran_properti_kenakalan	pelanggaran properti kenakalan	pelanggaran|properti|kenakalan	pelanggaran|properti|kenakalan	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_nomor_bersalah.1067	1067	1067	1067	CD	DATE	1067	1067.0	1067-xx-xx			
+15	2	fb:cell_persen_bersalah.43	43	43	43	CD	NUMBER	43.0	43.0				
+15	3	fb:cell_nomor_tinggal_ditarik.1388	1388	1388	1388	CD	DATE	1388	1388.0	1388-xx-xx			
+15	4	fb:cell_persen_tinggal_ditarik.56	56	56	56	CD	NUMBER	56.0	56.0				
+15	5	fb:cell_nomor_bebas.27	27	27	27	CD	NUMBER	27.0	27.0				
+15	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+15	7	fb:cell_nomor_keputusan_lainnya.7	7	7	7	CD	NUMBER	7.0	7.0				
+15	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+15	9	fb:cell_jumlah_total_kasus.2489	2489	2489	2489	CD	DATE	2489	2489.0	2489-xx-xx			
+15	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+16	0	fb:cell_kharakteristik.pelanggaran_properti_memiliki_properti_curian	pelanggaran properti memiliki properti curian	pelanggaran|properti|memiliki|properti|curian	pelanggaran|properti|memiliki|properti|curian	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+16	1	fb:cell_nomor_bersalah.971	971	971	971	CD	NUMBER	971.0	971.0				
+16	2	fb:cell_persen_bersalah.42	42	42	42	CD	NUMBER	42.0	42.0				
+16	3	fb:cell_nomor_tinggal_ditarik.1291	1291	1291	1291	CD	DATE	1291	1291.0	1291-xx-xx			
+16	4	fb:cell_persen_tinggal_ditarik.56	56	56	56	CD	NUMBER	56.0	56.0				
+16	5	fb:cell_nomor_bebas.16	16	16	16	CD	NUMBER	16.0	16.0				
+16	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+16	7	fb:cell_nomor_keputusan_lainnya.16	16	16	16	CD	NUMBER	16.0	16.0				
+16	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+16	9	fb:cell_jumlah_total_kasus.2294	2294	2294	2294	CD	DATE	2294	2294.0	2294-xx-xx			
+16	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+17	0	fb:cell_kharakteristik.pelanggaran_properti_kejahatan_properti_lainnya	pelanggaran properti kejahatan properti lainnya	pelanggaran|properti|kejahatan|properti|lainnya	pelanggaran|properti|kejahatan|properti|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+17	1	fb:cell_nomor_bersalah.203	203	203	203	CD	NUMBER	203.0	203.0				
+17	2	fb:cell_persen_bersalah.56	56	56	56	CD	NUMBER	56.0	56.0				
+17	3	fb:cell_nomor_tinggal_ditarik.154	154	154	154	CD	NUMBER	154.0	154.0				
+17	4	fb:cell_persen_tinggal_ditarik.42	42	42	42	CD	NUMBER	42.0	42.0				
+17	5	fb:cell_nomor_bebas.3	3	3	3	CD	NUMBER	3.0	3.0				
+17	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+17	7	fb:cell_nomor_keputusan_lainnya.4	4	4	4	CD	NUMBER	4.0	4.0				
+17	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+17	9	fb:cell_jumlah_total_kasus.364	364	364	364	CD	NUMBER	364.0	364.0				
+17	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+18	0	fb:cell_kharakteristik.administrasi_pelanggaran_peradilan	administrasi pelanggaran peradilan	administrasi|pelanggaran|peradilan	administrasi|pelanggaran|peradilan	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_nomor_bersalah.2723	2723	2723	2723	CD	DATE	2723	2723.0	2723-xx-xx			
+18	2	fb:cell_persen_bersalah.63	63	63	63	CD	NUMBER	63.0	63.0				
+18	3	fb:cell_nomor_tinggal_ditarik.1518	1518	1518	1518	CD	DATE	1518	1518.0	1518-xx-xx			
+18	4	fb:cell_persen_tinggal_ditarik.35	35	35	35	CD	NUMBER	35.0	35.0				
+18	5	fb:cell_nomor_bebas.28	28	28	28	CD	NUMBER	28.0	28.0				
+18	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+18	7	fb:cell_nomor_keputusan_lainnya.21	21	21	21	CD	NUMBER	21.0	21.0				
+18	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+18	9	fb:cell_jumlah_total_kasus.4290	4290	4290	4290	CD	NUMBER	4290.0	4290.0	4290-xx-xx			
+18	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+19	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_gagal_muncul	pelanggaran administrasi peradilan gagal muncul	pelanggaran|administrasi|peradilan|gagal|muncul	pelanggaran|administrasi|peradilan|gagal|muncul	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+19	1	fb:cell_nomor_bersalah.110	110	110	110	CD	NUMBER	110.0	110.0				
+19	2	fb:cell_persen_bersalah.45	45	45	45	CD	NUMBER	45.0	45.0				
+19	3	fb:cell_nomor_tinggal_ditarik.130	130	130	130	CD	NUMBER	130.0	130.0				
+19	4	fb:cell_persen_tinggal_ditarik.53	53	53	53	CD	NUMBER	53.0	53.0				
+19	5	fb:cell_nomor_bebas.0	0	0	0	CD	NUMBER	0.0	0.0				
+19	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+19	7	fb:cell_nomor_keputusan_lainnya.6	6	6	6	CD	NUMBER	6.0	6.0				
+19	8	fb:cell_persen_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+19	9	fb:cell_jumlah_total_kasus.246	246	246	246	CD	NUMBER	246.0	246.0				
+19	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+20	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_pelanggaran_masa_percobaan	pelanggaran administrasi peradilan pelanggaran masa percobaan	pelanggaran|administrasi|peradilan|pelanggaran|masa|percobaan	pelanggaran|administrasi|peradilan|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_nomor_bersalah.74	74	74	74	CD	NUMBER	74.0	74.0				
+20	2	fb:cell_persen_bersalah.63	63	63	63	CD	NUMBER	63.0	63.0				
+20	3	fb:cell_nomor_tinggal_ditarik.41	41	41	41	CD	NUMBER	41.0	41.0				
+20	4	fb:cell_persen_tinggal_ditarik.35	35	35	35	CD	NUMBER	35.0	35.0				
+20	5	fb:cell_nomor_bebas.0	0	0	0	CD	NUMBER	0.0	0.0				
+20	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+20	7	fb:cell_nomor_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+20	8	fb:cell_persen_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+20	9	fb:cell_jumlah_total_kasus.117	117	117	117	CD	NUMBER	117.0	117.0				
+20	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+21	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_secara_luas_secara_melawan_hukum	pelanggaran administrasi peradilan secara luas secara melawan hukum	pelanggaran|administrasi|peradilan|secara|luas|secara|melawan|hukum	pelanggaran|administrasi|peradilan|secara|luas|secara|melawan|hukum	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+21	1	fb:cell_nomor_bersalah.219	219	219	219	CD	NUMBER	219.0	219.0				
+21	2	fb:cell_persen_bersalah.85	85	85	85	CD	NUMBER	85.0	85.0				
+21	3	fb:cell_nomor_tinggal_ditarik.39	39	39	39	CD	NUMBER	39.0	39.0				
+21	4	fb:cell_persen_tinggal_ditarik.15	15	15	15	CD	NUMBER	15.0	15.0				
+21	5	fb:cell_nomor_bebas.0	0	0	0	CD	NUMBER	0.0	0.0				
+21	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+21	7	fb:cell_nomor_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+21	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+21	9	fb:cell_jumlah_total_kasus.258	258	258	258	CD	NUMBER	258.0	258.0				
+21	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+22	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_gagal_untuk_mematuhi_perintah	pelanggaran administrasi peradilan gagal untuk mematuhi perintah	pelanggaran|administrasi|peradilan|gagal|untuk|mematuhi|perintah	pelanggaran|administrasi|peradilan|gagal|untuk|mematuhi|perintah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+22	1	fb:cell_nomor_bersalah.1776	1776	1776	1776	CD	DATE	1776	1776.0	1776-xx-xx			
+22	2	fb:cell_persen_bersalah.62	62	62	62	CD	NUMBER	62.0	62.0				
+22	3	fb:cell_nomor_tinggal_ditarik.1066	1066	1066	1066	CD	DATE	1066	1066.0	1066-xx-xx			
+22	4	fb:cell_persen_tinggal_ditarik.37	37	37	37	CD	NUMBER	37.0	37.0				
+22	5	fb:cell_nomor_bebas.25	25	25	25	CD	NUMBER	25.0	25.0				
+22	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+22	7	fb:cell_nomor_keputusan_lainnya.8	8	8	8	CD	NUMBER	8.0	8.0				
+22	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+22	9	fb:cell_jumlah_total_kasus.2875	2875	2875	2875	CD	DATE	2875	2875.0	2875-xx-xx			
+22	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+23	0	fb:cell_kharakteristik.penyelenggaraan_peradilan_melanggar_administrasi_peradilan_lainnya	penyelenggaraan peradilan melanggar administrasi peradilan lainnya	penyelenggaraan|peradilan|melanggar|administrasi|peradilan|lainnya	penyelenggaraan|peradilan|melanggar|administrasi|peradilan|lainnya	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+23	1	fb:cell_nomor_bersalah.544	544	544	544	CD	NUMBER	544.0	544.0				
+23	2	fb:cell_persen_bersalah.69	69	69	69	CD	NUMBER	69.0	69.0				
+23	3	fb:cell_nomor_tinggal_ditarik.242	242	242	242	CD	NUMBER	242.0	242.0				
+23	4	fb:cell_persen_tinggal_ditarik.30	30	30	30	CD	NUMBER	30.0	30.0				
+23	5	fb:cell_nomor_bebas.3	3	3	3	CD	NUMBER	3.0	3.0				
+23	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+23	7	fb:cell_nomor_keputusan_lainnya.5	5	5	5	CD	NUMBER	5.0	5.0				
+23	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+23	9	fb:cell_jumlah_total_kasus.794	794	794	794	CD	NUMBER	794.0	794.0				
+23	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+24	0	fb:cell_kharakteristik.pelanggaran_hukum_pidana_lainnya	pelanggaran hukum pidana lainnya	pelanggaran|hukum|pidana|lainnya	pelanggaran|hukum|pidana|lainnya	NN|NN|NN|NN	O|O|O|O	|||					
+24	1	fb:cell_nomor_bersalah.1317	1317	1317	1317	CD	DATE	1317	1317.0	1317-xx-xx			
+24	2	fb:cell_persen_bersalah.61	61	61	61	CD	NUMBER	61.0	61.0				
+24	3	fb:cell_nomor_tinggal_ditarik.804	804	804	804	CD	NUMBER	804.0	804.0				
+24	4	fb:cell_persen_tinggal_ditarik.37	37	37	37	CD	NUMBER	37.0	37.0				
+24	5	fb:cell_nomor_bebas.25	25	25	25	CD	NUMBER	25.0	25.0				
+24	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+24	7	fb:cell_nomor_keputusan_lainnya.14	14	14	14	CD	NUMBER	14.0	14.0				
+24	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+24	9	fb:cell_jumlah_total_kasus.2160	2160	2160	2160	CD	DATE	2160	2160.0	2160-xx-xx			
+24	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+25	0	fb:cell_kharakteristik.senjata_tindak_pidana_kuhp_lainnya	senjata tindak pidana KUHP lainnya	senjata|tindak|pidana|kuhp|lainnya	senjata|tindak|pidana|KUHP|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+25	1	fb:cell_nomor_bersalah.856	856	856	856	CD	NUMBER	856.0	856.0				
+25	2	fb:cell_persen_bersalah.59	59	59	59	CD	NUMBER	59.0	59.0				
+25	3	fb:cell_nomor_tinggal_ditarik.573	573	573	573	CD	NUMBER	573.0	573.0				
+25	4	fb:cell_persen_tinggal_ditarik.39	39	39	39	CD	NUMBER	39.0	39.0				
+25	5	fb:cell_nomor_bebas.17	17	17	17	CD	NUMBER	17.0	17.0				
+25	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+25	7	fb:cell_nomor_keputusan_lainnya.5	5	5	5	CD	NUMBER	5.0	5.0				
+25	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+25	9	fb:cell_jumlah_total_kasus.1451	1451	1451	1451	CD	DATE	1451	1451.0	1451-xx-xx			
+25	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+26	0	fb:cell_kharakteristik.tindak_pidana_prostitusi_lainnya	tindak pidana prostitusi lainnya	tindak|pidana|prostitusi|lainnya	tindak|pidana|prostitusi|lainnya	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+26	1	fb:cell_nomor_bersalah.3	3	3	3	CD	NUMBER	3.0	3.0				
+26	2	fb:cell_persen_bersalah.27	27	27	27	CD	NUMBER	27.0	27.0				
+26	3	fb:cell_nomor_tinggal_ditarik.8	8	8	8	CD	NUMBER	8.0	8.0				
+26	4	fb:cell_persen_tinggal_ditarik.73	73	73	73	CD	NUMBER	73.0	73.0				
+26	5	fb:cell_nomor_bebas.0	0	0	0	CD	NUMBER	0.0	0.0				
+26	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+26	7	fb:cell_nomor_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+26	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+26	9	fb:cell_jumlah_total_kasus.11	11	11	11	CD	NUMBER	11.0	11.0				
+26	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+27	0	fb:cell_kharakteristik.tindak_pidana_lain_yang_mengganggu_ketentraman	tindak pidana lain yang mengganggu ketentraman	tindak|pidana|lain|yang|mengganggu|ketentraman	tindak|pidana|lain|yang|mengganggu|ketentraman	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+27	1	fb:cell_nomor_bersalah.37	37	37	37	CD	NUMBER	37.0	37.0				
+27	2	fb:cell_persen_bersalah.43	43	43	43	CD	NUMBER	43.0	43.0				
+27	3	fb:cell_nomor_tinggal_ditarik.49	49	49	49	CD	NUMBER	49.0	49.0				
+27	4	fb:cell_persen_tinggal_ditarik.57	57	57	57	CD	NUMBER	57.0	57.0				
+27	5	fb:cell_nomor_bebas.0	0	0	0	CD	NUMBER	0.0	0.0				
+27	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+27	7	fb:cell_nomor_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+27	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+27	9	fb:cell_jumlah_total_kasus.86	86	86	86	CD	NUMBER	86.0	86.0				
+27	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+28	0	fb:cell_kharakteristik.sisa_tindak_pidana_kuhp_lainnya	sisa tindak pidana KUHP lainnya	sisa|tindak|pidana|kuhp|lainnya	sisa|tindak|pidana|KUHP|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+28	1	fb:cell_nomor_bersalah.421	421	421	421	CD	NUMBER	421.0	421.0				
+28	2	fb:cell_persen_bersalah.69	69	69	69	CD	NUMBER	69.0	69.0				
+28	3	fb:cell_nomor_tinggal_ditarik.174	174	174	174	CD	NUMBER	174.0	174.0				
+28	4	fb:cell_persen_tinggal_ditarik.28	28	28	28	CD	NUMBER	28.0	28.0				
+28	5	fb:cell_nomor_bebas.8	8	8	8	CD	NUMBER	8.0	8.0				
+28	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+28	7	fb:cell_nomor_keputusan_lainnya.9	9	9	9	CD	NUMBER	9.0	9.0				
+28	8	fb:cell_persen_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+28	9	fb:cell_jumlah_total_kasus.612	612	612	612	CD	NUMBER	612.0	612.0				
+28	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+29	0	fb:cell_kharakteristik.hukum_pidana	hukum pidana	hukum|pidana	hukum|pidana	NNP|NNP	O|O	|					
+29	1	fb:cell_nomor_bersalah.16991	16991	16991	16991	CD	NUMBER	16991.0	16991.0				
+29	2	fb:cell_persen_bersalah.54	54	54	54	CD	NUMBER	54.0	54.0				
+29	3	fb:cell_nomor_tinggal_ditarik.13840	13840	13840	13840	CD	NUMBER	13840.0	13840.0				
+29	4	fb:cell_persen_tinggal_ditarik.44	44	44	44	CD	NUMBER	44.0	44.0				
+29	5	fb:cell_nomor_bebas.556	556	556	556	CD	NUMBER	556.0	556.0				
+29	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+29	7	fb:cell_nomor_keputusan_lainnya.153	153	153	153	CD	NUMBER	153.0	153.0				
+29	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+29	9	fb:cell_jumlah_total_kasus.31540	31540	31540	31540	CD	NUMBER	31540.0	31540.0				
+29	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+30	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas	KUHP pelanggaran lalu lintas	kuhp|pelanggaran|lalu|lintas	kuhp|pelanggaran|lalu|lintas	NN|NN|NN|NNP	O|O|O|O	|||					
+30	1	fb:cell_nomor_bersalah.494	494	494	494	CD	NUMBER	494.0	494.0				
+30	2	fb:cell_persen_bersalah.76	76	76	76	CD	NUMBER	76.0	76.0				
+30	3	fb:cell_nomor_tinggal_ditarik.135	135	135	135	CD	NUMBER	135.0	135.0				
+30	4	fb:cell_persen_tinggal_ditarik.21	21	21	21	CD	NUMBER	21.0	21.0				
+30	5	fb:cell_nomor_bebas.15	15	15	15	CD	NUMBER	15.0	15.0				
+30	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+30	7	fb:cell_nomor_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+30	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+30	9	fb:cell_jumlah_total_kasus.646	646	646	646	CD	NUMBER	646.0	646.0				
+30	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+31	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas_gangguan_mengemudi	KUHP pelanggaran lalu lintas gangguan mengemudi	kuhp|pelanggaran|lalu|lintas|gangguan|mengemudi	kuhp|pelanggaran|lalu|lintas|gangguan|mengemudi	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+31	1	fb:cell_nomor_bersalah.251	251	251	251	CD	NUMBER	251.0	251.0				
+31	2	fb:cell_persen_bersalah.79	79	79	79	CD	NUMBER	79.0	79.0				
+31	3	fb:cell_nomor_tinggal_ditarik.57	57	57	57	CD	NUMBER	57.0	57.0				
+31	4	fb:cell_persen_tinggal_ditarik.18	18	18	18	CD	NUMBER	18.0	18.0				
+31	5	fb:cell_nomor_bebas.9	9	9	9	CD	NUMBER	9.0	9.0				
+31	6	fb:cell_persen_dibebaskan.3	3	3	3	CD	NUMBER	3.0	3.0				
+31	7	fb:cell_nomor_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+31	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+31	9	fb:cell_jumlah_total_kasus.318	318	318	318	CD	NUMBER	318.0	318.0				
+31	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+32	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas_kuhp_lainnya	KUHP pelanggaran lalu lintas KUHP lainnya	kuhp|pelanggaran|lalu|lintas|kuhp|lainnya	kuhp|pelanggaran|lalu|lintas|KUHP|lainnya	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+32	1	fb:cell_nomor_bersalah.243	243	243	243	CD	NUMBER	243.0	243.0				
+32	2	fb:cell_persen_bersalah.74	74	74	74	CD	NUMBER	74.0	74.0				
+32	3	fb:cell_nomor_tinggal_ditarik.78	78	78	78	CD	NUMBER	78.0	78.0				
+32	4	fb:cell_persen_tinggal_ditarik.24	24	24	24	CD	NUMBER	24.0	24.0				
+32	5	fb:cell_nomor_bebas.6	6	6	6	CD	NUMBER	6.0	6.0				
+32	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+32	7	fb:cell_nomor_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+32	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+32	9	fb:cell_jumlah_total_kasus.328	328	328	328	CD	NUMBER	328.0	328.0				
+32	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+33	0	fb:cell_kharakteristik.total_pelanggaran_hukum_pidana	total pelanggaran hukum pidana	total|pelanggaran|hukum|pidana	total|pelanggaran|hukum|pidana	JJ|NN|NN|NN	O|O|O|O	|||					
+33	1	fb:cell_nomor_bersalah.17485	17485	17485	17485	CD	NUMBER	17485.0	17485.0				
+33	2	fb:cell_persen_bersalah.54	54	54	54	CD	NUMBER	54.0	54.0				
+33	3	fb:cell_nomor_tinggal_ditarik.13975	13975	13975	13975	CD	NUMBER	13975.0	13975.0				
+33	4	fb:cell_persen_tinggal_ditarik.43	43	43	43	CD	NUMBER	43.0	43.0				
+33	5	fb:cell_nomor_bebas.571	571	571	571	CD	NUMBER	571.0	571.0				
+33	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+33	7	fb:cell_nomor_keputusan_lainnya.155	155	155	155	CD	NUMBER	155.0	155.0				
+33	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+33	9	fb:cell_jumlah_total_kasus.32186	32186	32186	32186	CD	NUMBER	32186.0	32186.0				
+33	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+34	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya	pelanggaran undang-undang federal lainnya	pelanggaran|undang|undang|federal|lainnya	pelanggaran|undang|undang|federal|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+34	1	fb:cell_nomor_bersalah.5039	5039	5039	5039	CD	NUMBER	5039.0	5039.0	5039-xx-xx			
+34	2	fb:cell_persen_bersalah.65	65	65	65	CD	NUMBER	65.0	65.0				
+34	3	fb:cell_nomor_tinggal_ditarik.2595	2595	2595	2595	CD	DATE	2595	2595.0	2595-xx-xx			
+34	4	fb:cell_persen_tinggal_ditarik.34	34	34	34	CD	NUMBER	34.0	34.0				
+34	5	fb:cell_nomor_bebas.59	59	59	59	CD	NUMBER	59.0	59.0				
+34	6	fb:cell_persen_dibebaskan.1	1	1	1	CD	NUMBER	1.0	1.0				
+34	7	fb:cell_nomor_keputusan_lainnya.22	22	22	22	CD	NUMBER	22.0	22.0				
+34	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+34	9	fb:cell_jumlah_total_kasus.7715	7715	7715	7715	CD	NUMBER	7715.0	7715.0	7715-xx-xx			
+34	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+35	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_kepemilikan_narkoba	pelanggaran undang-undang federal lainnya kepemilikan narkoba	pelanggaran|undang|undang|federal|lainnya|kepemilikan|narkoba	pelanggaran|undang|undang|federal|lainnya|kepemilikan|narkoba	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+35	1	fb:cell_nomor_bersalah.435	435	435	435	CD	NUMBER	435.0	435.0				
+35	2	fb:cell_persen_bersalah.28	28	28	28	CD	NUMBER	28.0	28.0				
+35	3	fb:cell_nomor_tinggal_ditarik.1123	1123	1123	1123	CD	DATE	1123	1123.0	1123-xx-xx			
+35	4	fb:cell_persen_tinggal_ditarik.72	72	72	72	CD	NUMBER	72.0	72.0				
+35	5	fb:cell_nomor_bebas.3	3	3	3	CD	NUMBER	3.0	3.0				
+35	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+35	7	fb:cell_nomor_keputusan_lainnya.7	7	7	7	CD	NUMBER	7.0	7.0				
+35	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+35	9	fb:cell_jumlah_total_kasus.1568	1568	1568	1568	CD	DATE	1568	1568.0	1568-xx-xx			
+35	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+36	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_pelanggaran_narkoba_lainnya	pelanggaran undang-undang federal lainnya pelanggaran narkoba lainnya	pelanggaran|undang|undang|federal|lainnya|pelanggaran|narkoba|lainnya	pelanggaran|undang|undang|federal|lainnya|pelanggaran|narkoba|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+36	1	fb:cell_nomor_bersalah.354	354	354	354	CD	NUMBER	354.0	354.0				
+36	2	fb:cell_persen_bersalah.53	53	53	53	CD	NUMBER	53.0	53.0				
+36	3	fb:cell_nomor_tinggal_ditarik.306	306	306	306	CD	NUMBER	306.0	306.0				
+36	4	fb:cell_persen_tinggal_ditarik.46	46	46	46	CD	NUMBER	46.0	46.0				
+36	5	fb:cell_nomor_bebas.1	1	1	1	CD	NUMBER	1.0	1.0				
+36	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+36	7	fb:cell_nomor_keputusan_lainnya.1	1	1	1	CD	NUMBER	1.0	1.0				
+36	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+36	9	fb:cell_jumlah_total_kasus.662	662	662	662	CD	NUMBER	662.0	662.0				
+36	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+37	0	fb:cell_kharakteristik.undang_undang_federal_lainnya_melanggar_tindakan_peradilan_pidana_remaja	undang-undang federal lainnya melanggar tindakan peradilan pidana remaja	undang|undang|federal|lainnya|melanggar|tindakan|peradilan|pidana|remaja	undang|undang|federal|lainnya|melanggar|tindakan|peradilan|pidana|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+37	1	fb:cell_nomor_bersalah.3086	3086	3086	3086	CD	NUMBER	3086.0	3086.0	3086-xx-xx			
+37	2	fb:cell_persen_bersalah.80	80	80	80	CD	NUMBER	80.0	80.0				
+37	3	fb:cell_nomor_tinggal_ditarik.729	729	729	729	CD	NUMBER	729.0	729.0				
+37	4	fb:cell_persen_tinggal_ditarik.19	19	19	19	CD	NUMBER	19.0	19.0				
+37	5	fb:cell_nomor_bebas.14	14	14	14	CD	NUMBER	14.0	14.0				
+37	6	fb:cell_persen_dibebaskan.0	0	0	0	CD	NUMBER	0.0	0.0				
+37	7	fb:cell_nomor_keputusan_lainnya.12	12	12	12	CD	NUMBER	12.0	12.0				
+37	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+37	9	fb:cell_jumlah_total_kasus.3841	3841	3841	3841	CD	NUMBER	3841.0	3841.0	3841-xx-xx			
+37	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+38	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_sisa_undang_undang_federal	pelanggaran undang-undang federal lainnya sisa undang-undang federal	pelanggaran|undang|undang|federal|lainnya|sisa|undang|undang|federal	pelanggaran|undang|undang|federal|lainnya|sisa|undang|undang|federal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+38	1	fb:cell_nomor_bersalah.1164	1164	1164	1164	CD	DATE	1164	1164.0	1164-xx-xx			
+38	2	fb:cell_persen_bersalah.71	71	71	71	CD	NUMBER	71.0	71.0				
+38	3	fb:cell_nomor_tinggal_ditarik.437	437	437	437	CD	NUMBER	437.0	437.0				
+38	4	fb:cell_persen_tinggal_ditarik.27	27	27	27	CD	NUMBER	27.0	27.0				
+38	5	fb:cell_nomor_bebas.41	41	41	41	CD	NUMBER	41.0	41.0				
+38	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+38	7	fb:cell_nomor_keputusan_lainnya.2	2	2	2	CD	NUMBER	2.0	2.0				
+38	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+38	9	fb:cell_jumlah_total_kasus.1644	1644	1644	1644	CD	DATE	1644	1644.0	1644-xx-xx			
+38	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+39	0	fb:cell_kharakteristik.pelanggaran_total	pelanggaran total	pelanggaran|total	pelanggaran|total	NNP|NNP	O|O	|					
+39	1	fb:cell_nomor_bersalah.22524	22524	22524	22524	CD	NUMBER	22524.0	22524.0				
+39	2	fb:cell_persen_bersalah.56	56	56	56	CD	NUMBER	56.0	56.0				
+39	3	fb:cell_nomor_tinggal_ditarik.16570	16570	16570	16570	CD	NUMBER	16570.0	16570.0				
+39	4	fb:cell_persen_tinggal_ditarik.42	42	42	42	CD	NUMBER	42.0	42.0				
+39	5	fb:cell_nomor_bebas.630	630	630	630	CD	NUMBER	630.0	630.0				
+39	6	fb:cell_persen_dibebaskan.2	2	2	2	CD	NUMBER	2.0	2.0				
+39	7	fb:cell_nomor_keputusan_lainnya.177	177	177	177	CD	NUMBER	177.0	177.0				
+39	8	fb:cell_persen_keputusan_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+39	9	fb:cell_jumlah_total_kasus.39901	39901	39901	39901	CD	NUMBER	39901.0	39901.0				
+39	10	fb:cell_total_kasus_persen.100	100	100	100	CD	NUMBER	100.0	100.0				

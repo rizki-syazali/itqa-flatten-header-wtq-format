@@ -1,0 +1,49 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.data_survei_angkatan_kerja	data survei angkatan kerja	data|survei|angkatan|kerja	datum|survei|angkatan|kerja	NNS|NN|NN|NN	O|O|O|O	|||					
+-1	2	fb:row.row.data_sensus_2016	data sensus 2016	data|sensus|2016	datum|sensus|2016	NNS|NNP|CD	O|O|DATE	||2016					
+-1	3	fb:row.row.data_administrasi_ceedd	data administrasi: ceedd	data|administrasi|:|ceedd	datum|administrasus|:|ceedd	NNS|NNS|:|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.saham_memasukkan_pekerja_mandiri	saham memasukkan pekerja mandiri	saham|memasukkan|pekerja|mandiri	saham|memasukkan|pekerja|mandiri	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_data_survei_angkatan_kerja.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+0	2	fb:cell_data_sensus_2016.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+0	3	fb:cell_data_administrasi_ceedd.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+1	0	fb:cell_kharakteristik.saham_pekerja_mandiri_yang_tidak_berbadan_hukum	saham pekerja mandiri yang tidak berbadan hukum	saham|pekerja|mandiri|yang|tidak|berbadan|hukum	saham|pekerja|mandiri|yang|tidak|berbadan|hukum	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_data_survei_angkatan_kerja.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+1	2	fb:cell_data_sensus_2016.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+1	3	fb:cell_data_administrasi_ceedd.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+2	0	fb:cell_kharakteristik.persen_pekerja_mandiri_yang_tidak_berbadan_hukum	persen pekerja mandiri yang tidak berbadan hukum	persen|pekerja|mandiri|yang|tidak|berbadan|hukum	persen|pekerja|mandiri|yang|tidak|berbadan|hukum	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+2	1	fb:cell_data_survei_angkatan_kerja.null											
+2	2	fb:cell_data_sensus_2016.null											
+2	3	fb:cell_data_administrasi_ceedd.null											
+3	0	fb:cell_kharakteristik.persen_pekerja_mandiri_tak_berbadan_hukum_yang_mempunyai_karyawan	persen pekerja mandiri tak berbadan hukum yang mempunyai karyawan	persen|pekerja|mandiri|tak|berbadan|hukum|yang|mempunyai|karyawan	persen|pekerja|mandiri|tak|berbadan|hukum|yang|mempunyai|karyawan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+3	1	fb:cell_data_survei_angkatan_kerja.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+3	2	fb:cell_data_sensus_2016.26_4	26.4	26.4	26.4	CD	NUMBER	26.4	26.4				
+3	3	fb:cell_data_administrasi_ceedd.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+4	0	fb:cell_kharakteristik.persen_pekerja_mandiri_tidak_berbadan_hukum_yang_tidak_memiliki_karyawan	persen pekerja mandiri tidak berbadan hukum yang tidak memiliki karyawan	persen|pekerja|mandiri|tidak|berbadan|hukum|yang|tidak|memiliki|karyawan	persen|pekerja|mandiri|tidak|berbadan|hukum|yang|tidak|memiliki|karyawan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+4	1	fb:cell_data_survei_angkatan_kerja.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+4	2	fb:cell_data_sensus_2016.73_6	73.6	73.6	73.6	CD	NUMBER	73.6	73.6				
+4	3	fb:cell_data_administrasi_ceedd.96_1	96.1	96.1	96.1	CD	NUMBER	96.1	96.1				
+5	0	fb:cell_kharakteristik.berbagi_pemilik_tunggal_dengan_pendapatan_t2125	berbagi pemilik tunggal dengan pendapatan t2125	berbagi|pemilik|tunggal|dengan|pendapatan|t2125	berbagi|pemilik|tunggal|dengan|pendapatan|t2125	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|TIME	|||||T21:25	2125.0				
+5	1	fb:cell_data_survei_angkatan_kerja.null											
+5	2	fb:cell_data_sensus_2016.null											
+5	3	fb:cell_data_administrasi_ceedd.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+6	0	fb:cell_kharakteristik.berbagi_pekerja_pertunjukan	berbagi pekerja pertunjukan	berbagi|pekerja|pertunjukan	berbagi|pekerja|pertunjukan	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_data_survei_angkatan_kerja.null											
+6	2	fb:cell_data_sensus_2016.null											
+6	3	fb:cell_data_administrasi_ceedd.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+7	0	fb:cell_kharakteristik.persen_pekerja_pertunjukan	persen pekerja pertunjukan	persen|pekerja|pertunjukan	persen|pekerja|pertunjukan	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_data_survei_angkatan_kerja.null											
+7	2	fb:cell_data_sensus_2016.null											
+7	3	fb:cell_data_administrasi_ceedd.null											
+8	0	fb:cell_kharakteristik.persen_pekerja_pertunjukan_yang_tidak_memiliki_pekerjaan_t4	persen pekerja pertunjukan yang tidak memiliki pekerjaan t4	persen|pekerja|pertunjukan|yang|tidak|memiliki|pekerjaan|t4	persen|pekerja|pertunjukan|yang|tidak|memiliki|pekerjaan|t4	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||	4.0				
+8	1	fb:cell_data_survei_angkatan_kerja.null											
+8	2	fb:cell_data_sensus_2016.null											
+8	3	fb:cell_data_administrasi_ceedd.48_6	48.6	48.6	48.6	CD	NUMBER	48.6	48.6				
+9	0	fb:cell_kharakteristik.persen_pekerja_pertunjukan_dengan_satu_pekerjaan_t4	persen pekerja pertunjukan dengan satu pekerjaan t4	persen|pekerja|pertunjukan|dengan|satu|pekerjaan|t4	persen|pekerja|pertunjukan|dengan|satu|pekerjaan|t4	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||	4.0				
+9	1	fb:cell_data_survei_angkatan_kerja.null											
+9	2	fb:cell_data_sensus_2016.null											
+9	3	fb:cell_data_administrasi_ceedd.36_3	36.3	36.3	36.3	CD	NUMBER	36.3	36.3				
+10	0	fb:cell_kharakteristik.persen_pekerja_pertunjukan_dengan_banyak_pekerjaan_t4	persen pekerja pertunjukan dengan banyak pekerjaan t4	persen|pekerja|pertunjukan|dengan|banyak|pekerjaan|t4	persen|pekerja|pertunjukan|dengan|banyak|pekerjaan|t4	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||	4.0				
+10	1	fb:cell_data_survei_angkatan_kerja.null											
+10	2	fb:cell_data_sensus_2016.null											
+10	3	fb:cell_data_administrasi_ceedd.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				

@@ -1,0 +1,86 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1982	1982	1982	1982	CD	DATE	1982					
+-1	2	fb:row.row.1985	1985	1985	1985	CD	DATE	1985					
+-1	3	fb:row.row.1996	1996	1996	1996	CD	DATE	1996					
+-1	4	fb:row.row.2011	2011	2011	2011	CD	DATE	2011					
+0	0	fb:cell_kharakteristik.semua	semua	semua	semua	NN	O						
+0	1	fb:cell_1982.8068	8068	8068	8068	CD	NUMBER	8068.0	8068.0	8068-xx-xx			
+0	2	fb:cell_1985.9334	9334	9334	9334	CD	NUMBER	9334.0	9334.0	9334-xx-xx			
+0	3	fb:cell_1996.13514	13514	13514	13514	CD	NUMBER	13514.0	13514.0				
+0	4	fb:cell_2011.19403	19403	19403	19403	CD	NUMBER	19403.0	19403.0				
+1	0	fb:cell_kharakteristik.perempuan	perempuan	perempuan	perempuan	NNP	O						
+1	1	fb:cell_1982.4153	4153	4153	4153	CD	NUMBER	4153.0	4153.0	4153-xx-xx			
+1	2	fb:cell_1985.4878	4878	4878	4878	CD	NUMBER	4878.0	4878.0	4878-xx-xx			
+1	3	fb:cell_1996.7220	7220	7220	7220	CD	NUMBER	7220.0	7220.0	7220-xx-xx			
+1	4	fb:cell_2011.10247	10247	10247	10247	CD	NUMBER	10247.0	10247.0				
+2	0	fb:cell_kharakteristik.pria	pria	pria	pria	NNP	O						
+2	1	fb:cell_1982.3915	3915	3915	3915	CD	NUMBER	3915.0	3915.0	3915-xx-xx			
+2	2	fb:cell_1985.4456	4456	4456	4456	CD	NUMBER	4456.0	4456.0	4456-xx-xx			
+2	3	fb:cell_1996.6294	6294	6294	6294	CD	NUMBER	6294.0	6294.0	6294-xx-xx			
+2	4	fb:cell_2011.9156	9156	9156	9156	CD	NUMBER	9156.0	9156.0	9156-xx-xx			
+3	0	fb:cell_kharakteristik.21_30	21-30	21-30	21-30	CD	NUMBER	21.0 - 30.0	21.0		30.0		
+3	1	fb:cell_1982.3991	3991	3991	3991	CD	NUMBER	3991.0	3991.0	3991-xx-xx			
+3	2	fb:cell_1985.4168	4168	4168	4168	CD	NUMBER	4168.0	4168.0	4168-xx-xx			
+3	3	fb:cell_1996.2911	2911	2911	2911	CD	DATE	2911	2911.0	2911-xx-xx			
+3	4	fb:cell_2011.3040	3040	3040	3040	CD	NUMBER	3040.0	3040.0	3040-xx-xx			
+4	0	fb:cell_kharakteristik.31_40	31-40	31-40	31-40	CD	NUMBER	31.0 - 40.0	31.0		40.0		
+4	1	fb:cell_1982.2460	2460	2460	2460	CD	DATE	2460	2460.0	2460-xx-xx			
+4	2	fb:cell_1985.3102	3102	3102	3102	CD	NUMBER	3102.0	3102.0	3102-xx-xx			
+4	3	fb:cell_1996.4630	4630	4630	4630	CD	NUMBER	4630.0	4630.0	4630-xx-xx			
+4	4	fb:cell_2011.3043	3043	3043	3043	CD	NUMBER	3043.0	3043.0	3043-xx-xx			
+5	0	fb:cell_kharakteristik.41_50	41-50	41-50	41-50	CD	NUMBER	41.0 - 50.0	41.0		50.0		
+5	1	fb:cell_1982.1073	1073	1073	1073	CD	DATE	1073	1073.0	1073-xx-xx			
+5	2	fb:cell_1985.1246	1246	1246	1246	CD	DATE	1246	1246.0	1246-xx-xx			
+5	3	fb:cell_1996.3581	3581	3581	3581	CD	NUMBER	3581.0	3581.0	3581-xx-xx			
+5	4	fb:cell_2011.4441	4441	4441	4441	CD	NUMBER	4441.0	4441.0	4441-xx-xx			
+6	0	fb:cell_kharakteristik.51_atau_lebih	51 atau lebih	51|atau|lebih	51|atau|lebih	CD|NN|NN	NUMBER|O|O	51.0||	51.0				
+6	1	fb:cell_1982.544	544	544	544	CD	NUMBER	544.0	544.0				
+6	2	fb:cell_1985.818	818	818	818	CD	NUMBER	818.0	818.0				
+6	3	fb:cell_1996.2392	2392	2392	2392	CD	DATE	2392	2392.0	2392-xx-xx			
+6	4	fb:cell_2011.8879	8879	8879	8879	CD	NUMBER	8879.0	8879.0	8879-xx-xx			
+7	0	fb:cell_kharakteristik.imigran	imigran	imigran	imigran	NNP	O						
+7	1	fb:cell_1982.889	889	889	889	CD	NUMBER	889.0	889.0				
+7	2	fb:cell_1985.1038	1038	1038	1038	CD	DATE	1038	1038.0	1038-xx-xx			
+7	3	fb:cell_1996.1829	1829	1829	1829	CD	DATE	1829	1829.0	1829-xx-xx			
+7	4	fb:cell_2011.3558	3558	3558	3558	CD	NUMBER	3558.0	3558.0	3558-xx-xx			
+8	0	fb:cell_kharakteristik.non_imigran	non-imigran	non|imigran	non|imigran	JJ|NN	O|O	|					
+8	1	fb:cell_1982.7179	7179	7179	7179	CD	NUMBER	7179.0	7179.0	7179-xx-xx			
+8	2	fb:cell_1985.8296	8296	8296	8296	CD	NUMBER	8296.0	8296.0	8296-xx-xx			
+8	3	fb:cell_1996.11685	11685	11685	11685	CD	NUMBER	11685.0	11685.0				
+8	4	fb:cell_2011.15845	15845	15845	15845	CD	NUMBER	15845.0	15845.0				
+9	0	fb:cell_kharakteristik.penduduk_alberta_2011	penduduk alberta 2011	penduduk|alberta|2011	penduduk|alberta|2011	NN|NNP|CD	O|O|DATE	||2011	2011.0				
+9	1	fb:cell_1982.735	735	735	735	CD	NUMBER	735.0	735.0				
+9	2	fb:cell_1985.860	860	860	860	CD	NUMBER	860.0	860.0				
+9	3	fb:cell_1996.1313	1313	1313	1313	CD	DATE	1313	1313.0	1313-xx-xx			
+9	4	fb:cell_2011.2056	2056	2056	2056	CD	DATE	2056	2056.0	2056-xx-xx			
+10	0	fb:cell_kharakteristik.warga_sm_tahun_2011	warga SM tahun 2011	warga|sm|tahun|2011	warga|SM|tahun|2011	NNP|NNP|NNP|CD	PERSON|O|O|DATE	|||2011	2011.0				
+10	1	fb:cell_1982.860	860	860	860	CD	NUMBER	860.0	860.0				
+10	2	fb:cell_1985.948	948	948	948	CD	NUMBER	948.0	948.0				
+10	3	fb:cell_1996.1396	1396	1396	1396	CD	DATE	1396	1396.0	1396-xx-xx			
+10	4	fb:cell_2011.2129	2129	2129	2129	CD	DATE	2129	2129.0	2129-xx-xx			
+11	0	fb:cell_kharakteristik.penduduk_manitoba_2011	penduduk manitoba 2011	penduduk|manitoba|2011	penduduk|manitoba|2011	NNP|NNP|CD	O|O|DATE	||2011	2011.0				
+11	1	fb:cell_1982.576	576	576	576	CD	NUMBER	576.0	576.0				
+11	2	fb:cell_1985.679	679	679	679	CD	NUMBER	679.0	679.0				
+11	3	fb:cell_1996.963	963	963	963	CD	NUMBER	963.0	963.0				
+11	4	fb:cell_2011.1373	1373	1373	1373	CD	DATE	1373	1373.0	1373-xx-xx			
+12	0	fb:cell_kharakteristik.penduduk_maritim_2011	penduduk maritim 2011	penduduk|maritim|2011	penduduk|maritim|2011	NNP|NNP|CD	O|O|DATE	||2011	2011.0				
+12	1	fb:cell_1982.2043	2043	2043	2043	CD	DATE	2043	2043.0	2043-xx-xx			
+12	2	fb:cell_1985.2379	2379	2379	2379	CD	DATE	2379	2379.0	2379-xx-xx			
+12	3	fb:cell_1996.3278	3278	3278	3278	CD	NUMBER	3278.0	3278.0	3278-xx-xx			
+12	4	fb:cell_2011.4138	4138	4138	4138	CD	NUMBER	4138.0	4138.0	4138-xx-xx			
+13	0	fb:cell_kharakteristik.penduduk_ontario_2011	penduduk ontario 2011	penduduk|ontario|2011	penduduk|ontario|2011	NNP|NNP|CD	O|O|DATE	||2011	2011.0				
+13	1	fb:cell_1982.1716	1716	1716	1716	CD	DATE	1716	1716.0	1716-xx-xx			
+13	2	fb:cell_1985.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx			
+13	3	fb:cell_1996.2930	2930	2930	2930	CD	DATE	2930	2930.0	2930-xx-xx			
+13	4	fb:cell_2011.4493	4493	4493	4493	CD	NUMBER	4493.0	4493.0	4493-xx-xx			
+14	0	fb:cell_kharakteristik.penduduk_quebec_tahun_2011	penduduk Quebec tahun 2011	penduduk|quebec|tahun|2011	penduduk|Quebec|tahun|2011	NN|NNP|NNP|CD	O|O|O|DATE	|||2011	2011.0				
+14	1	fb:cell_1982.1593	1593	1593	1593	CD	DATE	1593	1593.0	1593-xx-xx			
+14	2	fb:cell_1985.1869	1869	1869	1869	CD	DATE	1869	1869.0	1869-xx-xx			
+14	3	fb:cell_1996.2734	2734	2734	2734	CD	DATE	2734	2734.0	2734-xx-xx			
+14	4	fb:cell_2011.3920	3920	3920	3920	CD	NUMBER	3920.0	3920.0	3920-xx-xx			
+15	0	fb:cell_kharakteristik.penduduk_saskatchewan_2011	penduduk saskatchewan 2011	penduduk|saskatchewan|2011	penduduk|saskatchewan|2011	NN|NNP|CD	O|O|DATE	||2011	2011.0				
+15	1	fb:cell_1982.545	545	545	545	CD	NUMBER	545.0	545.0				
+15	2	fb:cell_1985.636	636	636	636	CD	NUMBER	636.0	636.0				
+15	3	fb:cell_1996.900	900	900	900	CD	NUMBER	900.0	900.0				
+15	4	fb:cell_2011.1294	1294	1294	1294	CD	DATE	1294	1294.0	1294-xx-xx			

@@ -1,0 +1,151 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_pekerjaan_tahun_2010	jumlah pekerjaan tahun 2010	jumlah|pekerjaan|tahun|2010	jumlah|pekerjaan|tahun|2010	NNP|NNP|NNP|CD	O|O|O|DATE	|||2010					
+-1	2	fb:row.row.jumlah_pekerjaan_pada_tahun_2011	jumlah pekerjaan pada tahun 2011	jumlah|pekerjaan|pada|tahun|2011	jumlah|pekerjaan|pada|tahun|2011	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2011					
+-1	3	fb:row.row.jumlah_pekerjaan_pada_tahun_2012	jumlah pekerjaan pada tahun 2012	jumlah|pekerjaan|pada|tahun|2012	jumlah|pekerjaan|pada|tahun|2012	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2012					
+-1	4	fb:row.row.jumlah_lapangan_pekerjaan_pada_tahun_2013	jumlah lapangan pekerjaan pada tahun 2013	jumlah|lapangan|pekerjaan|pada|tahun|2013	jumlah|lapangan|pekerjaan|pada|tahun|2013	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2013					
+-1	5	fb:row.row.jumlah_pekerjaan_pada_tahun_2014	jumlah pekerjaan pada tahun 2014	jumlah|pekerjaan|pada|tahun|2014	jumlah|pekerjaan|pada|tahun|2014	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2014					
+-1	6	fb:row.row.perubahan_persentase_tahun_2011	Perubahan persentase tahun 2011	perubahan|persentase|tahun|2011	Perubahan|persentase|tahun|2011	NNP|NNP|NNP|CD	O|O|O|DATE	|||2011					
+-1	7	fb:row.row.perubahan_persentase_tahun_2012	Perubahan persentase tahun 2012	perubahan|persentase|tahun|2012	Perubahan|persentase|tahun|2012	NNP|NNP|NNP|CD	O|O|O|DATE	|||2012					
+-1	8	fb:row.row.perubahan_persentase_tahun_2013	Perubahan persentase tahun 2013	perubahan|persentase|tahun|2013	Perubahan|persentase|tahun|2013	NNP|NNP|NNP|CD	O|O|O|DATE	|||2013					
+-1	9	fb:row.row.perubahan_persentase_tahun_2014	Perubahan persentase tahun 2014	perubahan|persentase|tahun|2014	Perubahan|persentase|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014					
+0	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+0	1	fb:cell_jumlah_pekerjaan_tahun_2010.625206_0	625206.0	625206.0	625206.0	CD	NUMBER	625206.0	625206.0				
+0	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.632288_0	632288.0	632288.0	632288.0	CD	NUMBER	632288.0	632288.0				
+0	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.628663_0	628663.0	628663.0	628663.0	CD	NUMBER	628663.0	628663.0				
+0	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.635870_0	635870.0	635870.0	635870.0	CD	NUMBER	635870.0	635870.0				
+0	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.630483_0	630483.0	630483.0	630483.0	CD	NUMBER	630483.0	630483.0				
+0	6	fb:cell_perubahan_persentase_tahun_2011.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+0	7	fb:cell_perubahan_persentase_tahun_2012._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+0	8	fb:cell_perubahan_persentase_tahun_2013.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+0	9	fb:cell_perubahan_persentase_tahun_2014._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+1	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+1	1	fb:cell_jumlah_pekerjaan_tahun_2010.5348_0	5348.0	5348.0	5348.0	CD	NUMBER	5348.0	5348.0				
+1	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.5282_0	5282.0	5282.0	5282.0	CD	NUMBER	5282.0	5282.0				
+1	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.5360_0	5360.0	5360.0	5360.0	CD	NUMBER	5360.0	5360.0				
+1	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.5042_0	5042.0	5042.0	5042.0	CD	NUMBER	5042.0	5042.0				
+1	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.5042_0	5042.0	5042.0	5042.0	CD	NUMBER	5042.0	5042.0				
+1	6	fb:cell_perubahan_persentase_tahun_2011._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+1	7	fb:cell_perubahan_persentase_tahun_2012.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+1	8	fb:cell_perubahan_persentase_tahun_2013._5_9	-5.9	-5.9	-5.9	CD	NUMBER	-5.9	5.9				
+1	9	fb:cell_perubahan_persentase_tahun_2014.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_jumlah_pekerjaan_tahun_2010.1894_0	1894.0	1894.0	1894.0	CD	NUMBER	1894.0	1894.0				
+2	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.1812_0	1812.0	1812.0	1812.0	CD	NUMBER	1812.0	1812.0				
+2	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.1791_0	1791.0	1791.0	1791.0	CD	NUMBER	1791.0	1791.0				
+2	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.1968_0	1968.0	1968.0	1968.0	CD	NUMBER	1968.0	1968.0				
+2	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.1996_0	1996.0	1996.0	1996.0	CD	NUMBER	1996.0	1996.0				
+2	6	fb:cell_perubahan_persentase_tahun_2011._4_3	-4.3	-4.3	-4.3	CD	NUMBER	-4.3	4.3				
+2	7	fb:cell_perubahan_persentase_tahun_2012._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+2	8	fb:cell_perubahan_persentase_tahun_2013.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+2	9	fb:cell_perubahan_persentase_tahun_2014.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+3	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+3	1	fb:cell_jumlah_pekerjaan_tahun_2010.13247_0	13247.0	13247.0	13247.0	CD	NUMBER	13247.0	13247.0				
+3	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.13535_0	13535.0	13535.0	13535.0	CD	NUMBER	13535.0	13535.0				
+3	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.13902_0	13902.0	13902.0	13902.0	CD	NUMBER	13902.0	13902.0				
+3	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.14134_0	14134.0	14134.0	14134.0	CD	NUMBER	14134.0	14134.0				
+3	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.13874_0	13874.0	13874.0	13874.0	CD	NUMBER	13874.0	13874.0				
+3	6	fb:cell_perubahan_persentase_tahun_2011.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+3	7	fb:cell_perubahan_persentase_tahun_2012.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+3	8	fb:cell_perubahan_persentase_tahun_2013.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+3	9	fb:cell_perubahan_persentase_tahun_2014._1_8	-1.8	-1.8	-1.8	CD	NUMBER	-1.8	1.8				
+4	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+4	1	fb:cell_jumlah_pekerjaan_tahun_2010.9163_0	9163.0	9163.0	9163.0	CD	NUMBER	9163.0	9163.0				
+4	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.8742_0	8742.0	8742.0	8742.0	CD	NUMBER	8742.0	8742.0				
+4	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.9099_0	9099.0	9099.0	9099.0	CD	NUMBER	9099.0	9099.0				
+4	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.9844_0	9844.0	9844.0	9844.0	CD	NUMBER	9844.0	9844.0				
+4	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.9688_0	9688.0	9688.0	9688.0	CD	NUMBER	9688.0	9688.0				
+4	6	fb:cell_perubahan_persentase_tahun_2011._4_6	-4.6	-4.6	-4.6	CD	NUMBER	-4.6	4.6				
+4	7	fb:cell_perubahan_persentase_tahun_2012.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+4	8	fb:cell_perubahan_persentase_tahun_2013.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+4	9	fb:cell_perubahan_persentase_tahun_2014._1_6	-1.6	-1.6	-1.6	CD	NUMBER	-1.6	1.6				
+5	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+5	1	fb:cell_jumlah_pekerjaan_tahun_2010.153711_0	153711.0	153711.0	153711.0	CD	NUMBER	153711.0	153711.0				
+5	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.154548_0	154548.0	154548.0	154548.0	CD	NUMBER	154548.0	154548.0				
+5	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.150517_0	150517.0	150517.0	150517.0	CD	NUMBER	150517.0	150517.0				
+5	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.150995_0	150995.0	150995.0	150995.0	CD	NUMBER	150995.0	150995.0				
+5	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.150749_0	150749.0	150749.0	150749.0	CD	NUMBER	150749.0	150749.0				
+5	6	fb:cell_perubahan_persentase_tahun_2011.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+5	7	fb:cell_perubahan_persentase_tahun_2012._2_6	-2.6	-2.6	-2.6	CD	NUMBER	-2.6	2.6				
+5	8	fb:cell_perubahan_persentase_tahun_2013.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+5	9	fb:cell_perubahan_persentase_tahun_2014._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+6	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+6	1	fb:cell_jumlah_pekerjaan_tahun_2010.266882_0	266882.0	266882.0	266882.0	CD	NUMBER	266882.0	266882.0				
+6	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.271513_0	271513.0	271513.0	271513.0	CD	NUMBER	271513.0	271513.0				
+6	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.270957_0	270957.0	270957.0	270957.0	CD	NUMBER	270957.0	270957.0				
+6	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.277772_0	277772.0	277772.0	277772.0	CD	NUMBER	277772.0	277772.0				
+6	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.276083_0	276083.0	276083.0	276083.0	CD	NUMBER	276083.0	276083.0				
+6	6	fb:cell_perubahan_persentase_tahun_2011.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+6	7	fb:cell_perubahan_persentase_tahun_2012._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+6	8	fb:cell_perubahan_persentase_tahun_2013.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+6	9	fb:cell_perubahan_persentase_tahun_2014._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+7	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+7	1	fb:cell_jumlah_pekerjaan_tahun_2010.21328_0	21328.0	21328.0	21328.0	CD	NUMBER	21328.0	21328.0				
+7	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.21434_0	21434.0	21434.0	21434.0	CD	NUMBER	21434.0	21434.0				
+7	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.21941_0	21941.0	21941.0	21941.0	CD	NUMBER	21941.0	21941.0				
+7	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.22625_0	22625.0	22625.0	22625.0	CD	NUMBER	22625.0	22625.0				
+7	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.21565_0	21565.0	21565.0	21565.0	CD	NUMBER	21565.0	21565.0				
+7	6	fb:cell_perubahan_persentase_tahun_2011.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+7	7	fb:cell_perubahan_persentase_tahun_2012.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+7	8	fb:cell_perubahan_persentase_tahun_2013.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+7	9	fb:cell_perubahan_persentase_tahun_2014._4_7	-4.7	-4.7	-4.7	CD	NUMBER	-4.7	4.7				
+8	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+8	1	fb:cell_jumlah_pekerjaan_tahun_2010.11850_0	11850.0	11850.0	11850.0	CD	NUMBER	11850.0	11850.0				
+8	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.11756_0	11756.0	11756.0	11756.0	CD	NUMBER	11756.0	11756.0				
+8	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.12688_0	12688.0	12688.0	12688.0	CD	NUMBER	12688.0	12688.0				
+8	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.12957_0	12957.0	12957.0	12957.0	CD	NUMBER	12957.0	12957.0				
+8	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.12581_0	12581.0	12581.0	12581.0	CD	NUMBER	12581.0	12581.0				
+8	6	fb:cell_perubahan_persentase_tahun_2011._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+8	7	fb:cell_perubahan_persentase_tahun_2012.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+8	8	fb:cell_perubahan_persentase_tahun_2013.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+8	9	fb:cell_perubahan_persentase_tahun_2014._2_9	-2.9	-2.9	-2.9	CD	NUMBER	-2.9	2.9				
+9	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+9	1	fb:cell_jumlah_pekerjaan_tahun_2010.54685_0	54685.0	54685.0	54685.0	CD	NUMBER	54685.0	54685.0				
+9	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.56528_0	56528.0	56528.0	56528.0	CD	NUMBER	56528.0	56528.0				
+9	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.57758_0	57758.0	57758.0	57758.0	CD	NUMBER	57758.0	57758.0				
+9	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.55785_0	55785.0	55785.0	55785.0	CD	NUMBER	55785.0	55785.0				
+9	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.55518_0	55518.0	55518.0	55518.0	CD	NUMBER	55518.0	55518.0				
+9	6	fb:cell_perubahan_persentase_tahun_2011.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+9	7	fb:cell_perubahan_persentase_tahun_2012.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+9	8	fb:cell_perubahan_persentase_tahun_2013._3_4	-3.4	-3.4	-3.4	CD	NUMBER	-3.4	3.4				
+9	9	fb:cell_perubahan_persentase_tahun_2014._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+10	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+10	1	fb:cell_jumlah_pekerjaan_tahun_2010.85215_0	85215.0	85215.0	85215.0	CD	NUMBER	85215.0	85215.0				
+10	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.85182_0	85182.0	85182.0	85182.0	CD	NUMBER	85182.0	85182.0				
+10	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.82697_0	82697.0	82697.0	82697.0	CD	NUMBER	82697.0	82697.0				
+10	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.82809_0	82809.0	82809.0	82809.0	CD	NUMBER	82809.0	82809.0				
+10	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.81385_0	81385.0	81385.0	81385.0	CD	NUMBER	81385.0	81385.0				
+10	6	fb:cell_perubahan_persentase_tahun_2011.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	7	fb:cell_perubahan_persentase_tahun_2012._2_9	-2.9	-2.9	-2.9	CD	NUMBER	-2.9	2.9				
+10	8	fb:cell_perubahan_persentase_tahun_2013.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	9	fb:cell_perubahan_persentase_tahun_2014._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+11	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+11	1	fb:cell_jumlah_pekerjaan_tahun_2010.817_0	817.0	817.0	817.0	CD	NUMBER	817.0	817.0				
+11	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.809_0	809.0	809.0	809.0	CD	NUMBER	809.0	809.0				
+11	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.802_0	802.0	802.0	802.0	CD	NUMBER	802.0	802.0				
+11	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.787_0	787.0	787.0	787.0	CD	NUMBER	787.0	787.0				
+11	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.814_0	814.0	814.0	814.0	CD	NUMBER	814.0	814.0				
+11	6	fb:cell_perubahan_persentase_tahun_2011._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+11	7	fb:cell_perubahan_persentase_tahun_2012._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+11	8	fb:cell_perubahan_persentase_tahun_2013._1_9	-1.9	-1.9	-1.9	CD	NUMBER	-1.9	1.9				
+11	9	fb:cell_perubahan_persentase_tahun_2014.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+12	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+12	1	fb:cell_jumlah_pekerjaan_tahun_2010.670_0	670.0	670.0	670.0	CD	NUMBER	670.0	670.0				
+12	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.718_0	718.0	718.0	718.0	CD	NUMBER	718.0	718.0				
+12	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.724_0	724.0	724.0	724.0	CD	NUMBER	724.0	724.0				
+12	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.733_0	733.0	733.0	733.0	CD	NUMBER	733.0	733.0				
+12	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.771_0	771.0	771.0	771.0	CD	NUMBER	771.0	771.0				
+12	6	fb:cell_perubahan_persentase_tahun_2011.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+12	7	fb:cell_perubahan_persentase_tahun_2012.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+12	8	fb:cell_perubahan_persentase_tahun_2013.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+12	9	fb:cell_perubahan_persentase_tahun_2014.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+13	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+13	1	fb:cell_jumlah_pekerjaan_tahun_2010.395_0	395.0	395.0	395.0	CD	NUMBER	395.0	395.0				
+13	2	fb:cell_jumlah_pekerjaan_pada_tahun_2011.428_0	428.0	428.0	428.0	CD	NUMBER	428.0	428.0				
+13	3	fb:cell_jumlah_pekerjaan_pada_tahun_2012.427_0	427.0	427.0	427.0	CD	NUMBER	427.0	427.0				
+13	4	fb:cell_jumlah_lapangan_pekerjaan_pada_tahun_2013.418_0	418.0	418.0	418.0	CD	NUMBER	418.0	418.0				
+13	5	fb:cell_jumlah_pekerjaan_pada_tahun_2014.418_0	418.0	418.0	418.0	CD	NUMBER	418.0	418.0				
+13	6	fb:cell_perubahan_persentase_tahun_2011.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+13	7	fb:cell_perubahan_persentase_tahun_2012._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+13	8	fb:cell_perubahan_persentase_tahun_2013._2_1	-2.1	-2.1	-2.1	CD	NUMBER	-2.1	2.1				
+13	9	fb:cell_perubahan_persentase_tahun_2014.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				

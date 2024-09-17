@@ -1,0 +1,260 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persen_perempuan	persen perempuan	persen|perempuan	persen|perempuan	NNP|NNP	O|O	|					
+-1	2	fb:row.row.wanita_interval_kepercayaan_95_dari	wanita interval kepercayaan 95% dari	wanita|interval|kepercayaan|95|%|dari	wanita|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	3	fb:row.row.wanita_dengan_interval_kepercayaan_95_hingga	wanita dengan interval kepercayaan 95% hingga	wanita|dengan|interval|kepercayaan|95|%|hingga	wanita|dengan|interval|kepercayaan|95|%|hingga	NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	4	fb:row.row.persen_pria	persen pria	persen|pria	persen|pria	NNP|NNP	O|O	|					
+-1	5	fb:row.row.pria_interval_kepercayaan_95_dari	pria interval kepercayaan 95% dari	pria|interval|kepercayaan|95|%|dari	pria|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	6	fb:row.row.pria_interval_kepercayaan_95_hingga	pria interval kepercayaan 95% hingga	pria|interval|kepercayaan|95|%|hingga	pria|interval|kepercayaan|95|%|hingga	NNP|NNP|NNP|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.penyerangan_fisik	penyerangan fisik	penyerangan|fisik	penyerangan|fisik	NN|NN	O|O	|					
+0	1	fb:cell_persen_perempuan.null											
+0	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+0	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+0	4	fb:cell_persen_pria.null											
+0	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+0	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+1	0	fb:cell_kharakteristik.serangan_fisik_newfoundland_dan_labrador	serangan fisik newfoundland dan labrador	serangan|fisik|newfoundland|dan|labrador	serangan|fisik|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+1	1	fb:cell_persen_perempuan.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+1	2	fb:cell_wanita_interval_kepercayaan_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+1	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+1	4	fb:cell_persen_pria.null											
+1	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+1	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+2	0	fb:cell_kharakteristik.serangan_fisik_pulau_pangeran_edward	serangan fisik pulau pangeran Edward	serangan|fisik|pulau|pangeran|edward	serangan|fisik|pulau|pangeran|Edward	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_persen_perempuan.null											
+2	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+2	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+2	4	fb:cell_persen_pria.null											
+2	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+2	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+3	0	fb:cell_kharakteristik.serangan_fisik_nova_scotia	serangan fisik nova scotia	serangan|fisik|nova|scotia	serangan|fisik|nova|scotia	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_persen_perempuan.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+3	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+3	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+3	4	fb:cell_persen_pria.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+3	5	fb:cell_pria_interval_kepercayaan_95_dari.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+3	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+4	0	fb:cell_kharakteristik.serangan_fisik_new_brunswick	serangan fisik new brunswick	serangan|fisik|new|brunswick	serangan|fisik|new|brunswick	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_persen_perempuan.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+4	2	fb:cell_wanita_interval_kepercayaan_95_dari.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+4	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+4	4	fb:cell_persen_pria.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+4	5	fb:cell_pria_interval_kepercayaan_95_dari.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+4	6	fb:cell_pria_interval_kepercayaan_95_hingga.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+5	0	fb:cell_kharakteristik.serangan_fisik_quebec	serangan fisik Quebec	serangan|fisik|quebec	serangan|fisik|Quebec	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_persen_perempuan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+5	2	fb:cell_wanita_interval_kepercayaan_95_dari.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+5	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+5	4	fb:cell_persen_pria.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+5	5	fb:cell_pria_interval_kepercayaan_95_dari.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+5	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+6	0	fb:cell_kharakteristik.serangan_fisik_ontario	serangan fisik ontario	serangan|fisik|ontario	serangan|fisik|ontario	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_persen_perempuan.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+6	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+6	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+6	4	fb:cell_persen_pria.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+6	5	fb:cell_pria_interval_kepercayaan_95_dari.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+6	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+7	0	fb:cell_kharakteristik.serangan_fisik_manitoba	serangan fisik manitoba	serangan|fisik|manitoba	serangan|fisik|manitoba	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_persen_perempuan.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+7	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+7	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+7	4	fb:cell_persen_pria.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+7	5	fb:cell_pria_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+7	6	fb:cell_pria_interval_kepercayaan_95_hingga.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+8	0	fb:cell_kharakteristik.serangan_fisik_saskatchewan	serangan fisik saskatchewan	serangan|fisik|saskatchewan	serangan|fisik|saskatchewan	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_persen_perempuan.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+8	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+8	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+8	4	fb:cell_persen_pria.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+8	5	fb:cell_pria_interval_kepercayaan_95_dari.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+8	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+9	0	fb:cell_kharakteristik.serangan_fisik_alberta	serangan fisik alberta	serangan|fisik|alberta	serangan|fisik|alberta	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_persen_perempuan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+9	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+9	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+9	4	fb:cell_persen_pria.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+9	5	fb:cell_pria_interval_kepercayaan_95_dari.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+9	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+10	0	fb:cell_kharakteristik.serangan_fisik_columbia_inggris	serangan fisik columbia inggris	serangan|fisik|columbia|inggris	serangan|fisik|columbia|inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_persen_perempuan.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+10	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+10	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+10	4	fb:cell_persen_pria.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+10	5	fb:cell_pria_interval_kepercayaan_95_dari.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+10	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+11	0	fb:cell_kharakteristik.provinsi_penyerangan_fisik	provinsi penyerangan fisik	provinsi|penyerangan|fisik	provinsi|penyerangan|fisik	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_persen_perempuan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+11	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+11	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+11	4	fb:cell_persen_pria.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+11	5	fb:cell_pria_interval_kepercayaan_95_dari.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+11	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+12	0	fb:cell_kharakteristik.penyerangan_seksual	penyerangan seksual	penyerangan|seksual	penyerangan|seksual	NN|NN	O|O	|					
+12	1	fb:cell_persen_perempuan.null											
+12	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+12	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+12	4	fb:cell_persen_pria.null											
+12	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+12	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+13	0	fb:cell_kharakteristik.pelecehan_seksual_newfoundland_dan_labrador	pelecehan seksual newfoundland dan labrador	pelecehan|seksual|newfoundland|dan|labrador	pelecehan|seksual|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+13	1	fb:cell_persen_perempuan.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+13	2	fb:cell_wanita_interval_kepercayaan_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+13	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+13	4	fb:cell_persen_pria.null											
+13	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+13	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+14	0	fb:cell_kharakteristik.penyerangan_seksual_pulau_pangeran_edward	penyerangan seksual pulau pangeran Edward	penyerangan|seksual|pulau|pangeran|edward	penyerangan|seksual|pulau|pangeran|Edward	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+14	1	fb:cell_persen_perempuan.null											
+14	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+14	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+14	4	fb:cell_persen_pria.null											
+14	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+14	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+15	0	fb:cell_kharakteristik.penyerangan_seksual_nova_scotia	penyerangan seksual nova scotia	penyerangan|seksual|nova|scotia	penyerangan|seksual|nova|scotia	NN|JJ|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_persen_perempuan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+15	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+15	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+15	4	fb:cell_persen_pria.null											
+15	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+15	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+16	0	fb:cell_kharakteristik.penyerangan_seksual_new_brunswick	penyerangan seksual new brunswick	penyerangan|seksual|new|brunswick	penyerangan|seksual|new|brunswick	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_persen_perempuan.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+16	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+16	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+16	4	fb:cell_persen_pria.null											
+16	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+16	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+17	0	fb:cell_kharakteristik.kekerasan_seksual_di_quebec	kekerasan seksual di Quebec	kekerasan|seksual|di|quebec	kekerasan|seksual|di|Quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+17	1	fb:cell_persen_perempuan.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+17	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+17	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+17	4	fb:cell_persen_pria.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+17	5	fb:cell_pria_interval_kepercayaan_95_dari.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+17	6	fb:cell_pria_interval_kepercayaan_95_hingga.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+18	0	fb:cell_kharakteristik.penyerangan_seksual_ontario	penyerangan seksual ontario	penyerangan|seksual|ontario	penyerangan|seksual|ontario	NN|JJ|NNP	O|O|O	||					
+18	1	fb:cell_persen_perempuan.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+18	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+18	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+18	4	fb:cell_persen_pria.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+18	5	fb:cell_pria_interval_kepercayaan_95_dari.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+18	6	fb:cell_pria_interval_kepercayaan_95_hingga.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+19	0	fb:cell_kharakteristik.serangan_seksual_manitoba	serangan seksual manitoba	serangan|seksual|manitoba	serangan|seksual|manitoba	NNP|NNP|NNP	O|O|O	||					
+19	1	fb:cell_persen_perempuan.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+19	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+19	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+19	4	fb:cell_persen_pria.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+19	5	fb:cell_pria_interval_kepercayaan_95_dari.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+19	6	fb:cell_pria_interval_kepercayaan_95_hingga.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+20	0	fb:cell_kharakteristik.penyerangan_seksual_saskatchewan	penyerangan seksual saskatchewan	penyerangan|seksual|saskatchewan	penyerangan|seksual|saskatchewan	NN|JJ|NNP	O|O|O	||					
+20	1	fb:cell_persen_perempuan.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+20	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+20	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+20	4	fb:cell_persen_pria.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+20	5	fb:cell_pria_interval_kepercayaan_95_dari.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+20	6	fb:cell_pria_interval_kepercayaan_95_hingga.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+21	0	fb:cell_kharakteristik.penyerangan_seksual_alberta	penyerangan seksual alberta	penyerangan|seksual|alberta	penyerangan|seksual|alberta	NN|JJ|NNP	O|O|O	||					
+21	1	fb:cell_persen_perempuan.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+21	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+21	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+21	4	fb:cell_persen_pria.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+21	5	fb:cell_pria_interval_kepercayaan_95_dari.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+21	6	fb:cell_pria_interval_kepercayaan_95_hingga.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+22	0	fb:cell_kharakteristik.penyerangan_seksual_british_columbia	penyerangan seksual british columbia	penyerangan|seksual|british|columbia	penyerangan|seksual|british|columbia	NN|JJ|JJ|NNP	O|O|MISC|O	|||					
+22	1	fb:cell_persen_perempuan.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+22	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+22	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+22	4	fb:cell_persen_pria.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+22	5	fb:cell_pria_interval_kepercayaan_95_dari.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+22	6	fb:cell_pria_interval_kepercayaan_95_hingga.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+23	0	fb:cell_kharakteristik.provinsi_kekerasan_seksual	provinsi kekerasan seksual	provinsi|kekerasan|seksual	provinsi|kekerasan|seksual	NNP|NNP|NNP	O|O|O	||					
+23	1	fb:cell_persen_perempuan.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+23	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+23	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+23	4	fb:cell_persen_pria.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+23	5	fb:cell_pria_interval_kepercayaan_95_dari.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+23	6	fb:cell_pria_interval_kepercayaan_95_hingga.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+24	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total	viktimisasi kekerasan total	viktimisasi|kekerasan|total	viktimisasi|kekerasan|total	NNP|NNP|NNP	O|O|O	||					
+24	1	fb:cell_persen_perempuan.null											
+24	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+24	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+24	4	fb:cell_persen_pria.null											
+24	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+24	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+25	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_di_newfoundland_dan_labrador	viktimisasi kekerasan total di newfoundland dan labrador	viktimisasi|kekerasan|total|di|newfoundland|dan|labrador	viktimisasi|kekerasan|total|di|newfoundland|dan|labrador	NNP|NNP|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|PERSON|PERSON	||||||					
+25	1	fb:cell_persen_perempuan.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+25	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+25	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+25	4	fb:cell_persen_pria.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+25	5	fb:cell_pria_interval_kepercayaan_95_dari.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+25	6	fb:cell_pria_interval_kepercayaan_95_hingga.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+26	0	fb:cell_kharakteristik.total_viktimisasi_kekerasan_pulau_pangeran_edward	total viktimisasi kekerasan pulau pangeran edward	total|viktimisasi|kekerasan|pulau|pangeran|edward	total|viktimisasi|kekerasan|pulau|pangeran|edward	JJ|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+26	1	fb:cell_persen_perempuan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+26	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+26	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+26	4	fb:cell_persen_pria.null											
+26	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+26	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+27	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_nova_scotia	viktimisasi kekerasan total nova scotia	viktimisasi|kekerasan|total|nova|scotia	viktimisasi|kekerasan|total|nova|scotia	NNP|NNP|JJ|NNP|NNP	O|O|O|O|O	||||					
+27	1	fb:cell_persen_perempuan.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+27	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+27	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+27	4	fb:cell_persen_pria.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+27	5	fb:cell_pria_interval_kepercayaan_95_dari.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+27	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+28	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_di_new_brunswick	viktimisasi kekerasan total di new brunswick	viktimisasi|kekerasan|total|di|new|brunswick	viktimisasi|kekerasan|total|di|new|brunswick	NNP|NNP|JJ|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+28	1	fb:cell_persen_perempuan.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+28	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+28	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+28	4	fb:cell_persen_pria.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+28	5	fb:cell_pria_interval_kepercayaan_95_dari.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+28	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+29	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_quebec	viktimisasi kekerasan total quebec	viktimisasi|kekerasan|total|quebec	viktimisasi|kekerasan|total|quebec	NNP|NNP|JJ|NNP	O|O|O|O	|||					
+29	1	fb:cell_persen_perempuan.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+29	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+29	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+29	4	fb:cell_persen_pria.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+29	5	fb:cell_pria_interval_kepercayaan_95_dari.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+29	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+30	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_ontario	viktimisasi kekerasan total ontario	viktimisasi|kekerasan|total|ontario	viktimisasi|kekerasan|total|ontario	NNP|NNP|JJ|NNP	O|O|O|O	|||					
+30	1	fb:cell_persen_perempuan.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+30	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+30	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+30	4	fb:cell_persen_pria.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+30	5	fb:cell_pria_interval_kepercayaan_95_dari.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+30	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+31	0	fb:cell_kharakteristik.manitoba_viktimisasi_kekerasan_total	manitoba viktimisasi kekerasan total	manitoba|viktimisasi|kekerasan|total	manitoba|viktimisasi|kekerasan|total	NNP|NNP|NNP|NNP	LOCATION|O|O|O	|||					
+31	1	fb:cell_persen_perempuan.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+31	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+31	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+31	4	fb:cell_persen_pria.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+31	5	fb:cell_pria_interval_kepercayaan_95_dari.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+31	6	fb:cell_pria_interval_kepercayaan_95_hingga.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+32	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_saskatchewan	viktimisasi kekerasan total saskatchewan	viktimisasi|kekerasan|total|saskatchewan	viktimisasi|kekerasan|total|saskatchewan	NNP|NNP|JJ|NNP	O|O|O|O	|||					
+32	1	fb:cell_persen_perempuan.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+32	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+32	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+32	4	fb:cell_persen_pria.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+32	5	fb:cell_pria_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+32	6	fb:cell_pria_interval_kepercayaan_95_hingga.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+33	0	fb:cell_kharakteristik.viktimisasi_kekerasan_total_alberta	viktimisasi kekerasan total alberta	viktimisasi|kekerasan|total|alberta	viktimisasi|kekerasan|total|alberta	NNP|NNP|JJ|NNP	O|O|O|O	|||					
+33	1	fb:cell_persen_perempuan.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+33	2	fb:cell_wanita_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+33	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+33	4	fb:cell_persen_pria.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+33	5	fb:cell_pria_interval_kepercayaan_95_dari.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+33	6	fb:cell_pria_interval_kepercayaan_95_hingga.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+34	0	fb:cell_kharakteristik.total_viktimisasi_kekerasan_british_columbia	total viktimisasi kekerasan british columbia	total|viktimisasi|kekerasan|british|columbia	total|viktimisasi|kekerasan|british|columbia	JJ|NN|NN|JJ|NNP	O|O|O|MISC|O	||||					
+34	1	fb:cell_persen_perempuan.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+34	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+34	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+34	4	fb:cell_persen_pria.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+34	5	fb:cell_pria_interval_kepercayaan_95_dari.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+34	6	fb:cell_pria_interval_kepercayaan_95_hingga.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+35	0	fb:cell_kharakteristik.total_provinsi_yang_menjadi_korban_kekerasan	total provinsi yang menjadi korban kekerasan	total|provinsi|yang|menjadi|korban|kekerasan	total|provinsi|yang|menjadi|korban|kekerasan	JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+35	1	fb:cell_persen_perempuan.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+35	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+35	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+35	4	fb:cell_persen_pria.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+35	5	fb:cell_pria_interval_kepercayaan_95_dari.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+35	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				

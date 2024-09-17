@@ -1,0 +1,288 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_2012_2013	nomor 2012/2013	nomor|2012/2013	nomor|2012/2013	NNP|CD	O|NUMBER	|					
+-1	2	fb:row.row.median_lama_kasus_2012_2013	Median lama kasus 2012/2013	median|lama|kasus|2012/2013	median|lama|kasus|2012/2013	JJ|NNP|NNP|CD	O|O|O|NUMBER	|||					
+-1	3	fb:row.row.nomor_2013_2014	nomor 2013/2014	nomor|2013/2014	nomor|2013/2014	JJ|NN	O|O	|					
+-1	4	fb:row.row.median_lamanya_kasus_2013_2014	Median lamanya kasus 2013/2014	median|lamanya|kasus|2013/2014	median|lamanya|kasus|2013/2014	JJ|NN|NN|CD	O|O|O|NUMBER	|||					
+-1	5	fb:row.row.persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen	persen perubahan jumlah kasus 2012/2013 ke 2013/2014 persen	persen|perubahan|jumlah|kasus|2012/2013|ke|2013/2014|persen	persen|perubahan|jumlah|kasus|2012/2013|ke|2013/2014|persen	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	6	fb:row.row.perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari	perbedaan median lama kasus 2012/2013 dengan 2013/2014 hari	perbedaan|median|lama|kasus|2012/2013|dengan|2013/2014|hari	perbedaan|median|lama|kasus|2012/2013|dengan|2013/2014|hari	NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.pelanggaran_kekerasan	pelanggaran kekerasan	pelanggaran|kekerasan	pelanggaran|kekerasan	NNP|NNP	O|O	|					
+0	1	fb:cell_nomor_2012_2013.12792	12792	12792	12792	CD	NUMBER	12792.0	12792.0				
+0	2	fb:cell_median_lama_kasus_2012_2013.161	161	161	161	CD	NUMBER	161.0	161.0				
+0	3	fb:cell_nomor_2013_2014.11720	11720	11720	11720	CD	NUMBER	11720.0	11720.0				
+0	4	fb:cell_median_lamanya_kasus_2013_2014.166	166	166	166	CD	NUMBER	166.0	166.0				
+0	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._8	-8	-8	-8	CD	NUMBER	-8.0	8.0				
+0	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.5	5	5	5	CD	NUMBER	5.0	5.0				
+1	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pembunuhan	pelanggaran kekerasan pembunuhan	pelanggaran|kekerasan|pembunuhan	pelanggaran|kekerasan|pembunuhan	NN|NN|NN	O|O|O	||					
+1	1	fb:cell_nomor_2012_2013.31	31	31	31	CD	NUMBER	31.0	31.0				
+1	2	fb:cell_median_lama_kasus_2012_2013.448	448	448	448	CD	NUMBER	448.0	448.0				
+1	3	fb:cell_nomor_2013_2014.33	33	33	33	CD	NUMBER	33.0	33.0				
+1	4	fb:cell_median_lamanya_kasus_2013_2014.611	611	611	611	CD	NUMBER	611.0	611.0				
+1	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen.6	6	6	6	CD	NUMBER	6.0	6.0				
+1	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.163	163	163	163	CD	NUMBER	163.0	163.0				
+2	0	fb:cell_kharakteristik.pelanggaran_kekerasan_percobaan_pembunuhan	pelanggaran kekerasan percobaan pembunuhan	pelanggaran|kekerasan|percobaan|pembunuhan	pelanggaran|kekerasan|percobaan|pembunuhan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_nomor_2012_2013.21	21	21	21	CD	NUMBER	21.0	21.0				
+2	2	fb:cell_median_lama_kasus_2012_2013.316	316	316	316	CD	NUMBER	316.0	316.0				
+2	3	fb:cell_nomor_2013_2014.20	20	20	20	CD	NUMBER	20.0	20.0				
+2	4	fb:cell_median_lamanya_kasus_2013_2014.248	248	248	248	CD	NUMBER	248.0	248.0				
+2	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+2	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._68	-68	-68	-68	CD	NUMBER	-68.0	68.0				
+3	0	fb:cell_kharakteristik.pelanggaran_kekerasan_perampokan	pelanggaran kekerasan perampokan	pelanggaran|kekerasan|perampokan	pelanggaran|kekerasan|perampokan	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_nomor_2012_2013.2336	2336	2336	2336	CD	DATE	2336	2336.0	2336-xx-xx			
+3	2	fb:cell_median_lama_kasus_2012_2013.184	184	184	184	CD	NUMBER	184.0	184.0				
+3	3	fb:cell_nomor_2013_2014.1904	1904	1904	1904	CD	DATE	1904	1904.0	1904-xx-xx			
+3	4	fb:cell_median_lamanya_kasus_2013_2014.201	201	201	201	CD	NUMBER	201.0	201.0				
+3	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._18	-18	-18	-18	CD	NUMBER	-18.0	18.0				
+3	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.17	17	17	17	CD	NUMBER	17.0	17.0				
+4	0	fb:cell_kharakteristik.pelanggaran_kekerasan_penyerangan_seksual	pelanggaran kekerasan penyerangan seksual	pelanggaran|kekerasan|penyerangan|seksual	pelanggaran|kekerasan|penyerangan|seksual	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_nomor_2012_2013.696	696	696	696	CD	NUMBER	696.0	696.0				
+4	2	fb:cell_median_lama_kasus_2012_2013.252	252	252	252	CD	NUMBER	252.0	252.0				
+4	3	fb:cell_nomor_2013_2014.750	750	750	750	CD	NUMBER	750.0	750.0				
+4	4	fb:cell_median_lamanya_kasus_2013_2014.256	256	256	256	CD	NUMBER	256.0	256.0				
+4	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen.8	8	8	8	CD	NUMBER	8.0	8.0				
+4	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.4	4	4	4	CD	NUMBER	4.0	4.0				
+5	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelanggaran_seksual_lainnya	pelanggaran kekerasan pelanggaran seksual lainnya	pelanggaran|kekerasan|pelanggaran|seksual|lainnya	pelanggaran|kekerasan|pelanggaran|seksual|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_nomor_2012_2013.635	635	635	635	CD	NUMBER	635.0	635.0				
+5	2	fb:cell_median_lama_kasus_2012_2013.232	232	232	232	CD	NUMBER	232.0	232.0				
+5	3	fb:cell_nomor_2013_2014.667	667	667	667	CD	NUMBER	667.0	667.0				
+5	4	fb:cell_median_lamanya_kasus_2013_2014.240	240	240	240	CD	NUMBER	240.0	240.0				
+5	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+5	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.8	8	8	8	CD	NUMBER	8.0	8.0				
+6	0	fb:cell_kharakteristik.pelanggaran_kekerasan_serangan_besar	pelanggaran kekerasan serangan besar	pelanggaran|kekerasan|serangan|besar	pelanggaran|kekerasan|serangan|besar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_nomor_2012_2013.2715	2715	2715	2715	CD	DATE	2715	2715.0	2715-xx-xx			
+6	2	fb:cell_median_lama_kasus_2012_2013.168	168	168	168	CD	NUMBER	168.0	168.0				
+6	3	fb:cell_nomor_2013_2014.2396	2396	2396	2396	CD	DATE	2396	2396.0	2396-xx-xx			
+6	4	fb:cell_median_lamanya_kasus_2013_2014.164	164	164	164	CD	NUMBER	164.0	164.0				
+6	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+6	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+7	0	fb:cell_kharakteristik.pelanggaran_kekerasan_penyerangan_biasa	pelanggaran kekerasan penyerangan biasa	pelanggaran|kekerasan|penyerangan|biasa	pelanggaran|kekerasan|penyerangan|biasa	NN|NN|NN|NN	O|O|O|O	|||					
+7	1	fb:cell_nomor_2012_2013.3878	3878	3878	3878	CD	NUMBER	3878.0	3878.0	3878-xx-xx			
+7	2	fb:cell_median_lama_kasus_2012_2013.127	127	127	127	CD	NUMBER	127.0	127.0				
+7	3	fb:cell_nomor_2013_2014.3613	3613	3613	3613	CD	NUMBER	3613.0	3613.0	3613-xx-xx			
+7	4	fb:cell_median_lamanya_kasus_2013_2014.134	134	134	134	CD	NUMBER	134.0	134.0				
+7	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+7	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.7	7	7	7	CD	NUMBER	7.0	7.0				
+8	0	fb:cell_kharakteristik.pelanggaran_kekerasan_yang_mengucapkan_ancaman	pelanggaran kekerasan yang mengucapkan ancaman	pelanggaran|kekerasan|yang|mengucapkan|ancaman	pelanggaran|kekerasan|yang|mengucapkan|ancaman	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+8	1	fb:cell_nomor_2012_2013.2029	2029	2029	2029	CD	DATE	2029	2029.0	2029-xx-xx			
+8	2	fb:cell_median_lama_kasus_2012_2013.134	134	134	134	CD	NUMBER	134.0	134.0				
+8	3	fb:cell_nomor_2013_2014.1867	1867	1867	1867	CD	DATE	1867	1867.0	1867-xx-xx			
+8	4	fb:cell_median_lamanya_kasus_2013_2014.143	143	143	143	CD	NUMBER	143.0	143.0				
+8	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._8	-8	-8	-8	CD	NUMBER	-8.0	8.0				
+8	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.9	9	9	9	CD	NUMBER	9.0	9.0				
+9	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelecehan_pidana	pelanggaran kekerasan pelecehan pidana	pelanggaran|kekerasan|pelecehan|pidana	pelanggaran|kekerasan|pelecehan|pidana	NN|NN|NN|NN	O|O|O|O	|||					
+9	1	fb:cell_nomor_2012_2013.186	186	186	186	CD	NUMBER	186.0	186.0				
+9	2	fb:cell_median_lama_kasus_2012_2013.163	163	163	163	CD	NUMBER	163.0	163.0				
+9	3	fb:cell_nomor_2013_2014.192	192	192	192	CD	NUMBER	192.0	192.0				
+9	4	fb:cell_median_lamanya_kasus_2013_2014.174	174	174	174	CD	NUMBER	174.0	174.0				
+9	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen.3	3	3	3	CD	NUMBER	3.0	3.0				
+9	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.11	11	11	11	CD	NUMBER	11.0	11.0				
+10	0	fb:cell_kharakteristik.pelanggaran_kekerasan_kejahatan_lainnya_terhadap_orang	pelanggaran kekerasan kejahatan lainnya terhadap orang	pelanggaran|kekerasan|kejahatan|lainnya|terhadap|orang	pelanggaran|kekerasan|kejahatan|lainnya|terhadap|orang	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+10	1	fb:cell_nomor_2012_2013.265	265	265	265	CD	NUMBER	265.0	265.0				
+10	2	fb:cell_median_lama_kasus_2012_2013.203	203	203	203	CD	NUMBER	203.0	203.0				
+10	3	fb:cell_nomor_2013_2014.278	278	278	278	CD	NUMBER	278.0	278.0				
+10	4	fb:cell_median_lamanya_kasus_2013_2014.184	184	184	184	CD	NUMBER	184.0	184.0				
+10	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+10	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._19	-19	-19	-19	CD	NUMBER	-19.0	19.0				
+11	0	fb:cell_kharakteristik.pelanggaran_properti	pelanggaran properti	pelanggaran|properti	pelanggaran|properti	NN|NN	O|O	|					
+11	1	fb:cell_nomor_2012_2013.15723	15723	15723	15723	CD	NUMBER	15723.0	15723.0				
+11	2	fb:cell_median_lama_kasus_2012_2013.113	113	113	113	CD	NUMBER	113.0	113.0				
+11	3	fb:cell_nomor_2013_2014.13370	13370	13370	13370	CD	NUMBER	13370.0	13370.0				
+11	4	fb:cell_median_lamanya_kasus_2013_2014.120	120	120	120	CD	NUMBER	120.0	120.0				
+11	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+11	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.7	7	7	7	CD	NUMBER	7.0	7.0				
+12	0	fb:cell_kharakteristik.pencurian_pelanggaran_properti	pencurian pelanggaran properti	pencurian|pelanggaran|properti	pencurian|pelanggaran|properti	JJ|NN|NN	O|O|O	||					
+12	1	fb:cell_nomor_2012_2013.5476	5476	5476	5476	CD	NUMBER	5476.0	5476.0	5476-xx-xx			
+12	2	fb:cell_median_lama_kasus_2012_2013.100	100	100	100	CD	NUMBER	100.0	100.0				
+12	3	fb:cell_nomor_2013_2014.4658	4658	4658	4658	CD	NUMBER	4658.0	4658.0	4658-xx-xx			
+12	4	fb:cell_median_lamanya_kasus_2013_2014.102	102	102	102	CD	NUMBER	102.0	102.0				
+12	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+12	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.2	2	2	2	CD	NUMBER	2.0	2.0				
+13	0	fb:cell_kharakteristik.pelanggaran_properti_menerobos_dan_masuk	pelanggaran properti menerobos dan masuk	pelanggaran|properti|menerobos|dan|masuk	pelanggaran|properti|menerobos|dan|masuk	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+13	1	fb:cell_nomor_2012_2013.3606	3606	3606	3606	CD	NUMBER	3606.0	3606.0	3606-xx-xx			
+13	2	fb:cell_median_lama_kasus_2012_2013.137	137	137	137	CD	NUMBER	137.0	137.0				
+13	3	fb:cell_nomor_2013_2014.3100	3100	3100	3100	CD	NUMBER	3100.0	3100.0	3100-xx-xx			
+13	4	fb:cell_median_lamanya_kasus_2013_2014.141	141	141	141	CD	NUMBER	141.0	141.0				
+13	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._14	-14	-14	-14	CD	NUMBER	-14.0	14.0				
+13	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.4	4	4	4	CD	NUMBER	4.0	4.0				
+14	0	fb:cell_kharakteristik.penipuan_pelanggaran_properti	penipuan pelanggaran properti	penipuan|pelanggaran|properti	penipuan|pelanggaran|properti	NN|NN|NN	O|O|O	||					
+14	1	fb:cell_nomor_2012_2013.474	474	474	474	CD	NUMBER	474.0	474.0				
+14	2	fb:cell_median_lama_kasus_2012_2013.131	131	131	131	CD	NUMBER	131.0	131.0				
+14	3	fb:cell_nomor_2013_2014.465	465	465	465	CD	NUMBER	465.0	465.0				
+14	4	fb:cell_median_lamanya_kasus_2013_2014.115	115	115	115	CD	NUMBER	115.0	115.0				
+14	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+14	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+15	0	fb:cell_kharakteristik.pelanggaran_properti_kenakalan	pelanggaran properti kenakalan	pelanggaran|properti|kenakalan	pelanggaran|properti|kenakalan	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_nomor_2012_2013.2948	2948	2948	2948	CD	DATE	2948	2948.0	2948-xx-xx			
+15	2	fb:cell_median_lama_kasus_2012_2013.108	108	108	108	CD	NUMBER	108.0	108.0				
+15	3	fb:cell_nomor_2013_2014.2489	2489	2489	2489	CD	DATE	2489	2489.0	2489-xx-xx			
+15	4	fb:cell_median_lamanya_kasus_2013_2014.113	113	113	113	CD	NUMBER	113.0	113.0				
+15	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+15	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.5	5	5	5	CD	NUMBER	5.0	5.0				
+16	0	fb:cell_kharakteristik.pelanggaran_properti_memiliki_properti_curian	pelanggaran properti memiliki properti curian	pelanggaran|properti|memiliki|properti|curian	pelanggaran|properti|memiliki|properti|curian	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+16	1	fb:cell_nomor_2012_2013.2779	2779	2779	2779	CD	DATE	2779	2779.0	2779-xx-xx			
+16	2	fb:cell_median_lama_kasus_2012_2013.111	111	111	111	CD	NUMBER	111.0	111.0				
+16	3	fb:cell_nomor_2013_2014.2294	2294	2294	2294	CD	DATE	2294	2294.0	2294-xx-xx			
+16	4	fb:cell_median_lamanya_kasus_2013_2014.120	120	120	120	CD	NUMBER	120.0	120.0				
+16	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._17	-17	-17	-17	CD	NUMBER	-17.0	17.0				
+16	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.9	9	9	9	CD	NUMBER	9.0	9.0				
+17	0	fb:cell_kharakteristik.pelanggaran_properti_kejahatan_properti_lainnya	pelanggaran properti kejahatan properti lainnya	pelanggaran|properti|kejahatan|properti|lainnya	pelanggaran|properti|kejahatan|properti|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+17	1	fb:cell_nomor_2012_2013.440	440	440	440	CD	NUMBER	440.0	440.0				
+17	2	fb:cell_median_lama_kasus_2012_2013.138	138	138	138	CD	NUMBER	138.0	138.0				
+17	3	fb:cell_nomor_2013_2014.364	364	364	364	CD	NUMBER	364.0	364.0				
+17	4	fb:cell_median_lamanya_kasus_2013_2014.155	155	155	155	CD	NUMBER	155.0	155.0				
+17	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._17	-17	-17	-17	CD	NUMBER	-17.0	17.0				
+17	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.17	17	17	17	CD	NUMBER	17.0	17.0				
+18	0	fb:cell_kharakteristik.administrasi_pelanggaran_peradilan	administrasi pelanggaran peradilan	administrasi|pelanggaran|peradilan	administrasi|pelanggaran|peradilan	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_nomor_2012_2013.4893	4893	4893	4893	CD	NUMBER	4893.0	4893.0	4893-xx-xx			
+18	2	fb:cell_median_lama_kasus_2012_2013.84	84	84	84	CD	NUMBER	84.0	84.0				
+18	3	fb:cell_nomor_2013_2014.4290	4290	4290	4290	CD	NUMBER	4290.0	4290.0	4290-xx-xx			
+18	4	fb:cell_median_lamanya_kasus_2013_2014.82	82	82	82	CD	NUMBER	82.0	82.0				
+18	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+18	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+19	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_gagal_muncul	pelanggaran administrasi peradilan gagal muncul	pelanggaran|administrasi|peradilan|gagal|muncul	pelanggaran|administrasi|peradilan|gagal|muncul	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+19	1	fb:cell_nomor_2012_2013.281	281	281	281	CD	NUMBER	281.0	281.0				
+19	2	fb:cell_median_lama_kasus_2012_2013.71	71	71	71	CD	NUMBER	71.0	71.0				
+19	3	fb:cell_nomor_2013_2014.246	246	246	246	CD	NUMBER	246.0	246.0				
+19	4	fb:cell_median_lamanya_kasus_2013_2014.69	69	69	69	CD	NUMBER	69.0	69.0				
+19	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+19	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+20	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_pelanggaran_masa_percobaan	pelanggaran administrasi peradilan pelanggaran masa percobaan	pelanggaran|administrasi|peradilan|pelanggaran|masa|percobaan	pelanggaran|administrasi|peradilan|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_nomor_2012_2013.128	128	128	128	CD	NUMBER	128.0	128.0				
+20	2	fb:cell_median_lama_kasus_2012_2013.52	52	52	52	CD	NUMBER	52.0	52.0				
+20	3	fb:cell_nomor_2013_2014.117	117	117	117	CD	NUMBER	117.0	117.0				
+20	4	fb:cell_median_lamanya_kasus_2013_2014.83	83	83	83	CD	NUMBER	83.0	83.0				
+20	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._9	-9	-9	-9	CD	NUMBER	-9.0	9.0				
+20	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.31	31	31	31	CD	NUMBER	31.0	31.0				
+21	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_secara_luas_secara_melawan_hukum	pelanggaran administrasi peradilan secara luas secara melawan hukum	pelanggaran|administrasi|peradilan|secara|luas|secara|melawan|hukum	pelanggaran|administrasi|peradilan|secara|luas|secara|melawan|hukum	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+21	1	fb:cell_nomor_2012_2013.306	306	306	306	CD	NUMBER	306.0	306.0				
+21	2	fb:cell_median_lama_kasus_2012_2013.8	8	8	8	CD	NUMBER	8.0	8.0				
+21	3	fb:cell_nomor_2013_2014.258	258	258	258	CD	NUMBER	258.0	258.0				
+21	4	fb:cell_median_lamanya_kasus_2013_2014.7	7	7	7	CD	NUMBER	7.0	7.0				
+21	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+21	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+22	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_gagal_untuk_mematuhi_perintah	pelanggaran administrasi peradilan gagal untuk mematuhi perintah	pelanggaran|administrasi|peradilan|gagal|untuk|mematuhi|perintah	pelanggaran|administrasi|peradilan|gagal|untuk|mematuhi|perintah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+22	1	fb:cell_nomor_2012_2013.3230	3230	3230	3230	CD	NUMBER	3230.0	3230.0	3230-xx-xx			
+22	2	fb:cell_median_lama_kasus_2012_2013.91	91	91	91	CD	NUMBER	91.0	91.0				
+22	3	fb:cell_nomor_2013_2014.2875	2875	2875	2875	CD	DATE	2875	2875.0	2875-xx-xx			
+22	4	fb:cell_median_lamanya_kasus_2013_2014.91	91	91	91	CD	NUMBER	91.0	91.0				
+22	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._11	-11	-11	-11	CD	NUMBER	-11.0	11.0				
+22	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.0	0	0	0	CD	NUMBER	0.0	0.0				
+23	0	fb:cell_kharakteristik.penyelenggaraan_peradilan_melanggar_administrasi_peradilan_lainnya	penyelenggaraan peradilan melanggar administrasi peradilan lainnya	penyelenggaraan|peradilan|melanggar|administrasi|peradilan|lainnya	penyelenggaraan|peradilan|melanggar|administrasi|peradilan|lainnya	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+23	1	fb:cell_nomor_2012_2013.948	948	948	948	CD	NUMBER	948.0	948.0				
+23	2	fb:cell_median_lama_kasus_2012_2013.92	92	92	92	CD	NUMBER	92.0	92.0				
+23	3	fb:cell_nomor_2013_2014.794	794	794	794	CD	NUMBER	794.0	794.0				
+23	4	fb:cell_median_lamanya_kasus_2013_2014.92	92	92	92	CD	NUMBER	92.0	92.0				
+23	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+23	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.0	0	0	0	CD	NUMBER	0.0	0.0				
+24	0	fb:cell_kharakteristik.pelanggaran_hukum_pidana_lainnya	pelanggaran hukum pidana lainnya	pelanggaran|hukum|pidana|lainnya	pelanggaran|hukum|pidana|lainnya	NN|NN|NN|NN	O|O|O|O	|||					
+24	1	fb:cell_nomor_2012_2013.2424	2424	2424	2424	CD	DATE	2424	2424.0	2424-xx-xx			
+24	2	fb:cell_median_lama_kasus_2012_2013.148	148	148	148	CD	NUMBER	148.0	148.0				
+24	3	fb:cell_nomor_2013_2014.2160	2160	2160	2160	CD	DATE	2160	2160.0	2160-xx-xx			
+24	4	fb:cell_median_lamanya_kasus_2013_2014.146	146	146	146	CD	NUMBER	146.0	146.0				
+24	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._11	-11	-11	-11	CD	NUMBER	-11.0	11.0				
+24	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+25	0	fb:cell_kharakteristik.senjata_tindak_pidana_kuhp_lainnya	senjata tindak pidana KUHP lainnya	senjata|tindak|pidana|kuhp|lainnya	senjata|tindak|pidana|KUHP|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+25	1	fb:cell_nomor_2012_2013.1555	1555	1555	1555	CD	DATE	1555	1555.0	1555-xx-xx			
+25	2	fb:cell_median_lama_kasus_2012_2013.155	155	155	155	CD	NUMBER	155.0	155.0				
+25	3	fb:cell_nomor_2013_2014.1451	1451	1451	1451	CD	DATE	1451	1451.0	1451-xx-xx			
+25	4	fb:cell_median_lamanya_kasus_2013_2014.147	147	147	147	CD	NUMBER	147.0	147.0				
+25	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+25	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._8	-8	-8	-8	CD	NUMBER	-8.0	8.0				
+26	0	fb:cell_kharakteristik.tindak_pidana_prostitusi_lainnya	tindak pidana prostitusi lainnya	tindak|pidana|prostitusi|lainnya	tindak|pidana|prostitusi|lainnya	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+26	1	fb:cell_nomor_2012_2013.6	6	6	6	CD	NUMBER	6.0	6.0				
+26	2	fb:cell_median_lama_kasus_2012_2013.249	249	249	249	CD	NUMBER	249.0	249.0				
+26	3	fb:cell_nomor_2013_2014.11	11	11	11	CD	NUMBER	11.0	11.0				
+26	4	fb:cell_median_lamanya_kasus_2013_2014.174	174	174	174	CD	NUMBER	174.0	174.0				
+26	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen.83	83	83	83	CD	NUMBER	83.0	83.0				
+26	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._75	-75	-75	-75	CD	NUMBER	-75.0	75.0				
+27	0	fb:cell_kharakteristik.tindak_pidana_lain_yang_mengganggu_ketentraman	tindak pidana lain yang mengganggu ketentraman	tindak|pidana|lain|yang|mengganggu|ketentraman	tindak|pidana|lain|yang|mengganggu|ketentraman	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+27	1	fb:cell_nomor_2012_2013.132	132	132	132	CD	NUMBER	132.0	132.0				
+27	2	fb:cell_median_lama_kasus_2012_2013.102	102	102	102	CD	NUMBER	102.0	102.0				
+27	3	fb:cell_nomor_2013_2014.86	86	86	86	CD	NUMBER	86.0	86.0				
+27	4	fb:cell_median_lamanya_kasus_2013_2014.103	103	103	103	CD	NUMBER	103.0	103.0				
+27	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._35	-35	-35	-35	CD	NUMBER	-35.0	35.0				
+27	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.1	1	1	1	CD	NUMBER	1.0	1.0				
+28	0	fb:cell_kharakteristik.sisa_tindak_pidana_kuhp_lainnya	sisa tindak pidana KUHP lainnya	sisa|tindak|pidana|kuhp|lainnya	sisa|tindak|pidana|KUHP|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+28	1	fb:cell_nomor_2012_2013.731	731	731	731	CD	NUMBER	731.0	731.0				
+28	2	fb:cell_median_lama_kasus_2012_2013.141	141	141	141	CD	NUMBER	141.0	141.0				
+28	3	fb:cell_nomor_2013_2014.612	612	612	612	CD	NUMBER	612.0	612.0				
+28	4	fb:cell_median_lamanya_kasus_2013_2014.153	153	153	153	CD	NUMBER	153.0	153.0				
+28	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+28	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.12	12	12	12	CD	NUMBER	12.0	12.0				
+29	0	fb:cell_kharakteristik.hukum_pidana	hukum pidana	hukum|pidana	hukum|pidana	NNP|NNP	O|O	|					
+29	1	fb:cell_nomor_2012_2013.35832	35832	35832	35832	CD	NUMBER	35832.0	35832.0				
+29	2	fb:cell_median_lama_kasus_2012_2013.127	127	127	127	CD	NUMBER	127.0	127.0				
+29	3	fb:cell_nomor_2013_2014.31540	31540	31540	31540	CD	NUMBER	31540.0	31540.0				
+29	4	fb:cell_median_lamanya_kasus_2013_2014.130	130	130	130	CD	NUMBER	130.0	130.0				
+29	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+29	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.3	3	3	3	CD	NUMBER	3.0	3.0				
+30	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas	KUHP pelanggaran lalu lintas	kuhp|pelanggaran|lalu|lintas	kuhp|pelanggaran|lalu|lintas	NN|NN|NN|NNP	O|O|O|O	|||					
+30	1	fb:cell_nomor_2012_2013.828	828	828	828	CD	NUMBER	828.0	828.0				
+30	2	fb:cell_median_lama_kasus_2012_2013.113	113	113	113	CD	NUMBER	113.0	113.0				
+30	3	fb:cell_nomor_2013_2014.646	646	646	646	CD	NUMBER	646.0	646.0				
+30	4	fb:cell_median_lamanya_kasus_2013_2014.120	120	120	120	CD	NUMBER	120.0	120.0				
+30	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._22	-22	-22	-22	CD	NUMBER	-22.0	22.0				
+30	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.7	7	7	7	CD	NUMBER	7.0	7.0				
+31	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas_gangguan_mengemudi	KUHP pelanggaran lalu lintas gangguan mengemudi	kuhp|pelanggaran|lalu|lintas|gangguan|mengemudi	kuhp|pelanggaran|lalu|lintas|gangguan|mengemudi	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+31	1	fb:cell_nomor_2012_2013.424	424	424	424	CD	NUMBER	424.0	424.0				
+31	2	fb:cell_median_lama_kasus_2012_2013.79	79	79	79	CD	NUMBER	79.0	79.0				
+31	3	fb:cell_nomor_2013_2014.318	318	318	318	CD	NUMBER	318.0	318.0				
+31	4	fb:cell_median_lamanya_kasus_2013_2014.116	116	116	116	CD	NUMBER	116.0	116.0				
+31	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._25	-25	-25	-25	CD	NUMBER	-25.0	25.0				
+31	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.37	37	37	37	CD	NUMBER	37.0	37.0				
+32	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas_kuhp_lainnya	KUHP pelanggaran lalu lintas KUHP lainnya	kuhp|pelanggaran|lalu|lintas|kuhp|lainnya	kuhp|pelanggaran|lalu|lintas|KUHP|lainnya	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+32	1	fb:cell_nomor_2012_2013.404	404	404	404	CD	NUMBER	404.0	404.0				
+32	2	fb:cell_median_lama_kasus_2012_2013.129	129	129	129	CD	NUMBER	129.0	129.0				
+32	3	fb:cell_nomor_2013_2014.328	328	328	328	CD	NUMBER	328.0	328.0				
+32	4	fb:cell_median_lamanya_kasus_2013_2014.122	122	122	122	CD	NUMBER	122.0	122.0				
+32	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._19	-19	-19	-19	CD	NUMBER	-19.0	19.0				
+32	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+33	0	fb:cell_kharakteristik.total_pelanggaran_hukum_pidana	total pelanggaran hukum pidana	total|pelanggaran|hukum|pidana	total|pelanggaran|hukum|pidana	JJ|NN|NN|NN	O|O|O|O	|||					
+33	1	fb:cell_nomor_2012_2013.36660	36660	36660	36660	CD	NUMBER	36660.0	36660.0				
+33	2	fb:cell_median_lama_kasus_2012_2013.126	126	126	126	CD	NUMBER	126.0	126.0				
+33	3	fb:cell_nomor_2013_2014.32186	32186	32186	32186	CD	NUMBER	32186.0	32186.0				
+33	4	fb:cell_median_lamanya_kasus_2013_2014.130	130	130	130	CD	NUMBER	130.0	130.0				
+33	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+33	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.4	4	4	4	CD	NUMBER	4.0	4.0				
+34	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya	pelanggaran undang-undang federal lainnya	pelanggaran|undang|undang|federal|lainnya	pelanggaran|undang|undang|federal|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+34	1	fb:cell_nomor_2012_2013.8781	8781	8781	8781	CD	NUMBER	8781.0	8781.0	8781-xx-xx			
+34	2	fb:cell_median_lama_kasus_2012_2013.64	64	64	64	CD	NUMBER	64.0	64.0				
+34	3	fb:cell_nomor_2013_2014.7715	7715	7715	7715	CD	NUMBER	7715.0	7715.0	7715-xx-xx			
+34	4	fb:cell_median_lamanya_kasus_2013_2014.69	69	69	69	CD	NUMBER	69.0	69.0				
+34	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+34	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.5	5	5	5	CD	NUMBER	5.0	5.0				
+35	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_kepemilikan_narkoba	pelanggaran undang-undang federal lainnya kepemilikan narkoba	pelanggaran|undang|undang|federal|lainnya|kepemilikan|narkoba	pelanggaran|undang|undang|federal|lainnya|kepemilikan|narkoba	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+35	1	fb:cell_nomor_2012_2013.1844	1844	1844	1844	CD	DATE	1844	1844.0	1844-xx-xx			
+35	2	fb:cell_median_lama_kasus_2012_2013.92	92	92	92	CD	NUMBER	92.0	92.0				
+35	3	fb:cell_nomor_2013_2014.1568	1568	1568	1568	CD	DATE	1568	1568.0	1568-xx-xx			
+35	4	fb:cell_median_lamanya_kasus_2013_2014.92	92	92	92	CD	NUMBER	92.0	92.0				
+35	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+35	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.0	0	0	0	CD	NUMBER	0.0	0.0				
+36	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_pelanggaran_narkoba_lainnya	pelanggaran undang-undang federal lainnya pelanggaran narkoba lainnya	pelanggaran|undang|undang|federal|lainnya|pelanggaran|narkoba|lainnya	pelanggaran|undang|undang|federal|lainnya|pelanggaran|narkoba|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+36	1	fb:cell_nomor_2012_2013.718	718	718	718	CD	NUMBER	718.0	718.0				
+36	2	fb:cell_median_lama_kasus_2012_2013.141	141	141	141	CD	NUMBER	141.0	141.0				
+36	3	fb:cell_nomor_2013_2014.662	662	662	662	CD	NUMBER	662.0	662.0				
+36	4	fb:cell_median_lamanya_kasus_2013_2014.141	141	141	141	CD	NUMBER	141.0	141.0				
+36	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._8	-8	-8	-8	CD	NUMBER	-8.0	8.0				
+36	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.0	0	0	0	CD	NUMBER	0.0	0.0				
+37	0	fb:cell_kharakteristik.undang_undang_federal_lainnya_melanggar_tindakan_peradilan_pidana_remaja	undang-undang federal lainnya melanggar tindakan peradilan pidana remaja	undang|undang|federal|lainnya|melanggar|tindakan|peradilan|pidana|remaja	undang|undang|federal|lainnya|melanggar|tindakan|peradilan|pidana|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+37	1	fb:cell_nomor_2012_2013.4542	4542	4542	4542	CD	NUMBER	4542.0	4542.0	4542-xx-xx			
+37	2	fb:cell_median_lama_kasus_2012_2013.37	37	37	37	CD	NUMBER	37.0	37.0				
+37	3	fb:cell_nomor_2013_2014.3841	3841	3841	3841	CD	NUMBER	3841.0	3841.0	3841-xx-xx			
+37	4	fb:cell_median_lamanya_kasus_2013_2014.42	42	42	42	CD	NUMBER	42.0	42.0				
+37	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+37	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.5	5	5	5	CD	NUMBER	5.0	5.0				
+38	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_sisa_undang_undang_federal	pelanggaran undang-undang federal lainnya sisa undang-undang federal	pelanggaran|undang|undang|federal|lainnya|sisa|undang|undang|federal	pelanggaran|undang|undang|federal|lainnya|sisa|undang|undang|federal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+38	1	fb:cell_nomor_2012_2013.1677	1677	1677	1677	CD	DATE	1677	1677.0	1677-xx-xx			
+38	2	fb:cell_median_lama_kasus_2012_2013.103	103	103	103	CD	NUMBER	103.0	103.0				
+38	3	fb:cell_nomor_2013_2014.1644	1644	1644	1644	CD	DATE	1644	1644.0	1644-xx-xx			
+38	4	fb:cell_median_lamanya_kasus_2013_2014.99	99	99	99	CD	NUMBER	99.0	99.0				
+38	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+38	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+39	0	fb:cell_kharakteristik.pelanggaran_total	pelanggaran total	pelanggaran|total	pelanggaran|total	NNP|NNP	O|O	|					
+39	1	fb:cell_nomor_2012_2013.45441	45441	45441	45441	CD	NUMBER	45441.0	45441.0				
+39	2	fb:cell_median_lama_kasus_2012_2013.114	114	114	114	CD	NUMBER	114.0	114.0				
+39	3	fb:cell_nomor_2013_2014.39901	39901	39901	39901	CD	NUMBER	39901.0	39901.0				
+39	4	fb:cell_median_lamanya_kasus_2013_2014.120	120	120	120	CD	NUMBER	120.0	120.0				
+39	5	fb:cell_persen_perubahan_jumlah_kasus_2012_2013_ke_2013_2014_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+39	6	fb:cell_perbedaan_median_lama_kasus_2012_2013_dengan_2013_2014_hari.6	6	6	6	CD	NUMBER	6.0	6.0				

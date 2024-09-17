@@ -1,0 +1,151 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar	administrasi dan layanan pusat / layanan internal federal ribuan dolar	administrasi|dan|layanan|pusat|/|layanan|internal|federal|ribuan|dolar	administrasi|dan|layanan|pusat|/|layanan|internal|federal|ribuan|dolar	NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	2	fb:row.row.hak_asuh_ribuan_dolar	hak asuh ribuan dolar	hak|asuh|ribuan|dolar	hak|asuh|ribuan|dolar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.pengawasan_masyarakat_ribuan_dolar	pengawasan masyarakat ribuan dolar	pengawasan|masyarakat|ribuan|dolar	pengawasan|masyarakat|ribuan|dolar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar	dewan pembebasan bersyarat nasional dan provinsi ribuan dolar	dewan|pembebasan|bersyarat|nasional|dan|provinsi|ribuan|dolar	dewan|pembebasan|bersyarat|nasional|dan|provinsi|ribuan|dolar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	5	fb:row.row.intervensi_pemasyarakatan_federal_ribuan_dolar	intervensi pemasyarakatan federal ribuan dolar	intervensi|pemasyarakatan|federal|ribuan|dolar	intervensi|pemasyarakatan|federal|ribuan|dolar	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	6	fb:row.row.totalnya_ribuan_dolar	totalnya ribuan dolar	totalnya|ribuan|dolar	totalnya|ribuan|dolar	NN|NN|NN	O|O|O	||					
+-1	7	fb:row.row.persentase_perubahan_total_dari_tahun_2017_2018_persen	persentase perubahan total dari tahun 2017/2018 persen	persentase|perubahan|total|dari|tahun|2017/2018|persen	persentase|perubahan|total|dari|tahun|2017/2018|persen	NN|NN|JJ|NNP|NNP|CD|NNP	O|O|O|O|O|NUMBER|O	||||||					
+-1	8	fb:row.row.rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019	rata-rata biaya narapidana harian dalam dolar 2018/2019	rata|rata|biaya|narapidana|harian|dalam|dolar|2018/2019	rata|rata|biaya|narapidana|harian|dalam|dolar|2018/2019	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	9	fb:row.row.biaya_per_kapita_dalam_dolar_2018_2019	biaya per kapita dalam dolar 2018/2019	biaya|per|kapita|dalam|dolar|2018/2019	biaya|per|kapita|dalam|dolar|2018/2019	NNP|IN|NN|NN|NN|CD	O|O|O|O|O|NUMBER	|||||					
+0	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.534_0	534.0	534.0	534.0	CD	NUMBER	534.0	534.0				
+0	2	fb:cell_hak_asuh_ribuan_dolar.8924	8924	8924	8924	CD	NUMBER	8924.0	8924.0	8924-xx-xx			
+0	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.1466	1466	1466	1466	CD	DATE	1466	1466.0	1466-xx-xx			
+0	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+0	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+0	6	fb:cell_totalnya_ribuan_dolar.10925	10925	10925	10925	CD	NUMBER	10925.0	10925.0				
+0	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.240	240	240	240	CD	NUMBER	240.0	240.0				
+0	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+1	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+1	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.5354_0	5354.0	5354.0	5354.0	CD	NUMBER	5354.0	5354.0				
+1	2	fb:cell_hak_asuh_ribuan_dolar.48227	48227	48227	48227	CD	NUMBER	48227.0	48227.0				
+1	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.8346	8346	8346	8346	CD	NUMBER	8346.0	8346.0	8346-xx-xx			
+1	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+1	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+1	6	fb:cell_totalnya_ribuan_dolar.61928	61928	61928	61928	CD	NUMBER	61928.0	61928.0				
+1	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+1	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.282	282	282	282	CD	NUMBER	282.0	282.0				
+1	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+2	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+2	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.807_0	807.0	807.0	807.0	CD	NUMBER	807.0	807.0				
+2	2	fb:cell_hak_asuh_ribuan_dolar.33748	33748	33748	33748	CD	NUMBER	33748.0	33748.0				
+2	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.4053	4053	4053	4053	CD	NUMBER	4053.0	4053.0	4053-xx-xx			
+2	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+2	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+2	6	fb:cell_totalnya_ribuan_dolar.38608	38608	38608	38608	CD	NUMBER	38608.0	38608.0				
+2	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+2	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.197	197	197	197	CD	NUMBER	197.0	197.0				
+2	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+3	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+3	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.13081_0	13081.0	13081.0	13081.0	CD	NUMBER	13081.0	13081.0				
+3	2	fb:cell_hak_asuh_ribuan_dolar.474668	474668	474668	474668	CD	NUMBER	474668.0	474668.0				
+3	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.83188	83188	83188	83188	CD	NUMBER	83188.0	83188.0				
+3	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.5214_0	5214.0	5214.0	5214.0	CD	NUMBER	5214.0	5214.0				
+3	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+3	6	fb:cell_totalnya_ribuan_dolar.576151	576151	576151	576151	CD	NUMBER	576151.0	576151.0				
+3	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+3	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.290	290	290	290	CD	NUMBER	290.0	290.0				
+3	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+4	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+4	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.42715_0	42715.0	42715.0	42715.0	CD	NUMBER	42715.0	42715.0				
+4	2	fb:cell_hak_asuh_ribuan_dolar.821912	821912	821912	821912	CD	NUMBER	821912.0	821912.0				
+4	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.125578	125578	125578	125578	CD	NUMBER	125578.0	125578.0				
+4	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.3939_0	3939.0	3939.0	3939.0	CD	NUMBER	3939.0	3939.0				
+4	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+4	6	fb:cell_totalnya_ribuan_dolar.994144	994144	994144	994144	CD	NUMBER	994144.0	994144.0				
+4	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.9	9	9	9	CD	NUMBER	9.0	9.0				
+4	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.302	302	302	302	CD	NUMBER	302.0	302.0				
+4	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+5	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+5	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.2165_0	2165.0	2165.0	2165.0	CD	NUMBER	2165.0	2165.0				
+5	2	fb:cell_hak_asuh_ribuan_dolar.225140	225140	225140	225140	CD	NUMBER	225140.0	225140.0				
+5	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.23994	23994	23994	23994	CD	NUMBER	23994.0	23994.0				
+5	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+5	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+5	6	fb:cell_totalnya_ribuan_dolar.251299	251299	251299	251299	CD	NUMBER	251299.0	251299.0				
+5	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.13	13	13	13	CD	NUMBER	13.0	13.0				
+5	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.293	293	293	293	CD	NUMBER	293.0	293.0				
+5	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+6	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+6	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.8259_0	8259.0	8259.0	8259.0	CD	NUMBER	8259.0	8259.0				
+6	2	fb:cell_hak_asuh_ribuan_dolar.125188	125188	125188	125188	CD	NUMBER	125188.0	125188.0				
+6	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.26428	26428	26428	26428	CD	NUMBER	26428.0	26428.0				
+6	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+6	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+6	6	fb:cell_totalnya_ribuan_dolar.159875	159875	159875	159875	CD	NUMBER	159875.0	159875.0				
+6	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.6	6	6	6	CD	NUMBER	6.0	6.0				
+6	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.178	178	178	178	CD	NUMBER	178.0	178.0				
+6	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.137_0	137.0	137.0	137.0	CD	NUMBER	137.0	137.0				
+7	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+7	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.8790_0	8790.0	8790.0	8790.0	CD	NUMBER	8790.0	8790.0				
+7	2	fb:cell_hak_asuh_ribuan_dolar.206621	206621	206621	206621	CD	NUMBER	206621.0	206621.0				
+7	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.40594	40594	40594	40594	CD	NUMBER	40594.0	40594.0				
+7	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+7	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+7	6	fb:cell_totalnya_ribuan_dolar.256005	256005	256005	256005	CD	NUMBER	256005.0	256005.0				
+7	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+7	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.157	157	157	157	CD	NUMBER	157.0	157.0				
+7	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+8	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+8	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.17930_0	17930.0	17930.0	17930.0	CD	NUMBER	17930.0	17930.0				
+8	2	fb:cell_hak_asuh_ribuan_dolar.218071	218071	218071	218071	CD	NUMBER	218071.0	218071.0				
+8	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.58426	58426	58426	58426	CD	NUMBER	58426.0	58426.0				
+8	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+8	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+8	6	fb:cell_totalnya_ribuan_dolar.294428	294428	294428	294428	CD	NUMBER	294428.0	294428.0				
+8	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen._9	-9	-9	-9	CD	NUMBER	-9.0	9.0				
+8	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.247	247	247	247	CD	NUMBER	247.0	247.0				
+8	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+9	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+9	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.278_0	278.0	278.0	278.0	CD	NUMBER	278.0	278.0				
+9	2	fb:cell_hak_asuh_ribuan_dolar.11038	11038	11038	11038	CD	NUMBER	11038.0	11038.0				
+9	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.3142	3142	3142	3142	CD	NUMBER	3142.0	3142.0	3142-xx-xx			
+9	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+9	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+9	6	fb:cell_totalnya_ribuan_dolar.14458	14458	14458	14458	CD	NUMBER	14458.0	14458.0				
+9	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+9	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.451	451	451	451	CD	NUMBER	451.0	451.0				
+9	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.356_0	356.0	356.0	356.0	CD	NUMBER	356.0	356.0				
+10	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.1987_0	1987.0	1987.0	1987.0	CD	NUMBER	1987.0	1987.0				
+10	2	fb:cell_hak_asuh_ribuan_dolar.28161	28161	28161	28161	CD	NUMBER	28161.0	28161.0				
+10	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.4738	4738	4738	4738	CD	NUMBER	4738.0	4738.0	4738-xx-xx			
+10	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.null											
+10	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+10	6	fb:cell_totalnya_ribuan_dolar.34886	34886	34886	34886	CD	NUMBER	34886.0	34886.0				
+10	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.423	423	423	423	CD	NUMBER	423.0	423.0				
+10	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.776_0	776.0	776.0	776.0	CD	NUMBER	776.0	776.0				
+11	0	fb:cell_kharakteristik.total_provinsi_dan_wilayah	total provinsi dan wilayah	total|provinsi|dan|wilayah	total|provinsi|dan|wilayah	JJ|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+11	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.101901_0	101901.0	101901.0	101901.0	CD	NUMBER	101901.0	101901.0				
+11	2	fb:cell_hak_asuh_ribuan_dolar.2201698	2201698	2201698	2201698	CD	NUMBER	2201698.0	2201698.0				
+11	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.379954	379954	379954	379954	CD	NUMBER	379954.0	379954.0				
+11	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.9153_0	9153.0	9153.0	9153.0	CD	NUMBER	9153.0	9153.0				
+11	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+11	6	fb:cell_totalnya_ribuan_dolar.2692706	2692706	2692706	2692706	CD	NUMBER	2692706.0	2692706.0				
+11	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen.4	4	4	4	CD	NUMBER	4.0	4.0				
+11	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.259	259	259	259	CD	NUMBER	259.0	259.0				
+11	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+12	0	fb:cell_kharakteristik.federal	federal	federal	federal	NNP	O						
+12	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.310506_0	310506.0	310506.0	310506.0	CD	NUMBER	310506.0	310506.0				
+12	2	fb:cell_hak_asuh_ribuan_dolar.1458808	1458808	1458808	1458808	CD	NUMBER	1458808.0	1458808.0				
+12	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.159691	159691	159691	159691	CD	NUMBER	159691.0	159691.0				
+12	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.44054_0	44054.0	44054.0	44054.0	CD	NUMBER	44054.0	44054.0				
+12	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.432522_0	432522.0	432522.0	432522.0	CD	NUMBER	432522.0	432522.0				
+12	6	fb:cell_totalnya_ribuan_dolar.2405581	2405581	2405581	2405581	CD	NUMBER	2405581.0	2405581.0				
+12	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+12	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.318	318	318	318	CD	NUMBER	318.0	318.0				
+12	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+13	0	fb:cell_kharakteristik.total_semua_yurisdiksi	total-semua yurisdiksi	total|semua|yurisdiksi	total|semua|yurisdiksi	JJ|NN|NN	O|O|O	||					
+13	1	fb:cell_administrasi_dan_layanan_pusat_layanan_internal_federal_ribuan_dolar.null											
+13	2	fb:cell_hak_asuh_ribuan_dolar.3660506	3660506	3660506	3660506	CD	NUMBER	3660506.0	3660506.0				
+13	3	fb:cell_pengawasan_masyarakat_ribuan_dolar.539645	539645	539645	539645	CD	NUMBER	539645.0	539645.0				
+13	4	fb:cell_dewan_pembebasan_bersyarat_nasional_dan_provinsi_ribuan_dolar.53207_0	53207.0	53207.0	53207.0	CD	NUMBER	53207.0	53207.0				
+13	5	fb:cell_intervensi_pemasyarakatan_federal_ribuan_dolar.null											
+13	6	fb:cell_totalnya_ribuan_dolar.5098287	5098287	5098287	5098287	CD	NUMBER	5098287.0	5098287.0				
+13	7	fb:cell_persentase_perubahan_total_dari_tahun_2017_2018_persen._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+13	8	fb:cell_rata_rata_biaya_narapidana_harian_dalam_dolar_2018_2019.281	281	281	281	CD	NUMBER	281.0	281.0				
+13	9	fb:cell_biaya_per_kapita_dalam_dolar_2018_2019.null											

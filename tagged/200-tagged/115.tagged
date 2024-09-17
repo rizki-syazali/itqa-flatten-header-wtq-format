@@ -1,0 +1,78 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.semua_nomor_peternakan	semua nomor peternakan	semua|nomor|peternakan	semua|nomor|peternakan	NN|NN|NN	O|O|O	||					
+-1	2	fb:row.row.pertanian_dengan_jumlah_hutan_dan_lahan_basah	pertanian dengan jumlah hutan dan lahan basah	pertanian|dengan|jumlah|hutan|dan|lahan|basah	pertanian|dengan|jumlah|hutan|dan|lahan|basah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.persen_lahan_pertanian_dengan_hutan_dan_lahan_basah	persen lahan pertanian dengan hutan dan lahan basah	persen|lahan|pertanian|dengan|hutan|dan|lahan|basah	persen|lahan|pertanian|dengan|hutan|dan|lahan|basah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.hutan_dan_lahan_basah_seluas_hektar	hutan dan lahan basah seluas hektar	hutan|dan|lahan|basah|seluas|hektar	hutan|dan|lahan|basah|seluas|hektar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	5	fb:row.row.luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan	luas rata-rata hutan dan lahan basah per hektar lahan	luas|rata|rata|hutan|dan|lahan|basah|per|hektar|lahan	luas|rata|rata|hutan|dan|lahan|basah|per|hektar|lahan	NNP|JJ|JJ|NNP|NNP|NNP|NNP|IN|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	6	fb:row.row.hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian	hutan dan lahan basah sebagai persentase luas lahan pertanian	hutan|dan|lahan|basah|sebagai|persentase|luas|lahan|pertanian	hutan|dan|lahan|basah|sebagai|persentase|luas|lahan|pertanian	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.semua_peternakan	semua peternakan	semua|peternakan	semua|peternakan	NN|NN	O|O	|					
+0	1	fb:cell_semua_nomor_peternakan.205730_0	205730.0	205730.0	205730.0	CD	NUMBER	205730.0	205730.0				
+0	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.102744_0	102744.0	102744.0	102744.0	CD	NUMBER	102744.0	102744.0				
+0	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.49_9	49.9	49.9	49.9	CD	NUMBER	49.9	49.9				
+0	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.4897367_0	4897367.0	4897367.0	4897367.0	CD	NUMBER	4897367.0	4897367.0				
+0	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+0	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+1	0	fb:cell_kharakteristik.semua_peternakan_di_bawah_100	semua peternakan di bawah 100	semua|peternakan|di|bawah|100	semua|peternakan|di|bawah|100	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||100.0	100.0				
+1	1	fb:cell_semua_nomor_peternakan.105169_0	105169.0	105169.0	105169.0	CD	NUMBER	105169.0	105169.0				
+1	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.50058_0	50058.0	50058.0	50058.0	CD	NUMBER	50058.0	50058.0				
+1	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.47_6	47.6	47.6	47.6	CD	NUMBER	47.6	47.6				
+1	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.722610_0	722610.0	722610.0	722610.0	CD	NUMBER	722610.0	722610.0				
+1	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+1	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+2	0	fb:cell_kharakteristik.semua_peternakan_100_hingga_199	semua peternakan 100 hingga 199	semua|peternakan|100|hingga|199	semua|peternakan|100|hingga|199	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||100.0||199.0	100.0		199.0		
+2	1	fb:cell_semua_nomor_peternakan.34182_0	34182.0	34182.0	34182.0	CD	NUMBER	34182.0	34182.0				
+2	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.19864_0	19864.0	19864.0	19864.0	CD	NUMBER	19864.0	19864.0				
+2	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.58_1	58.1	58.1	58.1	CD	NUMBER	58.1	58.1				
+2	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.765816_0	765816.0	765816.0	765816.0	CD	NUMBER	765816.0	765816.0				
+2	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.38_6	38.6	38.6	38.6	CD	NUMBER	38.6	38.6				
+2	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.15_5	15.5	15.5	15.5	CD	NUMBER	15.5	15.5				
+3	0	fb:cell_kharakteristik.semua_peternakan_200_hingga_299	semua peternakan 200 hingga 299	semua|peternakan|200|hingga|299	semua|peternakan|200|hingga|299	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||200.0||299.0	200.0		299.0		
+3	1	fb:cell_semua_nomor_peternakan.15226_0	15226.0	15226.0	15226.0	CD	NUMBER	15226.0	15226.0				
+3	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.8552_0	8552.0	8552.0	8552.0	CD	NUMBER	8552.0	8552.0				
+3	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.56_2	56.2	56.2	56.2	CD	NUMBER	56.2	56.2				
+3	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.509738_0	509738.0	509738.0	509738.0	CD	NUMBER	509738.0	509738.0				
+3	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.59_6	59.6	59.6	59.6	CD	NUMBER	59.6	59.6				
+3	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.13_5	13.5	13.5	13.5	CD	NUMBER	13.5	13.5				
+4	0	fb:cell_kharakteristik.semua_peternakan_300_hingga_399	semua peternakan 300 hingga 399	semua|peternakan|300|hingga|399	semua|peternakan|300|hingga|399	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||300.0||399.0	300.0		399.0		
+4	1	fb:cell_semua_nomor_peternakan.10730_0	10730.0	10730.0	10730.0	CD	NUMBER	10730.0	10730.0				
+4	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.5684_0	5684.0	5684.0	5684.0	CD	NUMBER	5684.0	5684.0				
+4	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+4	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.393563_0	393563.0	393563.0	393563.0	CD	NUMBER	393563.0	393563.0				
+4	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.69_2	69.2	69.2	69.2	CD	NUMBER	69.2	69.2				
+4	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+5	0	fb:cell_kharakteristik.semua_peternakan_400_hingga_499	semua peternakan 400 hingga 499	semua|peternakan|400|hingga|499	semua|peternakan|400|hingga|499	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||400.0||499.0	400.0		499.0		
+5	1	fb:cell_semua_nomor_peternakan.6650_0	6650.0	6650.0	6650.0	CD	NUMBER	6650.0	6650.0				
+5	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.3305_0	3305.0	3305.0	3305.0	CD	NUMBER	3305.0	3305.0				
+5	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.49_7	49.7	49.7	49.7	CD	NUMBER	49.7	49.7				
+5	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.272839_0	272839.0	272839.0	272839.0	CD	NUMBER	272839.0	272839.0				
+5	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.82_6	82.6	82.6	82.6	CD	NUMBER	82.6	82.6				
+5	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+6	0	fb:cell_kharakteristik.semua_peternakan_500_hingga_749	semua peternakan 500 hingga 749	semua|peternakan|500|hingga|749	semua|peternakan|500|hingga|749	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||500.0||749.0	500.0		749.0		
+6	1	fb:cell_semua_nomor_peternakan.11918_0	11918.0	11918.0	11918.0	CD	NUMBER	11918.0	11918.0				
+6	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.5797_0	5797.0	5797.0	5797.0	CD	NUMBER	5797.0	5797.0				
+6	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.48_6	48.6	48.6	48.6	CD	NUMBER	48.6	48.6				
+6	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.517592_0	517592.0	517592.0	517592.0	CD	NUMBER	517592.0	517592.0				
+6	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.89_3	89.3	89.3	89.3	CD	NUMBER	89.3	89.3				
+6	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+7	0	fb:cell_kharakteristik.semua_peternakan_750_hingga_999	semua peternakan 750 hingga 999	semua|peternakan|750|hingga|999	semua|peternakan|750|hingga|999	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||750.0||999.0	750.0		999.0		
+7	1	fb:cell_semua_nomor_peternakan.7075_0	7075.0	7075.0	7075.0	CD	NUMBER	7075.0	7075.0				
+7	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.3262_0	3262.0	3262.0	3262.0	CD	NUMBER	3262.0	3262.0				
+7	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.46_1	46.1	46.1	46.1	CD	NUMBER	46.1	46.1				
+7	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.369410_0	369410.0	369410.0	369410.0	CD	NUMBER	369410.0	369410.0				
+7	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.113_2	113.2	113.2	113.2	CD	NUMBER	113.2	113.2				
+7	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+8	0	fb:cell_kharakteristik.semua_peternakan_1_000_hingga_1_999	semua peternakan 1.000 hingga 1.999	semua|peternakan|1.000|hingga|1.999	semua|peternakan|1.000|hingga|1.999	NN|NN|CD|NN|CD	O|O|NUMBER|O|NUMBER	||1.0||1.999	1.0		1.999		
+8	1	fb:cell_semua_nomor_peternakan.10145_0	10145.0	10145.0	10145.0	CD	NUMBER	10145.0	10145.0				
+8	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.4547_0	4547.0	4547.0	4547.0	CD	NUMBER	4547.0	4547.0				
+8	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.44_8	44.8	44.8	44.8	CD	NUMBER	44.8	44.8				
+8	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.692727_0	692727.0	692727.0	692727.0	CD	NUMBER	692727.0	692727.0				
+8	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.152_3	152.3	152.3	152.3	CD	NUMBER	152.3	152.3				
+8	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+9	0	fb:cell_kharakteristik.semua_peternakan_2_000_atau_lebih	semua peternakan 2.000 atau lebih	semua|peternakan|2.000|atau|lebih	semua|peternakan|2.000|atau|lebih	NN|NN|CD|NN|NN	O|O|NUMBER|O|O	||2.0||	2.0				
+9	1	fb:cell_semua_nomor_peternakan.4635_0	4635.0	4635.0	4635.0	CD	NUMBER	4635.0	4635.0				
+9	2	fb:cell_pertanian_dengan_jumlah_hutan_dan_lahan_basah.1675_0	1675.0	1675.0	1675.0	CD	NUMBER	1675.0	1675.0				
+9	3	fb:cell_persen_lahan_pertanian_dengan_hutan_dan_lahan_basah.36_1	36.1	36.1	36.1	CD	NUMBER	36.1	36.1				
+9	4	fb:cell_hutan_dan_lahan_basah_seluas_hektar.653073_0	653073.0	653073.0	653073.0	CD	NUMBER	653073.0	653073.0				
+9	5	fb:cell_luas_rata_rata_hutan_dan_lahan_basah_per_hektar_lahan.389_9	389.9	389.9	389.9	CD	NUMBER	389.9	389.9				
+9	6	fb:cell_hutan_dan_lahan_basah_sebagai_persentase_luas_lahan_pertanian.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				

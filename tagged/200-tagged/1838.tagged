@@ -1,0 +1,70 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+-1	2	fb:row.row.wanita	wanita	wanita	wanita	NNP	PERSON						
+0	0	fb:cell_kharakteristik.persen_kanada	persen Kanada	persen|kanada	persen|Kanada	NNP|NNP	O|O	|					
+0	1	fb:cell_laki_laki.null											
+0	2	fb:cell_wanita.null											
+1	0	fb:cell_kharakteristik.persen_kanada_newfoundland_dan_labrador	persen Kanada Newfoundland-dan-Labrador	persen|kanada|newfoundland|dan|labrador	persen|Kanada|Newfoundland|dan|Labrador	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+1	1	fb:cell_laki_laki.29_7	29.7	29.7	29.7	CD	NUMBER	29.7	29.7				
+1	2	fb:cell_wanita.35_1	35.1	35.1	35.1	CD	NUMBER	35.1	35.1				
+2	0	fb:cell_kharakteristik.persen_pulau_pangeran_edward_kanada	persen pulau pangeran-edward kanada	persen|pulau|pangeran|edward|kanada	persen|pulau|pangeran|edward|kanada	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+2	1	fb:cell_laki_laki.18_5	18.5	18.5	18.5	CD	NUMBER	18.5	18.5				
+2	2	fb:cell_wanita.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+3	0	fb:cell_kharakteristik.persen_kanada_nova_scotia	persen Kanada Nova Scotia	persen|kanada|nova|scotia	persen|Kanada|Nova|Scotia	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_laki_laki.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+3	2	fb:cell_wanita.19_4	19.4	19.4	19.4	CD	NUMBER	19.4	19.4				
+4	0	fb:cell_kharakteristik.persen_kanada_new_brunswick	persen Kanada New Brunswick	persen|kanada|new|brunswick	persen|Kanada|New|Brunswick	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_laki_laki.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+4	2	fb:cell_wanita.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+5	0	fb:cell_kharakteristik.persen_kanada_quebec	persen Kanada Quebec	persen|kanada|quebec	persen|Kanada|Quebec	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_laki_laki.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+5	2	fb:cell_wanita.14_3	14.3	14.3	14.3	CD	NUMBER	14.3	14.3				
+6	0	fb:cell_kharakteristik.persen_kanada_ontario	persen Kanada Ontario	persen|kanada|ontario	persen|Kanada|Ontario	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_laki_laki.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+6	2	fb:cell_wanita.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+7	0	fb:cell_kharakteristik.persen_kanada_manitoba	persen kanada manitoba	persen|kanada|manitoba	persen|kanada|manitoba	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_laki_laki.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+7	2	fb:cell_wanita.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+8	0	fb:cell_kharakteristik.persen_kanada_saskatchewan	persen Kanada Saskatchewan	persen|kanada|saskatchewan	persen|Kanada|Saskatchewan	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_laki_laki.23_4	23.4	23.4	23.4	CD	NUMBER	23.4	23.4				
+8	2	fb:cell_wanita.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+9	0	fb:cell_kharakteristik.persen_kanada_alberta	persen Kanada Alberta	persen|kanada|alberta	persen|Kanada|Alberta	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_laki_laki.26_1	26.1	26.1	26.1	CD	NUMBER	26.1	26.1				
+9	2	fb:cell_wanita.28_8	28.8	28.8	28.8	CD	NUMBER	28.8	28.8				
+10	0	fb:cell_kharakteristik.persen_kanada_british_columbia	persen Kanada, British Columbia	persen|kanada|,|british|columbia	persen|Kanada|,|British|Columbia	NNP|NNP|,|NNP|NNP	O|O|O|MISC|O	||||				persen Kanada|British Columbia	fb:part_kharakteristik.persen_kanada|fb:part_kharakteristik.british_columbia
+10	1	fb:cell_laki_laki._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+10	2	fb:cell_wanita.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+11	0	fb:cell_kharakteristik.persen_kanada_semua_provinsi	persen Kanada semua provinsi	persen|kanada|semua|provinsi	persen|Kanada|semua|provinsi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_laki_laki.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+11	2	fb:cell_wanita.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+12	0	fb:cell_kharakteristik.persen_amerika_serikat	persen Amerika Serikat	persen|amerika|serikat	persen|Amerika|Serikat	NNP|NNP|NNP	O|O|O	||					
+12	1	fb:cell_laki_laki.null											
+12	2	fb:cell_wanita.null											
+13	0	fb:cell_kharakteristik.persen_amerika_serikat_new_england	persen Amerika Serikat New England	persen|amerika|serikat|new|england	persen|Amerika|Serikat|New|England	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_laki_laki._4_7	-4.7	-4.7	-4.7	CD	NUMBER	-4.7	4.7				
+13	2	fb:cell_wanita._4_3	-4.3	-4.3	-4.3	CD	NUMBER	-4.3	4.3				
+14	0	fb:cell_kharakteristik.persen_atlantik_tengah_amerika_serikat	persen Atlantik Tengah Amerika Serikat	persen|atlantik|tengah|amerika|serikat	persen|Atlantik|Tengah|Amerika|Serikat	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+14	1	fb:cell_laki_laki._8_2	-8.2	-8.2	-8.2	CD	NUMBER	-8.2	8.2				
+14	2	fb:cell_wanita._3_6	-3.6	-3.6	-3.6	CD	NUMBER	-3.6	3.6				
+15	0	fb:cell_kharakteristik.persen_amerika_serikat_timur_utara_tengah	persen amerika serikat timur utara tengah	persen|amerika|serikat|timur|utara|tengah	persen|amerika|serikat|timur|utara|tengah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_laki_laki._9_7	-9.7	-9.7	-9.7	CD	NUMBER	-9.7	9.7				
+15	2	fb:cell_wanita._3_1	-3.1	-3.1	-3.1	CD	NUMBER	-3.1	3.1				
+16	0	fb:cell_kharakteristik.persen_amerika_serikat_barat_utara_tengah	persen amerika serikat barat utara tengah	persen|amerika|serikat|barat|utara|tengah	persen|amerika|serikat|barat|utara|tengah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+16	1	fb:cell_laki_laki._7_2	-7.2	-7.2	-7.2	CD	NUMBER	-7.2	7.2				
+16	2	fb:cell_wanita.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+17	0	fb:cell_kharakteristik.persen_amerika_serikat_atlantik_selatan	persen Amerika Serikat Atlantik Selatan	persen|amerika|serikat|atlantik|selatan	persen|Amerika|Serikat|Atlantik|Selatan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+17	1	fb:cell_laki_laki._5_1	-5.1	-5.1	-5.1	CD	NUMBER	-5.1	5.1				
+17	2	fb:cell_wanita._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+18	0	fb:cell_kharakteristik.persen_amerika_serikat_bagian_tengah_selatan	persen Amerika Serikat bagian tengah selatan	persen|amerika|serikat|bagian|tengah|selatan	persen|Amerika|Serikat|bagian|tengah|selatan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+18	1	fb:cell_laki_laki._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+18	2	fb:cell_wanita.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+19	0	fb:cell_kharakteristik.persen_gunung_amerika_serikat	persen gunung Amerika Serikat	persen|gunung|amerika|serikat	persen|gunung|Amerika|Serikat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+19	1	fb:cell_laki_laki._4_8	-4.8	-4.8	-4.8	CD	NUMBER	-4.8	4.8				
+19	2	fb:cell_wanita.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+20	0	fb:cell_kharakteristik.persen_amerika_serikat_pasifik	persen Amerika Serikat Pasifik	persen|amerika|serikat|pasifik	persen|Amerika|Serikat|Pasifik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+20	1	fb:cell_laki_laki._6_4	-6.4	-6.4	-6.4	CD	NUMBER	-6.4	6.4				
+20	2	fb:cell_wanita._3_8	-3.8	-3.8	-3.8	CD	NUMBER	-3.8	3.8				
+21	0	fb:cell_kharakteristik.persen_amerika_serikat_di_semua_wilayah	persen Amerika Serikat di semua wilayah	persen|amerika|serikat|di|semua|wilayah	persen|Amerika|Serikat|di|semua|wilayah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+21	1	fb:cell_laki_laki._5_5	-5.5	-5.5	-5.5	CD	NUMBER	-5.5	5.5				
+21	2	fb:cell_wanita.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				

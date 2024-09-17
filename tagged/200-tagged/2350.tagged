@@ -1,0 +1,185 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1999	1999	1999	1999	CD	DATE	1999					
+-1	2	fb:row.row.2016	2016	2016	2016	CD	DATE	2016					
+-1	3	fb:row.row.mengubah	mengubah	mengubah	mengubah	NN	O						
+0	0	fb:cell_kharakteristik.keluarga_senior_dengan_hutang_dolar_konstan_2016	Keluarga senior dengan hutang dolar konstan 2016	keluarga|senior|dengan|hutang|dolar|konstan|2016	Keluarga|senior|dengan|hutang|dolar|konstan|2016	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2016	2016.0				
+0	1	fb:cell_1999.298900_0	298900.0	298900.0	298900.0	CD	NUMBER	298900.0	298900.0				
+0	2	fb:cell_2016.537400_0	537400.0	537400.0	537400.0	CD	NUMBER	537400.0	537400.0				
+0	3	fb:cell_mengubah.238500_0	238500.0	238500.0	238500.0	CD	NUMBER	238500.0	238500.0				
+1	0	fb:cell_kharakteristik.jenis_kelamin_dolar_konstan_tahun_2016_dari_pencari_nafkah_utama	Jenis kelamin dolar konstan tahun 2016 dari pencari nafkah utama	jenis|kelamin|dolar|konstan|tahun|2016|dari|pencari|nafkah|utama	Jenis|kelamin|dolar|konstan|tahun|2016|dari|pencari|nafkah|utama	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+1	1	fb:cell_1999.null											
+1	2	fb:cell_2016.null											
+1	3	fb:cell_mengubah.null											
+2	0	fb:cell_kharakteristik.dolar_konstan_2016_jenis_kelamin_laki_laki_yang_berpenghasilan_utama	Dolar konstan 2016 jenis kelamin laki-laki yang berpenghasilan utama	dolar|konstan|2016|jenis|kelamin|laki|laki|yang|berpenghasilan|utama	dolar|konstan|2016|jenis|kelamin|laki|laki|yang|berpenghasilan|utama	JJ|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|O|O	||2016|||||||	2016.0				
+2	1	fb:cell_1999.380500_0	380500.0	380500.0	380500.0	CD	NUMBER	380500.0	380500.0				
+2	2	fb:cell_2016.608500_0	608500.0	608500.0	608500.0	CD	NUMBER	608500.0	608500.0				
+2	3	fb:cell_mengubah.228000_0	228000.0	228000.0	228000.0	CD	NUMBER	228000.0	228000.0				
+3	0	fb:cell_kharakteristik.dolar_konstan_2016_jenis_kelamin_perempuan_yang_berpenghasilan_besar	Dolar konstan 2016 jenis kelamin perempuan yang berpenghasilan besar	dolar|konstan|2016|jenis|kelamin|perempuan|yang|berpenghasilan|besar	dolar|konstan|2016|jenis|kelamin|perempuan|yang|berpenghasilan|besar	JJ|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|O	||2016||||||	2016.0				
+3	1	fb:cell_1999.166300_0	166300.0	166300.0	166300.0	CD	NUMBER	166300.0	166300.0				
+3	2	fb:cell_2016.435300_0	435300.0	435300.0	435300.0	CD	NUMBER	435300.0	435300.0				
+3	3	fb:cell_mengubah.269000_0	269000.0	269000.0	269000.0	CD	NUMBER	269000.0	269000.0				
+4	0	fb:cell_kharakteristik.dolar_konstan_tahun_2016_merupakan_usia_penghasil_pendapatan_utama	Dolar konstan tahun 2016 merupakan usia penghasil pendapatan utama	dolar|konstan|tahun|2016|merupakan|usia|penghasil|pendapatan|utama	dolar|konstan|tahun|2016|merupakan|usia|penghasil|pendapatan|utama	JJ|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+4	1	fb:cell_1999.null											
+4	2	fb:cell_2016.null											
+4	3	fb:cell_mengubah.null											
+5	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_penghasilan_utama_65_hingga_69	Dolar konstan 2016 Usia penerima penghasilan utama 65 hingga 69	dolar|konstan|2016|usia|penerima|penghasilan|utama|65|hingga|69	dolar|konstan|2016|Usia|penerima|penghasilan|utama|65|hingga|69	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|DATE|O|O|O|O|NUMBER|O|NUMBER	||2016|||||65.0||69.0	2016.0		65.0		
+5	1	fb:cell_1999.374000_0	374000.0	374000.0	374000.0	CD	NUMBER	374000.0	374000.0				
+5	2	fb:cell_2016.608500_0	608500.0	608500.0	608500.0	CD	NUMBER	608500.0	608500.0				
+5	3	fb:cell_mengubah.234500_0	234500.0	234500.0	234500.0	CD	NUMBER	234500.0	234500.0				
+6	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_pendapatan_utama_70_hingga_74	Dolar konstan 2016 Usia penerima pendapatan utama 70 hingga 74	dolar|konstan|2016|usia|penerima|pendapatan|utama|70|hingga|74	dolar|konstan|2016|Usia|penerima|pendapatan|utama|70|hingga|74	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|DATE|O|O|O|O|NUMBER|O|NUMBER	||2016|||||70.0||74.0	2016.0		70.0		
+6	1	fb:cell_1999.273700_0	273700.0	273700.0	273700.0	CD	NUMBER	273700.0	273700.0				
+6	2	fb:cell_2016.543600_0	543600.0	543600.0	543600.0	CD	NUMBER	543600.0	543600.0				
+6	3	fb:cell_mengubah.269900_0	269900.0	269900.0	269900.0	CD	NUMBER	269900.0	269900.0				
+7	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_penghasilan_utama_75_hingga_79	Dolar konstan 2016 Usia penerima penghasilan utama 75 hingga 79	dolar|konstan|2016|usia|penerima|penghasilan|utama|75|hingga|79	dolar|konstan|2016|Usia|penerima|penghasilan|utama|75|hingga|79	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|DATE|O|O|O|O|NUMBER|O|NUMBER	||2016|||||75.0||79.0	2016.0		75.0		
+7	1	fb:cell_1999.233300_0	233300.0	233300.0	233300.0	CD	NUMBER	233300.0	233300.0				
+7	2	fb:cell_2016.532800_0	532800.0	532800.0	532800.0	CD	NUMBER	532800.0	532800.0				
+7	3	fb:cell_mengubah.299500_0	299500.0	299500.0	299500.0	CD	NUMBER	299500.0	299500.0				
+8	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_penghasilan_utama_80_tahun_ke_atas	Dolar Konstan 2016 Usia penerima penghasilan utama 80 tahun ke atas	dolar|konstan|2016|usia|penerima|penghasilan|utama|80|tahun|ke|atas	dolar|Konstan|2016|Usia|penerima|penghasilan|utama|80|tahun|ke|atas	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|DATE|O|O|O|O|NUMBER|O|O|O	||2016|||||80.0|||	2016.0		80.0		
+8	1	fb:cell_1999.213300_0	213300.0	213300.0	213300.0	CD	NUMBER	213300.0	213300.0				
+8	2	fb:cell_2016.374100_0	374100.0	374100.0	374100.0	CD	NUMBER	374100.0	374100.0				
+8	3	fb:cell_mengubah.160800_0	160800.0	160800.0	160800.0	CD	NUMBER	160800.0	160800.0				
+9	0	fb:cell_kharakteristik.dolar_konstan_2016_tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama	Dolar konstan 2016 tingkat pendidikan tertinggi bagi pencari nafkah utama	dolar|konstan|2016|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama	dolar|konstan|2016|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama	JJ|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|O|O	||2016|||||||	2016.0				
+9	1	fb:cell_1999.null											
+9	2	fb:cell_2016.null											
+9	3	fb:cell_mengubah.null											
+10	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_bagi_mereka_yang_berpenghasilan_utama_kurang_dari_sekolah_menengah_atas	2016 dolar konstan tingkat pendidikan tertinggi bagi mereka yang berpenghasilan utama kurang dari sekolah menengah atas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	2016|||||||||||||||	2016.0				
+10	1	fb:cell_1999.208600_0	208600.0	208600.0	208600.0	CD	NUMBER	208600.0	208600.0				
+10	2	fb:cell_2016.261600_0	261600.0	261600.0	261600.0	CD	NUMBER	261600.0	261600.0				
+10	3	fb:cell_mengubah.53000_0	53000.0	53000.0	53000.0	CD	NUMBER	53000.0	53000.0				
+11	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_dari_ijazah_sekolah_menengah_atas_yang_berpenghasilan_utama	2016 dolar konstan tingkat pendidikan tertinggi dari ijazah sekolah menengah atas yang berpenghasilan utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|ijazah|sekolah|menengah|atas|yang|berpenghasilan|utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|ijazah|sekolah|menengah|atas|yang|berpenghasilan|utama	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O	2016|||||||||||||	2016.0				
+11	1	fb:cell_1999.305000_0	305000.0	305000.0	305000.0	CD	NUMBER	305000.0	305000.0				
+11	2	fb:cell_2016.418000_0	418000.0	418000.0	418000.0	CD	NUMBER	418000.0	418000.0				
+11	3	fb:cell_mengubah.113000_0	113000.0	113000.0	113000.0	CD	NUMBER	113000.0	113000.0				
+12	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama_sertifikat_atau_diploma_pasca_sekolah_menengah_non_universitas	2016 dolar konstan tingkat pendidikan tertinggi bagi pencari nafkah utama, sertifikat atau diploma pasca sekolah menengah non-universitas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama|,|sertifikat|atau|diploma|pasca|sekolah|menengah|non|universitas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama|,|sertifikat|atau|diploma|pasca|sekolah|menengah|non|universita	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NN|NNP|NNP|NNP|JJ|NNS	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	2016||||||||||||||||||	2016.0			2016 dolar konstan tingkat pendidikan tertinggi bagi pencari nafkah utama|sertifikat atau diploma pasca sekolah menengah non-universitas	fb:part_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama|fb:part_kharakteristik.sertifikat_atau_diploma_pasca_sekolah_menengah_non_universitas
+12	1	fb:cell_1999.337900_0	337900.0	337900.0	337900.0	CD	NUMBER	337900.0	337900.0				
+12	2	fb:cell_2016.568600_0	568600.0	568600.0	568600.0	CD	NUMBER	568600.0	568600.0				
+12	3	fb:cell_mengubah.230700_0	230700.0	230700.0	230700.0	CD	NUMBER	230700.0	230700.0				
+13	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_dari_gelar_atau_sertifikat_universitas_yang_menghasilkan_pendapatan_utama	2016 dolar konstan tingkat pendidikan tertinggi dari gelar atau sertifikat universitas yang menghasilkan pendapatan utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|gelar|atau|sertifikat|universitas|yang|menghasilkan|pendapatan|utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|gelar|atau|sertifikat|universitas|yang|menghasilkan|pendapatan|utama	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O	2016||||||||||||||	2016.0				
+13	1	fb:cell_1999.739000_0	739000.0	739000.0	739000.0	CD	NUMBER	739000.0	739000.0				
+13	2	fb:cell_2016.1080800_0	1080800.0	1080800.0	1080800.0	CD	NUMBER	1080800.0	1080800.0				
+13	3	fb:cell_mengubah.341800_0	341800.0	341800.0	341800.0	CD	NUMBER	341800.0	341800.0				
+14	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016	Struktur keluarga dolar konstan 2016	struktur|keluarga|dolar|konstan|2016	struktur|keluarga|dolar|konstan|2016	NN|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2016	2016.0				
+14	1	fb:cell_1999.null											
+14	2	fb:cell_2016.null											
+14	3	fb:cell_mengubah.null											
+15	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_individu_yang_tidak_terikat	Struktur keluarga dolar konstan 2016 individu yang tidak terikat	struktur|keluarga|dolar|konstan|2016|individu|yang|tidak|terikat	struktur|keluarga|dolar|konstan|2016|individu|yang|tidak|terikat	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O	||||2016||||	2016.0				
+15	1	fb:cell_1999.157000_0	157000.0	157000.0	157000.0	CD	NUMBER	157000.0	157000.0				
+15	2	fb:cell_2016.261600_0	261600.0	261600.0	261600.0	CD	NUMBER	261600.0	261600.0				
+15	3	fb:cell_mengubah.104600_0	104600.0	104600.0	104600.0	CD	NUMBER	104600.0	104600.0				
+16	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_laki_laki	Struktur keluarga dolar konstan 2016 laki-laki	struktur|keluarga|dolar|konstan|2016|laki|laki	struktur|keluarga|dolar|konstan|2016|laki|laki	NN|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|DATE|PERSON|PERSON	||||2016||	2016.0				
+16	1	fb:cell_1999.226700_0	226700.0	226700.0	226700.0	CD	NUMBER	226700.0	226700.0				
+16	2	fb:cell_2016.264200_0	264200.0	264200.0	264200.0	CD	NUMBER	264200.0	264200.0				
+16	3	fb:cell_mengubah.37500_0	37500.0	37500.0	37500.0	CD	NUMBER	37500.0	37500.0				
+17	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_perempuan	Struktur keluarga dolar konstan 2016 perempuan	struktur|keluarga|dolar|konstan|2016|perempuan	struktur|keluarga|dolar|konstan|2016|perempuan	NN|NNP|NNP|NNP|CD|NNP	O|O|O|O|DATE|O	||||2016|	2016.0				
+17	1	fb:cell_1999.137100_0	137100.0	137100.0	137100.0	CD	NUMBER	137100.0	137100.0				
+17	2	fb:cell_2016.259900_0	259900.0	259900.0	259900.0	CD	NUMBER	259900.0	259900.0				
+17	3	fb:cell_mengubah.122800_0	122800.0	122800.0	122800.0	CD	NUMBER	122800.0	122800.0				
+18	0	fb:cell_kharakteristik.pasangan_struktur_keluarga_dolar_konstan_2016_tanpa_anak	Pasangan struktur keluarga dolar konstan 2016, tanpa anak	pasangan|struktur|keluarga|dolar|konstan|2016|,|tanpa|anak	pasangan|struktur|keluarga|dolar|konstan|2016|,|tanpa|anak	NN|NN|NNP|NNP|NNP|CD|,|NNP|NNP	O|O|O|O|O|DATE|O|O|O	|||||2016|||	2016.0			Pasangan struktur keluarga dolar konstan 2016|tanpa anak	fb:part_kharakteristik.pasangan_struktur_keluarga_dolar_konstan_2016|fb:part_kharakteristik.tanpa_anak
+18	1	fb:cell_1999.406600_0	406600.0	406600.0	406600.0	CD	NUMBER	406600.0	406600.0				
+18	2	fb:cell_2016.730000_0	730000.0	730000.0	730000.0	CD	NUMBER	730000.0	730000.0				
+18	3	fb:cell_mengubah.323400_0	323400.0	323400.0	323400.0	CD	NUMBER	323400.0	323400.0				
+19	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_tipe_keluarga_lainnya	Struktur keluarga dolar konstan 2016 tipe keluarga lainnya	struktur|keluarga|dolar|konstan|2016|tipe|keluarga|lainnya	struktur|keluarga|dolar|konstan|2016|tipe|keluarga|lainnya	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O	||||2016|||	2016.0				
+19	1	fb:cell_1999.326200_0	326200.0	326200.0	326200.0	CD	NUMBER	326200.0	326200.0				
+19	2	fb:cell_2016.736800_0	736800.0	736800.0	736800.0	CD	NUMBER	736800.0	736800.0				
+19	3	fb:cell_mengubah.410600_0	410600.0	410600.0	410600.0	CD	NUMBER	410600.0	410600.0				
+20	0	fb:cell_kharakteristik.status_imigran_dolar_konstan_tahun_2016_sebagai_pencari_nafkah_utama	Status imigran dolar konstan tahun 2016 sebagai pencari nafkah utama	status|imigran|dolar|konstan|tahun|2016|sebagai|pencari|nafkah|utama	status|imigran|dolar|konstan|tahun|2016|sebagai|pencari|nafkah|utama	NN|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+20	1	fb:cell_1999.null											
+20	2	fb:cell_2016.null											
+20	3	fb:cell_mengubah.null											
+21	0	fb:cell_kharakteristik.status_imigran_dolar_konstan_2016_dari_imigran_berpenghasilan_utama	Status imigran dolar konstan 2016 dari imigran berpenghasilan utama	status|imigran|dolar|konstan|2016|dari|imigran|berpenghasilan|utama	status|imigran|dolar|konstan|2016|dari|imigran|berpenghasilan|utama	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O	||||2016||||	2016.0				
+21	1	fb:cell_1999.307800_0	307800.0	307800.0	307800.0	CD	NUMBER	307800.0	307800.0				
+21	2	fb:cell_2016.730000_0	730000.0	730000.0	730000.0	CD	NUMBER	730000.0	730000.0				
+21	3	fb:cell_mengubah.422200_0	422200.0	422200.0	422200.0	CD	NUMBER	422200.0	422200.0				
+22	0	fb:cell_kharakteristik.status_imigran_dolar_konstan_2016_dari_pencari_nafkah_utama_kelahiran_kanada	Status imigran dolar konstan 2016 dari pencari nafkah utama kelahiran Kanada	status|imigran|dolar|konstan|2016|dari|pencari|nafkah|utama|kelahiran|kanada	status|imigran|dolar|konstan|2016|dari|pencari|nafkah|utama|kelahiran|Kanada	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O|O|O	||||2016||||||	2016.0				
+22	1	fb:cell_1999.298900_0	298900.0	298900.0	298900.0	CD	NUMBER	298900.0	298900.0				
+22	2	fb:cell_2016.509800_0	509800.0	509800.0	509800.0	CD	NUMBER	509800.0	509800.0				
+22	3	fb:cell_mengubah.210900_0	210900.0	210900.0	210900.0	CD	NUMBER	210900.0	210900.0				
+23	0	fb:cell_kharakteristik.status_kepemilikan_rumah_dolar_konstan_2016	Status kepemilikan rumah dolar konstan 2016	status|kepemilikan|rumah|dolar|konstan|2016	status|kepemilikan|rumah|dolar|konstan|2016	NN|NN|NN|NN|NNP|CD	O|O|O|O|O|DATE	|||||2016	2016.0				
+23	1	fb:cell_1999.null											
+23	2	fb:cell_2016.null											
+23	3	fb:cell_mengubah.null											
+24	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dolar_konstan_2016_dengan_hipotek	Pemilik status kepemilikan rumah dolar konstan 2016 dengan hipotek	pemilik|status|kepemilikan|rumah|dolar|konstan|2016|dengan|hipotek	Pemilik|status|kepemilikan|rumah|dolar|konstan|2016|dengan|hipotek	NNP|FW|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2016||	2016.0				
+24	1	fb:cell_1999.334100_0	334100.0	334100.0	334100.0	CD	NUMBER	334100.0	334100.0				
+24	2	fb:cell_2016.596000_0	596000.0	596000.0	596000.0	CD	NUMBER	596000.0	596000.0				
+24	3	fb:cell_mengubah.261900_0	261900.0	261900.0	261900.0	CD	NUMBER	261900.0	261900.0				
+25	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dolar_konstan_2016_tanpa_hipotek	Pemilik status kepemilikan rumah dolar konstan 2016 tanpa hipotek	pemilik|status|kepemilikan|rumah|dolar|konstan|2016|tanpa|hipotek	Pemilik|status|kepemilikan|rumah|dolar|konstan|2016|tanpa|hipotek	NNP|FW|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2016||	2016.0				
+25	1	fb:cell_1999.414000_0	414000.0	414000.0	414000.0	CD	NUMBER	414000.0	414000.0				
+25	2	fb:cell_2016.817800_0	817800.0	817800.0	817800.0	CD	NUMBER	817800.0	817800.0				
+25	3	fb:cell_mengubah.403800_0	403800.0	403800.0	403800.0	CD	NUMBER	403800.0	403800.0				
+26	0	fb:cell_kharakteristik.status_kepemilikan_rumah_dolar_konstan_2016_bukan_pemilik	Status kepemilikan rumah dolar konstan 2016 bukan pemilik	status|kepemilikan|rumah|dolar|konstan|2016|bukan|pemilik	status|kepemilikan|rumah|dolar|konstan|2016|bukan|pemilik	NN|NN|NN|NN|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+26	1	fb:cell_1999.53100_0	53100.0	53100.0	53100.0	CD	NUMBER	53100.0	53100.0				
+26	2	fb:cell_2016.66200_0	66200.0	66200.0	66200.0	CD	NUMBER	66200.0	66200.0				
+26	3	fb:cell_mengubah.13100_0	13100.0	13100.0	13100.0	CD	NUMBER	13100.0	13100.0				
+27	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_sebagai_pencari_nafkah_utama	Status angkatan kerja dolar konstan 2016 sebagai pencari nafkah utama	status|angkatan|kerja|dolar|konstan|2016|sebagai|pencari|nafkah|utama	status|angkatan|kerja|dolar|konstan|2016|sebagai|pencari|nafkah|utama	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+27	1	fb:cell_1999.null											
+27	2	fb:cell_2016.null											
+27	3	fb:cell_mengubah.null											
+28	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_dari_karyawan_berpenghasilan_utama	Status angkatan kerja dolar konstan 2016 dari karyawan berpenghasilan utama	status|angkatan|kerja|dolar|konstan|2016|dari|karyawan|berpenghasilan|utama	status|angkatan|kerja|dolar|konstan|2016|dari|karyawan|berpenghasilan|utama	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+28	1	fb:cell_1999.451600_0	451600.0	451600.0	451600.0	CD	NUMBER	451600.0	451600.0				
+28	2	fb:cell_2016.577000_0	577000.0	577000.0	577000.0	CD	NUMBER	577000.0	577000.0				
+28	3	fb:cell_mengubah.125400_0	125400.0	125400.0	125400.0	CD	NUMBER	125400.0	125400.0				
+29	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_dari_pencari_nafkah_utama_wiraswasta	Status angkatan kerja dolar konstan 2016 dari pencari nafkah utama wiraswasta	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|wiraswasta	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|wiraswasta	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O|O	|||||2016|||||	2016.0				
+29	1	fb:cell_1999.541100_0	541100.0	541100.0	541100.0	CD	NUMBER	541100.0	541100.0				
+29	2	fb:cell_2016.909500_0	909500.0	909500.0	909500.0	CD	NUMBER	909500.0	909500.0				
+29	3	fb:cell_mengubah.368400_0	368400.0	368400.0	368400.0	CD	NUMBER	368400.0	368400.0				
+30	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_dari_pencari_nafkah_utama_yang_bukan_angkatan_kerja	Status angkatan kerja dolar konstan 2016 dari pencari nafkah utama yang bukan angkatan kerja	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|yang|bukan|angkatan|kerja	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|yang|bukan|angkatan|kerja	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O|O|O|O|O	|||||2016||||||||	2016.0				
+30	1	fb:cell_1999.276400_0	276400.0	276400.0	276400.0	CD	NUMBER	276400.0	276400.0				
+30	2	fb:cell_2016.509800_0	509800.0	509800.0	509800.0	CD	NUMBER	509800.0	509800.0				
+30	3	fb:cell_mengubah.233400_0	233400.0	233400.0	233400.0	CD	NUMBER	233400.0	233400.0				
+31	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016	Kuintil pendapatan keluarga dolar konstan 2016	kuintil|pendapatan|keluarga|dolar|konstan|2016	Kuintil|pendapatan|keluarga|dolar|konstan|2016	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2016	2016.0				
+31	1	fb:cell_1999.null											
+31	2	fb:cell_2016.null											
+31	3	fb:cell_mengubah.null											
+32	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_terbawah	Kuintil pendapatan keluarga dolar konstan 2016 kuintil terbawah	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|terbawah	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|terbawah	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+32	1	fb:cell_1999.62900_0	62900.0	62900.0	62900.0	CD	NUMBER	62900.0	62900.0				
+32	2	fb:cell_2016.68900_0	68900.0	68900.0	68900.0	CD	NUMBER	68900.0	68900.0				
+32	3	fb:cell_mengubah.6000_0	6000.0	6000.0	6000.0	CD	NUMBER	6000.0	6000.0				
+33	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_kedua	Kuintil pendapatan keluarga dolar konstan 2016 kuintil kedua	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|kedua	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|kedua	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+33	1	fb:cell_1999.127200_0	127200.0	127200.0	127200.0	CD	NUMBER	127200.0	127200.0				
+33	2	fb:cell_2016.278100_0	278100.0	278100.0	278100.0	CD	NUMBER	278100.0	278100.0				
+33	3	fb:cell_mengubah.150900_0	150900.0	150900.0	150900.0	CD	NUMBER	150900.0	150900.0				
+34	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_menengah	Kuintil pendapatan keluarga dolar konstan 2016 kuintil menengah	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|menengah	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|menengah	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+34	1	fb:cell_1999.311000_0	311000.0	311000.0	311000.0	CD	NUMBER	311000.0	311000.0				
+34	2	fb:cell_2016.571400_0	571400.0	571400.0	571400.0	CD	NUMBER	571400.0	571400.0				
+34	3	fb:cell_mengubah.260400_0	260400.0	260400.0	260400.0	CD	NUMBER	260400.0	260400.0				
+35	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_keempat	Kuintil pendapatan keluarga dolar konstan 2016 kuintil keempat	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|keempat	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|keempat	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+35	1	fb:cell_1999.451600_0	451600.0	451600.0	451600.0	CD	NUMBER	451600.0	451600.0				
+35	2	fb:cell_2016.897600_0	897600.0	897600.0	897600.0	CD	NUMBER	897600.0	897600.0				
+35	3	fb:cell_mengubah.446000_0	446000.0	446000.0	446000.0	CD	NUMBER	446000.0	446000.0				
+36	0	fb:cell_kharakteristik.kuintil_teratas_pendapatan_keluarga_dolar_konstan_tahun_2016	Kuintil teratas pendapatan keluarga dolar konstan tahun 2016	kuintil|teratas|pendapatan|keluarga|dolar|konstan|tahun|2016	Kuintil|teratas|pendapatan|keluarga|dolar|konstan|tahun|2016	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||2016	2016.0				
+36	1	fb:cell_1999.737900_0	737900.0	737900.0	737900.0	CD	NUMBER	737900.0	737900.0				
+36	2	fb:cell_2016.1399600_0	1399600.0	1399600.0	1399600.0	CD	NUMBER	1399600.0	1399600.0				
+36	3	fb:cell_mengubah.661700_0	661700.0	661700.0	661700.0	CD	NUMBER	661700.0	661700.0				
+37	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_dolar_konstan_2016	Provinsi atau wilayah tempat tinggal dolar konstan 2016	provinsi|atau|wilayah|tempat|tinggal|dolar|konstan|2016	Provinsi|atau|wilayah|tempat|tinggal|dolar|konstan|2016	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||2016	2016.0				
+37	1	fb:cell_1999.null											
+37	2	fb:cell_2016.null											
+37	3	fb:cell_mengubah.null											
+38	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_atlantik	Provinsi dolar konstan 2016 atau wilayah tempat tinggal Atlantik	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|atlantik	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|Atlantik	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+38	1	fb:cell_1999.174600_0	174600.0	174600.0	174600.0	CD	NUMBER	174600.0	174600.0				
+38	2	fb:cell_2016.351600_0	351600.0	351600.0	351600.0	CD	NUMBER	351600.0	351600.0				
+38	3	fb:cell_mengubah.177000_0	177000.0	177000.0	177000.0	CD	NUMBER	177000.0	177000.0				
+39	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_quebec	Provinsi dolar konstan 2016 atau wilayah tempat tinggal quebec	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|quebec	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|quebec	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+39	1	fb:cell_1999.249000_0	249000.0	249000.0	249000.0	CD	NUMBER	249000.0	249000.0				
+39	2	fb:cell_2016.354600_0	354600.0	354600.0	354600.0	CD	NUMBER	354600.0	354600.0				
+39	3	fb:cell_mengubah.105600_0	105600.0	105600.0	105600.0	CD	NUMBER	105600.0	105600.0				
+40	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_ontario	Provinsi dolar konstan 2016 atau wilayah tempat tinggal ontario	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|ontario	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|ontario	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+40	1	fb:cell_1999.395300_0	395300.0	395300.0	395300.0	CD	NUMBER	395300.0	395300.0				
+40	2	fb:cell_2016.691500_0	691500.0	691500.0	691500.0	CD	NUMBER	691500.0	691500.0				
+40	3	fb:cell_mengubah.296200_0	296200.0	296200.0	296200.0	CD	NUMBER	296200.0	296200.0				
+41	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_manitoba	Provinsi dolar konstan 2016 atau wilayah tempat tinggal manitoba	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|manitoba	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|manitoba	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+41	1	fb:cell_1999.254600_0	254600.0	254600.0	254600.0	CD	NUMBER	254600.0	254600.0				
+41	2	fb:cell_2016.559200_0	559200.0	559200.0	559200.0	CD	NUMBER	559200.0	559200.0				
+41	3	fb:cell_mengubah.304600_0	304600.0	304600.0	304600.0	CD	NUMBER	304600.0	304600.0				
+42	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_saskatchewan	Provinsi dolar konstan 2016 atau wilayah tempat tinggal saskatchewan	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|saskatchewan	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|saskatchewan	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+42	1	fb:cell_1999.341600_0	341600.0	341600.0	341600.0	CD	NUMBER	341600.0	341600.0				
+42	2	fb:cell_2016.619800_0	619800.0	619800.0	619800.0	CD	NUMBER	619800.0	619800.0				
+42	3	fb:cell_mengubah.278200_0	278200.0	278200.0	278200.0	CD	NUMBER	278200.0	278200.0				
+43	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_alberta	Provinsi dolar konstan 2016 atau wilayah tempat tinggal alberta	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|alberta	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|alberta	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+43	1	fb:cell_1999.311000_0	311000.0	311000.0	311000.0	CD	NUMBER	311000.0	311000.0				
+43	2	fb:cell_2016.577000_0	577000.0	577000.0	577000.0	CD	NUMBER	577000.0	577000.0				
+43	3	fb:cell_mengubah.266000_0	266000.0	266000.0	266000.0	CD	NUMBER	266000.0	266000.0				
+44	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_british_columbia	Provinsi dolar konstan 2016 atau wilayah tempat tinggal British Columbia	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|british|columbia	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|British|Columbia	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|MISC|O	|||2016||||||	2016.0				
+44	1	fb:cell_1999.340300_0	340300.0	340300.0	340300.0	CD	NUMBER	340300.0	340300.0				
+44	2	fb:cell_2016.733400_0	733400.0	733400.0	733400.0	CD	NUMBER	733400.0	733400.0				
+44	3	fb:cell_mengubah.393100_0	393100.0	393100.0	393100.0	CD	NUMBER	393100.0	393100.0				

@@ -1,0 +1,64 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.lengan_layar_crmm_lc	lengan layar crmm-lc	lengan|layar|crmm|lc	lengan|layar|crmm|lc	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.lengan_layar_pertama	lengan layar pertama	lengan|layar|pertama	lengan|layar|pertama	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.lengan_kendali_crmm_lc	lengan kendali crmm-lc	lengan|kendali|crmm|lc	lengan|kendali|crmm|lc	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.lengan_kendali_pertama	lengan kendali pertama	lengan|kendali|pertama	lengan|kendali|pertama	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.pengurangan_angka_kematian_crmm_lc	pengurangan angka kematian crmm-lc	pengurangan|angka|kematian|crmm|lc	pengurangan|angka|kematian|crmm|lc	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	6	fb:row.row.pengurangan_angka_kematian_pertama	pengurangan angka kematian pertama	pengurangan|angka|kematian|pertama	pengurangan|angka|kematian|pertama	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	1	fb:cell_lengan_layar_crmm_lc.35	35	35	35	CD	NUMBER	35.0	35.0				
+0	2	fb:cell_lengan_layar_pertama.31	31	31	31	CD	NUMBER	31.0	31.0				
+0	3	fb:cell_lengan_kendali_crmm_lc.41	41	41	41	CD	NUMBER	41.0	41.0				
+0	4	fb:cell_lengan_kendali_pertama.38	38	38	38	CD	NUMBER	38.0	38.0				
+0	5	fb:cell_pengurangan_angka_kematian_crmm_lc._14	-14	-14	-14	CD	NUMBER	-14.0	14.0				
+0	6	fb:cell_pengurangan_angka_kematian_pertama._18	-18	-18	-18	CD	NUMBER	-18.0	18.0				
+1	0	fb:cell_kharakteristik.2	2	2	2	CD	NUMBER	2.0	2.0				
+1	1	fb:cell_lengan_layar_crmm_lc.103	103	103	103	CD	NUMBER	103.0	103.0				
+1	2	fb:cell_lengan_layar_pertama.88	88	88	88	CD	NUMBER	88.0	88.0				
+1	3	fb:cell_lengan_kendali_crmm_lc.127	127	127	127	CD	NUMBER	127.0	127.0				
+1	4	fb:cell_lengan_kendali_pertama.108	108	108	108	CD	NUMBER	108.0	108.0				
+1	5	fb:cell_pengurangan_angka_kematian_crmm_lc._19	-19	-19	-19	CD	NUMBER	-19.0	19.0				
+1	6	fb:cell_pengurangan_angka_kematian_pertama._19	-19	-19	-19	CD	NUMBER	-19.0	19.0				
+2	0	fb:cell_kharakteristik.3	3	3	3	CD	NUMBER	3.0	3.0				
+2	1	fb:cell_lengan_layar_crmm_lc.175	175	175	175	CD	NUMBER	175.0	175.0				
+2	2	fb:cell_lengan_layar_pertama.155	155	155	155	CD	NUMBER	155.0	155.0				
+2	3	fb:cell_lengan_kendali_crmm_lc.226	226	226	226	CD	NUMBER	226.0	226.0				
+2	4	fb:cell_lengan_kendali_pertama.191	191	191	191	CD	NUMBER	191.0	191.0				
+2	5	fb:cell_pengurangan_angka_kematian_crmm_lc._22	-22	-22	-22	CD	NUMBER	-22.0	22.0				
+2	6	fb:cell_pengurangan_angka_kematian_pertama._19	-19	-19	-19	CD	NUMBER	-19.0	19.0				
+3	0	fb:cell_kharakteristik.4	4	4	4	CD	NUMBER	4.0	4.0				
+3	1	fb:cell_lengan_layar_crmm_lc.255	255	255	255	CD	NUMBER	255.0	255.0				
+3	2	fb:cell_lengan_layar_pertama.239	239	239	239	CD	NUMBER	239.0	239.0				
+3	3	fb:cell_lengan_kendali_crmm_lc.332	332	332	332	CD	NUMBER	332.0	332.0				
+3	4	fb:cell_lengan_kendali_pertama.284	284	284	284	CD	NUMBER	284.0	284.0				
+3	5	fb:cell_pengurangan_angka_kematian_crmm_lc._23	-23	-23	-23	CD	NUMBER	-23.0	23.0				
+3	6	fb:cell_pengurangan_angka_kematian_pertama._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+4	0	fb:cell_kharakteristik.5	5	5	5	CD	NUMBER	5.0	5.0				
+4	1	fb:cell_lengan_layar_crmm_lc.355	355	355	355	CD	NUMBER	355.0	355.0				
+4	2	fb:cell_lengan_layar_pertama.312	312	312	312	CD	NUMBER	312.0	312.0				
+4	3	fb:cell_lengan_kendali_crmm_lc.449	449	449	449	CD	NUMBER	449.0	449.0				
+4	4	fb:cell_lengan_kendali_pertama.371	371	371	371	CD	NUMBER	371.0	371.0				
+4	5	fb:cell_pengurangan_angka_kematian_crmm_lc._21	-21	-21	-21	CD	NUMBER	-21.0	21.0				
+4	6	fb:cell_pengurangan_angka_kematian_pertama._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+5	0	fb:cell_kharakteristik.6	6	6	6	CD	NUMBER	6.0	6.0				
+5	1	fb:cell_lengan_layar_crmm_lc.469	469	469	469	CD	NUMBER	469.0	469.0				
+5	2	fb:cell_lengan_layar_pertama.397	397	397	397	CD	NUMBER	397.0	397.0				
+5	3	fb:cell_lengan_kendali_crmm_lc.572	572	572	572	CD	NUMBER	572.0	572.0				
+5	4	fb:cell_lengan_kendali_pertama.487	487	487	487	CD	NUMBER	487.0	487.0				
+5	5	fb:cell_pengurangan_angka_kematian_crmm_lc._18	-18	-18	-18	CD	NUMBER	-18.0	18.0				
+5	6	fb:cell_pengurangan_angka_kematian_pertama._18	-18	-18	-18	CD	NUMBER	-18.0	18.0				
+6	0	fb:cell_kharakteristik.7	7	7	7	CD	NUMBER	7.0	7.0				
+6	1	fb:cell_lengan_layar_crmm_lc.601	601	601	601	CD	NUMBER	601.0	601.0				
+6	2	fb:cell_lengan_layar_pertama.467	467	467	467	CD	NUMBER	467.0	467.0				
+6	3	fb:cell_lengan_kendali_crmm_lc.703	703	703	703	CD	NUMBER	703.0	703.0				
+6	4	fb:cell_lengan_kendali_pertama.552	552	552	552	CD	NUMBER	552.0	552.0				
+6	5	fb:cell_pengurangan_angka_kematian_crmm_lc._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+6	6	fb:cell_pengurangan_angka_kematian_pertama._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+7	0	fb:cell_kharakteristik.8	8	8	8	CD	NUMBER	8.0	8.0				
+7	1	fb:cell_lengan_layar_crmm_lc.737	737	737	737	CD	NUMBER	737.0	737.0				
+7	2	fb:cell_lengan_layar_pertama.469	469	469	469	CD	NUMBER	469.0	469.0				
+7	3	fb:cell_lengan_kendali_crmm_lc.834	834	834	834	CD	NUMBER	834.0	834.0				
+7	4	fb:cell_lengan_kendali_pertama.552	552	552	552	CD	NUMBER	552.0	552.0				
+7	5	fb:cell_pengurangan_angka_kematian_crmm_lc._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+7	6	fb:cell_pengurangan_angka_kematian_pertama._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				

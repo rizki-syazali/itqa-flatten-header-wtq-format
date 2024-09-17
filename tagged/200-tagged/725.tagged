@@ -1,0 +1,16 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.risiko_relatif_diterapkan_pada_kelangsungan_hidup_awal	risiko relatif diterapkan pada kelangsungan hidup awal	risiko|relatif|diterapkan|pada|kelangsungan|hidup|awal	risiko|relatif|diterapkan|pada|kelangsungan|hidup|awal	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	2	fb:row.row.skalar_redistribusi_waktu_tunggu	skalar redistribusi waktu tunggu	skalar|redistribusi|waktu|tunggu	skalar|redistribusi|waktu|tunggu	JJ|NN|NN|NN	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.saya	Saya	saya	Saya	NNP	O						
+0	1	fb:cell_risiko_relatif_diterapkan_pada_kelangsungan_hidup_awal.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+0	2	fb:cell_skalar_redistribusi_waktu_tunggu.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+1	0	fb:cell_kharakteristik.ii	ii	ii	ii	NNP	O						
+1	1	fb:cell_risiko_relatif_diterapkan_pada_kelangsungan_hidup_awal.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	2	fb:cell_skalar_redistribusi_waktu_tunggu.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+2	0	fb:cell_kharakteristik.aku_aku_aku	aku aku aku	aku|aku|aku	aku|aku|aku	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_risiko_relatif_diterapkan_pada_kelangsungan_hidup_awal.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	2	fb:cell_skalar_redistribusi_waktu_tunggu.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	0	fb:cell_kharakteristik.iv	iv	iv	iv	NNP	O						
+3	1	fb:cell_risiko_relatif_diterapkan_pada_kelangsungan_hidup_awal.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	2	fb:cell_skalar_redistribusi_waktu_tunggu.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				

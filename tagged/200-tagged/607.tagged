@@ -1,0 +1,118 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.laki_laki_kurang_dari_sekolah_menengah	laki-laki kurang dari sekolah menengah	laki|laki|kurang|dari|sekolah|menengah	laki|laki|kurang|dari|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O	|||||					
+-1	2	fb:row.row.laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah	laki-laki ijazah sekolah menengah atas/beberapa pasca sekolah menengah	laki|laki|ijazah|sekolah|menengah|atas/beberapa|pasca|sekolah|menengah	laki|laki|ijazah|sekolah|menengah|atas/beberapa|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O|O	||||||||					
+-1	3	fb:row.row.sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi	sertifikat perdagangan pria atau ijazah perguruan tinggi	sertifikat|perdagangan|pria|atau|ijazah|perguruan|tinggi	sertifikat|perdagangan|pria|atau|ijazah|perguruan|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.gelar_universitas_pria	gelar universitas pria	gelar|universitas|pria	gelar|universita|pria	JJ|NNS|NN	O|O|O	||					
+-1	5	fb:row.row.perempuan_kurang_dari_sekolah_menengah_atas	perempuan kurang dari sekolah menengah atas	perempuan|kurang|dari|sekolah|menengah|atas	perempuan|kurang|dari|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O	|||||					
+-1	6	fb:row.row.ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah	ijazah sekolah menengah atas wanita/beberapa pasca sekolah menengah	ijazah|sekolah|menengah|atas|wanita/beberapa|pasca|sekolah|menengah	ijazah|sekolah|menengah|atas|wanita/beberapa|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	7	fb:row.row.sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi	sertifikat perdagangan wanita atau ijazah perguruan tinggi	sertifikat|perdagangan|wanita|atau|ijazah|perguruan|tinggi	sertifikat|perdagangan|wanita|atau|ijazah|perguruan|tinggi	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	8	fb:row.row.gelar_universitas_wanita	gelar universitas wanita	gelar|universitas|wanita	gelar|universita|wanita	JJ|NNS|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.usia_rata_rata_tahun	usia rata-rata tahun	usia|rata|rata|tahun	usia|rata|rata|tahun	NNP|JJ|JJ|NNP	ORGANIZATION|O|O|O	|||					
+0	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.29_4	29.4	29.4	29.4	CD	NUMBER	29.4	29.4				
+0	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.29_3	29.3	29.3	29.3	CD	NUMBER	29.3	29.3				
+0	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.29_5	29.5	29.5	29.5	CD	NUMBER	29.5	29.5				
+0	4	fb:cell_gelar_universitas_pria.29_7	29.7	29.7	29.7	CD	NUMBER	29.7	29.7				
+0	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.29_4	29.4	29.4	29.4	CD	NUMBER	29.4	29.4				
+0	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.29_5	29.5	29.5	29.5	CD	NUMBER	29.5	29.5				
+0	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.29_5	29.5	29.5	29.5	CD	NUMBER	29.5	29.5				
+0	8	fb:cell_gelar_universitas_wanita.29_6	29.6	29.6	29.6	CD	NUMBER	29.6	29.6				
+1	0	fb:cell_kharakteristik.tahun_rata_rata_usia_pasangannya	tahun rata-rata usia pasangannya	tahun|rata|rata|usia|pasangannya	tahun|rata|rata|usia|pasangannya	NNP|JJ|JJ|NNP|NN	O|O|O|O|O	||||					
+1	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+1	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.29_2	29.2	29.2	29.2	CD	NUMBER	29.2	29.2				
+1	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.29_4	29.4	29.4	29.4	CD	NUMBER	29.4	29.4				
+1	4	fb:cell_gelar_universitas_pria.30_1	30.1	30.1	30.1	CD	NUMBER	30.1	30.1				
+1	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.34_1	34.1	34.1	34.1	CD	NUMBER	34.1	34.1				
+1	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.33_7	33.7	33.7	33.7	CD	NUMBER	33.7	33.7				
+1	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.32_9	32.9	32.9	32.9	CD	NUMBER	32.9	32.9				
+1	8	fb:cell_gelar_universitas_wanita.32_7	32.7	32.7	32.7	CD	NUMBER	32.7	32.7				
+2	0	fb:cell_kharakteristik.persen_status_perkawinan	persen status perkawinan	persen|status|perkawinan	persen|status|perkawinan	JJ|NN|NN	O|O|O	||					
+2	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.null											
+2	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.null											
+2	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.null											
+2	4	fb:cell_gelar_universitas_pria.null											
+2	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.null											
+2	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.null											
+2	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.null											
+2	8	fb:cell_gelar_universitas_wanita.null											
+3	0	fb:cell_kharakteristik.persen_status_perkawinan_menikah_ayah_mertua	persen status perkawinan menikah/ayah mertua	persen|status|perkawinan|menikah/ayah|mertua	persen|status|perkawinan|menikah/ayah|mertua	JJ|NN|NN|NN|NN	O|O|O|O|O	||||				persen status perkawinan menikah|ayah mertua	fb:part_kharakteristik.persen_status_perkawinan_menikah|fb:part_kharakteristik.ayah_mertua
+3	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.47_3	47.3	47.3	47.3	CD	NUMBER	47.3	47.3				
+3	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.43_6	43.6	43.6	43.6	CD	NUMBER	43.6	43.6				
+3	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.55_1	55.1	55.1	55.1	CD	NUMBER	55.1	55.1				
+3	4	fb:cell_gelar_universitas_pria.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+3	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.54_8	54.8	54.8	54.8	CD	NUMBER	54.8	54.8				
+3	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.58_6	58.6	58.6	58.6	CD	NUMBER	58.6	58.6				
+3	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+3	8	fb:cell_gelar_universitas_wanita.64_5	64.5	64.5	64.5	CD	NUMBER	64.5	64.5				
+4	0	fb:cell_kharakteristik.persen_status_perkawinan_orang_tua_tunggal_dengan_anak_ren	persen status perkawinan orang tua tunggal dengan anak(ren)	persen|status|perkawinan|orang|tua|tunggal|dengan|anak|-lrb-|ren|-rrb-	persen|status|perkawinan|orang|tua|tunggal|dengan|anak|-lrb-|ren|-rrb-	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+4	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+4	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+4	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+4	4	fb:cell_gelar_universitas_pria.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+4	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+4	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+4	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+4	8	fb:cell_gelar_universitas_wanita.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+5	0	fb:cell_kharakteristik.persen_status_perkawinan_lajang_tanpa_anak	persen status perkawinan lajang tanpa anak	persen|status|perkawinan|lajang|tanpa|anak	persen|status|perkawinan|lajang|tanpa|anak	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+5	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+5	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.55_5	55.5	55.5	55.5	CD	NUMBER	55.5	55.5				
+5	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+5	4	fb:cell_gelar_universitas_pria.45_4	45.4	45.4	45.4	CD	NUMBER	45.4	45.4				
+5	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.26_6	26.6	26.6	26.6	CD	NUMBER	26.6	26.6				
+5	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.31_8	31.8	31.8	31.8	CD	NUMBER	31.8	31.8				
+5	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.29_5	29.5	29.5	29.5	CD	NUMBER	29.5	29.5				
+5	8	fb:cell_gelar_universitas_wanita.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+6	0	fb:cell_kharakteristik.persen_usia_anak_bungsu	persen usia anak bungsu	persen|usia|anak|bungsu	persen|usia|anak|bungsu	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.null											
+6	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.null											
+6	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.null											
+6	4	fb:cell_gelar_universitas_pria.null											
+6	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.null											
+6	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.null											
+6	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.null											
+6	8	fb:cell_gelar_universitas_wanita.null											
+7	0	fb:cell_kharakteristik.persen_usia_anak_bungsu_di_bawah_5_tahun	persen usia anak bungsu di bawah 5 tahun	persen|usia|anak|bungsu|di|bawah|5|tahun	persen|usia|anak|bungsu|di|bawah|5|tahun	NNP|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O	||||||5.0|	5.0				
+7	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.23_4	23.4	23.4	23.4	CD	NUMBER	23.4	23.4				
+7	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.19_9	19.9	19.9	19.9	CD	NUMBER	19.9	19.9				
+7	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+7	4	fb:cell_gelar_universitas_pria.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+7	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.41_3	41.3	41.3	41.3	CD	NUMBER	41.3	41.3				
+7	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.31_6	31.6	31.6	31.6	CD	NUMBER	31.6	31.6				
+7	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.33_7	33.7	33.7	33.7	CD	NUMBER	33.7	33.7				
+7	8	fb:cell_gelar_universitas_wanita.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+8	0	fb:cell_kharakteristik.persen_usia_anak_bungsu_5_sampai_9_tahun	persen usia anak bungsu 5 sampai 9 tahun	persen|usia|anak|bungsu|5|sampai|9|tahun	persen|usia|anak|bungsu|5|sampai|9|tahun	NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||5.0||9.0|	5.0		9.0		
+8	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+8	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+8	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+8	4	fb:cell_gelar_universitas_pria.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+8	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				
+8	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+8	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+8	8	fb:cell_gelar_universitas_wanita.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+9	0	fb:cell_kharakteristik.persen_usia_anak_bungsu_10_tahun_ke_atas	persen usia anak bungsu 10 tahun ke atas	persen|usia|anak|bungsu|10|tahun|ke|atas	persen|usia|anak|bungsu|10|tahun|ke|atas	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|NUMBER|O|O|O	||||10.0|||	10.0				
+9	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+9	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+9	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+9	4	fb:cell_gelar_universitas_pria.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+9	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+9	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+9	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+9	8	fb:cell_gelar_universitas_wanita.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+10	0	fb:cell_kharakteristik.persen_usia_anak_bungsu_tidak_mempunyai_anak	persen usia anak bungsu tidak mempunyai anak	persen|usia|anak|bungsu|tidak|mempunyai|anak	persen|usia|anak|bungsu|tidak|mempunyai|anak	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+10	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.68_4	68.4	68.4	68.4	CD	NUMBER	68.4	68.4				
+10	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.75_5	75.5	75.5	75.5	CD	NUMBER	75.5	75.5				
+10	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.70_4	70.4	70.4	70.4	CD	NUMBER	70.4	70.4				
+10	4	fb:cell_gelar_universitas_pria.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+10	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.38_5	38.5	38.5	38.5	CD	NUMBER	38.5	38.5				
+10	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+10	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.53_8	53.8	53.8	53.8	CD	NUMBER	53.8	53.8				
+10	8	fb:cell_gelar_universitas_wanita.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+11	0	fb:cell_kharakteristik.persen_siswa	persen siswa	persen|siswa	persen|siswa	NNP|NNP	O|O	|					
+11	1	fb:cell_laki_laki_kurang_dari_sekolah_menengah.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+11	2	fb:cell_laki_laki_ijazah_sekolah_menengah_atas_beberapa_pasca_sekolah_menengah.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+11	3	fb:cell_sertifikat_perdagangan_pria_atau_ijazah_perguruan_tinggi.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+11	4	fb:cell_gelar_universitas_pria.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+11	5	fb:cell_perempuan_kurang_dari_sekolah_menengah_atas.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+11	6	fb:cell_ijazah_sekolah_menengah_atas_wanita_beberapa_pasca_sekolah_menengah.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+11	7	fb:cell_sertifikat_perdagangan_wanita_atau_ijazah_perguruan_tinggi.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+11	8	fb:cell_gelar_universitas_wanita.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				

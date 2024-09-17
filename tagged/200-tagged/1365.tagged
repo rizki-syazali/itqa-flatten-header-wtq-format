@@ -1,0 +1,139 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_2001	nomor 2001	nomor|2001	nomor|2001	NNP|CD	O|DATE	|2001					
+-1	2	fb:row.row.nomor_2016	nomor 2016	nomor|2016	nomor|2016	NNP|CD	O|DATE	|2016					
+-1	3	fb:row.row.nomor_2018	nomor 2018	nomor|2018	nomor|2018	NNP|CD	O|DATE	|2018					
+-1	4	fb:row.row.perubahan_dari_nomor_2001_ke_2016	perubahan dari nomor 2001 ke 2016	perubahan|dari|nomor|2001|ke|2016	perubahan|dari|nomor|2001|ke|2016	NNP|NNP|NNP|CD|NNP|CD	O|O|O|DATE|O|DATE	|||2001||2016					
+-1	5	fb:row.row.kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen	kontribusi terhadap perubahan dari tahun 2001 hingga 2016 persen	kontribusi|terhadap|perubahan|dari|tahun|2001|hingga|2016|persen	kontribusi|terhadap|perubahan|dari|tahun|2001|hingga|2016|persen	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP	O|O|O|O|O|DATE|O|DATE|O	|||||2001||2016|					
+0	0	fb:cell_kharakteristik.manufaktur	manufaktur	manufaktur	manufaktur	NN	O						
+0	1	fb:cell_nomor_2001.1977618_0	1977618.0	1977618.0	1977618.0	CD	NUMBER	1977618.0	1977618.0				
+0	2	fb:cell_nomor_2016.1482131_0	1482131.0	1482131.0	1482131.0	CD	NUMBER	1482131.0	1482131.0				
+0	3	fb:cell_nomor_2018.1552714_0	1552714.0	1552714.0	1552714.0	CD	NUMBER	1552714.0	1552714.0				
+0	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._495487_0	-495487.0	-495487.0	-495487.0	CD	NUMBER	-495487.0	495487.0				
+0	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.manufaktur_manufaktur_makanan	manufaktur manufaktur makanan	manufaktur|manufaktur|makanan	manufaktur|manufaktur|makanan	NN|NN|NN	O|O|O	||					
+1	1	fb:cell_nomor_2001.231063_0	231063.0	231063.0	231063.0	CD	NUMBER	231063.0	231063.0				
+1	2	fb:cell_nomor_2016.221653_0	221653.0	221653.0	221653.0	CD	NUMBER	221653.0	221653.0				
+1	3	fb:cell_nomor_2018.238085_0	238085.0	238085.0	238085.0	CD	NUMBER	238085.0	238085.0				
+1	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._9410_0	-9410.0	-9410.0	-9410.0	CD	NUMBER	-9410.0	9410.0				
+1	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+2	0	fb:cell_kharakteristik.manufaktur_minuman_dan_produk_tembakau	manufaktur minuman dan produk tembakau	manufaktur|minuman|dan|produk|tembakau	manufaktur|minuman|dan|produk|tembakau	NN|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_nomor_2001.34925_0	34925.0	34925.0	34925.0	CD	NUMBER	34925.0	34925.0				
+2	2	fb:cell_nomor_2016.37252_0	37252.0	37252.0	37252.0	CD	NUMBER	37252.0	37252.0				
+2	3	fb:cell_nomor_2018.43069_0	43069.0	43069.0	43069.0	CD	NUMBER	43069.0	43069.0				
+2	4	fb:cell_perubahan_dari_nomor_2001_ke_2016.2327_0	2327.0	2327.0	2327.0	CD	NUMBER	2327.0	2327.0				
+2	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+3	0	fb:cell_kharakteristik.manufaktur_pabrik_tekstil	manufaktur pabrik tekstil	manufaktur|pabrik|tekstil	manufaktur|pabrik|tekstil	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_nomor_2001.26122_0	26122.0	26122.0	26122.0	CD	NUMBER	26122.0	26122.0				
+3	2	fb:cell_nomor_2016.7621_0	7621.0	7621.0	7621.0	CD	NUMBER	7621.0	7621.0				
+3	3	fb:cell_nomor_2018.6985_0	6985.0	6985.0	6985.0	CD	NUMBER	6985.0	6985.0				
+3	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._18501_0	-18501.0	-18501.0	-18501.0	CD	NUMBER	-18501.0	18501.0				
+3	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+4	0	fb:cell_kharakteristik.pabrik_pembuatan_produk_tekstil	pabrik pembuatan produk tekstil	pabrik|pembuatan|produk|tekstil	pabrik|pembuatan|produk|tekstil	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_nomor_2001.19707_0	19707.0	19707.0	19707.0	CD	NUMBER	19707.0	19707.0				
+4	2	fb:cell_nomor_2016.9469_0	9469.0	9469.0	9469.0	CD	NUMBER	9469.0	9469.0				
+4	3	fb:cell_nomor_2018.9961_0	9961.0	9961.0	9961.0	CD	NUMBER	9961.0	9961.0				
+4	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._10238_0	-10238.0	-10238.0	-10238.0	CD	NUMBER	-10238.0	10238.0				
+4	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+5	0	fb:cell_kharakteristik.manufaktur_pakaian_manufaktur	manufaktur pakaian manufaktur	manufaktur|pakaian|manufaktur	manufaktur|pakaian|manufaktur	NN|NN|NN	O|O|O	||					
+5	1	fb:cell_nomor_2001.82770_0	82770.0	82770.0	82770.0	CD	NUMBER	82770.0	82770.0				
+5	2	fb:cell_nomor_2016.19380_0	19380.0	19380.0	19380.0	CD	NUMBER	19380.0	19380.0				
+5	3	fb:cell_nomor_2018.19393_0	19393.0	19393.0	19393.0	CD	NUMBER	19393.0	19393.0				
+5	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._63390_0	-63390.0	-63390.0	-63390.0	CD	NUMBER	-63390.0	63390.0				
+5	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+6	0	fb:cell_kharakteristik.manufaktur_kulit_dan_manufaktur_produk_terkait	manufaktur kulit dan manufaktur produk terkait	manufaktur|kulit|dan|manufaktur|produk|terkait	manufaktur|kulit|dan|manufaktur|produk|terkait	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+6	1	fb:cell_nomor_2001.9480_0	9480.0	9480.0	9480.0	CD	NUMBER	9480.0	9480.0				
+6	2	fb:cell_nomor_2016.3265_0	3265.0	3265.0	3265.0	CD	NUMBER	3265.0	3265.0				
+6	3	fb:cell_nomor_2018.2568_0	2568.0	2568.0	2568.0	CD	NUMBER	2568.0	2568.0				
+6	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._6215_0	-6215.0	-6215.0	-6215.0	CD	NUMBER	-6215.0	6215.0				
+6	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+7	0	fb:cell_kharakteristik.pembuatan_kertas_manufaktur	pembuatan kertas manufaktur	pembuatan|kertas|manufaktur	pembuatan|kertas|manufaktur	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_nomor_2001.103703_0	103703.0	103703.0	103703.0	CD	NUMBER	103703.0	103703.0				
+7	2	fb:cell_nomor_2016.53178_0	53178.0	53178.0	53178.0	CD	NUMBER	53178.0	53178.0				
+7	3	fb:cell_nomor_2018.54121_0	54121.0	54121.0	54121.0	CD	NUMBER	54121.0	54121.0				
+7	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._50525_0	-50525.0	-50525.0	-50525.0	CD	NUMBER	-50525.0	50525.0				
+7	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+8	0	fb:cell_kharakteristik.manufaktur_percetakan_dan_kegiatan_pendukung_terkait	manufaktur percetakan dan kegiatan pendukung terkait	manufaktur|percetakan|dan|kegiatan|pendukung|terkait	manufaktur|percetakan|dan|kegiatan|pendukung|terkait	NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+8	1	fb:cell_nomor_2001.83347_0	83347.0	83347.0	83347.0	CD	NUMBER	83347.0	83347.0				
+8	2	fb:cell_nomor_2016.49081_0	49081.0	49081.0	49081.0	CD	NUMBER	49081.0	49081.0				
+8	3	fb:cell_nomor_2018.49871_0	49871.0	49871.0	49871.0	CD	NUMBER	49871.0	49871.0				
+8	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._34266_0	-34266.0	-34266.0	-34266.0	CD	NUMBER	-34266.0	34266.0				
+8	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+9	0	fb:cell_kharakteristik.manufaktur_produk_minyak_bumi_dan_batubara	manufaktur produk minyak bumi dan batubara	manufaktur|produk|minyak|bumi|dan|batubara	manufaktur|produk|minyak|bumi|dan|batubara	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+9	1	fb:cell_nomor_2001.15305_0	15305.0	15305.0	15305.0	CD	NUMBER	15305.0	15305.0				
+9	2	fb:cell_nomor_2016.19057_0	19057.0	19057.0	19057.0	CD	NUMBER	19057.0	19057.0				
+9	3	fb:cell_nomor_2018.17791_0	17791.0	17791.0	17791.0	CD	NUMBER	17791.0	17791.0				
+9	4	fb:cell_perubahan_dari_nomor_2001_ke_2016.3752_0	3752.0	3752.0	3752.0	CD	NUMBER	3752.0	3752.0				
+9	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+10	0	fb:cell_kharakteristik.manufaktur_manufaktur_kimia	manufaktur manufaktur kimia	manufaktur|manufaktur|kimia	manufaktur|manufaktur|kimia	NN|NN|NN	O|O|O	||					
+10	1	fb:cell_nomor_2001.93412_0	93412.0	93412.0	93412.0	CD	NUMBER	93412.0	93412.0				
+10	2	fb:cell_nomor_2016.89005_0	89005.0	89005.0	89005.0	CD	NUMBER	89005.0	89005.0				
+10	3	fb:cell_nomor_2018.91660_0	91660.0	91660.0	91660.0	CD	NUMBER	91660.0	91660.0				
+10	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._4407_0	-4407.0	-4407.0	-4407.0	CD	NUMBER	-4407.0	4407.0				
+10	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+11	0	fb:cell_kharakteristik.manufaktur_plastik_dan_manufaktur_produk_karet	manufaktur plastik dan manufaktur produk karet	manufaktur|plastik|dan|manufaktur|produk|karet	manufaktur|plastik|dan|manufaktur|produk|karet	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_nomor_2001.125248_0	125248.0	125248.0	125248.0	CD	NUMBER	125248.0	125248.0				
+11	2	fb:cell_nomor_2016.97934_0	97934.0	97934.0	97934.0	CD	NUMBER	97934.0	97934.0				
+11	3	fb:cell_nomor_2018.99552_0	99552.0	99552.0	99552.0	CD	NUMBER	99552.0	99552.0				
+11	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._27314_0	-27314.0	-27314.0	-27314.0	CD	NUMBER	-27314.0	27314.0				
+11	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+12	0	fb:cell_kharakteristik.manufaktur_pembuatan_produk_kayu	manufaktur pembuatan produk kayu	manufaktur|pembuatan|produk|kayu	manufaktur|pembuatan|produk|kayu	NN|NN|NN|NN	O|O|O|O	|||					
+12	1	fb:cell_nomor_2001.135758_0	135758.0	135758.0	135758.0	CD	NUMBER	135758.0	135758.0				
+12	2	fb:cell_nomor_2016.92281_0	92281.0	92281.0	92281.0	CD	NUMBER	92281.0	92281.0				
+12	3	fb:cell_nomor_2018.93631_0	93631.0	93631.0	93631.0	CD	NUMBER	93631.0	93631.0				
+12	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._43477_0	-43477.0	-43477.0	-43477.0	CD	NUMBER	-43477.0	43477.0				
+12	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+13	0	fb:cell_kharakteristik.manufaktur_produk_mineral_non_logam	manufaktur produk mineral non-logam	manufaktur|produk|mineral|non|logam	manufaktur|produk|mineral|non|logam	NN|NN|NN|JJ|NN	O|O|O|O|O	||||					
+13	1	fb:cell_nomor_2001.53719_0	53719.0	53719.0	53719.0	CD	NUMBER	53719.0	53719.0				
+13	2	fb:cell_nomor_2016.49935_0	49935.0	49935.0	49935.0	CD	NUMBER	49935.0	49935.0				
+13	3	fb:cell_nomor_2018.53745_0	53745.0	53745.0	53745.0	CD	NUMBER	53745.0	53745.0				
+13	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._3784_0	-3784.0	-3784.0	-3784.0	CD	NUMBER	-3784.0	3784.0				
+13	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+14	0	fb:cell_kharakteristik.manufaktur_manufaktur_logam_primer	manufaktur manufaktur logam primer	manufaktur|manufaktur|logam|primer	manufaktur|manufaktur|logam|primer	NN|NN|NN|NN	O|O|O|O	|||					
+14	1	fb:cell_nomor_2001.91185_0	91185.0	91185.0	91185.0	CD	NUMBER	91185.0	91185.0				
+14	2	fb:cell_nomor_2016.53900_0	53900.0	53900.0	53900.0	CD	NUMBER	53900.0	53900.0				
+14	3	fb:cell_nomor_2018.56878_0	56878.0	56878.0	56878.0	CD	NUMBER	56878.0	56878.0				
+14	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._37285_0	-37285.0	-37285.0	-37285.0	CD	NUMBER	-37285.0	37285.0				
+14	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+15	0	fb:cell_kharakteristik.manufaktur_pembuatan_produk_logam_fabrikasi	manufaktur pembuatan produk logam fabrikasi	manufaktur|pembuatan|produk|logam|fabrikasi	manufaktur|pembuatan|produk|logam|fabrikasi	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+15	1	fb:cell_nomor_2001.184269_0	184269.0	184269.0	184269.0	CD	NUMBER	184269.0	184269.0				
+15	2	fb:cell_nomor_2016.151467_0	151467.0	151467.0	151467.0	CD	NUMBER	151467.0	151467.0				
+15	3	fb:cell_nomor_2018.156652_0	156652.0	156652.0	156652.0	CD	NUMBER	156652.0	156652.0				
+15	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._32802_0	-32802.0	-32802.0	-32802.0	CD	NUMBER	-32802.0	32802.0				
+15	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+16	0	fb:cell_kharakteristik.manufaktur_mesin_manufaktur	manufaktur mesin manufaktur	manufaktur|mesin|manufaktur	manufaktur|mesin|manufaktur	NN|NN|NN	O|O|O	||					
+16	1	fb:cell_nomor_2001.134897_0	134897.0	134897.0	134897.0	CD	NUMBER	134897.0	134897.0				
+16	2	fb:cell_nomor_2016.127363_0	127363.0	127363.0	127363.0	CD	NUMBER	127363.0	127363.0				
+16	3	fb:cell_nomor_2018.137614_0	137614.0	137614.0	137614.0	CD	NUMBER	137614.0	137614.0				
+16	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._7534_0	-7534.0	-7534.0	-7534.0	CD	NUMBER	-7534.0	7534.0				
+16	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+17	0	fb:cell_kharakteristik.manufaktur_komputer_dan_manufaktur_produk_elektronik	manufaktur komputer dan manufaktur produk elektronik	manufaktur|komputer|dan|manufaktur|produk|elektronik	manufaktur|komputer|dan|manufaktur|produk|elektronik	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+17	1	fb:cell_nomor_2001.105761_0	105761.0	105761.0	105761.0	CD	NUMBER	105761.0	105761.0				
+17	2	fb:cell_nomor_2016.55159_0	55159.0	55159.0	55159.0	CD	NUMBER	55159.0	55159.0				
+17	3	fb:cell_nomor_2018.56791_0	56791.0	56791.0	56791.0	CD	NUMBER	56791.0	56791.0				
+17	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._50602_0	-50602.0	-50602.0	-50602.0	CD	NUMBER	-50602.0	50602.0				
+17	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+18	0	fb:cell_kharakteristik.manufaktur_peralatan_listrik_manufaktur_peralatan_dan_komponen	manufaktur peralatan listrik, manufaktur peralatan dan komponen	manufaktur|peralatan|listrik|,|manufaktur|peralatan|dan|komponen	manufaktur|peralatan|listrik|,|manufaktur|peralatan|dan|komponen	NN|NN|NN|,|NN|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||				manufaktur peralatan listrik|manufaktur peralatan dan komponen	fb:part_kharakteristik.manufaktur_peralatan_listrik|fb:part_kharakteristik.manufaktur_peralatan_dan_komponen
+18	1	fb:cell_nomor_2001.48723_0	48723.0	48723.0	48723.0	CD	NUMBER	48723.0	48723.0				
+18	2	fb:cell_nomor_2016.32677_0	32677.0	32677.0	32677.0	CD	NUMBER	32677.0	32677.0				
+18	3	fb:cell_nomor_2018.34249_0	34249.0	34249.0	34249.0	CD	NUMBER	34249.0	34249.0				
+18	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._16046_0	-16046.0	-16046.0	-16046.0	CD	NUMBER	-16046.0	16046.0				
+18	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+19	0	fb:cell_kharakteristik.manufaktur_peralatan_transportasi	manufaktur peralatan transportasi	manufaktur|peralatan|transportasi	manufaktur|peralatan|transportasi	NN|NN|NN	O|O|O	||					
+19	1	fb:cell_nomor_2001.242700_0	242700.0	242700.0	242700.0	CD	NUMBER	242700.0	242700.0				
+19	2	fb:cell_nomor_2016.191902_0	191902.0	191902.0	191902.0	CD	NUMBER	191902.0	191902.0				
+19	3	fb:cell_nomor_2018.205100_0	205100.0	205100.0	205100.0	CD	NUMBER	205100.0	205100.0				
+19	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._50798_0	-50798.0	-50798.0	-50798.0	CD	NUMBER	-50798.0	50798.0				
+19	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+20	0	fb:cell_kharakteristik.manufaktur_furnitur_dan_manufaktur_produk_terkait	manufaktur furnitur dan manufaktur produk terkait	manufaktur|furnitur|dan|manufaktur|produk|terkait	manufaktur|furnitur|dan|manufaktur|produk|terkait	NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_nomor_2001.98601_0	98601.0	98601.0	98601.0	CD	NUMBER	98601.0	98601.0				
+20	2	fb:cell_nomor_2016.64744_0	64744.0	64744.0	64744.0	CD	NUMBER	64744.0	64744.0				
+20	3	fb:cell_nomor_2018.67101_0	67101.0	67101.0	67101.0	CD	NUMBER	67101.0	67101.0				
+20	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._33857_0	-33857.0	-33857.0	-33857.0	CD	NUMBER	-33857.0	33857.0				
+20	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+21	0	fb:cell_kharakteristik.manufaktur_aneka_manufaktur	manufaktur aneka manufaktur	manufaktur|aneka|manufaktur	manufaktur|aneka|manufaktur	NN|NN|NN	O|O|O	||					
+21	1	fb:cell_nomor_2001.56922_0	56922.0	56922.0	56922.0	CD	NUMBER	56922.0	56922.0				
+21	2	fb:cell_nomor_2016.55804_0	55804.0	55804.0	55804.0	CD	NUMBER	55804.0	55804.0				
+21	3	fb:cell_nomor_2018.57898_0	57898.0	57898.0	57898.0	CD	NUMBER	57898.0	57898.0				
+21	4	fb:cell_perubahan_dari_nomor_2001_ke_2016._1118_0	-1118.0	-1118.0	-1118.0	CD	NUMBER	-1118.0	1118.0				
+21	5	fb:cell_kontribusi_terhadap_perubahan_dari_tahun_2001_hingga_2016_persen.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				

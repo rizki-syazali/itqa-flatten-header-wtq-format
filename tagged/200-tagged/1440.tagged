@@ -1,0 +1,51 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1999	1999	1999	1999	CD	DATE	1999					
+-1	2	fb:row.row.2005	2005	2005	2005	CD	DATE	2005					
+-1	3	fb:row.row.2012	2012	2012	2012	CD	DATE	2012					
+-1	4	fb:row.row.2016	2016	2016	2016	CD	DATE	2016					
+0	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_25_hingga_44_tahun	persen penerima pendapatan utama berusia 25 hingga 44 tahun	persen|penerima|pendapatan|utama|berusia|25|hingga|44|tahun	persen|penerima|pendapatan|utama|berusia|25|hingga|44|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||25.0||44.0|	25.0		44.0		
+0	1	fb:cell_1999.null											
+0	2	fb:cell_2005.null											
+0	3	fb:cell_2012.null											
+0	4	fb:cell_2016.null											
+1	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_25_hingga_44_tahun_kanada_sejak_lahir	persen penerima pendapatan utama berusia 25 hingga 44 tahun Kanada sejak lahir	persen|penerima|pendapatan|utama|berusia|25|hingga|44|tahun|kanada|sejak|lahir	persen|penerima|pendapatan|utama|berusia|25|hingga|44|tahun|Kanada|sejak|lahir	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	|||||25.0||44.0||||	25.0		44.0		
+1	1	fb:cell_1999.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+1	2	fb:cell_2005.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+1	3	fb:cell_2012.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+1	4	fb:cell_2016.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+2	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_25_hingga_44_tahun_imigran_di_kanada_kurang_dari_10_tahun	persen penerima pendapatan utama berusia 25 hingga 44 tahun imigran di Kanada kurang dari 10 tahun	persen|penerima|pendapatan|utama|berusia|25|hingga|44|tahun|imigran|di|kanada|kurang|dari|10|tahun	persen|penerima|pendapatan|utama|berusia|25|hingga|44|tahun|imigran|di|Kanada|kurang|dari|10|tahun	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|NUMBER|O	|||||25.0||44.0|||||||10.0|	25.0		44.0		
+2	1	fb:cell_1999.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+2	2	fb:cell_2005.13_5	13.5	13.5	13.5	CD	NUMBER	13.5	13.5				
+2	3	fb:cell_2012.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+2	4	fb:cell_2016.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+3	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_35_hingga_54_tahun	persen penerima pendapatan utama berusia 35 hingga 54 tahun	persen|penerima|pendapatan|utama|berusia|35|hingga|54|tahun	persen|penerima|pendapatan|utama|berusia|35|hingga|54|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||35.0||54.0|	35.0		54.0		
+3	1	fb:cell_1999.null											
+3	2	fb:cell_2005.null											
+3	3	fb:cell_2012.null											
+3	4	fb:cell_2016.null											
+4	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_35_hingga_54_tahun_kanada_sejak_lahir	persen penerima pendapatan utama berusia 35 hingga 54 tahun Kanada sejak lahir	persen|penerima|pendapatan|utama|berusia|35|hingga|54|tahun|kanada|sejak|lahir	persen|penerima|pendapatan|utama|berusia|35|hingga|54|tahun|Kanada|sejak|lahir	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	|||||35.0||54.0||||	35.0		54.0		
+4	1	fb:cell_1999.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+4	2	fb:cell_2005.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+4	3	fb:cell_2012.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+4	4	fb:cell_2016.17_5	17.5	17.5	17.5	CD	NUMBER	17.5	17.5				
+5	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_35_hingga_54_tahun_imigran_di_kanada_10_hingga_19_tahun	persen penerima pendapatan utama berusia 35 hingga 54 tahun imigran di Kanada 10 hingga 19 tahun	persen|penerima|pendapatan|utama|berusia|35|hingga|54|tahun|imigran|di|kanada|10|hingga|19|tahun	persen|penerima|pendapatan|utama|berusia|35|hingga|54|tahun|imigran|di|Kanada|10|hingga|19|tahun	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O|NUMBER|O|NUMBER|O	|||||35.0||54.0|||||10.0||19.0|	35.0		54.0		
+5	1	fb:cell_1999.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+5	2	fb:cell_2005.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+5	3	fb:cell_2012.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+5	4	fb:cell_2016.16_5	16.5	16.5	16.5	CD	NUMBER	16.5	16.5				
+6	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_45_hingga_64_tahun	persen penerima pendapatan utama berusia 45 hingga 64 tahun	persen|penerima|pendapatan|utama|berusia|45|hingga|64|tahun	persen|penerima|pendapatan|utama|berusia|45|hingga|64|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||45.0||64.0|	45.0		64.0		
+6	1	fb:cell_1999.null											
+6	2	fb:cell_2005.null											
+6	3	fb:cell_2012.null											
+6	4	fb:cell_2016.null											
+7	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_45_hingga_64_tahun_kanada_sejak_lahir	persen penerima pendapatan utama berusia 45 hingga 64 tahun Kanada sejak lahir	persen|penerima|pendapatan|utama|berusia|45|hingga|64|tahun|kanada|sejak|lahir	persen|penerima|pendapatan|utama|berusia|45|hingga|64|tahun|Kanada|sejak|lahir	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	|||||45.0||64.0||||	45.0		64.0		
+7	1	fb:cell_1999.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+7	2	fb:cell_2005.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+7	3	fb:cell_2012.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+7	4	fb:cell_2016.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+8	0	fb:cell_kharakteristik.persen_penerima_pendapatan_utama_berusia_45_hingga_64_tahun_imigran_di_kanada_20_tahun_atau_lebih	persen penerima pendapatan utama berusia 45 hingga 64 tahun imigran di Kanada 20 tahun atau lebih	persen|penerima|pendapatan|utama|berusia|45|hingga|64|tahun|imigran|di|kanada|20|tahun|atau|lebih	persen|penerima|pendapatan|utama|berusia|45|hingga|64|tahun|imigran|di|Kanada|20|tahun|atau|lebih	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O|NUMBER|O|O|O	|||||45.0||64.0|||||20.0|||	45.0		64.0		
+8	1	fb:cell_1999.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+8	2	fb:cell_2005.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+8	3	fb:cell_2012.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+8	4	fb:cell_2016.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				

@@ -1,0 +1,157 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.minyak_mentah_penyebab_segala_hal	minyak mentah penyebab segala hal	minyak|mentah|penyebab|segala|hal	minyak|mentah|penyebab|segala|hal	NNP|NNP|NN|NN|NNP	O|O|O|O|O	||||					
+-1	2	fb:row.row.ashr_segala_sebab	ashr segala sebab	ashr|segala|sebab	ashr|segala|sebab	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.interval_kepercayaan_95_semua_penyebab_dari	interval kepercayaan 95% semua penyebab dari	interval|kepercayaan|95|%|semua|penyebab|dari	interval|kepercayaan|95|%|semua|penyebab|dari	NN|NN|CD|NN|NN|NN|NNP	O|O|PERCENT|PERCENT|O|O|O	||%95.0|%95.0|||					
+-1	4	fb:row.row.interval_kepercayaan_95_semua_penyebab_menjadi	interval kepercayaan 95% semua penyebab menjadi	interval|kepercayaan|95|%|semua|penyebab|menjadi	interval|kepercayaan|95|%|semua|penyebab|menjadi	NN|NN|CD|NN|NN|NN|NN	O|O|PERCENT|PERCENT|O|O|O	||%95.0|%95.0|||					
+-1	5	fb:row.row.penyakit_peredaran_darah_mentah	penyakit peredaran darah mentah	penyakit|peredaran|darah|mentah	penyakit|peredaran|darah|mentah	NN|NN|NNP|NNP	O|O|PERSON|PERSON	|||					
+-1	6	fb:row.row.penyakit_peredaran_darah_ashr	penyakit peredaran darah ashr	penyakit|peredaran|darah|ashr	penyakit|peredaran|darah|ashr	NN|NN|NNP|NNP	O|O|PERSON|PERSON	|||					
+-1	7	fb:row.row.penyakit_peredaran_darah_95_interval_kepercayaan_dari	penyakit peredaran darah 95% interval kepercayaan dari	penyakit|peredaran|darah|95|%|interval|kepercayaan|dari	penyakit|peredaran|darah|95|%|interval|kepercayaan|dari	NN|NN|NNP|CD|NN|NN|NNP|NNP	O|O|O|PERCENT|PERCENT|O|O|O	|||%95.0|%95.0|||					
+-1	8	fb:row.row.penyakit_peredaran_darah_interval_kepercayaan_95_sampai	penyakit peredaran darah interval kepercayaan 95% sampai	penyakit|peredaran|darah|interval|kepercayaan|95|%|sampai	penyakit|peredaran|darah|interval|kepercayaan|95|%|sampai	NN|NN|NNP|NNP|NNP|CD|NN|FW	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	9	fb:row.row.penyakit_pencernaan_mentah	penyakit pencernaan mentah	penyakit|pencernaan|mentah	penyakit|pencernaan|mentah	NN|NN|NN	O|O|O	||					
+-1	10	fb:row.row.penyakit_pencernaan_ashr	penyakit pencernaan ashr	penyakit|pencernaan|ashr	penyakit|pencernaan|ashr	NN|NN|NN	O|O|O	||					
+-1	11	fb:row.row.penyakit_pencernaan_interval_kepercayaan_95_dari	penyakit pencernaan interval kepercayaan 95% dari	penyakit|pencernaan|interval|kepercayaan|95|%|dari	penyakit|pencernaan|interval|kepercayaan|95|%|dari	NN|NN|NN|NN|CD|NN|NNP	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	12	fb:row.row.penyakit_pencernaan_interval_kepercayaan_95_hingga	penyakit pencernaan interval kepercayaan 95% hingga	penyakit|pencernaan|interval|kepercayaan|95|%|hingga	penyakit|pencernaan|interval|kepercayaan|95|%|hingga	NN|NN|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+0	1	fb:cell_minyak_mentah_penyebab_segala_hal.null											
+0	2	fb:cell_ashr_segala_sebab.null											
+0	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.null											
+0	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.null											
+0	5	fb:cell_penyakit_peredaran_darah_mentah.null											
+0	6	fb:cell_penyakit_peredaran_darah_ashr.null											
+0	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.null											
+0	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.null											
+0	9	fb:cell_penyakit_pencernaan_mentah.null											
+0	10	fb:cell_penyakit_pencernaan_ashr.null											
+0	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.null											
+0	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.null											
+1	0	fb:cell_kharakteristik.pria_kelahiran_kanada	pria kelahiran Kanada	pria|kelahiran|kanada	pria|kelahiran|Kanada	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_minyak_mentah_penyebab_segala_hal.665_2	665.2	665.2	665.2	CD	NUMBER	665.2	665.2				
+1	2	fb:cell_ashr_segala_sebab.665_2	665.2	665.2	665.2	CD	NUMBER	665.2	665.2				
+1	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.663_9	663.9	663.9	663.9	CD	NUMBER	663.9	663.9				
+1	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.666_5	666.5	666.5	666.5	CD	NUMBER	666.5	666.5				
+1	5	fb:cell_penyakit_peredaran_darah_mentah.134_3	134.3	134.3	134.3	CD	NUMBER	134.3	134.3				
+1	6	fb:cell_penyakit_peredaran_darah_ashr.134_3	134.3	134.3	134.3	CD	NUMBER	134.3	134.3				
+1	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.133_7	133.7	133.7	133.7	CD	NUMBER	133.7	133.7				
+1	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.134_9	134.9	134.9	134.9	CD	NUMBER	134.9	134.9				
+1	9	fb:cell_penyakit_pencernaan_mentah.93_6	93.6	93.6	93.6	CD	NUMBER	93.6	93.6				
+1	10	fb:cell_penyakit_pencernaan_ashr.93_6	93.6	93.6	93.6	CD	NUMBER	93.6	93.6				
+1	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.93_1	93.1	93.1	93.1	CD	NUMBER	93.1	93.1				
+1	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.94_1	94.1	94.1	94.1	CD	NUMBER	94.1	94.1				
+2	0	fb:cell_kharakteristik.total_kelas_ekonomi_laki_laki	total kelas ekonomi laki-laki	total|kelas|ekonomi|laki|laki	total|kelas|ekonomi|laki|laki	JJ|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+2	1	fb:cell_minyak_mentah_penyebab_segala_hal.268_6	268.6	268.6	268.6	CD	NUMBER	268.6	268.6				
+2	2	fb:cell_ashr_segala_sebab.301_2	301.2	301.2	301.2	CD	NUMBER	301.2	301.2				
+2	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.297_5	297.5	297.5	297.5	CD	NUMBER	297.5	297.5				
+2	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.305_0	305.0	305.0	305.0	CD	NUMBER	305.0	305.0				
+2	5	fb:cell_penyakit_peredaran_darah_mentah.59_1	59.1	59.1	59.1	CD	NUMBER	59.1	59.1				
+2	6	fb:cell_penyakit_peredaran_darah_ashr.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+2	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.65_6	65.6	65.6	65.6	CD	NUMBER	65.6	65.6				
+2	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.69_2	69.2	69.2	69.2	CD	NUMBER	69.2	69.2				
+2	9	fb:cell_penyakit_pencernaan_mentah.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+2	10	fb:cell_penyakit_pencernaan_ashr.48_3	48.3	48.3	48.3	CD	NUMBER	48.3	48.3				
+2	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+2	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.49_7	49.7	49.7	49.7	CD	NUMBER	49.7	49.7				
+3	0	fb:cell_kharakteristik.pekerja_terampil_laki_laki	pekerja terampil laki-laki	pekerja|terampil|laki|laki	pekerja|terampil|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_minyak_mentah_penyebab_segala_hal.253_2	253.2	253.2	253.2	CD	NUMBER	253.2	253.2				
+3	2	fb:cell_ashr_segala_sebab.309_4	309.4	309.4	309.4	CD	NUMBER	309.4	309.4				
+3	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.305_0	305.0	305.0	305.0	CD	NUMBER	305.0	305.0				
+3	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.313_8	313.8	313.8	313.8	CD	NUMBER	313.8	313.8				
+3	5	fb:cell_penyakit_peredaran_darah_mentah.55_1	55.1	55.1	55.1	CD	NUMBER	55.1	55.1				
+3	6	fb:cell_penyakit_peredaran_darah_ashr.70_1	70.1	70.1	70.1	CD	NUMBER	70.1	70.1				
+3	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+3	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.72_3	72.3	72.3	72.3	CD	NUMBER	72.3	72.3				
+3	9	fb:cell_penyakit_pencernaan_mentah.43_5	43.5	43.5	43.5	CD	NUMBER	43.5	43.5				
+3	10	fb:cell_penyakit_pencernaan_ashr.48_7	48.7	48.7	48.7	CD	NUMBER	48.7	48.7				
+3	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.47_1	47.1	47.1	47.1	CD	NUMBER	47.1	47.1				
+3	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.50_4	50.4	50.4	50.4	CD	NUMBER	50.4	50.4				
+4	0	fb:cell_kharakteristik.kelas_bisnis_pria	kelas bisnis pria	kelas|bisnis|pria	kelas|bisnis|pria	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_minyak_mentah_penyebab_segala_hal.381_1	381.1	381.1	381.1	CD	NUMBER	381.1	381.1				
+4	2	fb:cell_ashr_segala_sebab.282_0	282.0	282.0	282.0	CD	NUMBER	282.0	282.0				
+4	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.271_4	271.4	271.4	271.4	CD	NUMBER	271.4	271.4				
+4	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.292_9	292.9	292.9	292.9	CD	NUMBER	292.9	292.9				
+4	5	fb:cell_penyakit_peredaran_darah_mentah.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+4	6	fb:cell_penyakit_peredaran_darah_ashr.57_3	57.3	57.3	57.3	CD	NUMBER	57.3	57.3				
+4	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.53_4	53.4	53.4	53.4	CD	NUMBER	53.4	53.4				
+4	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+4	9	fb:cell_penyakit_pencernaan_mentah.57_5	57.5	57.5	57.5	CD	NUMBER	57.5	57.5				
+4	10	fb:cell_penyakit_pencernaan_ashr.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+4	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.40_8	40.8	40.8	40.8	CD	NUMBER	40.8	40.8				
+4	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.49_9	49.9	49.9	49.9	CD	NUMBER	49.9	49.9				
+5	0	fb:cell_kharakteristik.wanita	wanita	wanita	wanita	NNP	PERSON						
+5	1	fb:cell_minyak_mentah_penyebab_segala_hal.all_cause	all-cause	all|cause	all|cause	DT|NN	O|O	|					
+5	2	fb:cell_ashr_segala_sebab.all_cause	all-cause	all|cause	all|cause	DT|NN	O|O	|					
+5	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.all_cause	all-cause	all|cause	all|cause	DT|NN	O|O	|					
+5	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.all_cause	all-cause	all|cause	all|cause	DT|NN	O|O	|					
+5	5	fb:cell_penyakit_peredaran_darah_mentah.cancer	cancer	cancer	cancer	NN	O						
+5	6	fb:cell_penyakit_peredaran_darah_ashr.cancer	cancer	cancer	cancer	NN	O						
+5	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.cancer	cancer	cancer	cancer	NN	O						
+5	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.cancer	cancer	cancer	cancer	NN	O						
+5	9	fb:cell_penyakit_pencernaan_mentah.digestive_diseases	digestive diseases	digestive|diseases	digestive|disease	JJ|NNS	O|O	|					
+5	10	fb:cell_penyakit_pencernaan_ashr.digestive_diseases	digestive diseases	digestive|diseases	digestive|disease	JJ|NNS	O|O	|					
+5	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.digestive_diseases	digestive diseases	digestive|diseases	digestive|disease	JJ|NNS	O|O	|					
+5	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.digestive_diseases	digestive diseases	digestive|diseases	digestive|disease	JJ|NNS	O|O	|					
+6	0	fb:cell_kharakteristik.wanita_kelahiran_kanada	wanita kelahiran Kanada	wanita|kelahiran|kanada	wanita|kelahiran|Kanada	NNP|NNP|NNP	PERSON|PERSON|PERSON	||					
+6	1	fb:cell_minyak_mentah_penyebab_segala_hal.668_0	668.0	668.0	668.0	CD	NUMBER	668.0	668.0				
+6	2	fb:cell_ashr_segala_sebab.668_0	668.0	668.0	668.0	CD	NUMBER	668.0	668.0				
+6	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.666_7	666.7	666.7	666.7	CD	NUMBER	666.7	666.7				
+6	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.669_3	669.3	669.3	669.3	CD	NUMBER	669.3	669.3				
+6	5	fb:cell_penyakit_peredaran_darah_mentah.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+6	6	fb:cell_penyakit_peredaran_darah_ashr.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+6	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+6	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.75_4	75.4	75.4	75.4	CD	NUMBER	75.4	75.4				
+6	9	fb:cell_penyakit_pencernaan_mentah.92_4	92.4	92.4	92.4	CD	NUMBER	92.4	92.4				
+6	10	fb:cell_penyakit_pencernaan_ashr.92_4	92.4	92.4	92.4	CD	NUMBER	92.4	92.4				
+6	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.91_9	91.9	91.9	91.9	CD	NUMBER	91.9	91.9				
+6	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.92_9	92.9	92.9	92.9	CD	NUMBER	92.9	92.9				
+7	0	fb:cell_kharakteristik.total_kelas_ekonomi_perempuan	total kelas ekonomi perempuan	total|kelas|ekonomi|perempuan	total|kelas|ekonomi|perempuan	JJ|NNP|NNP|NNP	O|O|O|O	|||					
+7	1	fb:cell_minyak_mentah_penyebab_segala_hal.275_1	275.1	275.1	275.1	CD	NUMBER	275.1	275.1				
+7	2	fb:cell_ashr_segala_sebab.310_0	310.0	310.0	310.0	CD	NUMBER	310.0	310.0				
+7	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.304_3	304.3	304.3	304.3	CD	NUMBER	304.3	304.3				
+7	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.315_8	315.8	315.8	315.8	CD	NUMBER	315.8	315.8				
+7	5	fb:cell_penyakit_peredaran_darah_mentah.65_8	65.8	65.8	65.8	CD	NUMBER	65.8	65.8				
+7	6	fb:cell_penyakit_peredaran_darah_ashr.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+7	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.65_5	65.5	65.5	65.5	CD	NUMBER	65.5	65.5				
+7	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.70_6	70.6	70.6	70.6	CD	NUMBER	70.6	70.6				
+7	9	fb:cell_penyakit_pencernaan_mentah.34_2	34.2	34.2	34.2	CD	NUMBER	34.2	34.2				
+7	10	fb:cell_penyakit_pencernaan_ashr.38_2	38.2	38.2	38.2	CD	NUMBER	38.2	38.2				
+7	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.36_2	36.2	36.2	36.2	CD	NUMBER	36.2	36.2				
+7	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+8	0	fb:cell_kharakteristik.pekerja_terampil_perempuan	pekerja terampil perempuan	pekerja|terampil|perempuan	pekerja|terampil|perempuan	NN|NN|NN	O|O|O	||					
+8	1	fb:cell_minyak_mentah_penyebab_segala_hal.268_6	268.6	268.6	268.6	CD	NUMBER	268.6	268.6				
+8	2	fb:cell_ashr_segala_sebab.278_3	278.3	278.3	278.3	CD	NUMBER	278.3	278.3				
+8	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.272_6	272.6	272.6	272.6	CD	NUMBER	272.6	272.6				
+8	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.284_2	284.2	284.2	284.2	CD	NUMBER	284.2	284.2				
+8	5	fb:cell_penyakit_peredaran_darah_mentah.65_6	65.6	65.6	65.6	CD	NUMBER	65.6	65.6				
+8	6	fb:cell_penyakit_peredaran_darah_ashr.65_1	65.1	65.1	65.1	CD	NUMBER	65.1	65.1				
+8	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.62_5	62.5	62.5	62.5	CD	NUMBER	62.5	62.5				
+8	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.67_9	67.9	67.9	67.9	CD	NUMBER	67.9	67.9				
+8	9	fb:cell_penyakit_pencernaan_mentah.32_3	32.3	32.3	32.3	CD	NUMBER	32.3	32.3				
+8	10	fb:cell_penyakit_pencernaan_ashr.33_1	33.1	33.1	33.1	CD	NUMBER	33.1	33.1				
+8	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.31_1	31.1	31.1	31.1	CD	NUMBER	31.1	31.1				
+8	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.35_1	35.1	35.1	35.1	CD	NUMBER	35.1	35.1				
+9	0	fb:cell_kharakteristik.kelas_bisnis_wanita	kelas bisnis wanita	kelas|bisnis|wanita	kelas|bisnis|wanita	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_minyak_mentah_penyebab_segala_hal.255_9	255.9	255.9	255.9	CD	NUMBER	255.9	255.9				
+9	2	fb:cell_ashr_segala_sebab.225_2	225.2	225.2	225.2	CD	NUMBER	225.2	225.2				
+9	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.200_1	200.1	200.1	200.1	CD	NUMBER	200.1	200.1				
+9	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.253_4	253.4	253.4	253.4	CD	NUMBER	253.4	253.4				
+9	5	fb:cell_penyakit_peredaran_darah_mentah.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+9	6	fb:cell_penyakit_peredaran_darah_ashr.59_1	59.1	59.1	59.1	CD	NUMBER	59.1	59.1				
+9	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.46_7	46.7	46.7	46.7	CD	NUMBER	46.7	46.7				
+9	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.74_8	74.8	74.8	74.8	CD	NUMBER	74.8	74.8				
+9	9	fb:cell_penyakit_pencernaan_mentah.32_9	32.9	32.9	32.9	CD	NUMBER	32.9	32.9				
+9	10	fb:cell_penyakit_pencernaan_ashr.29_4	29.4	29.4	29.4	CD	NUMBER	29.4	29.4				
+9	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+9	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.40_8	40.8	40.8	40.8	CD	NUMBER	40.8	40.8				
+10	0	fb:cell_kharakteristik.perempuan_yang_tinggal_di_pengasuh	perempuan yang tinggal di pengasuh	perempuan|yang|tinggal|di|pengasuh	perempuan|yang|tinggal|di|pengasuh	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+10	1	fb:cell_minyak_mentah_penyebab_segala_hal.294_6	294.6	294.6	294.6	CD	NUMBER	294.6	294.6				
+10	2	fb:cell_ashr_segala_sebab.303_5	303.5	303.5	303.5	CD	NUMBER	303.5	303.5				
+10	3	fb:cell_interval_kepercayaan_95_semua_penyebab_dari.293_9	293.9	293.9	293.9	CD	NUMBER	293.9	293.9				
+10	4	fb:cell_interval_kepercayaan_95_semua_penyebab_menjadi.313_3	313.3	313.3	313.3	CD	NUMBER	313.3	313.3				
+10	5	fb:cell_penyakit_peredaran_darah_mentah.66_9	66.9	66.9	66.9	CD	NUMBER	66.9	66.9				
+10	6	fb:cell_penyakit_peredaran_darah_ashr.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+10	7	fb:cell_penyakit_peredaran_darah_95_interval_kepercayaan_dari.61_4	61.4	61.4	61.4	CD	NUMBER	61.4	61.4				
+10	8	fb:cell_penyakit_peredaran_darah_interval_kepercayaan_95_sampai.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+10	9	fb:cell_penyakit_pencernaan_mentah.39_3	39.3	39.3	39.3	CD	NUMBER	39.3	39.3				
+10	10	fb:cell_penyakit_pencernaan_ashr.40_6	40.6	40.6	40.6	CD	NUMBER	40.6	40.6				
+10	11	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_dari.37_2	37.2	37.2	37.2	CD	NUMBER	37.2	37.2				
+10	12	fb:cell_penyakit_pencernaan_interval_kepercayaan_95_hingga.44_3	44.3	44.3	44.3	CD	NUMBER	44.3	44.3				

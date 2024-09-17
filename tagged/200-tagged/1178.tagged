@@ -1,0 +1,61 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_entri_awal_total	jumlah entri awal total	jumlah|entri|awal|total	jumlah|entri|awal|total	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.total_entri_awal_persen	total-entri awal persen	total|entri|awal|persen	total|entri|awal|persen	JJ|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.total_entri_awal_persen_perubahan_angka_dari_2016_2017	total-entri awal persen perubahan angka dari 2016/2017	total|entri|awal|persen|perubahan|angka|dari|2016/2017	total|entri|awal|persen|perubahan|angka|dari|2016/2017	JJ|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|NUMBER	|||||||					
+-1	4	fb:row.row.total_entri_awal_persen_perubahan_nomor_dari_2013_2014	total-entri awal persen perubahan nomor dari 2013/2014	total|entri|awal|persen|perubahan|nomor|dari|2013/2014	total|entri|awal|persen|perubahan|nomor|dari|2013/2014	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.hak_asuh	hak asuh	hak|asuh	hak|asuh	NNP|NNP	O|O	|					
+0	1	fb:cell_jumlah_entri_awal_total.1652	1652	1652	1652	CD	DATE	1652	1652.0	1652-xx-xx			
+0	2	fb:cell_total_entri_awal_persen.29	29	29	29	CD	NUMBER	29.0	29.0				
+0	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017._13	-13	-13	-13	CD	NUMBER	-13.0	13.0				
+0	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._25	-25	-25	-25	CD	NUMBER	-25.0	25.0				
+1	0	fb:cell_kharakteristik.penahanan_pra_persidangan	penahanan pra-persidangan	penahanan|pra|persidangan	penahanan|pra|persidangan	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_jumlah_entri_awal_total.1583	1583	1583	1583	CD	DATE	1583	1583.0	1583-xx-xx			
+1	2	fb:cell_total_entri_awal_persen.28	28	28	28	CD	NUMBER	28.0	28.0				
+1	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017._13	-13	-13	-13	CD	NUMBER	-13.0	13.0				
+1	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._25	-25	-25	-25	CD	NUMBER	-25.0	25.0				
+2	0	fb:cell_kharakteristik.tahanan_dijatuhi_hukuman_tahanan	tahanan dijatuhi hukuman tahanan	tahanan|dijatuhi|hukuman|tahanan	tahanan|dijatuhi|hukuman|tahanan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_jumlah_entri_awal_total.69	69	69	69	CD	NUMBER	69.0	69.0				
+2	2	fb:cell_total_entri_awal_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+2	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._30	-30	-30	-30	CD	NUMBER	-30.0	30.0				
+3	0	fb:cell_kharakteristik.hak_asuh_terpidana_hak_asuh_mengamankan_hak_asuh_dan_pengawasan	hak asuh terpidana hak asuh mengamankan hak asuh dan pengawasan	hak|asuh|terpidana|hak|asuh|mengamankan|hak|asuh|dan|pengawasan	hak|asuh|terpidana|hak|asuh|mengamankan|hak|asuh|dan|pengawasan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+3	1	fb:cell_jumlah_entri_awal_total.31	31	31	31	CD	NUMBER	31.0	31.0				
+3	2	fb:cell_total_entri_awal_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+3	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._24	-24	-24	-24	CD	NUMBER	-24.0	24.0				
+4	0	fb:cell_kharakteristik.hak_asuh_terpidana_hak_asuh_terbuka_dan_pengawasan	hak asuh terpidana hak asuh terbuka dan pengawasan	hak|asuh|terpidana|hak|asuh|terbuka|dan|pengawasan	hak|asuh|terpidana|hak|asuh|terbuka|dan|pengawasan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+4	1	fb:cell_jumlah_entri_awal_total.38	38	38	38	CD	NUMBER	38.0	38.0				
+4	2	fb:cell_total_entri_awal_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+4	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017.0	0	0	0	CD	NUMBER	0.0	0.0				
+4	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._35	-35	-35	-35	CD	NUMBER	-35.0	35.0				
+5	0	fb:cell_kharakteristik.pengawasan_masyarakat	pengawasan masyarakat	pengawasan|masyarakat	pengawasan|masyarakat	NN|NN	O|O	|					
+5	1	fb:cell_jumlah_entri_awal_total.3988	3988	3988	3988	CD	NUMBER	3988.0	3988.0	3988-xx-xx			
+5	2	fb:cell_total_entri_awal_persen.71	71	71	71	CD	NUMBER	71.0	71.0				
+5	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+5	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._35	-35	-35	-35	CD	NUMBER	-35.0	35.0				
+6	0	fb:cell_kharakteristik.masa_percobaan_pengawasan_masyarakat	masa percobaan pengawasan masyarakat	masa|percobaan|pengawasan|masyarakat	masa|percobaan|pengawasan|masyarakat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_jumlah_entri_awal_total.2649	2649	2649	2649	CD	DATE	2649	2649.0	2649-xx-xx			
+6	2	fb:cell_total_entri_awal_persen.47	47	47	47	CD	NUMBER	47.0	47.0				
+6	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+6	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._38	-38	-38	-38	CD	NUMBER	-38.0	38.0				
+7	0	fb:cell_kharakteristik.pengawasan_masyarakat_penangguhan_penitipan_dan_pengawasan	pengawasan masyarakat, penangguhan penitipan dan pengawasan	pengawasan|masyarakat|,|penangguhan|penitipan|dan|pengawasan	pengawasan|masyarakat|,|penangguhan|penitipan|dan|pengawasan	NN|NN|,|NN|NN|NNP|NNP	O|O|O|O|O|O|O	||||||				pengawasan masyarakat|penangguhan penitipan dan pengawasan	fb:part_kharakteristik.pengawasan_masyarakat|fb:part_kharakteristik.penangguhan_penitipan_dan_pengawasan
+7	1	fb:cell_jumlah_entri_awal_total.93	93	93	93	CD	NUMBER	93.0	93.0				
+7	2	fb:cell_total_entri_awal_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+7	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017.22	22	22	22	CD	NUMBER	22.0	22.0				
+7	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._18	-18	-18	-18	CD	NUMBER	-18.0	18.0				
+8	0	fb:cell_kharakteristik.pengawasan_masyarakat_dukungan_dan_pengawasan_yang_intensif	pengawasan masyarakat dukungan dan pengawasan yang intensif	pengawasan|masyarakat|dukungan|dan|pengawasan|yang|intensif	pengawasan|masyarakat|dukungan|dan|pengawasan|yang|intensif	NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+8	1	fb:cell_jumlah_entri_awal_total.27	27	27	27	CD	NUMBER	27.0	27.0				
+8	2	fb:cell_total_entri_awal_persen.0	0	0	0	CD	NUMBER	0.0	0.0				
+8	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017.42	42	42	42	CD	NUMBER	42.0	42.0				
+8	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014.59	59	59	59	CD	NUMBER	59.0	59.0				
+9	0	fb:cell_kharakteristik.pengawasan_masyarakat_masyarakat_lainnya	pengawasan masyarakat masyarakat lainnya	pengawasan|masyarakat|masyarakat|lainnya	pengawasan|masyarakat|masyarakat|lainnya	NN|NN|NN|NN	O|O|O|O	|||					
+9	1	fb:cell_jumlah_entri_awal_total.1219	1219	1219	1219	CD	DATE	1219	1219.0	1219-xx-xx			
+9	2	fb:cell_total_entri_awal_persen.22	22	22	22	CD	NUMBER	22.0	22.0				
+9	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017.5	5	5	5	CD	NUMBER	5.0	5.0				
+9	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._29	-29	-29	-29	CD	NUMBER	-29.0	29.0				
+10	0	fb:cell_kharakteristik.total_layanan_pemasyarakatan	total layanan pemasyarakatan	total|layanan|pemasyarakatan	total|layanan|pemasyarakatan	JJ|NN|NN	O|O|O	||					
+10	1	fb:cell_jumlah_entri_awal_total.5640	5640	5640	5640	CD	NUMBER	5640.0	5640.0	5640-xx-xx			
+10	2	fb:cell_total_entri_awal_persen.100	100	100	100	CD	NUMBER	100.0	100.0				
+10	3	fb:cell_total_entri_awal_persen_perubahan_angka_dari_2016_2017._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+10	4	fb:cell_total_entri_awal_persen_perubahan_nomor_dari_2013_2014._32	-32	-32	-32	CD	NUMBER	-32.0	32.0				

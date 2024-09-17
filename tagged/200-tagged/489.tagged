@@ -1,0 +1,239 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.null	%	%	%	NN	O						
+-1	2	fb:row.row.interval_kepercayaan_95_dari	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	3	fb:row.row.interval_kepercayaan_95_sampai	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	4	fb:row.row.rasio_peluang	rasio peluang	rasio|peluang	rasio|peluang	NNP|NNP	PERSON|PERSON	|					
+-1	5	fb:row.row.interval_kepercayaan_95_dari_2	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	6	fb:row.row.interval_kepercayaan_95_sampai_2	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+0	1	fb:cell_null.null											
+0	2	fb:cell_interval_kepercayaan_95_dari.null											
+0	3	fb:cell_interval_kepercayaan_95_sampai.null											
+0	4	fb:cell_rasio_peluang.null											
+0	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+0	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+1	0	fb:cell_kharakteristik.jenis_kelamin_perempuan	jenis kelamin perempuan	jenis|kelamin|perempuan	jenis|kelamin|perempuan	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_null.46_9	46.9	46.9	46.9	CD	NUMBER	46.9	46.9				
+1	2	fb:cell_interval_kepercayaan_95_dari.45_3	45.3	45.3	45.3	CD	NUMBER	45.3	45.3				
+1	3	fb:cell_interval_kepercayaan_95_sampai.48_5	48.5	48.5	48.5	CD	NUMBER	48.5	48.5				
+1	4	fb:cell_rasio_peluang.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+1	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+2	0	fb:cell_kharakteristik.jenis_kelamin_laki_laki	jenis kelamin laki-laki	jenis|kelamin|laki|laki	jenis|kelamin|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_null.49_4	49.4	49.4	49.4	CD	NUMBER	49.4	49.4				
+2	2	fb:cell_interval_kepercayaan_95_dari.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+2	3	fb:cell_interval_kepercayaan_95_sampai.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+2	4	fb:cell_rasio_peluang.1_12	1.12	1.12	1.12	CD	NUMBER	1.12	1.12				
+2	5	fb:cell_interval_kepercayaan_95_dari_2.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+2	6	fb:cell_interval_kepercayaan_95_sampai_2.1_23	1.23	1.23	1.23	CD	NUMBER	1.23	1.23				
+3	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+3	1	fb:cell_null.null											
+3	2	fb:cell_interval_kepercayaan_95_dari.null											
+3	3	fb:cell_interval_kepercayaan_95_sampai.null											
+3	4	fb:cell_rasio_peluang.null											
+3	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+3	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+4	0	fb:cell_kharakteristik.kelompok_usia_12_hingga_17_tahun	kelompok usia 12 hingga 17 tahun	kelompok|usia|12|hingga|17|tahun	kelompok|usia|12|hingga|17|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||12.0||17.0|	12.0		17.0		
+4	1	fb:cell_null.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+4	2	fb:cell_interval_kepercayaan_95_dari.50_7	50.7	50.7	50.7	CD	NUMBER	50.7	50.7				
+4	3	fb:cell_interval_kepercayaan_95_sampai.58_3	58.3	58.3	58.3	CD	NUMBER	58.3	58.3				
+4	4	fb:cell_rasio_peluang.2_14	2.14	2.14	2.14	CD	NUMBER	2.14	2.14				
+4	5	fb:cell_interval_kepercayaan_95_dari_2.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+4	6	fb:cell_interval_kepercayaan_95_sampai_2.2_71	2.71	2.71	2.71	CD	NUMBER	2.71	2.71				
+5	0	fb:cell_kharakteristik.kelompok_usia_18_hingga_34_tahun	kelompok usia 18 hingga 34 tahun	kelompok|usia|18|hingga|34|tahun	kelompok|usia|18|hingga|34|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||18.0||34.0|	18.0		34.0		
+5	1	fb:cell_null.63_4	63.4	63.4	63.4	CD	NUMBER	63.4	63.4				
+5	2	fb:cell_interval_kepercayaan_95_dari.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+5	3	fb:cell_interval_kepercayaan_95_sampai.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+5	4	fb:cell_rasio_peluang.3_05	3.05	3.05	3.05	CD	NUMBER	3.05	3.05				
+5	5	fb:cell_interval_kepercayaan_95_dari_2.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+5	6	fb:cell_interval_kepercayaan_95_sampai_2.3_58	3.58	3.58	3.58	CD	NUMBER	3.58	3.58				
+6	0	fb:cell_kharakteristik.kelompok_usia_35_hingga_44_tahun	kelompok usia 35 hingga 44 tahun	kelompok|usia|35|hingga|44|tahun	kelompok|usia|35|hingga|44|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||35.0||44.0|	35.0		44.0		
+6	1	fb:cell_null.58_7	58.7	58.7	58.7	CD	NUMBER	58.7	58.7				
+6	2	fb:cell_interval_kepercayaan_95_dari.55_4	55.4	55.4	55.4	CD	NUMBER	55.4	55.4				
+6	3	fb:cell_interval_kepercayaan_95_sampai.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+6	4	fb:cell_rasio_peluang.2_46	2.46	2.46	2.46	CD	NUMBER	2.46	2.46				
+6	5	fb:cell_interval_kepercayaan_95_dari_2.2_01	2.01	2.01	2.01	CD	NUMBER	2.01	2.01				
+6	6	fb:cell_interval_kepercayaan_95_sampai_2.3_01	3.01	3.01	3.01	CD	NUMBER	3.01	3.01				
+7	0	fb:cell_kharakteristik.kelompok_usia_45_atau_lebih	kelompok usia 45 atau lebih	kelompok|usia|45|atau|lebih	kelompok|usia|45|atau|lebih	NNP|NNP|CD|NN|NN	O|O|NUMBER|O|O	||45.0||	45.0				
+7	1	fb:cell_null.35_8	35.8	35.8	35.8	CD	NUMBER	35.8	35.8				
+7	2	fb:cell_interval_kepercayaan_95_dari.34_2	34.2	34.2	34.2	CD	NUMBER	34.2	34.2				
+7	3	fb:cell_interval_kepercayaan_95_sampai.37_3	37.3	37.3	37.3	CD	NUMBER	37.3	37.3				
+7	4	fb:cell_rasio_peluang.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+7	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+8	0	fb:cell_kharakteristik.pendidikan	pendidikan	pendidikan	pendidikan	NNP	O						
+8	1	fb:cell_null.null											
+8	2	fb:cell_interval_kepercayaan_95_dari.null											
+8	3	fb:cell_interval_kepercayaan_95_sampai.null											
+8	4	fb:cell_rasio_peluang.null											
+8	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+8	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+9	0	fb:cell_kharakteristik.pendidikan_ijazah_menengah_atau_setara_atau_kurang	pendidikan ijazah menengah atau setara atau kurang	pendidikan|ijazah|menengah|atau|setara|atau|kurang	pendidikan|ijazah|menengah|atau|setara|atau|kurang	NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+9	1	fb:cell_null.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+9	2	fb:cell_interval_kepercayaan_95_dari.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+9	3	fb:cell_interval_kepercayaan_95_sampai.40_7	40.7	40.7	40.7	CD	NUMBER	40.7	40.7				
+9	4	fb:cell_rasio_peluang.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+9	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+10	0	fb:cell_kharakteristik.pendidikan_beberapa_pendidikan_pasca_sekolah_menengah	pendidikan beberapa pendidikan pasca sekolah menengah	pendidikan|beberapa|pendidikan|pasca|sekolah|menengah	pendidikan|beberapa|pendidikan|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_null.50_2	50.2	50.2	50.2	CD	NUMBER	50.2	50.2				
+10	2	fb:cell_interval_kepercayaan_95_dari.48_2	48.2	48.2	48.2	CD	NUMBER	48.2	48.2				
+10	3	fb:cell_interval_kepercayaan_95_sampai.52_1	52.1	52.1	52.1	CD	NUMBER	52.1	52.1				
+10	4	fb:cell_rasio_peluang.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+10	5	fb:cell_interval_kepercayaan_95_dari_2.1_32	1.32	1.32	1.32	CD	NUMBER	1.32	1.32				
+10	6	fb:cell_interval_kepercayaan_95_sampai_2.1_71	1.71	1.71	1.71	CD	NUMBER	1.71	1.71				
+11	0	fb:cell_kharakteristik.sertifikat_universitas_pendidikan_diploma_atau_gelar	sertifikat universitas pendidikan, diploma atau gelar	sertifikat|universitas|pendidikan|,|diploma|atau|gelar	sertifikat|universitas|pendidikan|,|diploma|atau|gelar	NNP|NNPS|NNP|,|NN|NN|NN	O|O|O|O|O|O|O	||||||				sertifikat universitas pendidikan|diploma atau gelar	fb:part_kharakteristik.sertifikat_universitas_pendidikan|fb:part_kharakteristik.diploma_atau_gelar
+11	1	fb:cell_null.58_6	58.6	58.6	58.6	CD	NUMBER	58.6	58.6				
+11	2	fb:cell_interval_kepercayaan_95_dari.56_2	56.2	56.2	56.2	CD	NUMBER	56.2	56.2				
+11	3	fb:cell_interval_kepercayaan_95_sampai.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+11	4	fb:cell_rasio_peluang.2_11	2.11	2.11	2.11	CD	NUMBER	2.11	2.11				
+11	5	fb:cell_interval_kepercayaan_95_dari_2.1_84	1.84	1.84	1.84	CD	NUMBER	1.84	1.84				
+11	6	fb:cell_interval_kepercayaan_95_sampai_2.2_42	2.42	2.42	2.42	CD	NUMBER	2.42	2.42				
+12	0	fb:cell_kharakteristik.pendidikan_tidak_berlaku_tidak_tahu_menolak_tidak_disebutkan	pendidikan tidak berlaku/tidak tahu/menolak/tidak disebutkan	pendidikan|tidak|berlaku/tidak|tahu/menolak/tidak|disebutkan	pendidikan|tidak|berlaku/tidak|tahu/menolak/tidak|disebutkan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||				pendidikan tidak berlaku|tidak tahu|menolak|tidak disebutkan	fb:part_kharakteristik.pendidikan_tidak_berlaku|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.menolak|fb:part_kharakteristik.tidak_disebutkan
+12	1	fb:cell_null.39_2	39.2	39.2	39.2	CD	NUMBER	39.2	39.2				
+12	2	fb:cell_interval_kepercayaan_95_dari.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+12	3	fb:cell_interval_kepercayaan_95_sampai.47_6	47.6	47.6	47.6	CD	NUMBER	47.6	47.6				
+12	4	fb:cell_rasio_peluang.null											
+12	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+12	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+13	0	fb:cell_kharakteristik.bekerja_di_pekerjaan	bekerja di pekerjaan	bekerja|di|pekerjaan	bekerja|di|pekerjaan	NNP|NNP|NNP	O|O|O	||					
+13	1	fb:cell_null.null											
+13	2	fb:cell_interval_kepercayaan_95_dari.null											
+13	3	fb:cell_interval_kepercayaan_95_sampai.null											
+13	4	fb:cell_rasio_peluang.null											
+13	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+13	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+14	0	fb:cell_kharakteristik.bekerja_di_tempat_kerja_ya	bekerja di tempat kerja ya	bekerja|di|tempat|kerja|ya	bekerja|di|tempat|kerja|ya	NNP|NNP|NNP|NNP|PRP	O|O|O|O|O	||||					
+14	1	fb:cell_null.57_3	57.3	57.3	57.3	CD	NUMBER	57.3	57.3				
+14	2	fb:cell_interval_kepercayaan_95_dari.55_7	55.7	55.7	55.7	CD	NUMBER	55.7	55.7				
+14	3	fb:cell_interval_kepercayaan_95_sampai.58_8	58.8	58.8	58.8	CD	NUMBER	58.8	58.8				
+14	4	fb:cell_rasio_peluang.2_62	2.62	2.62	2.62	CD	NUMBER	2.62	2.62				
+14	5	fb:cell_interval_kepercayaan_95_dari_2.2_34	2.34	2.34	2.34	CD	NUMBER	2.34	2.34				
+14	6	fb:cell_interval_kepercayaan_95_sampai_2.2_94	2.94	2.94	2.94	CD	NUMBER	2.94	2.94				
+15	0	fb:cell_kharakteristik.bekerja_di_pekerjaan_no	bekerja di pekerjaan no	bekerja|di|pekerjaan|no	bekerja|di|pekerjaan|no	NNP|NNP|NNP|DT	O|O|O|O	|||					
+15	1	fb:cell_null.33_8	33.8	33.8	33.8	CD	NUMBER	33.8	33.8				
+15	2	fb:cell_interval_kepercayaan_95_dari.31_7	31.7	31.7	31.7	CD	NUMBER	31.7	31.7				
+15	3	fb:cell_interval_kepercayaan_95_sampai.35_9	35.9	35.9	35.9	CD	NUMBER	35.9	35.9				
+15	4	fb:cell_rasio_peluang.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+15	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+16	0	fb:cell_kharakteristik.bekerja_pada_pekerjaan_tidak_melamar_tidak_tahu_penolakan_tidak_disebutkan	bekerja pada pekerjaan tidak melamar / tidak tahu / penolakan / tidak disebutkan	bekerja|pada|pekerjaan|tidak|melamar|/|tidak|tahu|/|penolakan|/|tidak|disebutkan	bekerja|pada|pekerjaan|tidak|melamar|/|tidak|tahu|/|penolakan|/|tidak|disebutkan	NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|:|NN|:|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				bekerja pada pekerjaan tidak melamar|tidak tahu|penolakan|tidak disebutkan	fb:part_kharakteristik.bekerja_pada_pekerjaan_tidak_melamar|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.penolakan|fb:part_kharakteristik.tidak_disebutkan
+16	1	fb:cell_null.20_4	20.4	20.4	20.4	CD	NUMBER	20.4	20.4				
+16	2	fb:cell_interval_kepercayaan_95_dari.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+16	3	fb:cell_interval_kepercayaan_95_sampai.22_5	22.5	22.5	22.5	CD	NUMBER	22.5	22.5				
+16	4	fb:cell_rasio_peluang.null											
+16	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+16	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+17	0	fb:cell_kharakteristik.status_pekerjaan	status pekerjaan	status|pekerjaan	status|pekerjaan	NN|NN	O|O	|					
+17	1	fb:cell_null.null											
+17	2	fb:cell_interval_kepercayaan_95_dari.null											
+17	3	fb:cell_interval_kepercayaan_95_sampai.null											
+17	4	fb:cell_rasio_peluang.null											
+17	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+17	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+18	0	fb:cell_kharakteristik.status_pekerjaan_pegawai	status pekerjaan pegawai	status|pekerjaan|pegawai	status|pekerjaan|pegawai	NN|NN|NN	O|O|O	||					
+18	1	fb:cell_null.58_7	58.7	58.7	58.7	CD	NUMBER	58.7	58.7				
+18	2	fb:cell_interval_kepercayaan_95_dari.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+18	3	fb:cell_interval_kepercayaan_95_sampai.60_5	60.5	60.5	60.5	CD	NUMBER	60.5	60.5				
+18	4	fb:cell_rasio_peluang.1_23	1.23	1.23	1.23	CD	NUMBER	1.23	1.23				
+18	5	fb:cell_interval_kepercayaan_95_dari_2.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+18	6	fb:cell_interval_kepercayaan_95_sampai_2.1_45	1.45	1.45	1.45	CD	NUMBER	1.45	1.45				
+19	0	fb:cell_kharakteristik.status_pekerjaan_wiraswasta_usaha_keluarga_tidak_dibayar	status pekerjaan wiraswasta/usaha keluarga tidak dibayar	status|pekerjaan|wiraswasta/usaha|keluarga|tidak|dibayar	status|pekerjaan|wiraswasta/usaha|keluarga|tidak|dibayar	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				status pekerjaan wiraswasta|usaha keluarga tidak dibayar	fb:part_kharakteristik.status_pekerjaan_wiraswasta|fb:part_kharakteristik.usaha_keluarga_tidak_dibayar
+19	1	fb:cell_null.53_4	53.4	53.4	53.4	CD	NUMBER	53.4	53.4				
+19	2	fb:cell_interval_kepercayaan_95_dari.49_5	49.5	49.5	49.5	CD	NUMBER	49.5	49.5				
+19	3	fb:cell_interval_kepercayaan_95_sampai.57_3	57.3	57.3	57.3	CD	NUMBER	57.3	57.3				
+19	4	fb:cell_rasio_peluang.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+19	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+19	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+20	0	fb:cell_kharakteristik.status_pekerjaan_tidak_berlaku_tidak_tahu_penolakan_tidak_disebutkan	status pekerjaan tidak berlaku/tidak tahu/penolakan/tidak disebutkan	status|pekerjaan|tidak|berlaku/tidak|tahu/penolakan/tidak|disebutkan	status|pekerjaan|tidak|berlaku/tidak|tahu/penolakan/tidak|disebutkan	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				status pekerjaan tidak berlaku|tidak tahu|penolakan|tidak disebutkan	fb:part_kharakteristik.status_pekerjaan_tidak_berlaku|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.penolakan|fb:part_kharakteristik.tidak_disebutkan
+20	1	fb:cell_null.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+20	2	fb:cell_interval_kepercayaan_95_dari.32_1	32.1	32.1	32.1	CD	NUMBER	32.1	32.1				
+20	3	fb:cell_interval_kepercayaan_95_sampai.35_2	35.2	35.2	35.2	CD	NUMBER	35.2	35.2				
+20	4	fb:cell_rasio_peluang.null											
+20	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+20	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+21	0	fb:cell_kharakteristik.pendapatan_rumah_tangga	pendapatan rumah tangga	pendapatan|rumah|tangga	pendapatan|rumah|tangga	NNP|NNP|NNP	O|O|O	||					
+21	1	fb:cell_null.null											
+21	2	fb:cell_interval_kepercayaan_95_dari.null											
+21	3	fb:cell_interval_kepercayaan_95_sampai.null											
+21	4	fb:cell_rasio_peluang.null											
+21	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+21	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+22	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_39_999_atau_kurang	pendapatan rumah tangga $39,999 atau kurang	pendapatan|rumah|tangga|$|39,999|atau|kurang	pendapatan|rumah|tangga|$|39,999|atau|kurang	NNP|NNP|NNP|$|CD|NN|NN	O|O|O|MONEY|MONEY|O|O	|||$39999.0|$39999.0||	39999.0				
+22	1	fb:cell_null.31_4	31.4	31.4	31.4	CD	NUMBER	31.4	31.4				
+22	2	fb:cell_interval_kepercayaan_95_dari.29_5	29.5	29.5	29.5	CD	NUMBER	29.5	29.5				
+22	3	fb:cell_interval_kepercayaan_95_sampai.33_3	33.3	33.3	33.3	CD	NUMBER	33.3	33.3				
+22	4	fb:cell_rasio_peluang.null											
+22	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+22	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+23	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_40_000_hingga_69_999	pendapatan rumah tangga $40.000 hingga $69.999	pendapatan|rumah|tangga|$|40.000|hingga|$|69.999	pendapatan|rumah|tangga|$|40.000|hingga|$|69.999	NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||$40.0|$40.0||$69.999|$69.999	40.0		69.999		
+23	1	fb:cell_null.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+23	2	fb:cell_interval_kepercayaan_95_dari.42_8	42.8	42.8	42.8	CD	NUMBER	42.8	42.8				
+23	3	fb:cell_interval_kepercayaan_95_sampai.47_4	47.4	47.4	47.4	CD	NUMBER	47.4	47.4				
+23	4	fb:cell_rasio_peluang.null											
+23	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+23	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+24	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_70_000_hingga_99_999	pendapatan rumah tangga $70.000 hingga $99.999	pendapatan|rumah|tangga|$|70.000|hingga|$|99.999	pendapatan|rumah|tangga|$|70.000|hingga|$|99.999	NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||$70.0|$70.0||$99.999|$99.999	70.0		99.999		
+24	1	fb:cell_null.51_6	51.6	51.6	51.6	CD	NUMBER	51.6	51.6				
+24	2	fb:cell_interval_kepercayaan_95_dari.48_8	48.8	48.8	48.8	CD	NUMBER	48.8	48.8				
+24	3	fb:cell_interval_kepercayaan_95_sampai.54_4	54.4	54.4	54.4	CD	NUMBER	54.4	54.4				
+24	4	fb:cell_rasio_peluang.null											
+24	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+24	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+25	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_100_000_hingga_149_999	pendapatan rumah tangga $100,000 hingga $149,999	pendapatan|rumah|tangga|$|100,000|hingga|$|149,999	pendapatan|rumah|tangga|$|100,000|hingga|$|149,999	NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||$100000.0|$100000.0||$149999.0|$149999.0	100000.0		149999.0		
+25	1	fb:cell_null.58_3	58.3	58.3	58.3	CD	NUMBER	58.3	58.3				
+25	2	fb:cell_interval_kepercayaan_95_dari.55_4	55.4	55.4	55.4	CD	NUMBER	55.4	55.4				
+25	3	fb:cell_interval_kepercayaan_95_sampai.61_2	61.2	61.2	61.2	CD	NUMBER	61.2	61.2				
+25	4	fb:cell_rasio_peluang.null											
+25	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+25	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+26	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_150_000_atau_lebih	pendapatan rumah tangga $150,000 atau lebih	pendapatan|rumah|tangga|$|150,000|atau|lebih	pendapatan|rumah|tangga|$|150,000|atau|lebih	NNP|NNP|NNP|$|CD|NN|NN	O|O|O|MONEY|MONEY|O|O	|||$150000.0|$150000.0||	150000.0				
+26	1	fb:cell_null.62_9	62.9	62.9	62.9	CD	NUMBER	62.9	62.9				
+26	2	fb:cell_interval_kepercayaan_95_dari.59_8	59.8	59.8	59.8	CD	NUMBER	59.8	59.8				
+26	3	fb:cell_interval_kepercayaan_95_sampai.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+26	4	fb:cell_rasio_peluang.null											
+26	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+26	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+27	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_tidak_berlaku_tidak_tahu_menolak_tidak_disebutkan	pendapatan rumah tangga tidak berlaku/tidak tahu/menolak/tidak disebutkan	pendapatan|rumah|tangga|tidak|berlaku/tidak|tahu/menolak/tidak|disebutkan	pendapatan|rumah|tangga|tidak|berlaku/tidak|tahu/menolak/tidak|disebutkan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				pendapatan rumah tangga tidak berlaku|tidak tahu|menolak|tidak disebutkan	fb:part_kharakteristik.pendapatan_rumah_tangga_tidak_berlaku|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.menolak|fb:part_kharakteristik.tidak_disebutkan
+27	1	fb:cell_null.62_5	62.5	62.5	62.5	CD	NUMBER	62.5	62.5				
+27	2	fb:cell_interval_kepercayaan_95_dari.41_2	41.2	41.2	41.2	CD	NUMBER	41.2	41.2				
+27	3	fb:cell_interval_kepercayaan_95_sampai.83_8	83.8	83.8	83.8	CD	NUMBER	83.8	83.8				
+27	4	fb:cell_rasio_peluang.null											
+27	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+27	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+28	0	fb:cell_kharakteristik.wilayah	wilayah	wilayah	wilayah	NNP	O						
+28	1	fb:cell_null.null											
+28	2	fb:cell_interval_kepercayaan_95_dari.null											
+28	3	fb:cell_interval_kepercayaan_95_sampai.null											
+28	4	fb:cell_rasio_peluang.null											
+28	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+28	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+29	0	fb:cell_kharakteristik.wilayah_provinsi_barat	wilayah provinsi barat	wilayah|provinsi|barat	wilayah|provinsi|barat	NNP|NNP|NNP	O|O|O	||					
+29	1	fb:cell_null.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+29	2	fb:cell_interval_kepercayaan_95_dari.52_9	52.9	52.9	52.9	CD	NUMBER	52.9	52.9				
+29	3	fb:cell_interval_kepercayaan_95_sampai.57_1	57.1	57.1	57.1	CD	NUMBER	57.1	57.1				
+29	4	fb:cell_rasio_peluang.1_24	1.24	1.24	1.24	CD	NUMBER	1.24	1.24				
+29	5	fb:cell_interval_kepercayaan_95_dari_2.1_05	1.05	1.05	1.05	CD	NUMBER	1.05	1.05				
+29	6	fb:cell_interval_kepercayaan_95_sampai_2.1_46	1.46	1.46	1.46	CD	NUMBER	1.46	1.46				
+30	0	fb:cell_kharakteristik.wilayah_quebec	wilayah Quebec	wilayah|quebec	wilayah|Quebec	NNP|NNP	O|O	|					
+30	1	fb:cell_null.36_7	36.7	36.7	36.7	CD	NUMBER	36.7	36.7				
+30	2	fb:cell_interval_kepercayaan_95_dari.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+30	3	fb:cell_interval_kepercayaan_95_sampai.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+30	4	fb:cell_rasio_peluang.0_59	0.59	0.59	0.59	CD	NUMBER	0.59	0.59				
+30	5	fb:cell_interval_kepercayaan_95_dari_2.0_49	0.49	0.49	0.49	CD	NUMBER	0.49	0.49				
+30	6	fb:cell_interval_kepercayaan_95_sampai_2.0_71	0.71	0.71	0.71	CD	NUMBER	0.71	0.71				
+31	0	fb:cell_kharakteristik.wilayah_provinsi_atlantik	wilayah provinsi Atlantik	wilayah|provinsi|atlantik	wilayah|provinsi|Atlantik	NNP|NNP|NNP	O|O|O	||					
+31	1	fb:cell_null.47_4	47.4	47.4	47.4	CD	NUMBER	47.4	47.4				
+31	2	fb:cell_interval_kepercayaan_95_dari.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+31	3	fb:cell_interval_kepercayaan_95_sampai.49_7	49.7	49.7	49.7	CD	NUMBER	49.7	49.7				
+31	4	fb:cell_rasio_peluang.0_93	0.93	0.93	0.93	CD	NUMBER	0.93	0.93				
+31	5	fb:cell_interval_kepercayaan_95_dari_2.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+31	6	fb:cell_interval_kepercayaan_95_sampai_2.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+32	0	fb:cell_kharakteristik.wilayah_ontario	wilayah ontario	wilayah|ontario	wilayah|ontario	NNP|NNP	O|O	|					
+32	1	fb:cell_null.49_5	49.5	49.5	49.5	CD	NUMBER	49.5	49.5				
+32	2	fb:cell_interval_kepercayaan_95_dari.47_4	47.4	47.4	47.4	CD	NUMBER	47.4	47.4				
+32	3	fb:cell_interval_kepercayaan_95_sampai.51_6	51.6	51.6	51.6	CD	NUMBER	51.6	51.6				
+32	4	fb:cell_rasio_peluang.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+32	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+32	6	fb:cell_interval_kepercayaan_95_sampai_2.null											

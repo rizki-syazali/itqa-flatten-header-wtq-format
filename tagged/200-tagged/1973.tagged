@@ -1,0 +1,92 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.indeks_indeks_keparahan_kejahatan_remaja_total	indeks indeks keparahan kejahatan remaja total	indeks|indeks|keparahan|kejahatan|remaja|total	indeks|indeks|keparahan|kejahatan|remaja|total	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya	total persentase indeks keparahan kejahatan remaja berubah dari tahun sebelumnya	total|persentase|indeks|keparahan|kejahatan|remaja|berubah|dari|tahun|sebelumnya	total|persentase|indeks|keparahan|kejahatan|remaja|berubah|dari|tahun|sebelumnya	JJ|NN|NN|NN|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	3	fb:row.row.indeks_indeks_keparahan_kejahatan_kekerasan_remaja	indeks indeks keparahan kejahatan kekerasan remaja	indeks|indeks|keparahan|kejahatan|kekerasan|remaja	indeks|indeks|keparahan|kejahatan|kekerasan|remaja	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya	persentase indeks keparahan kejahatan kekerasan remaja berubah dari tahun sebelumnya	persentase|indeks|keparahan|kejahatan|kekerasan|remaja|berubah|dari|tahun|sebelumnya	persentase|indek|keparahan|kejahatan|kekerasan|remaja|berubah|dari|tahun|sebelumnya	NN|VBZ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	5	fb:row.row.indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja	indeks indeks keparahan kejahatan tanpa kekerasan remaja	indeks|indeks|keparahan|kejahatan|tanpa|kekerasan|remaja	indeks|indeks|keparahan|kejahatan|tanpa|kekerasan|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	6	fb:row.row.persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya	persentase indeks keparahan kejahatan tanpa kekerasan remaja berubah dari tahun sebelumnya	persentase|indeks|keparahan|kejahatan|tanpa|kekerasan|remaja|berubah|dari|tahun|sebelumnya	persentase|indek|keparahan|kejahatan|tanpa|kekerasan|remaja|berubah|dari|tahun|sebelumnya	NN|VBZ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+0	0	fb:cell_kharakteristik.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx			
+0	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.101_5	101.5	101.5	101.5	CD	NUMBER	101.5	101.5				
+0	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+0	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.102_1	102.1	102.1	102.1	CD	NUMBER	102.1	102.1				
+0	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+0	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.101_0	101.0	101.0	101.0	CD	NUMBER	101.0	101.0				
+0	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	0	fb:cell_kharakteristik.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx			
+1	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.95_7	95.7	95.7	95.7	CD	NUMBER	95.7	95.7				
+1	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+1	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.95_7	95.7	95.7	95.7	CD	NUMBER	95.7	95.7				
+1	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+1	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.95_6	95.6	95.6	95.6	CD	NUMBER	95.6	95.6				
+1	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+2	0	fb:cell_kharakteristik.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx			
+2	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.95_6	95.6	95.6	95.6	CD	NUMBER	95.6	95.6				
+2	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.96_7	96.7	96.7	96.7	CD	NUMBER	96.7	96.7				
+2	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.94_7	94.7	94.7	94.7	CD	NUMBER	94.7	94.7				
+2	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+3	0	fb:cell_kharakteristik.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx			
+3	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+3	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+3	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.93_2	93.2	93.2	93.2	CD	NUMBER	93.2	93.2				
+3	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+3	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.87_6	87.6	87.6	87.6	CD	NUMBER	87.6	87.6				
+3	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+4	0	fb:cell_kharakteristik.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx			
+4	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.81_7	81.7	81.7	81.7	CD	NUMBER	81.7	81.7				
+4	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+4	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.87_4	87.4	87.4	87.4	CD	NUMBER	87.4	87.4				
+4	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+4	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.77_2	77.2	77.2	77.2	CD	NUMBER	77.2	77.2				
+4	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+5	0	fb:cell_kharakteristik.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx			
+5	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+5	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+5	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.82_2	82.2	82.2	82.2	CD	NUMBER	82.2	82.2				
+5	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+5	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.73_5	73.5	73.5	73.5	CD	NUMBER	73.5	73.5				
+5	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+6	0	fb:cell_kharakteristik.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx			
+6	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.66_2	66.2	66.2	66.2	CD	NUMBER	66.2	66.2				
+6	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+6	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.71_3	71.3	71.3	71.3	CD	NUMBER	71.3	71.3				
+6	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+6	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.62_3	62.3	62.3	62.3	CD	NUMBER	62.3	62.3				
+6	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+7	0	fb:cell_kharakteristik.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx			
+7	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+7	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+7	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+7	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+7	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.57_8	57.8	57.8	57.8	CD	NUMBER	57.8	57.8				
+7	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+8	0	fb:cell_kharakteristik.2015	2015	2015	2015	CD	DATE	2015	2015.0	2015-xx-xx			
+8	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.61_3	61.3	61.3	61.3	CD	NUMBER	61.3	61.3				
+8	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+8	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+8	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.56_7	56.7	56.7	56.7	CD	NUMBER	56.7	56.7				
+8	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+9	0	fb:cell_kharakteristik.2016r	2016r	2016r	2016r	NN	O		2016.0				
+9	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.61_2	61.2	61.2	61.2	CD	NUMBER	61.2	61.2				
+9	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+9	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.72_5	72.5	72.5	72.5	CD	NUMBER	72.5	72.5				
+9	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+9	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.52_9	52.9	52.9	52.9	CD	NUMBER	52.9	52.9				
+9	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+10	0	fb:cell_kharakteristik.2017	2017	2017	2017	CD	DATE	2017	2017.0	2017-xx-xx			
+10	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+10	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+10	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.81_2	81.2	81.2	81.2	CD	NUMBER	81.2	81.2				
+10	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+10	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+10	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+11	0	fb:cell_kharakteristik.persen_perubahan_2007_ke_2017	persen perubahan 2007 ke 2017	persen|perubahan|2007|ke|2017	persen|perubahan|2007|ke|2017	NNP|NNP|CD|NNP|CD	O|O|DATE|O|DATE	||2007||2017	2007.0		2017.0		
+11	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total._38_0	-38.0	-38.0	-38.0	CD	NUMBER	-38.0	38.0				
+11	2	fb:cell_total_persentase_indeks_keparahan_kejahatan_remaja_berubah_dari_tahun_sebelumnya.null											
+11	3	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+11	4	fb:cell_persentase_indeks_keparahan_kejahatan_kekerasan_remaja_berubah_dari_tahun_sebelumnya.null											
+11	5	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja._50_0	-50.0	-50.0	-50.0	CD	NUMBER	-50.0	50.0				
+11	6	fb:cell_persentase_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_berubah_dari_tahun_sebelumnya.null											

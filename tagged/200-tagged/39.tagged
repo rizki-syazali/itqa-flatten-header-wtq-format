@@ -1,0 +1,21 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.peternakan	peternakan	peternakan	peternakan	NNP	O						
+-1	2	fb:row.row.peternakan_melaporkan_pengendalian_lingkungan	peternakan melaporkan pengendalian lingkungan	peternakan|melaporkan|pengendalian|lingkungan	peternakan|melaporkan|pengendalian|lingkungan	JJ|NN|NN|NN	O|O|O|O	|||					
+-1	3	fb:row.row.persentase_peternakan_dalam_kategori	persentase peternakan dalam kategori	persentase|peternakan|dalam|kategori	persentase|peternakan|dalam|kategori	NN|NN|NN|NN	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.kurang_dari_200	kurang dari 200	kurang|dari|200	kurang|dari|200	NNP|NNP|CD	O|O|NUMBER	||200.0	200.0				
+0	1	fb:cell_peternakan.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+0	2	fb:cell_peternakan_melaporkan_pengendalian_lingkungan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+0	3	fb:cell_persentase_peternakan_dalam_kategori.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+1	0	fb:cell_kharakteristik.200_hingga_399	200 hingga 399	200|hingga|399	200|hingga|399	CD|NN|CD	NUMBER|O|NUMBER	200.0||399.0	200.0		399.0		
+1	1	fb:cell_peternakan.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+1	2	fb:cell_peternakan_melaporkan_pengendalian_lingkungan.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+1	3	fb:cell_persentase_peternakan_dalam_kategori.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+2	0	fb:cell_kharakteristik.400_hingga_999	400 hingga 999	400|hingga|999	400|hingga|999	CD|NN|CD	NUMBER|O|NUMBER	400.0||999.0	400.0		999.0		
+2	1	fb:cell_peternakan.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+2	2	fb:cell_peternakan_melaporkan_pengendalian_lingkungan.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+2	3	fb:cell_persentase_peternakan_dalam_kategori.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+3	0	fb:cell_kharakteristik.1_000_atau_lebih	1.000 atau lebih	1.000|atau|lebih	1.000|atau|lebih	CD|NN|NN	NUMBER|O|O	1.0||	1.0				
+3	1	fb:cell_peternakan.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+3	2	fb:cell_peternakan_melaporkan_pengendalian_lingkungan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+3	3	fb:cell_persentase_peternakan_dalam_kategori.57_1	57.1	57.1	57.1	CD	NUMBER	57.1	57.1				

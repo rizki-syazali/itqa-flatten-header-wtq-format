@@ -1,0 +1,29 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.sebaran_jumlah_imigran	sebaran jumlah imigran	sebaran|jumlah|imigran	sebaran|jumlah|imigran	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.distribusi_persen_imigran	distribusi persen imigran	distribusi|persen|imigran	distribusi|persen|imigran	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.distribusi_bagian_imigran_dari_pelapor_pajak	distribusi bagian imigran dari pelapor pajak	distribusi|bagian|imigran|dari|pelapor|pajak	distribusi|bagian|imigran|dari|pelapor|pajak	NN|JJ|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	0	fb:cell_kharakteristik.tingkat_pendidikan_pada_saat_kedatangan	tingkat pendidikan pada saat kedatangan	tingkat|pendidikan|pada|saat|kedatangan	tingkat|pendidikan|pada|saat|kedatangan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_sebaran_jumlah_imigran.null											
+0	2	fb:cell_distribusi_persen_imigran.null											
+0	3	fb:cell_distribusi_bagian_imigran_dari_pelapor_pajak.null											
+1	0	fb:cell_kharakteristik.tingkat_pendidikan_di_sekolah_menengah_atas_atau_kurang	tingkat pendidikan di sekolah menengah atas atau kurang	tingkat|pendidikan|di|sekolah|menengah|atas|atau|kurang	tingkat|pendidikan|di|sekolah|menengah|atas|atau|kurang	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_sebaran_jumlah_imigran.353220_0	353220.0	353220.0	353220.0	CD	NUMBER	353220.0	353220.0				
+1	2	fb:cell_distribusi_persen_imigran.46_3	46.3	46.3	46.3	CD	NUMBER	46.3	46.3				
+1	3	fb:cell_distribusi_bagian_imigran_dari_pelapor_pajak.0_177	0.177	0.177	0.177	CD	NUMBER	0.177	0.177				
+2	0	fb:cell_kharakteristik.tingkat_pendidikan_pada_saat_kedatangan_di_beberapa_universitas	tingkat pendidikan pada saat kedatangan di beberapa universitas	tingkat|pendidikan|pada|saat|kedatangan|di|beberapa|universitas	tingkat|pendidikan|pada|saat|kedatangan|di|beberapa|universitas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_sebaran_jumlah_imigran.175780_0	175780.0	175780.0	175780.0	CD	NUMBER	175780.0	175780.0				
+2	2	fb:cell_distribusi_persen_imigran.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+2	3	fb:cell_distribusi_bagian_imigran_dari_pelapor_pajak.0_227	0.227	0.227	0.227	CD	NUMBER	0.227	0.227				
+3	0	fb:cell_kharakteristik.tingkat_pendidikan_pada_saat_kedatangan_gelar_sarjana	tingkat pendidikan pada saat kedatangan gelar sarjana	tingkat|pendidikan|pada|saat|kedatangan|gelar|sarjana	tingkat|pendidikan|pada|saat|kedatangan|gelar|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_sebaran_jumlah_imigran.164220_0	164220.0	164220.0	164220.0	CD	NUMBER	164220.0	164220.0				
+3	2	fb:cell_distribusi_persen_imigran.21_5	21.5	21.5	21.5	CD	NUMBER	21.5	21.5				
+3	3	fb:cell_distribusi_bagian_imigran_dari_pelapor_pajak.0_216	0.216	0.216	0.216	CD	NUMBER	0.216	0.216				
+4	0	fb:cell_kharakteristik.tingkat_pendidikan_pada_saat_kedatangan_pendidikan_lebih_besar_dari_gelar_sarjana	tingkat pendidikan pada saat kedatangan pendidikan lebih besar dari gelar sarjana	tingkat|pendidikan|pada|saat|kedatangan|pendidikan|lebih|besar|dari|gelar|sarjana	tingkat|pendidikan|pada|saat|kedatangan|pendidikan|lebih|besar|dari|gelar|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+4	1	fb:cell_sebaran_jumlah_imigran.70280_0	70280.0	70280.0	70280.0	CD	NUMBER	70280.0	70280.0				
+4	2	fb:cell_distribusi_persen_imigran.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+4	3	fb:cell_distribusi_bagian_imigran_dari_pelapor_pajak.0_229	0.229	0.229	0.229	CD	NUMBER	0.229	0.229				
+5	0	fb:cell_kharakteristik.tingkat_pendidikan_pada_saat_kedatangan_semua_tingkat_pendidikan_pada_saat_kedatangan	tingkat pendidikan pada saat kedatangan semua tingkat pendidikan pada saat kedatangan	tingkat|pendidikan|pada|saat|kedatangan|semua|tingkat|pendidikan|pada|saat|kedatangan	tingkat|pendidikan|pada|saat|kedatangan|semua|tingkat|pendidikan|pada|saat|kedatangan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+5	1	fb:cell_sebaran_jumlah_imigran.763490_0	763490.0	763490.0	763490.0	CD	NUMBER	763490.0	763490.0				
+5	2	fb:cell_distribusi_persen_imigran.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+5	3	fb:cell_distribusi_bagian_imigran_dari_pelapor_pajak.0_199	0.199	0.199	0.199	CD	NUMBER	0.199	0.199				

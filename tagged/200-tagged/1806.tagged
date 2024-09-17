@@ -1,0 +1,45 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persen	persen	persen	persen	NNP	O						
+0	0	fb:cell_kharakteristik.konstruksi	konstruksi	konstruksi	konstruksi	NNP	O						
+0	1	fb:cell_persen.72_5	72.5	72.5	72.5	CD	NUMBER	72.5	72.5				
+1	0	fb:cell_kharakteristik.pertambangan_penggalian_dan_ekstraksi_minyak_dan_gas	pertambangan, penggalian dan ekstraksi minyak dan gas	pertambangan|,|penggalian|dan|ekstraksi|minyak|dan|gas	pertambangan|,|penggalian|dan|ekstraksi|minyak|dan|gas	NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				pertambangan|penggalian dan ekstraksi minyak dan gas	fb:part_kharakteristik.pertambangan|fb:part_kharakteristik.penggalian_dan_ekstraksi_minyak_dan_gas
+1	1	fb:cell_persen.70_3	70.3	70.3	70.3	CD	NUMBER	70.3	70.3				
+2	0	fb:cell_kharakteristik.administrasi_dan_dukungan_pengelolaan_limbah_dan_layanan_remediasi	administrasi dan dukungan, pengelolaan limbah dan layanan remediasi	administrasi|dan|dukungan|,|pengelolaan|limbah|dan|layanan|remediasi	administrasi|dan|dukungan|,|pengelolaan|limbah|dan|layanan|remediasi	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	O|PERSON|PERSON|O|O|O|O|O|O	||||||||				administrasi dan dukungan|pengelolaan limbah dan layanan remediasi	fb:part_kharakteristik.administrasi_dan_dukungan|fb:part_kharakteristik.pengelolaan_limbah_dan_layanan_remediasi
+2	1	fb:cell_persen.39_9	39.9	39.9	39.9	CD	NUMBER	39.9	39.9				
+3	0	fb:cell_kharakteristik.pelayanan_kesehatan_dan_bantuan_sosial	pelayanan kesehatan dan bantuan sosial	pelayanan|kesehatan|dan|bantuan|sosial	pelayanan|kesehatan|dan|bantuan|sosial	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+3	1	fb:cell_persen.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+4	0	fb:cell_kharakteristik.seni_hiburan_dan_rekreasi	seni, hiburan dan rekreasi	seni|,|hiburan|dan|rekreasi	seni|,|hiburan|dan|rekreasi	NNP|,|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||				seni|hiburan dan rekreasi	fb:part_kharakteristik.seni|fb:part_kharakteristik.hiburan_dan_rekreasi
+4	1	fb:cell_persen.38_3	38.3	38.3	38.3	CD	NUMBER	38.3	38.3				
+5	0	fb:cell_kharakteristik.layanan_profesional_ilmiah_dan_teknis	layanan profesional, ilmiah dan teknis	layanan|profesional|,|ilmiah|dan|teknis	layanan|profesional|,|ilmiah|dan|teknis	NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O	|||||				layanan profesional|ilmiah dan teknis	fb:part_kharakteristik.layanan_profesional|fb:part_kharakteristik.ilmiah_dan_teknis
+5	1	fb:cell_persen.33_8	33.8	33.8	33.8	CD	NUMBER	33.8	33.8				
+6	0	fb:cell_kharakteristik.manajemen_perusahaan_dan_perusahaan	manajemen perusahaan dan perusahaan	manajemen|perusahaan|dan|perusahaan	manajeman|perusahaan|dan|perusahaan	NNS|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+6	1	fb:cell_persen.29_1	29.1	29.1	29.1	CD	NUMBER	29.1	29.1				
+7	0	fb:cell_kharakteristik.akomodasi_dan_layanan_makanan	akomodasi dan layanan makanan	akomodasi|dan|layanan|makanan	akomodasi|dan|layanan|makanan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+7	1	fb:cell_persen.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+8	0	fb:cell_kharakteristik.perdagangan_eceran	perdagangan eceran	perdagangan|eceran	perdagangan|eceran	NNP|NNP	O|O	|					
+8	1	fb:cell_persen.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+9	0	fb:cell_kharakteristik.layanan_lainnya	layanan lainnya	layanan|lainnya	layanan|lainnya	NNP|NNP	O|O	|					
+9	1	fb:cell_persen.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+10	0	fb:cell_kharakteristik.keuangan_dan_asuransi	keuangan dan asuransi	keuangan|dan|asuransi	keuangan|dan|asuransi	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_persen.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+11	0	fb:cell_kharakteristik.layanan_pendidikan	layanan pendidikan	layanan|pendidikan	layanan|pendidikan	NNP|NNP	O|O	|					
+11	1	fb:cell_persen.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+12	0	fb:cell_kharakteristik.real_estat_dan_persewaan_dan_persewaan	real estat dan persewaan dan persewaan	real|estat|dan|persewaan|dan|persewaan	real|estat|dan|persewaan|dan|persewaan	JJ|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+12	1	fb:cell_persen.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+13	0	fb:cell_kharakteristik.perdagangan_grosir	perdagangan grosir	perdagangan|grosir	perdagangan|grosir	NNP|NNP	O|O	|					
+13	1	fb:cell_persen.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+14	0	fb:cell_kharakteristik.utilitas	utilitas	utilitas	utilitas	NNP	O						
+14	1	fb:cell_persen.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+15	0	fb:cell_kharakteristik.semua_sektor	semua sektor	semua|sektor	semua|sektor	NN|NN	O|O	|					
+15	1	fb:cell_persen.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+16	0	fb:cell_kharakteristik.semua_sektor_transportasi_dan_pergudangan	semua sektor transportasi dan pergudangan	semua|sektor|transportasi|dan|pergudangan	semua|sektor|transportasi|dan|pergudangan	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+16	1	fb:cell_persen.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+17	0	fb:cell_kharakteristik.semua_sektor_administrasi_publik	semua sektor administrasi publik	semua|sektor|administrasi|publik	semua|sektor|administrasi|publik	NN|NN|NN|NN	O|O|O|O	|||					
+17	1	fb:cell_persen.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+18	0	fb:cell_kharakteristik.semua_sektor_informasi_dan_industri_budaya	semua sektor informasi dan industri budaya	semua|sektor|informasi|dan|industri|budaya	semua|sektor|informasi|dan|industri|budaya	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+18	1	fb:cell_persen._0_3	-0.3	-0.3	-0.3	CD	NUMBER	-0.3	0.3				
+19	0	fb:cell_kharakteristik.semua_sektor_manufaktur	semua sektor manufaktur	semua|sektor|manufaktur	semua|sektor|manufaktur	NN|NN|NN	O|O|O	||					
+19	1	fb:cell_persen._23_8	-23.8	-23.8	-23.8	CD	NUMBER	-23.8	23.8				
+20	0	fb:cell_kharakteristik.semua_sektor_kehutanan_penebangan_kayu_dan_kegiatan_pendukung_kehutanan	semua sektor kehutanan, penebangan kayu dan kegiatan pendukung kehutanan	semua|sektor|kehutanan|,|penebangan|kayu|dan|kegiatan|pendukung|kehutanan	semua|sektor|kehutanan|,|penebangan|kayu|dan|kegiatan|pendukung|kehutanan	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				semua sektor kehutanan|penebangan kayu dan kegiatan pendukung kehutanan	fb:part_kharakteristik.semua_sektor_kehutanan|fb:part_kharakteristik.penebangan_kayu_dan_kegiatan_pendukung_kehutanan
+20	1	fb:cell_persen._48_2	-48.2	-48.2	-48.2	CD	NUMBER	-48.2	48.2				

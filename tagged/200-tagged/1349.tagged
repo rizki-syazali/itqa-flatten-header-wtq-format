@@ -1,0 +1,73 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_populasi_kanada	jumlah populasi Kanada	jumlah|populasi|kanada	jumlah|populasi|Kanada	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.populasi_perempuan_muda_0_hingga_24_di_wilayah_utara	populasi perempuan muda (0 hingga 24) di wilayah utara	populasi|perempuan|muda|-lrb-|0|hingga|24|-rrb-|di|wilayah|utara	populasi|perempuan|muda|-lrb-|0|hingga|24|-rrb-|di|wilayah|utara	NNP|NNP|NNS|-LRB-|CD|NN|CD|-RRB-|NNP|NNP|NNP	O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	||||0.0||24.0||||					
+-1	3	fb:row.row.populasi_perempuan_muda_mencapai_persentase	populasi perempuan muda mencapai persentase	populasi|perempuan|muda|mencapai|persentase	populasi|perempuan|muda|mencapai|persentase	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+-1	4	fb:row.row.nomor_korban_kanada	nomor korban kanada	nomor|korban|kanada	nomor|korban|kanada	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.korban_perempuan_muda_0_hingga_24_di_wilayah_utara	korban perempuan muda (0 hingga 24) di wilayah utara	korban|perempuan|muda|-lrb-|0|hingga|24|-rrb-|di|wilayah|utara	korban|perempuan|muda|-lrb-|0|hingga|24|-rrb-|di|wilayah|utara	NNP|NNP|NNS|-LRB-|CD|NN|CD|-RRB-|NNP|NNP|NNP	O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	||||0.0||24.0||||					
+-1	6	fb:row.row.korban_perempuan_muda_berjumlah_persen	korban perempuan muda berjumlah persen	korban|perempuan|muda|berjumlah|persen	korban|perempuan|muda|berjumlah|persen	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	7	fb:row.row.perbedaan_persen	perbedaan persen	perbedaan|persen	perbedaan|persen	NNP|NNP	O|O	|					
+0	0	fb:cell_kharakteristik.total_orang_kanada	total orang Kanada	total|orang|kanada	total|orang|Kanada	JJ|NNP|NNP	O|O|O	||					
+0	1	fb:cell_jumlah_populasi_kanada.36203036_0	36203036.0	36203036.0	36203036.0	CD	NUMBER	3.6203036E7	3.6203036E7				
+0	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+0	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+0	4	fb:cell_nomor_korban_kanada.350457_0	350457.0	350457.0	350457.0	CD	NUMBER	350457.0	350457.0				
+0	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+0	6	fb:cell_korban_perempuan_muda_berjumlah_persen.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+0	7	fb:cell_perbedaan_persen.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+1	0	fb:cell_kharakteristik.total_perempuan_kanada	total perempuan Kanada	total|perempuan|kanada	total|perempuan|Kanada	JJ|NNP|NNP	O|O|O	||					
+1	1	fb:cell_jumlah_populasi_kanada.18183711_0	18183711.0	18183711.0	18183711.0	CD	NUMBER	1.8183711E7	1.8183711E7				
+1	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+1	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+1	4	fb:cell_nomor_korban_kanada.185586_0	185586.0	185586.0	185586.0	CD	NUMBER	185586.0	185586.0				
+1	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+1	6	fb:cell_korban_perempuan_muda_berjumlah_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+1	7	fb:cell_perbedaan_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+2	0	fb:cell_kharakteristik.total_orang_kanada_anak_muda_kanada	total orang Kanada anak muda Kanada	total|orang|kanada|anak|muda|kanada	total|orang|Kanada|anak|muda|Kanada	JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_jumlah_populasi_kanada.10337135_0	10337135.0	10337135.0	10337135.0	CD	NUMBER	1.0337135E7	1.0337135E7				
+2	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+2	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+2	4	fb:cell_nomor_korban_kanada.124742_0	124742.0	124742.0	124742.0	CD	NUMBER	124742.0	124742.0				
+2	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+2	6	fb:cell_korban_perempuan_muda_berjumlah_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+2	7	fb:cell_perbedaan_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+3	0	fb:cell_kharakteristik.total_perempuan_muda_kanada_muda_kanada	total perempuan muda kanada muda kanada	total|perempuan|muda|kanada|muda|kanada	total|perempuan|muda|kanada|muda|kanada	JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_jumlah_populasi_kanada.5027049_0	5027049.0	5027049.0	5027049.0	CD	NUMBER	5027049.0	5027049.0				
+3	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+3	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	4	fb:cell_nomor_korban_kanada.70058_0	70058.0	70058.0	70058.0	CD	NUMBER	70058.0	70058.0				
+3	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+3	6	fb:cell_korban_perempuan_muda_berjumlah_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+3	7	fb:cell_perbedaan_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+4	0	fb:cell_kharakteristik.total_orang_kanada_di_utara	total orang Kanada di utara	total|orang|kanada|di|utara	total|orang|Kanada|di|utara	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_jumlah_populasi_kanada.2196843_0	2196843.0	2196843.0	2196843.0	CD	NUMBER	2196843.0	2196843.0				
+4	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+4	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+4	4	fb:cell_nomor_korban_kanada.54040_0	54040.0	54040.0	54040.0	CD	NUMBER	54040.0	54040.0				
+4	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+4	6	fb:cell_korban_perempuan_muda_berjumlah_persen.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+4	7	fb:cell_perbedaan_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+5	0	fb:cell_kharakteristik.total_orang_kanada_di_utara_perempuan_di_utara	total orang Kanada di utara perempuan di utara	total|orang|kanada|di|utara|perempuan|di|utara	total|orang|Kanada|di|utara|perempuan|di|utara	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+5	1	fb:cell_jumlah_populasi_kanada.1079625_0	1079625.0	1079625.0	1079625.0	CD	NUMBER	1079625.0	1079625.0				
+5	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+5	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+5	4	fb:cell_nomor_korban_kanada.30922_0	30922.0	30922.0	30922.0	CD	NUMBER	30922.0	30922.0				
+5	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+5	6	fb:cell_korban_perempuan_muda_berjumlah_persen.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+5	7	fb:cell_perbedaan_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+6	0	fb:cell_kharakteristik.total_orang_kanada_di_utara_anak_muda_kanada_di_utara	total orang Kanada di utara anak muda Kanada di utara	total|orang|kanada|di|utara|anak|muda|kanada|di|utara	total|orang|Kanada|di|utara|anak|muda|Kanada|di|utara	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+6	1	fb:cell_jumlah_populasi_kanada.682855_0	682855.0	682855.0	682855.0	CD	NUMBER	682855.0	682855.0				
+6	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+6	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+6	4	fb:cell_nomor_korban_kanada.19404_0	19404.0	19404.0	19404.0	CD	NUMBER	19404.0	19404.0				
+6	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+6	6	fb:cell_korban_perempuan_muda_berjumlah_persen.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+6	7	fb:cell_perbedaan_persen.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+7	0	fb:cell_kharakteristik.total_orang_kanada_di_utara_kanada_muda_di_utara_perempuan_muda_di_utara	total orang Kanada di utara Kanada muda di utara perempuan muda di utara	total|orang|kanada|di|utara|kanada|muda|di|utara|perempuan|muda|di|utara	total|orang|Kanada|di|utara|Kanada|muda|di|utara|perempuan|muda|di|utara	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+7	1	fb:cell_jumlah_populasi_kanada.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+7	2	fb:cell_populasi_perempuan_muda_0_hingga_24_di_wilayah_utara.330387_0	330387.0	330387.0	330387.0	CD	NUMBER	330387.0	330387.0				
+7	3	fb:cell_populasi_perempuan_muda_mencapai_persentase.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	4	fb:cell_nomor_korban_kanada.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+7	5	fb:cell_korban_perempuan_muda_0_hingga_24_di_wilayah_utara.12036_0	12036.0	12036.0	12036.0	CD	NUMBER	12036.0	12036.0				
+7	6	fb:cell_korban_perempuan_muda_berjumlah_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	7	fb:cell_perbedaan_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				

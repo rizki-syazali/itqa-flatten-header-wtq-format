@@ -1,0 +1,73 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.luas_lahan_pertanian_hektar	luas lahan pertanian hektar	luas|lahan|pertanian|hektar	luas|lahan|pertanian|hektar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.hektar_lahan_pertanian	hektar lahan pertanian	hektar|lahan|pertanian	hektar|lahan|pertanian	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.persen_lahan_pertanian	persen lahan pertanian	persen|lahan|pertanian	persen|lahan|pertanian	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.lahan_alami_untuk_padang_rumput_berhektar_hektar	lahan alami untuk padang rumput berhektar-hektar	lahan|alami|untuk|padang|rumput|berhektar|hektar	lahan|alami|untuk|padang|rumput|berhektar|hektar	NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O	||||||					
+-1	5	fb:row.row.lahan_alami_untuk_padang_rumput_persen	lahan alami untuk padang rumput persen	lahan|alami|untuk|padang|rumput|persen	lahan|alami|untuk|padang|rumput|persen	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O	|||||					
+-1	6	fb:row.row.hektar_hutan_dan_lahan_basah	hektar hutan dan lahan basah	hektar|hutan|dan|lahan|basah	hektar|hutan|dan|lahan|basah	NN|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||					
+-1	7	fb:row.row.persen_hutan_dan_lahan_basah	persen hutan dan lahan basah	persen|hutan|dan|lahan|basah	persen|hutan|dan|lahan|basah	NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||					
+0	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+0	1	fb:cell_luas_lahan_pertanian_hektar.64812723_0	64812723.0	64812723.0	64812723.0	CD	NUMBER	6.4812723E7	6.4812723E7				
+0	2	fb:cell_hektar_lahan_pertanian.35350270_0	35350270.0	35350270.0	35350270.0	CD	NUMBER	3.535027E7	3.535027E7				
+0	3	fb:cell_persen_lahan_pertanian.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+0	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.14703330_0	14703330.0	14703330.0	14703330.0	CD	NUMBER	1.470333E7	1.470333E7				
+0	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.22_7	22.7	22.7	22.7	CD	NUMBER	22.7	22.7				
+0	6	fb:cell_hektar_hutan_dan_lahan_basah.4897367_0	4897367.0	4897367.0	4897367.0	CD	NUMBER	4897367.0	4897367.0				
+0	7	fb:cell_persen_hutan_dan_lahan_basah.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+1	0	fb:cell_kharakteristik.provinsi_atlantik_kanada	provinsi Atlantik Kanada	provinsi|atlantik|kanada	provinsi|Atlantik|Kanada	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_luas_lahan_pertanian_hektar.1063343_0	1063343.0	1063343.0	1063343.0	CD	NUMBER	1063343.0	1063343.0				
+1	2	fb:cell_hektar_lahan_pertanian.430363_0	430363.0	430363.0	430363.0	CD	NUMBER	430363.0	430363.0				
+1	3	fb:cell_persen_lahan_pertanian.40_5	40.5	40.5	40.5	CD	NUMBER	40.5	40.5				
+1	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.65711_0	65711.0	65711.0	65711.0	CD	NUMBER	65711.0	65711.0				
+1	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+1	6	fb:cell_hektar_hutan_dan_lahan_basah.450031_0	450031.0	450031.0	450031.0	CD	NUMBER	450031.0	450031.0				
+1	7	fb:cell_persen_hutan_dan_lahan_basah.42_3	42.3	42.3	42.3	CD	NUMBER	42.3	42.3				
+2	0	fb:cell_kharakteristik.kanada_quebec	Kanada Quebec	kanada|quebec	Kanada|Quebec	NNP|NNP	PERSON|O	|					
+2	1	fb:cell_luas_lahan_pertanian_hektar.3341333_0	3341333.0	3341333.0	3341333.0	CD	NUMBER	3341333.0	3341333.0				
+2	2	fb:cell_hektar_lahan_pertanian.1874760_0	1874760.0	1874760.0	1874760.0	CD	NUMBER	1874760.0	1874760.0				
+2	3	fb:cell_persen_lahan_pertanian.56_1	56.1	56.1	56.1	CD	NUMBER	56.1	56.1				
+2	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.134147_0	134147.0	134147.0	134147.0	CD	NUMBER	134147.0	134147.0				
+2	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	6	fb:cell_hektar_hutan_dan_lahan_basah.1057417_0	1057417.0	1057417.0	1057417.0	CD	NUMBER	1057417.0	1057417.0				
+2	7	fb:cell_persen_hutan_dan_lahan_basah.31_6	31.6	31.6	31.6	CD	NUMBER	31.6	31.6				
+3	0	fb:cell_kharakteristik.kanada_ontario	kanada ontario	kanada|ontario	kanada|ontario	NNP|NNP	PERSON|O	|					
+3	1	fb:cell_luas_lahan_pertanian_hektar.5126653_0	5126653.0	5126653.0	5126653.0	CD	NUMBER	5126653.0	5126653.0				
+3	2	fb:cell_hektar_lahan_pertanian.3613821_0	3613821.0	3613821.0	3613821.0	CD	NUMBER	3613821.0	3613821.0				
+3	3	fb:cell_persen_lahan_pertanian.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+3	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.398538_0	398538.0	398538.0	398538.0	CD	NUMBER	398538.0	398538.0				
+3	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+3	6	fb:cell_hektar_hutan_dan_lahan_basah.646578_0	646578.0	646578.0	646578.0	CD	NUMBER	646578.0	646578.0				
+3	7	fb:cell_persen_hutan_dan_lahan_basah.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+4	0	fb:cell_kharakteristik.manitoba_kanada	manitoba Kanada	manitoba|kanada	manitoba|Kanada	NNP|NNP	LOCATION|O	|					
+4	1	fb:cell_luas_lahan_pertanian_hektar.7293839_0	7293839.0	7293839.0	7293839.0	CD	NUMBER	7293839.0	7293839.0				
+4	2	fb:cell_hektar_lahan_pertanian.4348869_0	4348869.0	4348869.0	4348869.0	CD	NUMBER	4348869.0	4348869.0				
+4	3	fb:cell_persen_lahan_pertanian.59_6	59.6	59.6	59.6	CD	NUMBER	59.6	59.6				
+4	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.1466968_0	1466968.0	1466968.0	1466968.0	CD	NUMBER	1466968.0	1466968.0				
+4	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+4	6	fb:cell_hektar_hutan_dan_lahan_basah.549444_0	549444.0	549444.0	549444.0	CD	NUMBER	549444.0	549444.0				
+4	7	fb:cell_persen_hutan_dan_lahan_basah.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+5	0	fb:cell_kharakteristik.kanada_saskatchewan	Kanada Saskatchewan	kanada|saskatchewan	Kanada|Saskatchewan	NNP|NNP	PERSON|O	|					
+5	1	fb:cell_luas_lahan_pertanian_hektar.24940023_0	24940023.0	24940023.0	24940023.0	CD	NUMBER	2.4940023E7	2.4940023E7				
+5	2	fb:cell_hektar_lahan_pertanian.14728934_0	14728934.0	14728934.0	14728934.0	CD	NUMBER	1.4728934E7	1.4728934E7				
+5	3	fb:cell_persen_lahan_pertanian.59_1	59.1	59.1	59.1	CD	NUMBER	59.1	59.1				
+5	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.4816782_0	4816782.0	4816782.0	4816782.0	CD	NUMBER	4816782.0	4816782.0				
+5	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+5	6	fb:cell_hektar_hutan_dan_lahan_basah.1009381_0	1009381.0	1009381.0	1009381.0	CD	NUMBER	1009381.0	1009381.0				
+5	7	fb:cell_persen_hutan_dan_lahan_basah.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+6	0	fb:cell_kharakteristik.kanada_alberta	Kanada Alberta	kanada|alberta	Kanada|Alberta	NNP|NNP	PERSON|O	|					
+6	1	fb:cell_luas_lahan_pertanian_hektar.20436150_0	20436150.0	20436150.0	20436150.0	CD	NUMBER	2.043615E7	2.043615E7				
+6	2	fb:cell_hektar_lahan_pertanian.9753849_0	9753849.0	9753849.0	9753849.0	CD	NUMBER	9753849.0	9753849.0				
+6	3	fb:cell_persen_lahan_pertanian.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+6	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.6435825_0	6435825.0	6435825.0	6435825.0	CD	NUMBER	6435825.0	6435825.0				
+6	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.31_5	31.5	31.5	31.5	CD	NUMBER	31.5	31.5				
+6	6	fb:cell_hektar_hutan_dan_lahan_basah.893436_0	893436.0	893436.0	893436.0	CD	NUMBER	893436.0	893436.0				
+6	7	fb:cell_persen_hutan_dan_lahan_basah.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+7	0	fb:cell_kharakteristik.kanada_british_columbia	Kanada, British Columbia	kanada|,|british|columbia	Kanada|,|British|Columbia	NNP|,|NNP|NNP	PERSON|O|MISC|O	|||				Kanada|British Columbia	fb:part_kharakteristik.kanada|fb:part_kharakteristik.british_columbia
+7	1	fb:cell_luas_lahan_pertanian_hektar.2611382_0	2611382.0	2611382.0	2611382.0	CD	NUMBER	2611382.0	2611382.0				
+7	2	fb:cell_hektar_lahan_pertanian.599674_0	599674.0	599674.0	599674.0	CD	NUMBER	599674.0	599674.0				
+7	3	fb:cell_persen_lahan_pertanian.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+7	4	fb:cell_lahan_alami_untuk_padang_rumput_berhektar_hektar.1385359_0	1385359.0	1385359.0	1385359.0	CD	NUMBER	1385359.0	1385359.0				
+7	5	fb:cell_lahan_alami_untuk_padang_rumput_persen.53_1	53.1	53.1	53.1	CD	NUMBER	53.1	53.1				
+7	6	fb:cell_hektar_hutan_dan_lahan_basah.291079_0	291079.0	291079.0	291079.0	CD	NUMBER	291079.0	291079.0				
+7	7	fb:cell_persen_hutan_dan_lahan_basah.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				

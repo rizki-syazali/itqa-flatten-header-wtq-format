@@ -1,0 +1,121 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus	usaha distribusi lapangan kerja milik para pendatang alus	usaha|distribusi|lapangan|kerja|milik|para|pendatang|alus	usaha|distribusi|lapangan|kerja|milik|para|pendatang|alus	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.sebaran_lapangan_kerja_usaha_milik_pendatang_persen	sebaran lapangan kerja usaha milik pendatang persen	sebaran|lapangan|kerja|usaha|milik|pendatang|persen	sebaran|lapangan|kerja|usaha|milik|pendatang|persen	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus	usaha penyaluran tenaga kerja milik non-imigran alus	usaha|penyaluran|tenaga|kerja|milik|non|imigran|alus	usaha|penyaluran|tenaga|kerja|milik|non|imigran|alus	NNP|NNP|NNP|NNP|NNP|JJ|NNP|NNPS	O|O|O|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.sebaran_lapangan_kerja_usaha_milik_non_imigran_persen	sebaran lapangan kerja usaha milik non-imigran persen	sebaran|lapangan|kerja|usaha|milik|non|imigran|persen	sebaran|lapangan|kerja|usaha|milik|non|imigran|persen	NNP|NNP|NNP|NNP|NNP|JJ|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.industri	industri	industri	industri	NNP	O						
+0	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.null											
+0	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.null											
+0	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.null											
+0	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.null											
+1	0	fb:cell_kharakteristik.industri_tidak_diketahui	industri tidak diketahui	industri|tidak|diketahui	industri|tidak|diketahui	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.21580_0	21580.0	21580.0	21580.0	CD	NUMBER	21580.0	21580.0				
+1	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+1	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.72400_0	72400.0	72400.0	72400.0	CD	NUMBER	72400.0	72400.0				
+1	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+2	0	fb:cell_kharakteristik.industri_pertanian_kehutanan_perikanan_dan_perburuan	industri pertanian, kehutanan, perikanan dan perburuan	industri|pertanian|,|kehutanan|,|perikanan|dan|perburuan	industri|pertanian|,|kehutanan|,|perikanan|dan|perburuan	NNP|NNP|,|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				industri pertanian|kehutanan|perikanan dan perburuan	fb:part_kharakteristik.industri_pertanian|fb:part_kharakteristik.kehutanan|fb:part_kharakteristik.perikanan_dan_perburuan
+2	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.5310_0	5310.0	5310.0	5310.0	CD	NUMBER	5310.0	5310.0				
+2	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+2	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.104590_0	104590.0	104590.0	104590.0	CD	NUMBER	104590.0	104590.0				
+2	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+3	0	fb:cell_kharakteristik.industri_pertambangan_penggalian_dan_ekstraksi_minyak_dan_gas	industri pertambangan, penggalian, dan ekstraksi minyak dan gas	industri|pertambangan|,|penggalian|,|dan|ekstraksi|minyak|dan|gas	industri|pertambangan|,|penggalian|,|dan|ekstraksi|minyak|dan|gas	NNP|NNP|,|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|PERSON|PERSON|O|O|O	|||||||||				industri pertambangan|penggalian|dan ekstraksi minyak dan gas	fb:part_kharakteristik.industri_pertambangan|fb:part_kharakteristik.penggalian|fb:part_kharakteristik.dan_ekstraksi_minyak_dan_gas
+3	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.530_0	530.0	530.0	530.0	CD	NUMBER	530.0	530.0				
+3	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+3	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.32430_0	32430.0	32430.0	32430.0	CD	NUMBER	32430.0	32430.0				
+3	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+4	0	fb:cell_kharakteristik.utilitas_industri	utilitas industri	utilitas|industri	utilitas|industri	NNP|NNP	O|O	|					
+4	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.500_0	500.0	500.0	500.0	CD	NUMBER	500.0	500.0				
+4	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+4	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.4970_0	4970.0	4970.0	4970.0	CD	NUMBER	4970.0	4970.0				
+4	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+5	0	fb:cell_kharakteristik.konstruksi_industri	konstruksi industri	konstruksi|industri	konstruksi|industri	NNP|NNP	MISC|MISC	|					
+5	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.23970_0	23970.0	23970.0	23970.0	CD	NUMBER	23970.0	23970.0				
+5	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+5	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.522720_0	522720.0	522720.0	522720.0	CD	NUMBER	522720.0	522720.0				
+5	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+6	0	fb:cell_kharakteristik.manufaktur_industri	manufaktur industri	manufaktur|industri	manufaktur|industri	NN|NN	O|O	|					
+6	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.36520_0	36520.0	36520.0	36520.0	CD	NUMBER	36520.0	36520.0				
+6	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+6	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.461540_0	461540.0	461540.0	461540.0	CD	NUMBER	461540.0	461540.0				
+6	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+7	0	fb:cell_kharakteristik.perdagangan_grosir_industri	perdagangan grosir industri	perdagangan|grosir|industri	perdagangan|grosir|industri	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.25150_0	25150.0	25150.0	25150.0	CD	NUMBER	25150.0	25150.0				
+7	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+7	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.286870_0	286870.0	286870.0	286870.0	CD	NUMBER	286870.0	286870.0				
+7	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+8	0	fb:cell_kharakteristik.perdagangan_ritel_industri	perdagangan ritel industri	perdagangan|ritel|industri	perdagangan|ritel|industri	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.71680_0	71680.0	71680.0	71680.0	CD	NUMBER	71680.0	71680.0				
+8	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+8	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.690080_0	690080.0	690080.0	690080.0	CD	NUMBER	690080.0	690080.0				
+8	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+9	0	fb:cell_kharakteristik.industri_transportasi_dan_pergudangan	industri transportasi dan pergudangan	industri|transportasi|dan|pergudangan	industri|transportasi|dan|pergudangan	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+9	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.16490_0	16490.0	16490.0	16490.0	CD	NUMBER	16490.0	16490.0				
+9	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+9	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.196460_0	196460.0	196460.0	196460.0	CD	NUMBER	196460.0	196460.0				
+9	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+10	0	fb:cell_kharakteristik.industri_informasi_dan_industri_budaya	industri informasi dan industri budaya	industri|informasi|dan|industri|budaya	industri|informasi|dan|industri|budaya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+10	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.4640_0	4640.0	4640.0	4640.0	CD	NUMBER	4640.0	4640.0				
+10	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+10	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.60110_0	60110.0	60110.0	60110.0	CD	NUMBER	60110.0	60110.0				
+10	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+11	0	fb:cell_kharakteristik.industri_keuangan_dan_asuransi	industri keuangan dan asuransi	industri|keuangan|dan|asuransi	industri|keuangan|dan|asuransi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.5470_0	5470.0	5470.0	5470.0	CD	NUMBER	5470.0	5470.0				
+11	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+11	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.91910_0	91910.0	91910.0	91910.0	CD	NUMBER	91910.0	91910.0				
+11	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+12	0	fb:cell_kharakteristik.industri_real_estat_dan_persewaan_dan_persewaan	industri real estat dan persewaan dan persewaan	industri|real|estat|dan|persewaan|dan|persewaan	industri|real|estat|dan|persewaan|dan|persewaan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.6240_0	6240.0	6240.0	6240.0	CD	NUMBER	6240.0	6240.0				
+12	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+12	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.96110_0	96110.0	96110.0	96110.0	CD	NUMBER	96110.0	96110.0				
+12	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+13	0	fb:cell_kharakteristik.layanan_profesional_ilmiah_dan_teknis_industri	layanan profesional, ilmiah dan teknis industri	layanan|profesional|,|ilmiah|dan|teknis|industri	layanan|profesional|,|ilmiah|dan|teknis|industri	NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				layanan profesional|ilmiah dan teknis industri	fb:part_kharakteristik.layanan_profesional|fb:part_kharakteristik.ilmiah_dan_teknis_industri
+13	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.33390_0	33390.0	33390.0	33390.0	CD	NUMBER	33390.0	33390.0				
+13	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+13	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.275110_0	275110.0	275110.0	275110.0	CD	NUMBER	275110.0	275110.0				
+13	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+14	0	fb:cell_kharakteristik.manajemen_industri_perusahaan_dan_perusahaan	manajemen industri perusahaan dan perusahaan	manajemen|industri|perusahaan|dan|perusahaan	manajemen|industri|perusahaan|dan|perusahaan	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+14	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.1810_0	1810.0	1810.0	1810.0	CD	NUMBER	1810.0	1810.0				
+14	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+14	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.44240_0	44240.0	44240.0	44240.0	CD	NUMBER	44240.0	44240.0				
+14	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	0	fb:cell_kharakteristik.administrasi_dan_dukungan_industri_pengelolaan_limbah_dan_layanan_remediasi	administrasi dan dukungan industri, pengelolaan limbah dan layanan remediasi	administrasi|dan|dukungan|industri|,|pengelolaan|limbah|dan|layanan|remediasi	administrasi|dan|dukungan|industri|,|pengelolaan|limbah|dan|layanan|remediasi	NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|O|O|O|O|O|O	|||||||||				administrasi dan dukungan industri|pengelolaan limbah dan layanan remediasi	fb:part_kharakteristik.administrasi_dan_dukungan_industri|fb:part_kharakteristik.pengelolaan_limbah_dan_layanan_remediasi
+15	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.24850_0	24850.0	24850.0	24850.0	CD	NUMBER	24850.0	24850.0				
+15	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+15	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.296520_0	296520.0	296520.0	296520.0	CD	NUMBER	296520.0	296520.0				
+15	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+16	0	fb:cell_kharakteristik.layanan_pendidikan_industri	layanan pendidikan industri	layanan|pendidikan|industri	layanan|pendidikan|industri	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.7000_0	7000.0	7000.0	7000.0	CD	NUMBER	7000.0	7000.0				
+16	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+16	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.53580_0	53580.0	53580.0	53580.0	CD	NUMBER	53580.0	53580.0				
+16	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+17	0	fb:cell_kharakteristik.layanan_kesehatan_industri_dan_bantuan_sosial	layanan kesehatan industri dan bantuan sosial	layanan|kesehatan|industri|dan|bantuan|sosial	layanan|kesehatan|industri|dan|bantuan|sosial	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+17	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.38680_0	38680.0	38680.0	38680.0	CD	NUMBER	38680.0	38680.0				
+17	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+17	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.305980_0	305980.0	305980.0	305980.0	CD	NUMBER	305980.0	305980.0				
+17	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+18	0	fb:cell_kharakteristik.industri_seni_hiburan_dan_rekreasi	industri seni, hiburan dan rekreasi	industri|seni|,|hiburan|dan|rekreasi	industri|seni|,|hiburan|dan|rekreasi	NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||				industri seni|hiburan dan rekreasi	fb:part_kharakteristik.industri_seni|fb:part_kharakteristik.hiburan_dan_rekreasi
+18	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.3130_0	3130.0	3130.0	3130.0	CD	NUMBER	3130.0	3130.0				
+18	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+18	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.65860_0	65860.0	65860.0	65860.0	CD	NUMBER	65860.0	65860.0				
+18	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+19	0	fb:cell_kharakteristik.industri_akomodasi_dan_jasa_makanan	industri akomodasi dan jasa makanan	industri|akomodasi|dan|jasa|makanan	industri|akomodasi|dan|jasa|makanan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+19	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.104940_0	104940.0	104940.0	104940.0	CD	NUMBER	104940.0	104940.0				
+19	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+19	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.516930_0	516930.0	516930.0	516930.0	CD	NUMBER	516930.0	516930.0				
+19	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+20	0	fb:cell_kharakteristik.industri_jasa_lainnya	industri jasa lainnya	industri|jasa|lainnya	industri|jasa|lainnya	NNP|NNP|NNP	O|O|O	||					
+20	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.21350_0	21350.0	21350.0	21350.0	CD	NUMBER	21350.0	21350.0				
+20	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+20	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.213470_0	213470.0	213470.0	213470.0	CD	NUMBER	213470.0	213470.0				
+20	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+21	0	fb:cell_kharakteristik.administrasi_publik_industri	administrasi publik industri	administrasi|publik|industri	administrasi|publik|industri	NNP|NNP|NNP	O|O|O	||					
+21	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+21	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.1910_0	1910.0	1910.0	1910.0	CD	NUMBER	1910.0	1910.0				
+21	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+22	0	fb:cell_kharakteristik.industri_semua_industri	industri semua industri	industri|semua|industri	industri|semua|industri	NNP|NNP|NNP	O|O|O	||					
+22	1	fb:cell_usaha_distribusi_lapangan_kerja_milik_para_pendatang_alus.453340_0	453340.0	453340.0	453340.0	CD	NUMBER	453340.0	453340.0				
+22	2	fb:cell_sebaran_lapangan_kerja_usaha_milik_pendatang_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+22	3	fb:cell_usaha_penyaluran_tenaga_kerja_milik_non_imigran_alus.4393780_0	4393780.0	4393780.0	4393780.0	CD	NUMBER	4393780.0	4393780.0				
+22	4	fb:cell_sebaran_lapangan_kerja_usaha_milik_non_imigran_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

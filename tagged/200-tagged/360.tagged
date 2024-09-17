@@ -1,0 +1,222 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_penduduk_tahun_2016	jumlah penduduk tahun 2016	jumlah|penduduk|tahun|2016	jumlah|penduduk|tahun|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016					
+-1	2	fb:row.row.layanan_polisi_kota_total_pengeluaran_ribuan_dolar	layanan polisi kota total pengeluaran ribuan dolar	layanan|polisi|kota|total|pengeluaran|ribuan|dolar	layanan|polisi|kota|total|pengeluaran|ribuan|dolar	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya	persentase pelayanan Satpol PP berubah dari persen tahun sebelumnya	persentase|pelayanan|satpol|pp|berubah|dari|persen|tahun|sebelumnya	persentase|pelayanan|satpol|pp|berubah|dari|persen|tahun|sebelumnya	NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	4	fb:row.row.total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar	total pengeluaran layanan kepolisian provinsi ribuan dolar	total|pengeluaran|layanan|kepolisian|provinsi|ribuan|dolar	total|pengeluaran|layanan|kepolisian|provinsi|ribuan|dolar	JJ|NN|NN|JJ|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+-1	5	fb:row.row.persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya	persentase pelayanan kepolisian provinsi berubah dari persen tahun sebelumnya	persentase|pelayanan|kepolisian|provinsi|berubah|dari|persen|tahun|sebelumnya	persentase|pelayanan|kepolisian|provinsi|berubah|dari|persen|tahun|sebelumnya	NN|NN|JJ|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	6	fb:row.row.royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar	Royal Canadian Mounted Police Contract Policing mengeluarkan biaya ribuan dolar	royal|canadian|mounted|police|contract|policing|mengeluarkan|biaya|ribuan|dolar	Royal|Canadian|mount|police|contract|police|mengeluarkan|biaya|ribuan|dolar	NNP|NNP|VBD|NN|NN|VBG|NN|NN|NN|NN	O|MISC|O|O|O|O|O|O|O|O	|||||||||					
+-1	7	fb:row.row.kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar	kepolisian federal dan internasional mengeluarkan biaya ribuan dolar	kepolisian|federal|dan|internasional|mengeluarkan|biaya|ribuan|dolar	kepolisian|federal|dan|internasional|mengeluarkan|biaya|ribuan|dolar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|PERSON|O|O|O|O|O	|||||||					
+-1	8	fb:row.row.royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar	royal canadian meningkatkan dukungan operasional polisi dan pengeluaran layanan ribuan dolar	royal|canadian|meningkatkan|dukungan|operasional|polisi|dan|pengeluaran|layanan|ribuan|dolar	royal|canadian|meningkatkan|dukungan|operasional|polisi|dan|pengeluaran|layanan|ribuan|dolar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|MISC|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	9	fb:row.row.total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar	total pengeluaran polisi berkuda kerajaan Kanada ribuan dolar	total|pengeluaran|polisi|berkuda|kerajaan|kanada|ribuan|dolar	total|pengeluaran|polisi|berkuda|kerajaan|Kanada|ribuan|dolar	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	10	fb:row.row.persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya	persentase perubahan polisi yang dipasang di kerajaan Kanada dari persen tahun sebelumnya	persentase|perubahan|polisi|yang|dipasang|di|kerajaan|kanada|dari|persen|tahun|sebelumnya	persentase|perubahan|polisi|yang|dipasang|di|kerajaan|Kanada|dari|persen|tahun|sebelumnya	NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+-1	11	fb:row.row.total_kepolisian_total_pengeluaran_ribuan_dolar	total kepolisian total pengeluaran ribuan dolar	total|kepolisian|total|pengeluaran|ribuan|dolar	total|kepolisian|total|pengeluaran|ribuan|dolar	JJ|JJ|JJ|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	12	fb:row.row.persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya	persentase total kepolisian berubah dari persen tahun sebelumnya	persentase|total|kepolisian|berubah|dari|persen|tahun|sebelumnya	persentase|total|kepolisian|berubah|dari|persen|tahun|sebelumnya	NN|JJ|JJ|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_jumlah_penduduk_tahun_2016.528817_0	528817.0	528817.0	528817.0	CD	NUMBER	528817.0	528817.0				
+0	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.null											
+0	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.null											
+0	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.59318_0	59318.0	59318.0	59318.0	CD	NUMBER	59318.0	59318.0				
+0	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+0	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.84763_0	84763.0	84763.0	84763.0	CD	NUMBER	84763.0	84763.0				
+0	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.10717	10717	10717	10717	CD	NUMBER	10717.0	10717.0				
+0	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.8809	8809	8809	8809	CD	NUMBER	8809.0	8809.0	8809-xx-xx			
+0	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.104289	104289	104289	104289	CD	NUMBER	104289.0	104289.0				
+0	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+0	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.163607	163607	163607	163607	CD	NUMBER	163607.0	163607.0				
+0	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_jumlah_penduduk_tahun_2016.152021_0	152021.0	152021.0	152021.0	CD	NUMBER	152021.0	152021.0				
+1	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.13486_0	13486.0	13486.0	13486.0	CD	NUMBER	13486.0	13486.0				
+1	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+1	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+1	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+1	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.16460_0	16460.0	16460.0	16460.0	CD	NUMBER	16460.0	16460.0				
+1	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.2908	2908	2908	2908	CD	DATE	2908	2908.0	2908-xx-xx			
+1	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.2103	2103	2103	2103	CD	DATE	2103	2103.0	2103-xx-xx			
+1	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.21471	21471	21471	21471	CD	NUMBER	21471.0	21471.0				
+1	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+1	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.34957	34957	34957	34957	CD	NUMBER	34957.0	34957.0				
+1	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_jumlah_penduduk_tahun_2016.953869_0	953869.0	953869.0	953869.0	CD	NUMBER	953869.0	953869.0				
+2	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.135165_0	135165.0	135165.0	135165.0	CD	NUMBER	135165.0	135165.0				
+2	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+2	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+2	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+2	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.130686_0	130686.0	130686.0	130686.0	CD	NUMBER	130686.0	130686.0				
+2	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.16464	16464	16464	16464	CD	NUMBER	16464.0	16464.0				
+2	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.13654	13654	13654	13654	CD	NUMBER	13654.0	13654.0				
+2	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.160804	160804	160804	160804	CD	NUMBER	160804.0	160804.0				
+2	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+2	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.295969	295969	295969	295969	CD	NUMBER	295969.0	295969.0				
+2	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_jumlah_penduduk_tahun_2016.759655_0	759655.0	759655.0	759655.0	CD	NUMBER	759655.0	759655.0				
+3	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.70823_0	70823.0	70823.0	70823.0	CD	NUMBER	70823.0	70823.0				
+3	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+3	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+3	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+3	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.110230_0	110230.0	110230.0	110230.0	CD	NUMBER	110230.0	110230.0				
+3	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.18568	18568	18568	18568	CD	NUMBER	18568.0	18568.0				
+3	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.22578	22578	22578	22578	CD	NUMBER	22578.0	22578.0				
+3	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.151377	151377	151377	151377	CD	NUMBER	151377.0	151377.0				
+3	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+3	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.222200	222200	222200	222200	CD	NUMBER	222200.0	222200.0				
+3	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_jumlah_penduduk_tahun_2016.8394034_0	8394034.0	8394034.0	8394034.0	CD	NUMBER	8394034.0	8394034.0				
+4	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.1618640_0	1618640.0	1618640.0	1618640.0	CD	NUMBER	1618640.0	1618640.0				
+4	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+4	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.953274_0	953274.0	953274.0	953274.0	CD	NUMBER	953274.0	953274.0				
+4	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+4	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.null											
+4	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.116227	116227	116227	116227	CD	NUMBER	116227.0	116227.0				
+4	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.42121	42121	42121	42121	CD	NUMBER	42121.0	42121.0				
+4	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.158348	158348	158348	158348	CD	NUMBER	158348.0	158348.0				
+4	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+4	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.2730262	2730262	2730262	2730262	CD	NUMBER	2730262.0	2730262.0				
+4	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_jumlah_penduduk_tahun_2016.14193384_0	14193384.0	14193384.0	14193384.0	CD	NUMBER	1.4193384E7	1.4193384E7				
+5	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.3883298_0	3883298.0	3883298.0	3883298.0	CD	NUMBER	3883298.0	3883298.0				
+5	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+5	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.1151119_0	1151119.0	1151119.0	1151119.0	CD	NUMBER	1151119.0	1151119.0				
+5	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+5	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.144_0	144.0	144.0	144.0	CD	NUMBER	144.0	144.0				
+5	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.255753	255753	255753	255753	CD	NUMBER	255753.0	255753.0				
+5	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.56707	56707	56707	56707	CD	NUMBER	56707.0	56707.0				
+5	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.312604	312604	312604	312604	CD	NUMBER	312604.0	312604.0				
+5	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+5	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.5347021	5347021	5347021	5347021	CD	NUMBER	5347021.0	5347021.0				
+5	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_jumlah_penduduk_tahun_2016.1338109_0	1338109.0	1338109.0	1338109.0	CD	NUMBER	1338109.0	1338109.0				
+6	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.310860_0	310860.0	310860.0	310860.0	CD	NUMBER	310860.0	310860.0				
+6	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+6	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+6	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+6	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.166882_0	166882.0	166882.0	166882.0	CD	NUMBER	166882.0	166882.0				
+6	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.11922	11922	11922	11922	CD	NUMBER	11922.0	11922.0				
+6	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.29650	29650	29650	29650	CD	NUMBER	29650.0	29650.0				
+6	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.208454	208454	208454	208454	CD	NUMBER	208454.0	208454.0				
+6	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+6	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.519314	519314	519314	519314	CD	NUMBER	519314.0	519314.0				
+6	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_jumlah_penduduk_tahun_2016.1163925_0	1163925.0	1163925.0	1163925.0	CD	NUMBER	1163925.0	1163925.0				
+7	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.207600_0	207600.0	207600.0	207600.0	CD	NUMBER	207600.0	207600.0				
+7	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+7	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+7	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+7	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.204007_0	204007.0	204007.0	204007.0	CD	NUMBER	204007.0	204007.0				
+7	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.13616	13616	13616	13616	CD	NUMBER	13616.0	13616.0				
+7	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.19867	19867	19867	19867	CD	NUMBER	19867.0	19867.0				
+7	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.237490	237490	237490	237490	CD	NUMBER	237490.0	237490.0				
+7	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+7	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.445090	445090	445090	445090	CD	NUMBER	445090.0	445090.0				
+7	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_jumlah_penduduk_tahun_2016.4286134_0	4286134.0	4286134.0	4286134.0	CD	NUMBER	4286134.0	4286134.0				
+8	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.964007_0	964007.0	964007.0	964007.0	CD	NUMBER	964007.0	964007.0				
+8	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+8	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+8	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+8	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.480021_0	480021.0	480021.0	480021.0	CD	NUMBER	480021.0	480021.0				
+8	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.39202	39202	39202	39202	CD	NUMBER	39202.0	39202.0				
+8	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.34579	34579	34579	34579	CD	NUMBER	34579.0	34579.0				
+8	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.553802	553802	553802	553802	CD	NUMBER	553802.0	553802.0				
+8	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+8	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.1517809	1517809	1517809	1517809	CD	NUMBER	1517809.0	1517809.0				
+8	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_jumlah_penduduk_tahun_2016.4817160_0	4817160.0	4817160.0	4817160.0	CD	NUMBER	4817160.0	4817160.0				
+9	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.531755_0	531755.0	531755.0	531755.0	CD	NUMBER	531755.0	531755.0				
+9	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+9	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+9	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+9	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.901320_0	901320.0	901320.0	901320.0	CD	NUMBER	901320.0	901320.0				
+9	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.101373	101373	101373	101373	CD	NUMBER	101373.0	101373.0				
+9	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.73933	73933	73933	73933	CD	NUMBER	73933.0	73933.0				
+9	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.1076626	1076626	1076626	1076626	CD	NUMBER	1076626.0	1076626.0				
+9	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+9	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.1608381	1608381	1608381	1608381	CD	NUMBER	1608381.0	1608381.0				
+9	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_jumlah_penduduk_tahun_2016.38459_0	38459.0	38459.0	38459.0	CD	NUMBER	38459.0	38459.0				
+10	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.null											
+10	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.null											
+10	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+10	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+10	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.30215_0	30215.0	30215.0	30215.0	CD	NUMBER	30215.0	30215.0				
+10	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.1895	1895	1895	1895	CD	DATE	1895	1895.0	1895-xx-xx			
+10	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.3481	3481	3481	3481	CD	NUMBER	3481.0	3481.0	3481-xx-xx			
+10	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.35590	35590	35590	35590	CD	NUMBER	35590.0	35590.0				
+10	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya._1_5	-1.5	-1.5	-1.5	CD	NUMBER	-1.5	1.5				
+10	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.35590	35590	35590	35590	CD	NUMBER	35590.0	35590.0				
+10	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya._1_5	-1.5	-1.5	-1.5	CD	NUMBER	-1.5	1.5				
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_jumlah_penduduk_tahun_2016.44520_0	44520.0	44520.0	44520.0	CD	NUMBER	44520.0	44520.0				
+11	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.null											
+11	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.null											
+11	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+11	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+11	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.54301_0	54301.0	54301.0	54301.0	CD	NUMBER	54301.0	54301.0				
+11	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.2281	2281	2281	2281	CD	DATE	2281	2281.0	2281-xx-xx			
+11	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.3060	3060	3060	3060	CD	NUMBER	3060.0	3060.0	3060-xx-xx			
+11	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.59643	59643	59643	59643	CD	NUMBER	59643.0	59643.0				
+11	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+11	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.59643	59643	59643	59643	CD	NUMBER	59643.0	59643.0				
+11	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_jumlah_penduduk_tahun_2016.37996_0	37996.0	37996.0	37996.0	CD	NUMBER	37996.0	37996.0				
+12	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.null											
+12	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.null											
+12	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+12	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+12	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.51466_0	51466.0	51466.0	51466.0	CD	NUMBER	51466.0	51466.0				
+12	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.2319	2319	2319	2319	CD	DATE	2319	2319.0	2319-xx-xx			
+12	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.3259	3259	3259	3259	CD	NUMBER	3259.0	3259.0	3259-xx-xx			
+12	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.57044	57044	57044	57044	CD	NUMBER	57044.0	57044.0				
+12	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+12	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.57044	57044	57044	57044	CD	NUMBER	57044.0	57044.0				
+12	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+13	0	fb:cell_kharakteristik.total_provinsi_dan_teritorial	total provinsi dan teritorial	total|provinsi|dan|teritorial	total|provinsi|dan|teritorial	JJ|NNP|NNP|NNP	O|O|O|O	|||					
+13	1	fb:cell_jumlah_penduduk_tahun_2016.36708083_0	36708083.0	36708083.0	36708083.0	CD	NUMBER	3.6708083E7	3.6708083E7				
+13	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.7735634_0	7735634.0	7735634.0	7735634.0	CD	NUMBER	7735634.0	7735634.0				
+13	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+13	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.2163711_0	2163711.0	2163711.0	2163711.0	CD	NUMBER	2163711.0	2163711.0				
+13	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+13	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.2230495_0	2230495.0	2230495.0	2230495.0	CD	NUMBER	2230495.0	2230495.0				
+13	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.593245	593245	593245	593245	CD	NUMBER	593245.0	593245.0				
+13	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.313801	313801	313801	313801	CD	NUMBER	313801.0	313801.0				
+13	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.3137542	3137542	3137542	3137542	CD	NUMBER	3137542.0	3137542.0				
+13	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+13	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.13036887	13036887	13036887	13036887	CD	NUMBER	1.3036887E7	1.3036887E7				
+13	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+14	0	fb:cell_kharakteristik.markas_besar_polisi_dan_akademi_pelatihan_yang_dipasang_di_kerajaan_kanada_total_provinsi_dan_teritorial	markas besar polisi dan akademi pelatihan yang dipasang di kerajaan Kanada total provinsi dan teritorial	markas|besar|polisi|dan|akademi|pelatihan|yang|dipasang|di|kerajaan|kanada|total|provinsi|dan|teritorial	markas|besar|polisi|dan|akademi|pelatihan|yang|dipasang|di|kerajaan|Kanada|total|provinsi|dan|teritorial	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+14	1	fb:cell_jumlah_penduduk_tahun_2016.null											
+14	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.null											
+14	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.null											
+14	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.null											
+14	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya.null											
+14	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.449602_0	449602.0	449602.0	449602.0	CD	NUMBER	449602.0	449602.0				
+14	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.254328	254328	254328	254328	CD	NUMBER	254328.0	254328.0				
+14	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.928595	928595	928595	928595	CD	NUMBER	928595.0	928595.0				
+14	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.1632525	1632525	1632525	1632525	CD	NUMBER	1632525.0	1632525.0				
+14	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+14	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.1632525	1632525	1632525	1632525	CD	NUMBER	1632525.0	1632525.0				
+14	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+15	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+15	1	fb:cell_jumlah_penduduk_tahun_2016.36708083_0	36708083.0	36708083.0	36708083.0	CD	NUMBER	3.6708083E7	3.6708083E7				
+15	2	fb:cell_layanan_polisi_kota_total_pengeluaran_ribuan_dolar.7735634_0	7735634.0	7735634.0	7735634.0	CD	NUMBER	7735634.0	7735634.0				
+15	3	fb:cell_persentase_pelayanan_satpol_pp_berubah_dari_persen_tahun_sebelumnya.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+15	4	fb:cell_total_pengeluaran_layanan_kepolisian_provinsi_ribuan_dolar.2163711_0	2163711.0	2163711.0	2163711.0	CD	NUMBER	2163711.0	2163711.0				
+15	5	fb:cell_persentase_pelayanan_kepolisian_provinsi_berubah_dari_persen_tahun_sebelumnya._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+15	6	fb:cell_royal_canadian_mounted_police_contract_policing_mengeluarkan_biaya_ribuan_dolar.2680097_0	2680097.0	2680097.0	2680097.0	CD	NUMBER	2680097.0	2680097.0				
+15	7	fb:cell_kepolisian_federal_dan_internasional_mengeluarkan_biaya_ribuan_dolar.847573	847573	847573	847573	CD	NUMBER	847573.0	847573.0				
+15	8	fb:cell_royal_canadian_meningkatkan_dukungan_operasional_polisi_dan_pengeluaran_layanan_ribuan_dolar.1242396	1242396	1242396	1242396	CD	NUMBER	1242396.0	1242396.0				
+15	9	fb:cell_total_pengeluaran_polisi_berkuda_kerajaan_kanada_ribuan_dolar.4770067	4770067	4770067	4770067	CD	NUMBER	4770067.0	4770067.0				
+15	10	fb:cell_persentase_perubahan_polisi_yang_dipasang_di_kerajaan_kanada_dari_persen_tahun_sebelumnya.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+15	11	fb:cell_total_kepolisian_total_pengeluaran_ribuan_dolar.14669412	14669412	14669412	14669412	CD	NUMBER	1.4669412E7	1.4669412E7				
+15	12	fb:cell_persentase_total_kepolisian_berubah_dari_persen_tahun_sebelumnya.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				

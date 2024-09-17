@@ -1,0 +1,31 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_sarjana	tingkat pendidikan yang diselesaikan di bawah proporsi sarjana	tingkat|pendidikan|yang|diselesaikan|di|bawah|proporsi|sarjana	tingkat|pendidikan|yang|diselesaikan|di|bawah|proporsi|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_subkelompok_sarjana	tingkat pendidikan yang diselesaikan di bawah proporsi subkelompok sarjana	tingkat|pendidikan|yang|diselesaikan|di|bawah|proporsi|subkelompok|sarjana	tingkat|pendidikan|yang|diselesaikan|di|bawah|proporsi|subkelompok|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+-1	3	fb:row.row.tingkat_pendidikan_menyelesaikan_proporsi_sarjana_atau_lebih_tinggi	tingkat pendidikan menyelesaikan proporsi sarjana atau lebih tinggi	tingkat|pendidikan|menyelesaikan|proporsi|sarjana|atau|lebih|tinggi	tingkat|pendidikan|menyelesaikan|proporsi|sarjana|atau|lebih|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.tingkat_pendidikan_menyelesaikan_proporsi_subkelompok_sarjana_atau_lebih_tinggi	tingkat pendidikan menyelesaikan proporsi subkelompok sarjana atau lebih tinggi	tingkat|pendidikan|menyelesaikan|proporsi|subkelompok|sarjana|atau|lebih|tinggi	tingkat|pendidikan|menyelesaikan|proporsi|subkelompok|sarjana|atau|lebih|tinggi	NNP|NNP|NNP|NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse	persen dipekerjakan selama pse	persen|dipekerjakan|selama|pse	persen|dipekerjakan|selama|pse	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_sarjana.null											
+0	2	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_subkelompok_sarjana.null											
+0	3	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_sarjana_atau_lebih_tinggi.null											
+0	4	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_subkelompok_sarjana_atau_lebih_tinggi.null											
+1	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_pekerjaan_selama_pse_terkait_dengan_bidang_studi	persen dipekerjakan selama pse pekerjaan selama pse terkait dengan bidang studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|terkait|dengan|bidang|studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|terkait|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+1	1	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_sarjana.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+1	2	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_subkelompok_sarjana.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+1	3	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_sarjana_atau_lebih_tinggi.27_1	27.1	27.1	27.1	CD	NUMBER	27.1	27.1				
+1	4	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_subkelompok_sarjana_atau_lebih_tinggi.56_2	56.2	56.2	56.2	CD	NUMBER	56.2	56.2				
+2	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_pekerjaan_selama_pse_tidak_berhubungan_dengan_bidang_studi	persen dipekerjakan selama pse pekerjaan selama pse tidak berhubungan dengan bidang studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|tidak|berhubungan|dengan|bidang|studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|tidak|berhubungan|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+2	1	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_sarjana.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+2	2	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_subkelompok_sarjana.36_4	36.4	36.4	36.4	CD	NUMBER	36.4	36.4				
+2	3	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_sarjana_atau_lebih_tinggi.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+2	4	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_subkelompok_sarjana_atau_lebih_tinggi.33_4	33.4	33.4	33.4	CD	NUMBER	33.4	33.4				
+3	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_tidak_dipekerjakan_selama_pse	persen dipekerjakan selama pse tidak dipekerjakan selama pse	persen|dipekerjakan|selama|pse|tidak|dipekerjakan|selama|pse	persen|dipekerjakan|selama|pse|tidak|dipekerjakan|selama|pse	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+3	1	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_sarjana.14_3	14.3	14.3	14.3	CD	NUMBER	14.3	14.3				
+3	2	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_subkelompok_sarjana.27_6	27.6	27.6	27.6	CD	NUMBER	27.6	27.6				
+3	3	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_sarjana_atau_lebih_tinggi.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+3	4	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_subkelompok_sarjana_atau_lebih_tinggi.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+4	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_total	persen dipekerjakan selama pse total	persen|dipekerjakan|selama|pse|total	persen|dipekerjakan|selama|pse|total	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_sarjana.51_8	51.8	51.8	51.8	CD	NUMBER	51.8	51.8				
+4	2	fb:cell_tingkat_pendidikan_yang_diselesaikan_di_bawah_proporsi_subkelompok_sarjana.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+4	3	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_sarjana_atau_lebih_tinggi.48_2	48.2	48.2	48.2	CD	NUMBER	48.2	48.2				
+4	4	fb:cell_tingkat_pendidikan_menyelesaikan_proporsi_subkelompok_sarjana_atau_lebih_tinggi.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

@@ -1,0 +1,375 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_kejahatan_kekerasan	tingkat kejahatan kekerasan	tingkat|kejahatan|kekerasan	tingkat|kejahatan|kekerasan	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.kejahatan_kekerasan_perubahan_2009_ke_2017	kejahatan kekerasan % perubahan 2009 ke 2017	kejahatan|kekerasan|%|perubahan|2009|ke|2017	kejahatan|kekerasan|%|perubahan|2009|ke|2017	NNP|NNP|NN|NN|CD|NNP|CD	O|O|O|O|DATE|O|DATE	||||2009||2017					
+-1	3	fb:row.row.tingkat_kejahatan_properti	tingkat kejahatan properti	tingkat|kejahatan|properti	tingkat|kejahatan|properti	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.kejahatan_properti_perubahan_2009_ke_2017	kejahatan properti % perubahan 2009 ke 2017	kejahatan|properti|%|perubahan|2009|ke|2017	kejahatan|properti|%|perubahan|2009|ke|2017	NNP|NNP|NN|NN|CD|NNP|CD	O|O|O|O|DATE|O|DATE	||||2009||2017					
+-1	5	fb:row.row.tingkat_pelanggaran_hukum_pidana_lainnya	tingkat pelanggaran hukum pidana lainnya	tingkat|pelanggaran|hukum|pidana|lainnya	tingkat|pelanggaran|hukum|pidana|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	6	fb:row.row.pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017	pelanggaran hukum pidana lainnya % perubahan 2009 ke 2017	pelanggaran|hukum|pidana|lainnya|%|perubahan|2009|ke|2017	pelanggaran|hukum|pidana|lainnya|%|perubahan|2009|ke|2017	NN|NN|NN|CD|NN|JJ|CD|NNP|CD	O|O|O|PERCENT|PERCENT|O|DATE|O|DATE	|||%0.0|%0.0||2009||2017					
+-1	7	fb:row.row.angka_pelanggaran_lalu_lintas_kuhp	angka pelanggaran lalu lintas KUHP	angka|pelanggaran|lalu|lintas|kuhp	angka|pelanggaran|lalu|lintas|KUHP	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	8	fb:row.row.kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017	KUHP pelanggaran lalu lintas % perubahan 2009 ke 2017	kuhp|pelanggaran|lalu|lintas|%|perubahan|2009|ke|2017	kuhp|pelanggaran|lalu|lintas|%|perubahan|2009|ke|2017	NN|NN|NN|NNP|NN|NN|CD|NNP|CD	O|O|O|O|O|O|DATE|O|DATE	||||||2009||2017					
+-1	9	fb:row.row.tingkat_pelanggaran_narkoba	tingkat pelanggaran narkoba	tingkat|pelanggaran|narkoba	tingkat|pelanggaran|narkoba	NN|NN|NN	O|O|O	||					
+-1	10	fb:row.row._pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017	% pelanggaran narkoba berubah dari tahun 2009 menjadi 2017	%|pelanggaran|narkoba|berubah|dari|tahun|2009|menjadi|2017	%|pelanggaran|narkoba|berubah|dari|tahun|2009|menjadi|2017	NN|NN|NN|NN|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|DATE|O|DATE	||||||2009||2017					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+0	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+0	3	fb:cell_tingkat_kejahatan_properti.null											
+0	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+0	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+0	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+0	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+0	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+0	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+0	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+1	0	fb:cell_kharakteristik.newfoundland_dan_labrador_perkotaan	newfoundland dan labrador perkotaan	newfoundland|dan|labrador|perkotaan	newfoundland|dan|labrador|perkotaan	NNP|NNP|NNP|NNP	LOCATION|O|O|O	|||					
+1	1	fb:cell_tingkat_kejahatan_kekerasan.1386_0	1386.0	1386.0	1386.0	CD	NUMBER	1386.0	1386.0				
+1	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+1	3	fb:cell_tingkat_kejahatan_properti.2762_0	2762.0	2762.0	2762.0	CD	NUMBER	2762.0	2762.0				
+1	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._41_0	-41.0	-41.0	-41.0	CD	NUMBER	-41.0	41.0				
+1	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1038_0	1038.0	1038.0	1038.0	CD	NUMBER	1038.0	1038.0				
+1	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+1	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.394_0	394.0	394.0	394.0	CD	NUMBER	394.0	394.0				
+1	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+1	9	fb:cell_tingkat_pelanggaran_narkoba.154_0	154.0	154.0	154.0	CD	NUMBER	154.0	154.0				
+1	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._42_0	-42.0	-42.0	-42.0	CD	NUMBER	-42.0	42.0				
+2	0	fb:cell_kharakteristik.newfoundland_dan_labrador_pedesaan	newfoundland dan labrador pedesaan	newfoundland|dan|labrador|pedesaan	newfoundland|dan|labrador|pedesaan	NNP|NNP|NNP|NNP	LOCATION|O|O|O	|||					
+2	1	fb:cell_tingkat_kejahatan_kekerasan.1228_0	1228.0	1228.0	1228.0	CD	NUMBER	1228.0	1228.0				
+2	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+2	3	fb:cell_tingkat_kejahatan_properti.3141_0	3141.0	3141.0	3141.0	CD	NUMBER	3141.0	3141.0				
+2	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+2	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1397_0	1397.0	1397.0	1397.0	CD	NUMBER	1397.0	1397.0				
+2	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+2	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.256_0	256.0	256.0	256.0	CD	NUMBER	256.0	256.0				
+2	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._39_0	-39.0	-39.0	-39.0	CD	NUMBER	-39.0	39.0				
+2	9	fb:cell_tingkat_pelanggaran_narkoba.229_0	229.0	229.0	229.0	CD	NUMBER	229.0	229.0				
+2	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+3	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+3	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+3	3	fb:cell_tingkat_kejahatan_properti.null											
+3	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+3	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+3	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+3	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+3	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+3	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+3	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+4	0	fb:cell_kharakteristik.perkotaan_pulau_pangeran_edward	perkotaan pulau pangeran Edward	perkotaan|pulau|pangeran|edward	perkotaan|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_tingkat_kejahatan_kekerasan.904_0	904.0	904.0	904.0	CD	NUMBER	904.0	904.0				
+4	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._38_0	-38.0	-38.0	-38.0	CD	NUMBER	-38.0	38.0				
+4	3	fb:cell_tingkat_kejahatan_properti.2776_0	2776.0	2776.0	2776.0	CD	NUMBER	2776.0	2776.0				
+4	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._47_0	-47.0	-47.0	-47.0	CD	NUMBER	-47.0	47.0				
+4	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.667_0	667.0	667.0	667.0	CD	NUMBER	667.0	667.0				
+4	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+4	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.354_0	354.0	354.0	354.0	CD	NUMBER	354.0	354.0				
+4	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._41_0	-41.0	-41.0	-41.0	CD	NUMBER	-41.0	41.0				
+4	9	fb:cell_tingkat_pelanggaran_narkoba.137_0	137.0	137.0	137.0	CD	NUMBER	137.0	137.0				
+4	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+5	0	fb:cell_kharakteristik.pedesaan_pulau_pangeran_edward	pedesaan pulau pangeran Edward	pedesaan|pulau|pangeran|edward	pedesaan|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_tingkat_kejahatan_kekerasan.869_0	869.0	869.0	869.0	CD	NUMBER	869.0	869.0				
+5	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+5	3	fb:cell_tingkat_kejahatan_properti.2145_0	2145.0	2145.0	2145.0	CD	NUMBER	2145.0	2145.0				
+5	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._26_0	-26.0	-26.0	-26.0	CD	NUMBER	-26.0	26.0				
+5	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.534_0	534.0	534.0	534.0	CD	NUMBER	534.0	534.0				
+5	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+5	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.374_0	374.0	374.0	374.0	CD	NUMBER	374.0	374.0				
+5	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+5	9	fb:cell_tingkat_pelanggaran_narkoba.166_0	166.0	166.0	166.0	CD	NUMBER	166.0	166.0				
+5	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+6	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+6	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+6	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+6	3	fb:cell_tingkat_kejahatan_properti.null											
+6	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+6	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+6	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+6	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+6	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+6	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+6	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+7	0	fb:cell_kharakteristik.perkotaan_nova_scotia	perkotaan nova scotia	perkotaan|nova|scotia	perkotaan|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_tingkat_kejahatan_kekerasan.1281_0	1281.0	1281.0	1281.0	CD	NUMBER	1281.0	1281.0				
+7	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._27_0	-27.0	-27.0	-27.0	CD	NUMBER	-27.0	27.0				
+7	3	fb:cell_tingkat_kejahatan_properti.2961_0	2961.0	2961.0	2961.0	CD	NUMBER	2961.0	2961.0				
+7	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+7	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.969_0	969.0	969.0	969.0	CD	NUMBER	969.0	969.0				
+7	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+7	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.297_0	297.0	297.0	297.0	CD	NUMBER	297.0	297.0				
+7	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+7	9	fb:cell_tingkat_pelanggaran_narkoba.241_0	241.0	241.0	241.0	CD	NUMBER	241.0	241.0				
+7	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+8	0	fb:cell_kharakteristik.pedesaan_nova_scotia	pedesaan nova scotia	pedesaan|nova|scotia	pedesaan|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_tingkat_kejahatan_kekerasan.1194_0	1194.0	1194.0	1194.0	CD	NUMBER	1194.0	1194.0				
+8	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+8	3	fb:cell_tingkat_kejahatan_properti.2687_0	2687.0	2687.0	2687.0	CD	NUMBER	2687.0	2687.0				
+8	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+8	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.816_0	816.0	816.0	816.0	CD	NUMBER	816.0	816.0				
+8	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+8	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.416_0	416.0	416.0	416.0	CD	NUMBER	416.0	416.0				
+8	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+8	9	fb:cell_tingkat_pelanggaran_narkoba.345_0	345.0	345.0	345.0	CD	NUMBER	345.0	345.0				
+8	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+9	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+9	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+9	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+9	3	fb:cell_tingkat_kejahatan_properti.null											
+9	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+9	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+9	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+9	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+9	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+9	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+9	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+10	0	fb:cell_kharakteristik.perkotaan_brunswick_baru	perkotaan brunswick baru	perkotaan|brunswick|baru	perkotaan|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_tingkat_kejahatan_kekerasan.1299_0	1299.0	1299.0	1299.0	CD	NUMBER	1299.0	1299.0				
+10	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+10	3	fb:cell_tingkat_kejahatan_properti.3240_0	3240.0	3240.0	3240.0	CD	NUMBER	3240.0	3240.0				
+10	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+10	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1078_0	1078.0	1078.0	1078.0	CD	NUMBER	1078.0	1078.0				
+10	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+10	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.276_0	276.0	276.0	276.0	CD	NUMBER	276.0	276.0				
+10	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._30_0	-30.0	-30.0	-30.0	CD	NUMBER	-30.0	30.0				
+10	9	fb:cell_tingkat_pelanggaran_narkoba.196_0	196.0	196.0	196.0	CD	NUMBER	196.0	196.0				
+10	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+11	0	fb:cell_kharakteristik.pedesaan_brunswick_baru	pedesaan brunswick baru	pedesaan|brunswick|baru	pedesaan|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_tingkat_kejahatan_kekerasan.1203_0	1203.0	1203.0	1203.0	CD	NUMBER	1203.0	1203.0				
+11	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+11	3	fb:cell_tingkat_kejahatan_properti.2441_0	2441.0	2441.0	2441.0	CD	NUMBER	2441.0	2441.0				
+11	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+11	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.728_0	728.0	728.0	728.0	CD	NUMBER	728.0	728.0				
+11	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+11	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.381_0	381.0	381.0	381.0	CD	NUMBER	381.0	381.0				
+11	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._22_0	-22.0	-22.0	-22.0	CD	NUMBER	-22.0	22.0				
+11	9	fb:cell_tingkat_pelanggaran_narkoba.277_0	277.0	277.0	277.0	CD	NUMBER	277.0	277.0				
+11	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+12	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+12	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+12	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+12	3	fb:cell_tingkat_kejahatan_properti.null											
+12	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+12	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+12	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+12	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+12	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+12	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+12	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+13	0	fb:cell_kharakteristik.perkotaan_quebec	perkotaan Quebec	perkotaan|quebec	perkotaan|Quebec	NNP|NNP	O|O	|					
+13	1	fb:cell_tingkat_kejahatan_kekerasan.979_0	979.0	979.0	979.0	CD	NUMBER	979.0	979.0				
+13	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+13	3	fb:cell_tingkat_kejahatan_properti.1912_0	1912.0	1912.0	1912.0	CD	NUMBER	1912.0	1912.0				
+13	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._46_0	-46.0	-46.0	-46.0	CD	NUMBER	-46.0	46.0				
+13	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.466_0	466.0	466.0	466.0	CD	NUMBER	466.0	466.0				
+13	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+13	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.460_0	460.0	460.0	460.0	CD	NUMBER	460.0	460.0				
+13	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+13	9	fb:cell_tingkat_pelanggaran_narkoba.283_0	283.0	283.0	283.0	CD	NUMBER	283.0	283.0				
+13	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+14	0	fb:cell_kharakteristik.pedesaan_quebec	pedesaan Quebec	pedesaan|quebec	pedesaan|Quebec	NNP|NNP	O|O	|					
+14	1	fb:cell_tingkat_kejahatan_kekerasan.1314_0	1314.0	1314.0	1314.0	CD	NUMBER	1314.0	1314.0				
+14	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+14	3	fb:cell_tingkat_kejahatan_properti.1544_0	1544.0	1544.0	1544.0	CD	NUMBER	1544.0	1544.0				
+14	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._43_0	-43.0	-43.0	-43.0	CD	NUMBER	-43.0	43.0				
+14	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.518_0	518.0	518.0	518.0	CD	NUMBER	518.0	518.0				
+14	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+14	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.616_0	616.0	616.0	616.0	CD	NUMBER	616.0	616.0				
+14	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+14	9	fb:cell_tingkat_pelanggaran_narkoba.311_0	311.0	311.0	311.0	CD	NUMBER	311.0	311.0				
+14	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+15	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+15	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+15	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+15	3	fb:cell_tingkat_kejahatan_properti.null											
+15	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+15	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+15	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+15	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+15	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+15	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+15	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+16	0	fb:cell_kharakteristik.perkotaan_ontario	perkotaan ontario	perkotaan|ontario	perkotaan|ontario	NNP|NNP	O|O	|					
+16	1	fb:cell_tingkat_kejahatan_kekerasan.824_0	824.0	824.0	824.0	CD	NUMBER	824.0	824.0				
+16	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+16	3	fb:cell_tingkat_kejahatan_properti.2435_0	2435.0	2435.0	2435.0	CD	NUMBER	2435.0	2435.0				
+16	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._25_0	-25.0	-25.0	-25.0	CD	NUMBER	-25.0	25.0				
+16	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.551_0	551.0	551.0	551.0	CD	NUMBER	551.0	551.0				
+16	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+16	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.193_0	193.0	193.0	193.0	CD	NUMBER	193.0	193.0				
+16	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._24_0	-24.0	-24.0	-24.0	CD	NUMBER	-24.0	24.0				
+16	9	fb:cell_tingkat_pelanggaran_narkoba.158_0	158.0	158.0	158.0	CD	NUMBER	158.0	158.0				
+16	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._30_0	-30.0	-30.0	-30.0	CD	NUMBER	-30.0	30.0				
+17	0	fb:cell_kharakteristik.pedesaan_ontario	pedesaan ontario	pedesaan|ontario	pedesaan|ontario	NNP|NNP	O|O	|					
+17	1	fb:cell_tingkat_kejahatan_kekerasan.987_0	987.0	987.0	987.0	CD	NUMBER	987.0	987.0				
+17	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+17	3	fb:cell_tingkat_kejahatan_properti.2092_0	2092.0	2092.0	2092.0	CD	NUMBER	2092.0	2092.0				
+17	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+17	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.624_0	624.0	624.0	624.0	CD	NUMBER	624.0	624.0				
+17	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+17	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.247_0	247.0	247.0	247.0	CD	NUMBER	247.0	247.0				
+17	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._27_0	-27.0	-27.0	-27.0	CD	NUMBER	-27.0	27.0				
+17	9	fb:cell_tingkat_pelanggaran_narkoba.202_0	202.0	202.0	202.0	CD	NUMBER	202.0	202.0				
+17	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._37_0	-37.0	-37.0	-37.0	CD	NUMBER	-37.0	37.0				
+18	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+18	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+18	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+18	3	fb:cell_tingkat_kejahatan_properti.null											
+18	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+18	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+18	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+18	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+18	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+18	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+18	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+19	0	fb:cell_kharakteristik.perkotaan_manitoba	perkotaan manitoba	perkotaan|manitoba	perkotaan|manitoba	NNP|NNP	O|O	|					
+19	1	fb:cell_tingkat_kejahatan_kekerasan.1521_0	1521.0	1521.0	1521.0	CD	NUMBER	1521.0	1521.0				
+19	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+19	3	fb:cell_tingkat_kejahatan_properti.5142_0	5142.0	5142.0	5142.0	CD	NUMBER	5142.0	5142.0				
+19	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._26_0	-26.0	-26.0	-26.0	CD	NUMBER	-26.0	26.0				
+19	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1301_0	1301.0	1301.0	1301.0	CD	NUMBER	1301.0	1301.0				
+19	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+19	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.158_0	158.0	158.0	158.0	CD	NUMBER	158.0	158.0				
+19	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._29_0	-29.0	-29.0	-29.0	CD	NUMBER	-29.0	29.0				
+19	9	fb:cell_tingkat_pelanggaran_narkoba.145_0	145.0	145.0	145.0	CD	NUMBER	145.0	145.0				
+19	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+20	0	fb:cell_kharakteristik.pedesaan_manitoba	pedesaan manitoba	pedesaan|manitoba	pedesaan|manitoba	NNP|NNP	O|O	|					
+20	1	fb:cell_tingkat_kejahatan_kekerasan.2933_0	2933.0	2933.0	2933.0	CD	NUMBER	2933.0	2933.0				
+20	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+20	3	fb:cell_tingkat_kejahatan_properti.5405_0	5405.0	5405.0	5405.0	CD	NUMBER	5405.0	5405.0				
+20	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+20	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.2971_0	2971.0	2971.0	2971.0	CD	NUMBER	2971.0	2971.0				
+20	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+20	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.718_0	718.0	718.0	718.0	CD	NUMBER	718.0	718.0				
+20	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+20	9	fb:cell_tingkat_pelanggaran_narkoba.346_0	346.0	346.0	346.0	CD	NUMBER	346.0	346.0				
+20	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+21	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+21	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+21	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+21	3	fb:cell_tingkat_kejahatan_properti.null											
+21	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+21	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+21	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+21	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+21	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+21	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+21	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+22	0	fb:cell_kharakteristik.perkotaan_saskatchewan	perkotaan saskatchewan	perkotaan|saskatchewan	perkotaan|saskatchewan	NNP|NNP	O|O	|					
+22	1	fb:cell_tingkat_kejahatan_kekerasan.1445_0	1445.0	1445.0	1445.0	CD	NUMBER	1445.0	1445.0				
+22	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+22	3	fb:cell_tingkat_kejahatan_properti.5735_0	5735.0	5735.0	5735.0	CD	NUMBER	5735.0	5735.0				
+22	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+22	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.2958_0	2958.0	2958.0	2958.0	CD	NUMBER	2958.0	2958.0				
+22	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+22	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.582_0	582.0	582.0	582.0	CD	NUMBER	582.0	582.0				
+22	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._26_0	-26.0	-26.0	-26.0	CD	NUMBER	-26.0	26.0				
+22	9	fb:cell_tingkat_pelanggaran_narkoba.255_0	255.0	255.0	255.0	CD	NUMBER	255.0	255.0				
+22	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+23	0	fb:cell_kharakteristik.pedesaan_saskatchewan	pedesaan saskatchewan	pedesaan|saskatchewan	pedesaan|saskatchewan	NNP|NNP	O|O	|					
+23	1	fb:cell_tingkat_kejahatan_kekerasan.3118_0	3118.0	3118.0	3118.0	CD	NUMBER	3118.0	3118.0				
+23	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+23	3	fb:cell_tingkat_kejahatan_properti.7179_0	7179.0	7179.0	7179.0	CD	NUMBER	7179.0	7179.0				
+23	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+23	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.3532_0	3532.0	3532.0	3532.0	CD	NUMBER	3532.0	3532.0				
+23	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+23	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.1168_0	1168.0	1168.0	1168.0	CD	NUMBER	1168.0	1168.0				
+23	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+23	9	fb:cell_tingkat_pelanggaran_narkoba.339_0	339.0	339.0	339.0	CD	NUMBER	339.0	339.0				
+23	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+24	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+24	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+24	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+24	3	fb:cell_tingkat_kejahatan_properti.null											
+24	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+24	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+24	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+24	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+24	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+24	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+24	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+25	0	fb:cell_kharakteristik.alberta_perkotaan	alberta perkotaan	alberta|perkotaan	alberta|perkotaan	NNP|NNP	LOCATION|O	|					
+25	1	fb:cell_tingkat_kejahatan_kekerasan.1158_0	1158.0	1158.0	1158.0	CD	NUMBER	1158.0	1158.0				
+25	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+25	3	fb:cell_tingkat_kejahatan_properti.5147_0	5147.0	5147.0	5147.0	CD	NUMBER	5147.0	5147.0				
+25	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1615_0	1615.0	1615.0	1615.0	CD	NUMBER	1615.0	1615.0				
+25	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+25	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.321_0	321.0	321.0	321.0	CD	NUMBER	321.0	321.0				
+25	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._33_0	-33.0	-33.0	-33.0	CD	NUMBER	-33.0	33.0				
+25	9	fb:cell_tingkat_pelanggaran_narkoba.238_0	238.0	238.0	238.0	CD	NUMBER	238.0	238.0				
+25	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+26	0	fb:cell_kharakteristik.alberta_pedesaan	alberta pedesaan	alberta|pedesaan	alberta|pedesaan	NNP|NNP	LOCATION|O	|					
+26	1	fb:cell_tingkat_kejahatan_kekerasan.1870_0	1870.0	1870.0	1870.0	CD	NUMBER	1870.0	1870.0				
+26	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._24_0	-24.0	-24.0	-24.0	CD	NUMBER	-24.0	24.0				
+26	3	fb:cell_tingkat_kejahatan_properti.6858_0	6858.0	6858.0	6858.0	CD	NUMBER	6858.0	6858.0				
+26	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+26	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.2236_0	2236.0	2236.0	2236.0	CD	NUMBER	2236.0	2236.0				
+26	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+26	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.796_0	796.0	796.0	796.0	CD	NUMBER	796.0	796.0				
+26	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._30_0	-30.0	-30.0	-30.0	CD	NUMBER	-30.0	30.0				
+26	9	fb:cell_tingkat_pelanggaran_narkoba.392_0	392.0	392.0	392.0	CD	NUMBER	392.0	392.0				
+26	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+27	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+27	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+27	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+27	3	fb:cell_tingkat_kejahatan_properti.null											
+27	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+27	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+27	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+27	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+27	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+27	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+27	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+28	0	fb:cell_kharakteristik.perkotaan_columbia_inggris	perkotaan columbia inggris	perkotaan|columbia|inggris	perkotaan|columbia|inggris	NNP|NNP|NNP	O|O|O	||					
+28	1	fb:cell_tingkat_kejahatan_kekerasan.1070_0	1070.0	1070.0	1070.0	CD	NUMBER	1070.0	1070.0				
+28	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._34_0	-34.0	-34.0	-34.0	CD	NUMBER	-34.0	34.0				
+28	3	fb:cell_tingkat_kejahatan_properti.5011_0	5011.0	5011.0	5011.0	CD	NUMBER	5011.0	5011.0				
+28	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+28	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1464_0	1464.0	1464.0	1464.0	CD	NUMBER	1464.0	1464.0				
+28	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+28	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.294_0	294.0	294.0	294.0	CD	NUMBER	294.0	294.0				
+28	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+28	9	fb:cell_tingkat_pelanggaran_narkoba.397_0	397.0	397.0	397.0	CD	NUMBER	397.0	397.0				
+28	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+29	0	fb:cell_kharakteristik.pedesaan_columbia_inggris	pedesaan columbia inggris	pedesaan|columbia|inggris	pedesaan|columbia|inggris	NNP|NNP|NNP	O|O|O	||					
+29	1	fb:cell_tingkat_kejahatan_kekerasan.1367_0	1367.0	1367.0	1367.0	CD	NUMBER	1367.0	1367.0				
+29	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._35_0	-35.0	-35.0	-35.0	CD	NUMBER	-35.0	35.0				
+29	3	fb:cell_tingkat_kejahatan_properti.3293_0	3293.0	3293.0	3293.0	CD	NUMBER	3293.0	3293.0				
+29	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._35_0	-35.0	-35.0	-35.0	CD	NUMBER	-35.0	35.0				
+29	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1758_0	1758.0	1758.0	1758.0	CD	NUMBER	1758.0	1758.0				
+29	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+29	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.484_0	484.0	484.0	484.0	CD	NUMBER	484.0	484.0				
+29	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._31_0	-31.0	-31.0	-31.0	CD	NUMBER	-31.0	31.0				
+29	9	fb:cell_tingkat_pelanggaran_narkoba.482_0	482.0	482.0	482.0	CD	NUMBER	482.0	482.0				
+29	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._43_0	-43.0	-43.0	-43.0	CD	NUMBER	-43.0	43.0				
+30	0	fb:cell_kharakteristik.semua_provinsi	semua provinsi	semua|provinsi	semua|provinsi	NN|NN	O|O	|					
+30	1	fb:cell_tingkat_kejahatan_kekerasan.null											
+30	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017.null											
+30	3	fb:cell_tingkat_kejahatan_properti.null											
+30	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017.null											
+30	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.null											
+30	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.null											
+30	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.null											
+30	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017.null											
+30	9	fb:cell_tingkat_pelanggaran_narkoba.null											
+30	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017.null											
+31	0	fb:cell_kharakteristik.semua_provinsi_perkotaan	semua provinsi perkotaan	semua|provinsi|perkotaan	semua|provinsi|perkotaan	NN|NN|NN	O|O|O	||					
+31	1	fb:cell_tingkat_kejahatan_kekerasan.990_0	990.0	990.0	990.0	CD	NUMBER	990.0	990.0				
+31	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+31	3	fb:cell_tingkat_kejahatan_properti.3177_0	3177.0	3177.0	3177.0	CD	NUMBER	3177.0	3177.0				
+31	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._22_0	-22.0	-22.0	-22.0	CD	NUMBER	-22.0	22.0				
+31	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.884_0	884.0	884.0	884.0	CD	NUMBER	884.0	884.0				
+31	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+31	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.296_0	296.0	296.0	296.0	CD	NUMBER	296.0	296.0				
+31	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._22_0	-22.0	-22.0	-22.0	CD	NUMBER	-22.0	22.0				
+31	9	fb:cell_tingkat_pelanggaran_narkoba.233_0	233.0	233.0	233.0	CD	NUMBER	233.0	233.0				
+31	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+32	0	fb:cell_kharakteristik.semua_provinsi_pedesaan	semua provinsi pedesaan	semua|provinsi|pedesaan	semua|provinsi|pedesaan	NN|NN|NN	O|O|O	||					
+32	1	fb:cell_tingkat_kejahatan_kekerasan.1532_0	1532.0	1532.0	1532.0	CD	NUMBER	1532.0	1532.0				
+32	2	fb:cell_kejahatan_kekerasan_perubahan_2009_ke_2017._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+32	3	fb:cell_tingkat_kejahatan_properti.3355_0	3355.0	3355.0	3355.0	CD	NUMBER	3355.0	3355.0				
+32	4	fb:cell_kejahatan_properti_perubahan_2009_ke_2017._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+32	5	fb:cell_tingkat_pelanggaran_hukum_pidana_lainnya.1324_0	1324.0	1324.0	1324.0	CD	NUMBER	1324.0	1324.0				
+32	6	fb:cell_pelanggaran_hukum_pidana_lainnya_perubahan_2009_ke_2017._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+32	7	fb:cell_angka_pelanggaran_lalu_lintas_kuhp.543_0	543.0	543.0	543.0	CD	NUMBER	543.0	543.0				
+32	8	fb:cell_kuhp_pelanggaran_lalu_lintas_perubahan_2009_ke_2017._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+32	9	fb:cell_tingkat_pelanggaran_narkoba.310_0	310.0	310.0	310.0	CD	NUMBER	310.0	310.0				
+32	10	fb:cell__pelanggaran_narkoba_berubah_dari_tahun_2009_menjadi_2017._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				

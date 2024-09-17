@@ -1,0 +1,89 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nalmf_jumlah_perusahaan_kolom_1	nalmf jumlah perusahaan kolom 1	nalmf|jumlah|perusahaan|kolom|1	nalmf|jumlah|perusahaan|kolom|1	NN|NN|NNP|NNP|CD	O|O|O|O|NUMBER	||||1.0					
+-1	2	fb:row.row.jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2	jumlah nalmf perusahaan dengan lapangan kerja kolom 2	jumlah|nalmf|perusahaan|dengan|lapangan|kerja|kolom|2	jumlah|nalmf|perusahaan|dengan|lapangan|kerja|kolom|2	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|NUMBER	|||||||2.0					
+-1	3	fb:row.row.nalmf_total_lapangan_kerja_kolom_3	nalmf total lapangan kerja kolom 3	nalmf|total|lapangan|kerja|kolom|3	nalmf|total|lapangan|kerja|kolom|3	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||3.0					
+-1	4	fb:row.row.nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4	nalmf rata-rata jumlah pegawai per perusahaan dengan lapangan kerja kolom 4	nalmf|rata|rata|jumlah|pegawai|per|perusahaan|dengan|lapangan|kerja|kolom|4	nalmf|rata|rata|jumlah|pegawai|per|perusahaan|dengan|lapangan|kerja|kolom|4	NNP|JJ|JJ|NNP|NNP|IN|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|O|NUMBER	|||||||||||4.0					
+-1	5	fb:row.row.ceedd_bom_jumlah_perusahaan_kolom_5	ceedd-bom jumlah perusahaan kolom 5	ceedd|bom|jumlah|perusahaan|kolom|5	ceedd|bom|jumlah|perusahaan|kolom|5	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||5.0					
+-1	6	fb:row.row.ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6	ceedd-bom jumlah perusahaan dengan lapangan kerja kolom 6	ceedd|bom|jumlah|perusahaan|dengan|lapangan|kerja|kolom|6	ceedd|bom|jumlah|perusahaan|dengan|lapangan|kerja|kolom|6	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||6.0					
+-1	7	fb:row.row.kolom_total_pekerjaan_ceedd_bom_7	kolom total pekerjaan ceedd-bom 7	kolom|total|pekerjaan|ceedd|bom|7	kolom|total|pekerjaan|ceedd|bom|7	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||7.0					
+0	0	fb:cell_kharakteristik.nomor_2005	nomor 2005	nomor|2005	nomor|2005	NNP|CD	O|DATE	|2005	2005.0				
+0	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2104500_0	2104500.0	2104500.0	2104500.0	CD	NUMBER	2104500.0	2104500.0				
+0	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1070300_0	1070300.0	1070300.0	1070300.0	CD	NUMBER	1070300.0	1070300.0				
+0	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.15411100_0	15411100.0	15411100.0	15411100.0	CD	NUMBER	1.54111E7	1.54111E7				
+0	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+0	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.4732900_0	4732900.0	4732900.0	4732900.0	CD	NUMBER	4732900.0	4732900.0				
+0	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.776200_0	776200.0	776200.0	776200.0	CD	NUMBER	776200.0	776200.0				
+0	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7486300_0	7486300.0	7486300.0	7486300.0	CD	NUMBER	7486300.0	7486300.0				
+1	0	fb:cell_kharakteristik.nomor_2006	nomor 2006	nomor|2006	nomor|2006	NNP|CD	O|DATE	|2006	2006.0				
+1	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2174100_0	2174100.0	2174100.0	2174100.0	CD	NUMBER	2174100.0	2174100.0				
+1	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1096100_0	1096100.0	1096100.0	1096100.0	CD	NUMBER	1096100.0	1096100.0				
+1	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.15768100_0	15768100.0	15768100.0	15768100.0	CD	NUMBER	1.57681E7	1.57681E7				
+1	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+1	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.4825000_0	4825000.0	4825000.0	4825000.0	CD	NUMBER	4825000.0	4825000.0				
+1	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.804700_0	804700.0	804700.0	804700.0	CD	NUMBER	804700.0	804700.0				
+1	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7760000_0	7760000.0	7760000.0	7760000.0	CD	NUMBER	7760000.0	7760000.0				
+2	0	fb:cell_kharakteristik.nomor_2007	nomor 2007	nomor|2007	nomor|2007	NNP|CD	O|DATE	|2007	2007.0				
+2	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2249500_0	2249500.0	2249500.0	2249500.0	CD	NUMBER	2249500.0	2249500.0				
+2	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1129900_0	1129900.0	1129900.0	1129900.0	CD	NUMBER	1129900.0	1129900.0				
+2	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16077000_0	16077000.0	16077000.0	16077000.0	CD	NUMBER	1.6077E7	1.6077E7				
+2	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+2	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.4934500_0	4934500.0	4934500.0	4934500.0	CD	NUMBER	4934500.0	4934500.0				
+2	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.833500_0	833500.0	833500.0	833500.0	CD	NUMBER	833500.0	833500.0				
+2	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7848000_0	7848000.0	7848000.0	7848000.0	CD	NUMBER	7848000.0	7848000.0				
+3	0	fb:cell_kharakteristik.nomor_2008	nomor 2008	nomor|2008	nomor|2008	NNP|CD	O|DATE	|2008	2008.0				
+3	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2321100_0	2321100.0	2321100.0	2321100.0	CD	NUMBER	2321100.0	2321100.0				
+3	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1150900_0	1150900.0	1150900.0	1150900.0	CD	NUMBER	1150900.0	1150900.0				
+3	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16225700_0	16225700.0	16225700.0	16225700.0	CD	NUMBER	1.62257E7	1.62257E7				
+3	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.14_1	14.1	14.1	14.1	CD	NUMBER	14.1	14.1				
+3	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5076300_0	5076300.0	5076300.0	5076300.0	CD	NUMBER	5076300.0	5076300.0				
+3	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.857000_0	857000.0	857000.0	857000.0	CD	NUMBER	857000.0	857000.0				
+3	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7933700_0	7933700.0	7933700.0	7933700.0	CD	NUMBER	7933700.0	7933700.0				
+4	0	fb:cell_kharakteristik.nomor_2009	nomor 2009	nomor|2009	nomor|2009	NNP|CD	O|DATE	|2009	2009.0				
+4	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2356700_0	2356700.0	2356700.0	2356700.0	CD	NUMBER	2356700.0	2356700.0				
+4	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1159100_0	1159100.0	1159100.0	1159100.0	CD	NUMBER	1159100.0	1159100.0				
+4	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.15928500_0	15928500.0	15928500.0	15928500.0	CD	NUMBER	1.59285E7	1.59285E7				
+4	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+4	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5106200_0	5106200.0	5106200.0	5106200.0	CD	NUMBER	5106200.0	5106200.0				
+4	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.865900_0	865900.0	865900.0	865900.0	CD	NUMBER	865900.0	865900.0				
+4	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7842800_0	7842800.0	7842800.0	7842800.0	CD	NUMBER	7842800.0	7842800.0				
+5	0	fb:cell_kharakteristik.nomor_2010	nomor 2010	nomor|2010	nomor|2010	NNP|CD	O|DATE	|2010	2010.0				
+5	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2409100_0	2409100.0	2409100.0	2409100.0	CD	NUMBER	2409100.0	2409100.0				
+5	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1175300_0	1175300.0	1175300.0	1175300.0	CD	NUMBER	1175300.0	1175300.0				
+5	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16062700_0	16062700.0	16062700.0	16062700.0	CD	NUMBER	1.60627E7	1.60627E7				
+5	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+5	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5169000_0	5169000.0	5169000.0	5169000.0	CD	NUMBER	5169000.0	5169000.0				
+5	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.879900_0	879900.0	879900.0	879900.0	CD	NUMBER	879900.0	879900.0				
+5	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7879300_0	7879300.0	7879300.0	7879300.0	CD	NUMBER	7879300.0	7879300.0				
+6	0	fb:cell_kharakteristik.nomor_2011	nomor 2011	nomor|2011	nomor|2011	NNP|CD	O|DATE	|2011	2011.0				
+6	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2452200_0	2452200.0	2452200.0	2452200.0	CD	NUMBER	2452200.0	2452200.0				
+6	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1191800_0	1191800.0	1191800.0	1191800.0	CD	NUMBER	1191800.0	1191800.0				
+6	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16315500_0	16315500.0	16315500.0	16315500.0	CD	NUMBER	1.63155E7	1.63155E7				
+6	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+6	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5338700_0	5338700.0	5338700.0	5338700.0	CD	NUMBER	5338700.0	5338700.0				
+6	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.896700_0	896700.0	896700.0	896700.0	CD	NUMBER	896700.0	896700.0				
+6	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7847900_0	7847900.0	7847900.0	7847900.0	CD	NUMBER	7847900.0	7847900.0				
+7	0	fb:cell_kharakteristik.nomor_2012	nomor 2012	nomor|2012	nomor|2012	NNP|CD	O|DATE	|2012	2012.0				
+7	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2485700_0	2485700.0	2485700.0	2485700.0	CD	NUMBER	2485700.0	2485700.0				
+7	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1207800_0	1207800.0	1207800.0	1207800.0	CD	NUMBER	1207800.0	1207800.0				
+7	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16419100_0	16419100.0	16419100.0	16419100.0	CD	NUMBER	1.64191E7	1.64191E7				
+7	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+7	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5425300_0	5425300.0	5425300.0	5425300.0	CD	NUMBER	5425300.0	5425300.0				
+7	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.897600_0	897600.0	897600.0	897600.0	CD	NUMBER	897600.0	897600.0				
+7	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7828400_0	7828400.0	7828400.0	7828400.0	CD	NUMBER	7828400.0	7828400.0				
+8	0	fb:cell_kharakteristik.nomor_2013	nomor 2013	nomor|2013	nomor|2013	NNP|CD	O|DATE	|2013	2013.0				
+8	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2504000_0	2504000.0	2504000.0	2504000.0	CD	NUMBER	2504000.0	2504000.0				
+8	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1219000_0	1219000.0	1219000.0	1219000.0	CD	NUMBER	1219000.0	1219000.0				
+8	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16543600_0	16543600.0	16543600.0	16543600.0	CD	NUMBER	1.65436E7	1.65436E7				
+8	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+8	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5604500_0	5604500.0	5604500.0	5604500.0	CD	NUMBER	5604500.0	5604500.0				
+8	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.909500_0	909500.0	909500.0	909500.0	CD	NUMBER	909500.0	909500.0				
+8	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.8046300_0	8046300.0	8046300.0	8046300.0	CD	NUMBER	8046300.0	8046300.0				
+9	0	fb:cell_kharakteristik.angka_rata_rata	angka rata-rata	angka|rata|rata	angka|rata|rata	NNP|JJ|JJ	O|O|O	||					
+9	1	fb:cell_nalmf_jumlah_perusahaan_kolom_1.2339600_0	2339600.0	2339600.0	2339600.0	CD	NUMBER	2339600.0	2339600.0				
+9	2	fb:cell_jumlah_nalmf_perusahaan_dengan_lapangan_kerja_kolom_2.1155600_0	1155600.0	1155600.0	1155600.0	CD	NUMBER	1155600.0	1155600.0				
+9	3	fb:cell_nalmf_total_lapangan_kerja_kolom_3.16083500_0	16083500.0	16083500.0	16083500.0	CD	NUMBER	1.60835E7	1.60835E7				
+9	4	fb:cell_nalmf_rata_rata_jumlah_pegawai_per_perusahaan_dengan_lapangan_kerja_kolom_4.13_9	13.9	13.9	13.9	CD	NUMBER	13.9	13.9				
+9	5	fb:cell_ceedd_bom_jumlah_perusahaan_kolom_5.5134700_0	5134700.0	5134700.0	5134700.0	CD	NUMBER	5134700.0	5134700.0				
+9	6	fb:cell_ceedd_bom_jumlah_perusahaan_dengan_lapangan_kerja_kolom_6.857900_0	857900.0	857900.0	857900.0	CD	NUMBER	857900.0	857900.0				
+9	7	fb:cell_kolom_total_pekerjaan_ceedd_bom_7.7830300_0	7830300.0	7830300.0	7830300.0	CD	NUMBER	7830300.0	7830300.0				

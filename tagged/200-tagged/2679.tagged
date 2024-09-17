@@ -1,0 +1,305 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_kanada_ashr	total kanada ashr	total|kanada|ashr	total|kanada|ashr	JJ|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.total_kanada_interval_kepercayaan_95_dari	total kanada interval kepercayaan 95% dari	total|kanada|interval|kepercayaan|95|%|dari	total|kanada|interval|kepercayaan|95|%|dari	JJ|NNP|NN|NN|CD|NN|NNP	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	3	fb:row.row.total_kanada_interval_kepercayaan_95_hingga	total kanada interval kepercayaan 95% hingga	total|kanada|interval|kepercayaan|95|%|hingga	total|kanada|interval|kepercayaan|95|%|hingga	JJ|NNP|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	4	fb:row.row.negara_pertama_yang_hidup_dari_cadangan_ashr	negara pertama yang hidup dari cadangan ashr	negara|pertama|yang|hidup|dari|cadangan|ashr	negara|pertama|yang|hidup|dari|cadangan|ashr	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	5	fb:row.row.negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari	negara-negara pertama yang hidup pada interval kepercayaan cadangan 95% dari	negara|negara|pertama|yang|hidup|pada|interval|kepercayaan|cadangan|95|%|dari	negara|negara|pertama|yang|hidup|pada|interval|kepercayaan|cadangan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||%95.0|%95.0|					
+-1	6	fb:row.row.negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan	negara-negara pertama yang hidup dengan interval kepercayaan 95% cadangan	negara|negara|pertama|yang|hidup|dengan|interval|kepercayaan|95|%|cadangan	negara|negara|pertama|yang|hidup|dengan|interval|kepercayaan|95|%|cadangan	NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	||||||||%95.0|%95.0|					
+-1	7	fb:row.row.negara_negara_pertama_yang_hidup_dari_cadangan_ashr	negara-negara pertama yang hidup dari cadangan ashr	negara|negara|pertama|yang|hidup|dari|cadangan|ashr	negara|negara|pertama|yang|hidup|dari|cadangan|ashr	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	8	fb:row.row.negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari	negara-negara pertama yang hidup dari cadangan interval kepercayaan 95% dari	negara|negara|pertama|yang|hidup|dari|cadangan|interval|kepercayaan|95|%|dari	negara|negara|pertama|yang|hidup|dari|cadangan|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||%95.0|%95.0|					
+-1	9	fb:row.row.negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan	negara-negara pertama yang hidup dari interval kepercayaan 95% cadangan	negara|negara|pertama|yang|hidup|dari|interval|kepercayaan|95|%|cadangan	negara|negara|pertama|yang|hidup|dari|interval|kepercayaan|95|%|cadangan	NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	||||||||%95.0|%95.0|					
+-1	10	fb:row.row.metis_ashr	metis ashr	metis|ashr	metis|ashr	NNP|NNP	O|O	|					
+-1	11	fb:row.row.memenuhi_interval_kepercayaan_95_dari	memenuhi interval kepercayaan 95% dari	memenuhi|interval|kepercayaan|95|%|dari	memenuhi|interval|kepercayaan|95|%|dari	NNP|NN|NN|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	12	fb:row.row.memenuhi_interval_kepercayaan_95_untuk	memenuhi interval kepercayaan 95% untuk	memenuhi|interval|kepercayaan|95|%|untuk	memenuhi|interval|kepercayaan|95|%|untuk	NNP|NN|NN|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	13	fb:row.row.inuit_tinggal_di_inuit_nunangat_ashr	inuit tinggal di inuit nunangat ashr	inuit|tinggal|di|inuit|nunangat|ashr	inuit|tinggal|di|inuit|nunangat|ashr	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	14	fb:row.row.inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari	inuit tinggal di inuit nunangat selang kepercayaan 95% dari	inuit|tinggal|di|inuit|nunangat|selang|kepercayaan|95|%|dari	inuit|tinggal|di|inuit|nunangat|selang|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NNP	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	15	fb:row.row.inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga	inuit tinggal di inuit nunangat interval kepercayaan 95% hingga	inuit|tinggal|di|inuit|nunangat|interval|kepercayaan|95|%|hingga	inuit|tinggal|di|inuit|nunangat|interval|kepercayaan|95|%|hingga	NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	16	fb:row.row.penduduk_non_aborigin_ashr	penduduk non-aborigin ashr	penduduk|non|aborigin|ashr	penduduk|non|aborigin|ashr	NN|JJ|NN|NN	O|O|O|O	|||					
+-1	17	fb:row.row.populasi_non_aborigin_interval_kepercayaan_95_dari	populasi non-aborigin interval kepercayaan 95% dari	populasi|non|aborigin|interval|kepercayaan|95|%|dari	populasi|non|aborigin|interval|kepercayaan|95|%|dari	NNP|JJ|NN|NN|NN|CD|NN|NNP	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	18	fb:row.row.populasi_non_aborigin_interval_kepercayaan_95_hingga	populasi non-aborigin interval kepercayaan 95% hingga	populasi|non|aborigin|interval|kepercayaan|95|%|hingga	populasi|non|aborigin|interval|kepercayaan|95|%|hingga	NNP|JJ|NN|NN|NN|CD|NN|NN	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.semua_penyebab_digabungkan	semua penyebab digabungkan	semua|penyebab|digabungkan	semua|penyebab|digabungkan	NN|NN|NN	O|O|O	||					
+0	1	fb:cell_total_kanada_ashr.643	643	643	643	CD	NUMBER	643.0	643.0				
+0	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.638	638	638	638	CD	NUMBER	638.0	638.0				
+0	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.649	649	649	649	CD	NUMBER	649.0	649.0				
+0	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.1806	1806	1806	1806	CD	DATE	1806	1806.0	1806-xx-xx			
+0	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.1776	1776	1776	1776	CD	DATE	1776	1776.0	1776-xx-xx			
+0	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.1837	1837	1837	1837	CD	DATE	1837	1837.0	1837-xx-xx			
+0	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.1131	1131	1131	1131	CD	DATE	1131	1131.0	1131-xx-xx			
+0	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.1088	1088	1088	1088	CD	DATE	1088	1088.0	1088-xx-xx			
+0	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.1175	1175	1175	1175	CD	DATE	1175	1175.0	1175-xx-xx			
+0	10	fb:cell_metis_ashr.977	977	977	977	CD	NUMBER	977.0	977.0				
+0	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.936	936	936	936	CD	NUMBER	936.0	936.0				
+0	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.1020	1020	1020	1020	CD	DATE	1020	1020.0	1020-xx-xx			
+0	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.1866_0	1866.0	1866.0	1866.0	CD	NUMBER	1866.0	1866.0				
+0	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.1780_0	1780.0	1780.0	1780.0	CD	NUMBER	1780.0	1780.0				
+0	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.1955_0	1955.0	1955.0	1955.0	CD	NUMBER	1955.0	1955.0				
+0	16	fb:cell_penduduk_non_aborigin_ashr.497	497	497	497	CD	NUMBER	497.0	497.0				
+0	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.492	492	492	492	CD	NUMBER	492.0	492.0				
+0	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.502	502	502	502	CD	NUMBER	502.0	502.0				
+1	0	fb:cell_kharakteristik.semua_penyebab_digabungkan	semua penyebab digabungkan	semua|penyebab|digabungkan	semua|penyebab|digabungkan	NN|NN|NN	O|O|O	||					
+1	1	fb:cell_total_kanada_ashr.489	489	489	489	CD	NUMBER	489.0	489.0				
+1	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.485	485	485	485	CD	NUMBER	485.0	485.0				
+1	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.494	494	494	494	CD	NUMBER	494.0	494.0				
+1	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.1059	1059	1059	1059	CD	DATE	1059	1059.0	1059-xx-xx			
+1	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.1036	1036	1036	1036	CD	DATE	1036	1036.0	1036-xx-xx			
+1	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.1083	1083	1083	1083	CD	DATE	1083	1083.0	1083-xx-xx			
+1	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.741	741	741	741	CD	NUMBER	741.0	741.0				
+1	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.707	707	707	707	CD	NUMBER	707.0	707.0				
+1	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.777	777	777	777	CD	NUMBER	777.0	777.0				
+1	10	fb:cell_metis_ashr.647	647	647	647	CD	NUMBER	647.0	647.0				
+1	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.613	613	613	613	CD	NUMBER	613.0	613.0				
+1	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.682	682	682	682	CD	NUMBER	682.0	682.0				
+1	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.1089_0	1089.0	1089.0	1089.0	CD	NUMBER	1089.0	1089.0				
+1	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.1024_0	1024.0	1024.0	1024.0	CD	NUMBER	1024.0	1024.0				
+1	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.1157_0	1157.0	1157.0	1157.0	CD	NUMBER	1157.0	1157.0				
+1	16	fb:cell_penduduk_non_aborigin_ashr.417	417	417	417	CD	NUMBER	417.0	417.0				
+1	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.413	413	413	413	CD	NUMBER	413.0	413.0				
+1	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.422	422	422	422	CD	NUMBER	422.0	422.0				
+2	0	fb:cell_kharakteristik.kehamilan_persalinan_dan_masa_nifas	kehamilan, persalinan dan masa nifas	kehamilan|,|persalinan|dan|masa|nifas	kehamilan|,|persalinan|dan|masa|nifas	NNP|,|NNP|NNP|NNP|NNPS	O|O|O|O|O|O	|||||				kehamilan|persalinan dan masa nifas	fb:part_kharakteristik.kehamilan|fb:part_kharakteristik.persalinan_dan_masa_nifas
+2	1	fb:cell_total_kanada_ashr.153	153	153	153	CD	NUMBER	153.0	153.0				
+2	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.150	150	150	150	CD	NUMBER	150.0	150.0				
+2	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.155	155	155	155	CD	NUMBER	155.0	155.0				
+2	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.737	737	737	737	CD	NUMBER	737.0	737.0				
+2	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.718	718	718	718	CD	NUMBER	718.0	718.0				
+2	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.757	757	757	757	CD	NUMBER	757.0	757.0				
+2	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.387	387	387	387	CD	NUMBER	387.0	387.0				
+2	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.363	363	363	363	CD	NUMBER	363.0	363.0				
+2	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.414	414	414	414	CD	NUMBER	414.0	414.0				
+2	10	fb:cell_metis_ashr.326	326	326	326	CD	NUMBER	326.0	326.0				
+2	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.303	303	303	303	CD	NUMBER	303.0	303.0				
+2	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.352	352	352	352	CD	NUMBER	352.0	352.0				
+2	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.775_0	775.0	775.0	775.0	CD	NUMBER	775.0	775.0				
+2	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.720_0	720.0	720.0	720.0	CD	NUMBER	720.0	720.0				
+2	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.833_0	833.0	833.0	833.0	CD	NUMBER	833.0	833.0				
+2	16	fb:cell_penduduk_non_aborigin_ashr.79	79	79	79	CD	NUMBER	79.0	79.0				
+2	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.77	77	77	77	CD	NUMBER	77.0	77.0				
+2	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.81	81	81	81	CD	NUMBER	81.0	81.0				
+3	0	fb:cell_kharakteristik.penyakit_pada_sistem_pencernaan	penyakit pada sistem pencernaan	penyakit|pada|sistem|pencernaan	penyakit|pada|sistem|pencernaan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_total_kanada_ashr.81	81	81	81	CD	NUMBER	81.0	81.0				
+3	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.79	79	79	79	CD	NUMBER	79.0	79.0				
+3	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.83	83	83	83	CD	NUMBER	83.0	83.0				
+3	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.136	136	136	136	CD	NUMBER	136.0	136.0				
+3	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.128	128	128	128	CD	NUMBER	128.0	128.0				
+3	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.145	145	145	145	CD	NUMBER	145.0	145.0				
+3	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.83	83	83	83	CD	NUMBER	83.0	83.0				
+3	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.72	72	72	72	CD	NUMBER	72.0	72.0				
+3	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.95	95	95	95	CD	NUMBER	95.0	95.0				
+3	10	fb:cell_metis_ashr.100	100	100	100	CD	NUMBER	100.0	100.0				
+3	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.87	87	87	87	CD	NUMBER	87.0	87.0				
+3	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.114	114	114	114	CD	NUMBER	114.0	114.0				
+3	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.119_0	119.0	119.0	119.0	CD	NUMBER	119.0	119.0				
+3	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.99_0	99.0	99.0	99.0	CD	NUMBER	99.0	99.0				
+3	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.143_0	143.0	143.0	143.0	CD	NUMBER	143.0	143.0				
+3	16	fb:cell_penduduk_non_aborigin_ashr.75	75	75	75	CD	NUMBER	75.0	75.0				
+3	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.73	73	73	73	CD	NUMBER	73.0	73.0				
+3	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.77	77	77	77	CD	NUMBER	77.0	77.0				
+4	0	fb:cell_kharakteristik.cedera	cedera	cedera	cedera	NNP	O						
+4	1	fb:cell_total_kanada_ashr.105	105	105	105	CD	NUMBER	105.0	105.0				
+4	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.103	103	103	103	CD	NUMBER	103.0	103.0				
+4	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.107	107	107	107	CD	NUMBER	107.0	107.0				
+4	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.259	259	259	259	CD	NUMBER	259.0	259.0				
+4	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.248	248	248	248	CD	NUMBER	248.0	248.0				
+4	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.271	271	271	271	CD	NUMBER	271.0	271.0				
+4	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.174	174	174	174	CD	NUMBER	174.0	174.0				
+4	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.157	157	157	157	CD	NUMBER	157.0	157.0				
+4	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.191	191	191	191	CD	NUMBER	191.0	191.0				
+4	10	fb:cell_metis_ashr.151	151	151	151	CD	NUMBER	151.0	151.0				
+4	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.136	136	136	136	CD	NUMBER	136.0	136.0				
+4	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.169	169	169	169	CD	NUMBER	169.0	169.0				
+4	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.282_0	282.0	282.0	282.0	CD	NUMBER	282.0	282.0				
+4	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.250_0	250.0	250.0	250.0	CD	NUMBER	250.0	250.0				
+4	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.318_0	318.0	318.0	318.0	CD	NUMBER	318.0	318.0				
+4	16	fb:cell_penduduk_non_aborigin_ashr.85	85	85	85	CD	NUMBER	85.0	85.0				
+4	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.83	83	83	83	CD	NUMBER	83.0	83.0				
+4	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.87	87	87	87	CD	NUMBER	87.0	87.0				
+5	0	fb:cell_kharakteristik.cedera_cedera_yang_tidak_disengaja	cedera cedera yang tidak disengaja	cedera|cedera|yang|tidak|disengaja	cedera|cedera|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NN	MISC|MISC|O|O|O	||||					
+5	1	fb:cell_total_kanada_ashr.69	69	69	69	CD	NUMBER	69.0	69.0				
+5	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.67	67	67	67	CD	NUMBER	67.0	67.0				
+5	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.71	71	71	71	CD	NUMBER	71.0	71.0				
+5	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.141	141	141	141	CD	NUMBER	141.0	141.0				
+5	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.133	133	133	133	CD	NUMBER	133.0	133.0				
+5	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.150	150	150	150	CD	NUMBER	150.0	150.0				
+5	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.92	92	92	92	CD	NUMBER	92.0	92.0				
+5	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.81	81	81	81	CD	NUMBER	81.0	81.0				
+5	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.105	105	105	105	CD	NUMBER	105.0	105.0				
+5	10	fb:cell_metis_ashr.95	95	95	95	CD	NUMBER	95.0	95.0				
+5	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.83	83	83	83	CD	NUMBER	83.0	83.0				
+5	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.109	109	109	109	CD	NUMBER	109.0	109.0				
+5	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.138_0	138.0	138.0	138.0	CD	NUMBER	138.0	138.0				
+5	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.116_0	116.0	116.0	116.0	CD	NUMBER	116.0	116.0				
+5	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.164_0	164.0	164.0	164.0	CD	NUMBER	164.0	164.0				
+5	16	fb:cell_penduduk_non_aborigin_ashr.60	60	60	60	CD	NUMBER	60.0	60.0				
+5	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.58	58	58	58	CD	NUMBER	58.0	58.0				
+5	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.62	62	62	62	CD	NUMBER	62.0	62.0				
+6	0	fb:cell_kharakteristik.cedera_cedera_yang_disengaja	cedera cedera yang disengaja	cedera|cedera|yang|disengaja	cedera|cedera|yang|disengaja	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_total_kanada_ashr.22	22	22	22	CD	NUMBER	22.0	22.0				
+6	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.21	21	21	21	CD	NUMBER	21.0	21.0				
+6	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.23	23	23	23	CD	NUMBER	23.0	23.0				
+6	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.94	94	94	94	CD	NUMBER	94.0	94.0				
+6	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.88	88	88	88	CD	NUMBER	88.0	88.0				
+6	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.102	102	102	102	CD	NUMBER	102.0	102.0				
+6	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.62	62	62	62	CD	NUMBER	62.0	62.0				
+6	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.52	52	52	52	CD	NUMBER	52.0	52.0				
+6	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.73	73	73	73	CD	NUMBER	73.0	73.0				
+6	10	fb:cell_metis_ashr.44	44	44	44	CD	NUMBER	44.0	44.0				
+6	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.36	36	36	36	CD	NUMBER	36.0	36.0				
+6	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.54	54	54	54	CD	NUMBER	54.0	54.0				
+6	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.132_0	132.0	132.0	132.0	CD	NUMBER	132.0	132.0				
+6	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.111_0	111.0	111.0	111.0	CD	NUMBER	111.0	111.0				
+6	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.157_0	157.0	157.0	157.0	CD	NUMBER	157.0	157.0				
+6	16	fb:cell_penduduk_non_aborigin_ashr.12	12	12	12	CD	NUMBER	12.0	12.0				
+6	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.12	12	12	12	CD	NUMBER	12.0	12.0				
+6	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.13	13	13	13	CD	NUMBER	13.0	13.0				
+7	0	fb:cell_kharakteristik.cedera_cedera_yang_disengaja_penyerangan	cedera cedera yang disengaja penyerangan	cedera|cedera|yang|disengaja|penyerangan	cedera|cedera|yang|disengaja|penyerangan	NNP|NNP|NNP|NNP|NNP	MISC|MISC|O|O|O	||||					
+7	1	fb:cell_total_kanada_ashr.10	10	10	10	CD	NUMBER	10.0	10.0				
+7	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.10	10	10	10	CD	NUMBER	10.0	10.0				
+7	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.11	11	11	11	CD	NUMBER	11.0	11.0				
+7	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.52	52	52	52	CD	NUMBER	52.0	52.0				
+7	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.47	47	47	47	CD	NUMBER	47.0	47.0				
+7	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.57	57	57	57	CD	NUMBER	57.0	57.0				
+7	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.36	36	36	36	CD	NUMBER	36.0	36.0				
+7	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.29	29	29	29	CD	NUMBER	29.0	29.0				
+7	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.45	45	45	45	CD	NUMBER	45.0	45.0				
+7	10	fb:cell_metis_ashr.25	25	25	25	CD	NUMBER	25.0	25.0				
+7	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.19	19	19	19	CD	NUMBER	19.0	19.0				
+7	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.33	33	33	33	CD	NUMBER	33.0	33.0				
+7	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+7	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+7	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+7	16	fb:cell_penduduk_non_aborigin_ashr.5	5	5	5	CD	NUMBER	5.0	5.0				
+7	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.5	5	5	5	CD	NUMBER	5.0	5.0				
+7	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.6	6	6	6	CD	NUMBER	6.0	6.0				
+8	0	fb:cell_kharakteristik.cedera_cedera_yang_disengaja_melukai_diri_sendiri_dengan_sengaja	cedera cedera yang disengaja melukai diri sendiri dengan sengaja	cedera|cedera|yang|disengaja|melukai|diri|sendiri|dengan|sengaja	cedera|cedera|yang|disengaja|melukai|diri|sendiri|dengan|sengaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|MISC|O|O|O	||||||||					
+8	1	fb:cell_total_kanada_ashr.12	12	12	12	CD	NUMBER	12.0	12.0				
+8	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.11	11	11	11	CD	NUMBER	11.0	11.0				
+8	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.12	12	12	12	CD	NUMBER	12.0	12.0				
+8	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.42	42	42	42	CD	NUMBER	42.0	42.0				
+8	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.38	38	38	38	CD	NUMBER	38.0	38.0				
+8	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.47	47	47	47	CD	NUMBER	47.0	47.0				
+8	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.26	26	26	26	CD	NUMBER	26.0	26.0				
+8	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.20	20	20	20	CD	NUMBER	20.0	20.0				
+8	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.33	33	33	33	CD	NUMBER	33.0	33.0				
+8	10	fb:cell_metis_ashr.20	20	20	20	CD	NUMBER	20.0	20.0				
+8	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.14	14	14	14	CD	NUMBER	14.0	14.0				
+8	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.27	27	27	27	CD	NUMBER	27.0	27.0				
+8	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.101_0	101.0	101.0	101.0	CD	NUMBER	101.0	101.0				
+8	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+8	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.124_0	124.0	124.0	124.0	CD	NUMBER	124.0	124.0				
+8	16	fb:cell_penduduk_non_aborigin_ashr.7	7	7	7	CD	NUMBER	7.0	7.0				
+8	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.7	7	7	7	CD	NUMBER	7.0	7.0				
+8	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.8	8	8	8	CD	NUMBER	8.0	8.0				
+9	0	fb:cell_kharakteristik.penyakit_pada_sistem_pernafasan	penyakit pada sistem pernafasan	penyakit|pada|sistem|pernafasan	penyakit|pada|sistem|pernafasan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_total_kanada_ashr.42	42	42	42	CD	NUMBER	42.0	42.0				
+9	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.41	41	41	41	CD	NUMBER	41.0	41.0				
+9	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.44	44	44	44	CD	NUMBER	44.0	44.0				
+9	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.99	99	99	99	CD	NUMBER	99.0	99.0				
+9	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.92	92	92	92	CD	NUMBER	92.0	92.0				
+9	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.107	107	107	107	CD	NUMBER	107.0	107.0				
+9	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.74	74	74	74	CD	NUMBER	74.0	74.0				
+9	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.64	64	64	64	CD	NUMBER	64.0	64.0				
+9	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.86	86	86	86	CD	NUMBER	86.0	86.0				
+9	10	fb:cell_metis_ashr.61	61	61	61	CD	NUMBER	61.0	61.0				
+9	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.52	52	52	52	CD	NUMBER	52.0	52.0				
+9	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.73	73	73	73	CD	NUMBER	73.0	73.0				
+9	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+9	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+9	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.102_0	102.0	102.0	102.0	CD	NUMBER	102.0	102.0				
+9	16	fb:cell_penduduk_non_aborigin_ashr.35	35	35	35	CD	NUMBER	35.0	35.0				
+9	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.34	34	34	34	CD	NUMBER	34.0	34.0				
+9	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.36	36	36	36	CD	NUMBER	36.0	36.0				
+10	0	fb:cell_kharakteristik.penyakit_pada_sistem_peredaran_darah	penyakit pada sistem peredaran darah	penyakit|pada|sistem|peredaran|darah	penyakit|pada|sistem|peredaran|darah	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+10	1	fb:cell_total_kanada_ashr.8	8	8	8	CD	NUMBER	8.0	8.0				
+10	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.8	8	8	8	CD	NUMBER	8.0	8.0				
+10	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.9	9	9	9	CD	NUMBER	9.0	9.0				
+10	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.13	13	13	13	CD	NUMBER	13.0	13.0				
+10	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.11	11	11	11	CD	NUMBER	11.0	11.0				
+10	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.16	16	16	16	CD	NUMBER	16.0	16.0				
+10	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.9	9	9	9	CD	NUMBER	9.0	9.0				
+10	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.6	6	6	6	CD	NUMBER	6.0	6.0				
+10	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.14	14	14	14	CD	NUMBER	14.0	14.0				
+10	10	fb:cell_metis_ashr.5	5	5	5	CD	NUMBER	5.0	5.0				
+10	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.3	3	3	3	CD	NUMBER	3.0	3.0				
+10	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.9	9	9	9	CD	NUMBER	9.0	9.0				
+10	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.null											
+10	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.null											
+10	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.null											
+10	16	fb:cell_penduduk_non_aborigin_ashr.8	8	8	8	CD	NUMBER	8.0	8.0				
+10	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.7	7	7	7	CD	NUMBER	7.0	7.0				
+10	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.9	9	9	9	CD	NUMBER	9.0	9.0				
+11	0	fb:cell_kharakteristik.gangguan_mental_dan_perilaku	gangguan mental dan perilaku	gangguan|mental|dan|perilaku	gangguan|mental|dan|perilaku	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+11	1	fb:cell_total_kanada_ashr.61	61	61	61	CD	NUMBER	61.0	61.0				
+11	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.60	60	60	60	CD	NUMBER	60.0	60.0				
+11	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.63	63	63	63	CD	NUMBER	63.0	63.0				
+11	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.147	147	147	147	CD	NUMBER	147.0	147.0				
+11	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.139	139	139	139	CD	NUMBER	139.0	139.0				
+11	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.156	156	156	156	CD	NUMBER	156.0	156.0				
+11	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.120	120	120	120	CD	NUMBER	120.0	120.0				
+11	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.107	107	107	107	CD	NUMBER	107.0	107.0				
+11	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.135	135	135	135	CD	NUMBER	135.0	135.0				
+11	10	fb:cell_metis_ashr.91	91	91	91	CD	NUMBER	91.0	91.0				
+11	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.79	79	79	79	CD	NUMBER	79.0	79.0				
+11	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.105	105	105	105	CD	NUMBER	105.0	105.0				
+11	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.214_0	214.0	214.0	214.0	CD	NUMBER	214.0	214.0				
+11	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+11	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.246_0	246.0	246.0	246.0	CD	NUMBER	246.0	246.0				
+11	16	fb:cell_penduduk_non_aborigin_ashr.49	49	49	49	CD	NUMBER	49.0	49.0				
+11	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.47	47	47	47	CD	NUMBER	47.0	47.0				
+11	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.50	50	50	50	CD	NUMBER	50.0	50.0				
+12	0	fb:cell_kharakteristik.penyakit_endokrin_nutrisi_dan_metabolik	penyakit endokrin, nutrisi dan metabolik	penyakit|endokrin|,|nutrisi|dan|metabolik	penyakit|endokrin|,|nutrisi|dan|metabolik	NN|NN|,|NNP|NNP|NNP	O|O|O|O|O|O	|||||				penyakit endokrin|nutrisi dan metabolik	fb:part_kharakteristik.penyakit_endokrin|fb:part_kharakteristik.nutrisi_dan_metabolik
+12	1	fb:cell_total_kanada_ashr.16	16	16	16	CD	NUMBER	16.0	16.0				
+12	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.15	15	15	15	CD	NUMBER	15.0	15.0				
+12	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.17	17	17	17	CD	NUMBER	17.0	17.0				
+12	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.28	28	28	28	CD	NUMBER	28.0	28.0				
+12	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.25	25	25	25	CD	NUMBER	25.0	25.0				
+12	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.32	32	32	32	CD	NUMBER	32.0	32.0				
+12	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.23	23	23	23	CD	NUMBER	23.0	23.0				
+12	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.18	18	18	18	CD	NUMBER	18.0	18.0				
+12	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.30	30	30	30	CD	NUMBER	30.0	30.0				
+12	10	fb:cell_metis_ashr.14	14	14	14	CD	NUMBER	14.0	14.0				
+12	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.10	10	10	10	CD	NUMBER	10.0	10.0				
+12	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.20	20	20	20	CD	NUMBER	20.0	20.0				
+12	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.null											
+12	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.null											
+12	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.null											
+12	16	fb:cell_penduduk_non_aborigin_ashr.15	15	15	15	CD	NUMBER	15.0	15.0				
+12	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.14	14	14	14	CD	NUMBER	14.0	14.0				
+12	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.16	16	16	16	CD	NUMBER	16.0	16.0				
+13	0	fb:cell_kharakteristik.penyakit_pada_sistem_genitourinari	penyakit pada sistem genitourinari	penyakit|pada|sistem|genitourinari	penyakit|pada|sistem|genitourinari	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+13	1	fb:cell_total_kanada_ashr.21	21	21	21	CD	NUMBER	21.0	21.0				
+13	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.20	20	20	20	CD	NUMBER	20.0	20.0				
+13	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.22	22	22	22	CD	NUMBER	22.0	22.0				
+13	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.42	42	42	42	CD	NUMBER	42.0	42.0				
+13	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.38	38	38	38	CD	NUMBER	38.0	38.0				
+13	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.47	47	47	47	CD	NUMBER	47.0	47.0				
+13	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.36	36	36	36	CD	NUMBER	36.0	36.0				
+13	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.29	29	29	29	CD	NUMBER	29.0	29.0				
+13	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.45	45	45	45	CD	NUMBER	45.0	45.0				
+13	10	fb:cell_metis_ashr.36	36	36	36	CD	NUMBER	36.0	36.0				
+13	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.28	28	28	28	CD	NUMBER	28.0	28.0				
+13	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.45	45	45	45	CD	NUMBER	45.0	45.0				
+13	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+13	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+13	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+13	16	fb:cell_penduduk_non_aborigin_ashr.18	18	18	18	CD	NUMBER	18.0	18.0				
+13	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.18	18	18	18	CD	NUMBER	18.0	18.0				
+13	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.19	19	19	19	CD	NUMBER	19.0	19.0				
+14	0	fb:cell_kharakteristik.penyakit_pada_sistem_muskuloskeletal_dan_jaringan_ikat	penyakit pada sistem muskuloskeletal dan jaringan ikat	penyakit|pada|sistem|muskuloskeletal|dan|jaringan|ikat	penyakit|pada|sistem|muskuloskeletal|dan|jaringan|ikat	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+14	1	fb:cell_total_kanada_ashr.20	20	20	20	CD	NUMBER	20.0	20.0				
+14	2	fb:cell_total_kanada_interval_kepercayaan_95_dari.19	19	19	19	CD	NUMBER	19.0	19.0				
+14	3	fb:cell_total_kanada_interval_kepercayaan_95_hingga.21	21	21	21	CD	NUMBER	21.0	21.0				
+14	4	fb:cell_negara_pertama_yang_hidup_dari_cadangan_ashr.22	22	22	22	CD	NUMBER	22.0	22.0				
+14	5	fb:cell_negara_negara_pertama_yang_hidup_pada_interval_kepercayaan_cadangan_95_dari.19	19	19	19	CD	NUMBER	19.0	19.0				
+14	6	fb:cell_negara_negara_pertama_yang_hidup_dengan_interval_kepercayaan_95_cadangan.26	26	26	26	CD	NUMBER	26.0	26.0				
+14	7	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_ashr.25	25	25	25	CD	NUMBER	25.0	25.0				
+14	8	fb:cell_negara_negara_pertama_yang_hidup_dari_cadangan_interval_kepercayaan_95_dari.19	19	19	19	CD	NUMBER	19.0	19.0				
+14	9	fb:cell_negara_negara_pertama_yang_hidup_dari_interval_kepercayaan_95_cadangan.32	32	32	32	CD	NUMBER	32.0	32.0				
+14	10	fb:cell_metis_ashr.21	21	21	21	CD	NUMBER	21.0	21.0				
+14	11	fb:cell_memenuhi_interval_kepercayaan_95_dari.16	16	16	16	CD	NUMBER	16.0	16.0				
+14	12	fb:cell_memenuhi_interval_kepercayaan_95_untuk.29	29	29	29	CD	NUMBER	29.0	29.0				
+14	13	fb:cell_inuit_tinggal_di_inuit_nunangat_ashr.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+14	14	fb:cell_inuit_tinggal_di_inuit_nunangat_selang_kepercayaan_95_dari.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+14	15	fb:cell_inuit_tinggal_di_inuit_nunangat_interval_kepercayaan_95_hingga.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+14	16	fb:cell_penduduk_non_aborigin_ashr.20	20	20	20	CD	NUMBER	20.0	20.0				
+14	17	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_dari.19	19	19	19	CD	NUMBER	19.0	19.0				
+14	18	fb:cell_populasi_non_aborigin_interval_kepercayaan_95_hingga.21	21	21	21	CD	NUMBER	21.0	21.0				

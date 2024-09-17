@@ -1,0 +1,391 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.rasio_bahaya_kepala_atau_leher	rasio bahaya kepala atau leher	rasio|bahaya|kepala|atau|leher	rasio|bahaya|kepala|atau|leher	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	2	fb:row.row.interval_kepercayaan_kepala_atau_leher_95_dari	interval kepercayaan kepala atau leher 95% dari	interval|kepercayaan|kepala|atau|leher|95|%|dari	interval|kepercayaan|kepala|atau|leher|95|%|dari	NN|NNP|NNP|NNP|NNP|CD|NN|NNP	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	3	fb:row.row.interval_kepercayaan_kepala_atau_leher_95_hingga	interval kepercayaan kepala atau leher 95% hingga	interval|kepercayaan|kepala|atau|leher|95|%|hingga	interval|kepercayaan|kepala|atau|leher|95|%|hingga	NN|NNP|NNP|NNP|NNP|CD|NN|NN	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	4	fb:row.row.rasio_bahaya_bagasi	rasio bahaya bagasi	rasio|bahaya|bagasi	rasio|bahaya|bagasi	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.trunk_interval_kepercayaan_95_dari	trunk interval kepercayaan 95% dari	trunk|interval|kepercayaan|95|%|dari	trunk|interval|kepercayaan|95|%|dari	NN|NN|NN|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	6	fb:row.row.trunk_interval_kepercayaan_95_ke	trunk interval kepercayaan 95% ke	trunk|interval|kepercayaan|95|%|ke	trunk|interval|kepercayaan|95|%|ke	NN|NN|NN|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	7	fb:row.row.rasio_bahaya_ekstremitas_atas_atau_bahu	rasio bahaya ekstremitas atas atau bahu	rasio|bahaya|ekstremitas|atas|atau|bahu	rasio|bahaya|ekstremitas|atas|atau|bahu	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	8	fb:row.row.ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari	ekstremitas atas atau bahu interval kepercayaan 95% dari	ekstremitas|atas|atau|bahu|interval|kepercayaan|95|%|dari	ekstremitas|atas|atau|bahu|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|PERCENT|PERCENT|O	||||||%95.0|%95.0|					
+-1	9	fb:row.row.ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95	ekstremitas atas atau bahu dengan interval kepercayaan 95%.	ekstremitas|atas|atau|bahu|dengan|interval|kepercayaan|95|%|.	ekstremitas|atas|atau|bahu|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	10	fb:row.row.rasio_bahaya_ekstremitas_bawah_atau_pinggul	rasio bahaya ekstremitas bawah atau pinggul	rasio|bahaya|ekstremitas|bawah|atau|pinggul	rasio|bahaya|ekstremitas|bawah|atau|pinggul	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	11	fb:row.row.ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari	ekstremitas bawah atau pinggul interval kepercayaan 95% dari	ekstremitas|bawah|atau|pinggul|interval|kepercayaan|95|%|dari	ekstremitas|bawah|atau|pinggul|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|PERCENT|PERCENT|O	||||||%95.0|%95.0|					
+-1	12	fb:row.row.ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke	ekstremitas bawah atau pinggul interval kepercayaan 95% ke	ekstremitas|bawah|atau|pinggul|interval|kepercayaan|95|%|ke	ekstremitas|bawah|atau|pinggul|interval|kepercayaan|95|%|ke	NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|PERCENT|PERCENT|O	||||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.skor_z_radiasi_uv	skor-z radiasi uv	skor|z|radiasi|uv	skor|z|radiasi|uv	NNP|NNP|NNP|NN	O|O|O|O	|||					
+0	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_11	1.11	1.11	1.11	CD	NUMBER	1.11	1.11				
+0	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_05	1.05	1.05	1.05	CD	NUMBER	1.05	1.05				
+0	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_17	1.17	1.17	1.17	CD	NUMBER	1.17	1.17				
+0	4	fb:cell_rasio_bahaya_bagasi.1_31	1.31	1.31	1.31	CD	NUMBER	1.31	1.31				
+0	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+0	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+0	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_29	1.29	1.29	1.29	CD	NUMBER	1.29	1.29				
+0	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.1_22	1.22	1.22	1.22	CD	NUMBER	1.22	1.22				
+0	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36				
+0	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+0	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_15	1.15	1.15	1.15	CD	NUMBER	1.15	1.15				
+0	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+1	0	fb:cell_kharakteristik.status_imigran	status imigran	status|imigran	status|imigran	NN|NN	O|O	|					
+1	1	fb:cell_rasio_bahaya_kepala_atau_leher.null											
+1	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+1	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+1	4	fb:cell_rasio_bahaya_bagasi.null											
+1	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+1	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+1	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.null											
+1	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+1	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+1	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.null											
+1	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+1	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+2	0	fb:cell_kharakteristik.status_imigran_bukan_imigran	status imigran bukan imigran	status|imigran|bukan|imigran	status|imigran|bukan|imigran	NN|NN|NN|NN	O|O|O|O	|||					
+2	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+2	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+2	4	fb:cell_rasio_bahaya_bagasi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+2	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+2	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+2	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+2	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+2	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+3	0	fb:cell_kharakteristik.status_imigran_imigran	status imigran imigran	status|imigran|imigran	status|imigran|imigran	NN|NN|NN	O|O|O	||					
+3	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_92	0.92	0.92	0.92	CD	NUMBER	0.92	0.92				
+3	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_81	0.81	0.81	0.81	CD	NUMBER	0.81	0.81				
+3	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_05	1.05	1.05	1.05	CD	NUMBER	1.05	1.05				
+3	4	fb:cell_rasio_bahaya_bagasi.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+3	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+3	6	fb:cell_trunk_interval_kepercayaan_95_ke.0_98	0.98	0.98	0.98	CD	NUMBER	0.98	0.98				
+3	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+3	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+3	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.0_98	0.98	0.98	0.98	CD	NUMBER	0.98	0.98				
+3	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+3	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_29	1.29	1.29	1.29	CD	NUMBER	1.29	1.29				
+4	0	fb:cell_kharakteristik.status_perkawinan	status perkawinan	status|perkawinan	status|perkawinan	NN|NN	O|O	|					
+4	1	fb:cell_rasio_bahaya_kepala_atau_leher.null											
+4	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+4	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+4	4	fb:cell_rasio_bahaya_bagasi.null											
+4	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+4	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+4	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.null											
+4	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+4	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+4	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.null											
+4	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+4	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+5	0	fb:cell_kharakteristik.status_perkawinan_menikah_atau_sipil	status perkawinan menikah atau sipil	status|perkawinan|menikah|atau|sipil	status|perkawinan|menikah|atau|sipil	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+5	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+5	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+5	4	fb:cell_rasio_bahaya_bagasi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+5	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+5	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+5	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+5	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+5	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+6	0	fb:cell_kharakteristik.status_perkawinan_berpisah_janda_cerai	status perkawinan berpisah, janda, cerai	status|perkawinan|berpisah|,|janda|,|cerai	status|perkawinan|berpisah|,|janda|,|cerai	NN|NN|NN|,|NNP|,|NNP	O|O|O|O|PERSON|O|O	||||||				status perkawinan berpisah|janda|cerai	fb:part_kharakteristik.status_perkawinan_berpisah|fb:part_kharakteristik.janda|fb:part_kharakteristik.cerai
+6	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+6	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_74	0.74	0.74	0.74	CD	NUMBER	0.74	0.74				
+6	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_02	1.02	1.02	1.02	CD	NUMBER	1.02	1.02				
+6	4	fb:cell_rasio_bahaya_bagasi.0_97	0.97	0.97	0.97	CD	NUMBER	0.97	0.97				
+6	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+6	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_11	1.11	1.11	1.11	CD	NUMBER	1.11	1.11				
+6	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_97	0.97	0.97	0.97	CD	NUMBER	0.97	0.97				
+6	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+6	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_12	1.12	1.12	1.12	CD	NUMBER	1.12	1.12				
+6	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+6	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_67	0.67	0.67	0.67	CD	NUMBER	0.67	0.67				
+6	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.0_91	0.91	0.91	0.91	CD	NUMBER	0.91	0.91				
+7	0	fb:cell_kharakteristik.status_perkawinan_lajang	status perkawinan lajang	status|perkawinan|lajang	status|perkawinan|lajang	NN|NN|NN	O|O|O	||					
+7	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+7	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_69	0.69	0.69	0.69	CD	NUMBER	0.69	0.69				
+7	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_02	1.02	1.02	1.02	CD	NUMBER	1.02	1.02				
+7	4	fb:cell_rasio_bahaya_bagasi.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+7	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+7	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+7	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_74	0.74	0.74	0.74	CD	NUMBER	0.74	0.74				
+7	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+7	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+7	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+7	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.0_98	0.98	0.98	0.98	CD	NUMBER	0.98	0.98				
+8	0	fb:cell_kharakteristik.kuintil_kecukupan_pendapatan_rumah_tangga	kuintil kecukupan pendapatan rumah tangga	kuintil|kecukupan|pendapatan|rumah|tangga	kuintil|kecukupan|pendapatan|rumah|tangga	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+8	1	fb:cell_rasio_bahaya_kepala_atau_leher.null											
+8	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+8	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+8	4	fb:cell_rasio_bahaya_bagasi.null											
+8	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+8	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+8	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.null											
+8	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+8	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+8	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.null											
+8	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+8	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+9	0	fb:cell_kharakteristik.kuintil_kecukupan_pendapatan_rumah_tangga_pertama	kuintil kecukupan pendapatan rumah tangga pertama	kuintil|kecukupan|pendapatan|rumah|tangga|pertama	kuintil|kecukupan|pendapatan|rumah|tangga|pertama	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+9	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+9	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+9	4	fb:cell_rasio_bahaya_bagasi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+9	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+9	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+9	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+9	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+9	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+10	0	fb:cell_kharakteristik.kuintil_kecukupan_pendapatan_rumah_tangga_ke_2	kuintil kecukupan pendapatan rumah tangga ke-2	kuintil|kecukupan|pendapatan|rumah|tangga|ke-2	kuintil|kecukupan|pendapatan|rumah|tangga|ke-2	NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O	|||||	2.0				
+10	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_19	1.19	1.19	1.19	CD	NUMBER	1.19	1.19				
+10	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_99	0.99	0.99	0.99	CD	NUMBER	0.99	0.99				
+10	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_43	1.43	1.43	1.43	CD	NUMBER	1.43	1.43				
+10	4	fb:cell_rasio_bahaya_bagasi.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34				
+10	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+10	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_58	1.58	1.58	1.58	CD	NUMBER	1.58	1.58				
+10	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_02	1.02	1.02	1.02	CD	NUMBER	1.02	1.02				
+10	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+10	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_23	1.23	1.23	1.23	CD	NUMBER	1.23	1.23				
+10	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+10	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+10	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_26	1.26	1.26	1.26	CD	NUMBER	1.26	1.26				
+11	0	fb:cell_kharakteristik.kuintil_kecukupan_pendapatan_rumah_tangga_ke_3	kuintil kecukupan pendapatan rumah tangga ke-3	kuintil|kecukupan|pendapatan|rumah|tangga|ke-3	kuintil|kecukupan|pendapatan|rumah|tangga|ke-3	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||	3.0				
+11	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+11	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+11	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+11	4	fb:cell_rasio_bahaya_bagasi.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+11	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_26	1.26	1.26	1.26	CD	NUMBER	1.26	1.26				
+11	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_74	1.74	1.74	1.74	CD	NUMBER	1.74	1.74				
+11	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_08	1.08	1.08	1.08	CD	NUMBER	1.08	1.08				
+11	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_91	0.91	0.91	0.91	CD	NUMBER	0.91	0.91				
+11	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_29	1.29	1.29	1.29	CD	NUMBER	1.29	1.29				
+11	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+11	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+11	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+12	0	fb:cell_kharakteristik.kuintil_kecukupan_pendapatan_rumah_tangga_ke_4	kuintil kecukupan pendapatan rumah tangga ke-4	kuintil|kecukupan|pendapatan|rumah|tangga|ke-4	kuintil|kecukupan|pendapatan|rumah|tangga|ke-4	NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O	|||||	4.0				
+12	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				
+12	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+12	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+12	4	fb:cell_rasio_bahaya_bagasi.1_62	1.62	1.62	1.62	CD	NUMBER	1.62	1.62				
+12	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_38	1.38	1.38	1.38	CD	NUMBER	1.38	1.38				
+12	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+12	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_38	1.38	1.38	1.38	CD	NUMBER	1.38	1.38				
+12	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.1_16	1.16	1.16	1.16	CD	NUMBER	1.16	1.16				
+12	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_63	1.63	1.63	1.63	CD	NUMBER	1.63	1.63				
+12	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_22	1.22	1.22	1.22	CD	NUMBER	1.22	1.22				
+12	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_01	1.01	1.01	1.01	CD	NUMBER	1.01	1.01				
+12	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_46	1.46	1.46	1.46	CD	NUMBER	1.46	1.46				
+13	0	fb:cell_kharakteristik.kuintil_kecukupan_pendapatan_rumah_tangga_ke_5	kuintil kecukupan pendapatan rumah tangga ke-5	kuintil|kecukupan|pendapatan|rumah|tangga|ke-5	kuintil|kecukupan|pendapatan|rumah|tangga|ke-5	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||	5.0				
+13	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_38	1.38	1.38	1.38	CD	NUMBER	1.38	1.38				
+13	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+13	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_66	1.66	1.66	1.66	CD	NUMBER	1.66	1.66				
+13	4	fb:cell_rasio_bahaya_bagasi.1_85	1.85	1.85	1.85	CD	NUMBER	1.85	1.85				
+13	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_58	1.58	1.58	1.58	CD	NUMBER	1.58	1.58				
+13	6	fb:cell_trunk_interval_kepercayaan_95_ke.2_17	2.17	2.17	2.17	CD	NUMBER	2.17	2.17				
+13	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_53	1.53	1.53	1.53	CD	NUMBER	1.53	1.53				
+13	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.1_29	1.29	1.29	1.29	CD	NUMBER	1.29	1.29				
+13	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_82	1.82	1.82	1.82	CD	NUMBER	1.82	1.82				
+13	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36				
+13	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+13	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_64	1.64	1.64	1.64	CD	NUMBER	1.64	1.64				
+14	0	fb:cell_kharakteristik.pencapaian_pendidikan	pencapaian pendidikan	pencapaian|pendidikan	pencapaian|pendidikan	NNP|NNP	O|O	|					
+14	1	fb:cell_rasio_bahaya_kepala_atau_leher.null											
+14	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+14	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+14	4	fb:cell_rasio_bahaya_bagasi.null											
+14	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+14	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+14	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.null											
+14	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+14	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+14	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.null											
+14	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+14	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+15	0	fb:cell_kharakteristik.pencapaian_pendidikan_kurang_dari_penyelesaian_menengah	pencapaian pendidikan kurang dari penyelesaian menengah	pencapaian|pendidikan|kurang|dari|penyelesaian|menengah	pencapaian|pendidikan|kurang|dari|penyelesaian|menengah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+15	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+15	4	fb:cell_rasio_bahaya_bagasi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+15	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+15	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+15	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+15	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+15	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+16	0	fb:cell_kharakteristik.pencapaian_pendidikan_penyelesaian_sekunder	pencapaian pendidikan penyelesaian sekunder	pencapaian|pendidikan|penyelesaian|sekunder	pencapaian|pendidikan|penyelesaian|sekunder	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_18	1.18	1.18	1.18	CD	NUMBER	1.18	1.18				
+16	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+16	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				
+16	4	fb:cell_rasio_bahaya_bagasi.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34				
+16	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+16	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_47	1.47	1.47	1.47	CD	NUMBER	1.47	1.47				
+16	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+16	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+16	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_43	1.43	1.43	1.43	CD	NUMBER	1.43	1.43				
+16	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_53	1.53	1.53	1.53	CD	NUMBER	1.53	1.53				
+16	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34				
+16	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_74	1.74	1.74	1.74	CD	NUMBER	1.74	1.74				
+17	0	fb:cell_kharakteristik.pencapaian_pendidikan_pasca_sekolah_menengah_non_universitas	pencapaian pendidikan pasca sekolah menengah non-universitas	pencapaian|pendidikan|pasca|sekolah|menengah|non|universitas	pencapaian|pendidikan|pasca|sekolah|menengah|non|universita	NNP|NNP|NNP|NNP|NNP|JJ|NNS	O|O|O|O|O|O|O	||||||					
+17	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_49	1.49	1.49	1.49	CD	NUMBER	1.49	1.49				
+17	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+17	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_75	1.75	1.75	1.75	CD	NUMBER	1.75	1.75				
+17	4	fb:cell_rasio_bahaya_bagasi.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34				
+17	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_18	1.18	1.18	1.18	CD	NUMBER	1.18	1.18				
+17	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_52	1.52	1.52	1.52	CD	NUMBER	1.52	1.52				
+17	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_39	1.39	1.39	1.39	CD	NUMBER	1.39	1.39				
+17	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+17	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+17	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_88	1.88	1.88	1.88	CD	NUMBER	1.88	1.88				
+17	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_61	1.61	1.61	1.61	CD	NUMBER	1.61	1.61				
+17	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.2_19	2.19	2.19	2.19	CD	NUMBER	2.19	2.19				
+18	0	fb:cell_kharakteristik.kelulusan_universitas_pencapaian_pendidikan	kelulusan universitas pencapaian pendidikan	kelulusan|universitas|pencapaian|pendidikan	kelulusan|universitas|pencapaian|pendidikan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+18	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_68	1.68	1.68	1.68	CD	NUMBER	1.68	1.68				
+18	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+18	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+18	4	fb:cell_rasio_bahaya_bagasi.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+18	5	fb:cell_trunk_interval_kepercayaan_95_dari.1_29	1.29	1.29	1.29	CD	NUMBER	1.29	1.29				
+18	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+18	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_71	1.71	1.71	1.71	CD	NUMBER	1.71	1.71				
+18	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.1_46	1.46	1.46	1.46	CD	NUMBER	1.46	1.46				
+18	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.2_01	2.01	2.01	2.01	CD	NUMBER	2.01	2.01				
+18	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.2_12	2.12	2.12	2.12	CD	NUMBER	2.12	2.12				
+18	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.1_77	1.77	1.77	1.77	CD	NUMBER	1.77	1.77				
+18	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.2_52	2.52	2.52	2.52	CD	NUMBER	2.52	2.52				
+19	0	fb:cell_kharakteristik.kelompok_pekerjaan	kelompok pekerjaan	kelompok|pekerjaan	kelompok|pekerjaan	NNP|NNP	O|O	|					
+19	1	fb:cell_rasio_bahaya_kepala_atau_leher.null											
+19	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+19	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+19	4	fb:cell_rasio_bahaya_bagasi.null											
+19	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+19	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+19	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.null											
+19	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+19	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+19	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.null											
+19	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+19	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+20	0	fb:cell_kharakteristik.manajemen_kelompok_kerja	manajemen kelompok kerja	manajemen|kelompok|kerja	manajemen|kelompok|kerja	NNP|NNP|NNP	O|O|O	||					
+20	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+20	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+20	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+20	4	fb:cell_rasio_bahaya_bagasi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+20	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+20	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+20	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+20	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+20	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+20	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+20	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+20	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+21	0	fb:cell_kharakteristik.profesional_kelompok_kerja	profesional kelompok kerja	profesional|kelompok|kerja	profesional|kelompok|kerja	JJ|NN|NN	O|O|O	||					
+21	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+21	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+21	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+21	4	fb:cell_rasio_bahaya_bagasi.0_96	0.96	0.96	0.96	CD	NUMBER	0.96	0.96				
+21	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+21	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_11	1.11	1.11	1.11	CD	NUMBER	1.11	1.11				
+21	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+21	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_71	0.71	0.71	0.71	CD	NUMBER	0.71	0.71				
+21	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_01	1.01	1.01	1.01	CD	NUMBER	1.01	1.01				
+21	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_94	0.94	0.94	0.94	CD	NUMBER	0.94	0.94				
+21	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+21	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+22	0	fb:cell_kharakteristik.kelompok_pekerjaan_terampil_teknis_pengawasan	kelompok pekerjaan terampil, teknis, pengawasan	kelompok|pekerjaan|terampil|,|teknis|,|pengawasan	kelompok|pekerjaan|terampil|,|teknis|,|pengawasan	NNP|NNP|NNP|,|NNP|,|NNP	O|O|O|O|O|O|O	||||||				kelompok pekerjaan terampil|teknis|pengawasan	fb:part_kharakteristik.kelompok_pekerjaan_terampil|fb:part_kharakteristik.teknis|fb:part_kharakteristik.pengawasan
+22	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_07	1.07	1.07	1.07	CD	NUMBER	1.07	1.07				
+22	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+22	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+22	4	fb:cell_rasio_bahaya_bagasi.0_82	0.82	0.82	0.82	CD	NUMBER	0.82	0.82				
+22	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_72	0.72	0.72	0.72	CD	NUMBER	0.72	0.72				
+22	6	fb:cell_trunk_interval_kepercayaan_95_ke.0_93	0.93	0.93	0.93	CD	NUMBER	0.93	0.93				
+22	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_82	0.82	0.82	0.82	CD	NUMBER	0.82	0.82				
+22	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+22	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.0_96	0.96	0.96	0.96	CD	NUMBER	0.96	0.96				
+22	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+22	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_72	0.72	0.72	0.72	CD	NUMBER	0.72	0.72				
+22	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+23	0	fb:cell_kharakteristik.kelompok_pekerjaan_semi_terampil	kelompok pekerjaan semi terampil	kelompok|pekerjaan|semi|terampil	kelompok|pekerjaan|semi|terampil	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+23	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_94	0.94	0.94	0.94	CD	NUMBER	0.94	0.94				
+23	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_76	0.76	0.76	0.76	CD	NUMBER	0.76	0.76				
+23	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_16	1.16	1.16	1.16	CD	NUMBER	1.16	1.16				
+23	4	fb:cell_rasio_bahaya_bagasi.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+23	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+23	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_01	1.01	1.01	1.01	CD	NUMBER	1.01	1.01				
+23	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_82	0.82	0.82	0.82	CD	NUMBER	0.82	0.82				
+23	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_69	0.69	0.69	0.69	CD	NUMBER	0.69	0.69				
+23	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.0_97	0.97	0.97	0.97	CD	NUMBER	0.97	0.97				
+23	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+23	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+23	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_02	1.02	1.02	1.02	CD	NUMBER	1.02	1.02				
+24	0	fb:cell_kharakteristik.kelompok_pekerjaan_tidak_terampil	kelompok pekerjaan tidak terampil	kelompok|pekerjaan|tidak|terampil	kelompok|pekerjaan|tidak|terampil	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+24	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_92	0.92	0.92	0.92	CD	NUMBER	0.92	0.92				
+24	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+24	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+24	4	fb:cell_rasio_bahaya_bagasi.0_69	0.69	0.69	0.69	CD	NUMBER	0.69	0.69				
+24	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+24	6	fb:cell_trunk_interval_kepercayaan_95_ke.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+24	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_82	0.82	0.82	0.82	CD	NUMBER	0.82	0.82				
+24	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+24	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+24	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_53	0.53	0.53	0.53	CD	NUMBER	0.53	0.53				
+24	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_39	0.39	0.39	0.39	CD	NUMBER	0.39	0.39				
+24	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.0_71	0.71	0.71	0.71	CD	NUMBER	0.71	0.71				
+25	0	fb:cell_kharakteristik.kelompok_pekerjaan_tidak_bekerja	kelompok pekerjaan tidak bekerja	kelompok|pekerjaan|tidak|bekerja	kelompok|pekerjaan|tidak|bekerja	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+25	1	fb:cell_rasio_bahaya_kepala_atau_leher.0_97	0.97	0.97	0.97	CD	NUMBER	0.97	0.97				
+25	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+25	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+25	4	fb:cell_rasio_bahaya_bagasi.0_91	0.91	0.91	0.91	CD	NUMBER	0.91	0.91				
+25	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+25	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_07	1.07	1.07	1.07	CD	NUMBER	1.07	1.07				
+25	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.0_73	0.73	0.73	0.73	CD	NUMBER	0.73	0.73				
+25	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+25	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+25	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+25	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_63	0.63	0.63	0.63	CD	NUMBER	0.63	0.63				
+25	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.0_96	0.96	0.96	0.96	CD	NUMBER	0.96	0.96				
+26	0	fb:cell_kharakteristik.pekerjaan_di_luar_ruangan	pekerjaan di luar ruangan	pekerjaan|di|luar|ruangan	pekerjaan|di|luar|ruangan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+26	1	fb:cell_rasio_bahaya_kepala_atau_leher.null											
+26	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+26	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+26	4	fb:cell_rasio_bahaya_bagasi.null											
+26	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+26	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+26	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.null											
+26	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+26	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+26	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.null											
+26	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+26	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+27	0	fb:cell_kharakteristik.pekerjaan_di_luar_ruangan_no	pekerjaan di luar ruangan no	pekerjaan|di|luar|ruangan|no	pekerjaan|di|luar|ruangan|no	NNP|NNP|NNP|NNP|DT	O|O|O|O|O	||||					
+27	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.null											
+27	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.null											
+27	4	fb:cell_rasio_bahaya_bagasi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	5	fb:cell_trunk_interval_kepercayaan_95_dari.null											
+27	6	fb:cell_trunk_interval_kepercayaan_95_ke.null											
+27	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.null											
+27	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.null											
+27	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.null											
+27	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.null											
+28	0	fb:cell_kharakteristik.pekerjaan_di_luar_ruangan_ya	pekerjaan di luar ruangan ya	pekerjaan|di|luar|ruangan|ya	pekerjaan|di|luar|ruangan|ya	NNP|NNP|NNP|NNP|PRP	O|O|O|O|O	||||					
+28	1	fb:cell_rasio_bahaya_kepala_atau_leher.1_02	1.02	1.02	1.02	CD	NUMBER	1.02	1.02				
+28	2	fb:cell_interval_kepercayaan_kepala_atau_leher_95_dari.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+28	3	fb:cell_interval_kepercayaan_kepala_atau_leher_95_hingga.1_22	1.22	1.22	1.22	CD	NUMBER	1.22	1.22				
+28	4	fb:cell_rasio_bahaya_bagasi.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+28	5	fb:cell_trunk_interval_kepercayaan_95_dari.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+28	6	fb:cell_trunk_interval_kepercayaan_95_ke.1_18	1.18	1.18	1.18	CD	NUMBER	1.18	1.18				
+28	7	fb:cell_rasio_bahaya_ekstremitas_atas_atau_bahu.1_05	1.05	1.05	1.05	CD	NUMBER	1.05	1.05				
+28	8	fb:cell_ekstremitas_atas_atau_bahu_interval_kepercayaan_95_dari.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+28	9	fb:cell_ekstremitas_atas_atau_bahu_dengan_interval_kepercayaan_95.1_24	1.24	1.24	1.24	CD	NUMBER	1.24	1.24				
+28	10	fb:cell_rasio_bahaya_ekstremitas_bawah_atau_pinggul.1_13	1.13	1.13	1.13	CD	NUMBER	1.13	1.13				
+28	11	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_dari.0_96	0.96	0.96	0.96	CD	NUMBER	0.96	0.96				
+28	12	fb:cell_ekstremitas_bawah_atau_pinggul_interval_kepercayaan_95_ke.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				

@@ -1,0 +1,37 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.setidaknya_satu_kondisi_kronis	setidaknya satu kondisi kronis	setidaknya|satu|kondisi|kronis	setidaknya|satu|kondisi|kronis	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk	kesehatan umum yang dinilai sendiri baik atau buruk	kesehatan|umum|yang|dinilai|sendiri|baik|atau|buruk	kesehatan|umum|yang|dinilai|sendiri|baik|atau|buruk	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.kesehatan_mental_yang_dinilai_baik_atau_buruk	kesehatan mental yang dinilai baik atau buruk	kesehatan|mental|yang|dinilai|baik|atau|buruk	kesehatan|mental|yang|dinilai|baik|atau|buruk	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.kurang_dari_pendidikan_sekolah_menengah_atas	kurang dari pendidikan sekolah menengah atas	kurang|dari|pendidikan|sekolah|menengah|atas	kurang|dari|pendidikan|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O	|||||					
+0	1	fb:cell_setidaknya_satu_kondisi_kronis.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+0	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+0	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_15	0.15	0.15	0.15	CD	NUMBER	0.15	0.15				
+1	0	fb:cell_kharakteristik.pendidikan_sekolah_menengah_atas_atau_lebih_tinggi	pendidikan sekolah menengah atas atau lebih tinggi	pendidikan|sekolah|menengah|atas|atau|lebih|tinggi	pendidikan|sekolah|menengah|atas|atau|lebih|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_setidaknya_satu_kondisi_kronis.0_61	0.61	0.61	0.61	CD	NUMBER	0.61	0.61				
+1	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_21	0.21	0.21	0.21	CD	NUMBER	0.21	0.21				
+1	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+2	0	fb:cell_kharakteristik.penganggur	penganggur	penganggur	penganggur	NN	O						
+2	1	fb:cell_setidaknya_satu_kondisi_kronis.0_61	0.61	0.61	0.61	CD	NUMBER	0.61	0.61				
+2	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				
+2	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_17	0.17	0.17	0.17	CD	NUMBER	0.17	0.17				
+3	0	fb:cell_kharakteristik.dipekerjakan	dipekerjakan	dipekerjakan	dipekerjakan	NN	O						
+3	1	fb:cell_setidaknya_satu_kondisi_kronis.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+3	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_15	0.15	0.15	0.15	CD	NUMBER	0.15	0.15				
+3	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+4	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_tahunan_di_tercile_terendah	pendapatan rumah tangga tahunan di tercile terendah	pendapatan|rumah|tangga|tahunan|di|tercile|terendah	pendapatan|rumah|tangga|tahunan|di|tercile|terendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+4	1	fb:cell_setidaknya_satu_kondisi_kronis.0_64	0.64	0.64	0.64	CD	NUMBER	0.64	0.64				
+4	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+4	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_16	0.16	0.16	0.16	CD	NUMBER	0.16	0.16				
+5	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_tahunan_di_atas_tercile_terendah	pendapatan rumah tangga tahunan di atas tercile terendah	pendapatan|rumah|tangga|tahunan|di|atas|tercile|terendah	pendapatan|rumah|tangga|tahunan|di|atas|tercile|terendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+5	1	fb:cell_setidaknya_satu_kondisi_kronis.0_62	0.62	0.62	0.62	CD	NUMBER	0.62	0.62				
+5	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+5	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+6	0	fb:cell_kharakteristik.rawan_pangan	rawan pangan	rawan|pangan	rawan|pangan	NNP|NNP	PERSON|PERSON	|					
+6	1	fb:cell_setidaknya_satu_kondisi_kronis.0_71	0.71	0.71	0.71	CD	NUMBER	0.71	0.71				
+6	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_28	0.28	0.28	0.28	CD	NUMBER	0.28	0.28				
+6	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+7	0	fb:cell_kharakteristik.keamanan_pangan	keamanan pangan	keamanan|pangan	keamanan|pangan	NNP|NNP	O|O	|					
+7	1	fb:cell_setidaknya_satu_kondisi_kronis.0_61	0.61	0.61	0.61	CD	NUMBER	0.61	0.61				
+7	2	fb:cell_kesehatan_umum_yang_dinilai_sendiri_baik_atau_buruk.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+7	3	fb:cell_kesehatan_mental_yang_dinilai_baik_atau_buruk.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				

@@ -1,0 +1,37 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.canchec_tahun_1991	canchec tahun 1991	canchec|tahun|1991	canchec|tahun|1991	NNP|NNP|CD	O|O|DATE	||1991					
+-1	2	fb:row.row.canchec_tahun_1996	canchec tahun 1996	canchec|tahun|1996	canchec|tahun|1996	NNP|NNP|CD	O|O|DATE	||1996					
+-1	3	fb:row.row.canchec_tahun_2001	canchec tahun 2001	canchec|tahun|2001	canchec|tahun|2001	NNP|NNP|CD	O|O|DATE	||2001					
+-1	4	fb:row.row.canchec_tahun_2006	canchec tahun 2006	canchec|tahun|2006	canchec|tahun|2006	NNP|NNP|CD	O|O|DATE	||2006					
+-1	5	fb:row.row.canchec_tahun_2011	canchec tahun 2011	canchec|tahun|2011	canchec|tahun|2011	NNP|NNP|CD	O|O|DATE	||2011					
+0	0	fb:cell_kharakteristik.100_selesai	100% selesai	100|%|selesai	100|%|selesai	CD|NN|NN	PERCENT|PERCENT|O	%100.0|%100.0|	100.0				
+0	1	fb:cell_canchec_tahun_1991.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+0	2	fb:cell_canchec_tahun_1996.66_5	66.5	66.5	66.5	CD	NUMBER	66.5	66.5				
+0	3	fb:cell_canchec_tahun_2001.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+0	4	fb:cell_canchec_tahun_2006.69_8	69.8	69.8	69.8	CD	NUMBER	69.8	69.8				
+0	5	fb:cell_canchec_tahun_2011.74_1	74.1	74.1	74.1	CD	NUMBER	74.1	74.1				
+1	0	fb:cell_kharakteristik.setidaknya_80_selesai	setidaknya 80% selesai	setidaknya|80|%|selesai	setidaknya|80|%|selesai	NNP|CD|NN|NN	O|PERCENT|PERCENT|O	|%80.0|%80.0|	80.0				
+1	1	fb:cell_canchec_tahun_1991.87_6	87.6	87.6	87.6	CD	NUMBER	87.6	87.6				
+1	2	fb:cell_canchec_tahun_1996.86_4	86.4	86.4	86.4	CD	NUMBER	86.4	86.4				
+1	3	fb:cell_canchec_tahun_2001.89_4	89.4	89.4	89.4	CD	NUMBER	89.4	89.4				
+1	4	fb:cell_canchec_tahun_2006.88_9	88.9	88.9	88.9	CD	NUMBER	88.9	88.9				
+1	5	fb:cell_canchec_tahun_2011.90_5	90.5	90.5	90.5	CD	NUMBER	90.5	90.5				
+2	0	fb:cell_kharakteristik.setidaknya_60_selesai	setidaknya 60% selesai	setidaknya|60|%|selesai	setidaknya|60|%|selesai	NN|CD|NN|NN	O|PERCENT|PERCENT|O	|%60.0|%60.0|	60.0				
+2	1	fb:cell_canchec_tahun_1991.94_1	94.1	94.1	94.1	CD	NUMBER	94.1	94.1				
+2	2	fb:cell_canchec_tahun_1996.93_8	93.8	93.8	93.8	CD	NUMBER	93.8	93.8				
+2	3	fb:cell_canchec_tahun_2001.95_9	95.9	95.9	95.9	CD	NUMBER	95.9	95.9				
+2	4	fb:cell_canchec_tahun_2006.95_6	95.6	95.6	95.6	CD	NUMBER	95.6	95.6				
+2	5	fb:cell_canchec_tahun_2011.96_2	96.2	96.2	96.2	CD	NUMBER	96.2	96.2				
+3	0	fb:cell_kharakteristik.setidaknya_40_selesai	setidaknya 40% selesai	setidaknya|40|%|selesai	setidaknya|40|%|selesai	NNP|CD|NN|NN	O|PERCENT|PERCENT|O	|%40.0|%40.0|	40.0				
+3	1	fb:cell_canchec_tahun_1991.96_8	96.8	96.8	96.8	CD	NUMBER	96.8	96.8				
+3	2	fb:cell_canchec_tahun_1996.97_2	97.2	97.2	97.2	CD	NUMBER	97.2	97.2				
+3	3	fb:cell_canchec_tahun_2001.98_5	98.5	98.5	98.5	CD	NUMBER	98.5	98.5				
+3	4	fb:cell_canchec_tahun_2006.98_3	98.3	98.3	98.3	CD	NUMBER	98.3	98.3				
+3	5	fb:cell_canchec_tahun_2011.98_3	98.3	98.3	98.3	CD	NUMBER	98.3	98.3				
+4	0	fb:cell_kharakteristik.setidaknya_20_selesai	setidaknya 20% selesai	setidaknya|20|%|selesai	setidaknya|20|%|selesai	NNP|CD|NN|NN	O|PERCENT|PERCENT|O	|%20.0|%20.0|	20.0				
+4	1	fb:cell_canchec_tahun_1991.98_3	98.3	98.3	98.3	CD	NUMBER	98.3	98.3				
+4	2	fb:cell_canchec_tahun_1996.98_8	98.8	98.8	98.8	CD	NUMBER	98.8	98.8				
+4	3	fb:cell_canchec_tahun_2001.99_4	99.4	99.4	99.4	CD	NUMBER	99.4	99.4				
+4	4	fb:cell_canchec_tahun_2006.99_4	99.4	99.4	99.4	CD	NUMBER	99.4	99.4				
+4	5	fb:cell_canchec_tahun_2011.99_1	99.1	99.1	99.1	CD	NUMBER	99.1	99.1				

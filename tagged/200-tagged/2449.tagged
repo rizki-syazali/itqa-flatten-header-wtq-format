@@ -1,0 +1,31 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.status_minoritas_yang_terlihat_proporsi_minoritas_yang_terlihat	status minoritas yang terlihat proporsi minoritas yang terlihat	status|minoritas|yang|terlihat|proporsi|minoritas|yang|terlihat	status|minoritas|yang|terlihat|proporsi|minoritas|yang|terlihat	NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_terlihat	status minoritas yang terlihat proporsi subkelompok minoritas yang terlihat	status|minoritas|yang|terlihat|proporsi|subkelompok|minoritas|yang|terlihat	status|minoritas|yang|terlihat|proporsi|subkelompok|minoritas|yang|terlihat	NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	3	fb:row.row.status_minoritas_yang_terlihat_proporsi_minoritas_yang_tidak_terlihat	status minoritas yang terlihat proporsi minoritas yang tidak terlihat	status|minoritas|yang|terlihat|proporsi|minoritas|yang|tidak|terlihat	status|minoritas|yang|terlihat|proporsi|minoritas|yang|tidak|terlihat	NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	4	fb:row.row.status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_tidak_terlihat	status minoritas yang terlihat proporsi subkelompok minoritas yang tidak terlihat	status|minoritas|yang|terlihat|proporsi|subkelompok|minoritas|yang|tidak|terlihat	status|minoritas|yang|terlihat|proporsi|subkelompok|minoritas|yang|tidak|terlihat	NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+0	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse	persen dipekerjakan selama pse	persen|dipekerjakan|selama|pse	persen|dipekerjakan|selama|pse	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_terlihat.null											
+0	2	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_terlihat.null											
+0	3	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_tidak_terlihat.null											
+0	4	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_tidak_terlihat.null											
+1	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_pekerjaan_selama_pse_terkait_dengan_bidang_studi	persen dipekerjakan selama pse pekerjaan selama pse terkait dengan bidang studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|terkait|dengan|bidang|studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|terkait|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+1	1	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_terlihat.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+1	2	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_terlihat.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+1	3	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_tidak_terlihat.36_3	36.3	36.3	36.3	CD	NUMBER	36.3	36.3				
+1	4	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_tidak_terlihat.48_1	48.1	48.1	48.1	CD	NUMBER	48.1	48.1				
+2	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_pekerjaan_selama_pse_tidak_berhubungan_dengan_bidang_studi	persen dipekerjakan selama pse pekerjaan selama pse tidak berhubungan dengan bidang studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|tidak|berhubungan|dengan|bidang|studi	persen|dipekerjakan|selama|pse|pekerjaan|selama|pse|tidak|berhubungan|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+2	1	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_terlihat.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+2	2	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_terlihat.34_6	34.6	34.6	34.6	CD	NUMBER	34.6	34.6				
+2	3	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_tidak_terlihat.26_9	26.9	26.9	26.9	CD	NUMBER	26.9	26.9				
+2	4	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_tidak_terlihat.35_6	35.6	35.6	35.6	CD	NUMBER	35.6	35.6				
+3	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_tidak_dipekerjakan_selama_pse	persen dipekerjakan selama pse tidak dipekerjakan selama pse	persen|dipekerjakan|selama|pse|tidak|dipekerjakan|selama|pse	persen|dipekerjakan|selama|pse|tidak|dipekerjakan|selama|pse	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+3	1	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_terlihat.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+3	2	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_terlihat.28_4	28.4	28.4	28.4	CD	NUMBER	28.4	28.4				
+3	3	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_tidak_terlihat.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+3	4	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_tidak_terlihat.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+4	0	fb:cell_kharakteristik.persen_dipekerjakan_selama_pse_total	persen dipekerjakan selama pse total	persen|dipekerjakan|selama|pse|total	persen|dipekerjakan|selama|pse|total	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_terlihat.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+4	2	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_terlihat.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+4	3	fb:cell_status_minoritas_yang_terlihat_proporsi_minoritas_yang_tidak_terlihat.75_5	75.5	75.5	75.5	CD	NUMBER	75.5	75.5				
+4	4	fb:cell_status_minoritas_yang_terlihat_proporsi_subkelompok_minoritas_yang_tidak_terlihat.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

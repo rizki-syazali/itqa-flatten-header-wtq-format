@@ -1,0 +1,246 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.negara_pertama_yang_bukan_pemberi_kerja	negara pertama yang bukan pemberi kerja	negara|pertama|yang|bukan|pemberi|kerja	negara|pertama|yang|bukan|pemberi|kerja	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.majikan_negara_pertama	majikan negara pertama	majikan|negara|pertama	majikan|negara|pertama	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.inuit_bukan_majikan	inuit bukan majikan	inuit|bukan|majikan	inuit|bukan|majikan	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.majikan_yang_tidak_masuk_akal	majikan yang tidak masuk akal	majikan|yang|tidak|masuk|akal	majikan|yang|tidak|masuk|akal	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	5	fb:row.row.kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja	kelompok pembanding non-pribumi yang bukan pemberi kerja	kelompok|pembanding|non|pribumi|yang|bukan|pemberi|kerja	kelompok|pemband|non|pribumi|yang|bukan|pemberi|kerja	NNP|VBG|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	6	fb:row.row.majikan_kelompok_pembanding_non_pribumi	majikan kelompok pembanding non-pribumi	majikan|kelompok|pembanding|non|pribumi	majikan|kelompok|pemband|non|pribumi	NNP|NNP|VBG|JJ|NN	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.barang_jutaan_dolar	barang jutaan dolar	barang|jutaan|dolar	barang|jutaan|dolar	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.null											
+0	2	fb:cell_majikan_negara_pertama.null											
+0	3	fb:cell_inuit_bukan_majikan.null											
+0	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+0	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+0	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+1	0	fb:cell_kharakteristik.barang_jutaan_dolar_tidak_ada_pendapatan	barang jutaan dolar tidak ada pendapatan	barang|jutaan|dolar|tidak|ada|pendapatan	barang|jutaan|dolar|tidak|ada|pendapatan	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+1	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+1	2	fb:cell_majikan_negara_pertama.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+1	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+1	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+2	0	fb:cell_kharakteristik.barang_jutaan_dolar_lebih_dari_0_dan_kurang_dari_30_000	barang jutaan dolar lebih dari $0 dan kurang dari $30.000	barang|jutaan|dolar|lebih|dari|$|0|dan|kurang|dari|$|30.000	barang|jutaan|dolar|lebih|dari|$|0|dan|kurang|dari|$|30.000	NNP|NNP|NNP|NNP|NNP|$|CD|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||||$0.0|$0.0||||$30.0|$30.0	0.0		30.0		
+2	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+2	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+2	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+2	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja._24_0	-24.0	-24.0	-24.0	CD	NUMBER	-24.0	24.0				
+2	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+3	0	fb:cell_kharakteristik.barang_jutaan_dolar_antara_30_000_dan_100_000	barang jutaan dolar antara $30.000 dan $100.000	barang|jutaan|dolar|antara|$|30.000|dan|$|100.000	barang|jutaan|dolar|antara|$|30.000|dan|$|100.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$30.0|$30.0||$100.0|$100.0	30.0		100.0		
+3	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+3	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	4	fb:cell_majikan_yang_tidak_masuk_akal.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+4	0	fb:cell_kharakteristik.barang_jutaan_dolar_antara_100_000_dan_250_000	barang jutaan dolar antara $100.000 dan $250.000	barang|jutaan|dolar|antara|$|100.000|dan|$|250.000	barang|jutaan|dolar|antara|$|100.000|dan|$|250.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$100.0|$100.0||$250.0|$250.0	100.0		250.0		
+4	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+4	2	fb:cell_majikan_negara_pertama.null											
+4	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	4	fb:cell_majikan_yang_tidak_masuk_akal.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+4	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+5	0	fb:cell_kharakteristik.barang_jutaan_dolar_antara_250_000_dan_1_000_000	barang jutaan dolar antara $250.000 dan $1.000.000	barang|jutaan|dolar|antara|$|250.000|dan|$|1.000.000	barang|jutaan|dolar|antara|$|250.000|dan|$|1.000.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$250.0|$250.0|||	250.0		1.0		
+5	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+5	2	fb:cell_majikan_negara_pertama.null											
+5	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	4	fb:cell_majikan_yang_tidak_masuk_akal.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+5	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.171_0	171.0	171.0	171.0	CD	NUMBER	171.0	171.0				
+6	0	fb:cell_kharakteristik.barang_jutaan_dolar_di_atas_1_000_000	barang jutaan dolar di atas $1.000.000	barang|jutaan|dolar|di|atas|$|1.000.000	barang|jutaan|dolar|di|atas|$|1.000.000	NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY	||||||	1.0		0.0		
+6	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+6	2	fb:cell_majikan_negara_pertama.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+6	3	fb:cell_inuit_bukan_majikan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+6	4	fb:cell_majikan_yang_tidak_masuk_akal.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+6	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+6	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.2176_0	2176.0	2176.0	2176.0	CD	NUMBER	2176.0	2176.0				
+7	0	fb:cell_kharakteristik.barang_jutaan_dolar_semua_kelas_pendapatan	barang jutaan dolar semua kelas pendapatan	barang|jutaan|dolar|semua|kelas|pendapatan	barang|jutaan|dolar|semua|kelas|pendapatan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+7	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	2	fb:cell_majikan_negara_pertama.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+7	3	fb:cell_inuit_bukan_majikan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+7	4	fb:cell_majikan_yang_tidak_masuk_akal.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+7	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+7	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.2339_0	2339.0	2339.0	2339.0	CD	NUMBER	2339.0	2339.0				
+8	0	fb:cell_kharakteristik.barang_jutaan_dolar	barang jutaan dolar	barang|jutaan|dolar	barang|jutaan|dolar	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.null											
+8	2	fb:cell_majikan_negara_pertama.null											
+8	3	fb:cell_inuit_bukan_majikan.null											
+8	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+8	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+8	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+9	0	fb:cell_kharakteristik.barang_jutaan_dolar_tidak_ada_pendapatan	barang jutaan dolar tidak ada pendapatan	barang|jutaan|dolar|tidak|ada|pendapatan	barang|jutaan|dolar|tidak|ada|pendapatan	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+9	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+9	2	fb:cell_majikan_negara_pertama.null											
+9	3	fb:cell_inuit_bukan_majikan.null											
+9	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+9	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+9	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+10	0	fb:cell_kharakteristik.barang_jutaan_dolar_lebih_dari_0_dan_kurang_dari_30_000	barang jutaan dolar lebih dari $0 dan kurang dari $30.000	barang|jutaan|dolar|lebih|dari|$|0|dan|kurang|dari|$|30.000	barang|jutaan|dolar|lebih|dari|$|0|dan|kurang|dari|$|30.000	NNP|NNP|NNP|NNP|NNP|$|CD|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||||$0.0|$0.0||||$30.0|$30.0	0.0		30.0		
+10	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+10	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+10	3	fb:cell_inuit_bukan_majikan.null											
+10	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+10	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja._38_0	-38.0	-38.0	-38.0	CD	NUMBER	-38.0	38.0				
+10	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._87_0	-87.0	-87.0	-87.0	CD	NUMBER	-87.0	87.0				
+11	0	fb:cell_kharakteristik.barang_jutaan_dolar_antara_30_000_dan_100_000	barang jutaan dolar antara $30.000 dan $100.000	barang|jutaan|dolar|antara|$|30.000|dan|$|100.000	barang|jutaan|dolar|antara|$|30.000|dan|$|100.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$30.0|$30.0||$100.0|$100.0	30.0		100.0		
+11	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	2	fb:cell_majikan_negara_pertama.null											
+11	3	fb:cell_inuit_bukan_majikan.null											
+11	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+11	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+11	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._27_0	-27.0	-27.0	-27.0	CD	NUMBER	-27.0	27.0				
+12	0	fb:cell_kharakteristik.barang_jutaan_dolar_antara_100_000_dan_250_000	barang jutaan dolar antara $100.000 dan $250.000	barang|jutaan|dolar|antara|$|100.000|dan|$|250.000	barang|jutaan|dolar|antara|$|100.000|dan|$|250.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$100.0|$100.0||$250.0|$250.0	100.0		250.0		
+12	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+12	2	fb:cell_majikan_negara_pertama._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+12	3	fb:cell_inuit_bukan_majikan.null											
+12	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+12	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.99_0	99.0	99.0	99.0	CD	NUMBER	99.0	99.0				
+12	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+13	0	fb:cell_kharakteristik.barang_jutaan_dolar_antara_250_000_dan_1_000_000	barang jutaan dolar antara $250.000 dan $1.000.000	barang|jutaan|dolar|antara|$|250.000|dan|$|1.000.000	barang|jutaan|dolar|antara|$|250.000|dan|$|1.000.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$250.0|$250.0|||	250.0		1.0		
+13	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+13	2	fb:cell_majikan_negara_pertama.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+13	3	fb:cell_inuit_bukan_majikan.null											
+13	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+13	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.630_0	630.0	630.0	630.0	CD	NUMBER	630.0	630.0				
+13	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.419_0	419.0	419.0	419.0	CD	NUMBER	419.0	419.0				
+14	0	fb:cell_kharakteristik.barang_jutaan_dolar_di_atas_1_000_000	barang jutaan dolar di atas $1.000.000	barang|jutaan|dolar|di|atas|$|1.000.000	barang|jutaan|dolar|di|atas|$|1.000.000	NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY	||||||	1.0		0.0		
+14	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+14	2	fb:cell_majikan_negara_pertama.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+14	3	fb:cell_inuit_bukan_majikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+14	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+14	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.654_0	654.0	654.0	654.0	CD	NUMBER	654.0	654.0				
+14	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.1881_0	1881.0	1881.0	1881.0	CD	NUMBER	1881.0	1881.0				
+15	0	fb:cell_kharakteristik.barang_jutaan_dolar_semua_kelas_pendapatan	barang jutaan dolar semua kelas pendapatan	barang|jutaan|dolar|semua|kelas|pendapatan	barang|jutaan|dolar|semua|kelas|pendapatan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+15	2	fb:cell_majikan_negara_pertama.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+15	3	fb:cell_inuit_bukan_majikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	4	fb:cell_majikan_yang_tidak_masuk_akal._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+15	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.1338_0	1338.0	1338.0	1338.0	CD	NUMBER	1338.0	1338.0				
+15	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.2161_0	2161.0	2161.0	2161.0	CD	NUMBER	2161.0	2161.0				
+16	0	fb:cell_kharakteristik.layanan_jutaan_dolar	layanan jutaan dolar	layanan|jutaan|dolar	layanan|jutaan|dolar	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.null											
+16	2	fb:cell_majikan_negara_pertama.null											
+16	3	fb:cell_inuit_bukan_majikan.null											
+16	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+16	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+16	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+17	0	fb:cell_kharakteristik.jutaan_dolar_layanan_tidak_ada_pendapatan	jutaan dolar layanan tidak ada pendapatan	jutaan|dolar|layanan|tidak|ada|pendapatan	jutaan|dolar|layanan|tidak|ada|pendapatan	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+17	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.null											
+17	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+17	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+17	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+17	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja._68_0	-68.0	-68.0	-68.0	CD	NUMBER	-68.0	68.0				
+17	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+18	0	fb:cell_kharakteristik.jutaan_dolar_layanan_lebih_dari_0_dan_kurang_dari_30_000	jutaan dolar layanan lebih dari $0 dan kurang dari $30.000	jutaan|dolar|layanan|lebih|dari|$|0|dan|kurang|dari|$|30.000	jutaan|dolar|layanan|lebih|dari|$|0|dan|kurang|dari|$|30.000	NNP|NNP|NNP|NNP|NNP|$|CD|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||||$0.0|$0.0||||$30.0|$30.0	0.0		30.0		
+18	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+18	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+18	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+18	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja._85_0	-85.0	-85.0	-85.0	CD	NUMBER	-85.0	85.0				
+18	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._47_0	-47.0	-47.0	-47.0	CD	NUMBER	-47.0	47.0				
+19	0	fb:cell_kharakteristik.layanan_jutaan_dolar_antara_30_000_dan_100_000	layanan jutaan dolar antara $30.000 dan $100.000	layanan|jutaan|dolar|antara|$|30.000|dan|$|100.000	layanan|jutaan|dolar|antara|$|30.000|dan|$|100.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$30.0|$30.0||$100.0|$100.0	30.0		100.0		
+19	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+19	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+19	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+19	4	fb:cell_majikan_yang_tidak_masuk_akal.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+19	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.119_0	119.0	119.0	119.0	CD	NUMBER	119.0	119.0				
+19	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._34_0	-34.0	-34.0	-34.0	CD	NUMBER	-34.0	34.0				
+20	0	fb:cell_kharakteristik.layanan_jutaan_dolar_antara_100_000_dan_250_000	layanan jutaan dolar antara $100.000 dan $250.000	layanan|jutaan|dolar|antara|$|100.000|dan|$|250.000	layanan|jutaan|dolar|antara|$|100.000|dan|$|250.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$100.0|$100.0||$250.0|$250.0	100.0		250.0		
+20	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+20	2	fb:cell_majikan_negara_pertama.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+20	3	fb:cell_inuit_bukan_majikan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+20	4	fb:cell_majikan_yang_tidak_masuk_akal.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+20	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.256_0	256.0	256.0	256.0	CD	NUMBER	256.0	256.0				
+20	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+21	0	fb:cell_kharakteristik.layanan_jutaan_dolar_antara_250_000_dan_1_000_000	layanan jutaan dolar antara $250.000 dan $1.000.000	layanan|jutaan|dolar|antara|$|250.000|dan|$|1.000.000	layanan|jutaan|dolar|antara|$|250.000|dan|$|1.000.000	NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$250.0|$250.0|||	250.0		1.0		
+21	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+21	2	fb:cell_majikan_negara_pertama._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+21	3	fb:cell_inuit_bukan_majikan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+21	4	fb:cell_majikan_yang_tidak_masuk_akal.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+21	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.798_0	798.0	798.0	798.0	CD	NUMBER	798.0	798.0				
+21	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.653_0	653.0	653.0	653.0	CD	NUMBER	653.0	653.0				
+22	0	fb:cell_kharakteristik.jutaan_dolar_layanan_lebih_dari_1_000_000	jutaan dolar layanan lebih dari $1.000.000	jutaan|dolar|layanan|lebih|dari|$|1.000.000	jutaan|dolar|layanan|lebih|dari|$|1.000.000	NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY	||||||	1.0		0.0		
+22	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+22	2	fb:cell_majikan_negara_pertama.116_0	116.0	116.0	116.0	CD	NUMBER	116.0	116.0				
+22	3	fb:cell_inuit_bukan_majikan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+22	4	fb:cell_majikan_yang_tidak_masuk_akal.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+22	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.1556_0	1556.0	1556.0	1556.0	CD	NUMBER	1556.0	1556.0				
+22	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.2338_0	2338.0	2338.0	2338.0	CD	NUMBER	2338.0	2338.0				
+23	0	fb:cell_kharakteristik.jutaan_dolar_melayani_semua_kelas_pendapatan	jutaan dolar melayani semua kelas pendapatan	jutaan|dolar|melayani|semua|kelas|pendapatan	jutaan|dolar|melayani|semua|kelas|pendapatan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+23	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.111_0	111.0	111.0	111.0	CD	NUMBER	111.0	111.0				
+23	2	fb:cell_majikan_negara_pertama.103_0	103.0	103.0	103.0	CD	NUMBER	103.0	103.0				
+23	3	fb:cell_inuit_bukan_majikan.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+23	4	fb:cell_majikan_yang_tidak_masuk_akal.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+23	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.2575_0	2575.0	2575.0	2575.0	CD	NUMBER	2575.0	2575.0				
+23	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.2985_0	2985.0	2985.0	2985.0	CD	NUMBER	2985.0	2985.0				
+24	0	fb:cell_kharakteristik.jutaan_dolar_belum_ditugaskan	jutaan dolar belum ditugaskan	jutaan|dolar|belum|ditugaskan	jutaan|dolar|belum|ditugaskan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+24	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.null											
+24	2	fb:cell_majikan_negara_pertama.null											
+24	3	fb:cell_inuit_bukan_majikan.null											
+24	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+24	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+24	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+25	0	fb:cell_kharakteristik.jutaan_dolar_tanpa_ditetapkan_tidak_ada_pendapatan	jutaan dolar tanpa ditetapkan, tidak ada pendapatan	jutaan|dolar|tanpa|ditetapkan|,|tidak|ada|pendapatan	jutaan|dolar|tanpa|ditetapkan|,|tidak|ada|pendapatan	NNP|NNP|NNP|NNP|,|NNP|NN|NN	O|O|O|O|O|O|O|O	|||||||				jutaan dolar tanpa ditetapkan|tidak ada pendapatan	fb:part_kharakteristik.jutaan_dolar_tanpa_ditetapkan|fb:part_kharakteristik.tidak_ada_pendapatan
+25	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+25	2	fb:cell_majikan_negara_pertama.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+25	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+25	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+26	0	fb:cell_kharakteristik.jutaan_dolar_yang_belum_ditetapkan_lebih_dari_0_dan_kurang_dari_30_000	jutaan dolar yang belum ditetapkan lebih dari $0 dan kurang dari $30.000	jutaan|dolar|yang|belum|ditetapkan|lebih|dari|$|0|dan|kurang|dari|$|30.000	jutaan|dolar|yang|belum|ditetapkan|lebih|dari|$|0|dan|kurang|dari|$|30.000	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||||||$0.0|$0.0||||$30.0|$30.0	0.0		30.0		
+26	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+26	2	fb:cell_majikan_negara_pertama._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+26	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+26	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+26	6	fb:cell_majikan_kelompok_pembanding_non_pribumi._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+27	0	fb:cell_kharakteristik.jutaan_dolar_yang_belum_ditetapkan_antara_30_000_dan_100_000	jutaan dolar yang belum ditetapkan antara $30.000 dan $100.000	jutaan|dolar|yang|belum|ditetapkan|antara|$|30.000|dan|$|100.000	jutaan|dolar|yang|belum|ditetapkan|antara|$|30.000|dan|$|100.000	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$30.0|$30.0||$100.0|$100.0	30.0		100.0		
+27	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	2	fb:cell_majikan_negara_pertama.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	3	fb:cell_inuit_bukan_majikan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+27	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+27	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	0	fb:cell_kharakteristik.jutaan_dolar_yang_belum_ditetapkan_antara_100_000_dan_250_000	jutaan dolar yang belum ditetapkan antara $100.000 dan $250.000	jutaan|dolar|yang|belum|ditetapkan|antara|$|100.000|dan|$|250.000	jutaan|dolar|yang|belum|ditetapkan|antara|$|100.000|dan|$|250.000	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$100.0|$100.0||$250.0|$250.0	100.0		250.0		
+28	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+28	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+28	3	fb:cell_inuit_bukan_majikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+28	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+28	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.92_0	92.0	92.0	92.0	CD	NUMBER	92.0	92.0				
+28	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+29	0	fb:cell_kharakteristik.jutaan_dolar_yang_belum_ditetapkan_antara_250_000_dan_1_000_000	jutaan dolar yang belum ditetapkan antara $250.000 dan $1.000.000	jutaan|dolar|yang|belum|ditetapkan|antara|$|250.000|dan|$|1.000.000	jutaan|dolar|yang|belum|ditetapkan|antara|$|250.000|dan|$|1.000.000	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$250.0|$250.0|||	250.0		1.0		
+29	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+29	2	fb:cell_majikan_negara_pertama.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+29	3	fb:cell_inuit_bukan_majikan.null											
+29	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+29	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.134_0	134.0	134.0	134.0	CD	NUMBER	134.0	134.0				
+29	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+30	0	fb:cell_kharakteristik.jutaan_dolar_yang_belum_ditugaskan_lebih_dari_1_000_000	jutaan dolar yang belum ditugaskan lebih dari $1.000.000	jutaan|dolar|yang|belum|ditugaskan|lebih|dari|$|1.000.000	jutaan|dolar|yang|belum|ditugaskan|lebih|dari|$|1.000.000	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|O|MONEY|MONEY	||||||||	1.0		0.0		
+30	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+30	2	fb:cell_majikan_negara_pertama._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+30	3	fb:cell_inuit_bukan_majikan.null											
+30	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+30	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+30	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+31	0	fb:cell_kharakteristik.jutaan_dolar_membatalkan_penetapan_semua_kelas_pendapatan	jutaan dolar membatalkan penetapan semua kelas pendapatan	jutaan|dolar|membatalkan|penetapan|semua|kelas|pendapatan	jutaan|dolar|membatalkan|penetapan|semua|kelas|pendapatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+31	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+31	2	fb:cell_majikan_negara_pertama._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+31	3	fb:cell_inuit_bukan_majikan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+31	4	fb:cell_majikan_yang_tidak_masuk_akal.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+31	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.435_0	435.0	435.0	435.0	CD	NUMBER	435.0	435.0				
+31	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+32	0	fb:cell_kharakteristik.jutaan_dolar_semua_industri	jutaan dolar semua industri	jutaan|dolar|semua|industri	jutaan|dolar|semua|industri	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+32	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.null											
+32	2	fb:cell_majikan_negara_pertama.null											
+32	3	fb:cell_inuit_bukan_majikan.null											
+32	4	fb:cell_majikan_yang_tidak_masuk_akal.null											
+32	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.null											
+32	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.null											
+33	0	fb:cell_kharakteristik.jutaan_dolar_semua_industri_semua_kelas_pendapatan	jutaan dolar semua industri semua kelas pendapatan	jutaan|dolar|semua|industri|semua|kelas|pendapatan	jutaan|dolar|semua|industri|semua|kelas|pendapatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+33	1	fb:cell_negara_pertama_yang_bukan_pemberi_kerja.152_0	152.0	152.0	152.0	CD	NUMBER	152.0	152.0				
+33	2	fb:cell_majikan_negara_pertama.178_0	178.0	178.0	178.0	CD	NUMBER	178.0	178.0				
+33	3	fb:cell_inuit_bukan_majikan.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+33	4	fb:cell_majikan_yang_tidak_masuk_akal.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+33	5	fb:cell_kelompok_pembanding_non_pribumi_yang_bukan_pemberi_kerja.4535_0	4535.0	4535.0	4535.0	CD	NUMBER	4535.0	4535.0				
+33	6	fb:cell_majikan_kelompok_pembanding_non_pribumi.7537_0	7537.0	7537.0	7537.0	CD	NUMBER	7537.0	7537.0				

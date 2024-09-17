@@ -1,0 +1,241 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.memperoleh_sertifikat	memperoleh sertifikat	memperoleh|sertifikat	memperoleh|sertifikat	NN|NN	O|O	|					
+-1	2	fb:row.row.melanjutkan_programnya	melanjutkan programnya	melanjutkan|programnya	melanjutkan|programnya	NNP|NNP	O|O	|					
+-1	3	fb:row.row.menghentikan_program_tersebut	menghentikan program tersebut	menghentikan|program|tersebut	menghentikan|program|tersebut	NN|NN|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin	prediksi probabilitas jenis kelamin	prediksi|probabilitas|jenis|kelamin	prediksi|probabilitas|jenis|kelamin	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_memperoleh_sertifikat.null											
+0	2	fb:cell_melanjutkan_programnya.null											
+0	3	fb:cell_menghentikan_program_tersebut.null											
+1	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_laki_laki	prediksi probabilitas jenis kelamin laki-laki	prediksi|probabilitas|jenis|kelamin|laki|laki	prediksi|probabilitas|jenis|kelamin|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+1	1	fb:cell_memperoleh_sertifikat.0_357	0.357	0.357	0.357	CD	NUMBER	0.357	0.357				
+1	2	fb:cell_melanjutkan_programnya.0_309	0.309	0.309	0.309	CD	NUMBER	0.309	0.309				
+1	3	fb:cell_menghentikan_program_tersebut.0_334	0.334	0.334	0.334	CD	NUMBER	0.334	0.334				
+2	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_perempuan	prediksi probabilitas jenis kelamin perempuan	prediksi|probabilitas|jenis|kelamin|perempuan	prediksi|probabilitas|jenis|kelamin|perempuan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_memperoleh_sertifikat.0_404	0.404	0.404	0.404	CD	NUMBER	0.404	0.404				
+2	2	fb:cell_melanjutkan_programnya.0_279	0.279	0.279	0.279	CD	NUMBER	0.279	0.279				
+2	3	fb:cell_menghentikan_program_tersebut.0_317	0.317	0.317	0.317	CD	NUMBER	0.317	0.317				
+3	0	fb:cell_kharakteristik.prediksi_usia_probabilitas_saat_pendaftaran	prediksi usia probabilitas saat pendaftaran	prediksi|usia|probabilitas|saat|pendaftaran	prediksi|usia|probabilitas|saat|pendaftaran	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+3	1	fb:cell_memperoleh_sertifikat.null											
+3	2	fb:cell_melanjutkan_programnya.null											
+3	3	fb:cell_menghentikan_program_tersebut.null											
+4	0	fb:cell_kharakteristik.prediksi_usia_probabilitas_saat_pendaftaran_18_hingga_20_tahun	prediksi usia probabilitas saat pendaftaran 18 hingga 20 tahun	prediksi|usia|probabilitas|saat|pendaftaran|18|hingga|20|tahun	prediksi|usia|probabilitas|saat|pendaftaran|18|hingga|20|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||18.0||20.0|	18.0		20.0		
+4	1	fb:cell_memperoleh_sertifikat.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+4	2	fb:cell_melanjutkan_programnya.0_312	0.312	0.312	0.312	CD	NUMBER	0.312	0.312				
+4	3	fb:cell_menghentikan_program_tersebut.0_293	0.293	0.293	0.293	CD	NUMBER	0.293	0.293				
+5	0	fb:cell_kharakteristik.prediksi_usia_probabilitas_saat_pendaftaran_21_hingga_25_tahun	prediksi usia probabilitas saat pendaftaran 21 hingga 25 tahun	prediksi|usia|probabilitas|saat|pendaftaran|21|hingga|25|tahun	prediksi|usia|probabilitas|saat|pendaftaran|21|hingga|25|tahun	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||21.0||25.0|	21.0		25.0		
+5	1	fb:cell_memperoleh_sertifikat.0_381	0.381	0.381	0.381	CD	NUMBER	0.381	0.381				
+5	2	fb:cell_melanjutkan_programnya.0_303	0.303	0.303	0.303	CD	NUMBER	0.303	0.303				
+5	3	fb:cell_menghentikan_program_tersebut.0_316	0.316	0.316	0.316	CD	NUMBER	0.316	0.316				
+6	0	fb:cell_kharakteristik.prediksi_usia_probabilitas_saat_pendaftaran_26_hingga_35_tahun	prediksi usia probabilitas saat pendaftaran 26 hingga 35 tahun	prediksi|usia|probabilitas|saat|pendaftaran|26|hingga|35|tahun	prediksi|usia|probabilitas|saat|pendaftaran|26|hingga|35|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||26.0||35.0|	26.0		35.0		
+6	1	fb:cell_memperoleh_sertifikat.0_35	0.35	0.35	0.35	CD	NUMBER	0.35	0.35				
+6	2	fb:cell_melanjutkan_programnya.0_303	0.303	0.303	0.303	CD	NUMBER	0.303	0.303				
+6	3	fb:cell_menghentikan_program_tersebut.0_347	0.347	0.347	0.347	CD	NUMBER	0.347	0.347				
+7	0	fb:cell_kharakteristik.prediksi_usia_probabilitas_saat_pendaftaran_36_hingga_45_tahun	prediksi usia probabilitas saat pendaftaran 36 hingga 45 tahun	prediksi|usia|probabilitas|saat|pendaftaran|36|hingga|45|tahun	prediksi|usia|probabilitas|saat|pendaftaran|36|hingga|45|tahun	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||36.0||45.0|	36.0		45.0		
+7	1	fb:cell_memperoleh_sertifikat.0_324	0.324	0.324	0.324	CD	NUMBER	0.324	0.324				
+7	2	fb:cell_melanjutkan_programnya.0_306	0.306	0.306	0.306	CD	NUMBER	0.306	0.306				
+7	3	fb:cell_menghentikan_program_tersebut.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+8	0	fb:cell_kharakteristik.prediksi_usia_probabilitas_pada_saat_pendaftaran_46_tahun_atau_lebih	prediksi usia probabilitas pada saat pendaftaran 46 tahun atau lebih	prediksi|usia|probabilitas|pada|saat|pendaftaran|46|tahun|atau|lebih	prediksi|usia|probabilitas|pada|saat|pendaftaran|46|tahun|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|O|NUMBER|O|O|O	||||||46.0|||	46.0				
+8	1	fb:cell_memperoleh_sertifikat.0_305	0.305	0.305	0.305	CD	NUMBER	0.305	0.305				
+8	2	fb:cell_melanjutkan_programnya.0_285	0.285	0.285	0.285	CD	NUMBER	0.285	0.285				
+8	3	fb:cell_menghentikan_program_tersebut.0_411	0.411	0.411	0.411	CD	NUMBER	0.411	0.411				
+9	0	fb:cell_kharakteristik.prediksi_probabilitas_status_imigrasi	prediksi probabilitas status imigrasi	prediksi|probabilitas|status|imigrasi	prediksi|probabilitas|status|imigrasi	NNP|NNP|NN|NN	O|O|O|O	|||					
+9	1	fb:cell_memperoleh_sertifikat.null											
+9	2	fb:cell_melanjutkan_programnya.null											
+9	3	fb:cell_menghentikan_program_tersebut.null											
+10	0	fb:cell_kharakteristik.prediksi_probabilitas_status_imigrasi_non_imigran	prediksi probabilitas status imigrasi non-imigran	prediksi|probabilitas|status|imigrasi|non|imigran	prediksi|probabilitas|status|imigrasi|non|imigran	FW|FW|FW|FW|JJ|NN	O|O|O|O|O|O	|||||					
+10	1	fb:cell_memperoleh_sertifikat.0_363	0.363	0.363	0.363	CD	NUMBER	0.363	0.363				
+10	2	fb:cell_melanjutkan_programnya.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+10	3	fb:cell_menghentikan_program_tersebut.0_337	0.337	0.337	0.337	CD	NUMBER	0.337	0.337				
+11	0	fb:cell_kharakteristik.prediksi_probabilitas_status_imigrasi_imigran	prediksi probabilitas status imigrasi imigran	prediksi|probabilitas|status|imigrasi|imigran	prediksi|probabilitas|status|imigrasi|imigran	FW|FW|FW|FW|NN	O|O|O|O|O	||||					
+11	1	fb:cell_memperoleh_sertifikat.0_362	0.362	0.362	0.362	CD	NUMBER	0.362	0.362				
+11	2	fb:cell_melanjutkan_programnya.0_348	0.348	0.348	0.348	CD	NUMBER	0.348	0.348				
+11	3	fb:cell_menghentikan_program_tersebut.0_291	0.291	0.291	0.291	CD	NUMBER	0.291	0.291				
+12	0	fb:cell_kharakteristik.prediksi_probabilitas_status_perkawinan_pada_tahun_pendaftaran	prediksi probabilitas status perkawinan pada tahun pendaftaran	prediksi|probabilitas|status|perkawinan|pada|tahun|pendaftaran	prediksi|probabilitas|status|perkawinan|pada|tahun|pendaftaran	NNP|NNP|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_memperoleh_sertifikat.null											
+12	2	fb:cell_melanjutkan_programnya.null											
+12	3	fb:cell_menghentikan_program_tersebut.null											
+13	0	fb:cell_kharakteristik.prediksi_probabilitas_status_perkawinan_pada_tahun_pendaftaran_lajang	prediksi probabilitas status perkawinan pada tahun pendaftaran lajang	prediksi|probabilitas|status|perkawinan|pada|tahun|pendaftaran|lajang	prediksi|probabilitas|status|perkawinan|pada|tahun|pendaftaran|lajang	NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+13	1	fb:cell_memperoleh_sertifikat.0_358	0.358	0.358	0.358	CD	NUMBER	0.358	0.358				
+13	2	fb:cell_melanjutkan_programnya.0_312	0.312	0.312	0.312	CD	NUMBER	0.312	0.312				
+13	3	fb:cell_menghentikan_program_tersebut.0_331	0.331	0.331	0.331	CD	NUMBER	0.331	0.331				
+14	0	fb:cell_kharakteristik.prediksi_kemungkinan_status_perkawinan_pada_tahun_pendaftaran_menikah_atau_hukum_adat	prediksi kemungkinan status perkawinan pada tahun pendaftaran menikah atau hukum adat	prediksi|kemungkinan|status|perkawinan|pada|tahun|pendaftaran|menikah|atau|hukum|adat	prediksi|kemungkinan|status|perkawinan|pada|tahun|pendaftaran|menikah|atau|hukum|adat	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+14	1	fb:cell_memperoleh_sertifikat.0_378	0.378	0.378	0.378	CD	NUMBER	0.378	0.378				
+14	2	fb:cell_melanjutkan_programnya.0_29	0.29	0.29	0.29	CD	NUMBER	0.29	0.29				
+14	3	fb:cell_menghentikan_program_tersebut.0_332	0.332	0.332	0.332	CD	NUMBER	0.332	0.332				
+15	0	fb:cell_kharakteristik.prediksi_kemungkinan_status_perkawinan_pada_tahun_pendaftaran_cerai_berpisah_atau_duda	prediksi kemungkinan status perkawinan pada tahun pendaftaran cerai, berpisah atau duda	prediksi|kemungkinan|status|perkawinan|pada|tahun|pendaftaran|cerai|,|berpisah|atau|duda	prediksi|kemungkinan|status|perkawinan|pada|tahun|pendaftaran|cerai|,|berpisah|atau|duda	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				prediksi kemungkinan status perkawinan pada tahun pendaftaran cerai|berpisah atau duda	fb:part_kharakteristik.prediksi_kemungkinan_status_perkawinan_pada_tahun_pendaftaran_cerai|fb:part_kharakteristik.berpisah_atau_duda
+15	1	fb:cell_memperoleh_sertifikat.0_338	0.338	0.338	0.338	CD	NUMBER	0.338	0.338				
+15	2	fb:cell_melanjutkan_programnya.0_306	0.306	0.306	0.306	CD	NUMBER	0.306	0.306				
+15	3	fb:cell_menghentikan_program_tersebut.0_357	0.357	0.357	0.357	CD	NUMBER	0.357	0.357				
+16	0	fb:cell_kharakteristik.prediksi_kemungkinan_terdaftar_di_luar_provinsi_atau_wilayah_tempat_tinggal	prediksi kemungkinan terdaftar di luar provinsi atau wilayah tempat tinggal	prediksi|kemungkinan|terdaftar|di|luar|provinsi|atau|wilayah|tempat|tinggal	prediksi|kemungkinan|terdaftar|di|luar|provinsi|atau|wilayah|tempat|tinggal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+16	1	fb:cell_memperoleh_sertifikat.null											
+16	2	fb:cell_melanjutkan_programnya.null											
+16	3	fb:cell_menghentikan_program_tersebut.null											
+17	0	fb:cell_kharakteristik.prediksi_probabilitas_terdaftar_di_luar_provinsi_atau_wilayah_tempat_tinggal_no	prediksi probabilitas terdaftar di luar provinsi atau wilayah tempat tinggal no	prediksi|probabilitas|terdaftar|di|luar|provinsi|atau|wilayah|tempat|tinggal|no	prediksi|probabilitas|terdaftar|di|luar|provinsi|atau|wilayah|tempat|tinggal|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+17	1	fb:cell_memperoleh_sertifikat.0_365	0.365	0.365	0.365	CD	NUMBER	0.365	0.365				
+17	2	fb:cell_melanjutkan_programnya.0_303	0.303	0.303	0.303	CD	NUMBER	0.303	0.303				
+17	3	fb:cell_menghentikan_program_tersebut.0_332	0.332	0.332	0.332	CD	NUMBER	0.332	0.332				
+18	0	fb:cell_kharakteristik.prediksi_probabilitas_terdaftar_di_luar_provinsi_atau_wilayah_tempat_tinggal_ya	prediksi probabilitas terdaftar di luar provinsi atau wilayah tempat tinggal ya	prediksi|probabilitas|terdaftar|di|luar|provinsi|atau|wilayah|tempat|tinggal|ya	prediksi|probabilitas|terdaftar|di|luar|provinsi|atau|wilayah|tempat|tinggal|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+18	1	fb:cell_memperoleh_sertifikat.0_329	0.329	0.329	0.329	CD	NUMBER	0.329	0.329				
+18	2	fb:cell_melanjutkan_programnya.0_333	0.333	0.333	0.333	CD	NUMBER	0.333	0.333				
+18	3	fb:cell_menghentikan_program_tersebut.0_339	0.339	0.339	0.339	CD	NUMBER	0.339	0.339				
+19	0	fb:cell_kharakteristik.prediksi_probabilitas_menerima_kredit_untuk_pelatihan_prapendaftaran	prediksi probabilitas menerima kredit untuk pelatihan prapendaftaran	prediksi|probabilitas|menerima|kredit|untuk|pelatihan|prapendaftaran	prediksi|probabilitas|menerima|kredit|untuk|pelatihan|prapendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+19	1	fb:cell_memperoleh_sertifikat.null											
+19	2	fb:cell_melanjutkan_programnya.null											
+19	3	fb:cell_menghentikan_program_tersebut.null											
+20	0	fb:cell_kharakteristik.prediksi_probabilitas_menerima_kredit_untuk_pelatihan_prapendaftaran_no	prediksi probabilitas menerima kredit untuk pelatihan prapendaftaran no	prediksi|probabilitas|menerima|kredit|untuk|pelatihan|prapendaftaran|no	prediksi|probabilitas|menerima|kredit|untuk|pelatihan|prapendaftaran|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O	|||||||					
+20	1	fb:cell_memperoleh_sertifikat.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+20	2	fb:cell_melanjutkan_programnya.0_321	0.321	0.321	0.321	CD	NUMBER	0.321	0.321				
+20	3	fb:cell_menghentikan_program_tersebut.0_369	0.369	0.369	0.369	CD	NUMBER	0.369	0.369				
+21	0	fb:cell_kharakteristik.prediksi_probabilitas_menerima_kredit_untuk_pelatihan_prapendaftaran_ya	prediksi probabilitas menerima kredit untuk pelatihan prapendaftaran ya	prediksi|probabilitas|menerima|kredit|untuk|pelatihan|prapendaftaran|ya	prediksi|probabilitas|menerima|kredit|untuk|pelatihan|prapendaftaran|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O	|||||||					
+21	1	fb:cell_memperoleh_sertifikat.0_438	0.438	0.438	0.438	CD	NUMBER	0.438	0.438				
+21	2	fb:cell_melanjutkan_programnya.0_277	0.277	0.277	0.277	CD	NUMBER	0.277	0.277				
+21	3	fb:cell_menghentikan_program_tersebut.0_285	0.285	0.285	0.285	CD	NUMBER	0.285	0.285				
+22	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_pekerjaan_pada_tahun_pendaftaran	prediksi probabilitas pendapatan pekerjaan pada tahun pendaftaran	prediksi|probabilitas|pendapatan|pekerjaan|pada|tahun|pendaftaran	prediksi|probabilitas|pendapatan|pekerjaan|pada|tahun|pendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+22	1	fb:cell_memperoleh_sertifikat.null											
+22	2	fb:cell_melanjutkan_programnya.null											
+22	3	fb:cell_menghentikan_program_tersebut.null											
+23	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_kerja_pada_tahun_pendaftaran_kurang_dari_15_000	prediksi probabilitas pendapatan kerja pada tahun pendaftaran kurang dari $15.000	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|kurang|dari|$|15.000	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|kurang|dari|$|15.000	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|O|O|O|MONEY|MONEY	|||||||||$15.0|$15.0	15.0				
+23	1	fb:cell_memperoleh_sertifikat.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+23	2	fb:cell_melanjutkan_programnya.0_345	0.345	0.345	0.345	CD	NUMBER	0.345	0.345				
+23	3	fb:cell_menghentikan_program_tersebut.0_435	0.435	0.435	0.435	CD	NUMBER	0.435	0.435				
+24	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_kerja_pada_tahun_pendaftaran_15_000_hingga_29_999	prediksi probabilitas pendapatan kerja pada tahun pendaftaran $15.000 hingga $29.999	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|$|15.000|hingga|$|29.999	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|$|15.000|hingga|$|29.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||||||$15.0|$15.0||$29.999|$29.999	15.0		29.999		
+24	1	fb:cell_memperoleh_sertifikat.0_348	0.348	0.348	0.348	CD	NUMBER	0.348	0.348				
+24	2	fb:cell_melanjutkan_programnya.0_323	0.323	0.323	0.323	CD	NUMBER	0.323	0.323				
+24	3	fb:cell_menghentikan_program_tersebut.0_329	0.329	0.329	0.329	CD	NUMBER	0.329	0.329				
+25	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_pekerjaan_pada_tahun_pendaftaran_30_000_hingga_44_999	prediksi probabilitas pendapatan pekerjaan pada tahun pendaftaran $30.000 hingga $44.999	prediksi|probabilitas|pendapatan|pekerjaan|pada|tahun|pendaftaran|$|30.000|hingga|$|44.999	prediksi|probabilitas|pendapatan|pekerjaan|pada|tahun|pendaftaran|$|30.000|hingga|$|44.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||||||$30.0|$30.0||$44.999|$44.999	30.0		44.999		
+25	1	fb:cell_memperoleh_sertifikat.0_444	0.444	0.444	0.444	CD	NUMBER	0.444	0.444				
+25	2	fb:cell_melanjutkan_programnya.0_282	0.282	0.282	0.282	CD	NUMBER	0.282	0.282				
+25	3	fb:cell_menghentikan_program_tersebut.0_275	0.275	0.275	0.275	CD	NUMBER	0.275	0.275				
+26	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_pekerjaan_pada_tahun_pendaftaran_45_000_hingga_59_999	prediksi probabilitas pendapatan pekerjaan pada tahun pendaftaran $45.000 hingga $59.999	prediksi|probabilitas|pendapatan|pekerjaan|pada|tahun|pendaftaran|$|45.000|hingga|$|59.999	prediksi|probabilitas|pendapatan|pekerjaan|pada|tahun|pendaftaran|$|45.000|hingga|$|59.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||||||$45.0|$45.0||$59.999|$59.999	45.0		59.999		
+26	1	fb:cell_memperoleh_sertifikat.0_458	0.458	0.458	0.458	CD	NUMBER	0.458	0.458				
+26	2	fb:cell_melanjutkan_programnya.0_266	0.266	0.266	0.266	CD	NUMBER	0.266	0.266				
+26	3	fb:cell_menghentikan_program_tersebut.0_276	0.276	0.276	0.276	CD	NUMBER	0.276	0.276				
+27	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_kerja_pada_tahun_pendaftaran_60_000_hingga_74_999	prediksi probabilitas pendapatan kerja pada tahun pendaftaran $60.000 hingga $74.999	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|$|60.000|hingga|$|74.999	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|$|60.000|hingga|$|74.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||||||$60.0|$60.0||$74.999|$74.999	60.0		74.999		
+27	1	fb:cell_memperoleh_sertifikat.0_44	0.44	0.44	0.44	CD	NUMBER	0.44	0.44				
+27	2	fb:cell_melanjutkan_programnya.0_261	0.261	0.261	0.261	CD	NUMBER	0.261	0.261				
+27	3	fb:cell_menghentikan_program_tersebut.0_299	0.299	0.299	0.299	CD	NUMBER	0.299	0.299				
+28	0	fb:cell_kharakteristik.prediksi_probabilitas_pendapatan_kerja_pada_tahun_pendaftaran_75_000_atau_lebih	prediksi probabilitas pendapatan kerja pada tahun pendaftaran $75.000 atau lebih	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|$|75.000|atau|lebih	prediksi|probabilitas|pendapatan|kerja|pada|tahun|pendaftaran|$|75.000|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|NN	O|O|O|O|O|O|O|MONEY|MONEY|O|O	|||||||$75.0|$75.0||	75.0				
+28	1	fb:cell_memperoleh_sertifikat.0_401	0.401	0.401	0.401	CD	NUMBER	0.401	0.401				
+28	2	fb:cell_melanjutkan_programnya.0_269	0.269	0.269	0.269	CD	NUMBER	0.269	0.269				
+28	3	fb:cell_menghentikan_program_tersebut.0_33	0.33	0.33	0.33	CD	NUMBER	0.33	0.33				
+29	0	fb:cell_kharakteristik.prediksi_probabilitas_keanggotaan_serikat_pekerja_pada_tahun_pendaftaran	prediksi probabilitas keanggotaan serikat pekerja pada tahun pendaftaran	prediksi|probabilitas|keanggotaan|serikat|pekerja|pada|tahun|pendaftaran	prediksi|probabilitas|keanggotaan|serikat|pekerja|pada|tahun|pendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+29	1	fb:cell_memperoleh_sertifikat.null											
+29	2	fb:cell_melanjutkan_programnya.null											
+29	3	fb:cell_menghentikan_program_tersebut.null											
+30	0	fb:cell_kharakteristik.prediksi_probabilitas_keanggotaan_serikat_pekerja_pada_tahun_pendaftaran_no	prediksi probabilitas keanggotaan serikat pekerja pada tahun pendaftaran no	prediksi|probabilitas|keanggotaan|serikat|pekerja|pada|tahun|pendaftaran|no	prediksi|probabilitas|keanggotaan|serikat|pekerja|pada|tahun|pendaftaran|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O	||||||||					
+30	1	fb:cell_memperoleh_sertifikat.0_361	0.361	0.361	0.361	CD	NUMBER	0.361	0.361				
+30	2	fb:cell_melanjutkan_programnya.0_293	0.293	0.293	0.293	CD	NUMBER	0.293	0.293				
+30	3	fb:cell_menghentikan_program_tersebut.0_346	0.346	0.346	0.346	CD	NUMBER	0.346	0.346				
+31	0	fb:cell_kharakteristik.prediksi_probabilitas_keanggotaan_serikat_pekerja_pada_tahun_pendaftaran_ya	prediksi probabilitas keanggotaan serikat pekerja pada tahun pendaftaran ya	prediksi|probabilitas|keanggotaan|serikat|pekerja|pada|tahun|pendaftaran|ya	prediksi|probabilitas|keanggotaan|serikat|pekerja|pada|tahun|pendaftaran|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O	||||||||					
+31	1	fb:cell_memperoleh_sertifikat.0_367	0.367	0.367	0.367	CD	NUMBER	0.367	0.367				
+31	2	fb:cell_melanjutkan_programnya.0_321	0.321	0.321	0.321	CD	NUMBER	0.321	0.321				
+31	3	fb:cell_menghentikan_program_tersebut.0_312	0.312	0.312	0.312	CD	NUMBER	0.312	0.312				
+32	0	fb:cell_kharakteristik.probabilitas_yang_diprediksi_memiliki_program_pensiun_terdaftar_pada_tahun_pendaftaran	probabilitas yang diprediksi memiliki program pensiun terdaftar pada tahun pendaftaran	probabilitas|yang|diprediksi|memiliki|program|pensiun|terdaftar|pada|tahun|pendaftaran	probabilitas|yang|diprediksi|memiliki|program|pensiun|terdaftar|pada|tahun|pendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+32	1	fb:cell_memperoleh_sertifikat.null											
+32	2	fb:cell_melanjutkan_programnya.null											
+32	3	fb:cell_menghentikan_program_tersebut.null											
+33	0	fb:cell_kharakteristik.prediksi_probabilitas_memiliki_program_pensiun_terdaftar_pada_tahun_pendaftaran_no	prediksi probabilitas memiliki program pensiun terdaftar pada tahun pendaftaran no	prediksi|probabilitas|memiliki|program|pensiun|terdaftar|pada|tahun|pendaftaran|no	prediksi|probabilitas|memiliki|program|pensiun|terdaftar|pada|tahun|pendaftaran|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O	|||||||||					
+33	1	fb:cell_memperoleh_sertifikat.0_359	0.359	0.359	0.359	CD	NUMBER	0.359	0.359				
+33	2	fb:cell_melanjutkan_programnya.0_308	0.308	0.308	0.308	CD	NUMBER	0.308	0.308				
+33	3	fb:cell_menghentikan_program_tersebut.0_333	0.333	0.333	0.333	CD	NUMBER	0.333	0.333				
+34	0	fb:cell_kharakteristik.prediksi_kemungkinan_memiliki_program_pensiun_terdaftar_pada_tahun_pendaftaran_ya	prediksi kemungkinan memiliki program pensiun terdaftar pada tahun pendaftaran ya	prediksi|kemungkinan|memiliki|program|pensiun|terdaftar|pada|tahun|pendaftaran|ya	prediksi|kemungkinan|memiliki|program|pensiun|terdaftar|pada|tahun|pendaftaran|ya	NN|NN|NN|NN|NN|NN|NN|NN|NN|PRP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+34	1	fb:cell_memperoleh_sertifikat.0_375	0.375	0.375	0.375	CD	NUMBER	0.375	0.375				
+34	2	fb:cell_melanjutkan_programnya.0_295	0.295	0.295	0.295	CD	NUMBER	0.295	0.295				
+34	3	fb:cell_menghentikan_program_tersebut.0_329	0.329	0.329	0.329	CD	NUMBER	0.329	0.329				
+35	0	fb:cell_kharakteristik.prediksi_probabilitas_menerima_manfaat_asuransi_ketenagakerjaan_pada_tahun_pendaftaran	prediksi probabilitas menerima manfaat asuransi ketenagakerjaan pada tahun pendaftaran	prediksi|probabilitas|menerima|manfaat|asuransi|ketenagakerjaan|pada|tahun|pendaftaran	prediksi|probabilitas|menerima|manfaat|asuransi|ketenagakerjaan|pada|tahun|pendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+35	1	fb:cell_memperoleh_sertifikat.null											
+35	2	fb:cell_melanjutkan_programnya.null											
+35	3	fb:cell_menghentikan_program_tersebut.null											
+36	0	fb:cell_kharakteristik.prediksi_probabilitas_menerima_manfaat_asuransi_ketenagakerjaan_pada_tahun_pendaftaran_no	prediksi probabilitas menerima manfaat asuransi ketenagakerjaan pada tahun pendaftaran no	prediksi|probabilitas|menerima|manfaat|asuransi|ketenagakerjaan|pada|tahun|pendaftaran|no	prediksi|probabilitas|menerima|manfaat|asuransi|ketenagakerjaan|pada|tahun|pendaftaran|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O	|||||||||					
+36	1	fb:cell_memperoleh_sertifikat.0_36	0.36	0.36	0.36	CD	NUMBER	0.36	0.36				
+36	2	fb:cell_melanjutkan_programnya.0_304	0.304	0.304	0.304	CD	NUMBER	0.304	0.304				
+36	3	fb:cell_menghentikan_program_tersebut.0_336	0.336	0.336	0.336	CD	NUMBER	0.336	0.336				
+37	0	fb:cell_kharakteristik.prediksi_probabilitas_menerima_manfaat_asuransi_ketenagakerjaan_pada_tahun_pendaftaran_ya	prediksi probabilitas menerima manfaat asuransi ketenagakerjaan pada tahun pendaftaran ya	prediksi|probabilitas|menerima|manfaat|asuransi|ketenagakerjaan|pada|tahun|pendaftaran|ya	prediksi|probabilitas|menerima|manfaat|asuransi|ketenagakerjaan|pada|tahun|pendaftaran|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+37	1	fb:cell_memperoleh_sertifikat.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+37	2	fb:cell_melanjutkan_programnya.0_306	0.306	0.306	0.306	CD	NUMBER	0.306	0.306				
+37	3	fb:cell_menghentikan_program_tersebut.0_325	0.325	0.325	0.325	CD	NUMBER	0.325	0.325				
+38	0	fb:cell_kharakteristik.prediksi_probabilitas_status_berpendapatan_rendah_setelah_pajak_pada_tahun_pendaftaran	prediksi probabilitas status berpendapatan rendah setelah pajak pada tahun pendaftaran	prediksi|probabilitas|status|berpendapatan|rendah|setelah|pajak|pada|tahun|pendaftaran	prediksi|probabilitas|status|berpendapatan|rendah|setelah|pajak|pada|tahun|pendaftaran	NNP|NNP|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+38	1	fb:cell_memperoleh_sertifikat.null											
+38	2	fb:cell_melanjutkan_programnya.null											
+38	3	fb:cell_menghentikan_program_tersebut.null											
+39	0	fb:cell_kharakteristik.prediksi_probabilitas_status_berpendapatan_rendah_setelah_pajak_pada_tahun_pendaftaran_bukan_pada_berpendapatan_rendah	prediksi probabilitas status berpendapatan rendah setelah pajak pada tahun pendaftaran bukan pada berpendapatan rendah	prediksi|probabilitas|status|berpendapatan|rendah|setelah|pajak|pada|tahun|pendaftaran|bukan|pada|berpendapatan|rendah	prediksi|probabilitas|status|berpendapatan|rendah|setelah|pajak|pada|tahun|pendaftaran|bukan|pada|berpendapatan|rendah	NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+39	1	fb:cell_memperoleh_sertifikat.0_366	0.366	0.366	0.366	CD	NUMBER	0.366	0.366				
+39	2	fb:cell_melanjutkan_programnya.0_305	0.305	0.305	0.305	CD	NUMBER	0.305	0.305				
+39	3	fb:cell_menghentikan_program_tersebut.0_329	0.329	0.329	0.329	CD	NUMBER	0.329	0.329				
+40	0	fb:cell_kharakteristik.prediksi_probabilitas_status_berpendapatan_rendah_setelah_pajak_pada_tahun_pendaftaran_dalam_berpendapatan_rendah	prediksi probabilitas status berpendapatan rendah setelah pajak pada tahun pendaftaran dalam berpendapatan rendah	prediksi|probabilitas|status|berpendapatan|rendah|setelah|pajak|pada|tahun|pendaftaran|dalam|berpendapatan|rendah	prediksi|probabilitas|status|berpendapatan|rendah|setelah|pajak|pada|tahun|pendaftaran|dalam|berpendapatan|rendah	NNP|NNP|NN|NN|NN|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+40	1	fb:cell_memperoleh_sertifikat.0_306	0.306	0.306	0.306	CD	NUMBER	0.306	0.306				
+40	2	fb:cell_melanjutkan_programnya.0_316	0.316	0.316	0.316	CD	NUMBER	0.316	0.316				
+40	3	fb:cell_menghentikan_program_tersebut.0_378	0.378	0.378	0.378	CD	NUMBER	0.378	0.378				
+41	0	fb:cell_kharakteristik.prediksi_probabilitas_jumlah_industri_yang_bekerja_pada_tahun_pendaftaran	prediksi probabilitas jumlah industri yang bekerja pada tahun pendaftaran	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|tahun|pendaftaran	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|tahun|pendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+41	1	fb:cell_memperoleh_sertifikat.null											
+41	2	fb:cell_melanjutkan_programnya.null											
+41	3	fb:cell_menghentikan_program_tersebut.null											
+42	0	fb:cell_kharakteristik.prediksi_probabilitas_jumlah_industri_yang_bekerja_pada_tahun_pendaftaran_pertama	prediksi probabilitas jumlah industri yang bekerja pada tahun pendaftaran pertama	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|tahun|pendaftaran|pertama	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|tahun|pendaftaran|pertama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+42	1	fb:cell_memperoleh_sertifikat.0_392	0.392	0.392	0.392	CD	NUMBER	0.392	0.392				
+42	2	fb:cell_melanjutkan_programnya.0_315	0.315	0.315	0.315	CD	NUMBER	0.315	0.315				
+42	3	fb:cell_menghentikan_program_tersebut.0_293	0.293	0.293	0.293	CD	NUMBER	0.293	0.293				
+43	0	fb:cell_kharakteristik.prediksi_probabilitas_jumlah_industri_yang_bekerja_pada_pendaftaran_tahun_kedua	prediksi probabilitas jumlah industri yang bekerja pada pendaftaran tahun kedua	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|pendaftaran|tahun|kedua	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|pendaftaran|tahun|kedua	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+43	1	fb:cell_memperoleh_sertifikat.0_355	0.355	0.355	0.355	CD	NUMBER	0.355	0.355				
+43	2	fb:cell_melanjutkan_programnya.0_298	0.298	0.298	0.298	CD	NUMBER	0.298	0.298				
+43	3	fb:cell_menghentikan_program_tersebut.0_347	0.347	0.347	0.347	CD	NUMBER	0.347	0.347				
+44	0	fb:cell_kharakteristik.prediksi_probabilitas_jumlah_industri_yang_bekerja_pada_tahun_pendaftaran_ketiga_atau_lebih	prediksi probabilitas jumlah industri yang bekerja pada tahun pendaftaran ketiga atau lebih	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|tahun|pendaftaran|ketiga|atau|lebih	prediksi|probabilitas|jumlah|industri|yang|bekerja|pada|tahun|pendaftaran|ketiga|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+44	1	fb:cell_memperoleh_sertifikat.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+44	2	fb:cell_melanjutkan_programnya.0_285	0.285	0.285	0.285	CD	NUMBER	0.285	0.285				
+44	3	fb:cell_menghentikan_program_tersebut.0_415	0.415	0.415	0.415	CD	NUMBER	0.415	0.415				
+45	0	fb:cell_kharakteristik.prediksi_probabilitas_bekerja_di_salah_satu_dari_tiga_sektor_yang_paling_umum_pada_tahun_pendaftaran	prediksi probabilitas bekerja di salah satu dari tiga sektor yang paling umum pada tahun pendaftaran	prediksi|probabilitas|bekerja|di|salah|satu|dari|tiga|sektor|yang|paling|umum|pada|tahun|pendaftaran	prediksi|probabilitas|bekerja|di|salah|satu|dari|tiga|sektor|yang|pale|umum|pada|tahun|pendaftaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|VBG|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+45	1	fb:cell_memperoleh_sertifikat.null											
+45	2	fb:cell_melanjutkan_programnya.null											
+45	3	fb:cell_menghentikan_program_tersebut.null											
+46	0	fb:cell_kharakteristik.prediksi_probabilitas_bekerja_di_salah_satu_dari_tiga_sektor_yang_paling_umum_pada_tahun_pendaftaran_no	prediksi probabilitas bekerja di salah satu dari tiga sektor yang paling umum pada tahun pendaftaran no	prediksi|probabilitas|bekerja|di|salah|satu|dari|tiga|sektor|yang|paling|umum|pada|tahun|pendaftaran|no	prediksi|probabilitas|bekerja|di|salah|satu|dari|tiga|sektor|yang|pale|umum|pada|tahun|pendaftaran|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|VBG|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+46	1	fb:cell_memperoleh_sertifikat.0_315	0.315	0.315	0.315	CD	NUMBER	0.315	0.315				
+46	2	fb:cell_melanjutkan_programnya.0_304	0.304	0.304	0.304	CD	NUMBER	0.304	0.304				
+46	3	fb:cell_menghentikan_program_tersebut.0_381	0.381	0.381	0.381	CD	NUMBER	0.381	0.381				
+47	0	fb:cell_kharakteristik.prediksi_probabilitas_bekerja_di_salah_satu_dari_tiga_sektor_yang_paling_umum_pada_tahun_pendaftaran_ya	prediksi probabilitas bekerja di salah satu dari tiga sektor yang paling umum pada tahun pendaftaran ya	prediksi|probabilitas|bekerja|di|salah|satu|dari|tiga|sektor|yang|paling|umum|pada|tahun|pendaftaran|ya	prediksi|probabilitas|bekerja|di|salah|satu|dari|tiga|sektor|yang|pale|umum|pada|tahun|pendaftaran|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|VBG|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+47	1	fb:cell_memperoleh_sertifikat.0_382	0.382	0.382	0.382	CD	NUMBER	0.382	0.382				
+47	2	fb:cell_melanjutkan_programnya.0_305	0.305	0.305	0.305	CD	NUMBER	0.305	0.305				
+47	3	fb:cell_menghentikan_program_tersebut.0_313	0.313	0.313	0.313	CD	NUMBER	0.313	0.313				
+48	0	fb:cell_kharakteristik.prediksi_probabilitas_dukungan_segel_merah_dan_jenis_sertifikasi	prediksi probabilitas dukungan segel merah dan jenis sertifikasi	prediksi|probabilitas|dukungan|segel|merah|dan|jenis|sertifikasi	prediksi|probabilitas|dukungan|segel|merah|dan|jenis|sertifikasi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+48	1	fb:cell_memperoleh_sertifikat.null											
+48	2	fb:cell_melanjutkan_programnya.null											
+48	3	fb:cell_menghentikan_program_tersebut.null											
+49	0	fb:cell_kharakteristik.prediksi_probabilitas_pengesahan_segel_merah_dan_jenis_sertifikasi_perdagangan_segel_merah_wajib	prediksi probabilitas pengesahan segel merah dan jenis sertifikasi perdagangan segel merah wajib	prediksi|probabilitas|pengesahan|segel|merah|dan|jenis|sertifikasi|perdagangan|segel|merah|wajib	prediksi|probabilitas|pengesahan|segel|merah|dan|jenis|sertifikasi|perdagangan|segel|merah|wajib	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+49	1	fb:cell_memperoleh_sertifikat.0_394	0.394	0.394	0.394	CD	NUMBER	0.394	0.394				
+49	2	fb:cell_melanjutkan_programnya.0_304	0.304	0.304	0.304	CD	NUMBER	0.304	0.304				
+49	3	fb:cell_menghentikan_program_tersebut.0_302	0.302	0.302	0.302	CD	NUMBER	0.302	0.302				
+50	0	fb:cell_kharakteristik.prediksi_probabilitas_dukungan_segel_merah_dan_jenis_sertifikasi_perdagangan_segel_merah_sukarela	prediksi probabilitas dukungan segel merah dan jenis sertifikasi perdagangan segel merah sukarela	prediksi|probabilitas|dukungan|segel|merah|dan|jenis|sertifikasi|perdagangan|segel|merah|sukarela	prediksi|probabilitas|dukungan|segel|merah|dan|jenis|sertifikasi|perdagangan|segel|merah|sukarela	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+50	1	fb:cell_memperoleh_sertifikat.0_347	0.347	0.347	0.347	CD	NUMBER	0.347	0.347				
+50	2	fb:cell_melanjutkan_programnya.0_314	0.314	0.314	0.314	CD	NUMBER	0.314	0.314				
+50	3	fb:cell_menghentikan_program_tersebut.0_34	0.34	0.34	0.34	CD	NUMBER	0.34	0.34				
+51	0	fb:cell_kharakteristik.prediksi_probabilitas_pengesahan_segel_merah_dan_jenis_sertifikasi_perdagangan_wajib_segel_non_merah	prediksi probabilitas pengesahan segel merah dan jenis sertifikasi perdagangan wajib segel non-merah	prediksi|probabilitas|pengesahan|segel|merah|dan|jenis|sertifikasi|perdagangan|wajib|segel|non|merah	prediksi|probabilitas|pengesahan|segel|merah|dan|jenis|sertifikasi|perdagangan|wajib|segel|non|merah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+51	1	fb:cell_memperoleh_sertifikat.0_29	0.29	0.29	0.29	CD	NUMBER	0.29	0.29				
+51	2	fb:cell_melanjutkan_programnya.0_388	0.388	0.388	0.388	CD	NUMBER	0.388	0.388				
+51	3	fb:cell_menghentikan_program_tersebut.0_322	0.322	0.322	0.322	CD	NUMBER	0.322	0.322				
+52	0	fb:cell_kharakteristik.prediksi_probabilitas_dukungan_segel_merah_dan_jenis_sertifikasi_perdagangan_sukarela_non_segel_merah	prediksi probabilitas dukungan segel merah dan jenis sertifikasi perdagangan sukarela non-segel merah	prediksi|probabilitas|dukungan|segel|merah|dan|jenis|sertifikasi|perdagangan|sukarela|non|segel|merah	prediksi|probabilitas|dukungan|segel|merah|dan|jenis|sertifikasi|perdagangan|sukarela|non|segel|merah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+52	1	fb:cell_memperoleh_sertifikat.0_34	0.34	0.34	0.34	CD	NUMBER	0.34	0.34				
+52	2	fb:cell_melanjutkan_programnya.0_271	0.271	0.271	0.271	CD	NUMBER	0.271	0.271				
+52	3	fb:cell_menghentikan_program_tersebut.0_39	0.39	0.39	0.39	CD	NUMBER	0.39	0.39				
+53	0	fb:cell_kharakteristik.durasi_program_probabilitas_yang_diprediksi	durasi program probabilitas yang diprediksi	durasi|program|probabilitas|yang|diprediksi	durasi|program|probabilitas|yang|diprediksi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+53	1	fb:cell_memperoleh_sertifikat.null											
+53	2	fb:cell_melanjutkan_programnya.null											
+53	3	fb:cell_menghentikan_program_tersebut.null											
+54	0	fb:cell_kharakteristik.prediksi_probabilitas_durasi_program_satu_tahun	prediksi probabilitas durasi program satu tahun	prediksi|probabilitas|durasi|program|satu|tahun	prediksi|probabilitas|durasi|program|satu|tahun	NNP|NNP|NNP|NN|FW|FW	O|O|O|O|O|O	|||||					
+54	1	fb:cell_memperoleh_sertifikat.0_339	0.339	0.339	0.339	CD	NUMBER	0.339	0.339				
+54	2	fb:cell_melanjutkan_programnya.0_529	0.529	0.529	0.529	CD	NUMBER	0.529	0.529				
+54	3	fb:cell_menghentikan_program_tersebut.0_131	0.131	0.131	0.131	CD	NUMBER	0.131	0.131				
+55	0	fb:cell_kharakteristik.prediksi_probabilitas_durasi_program_dua_tahun	prediksi probabilitas durasi program dua tahun	prediksi|probabilitas|durasi|program|dua|tahun	prediksi|probabilitas|durasi|program|dua|tahun	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+55	1	fb:cell_memperoleh_sertifikat.0_302	0.302	0.302	0.302	CD	NUMBER	0.302	0.302				
+55	2	fb:cell_melanjutkan_programnya.0_465	0.465	0.465	0.465	CD	NUMBER	0.465	0.465				
+55	3	fb:cell_menghentikan_program_tersebut.0_233	0.233	0.233	0.233	CD	NUMBER	0.233	0.233				
+56	0	fb:cell_kharakteristik.prediksi_probabilitas_durasi_program_tiga_tahun	prediksi probabilitas durasi program tiga tahun	prediksi|probabilitas|durasi|program|tiga|tahun	prediksi|probabilitas|durasi|program|tiga|tahun	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+56	1	fb:cell_memperoleh_sertifikat.0_315	0.315	0.315	0.315	CD	NUMBER	0.315	0.315				
+56	2	fb:cell_melanjutkan_programnya.0_282	0.282	0.282	0.282	CD	NUMBER	0.282	0.282				
+56	3	fb:cell_menghentikan_program_tersebut.0_403	0.403	0.403	0.403	CD	NUMBER	0.403	0.403				
+57	0	fb:cell_kharakteristik.prediksi_probabilitas_durasi_program_empat_tahun	prediksi probabilitas durasi program empat tahun	prediksi|probabilitas|durasi|program|empat|tahun	prediksi|probabilitas|durasi|program|empat|tahun	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+57	1	fb:cell_memperoleh_sertifikat.0_392	0.392	0.392	0.392	CD	NUMBER	0.392	0.392				
+57	2	fb:cell_melanjutkan_programnya.0_213	0.213	0.213	0.213	CD	NUMBER	0.213	0.213				
+57	3	fb:cell_menghentikan_program_tersebut.0_395	0.395	0.395	0.395	CD	NUMBER	0.395	0.395				
+58	0	fb:cell_kharakteristik.prediksi_probabilitas_durasi_program_lima_tahun	prediksi probabilitas durasi program lima tahun	prediksi|probabilitas|durasi|program|lima|tahun	prediksi|probabilitas|durasi|program|lima|tahun	NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O	|||||					
+58	1	fb:cell_memperoleh_sertifikat.0_425	0.425	0.425	0.425	CD	NUMBER	0.425	0.425				
+58	2	fb:cell_melanjutkan_programnya.0_073	0.073	0.073	0.073	CD	NUMBER	0.073	0.073				
+58	3	fb:cell_menghentikan_program_tersebut.0_502	0.502	0.502	0.502	CD	NUMBER	0.502	0.502				

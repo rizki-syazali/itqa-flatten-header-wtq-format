@@ -1,0 +1,113 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pemilik	pemilik	pemilik	pemilik	NNP	O						
+-1	2	fb:row.row.penyewa_di_perumahan_sosial_dan_terjangkau	penyewa di perumahan sosial dan terjangkau	penyewa|di|perumahan|sosial|dan|terjangkau	penyewa|di|perumahan|sosial|dan|terjangkau	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	3	fb:row.row.penyewa_tidak_di_perumahan_sosial_dan_terjangkau	penyewa tidak di perumahan sosial dan terjangkau	penyewa|tidak|di|perumahan|sosial|dan|terjangkau	penyewa|tidak|di|perumahan|sosial|dan|terjangkau	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.tipe_rumah_tangga_rumah_tangga	tipe rumah tangga rumah tangga	tipe|rumah|tangga|rumah|tangga	tipe|rumah|tangga|rumah|tangga	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+0	1	fb:cell_pemilik.null											
+0	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.null											
+0	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.null											
+1	0	fb:cell_kharakteristik.rumah_tangga_tipe_rumah_tangga_satu_pasangan_rumah_tangga_dengan_anak	rumah tangga tipe rumah tangga satu pasangan rumah tangga dengan anak	rumah|tangga|tipe|rumah|tangga|satu|pasangan|rumah|tangga|dengan|anak	rumah|tangga|tipe|rumah|tangga|satu|pasangan|rumah|tangga|dengan|anak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+1	1	fb:cell_pemilik.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+1	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+1	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.16_5	16.5	16.5	16.5	CD	NUMBER	16.5	16.5				
+2	0	fb:cell_kharakteristik.rumah_tangga_tipe_rumah_tangga_satu_pasangan_rumah_tangga_tanpa_anak	rumah tangga tipe rumah tangga satu pasangan rumah tangga tanpa anak	rumah|tangga|tipe|rumah|tangga|satu|pasangan|rumah|tangga|tanpa|anak	rumah|tangga|tipe|rumah|tangga|satu|pasangan|rumah|tangga|tanpa|anak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+2	1	fb:cell_pemilik.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+2	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+2	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+3	0	fb:cell_kharakteristik.rumah_tangga_tipe_rumah_tangga_dengan_satu_rumah_tangga_dengan_orang_tua_tunggal	rumah tangga tipe rumah tangga dengan satu rumah tangga dengan orang tua tunggal	rumah|tangga|tipe|rumah|tangga|dengan|satu|rumah|tangga|dengan|orang|tua|tunggal	rumah|tangga|tipe|rumah|tangga|dengan|satu|rumah|tangga|dengan|orang|tua|tunggal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+3	1	fb:cell_pemilik.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+3	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+4	0	fb:cell_kharakteristik.rumah_tangga_tipe_rumah_tangga_satu_orang_rumah_tangga	rumah tangga tipe rumah tangga satu orang rumah tangga	rumah|tangga|tipe|rumah|tangga|satu|orang|rumah|tangga	rumah|tangga|tipe|rumah|tangga|satu|orang|rumah|tangga	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+4	1	fb:cell_pemilik.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+4	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+4	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+5	0	fb:cell_kharakteristik.rumah_tangga_tipe_rumah_tangga_tipe_rumah_tangga_lainnya	rumah tangga tipe rumah tangga tipe rumah tangga lainnya	rumah|tangga|tipe|rumah|tangga|tipe|rumah|tangga|lainnya	rumah|tangga|tipe|rumah|tangga|tipe|rumah|tangga|lainnya	NN|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+5	1	fb:cell_pemilik.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+5	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+5	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+6	0	fb:cell_kharakteristik.ukuran_rumah_tangga_rumah_tangga	ukuran rumah tangga rumah tangga	ukuran|rumah|tangga|rumah|tangga	ukuran|rumah|tangga|rumah|tangga	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+6	1	fb:cell_pemilik.null											
+6	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.null											
+6	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.null											
+7	0	fb:cell_kharakteristik.rumah_tangga_ukuran_rumah_tangga_1	rumah tangga ukuran rumah tangga 1	rumah|tangga|ukuran|rumah|tangga|1	rumah|tangga|ukuran|rumah|tangga|1	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||1.0	1.0				
+7	1	fb:cell_pemilik.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+7	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+7	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+8	0	fb:cell_kharakteristik.rumah_tangga_ukuran_rumah_tangga_2	rumah tangga ukuran rumah tangga 2	rumah|tangga|ukuran|rumah|tangga|2	rumah|tangga|ukuran|rumah|tangga|2	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||2.0	2.0				
+8	1	fb:cell_pemilik.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+8	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+8	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+9	0	fb:cell_kharakteristik.rumah_tangga_ukuran_rumah_tangga_3	rumah tangga ukuran rumah tangga 3	rumah|tangga|ukuran|rumah|tangga|3	rumah|tangga|ukuran|rumah|tangga|3	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||3.0	3.0				
+9	1	fb:cell_pemilik.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+9	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+9	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+10	0	fb:cell_kharakteristik.rumah_tangga_ukuran_rumah_tangga_4	rumah tangga ukuran rumah tangga 4	rumah|tangga|ukuran|rumah|tangga|4	rumah|tangga|ukuran|rumah|tangga|4	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||4.0	4.0				
+10	1	fb:cell_pemilik.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+10	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+10	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+11	0	fb:cell_kharakteristik.rumah_tangga_ukuran_rumah_tangga_5	rumah tangga ukuran rumah tangga 5	rumah|tangga|ukuran|rumah|tangga|5	rumah|tangga|ukuran|rumah|tangga|5	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||5.0	5.0				
+11	1	fb:cell_pemilik.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+11	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+11	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+12	0	fb:cell_kharakteristik.tipe_hunian_struktural_rumah_tangga	tipe hunian struktural rumah tangga	tipe|hunian|struktural|rumah|tangga	tipe|hunian|struktural|rumah|tangga	NN|JJ|JJ|NN|NN	O|O|O|O|O	||||					
+12	1	fb:cell_pemilik.null											
+12	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.null											
+12	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.null											
+13	0	fb:cell_kharakteristik.rumah_tangga_tipe_struktural_tempat_tinggal_rumah_terpisah_tunggal	rumah tangga tipe struktural tempat tinggal rumah terpisah tunggal	rumah|tangga|tipe|struktural|tempat|tinggal|rumah|terpisah|tunggal	rumah|tangga|tipe|struktural|tempat|tinggal|rumah|terpisah|tunggal	NN|NN|NN|JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+13	1	fb:cell_pemilik.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+13	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+13	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+14	0	fb:cell_kharakteristik.rumah_tangga_tipe_struktural_hunian_semi_terpisah	rumah tangga tipe struktural hunian semi-terpisah	rumah|tangga|tipe|struktural|hunian|semi|terpisah	rumah|tangga|tipe|struktural|hunian|semi|terpisah	NN|NN|NN|JJ|JJ|NN|NN	O|O|O|O|O|O|O	||||||					
+14	1	fb:cell_pemilik.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+14	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+14	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+15	0	fb:cell_kharakteristik.tipe_struktural_rumah_tangga_rumah_petak_tempat_tinggal	tipe struktural rumah tangga rumah petak tempat tinggal	tipe|struktural|rumah|tangga|rumah|petak|tempat|tinggal	tipe|struktural|rumah|tangga|rumah|petak|tempat|tinggal	NN|JJ|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+15	1	fb:cell_pemilik.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+15	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+15	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+16	0	fb:cell_kharakteristik.tipe_struktural_rumah_tangga_dari_hunian_apartemen_bertingkat_tinggi	tipe struktural rumah tangga dari hunian apartemen bertingkat tinggi	tipe|struktural|rumah|tangga|dari|hunian|apartemen|bertingkat|tinggi	tipe|struktural|rumah|tangga|dari|hunian|apartemen|bertingkat|tinggi	NN|JJ|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+16	1	fb:cell_pemilik.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+16	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+16	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+17	0	fb:cell_kharakteristik.rumah_tangga_tipe_struktural_hunian_apartemen_bertingkat_rendah	rumah tangga tipe struktural hunian apartemen bertingkat rendah	rumah|tangga|tipe|struktural|hunian|apartemen|bertingkat|rendah	rumah|tangga|tipe|struktural|hunian|apartemen|bertingkat|rendah	NN|NN|NN|JJ|JJ|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+17	1	fb:cell_pemilik.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+17	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+17	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+18	0	fb:cell_kharakteristik.jumlah_kamar_tidur_rumah_tangga	jumlah kamar tidur rumah tangga	jumlah|kamar|tidur|rumah|tangga	jumlah|kamar|tidur|rumah|tangga	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+18	1	fb:cell_pemilik.null											
+18	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.null											
+18	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.null											
+19	0	fb:cell_kharakteristik.jumlah_rumah_tangga_dengan_kamar_tidur_0_atau_1	jumlah rumah tangga dengan kamar tidur 0 atau 1	jumlah|rumah|tangga|dengan|kamar|tidur|0|atau|1	jumlah|rumah|tangga|dengan|kamar|tidur|0|atau|1	NN|NN|NN|NN|NN|NN|CD|NN|CD	O|O|O|O|O|O|NUMBER|O|NUMBER	||||||0.0||1.0	0.0		1.0		
+19	1	fb:cell_pemilik.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+19	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+19	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+20	0	fb:cell_kharakteristik.jumlah_rumah_tangga_kamar_tidur_2	jumlah rumah tangga kamar tidur 2	jumlah|rumah|tangga|kamar|tidur|2	jumlah|rumah|tangga|kamar|tidur|2	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||2.0	2.0				
+20	1	fb:cell_pemilik.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+20	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+20	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+21	0	fb:cell_kharakteristik.jumlah_rumah_tangga_yang_memiliki_kamar_tidur_3	jumlah rumah tangga yang memiliki kamar tidur 3	jumlah|rumah|tangga|yang|memiliki|kamar|tidur|3	jumlah|rumah|tangga|yang|memiliki|kamar|tidur|3	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|NUMBER	|||||||3.0	3.0				
+21	1	fb:cell_pemilik.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+21	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.17_5	17.5	17.5	17.5	CD	NUMBER	17.5	17.5				
+21	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+22	0	fb:cell_kharakteristik.jumlah_kamar_tidur_rumah_tangga_4	jumlah kamar tidur rumah tangga 4	jumlah|kamar|tidur|rumah|tangga|4	jumlah|kamar|tidur|rumah|tangga|4	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|NUMBER	|||||4.0	4.0				
+22	1	fb:cell_pemilik.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+22	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+22	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+23	0	fb:cell_kharakteristik.adaptasi_aksesibilitas_tempat_tinggal_rumah_tangga	adaptasi aksesibilitas tempat tinggal rumah tangga	adaptasi|aksesibilitas|tempat|tinggal|rumah|tangga	adaptasi|aksesibilitas|tempat|tinggal|rumah|tangga	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+23	1	fb:cell_pemilik.null											
+23	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.null											
+23	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.null											
+24	0	fb:cell_kharakteristik.adaptasi_aksesibilitas_rumah_tangga_adaptasi_aksesibilitas_kebutuhan_terpenuhi	adaptasi aksesibilitas rumah tangga adaptasi aksesibilitas - kebutuhan terpenuhi	adaptasi|aksesibilitas|rumah|tangga|adaptasi|aksesibilitas|-|kebutuhan|terpenuhi	adaptasi|aksesibilitas|rumah|tangga|adaptasi|aksesibilitas|-|kebutuhan|terpenuhi	NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+24	1	fb:cell_pemilik.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+24	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+24	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+25	0	fb:cell_kharakteristik.adaptasi_aksesibilitas_rumah_tangga_adaptasi_aksesibilitas_kebutuhan_tidak_terpenuhi	adaptasi aksesibilitas rumah tangga adaptasi aksesibilitas - kebutuhan tidak terpenuhi	adaptasi|aksesibilitas|rumah|tangga|adaptasi|aksesibilitas|-|kebutuhan|tidak|terpenuhi	adaptasi|aksesibilitas|rumah|tangga|adaptasi|aksesibilitas|-|kebutuhan|tidak|terpenuhi	NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+25	1	fb:cell_pemilik.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+25	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+25	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+26	0	fb:cell_kharakteristik.adaptasi_aksesibilitas_rumah_tangga_adaptasi_aksesibilitas_tidak_diperlukan	adaptasi aksesibilitas rumah tangga adaptasi aksesibilitas tidak diperlukan	adaptasi|aksesibilitas|rumah|tangga|adaptasi|aksesibilitas|tidak|diperlukan	adaptasi|aksesibilitas|rumah|tangga|adaptasi|aksesibilitas|tidak|diperlukan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+26	1	fb:cell_pemilik.93_1	93.1	93.1	93.1	CD	NUMBER	93.1	93.1				
+26	2	fb:cell_penyewa_di_perumahan_sosial_dan_terjangkau.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+26	3	fb:cell_penyewa_tidak_di_perumahan_sosial_dan_terjangkau.93_8	93.8	93.8	93.8	CD	NUMBER	93.8	93.8				

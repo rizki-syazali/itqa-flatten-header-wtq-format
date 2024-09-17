@@ -1,0 +1,178 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pemuda_kulit_hitam	pemuda kulit hitam	pemuda|kulit|hitam	pemuda|kulit|hitam	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.pemuda_lainnya	pemuda lainnya	pemuda|lainnya	pemuda|lainnya	NNP|NNP	O|O	|					
+0	0	fb:cell_kharakteristik.persen_tempat_lahir	persen tempat lahir	persen|tempat|lahir	persen|tempat|lahir	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_pemuda_kulit_hitam.null											
+0	2	fb:cell_pemuda_lainnya.null											
+1	0	fb:cell_kharakteristik.persen_tempat_lahir_kanada	persen tempat lahir Kanada	persen|tempat|lahir|kanada	persen|tempat|lahir|Kanada	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_pemuda_kulit_hitam.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+1	2	fb:cell_pemuda_lainnya.92_0	92.0	92.0	92.0	CD	NUMBER	92.0	92.0				
+2	0	fb:cell_kharakteristik.persen_tempat_lahir_negara_lain	persen tempat lahir negara lain	persen|tempat|lahir|negara|lain	persen|tempat|lahir|negara|lain	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_pemuda_kulit_hitam.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+2	2	fb:cell_pemuda_lainnya.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+3	0	fb:cell_kharakteristik.persen_tempat_lahir_orang_tua	persen tempat lahir orang tua	persen|tempat|lahir|orang|tua	persen|tempat|lahir|orang|tua	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+3	1	fb:cell_pemuda_kulit_hitam.null											
+3	2	fb:cell_pemuda_lainnya.null											
+4	0	fb:cell_kharakteristik.persen_tempat_lahir_orang_tua_kanada	persen tempat lahir orang tua Kanada	persen|tempat|lahir|orang|tua|kanada	persen|tempat|lahir|orang|tua|Kanada	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+4	1	fb:cell_pemuda_kulit_hitam.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+4	2	fb:cell_pemuda_lainnya.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+5	0	fb:cell_kharakteristik.persen_tempat_lahir_orang_tua_di_negara_lain	persen tempat lahir orang tua di negara lain	persen|tempat|lahir|orang|tua|di|negara|lain	persen|tempat|lahir|orang|tua|di|negara|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+5	1	fb:cell_pemuda_kulit_hitam.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+5	2	fb:cell_pemuda_lainnya.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+6	0	fb:cell_kharakteristik.persen_tingkat_pendidikan_tertinggi_orang_tua	persen tingkat pendidikan tertinggi orang tua	persen|tingkat|pendidikan|tertinggi|orang|tua	persen|tingkat|pendidikan|tertinggi|orang|tua	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+6	1	fb:cell_pemuda_kulit_hitam.null											
+6	2	fb:cell_pemuda_lainnya.null											
+7	0	fb:cell_kharakteristik.persen_tingkat_pendidikan_tertinggi_orang_tua_tidak_ada_ijazah_sma	persen tingkat pendidikan tertinggi orang tua tidak ada ijazah SMA	persen|tingkat|pendidikan|tertinggi|orang|tua|tidak|ada|ijazah|sma	persen|tingkat|pendidikan|tertinggi|orang|tua|tidak|ada|ijazah|sma	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+7	1	fb:cell_pemuda_kulit_hitam.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+7	2	fb:cell_pemuda_lainnya.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+8	0	fb:cell_kharakteristik.persen_ijazah_sekolah_menengah_atas_tingkat_pendidikan_orang_tua	persen ijazah sekolah menengah atas tingkat pendidikan orang tua	persen|ijazah|sekolah|menengah|atas|tingkat|pendidikan|orang|tua	persen|ijazah|sekolah|menengah|atas|tingkat|pendidikan|orang|tua	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+8	1	fb:cell_pemuda_kulit_hitam.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+8	2	fb:cell_pemuda_lainnya.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+9	0	fb:cell_kharakteristik.persen_orang_tua_tingkat_pendidikan_tertinggi_ijazah_pasca_sekolah_menengah_di_bawah_tingkat_sarjana	persen orang tua tingkat pendidikan tertinggi ijazah pasca sekolah menengah di bawah tingkat sarjana	persen|orang|tua|tingkat|pendidikan|tertinggi|ijazah|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	persen|orang|tua|tingkat|pendidikan|tertinggi|ijazah|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+9	1	fb:cell_pemuda_kulit_hitam.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+9	2	fb:cell_pemuda_lainnya.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+10	0	fb:cell_kharakteristik.persen_tingkat_pendidikan_tertinggi_orang_tua_adalah_gelar_sarjana	persen tingkat pendidikan tertinggi orang tua adalah gelar sarjana	persen|tingkat|pendidikan|tertinggi|orang|tua|adalah|gelar|sarjana	persen|tingkat|pendidikan|tertinggi|orang|tua|adalah|gelar|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+10	1	fb:cell_pemuda_kulit_hitam.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+10	2	fb:cell_pemuda_lainnya.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+11	0	fb:cell_kharakteristik.persen_ijazah_atau_ijazah_pendidikan_tertinggi_orang_tua_di_atas_jenjang_sarjana	persen ijazah atau ijazah pendidikan tertinggi orang tua di atas jenjang sarjana	persen|ijazah|atau|ijazah|pendidikan|tertinggi|orang|tua|di|atas|jenjang|sarjana	persen|ijazah|atau|ijazah|pendidikan|tertinggi|orang|tua|di|atas|jenjang|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+11	1	fb:cell_pemuda_kulit_hitam.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+11	2	fb:cell_pemuda_lainnya.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+12	0	fb:cell_kharakteristik.persen_kuintil_pendapatan_keluarga	persen kuintil pendapatan keluarga	persen|kuintil|pendapatan|keluarga	persen|kuintil|pendapatan|keluarga	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_pemuda_kulit_hitam.null											
+12	2	fb:cell_pemuda_lainnya.null											
+13	0	fb:cell_kharakteristik.persen_kuintil_pendapatan_keluarga_pertama	persen kuintil pendapatan keluarga pertama	persen|kuintil|pendapatan|keluarga|pertama	persen|kuintil|pendapatan|keluarga|pertama	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_pemuda_kulit_hitam.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+13	2	fb:cell_pemuda_lainnya.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+14	0	fb:cell_kharakteristik.persen_kuintil_pendapatan_keluarga_kedua	persen kuintil pendapatan keluarga kedua	persen|kuintil|pendapatan|keluarga|kedua	persen|kuintil|pendapatan|keluarga|kedua	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+14	1	fb:cell_pemuda_kulit_hitam.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+14	2	fb:cell_pemuda_lainnya.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+15	0	fb:cell_kharakteristik.persen_pendapatan_keluarga_kuintil_ketiga	persen pendapatan keluarga kuintil ketiga	persen|pendapatan|keluarga|kuintil|ketiga	persen|pendapatan|keluarga|kuintil|ketiga	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_pemuda_kulit_hitam.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+15	2	fb:cell_pemuda_lainnya.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+16	0	fb:cell_kharakteristik.persen_pendapatan_keluarga_kuintil_keempat	persen pendapatan keluarga kuintil keempat	persen|pendapatan|keluarga|kuintil|keempat	persen|pendapatan|keluarga|kuintil|keempat	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+16	1	fb:cell_pemuda_kulit_hitam.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+16	2	fb:cell_pemuda_lainnya.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+17	0	fb:cell_kharakteristik.persen_pendapatan_keluarga_kuintil_kelima	persen pendapatan keluarga kuintil kelima	persen|pendapatan|keluarga|kuintil|kelima	persen|pendapatan|keluarga|kuintil|kelima	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+17	1	fb:cell_pemuda_kulit_hitam.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+17	2	fb:cell_pemuda_lainnya.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+18	0	fb:cell_kharakteristik.persen_setidaknya_satu_orang_tua_bekerja_penuh_waktu	persen setidaknya satu orang tua bekerja penuh waktu	persen|setidaknya|satu|orang|tua|bekerja|penuh|waktu	persen|setidaknya|satu|orang|tua|bekerja|penuh|waktu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+18	1	fb:cell_pemuda_kulit_hitam.null											
+18	2	fb:cell_pemuda_lainnya.null											
+19	0	fb:cell_kharakteristik.persen_setidaknya_satu_orang_tua_bekerja_penuh_waktu_no	persen setidaknya satu orang tua bekerja penuh waktu no	persen|setidaknya|satu|orang|tua|bekerja|penuh|waktu|no	persen|setidaknya|satu|orang|tua|bekerja|penuh|waktu|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O	||||||||					
+19	1	fb:cell_pemuda_kulit_hitam.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+19	2	fb:cell_pemuda_lainnya.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+20	0	fb:cell_kharakteristik.persen_setidaknya_satu_orang_tua_bekerja_penuh_waktu_ya	persen setidaknya satu orang tua bekerja penuh waktu ya	persen|setidaknya|satu|orang|tua|bekerja|penuh|waktu|ya	persen|setidaknya|satu|orang|tua|bekerja|penuh|waktu|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O	||||||||					
+20	1	fb:cell_pemuda_kulit_hitam.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+20	2	fb:cell_pemuda_lainnya.92_0	92.0	92.0	92.0	CD	NUMBER	92.0	92.0				
+21	0	fb:cell_kharakteristik.persen_tempat_tinggal	persen tempat tinggal	persen|tempat|tinggal	persen|tempat|tinggal	NNP|NNP|NNP	O|O|O	||					
+21	1	fb:cell_pemuda_kulit_hitam.null											
+21	2	fb:cell_pemuda_lainnya.null											
+22	0	fb:cell_kharakteristik.persen_penyewa_tempat_tinggal	persen penyewa tempat tinggal	persen|penyewa|tempat|tinggal	persen|penyewa|tempat|tinggal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+22	1	fb:cell_pemuda_kulit_hitam.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+22	2	fb:cell_pemuda_lainnya.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+23	0	fb:cell_kharakteristik.persen_pemilik_tempat_tinggal_nilai_tempat_tinggal_kurang_dari_100_000	persen pemilik tempat tinggal; nilai tempat tinggal kurang dari $100,000	persen|pemilik|tempat|tinggal|;|nilai|tempat|tinggal|kurang|dari|$|100,000	persen|pemilik|tempat|tinggal|;|nilai|tempat|tinggal|kurang|dari|$|100,000	NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|O|O|O|O|MONEY|MONEY	||||||||||$100000.0|$100000.0	100000.0				
+23	1	fb:cell_pemuda_kulit_hitam.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+23	2	fb:cell_pemuda_lainnya.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+24	0	fb:cell_kharakteristik.persen_pemilik_tempat_tinggal_nilai_tempat_tinggal_antara_100_000_dan_250_000	persen pemilik tempat tinggal; nilai tempat tinggal antara $100,000 dan $250,000	persen|pemilik|tempat|tinggal|;|nilai|tempat|tinggal|antara|$|100,000|dan|$|250,000	persen|pemilik|tempat|tinggal|;|nilai|tempat|tinggal|antara|$|100,000|dan|$|250,000	NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	|||||||||$100000.0|$100000.0||$250000.0|$250000.0	100000.0		250000.0		
+24	1	fb:cell_pemuda_kulit_hitam.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+24	2	fb:cell_pemuda_lainnya.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+25	0	fb:cell_kharakteristik.persen_pemilik_tempat_tinggal_nilai_tempat_tinggal_lebih_dari_250_000	persen pemilik tempat tinggal; nilai tempat tinggal lebih dari $250,000	persen|pemilik|tempat|tinggal|;|nilai|tempat|tinggal|lebih|dari|$|250,000	persen|pemilik|tempat|tinggal|;|nilai|tempat|tinggal|lebih|dari|$|250,000	NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|O|O|O|O|MONEY|MONEY	||||||||||$250000.0|$250000.0	250000.0				
+25	1	fb:cell_pemuda_kulit_hitam.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+25	2	fb:cell_pemuda_lainnya.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+26	0	fb:cell_kharakteristik.persen_struktur_keluarga	persen struktur keluarga	persen|struktur|keluarga	persen|struktur|keluarga	NNP|NNP|NNP	O|O|O	||					
+26	1	fb:cell_pemuda_kulit_hitam.null											
+26	2	fb:cell_pemuda_lainnya.null											
+27	0	fb:cell_kharakteristik.persen_struktur_keluarga_pasangan_menikah	persen struktur keluarga pasangan menikah	persen|struktur|keluarga|pasangan|menikah	persen|struktur|keluarga|pasangan|menikah	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+27	1	fb:cell_pemuda_kulit_hitam.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+27	2	fb:cell_pemuda_lainnya.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+28	0	fb:cell_kharakteristik.persen_struktur_keluarga_pasangan_ipar	persen struktur keluarga pasangan ipar	persen|struktur|keluarga|pasangan|ipar	persen|struktur|keluarga|pasangan|ipar	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+28	1	fb:cell_pemuda_kulit_hitam.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+28	2	fb:cell_pemuda_lainnya.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+29	0	fb:cell_kharakteristik.persen_struktur_keluarga_orang_tua_tunggal	persen struktur keluarga orang tua tunggal	persen|struktur|keluarga|orang|tua|tunggal	persen|struktur|keluarga|orang|tua|tunggal	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+29	1	fb:cell_pemuda_kulit_hitam.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+29	2	fb:cell_pemuda_lainnya.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+30	0	fb:cell_kharakteristik.persen_stabilitas_perumahan_selama_lima_tahun_terakhir	persen stabilitas perumahan selama lima tahun terakhir	persen|stabilitas|perumahan|selama|lima|tahun|terakhir	persen|stabilitas|perumahan|selama|lima|tahun|terakhir	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+30	1	fb:cell_pemuda_kulit_hitam.null											
+30	2	fb:cell_pemuda_lainnya.null											
+31	0	fb:cell_kharakteristik.persen_stabilitas_perumahan_selama_lima_tahun_terakhir_bergerak	persen stabilitas perumahan selama lima tahun terakhir bergerak	persen|stabilitas|perumahan|selama|lima|tahun|terakhir|bergerak	persen|stabilitas|perumahan|selama|lima|tahun|terakhir|bergerak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+31	1	fb:cell_pemuda_kulit_hitam.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+31	2	fb:cell_pemuda_lainnya.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+32	0	fb:cell_kharakteristik.persen_stabilitas_perumahan_selama_lima_tahun_terakhir_tidak_berubah	persen stabilitas perumahan selama lima tahun terakhir tidak berubah	persen|stabilitas|perumahan|selama|lima|tahun|terakhir|tidak|berubah	persen|stabilitas|perumahan|selama|lima|tahun|terakhir|tidak|berubah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+32	1	fb:cell_pemuda_kulit_hitam.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+32	2	fb:cell_pemuda_lainnya.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+33	0	fb:cell_kharakteristik.persen_jenis_daerah_tempat_tinggal	persen jenis daerah tempat tinggal	persen|jenis|daerah|tempat|tinggal	persen|jenis|daerah|tempat|tinggal	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+33	1	fb:cell_pemuda_kulit_hitam.null											
+33	2	fb:cell_pemuda_lainnya.null											
+34	0	fb:cell_kharakteristik.persen_jenis_daerah_tempat_tinggal_di_luar_cma_dan_ca	persen jenis daerah tempat tinggal di luar cma dan ca	persen|jenis|daerah|tempat|tinggal|di|luar|cma|dan|ca	persen|jenis|daerah|tempat|tinggal|di|luar|cma|dan|ca	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|PERSON|O	|||||||||					
+34	1	fb:cell_pemuda_kulit_hitam.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+34	2	fb:cell_pemuda_lainnya.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+35	0	fb:cell_kharakteristik.persen_jenis_aglomerasi_sensus_wilayah_tempat_tinggal	persen jenis aglomerasi sensus wilayah tempat tinggal	persen|jenis|aglomerasi|sensus|wilayah|tempat|tinggal	persen|jenis|aglomerasi|sensus|wilayah|tempat|tinggal	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+35	1	fb:cell_pemuda_kulit_hitam.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+35	2	fb:cell_pemuda_lainnya.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+36	0	fb:cell_kharakteristik.persen_jenis_wilayah_tempat_tinggal_sensus_wilayah_metropolitan	persen jenis wilayah tempat tinggal sensus wilayah metropolitan	persen|jenis|wilayah|tempat|tinggal|sensus|wilayah|metropolitan	persen|jenis|wilayah|tempat|tinggal|sensus|wilayah|metropolitan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+36	1	fb:cell_pemuda_kulit_hitam.95_0	95.0	95.0	95.0	CD	NUMBER	95.0	95.0				
+36	2	fb:cell_pemuda_lainnya.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+37	0	fb:cell_kharakteristik.persen_luas_tempat_tinggal	persen luas tempat tinggal	persen|luas|tempat|tinggal	persen|luas|tempat|tinggal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+37	1	fb:cell_pemuda_kulit_hitam.null											
+37	2	fb:cell_pemuda_lainnya.null											
+38	0	fb:cell_kharakteristik.persen_luas_tempat_tinggal_atlantik	persen luas tempat tinggal Atlantik	persen|luas|tempat|tinggal|atlantik	persen|luas|tempat|tinggal|Atlantik	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+38	1	fb:cell_pemuda_kulit_hitam.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+38	2	fb:cell_pemuda_lainnya.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+39	0	fb:cell_kharakteristik.persen_luas_tempat_tinggal_quebec	persen luas tempat tinggal Quebec	persen|luas|tempat|tinggal|quebec	persen|luas|tempat|tinggal|Quebec	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+39	1	fb:cell_pemuda_kulit_hitam.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+39	2	fb:cell_pemuda_lainnya.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+40	0	fb:cell_kharakteristik.persen_luas_tempat_tinggal_ontario	persen luas tempat tinggal ontario	persen|luas|tempat|tinggal|ontario	persen|luas|tempat|tinggal|ontario	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+40	1	fb:cell_pemuda_kulit_hitam.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+40	2	fb:cell_pemuda_lainnya.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+41	0	fb:cell_kharakteristik.persen_luas_padang_rumput_tempat_tinggal	persen luas padang rumput tempat tinggal	persen|luas|padang|rumput|tempat|tinggal	persen|luas|padang|rumput|tempat|tinggal	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+41	1	fb:cell_pemuda_kulit_hitam.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+41	2	fb:cell_pemuda_lainnya.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+42	0	fb:cell_kharakteristik.persen_luas_tempat_tinggal_alberta	persen luas tempat tinggal alberta	persen|luas|tempat|tinggal|alberta	persen|luas|tempat|tinggal|alberta	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+42	1	fb:cell_pemuda_kulit_hitam.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+42	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+43	0	fb:cell_kharakteristik.persen_wilayah_tempat_tinggal_british_columbia	persen wilayah tempat tinggal British Columbia	persen|wilayah|tempat|tinggal|british|columbia	persen|wilayah|tempat|tinggal|British|Columbia	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|MISC|O	|||||					
+43	1	fb:cell_pemuda_kulit_hitam.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+43	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+44	0	fb:cell_kharakteristik.persen_luas_wilayah_tempat_tinggal	persen luas wilayah tempat tinggal	persen|luas|wilayah|tempat|tinggal	persen|luas|wilayah|tempat|tinggal	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+44	1	fb:cell_pemuda_kulit_hitam.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+44	2	fb:cell_pemuda_lainnya.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+45	0	fb:cell_kharakteristik.persen_bilingualisme_inggris_prancis	persen bilingualisme Inggris-Prancis	persen|bilingualisme|inggris|prancis	persen|bilingualisme|Inggris|Prancis	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+45	1	fb:cell_pemuda_kulit_hitam.null											
+45	2	fb:cell_pemuda_lainnya.null											
+46	0	fb:cell_kharakteristik.persen_bilingualisme_inggris_prancis_no	persen bilingualisme Inggris-Prancis no	persen|bilingualisme|inggris|prancis|no	persen|bilingualisme|inggris|pranci|no	JJ|NN|NN|VBZ|DT	O|O|O|O|O	||||					
+46	1	fb:cell_pemuda_kulit_hitam.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+46	2	fb:cell_pemuda_lainnya.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+47	0	fb:cell_kharakteristik.persen_bilingualisme_inggris_prancis_ya	persen bilingualisme Inggris-Prancis ya	persen|bilingualisme|inggris|prancis|ya	persen|bilingualisme|Inggris|Prancis|ya	NNP|NNP|NNP|NNP|PRP	O|O|O|O|O	||||					
+47	1	fb:cell_pemuda_kulit_hitam.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+47	2	fb:cell_pemuda_lainnya.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+48	0	fb:cell_kharakteristik.persen_usia	persen usia	persen|usia	persen|usia	NNP|NNP	O|O	|					
+48	1	fb:cell_pemuda_kulit_hitam.null											
+48	2	fb:cell_pemuda_lainnya.null											
+49	0	fb:cell_kharakteristik.persen_usia_9_tahun	persen usia 9 tahun	persen|usia|9|tahun	persen|usia|9|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||9.0|	9.0				
+49	1	fb:cell_pemuda_kulit_hitam.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+49	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+50	0	fb:cell_kharakteristik.persen_usia_10_tahun	persen usia 10 tahun	persen|usia|10|tahun	persen|usia|10|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||10.0|	10.0				
+50	1	fb:cell_pemuda_kulit_hitam.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+50	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+51	0	fb:cell_kharakteristik.persen_usia_11_tahun	persen usia 11 tahun	persen|usia|11|tahun	persen|usia|11|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||11.0|	11.0				
+51	1	fb:cell_pemuda_kulit_hitam.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+51	2	fb:cell_pemuda_lainnya.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+52	0	fb:cell_kharakteristik.persen_usia_12_tahun	persen usia 12 tahun	persen|usia|12|tahun	persen|usia|12|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||12.0|	12.0				
+52	1	fb:cell_pemuda_kulit_hitam.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+52	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+53	0	fb:cell_kharakteristik.persen_usia_13_tahun	persen usia 13 tahun	persen|usia|13|tahun	persen|usia|13|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||13.0|	13.0				
+53	1	fb:cell_pemuda_kulit_hitam.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+53	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+54	0	fb:cell_kharakteristik.persen_usia_14_tahun	persen usia 14 tahun	persen|usia|14|tahun	persen|usia|14|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||14.0|	14.0				
+54	1	fb:cell_pemuda_kulit_hitam.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+54	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+55	0	fb:cell_kharakteristik.persen_usia_15_tahun	persen usia 15 tahun	persen|usia|15|tahun	persen|usia|15|tahun	NNP|NNP|CD|NNP	O|O|NUMBER|O	||15.0|	15.0				
+55	1	fb:cell_pemuda_kulit_hitam.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+55	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+56	0	fb:cell_kharakteristik.persen_usia_16_tahun	persen usia 16 tahun	persen|usia|16|tahun	persen|usia|16|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||16.0|	16.0				
+56	1	fb:cell_pemuda_kulit_hitam.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+56	2	fb:cell_pemuda_lainnya.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+57	0	fb:cell_kharakteristik.persen_usia_17_tahun	persen usia 17 tahun	persen|usia|17|tahun	persen|usia|17|tahun	NNP|NNP|CD|NN	O|O|NUMBER|O	||17.0|	17.0				
+57	1	fb:cell_pemuda_kulit_hitam.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+57	2	fb:cell_pemuda_lainnya.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				

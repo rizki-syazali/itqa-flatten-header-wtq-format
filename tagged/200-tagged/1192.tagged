@@ -1,0 +1,71 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.revisi_pangsa_rata_rata_produk_domestik_bruto_nasional	revisi pangsa rata-rata produk domestik bruto nasional	revisi|pangsa|rata|rata|produk|domestik|bruto|nasional	revisi|pangsa|rata|rata|produk|domestik|bruto|nasional	NNP|NNP|JJ|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya	pangsa rata-rata produk domestik bruto nasional yang dipublikasikan sebelumnya	pangsa|rata|rata|produk|domestik|bruto|nasional|yang|dipublikasikan|sebelumnya	pangsa|rata|rata|produk|domestik|bruto|nasional|yang|dipublikasikan|sebelumnya	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	3	fb:row.row.revisi_pangsa_produk_domestik_bruto_nasional	revisi pangsa produk domestik bruto nasional	revisi|pangsa|produk|domestik|bruto|nasional	revisi|pangsa|produk|domestik|bruto|nasional	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional	bagian yang diterbitkan sebelumnya dari produk domestik bruto nasional	bagian|yang|diterbitkan|sebelumnya|dari|produk|domestik|bruto|nasional	bagian|yang|diterbitkan|sebelumnya|dari|produk|domestik|bruto|nasional	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.persen_newfoundland_dan_labrador	persen Newfoundland dan Labrador	persen|newfoundland|dan|labrador	persen|Newfoundland|dan|Labrador	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+0	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+0	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+0	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+0	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+1	0	fb:cell_kharakteristik.persen_pulau_pangeran_edward	persen pulau pangeran Edward	persen|pulau|pangeran|edward	persen|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+1	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+1	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+1	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+2	0	fb:cell_kharakteristik.persen_nova_scotia	persen nova scotia	persen|nova|scotia	persen|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+2	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+2	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+2	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+3	0	fb:cell_kharakteristik.persen_brunswick_baru	persen brunswick baru	persen|brunswick|baru	persen|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+3	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+3	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+3	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+4	0	fb:cell_kharakteristik.persen_quebec	persen Quebec	persen|quebec	persen|Quebec	NNP|NNP	O|O	|					
+4	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+4	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+4	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+4	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+5	0	fb:cell_kharakteristik.persen_ontario	persen ontario	persen|ontario	persen|ontario	NNP|NNP	O|O	|					
+5	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.39_4	39.4	39.4	39.4	CD	NUMBER	39.4	39.4				
+5	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.39_2	39.2	39.2	39.2	CD	NUMBER	39.2	39.2				
+5	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.36_6	36.6	36.6	36.6	CD	NUMBER	36.6	36.6				
+5	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.36_8	36.8	36.8	36.8	CD	NUMBER	36.8	36.8				
+6	0	fb:cell_kharakteristik.persen_manitoba	persen manitoba	persen|manitoba	persen|manitoba	NNP|NNP	O|O	|					
+6	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+6	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+6	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+6	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+7	0	fb:cell_kharakteristik.persen_saskatchewan	persen saskatchewan	persen|saskatchewan	persen|saskatchewan	NNP|NNP	O|O	|					
+7	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+7	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+7	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+7	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+8	0	fb:cell_kharakteristik.persen_alberta	persen alberta	persen|alberta	persen|alberta	NNP|NNP	O|O	|					
+8	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+8	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.14_3	14.3	14.3	14.3	CD	NUMBER	14.3	14.3				
+8	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+8	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.17_9	17.9	17.9	17.9	CD	NUMBER	17.9	17.9				
+9	0	fb:cell_kharakteristik.persen_british_columbia	persen British Columbia	persen|british|columbia	persen|British|Columbia	NNP|NNP|NNP	O|MISC|O	||					
+9	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+9	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+9	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+9	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.12_1	12.1	12.1	12.1	CD	NUMBER	12.1	12.1				
+10	0	fb:cell_kharakteristik.persen_yukon	persen yukon	persen|yukon	persen|yukon	NNP|NNP	O|O	|					
+10	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+11	0	fb:cell_kharakteristik.persen_wilayah_barat_laut	persen wilayah barat laut	persen|wilayah|barat|laut	persen|wilayah|barat|laut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+11	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+11	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+11	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+12	0	fb:cell_kharakteristik.persen_nunavut	persen nunavut	persen|nunavut	persen|nunavut	NNP|NNP	O|O	|					
+12	1	fb:cell_revisi_pangsa_rata_rata_produk_domestik_bruto_nasional.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+12	2	fb:cell_pangsa_rata_rata_produk_domestik_bruto_nasional_yang_dipublikasikan_sebelumnya.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+12	3	fb:cell_revisi_pangsa_produk_domestik_bruto_nasional.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+12	4	fb:cell_bagian_yang_diterbitkan_sebelumnya_dari_produk_domestik_bruto_nasional.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				

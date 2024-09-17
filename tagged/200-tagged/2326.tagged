@@ -1,0 +1,169 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persen_perempuan	persen perempuan	persen|perempuan	persen|perempuan	NNP|NNP	O|O	|					
+-1	2	fb:row.row.wanita_interval_kepercayaan_95_dari	wanita interval kepercayaan 95% dari	wanita|interval|kepercayaan|95|%|dari	wanita|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	3	fb:row.row.wanita_dengan_interval_kepercayaan_95_hingga	wanita dengan interval kepercayaan 95% hingga	wanita|dengan|interval|kepercayaan|95|%|hingga	wanita|dengan|interval|kepercayaan|95|%|hingga	NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	4	fb:row.row.persen_pria	persen pria	persen|pria	persen|pria	NNP|NNP	O|O	|					
+-1	5	fb:row.row.pria_interval_kepercayaan_95_dari	pria interval kepercayaan 95% dari	pria|interval|kepercayaan|95|%|dari	pria|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	6	fb:row.row.pria_interval_kepercayaan_95_hingga	pria interval kepercayaan 95% hingga	pria|interval|kepercayaan|95|%|hingga	pria|interval|kepercayaan|95|%|hingga	NNP|NNP|NNP|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.lokasi_kejadian	lokasi kejadian	lokasi|kejadian	lokasi|kejadian	NNP|NNP	MISC|MISC	|					
+0	1	fb:cell_persen_perempuan.null											
+0	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+0	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+0	4	fb:cell_persen_pria.null											
+0	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+0	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+1	0	fb:cell_kharakteristik.lokasi_kejadian_di_restoran_atau_bar	lokasi kejadian di restoran atau bar	lokasi|kejadian|di|restoran|atau|bar	lokasi|kejadian|di|restoran|atau|bar	NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|O|O|O	|||||					
+1	1	fb:cell_persen_perempuan.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+1	2	fb:cell_wanita_interval_kepercayaan_95_dari.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+1	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+1	4	fb:cell_persen_pria.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+1	5	fb:cell_pria_interval_kepercayaan_95_dari.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+1	6	fb:cell_pria_interval_kepercayaan_95_hingga.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+2	0	fb:cell_kharakteristik.lokasi_kejadian_di_gedung_komersial_atau_perkantoran	lokasi kejadian di gedung komersial atau perkantoran	lokasi|kejadian|di|gedung|komersial|atau|perkantoran	lokasi|kejadian|di|gedung|komersial|atau|perkantoran	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|O|O|O|O	||||||					
+2	1	fb:cell_persen_perempuan.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+2	2	fb:cell_wanita_interval_kepercayaan_95_dari.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+2	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+2	4	fb:cell_persen_pria.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+2	5	fb:cell_pria_interval_kepercayaan_95_dari.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+2	6	fb:cell_pria_interval_kepercayaan_95_hingga.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+3	0	fb:cell_kharakteristik.lokasi_kejadian_di_gedung_institusi	lokasi kejadian di gedung institusi	lokasi|kejadian|di|gedung|institusi	lokasi|kejadian|di|gedung|institusi	NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|O|O	||||					
+3	1	fb:cell_persen_perempuan.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+3	2	fb:cell_wanita_interval_kepercayaan_95_dari.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+3	4	fb:cell_persen_pria.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+3	5	fb:cell_pria_interval_kepercayaan_95_dari.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	6	fb:cell_pria_interval_kepercayaan_95_hingga.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+4	0	fb:cell_kharakteristik.lokasi_kejadian_di_jalan_di_taman_di_tempat_parkir_atau_di_angkutan_umum	lokasi kejadian di jalan, di taman, di tempat parkir atau di angkutan umum	lokasi|kejadian|di|jalan|,|di|taman|,|di|tempat|parkir|atau|di|angkutan|umum	lokasi|kejadian|di|jalan|,|di|taman|,|di|tempat|parkir|atau|di|angkutan|umum	NNP|NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||				lokasi kejadian di jalan|di taman|di tempat parkir atau di angkutan umum	fb:part_kharakteristik.lokasi_kejadian_di_jalan|fb:part_kharakteristik.di_taman|fb:part_kharakteristik.di_tempat_parkir_atau_di_angkutan_umum
+4	1	fb:cell_persen_perempuan.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+4	2	fb:cell_wanita_interval_kepercayaan_95_dari.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+4	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+4	4	fb:cell_persen_pria.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+4	5	fb:cell_pria_interval_kepercayaan_95_dari.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+4	6	fb:cell_pria_interval_kepercayaan_95_hingga.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+5	0	fb:cell_kharakteristik.lokasi_kejadian_di_kediaman_pribadi	lokasi kejadian di kediaman pribadi	lokasi|kejadian|di|kediaman|pribadi	lokasi|kejadian|di|kediaman|pribadi	NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC	||||					
+5	1	fb:cell_persen_perempuan.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+5	2	fb:cell_wanita_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+5	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+5	4	fb:cell_persen_pria.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+5	5	fb:cell_pria_interval_kepercayaan_95_dari.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+5	6	fb:cell_pria_interval_kepercayaan_95_hingga.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+6	0	fb:cell_kharakteristik.lokasi_kejadian_lainnya	lokasi kejadian lainnya	lokasi|kejadian|lainnya	lokasi|kejadian|lainnya	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_persen_perempuan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+6	2	fb:cell_wanita_interval_kepercayaan_95_dari.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+6	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+6	4	fb:cell_persen_pria.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+6	5	fb:cell_pria_interval_kepercayaan_95_dari.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+6	6	fb:cell_pria_interval_kepercayaan_95_hingga.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+7	0	fb:cell_kharakteristik.sejumlah_pelaku	sejumlah pelaku	sejumlah|pelaku	sejumlah|pelaku	NNP|NNP	O|O	|					
+7	1	fb:cell_persen_perempuan.null											
+7	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+7	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+7	4	fb:cell_persen_pria.null											
+7	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+7	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+8	0	fb:cell_kharakteristik.jumlah_pelaku_satu	jumlah pelaku satu	jumlah|pelaku|satu	jumlah|pelaku|satu	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_persen_perempuan.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+8	2	fb:cell_wanita_interval_kepercayaan_95_dari.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+8	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+8	4	fb:cell_persen_pria.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+8	5	fb:cell_pria_interval_kepercayaan_95_dari.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+8	6	fb:cell_pria_interval_kepercayaan_95_hingga.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+9	0	fb:cell_kharakteristik.jumlah_pelaku_lebih_dari_satu	jumlah pelaku lebih dari satu	jumlah|pelaku|lebih|dari|satu	jumlah|pelaku|lebih|dari|satu	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+9	1	fb:cell_persen_perempuan.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+9	2	fb:cell_wanita_interval_kepercayaan_95_dari.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+9	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+9	4	fb:cell_persen_pria.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+9	5	fb:cell_pria_interval_kepercayaan_95_dari.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+9	6	fb:cell_pria_interval_kepercayaan_95_hingga.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+10	0	fb:cell_kharakteristik.jenis_kelamin_pelaku	jenis kelamin pelaku	jenis|kelamin|pelaku	jenis|kelamin|pelaku	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_persen_perempuan.null											
+10	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+10	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+10	4	fb:cell_persen_pria.null											
+10	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+10	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+11	0	fb:cell_kharakteristik.jenis_kelamin_pelaku_laki_laki	jenis kelamin pelaku laki-laki	jenis|kelamin|pelaku|laki|laki	jenis|kelamin|pelaku|laki|laki	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+11	1	fb:cell_persen_perempuan.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+11	2	fb:cell_wanita_interval_kepercayaan_95_dari.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+11	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.95_0	95.0	95.0	95.0	CD	NUMBER	95.0	95.0				
+11	4	fb:cell_persen_pria.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+11	5	fb:cell_pria_interval_kepercayaan_95_dari.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+11	6	fb:cell_pria_interval_kepercayaan_95_hingga.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+12	0	fb:cell_kharakteristik.jenis_kelamin_pelaku_perempuan	jenis kelamin pelaku perempuan	jenis|kelamin|pelaku|perempuan	jenis|kelamin|pelaku|perempuan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_persen_perempuan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+12	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+12	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+12	4	fb:cell_persen_pria.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+12	5	fb:cell_pria_interval_kepercayaan_95_dari.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+12	6	fb:cell_pria_interval_kepercayaan_95_hingga.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+13	0	fb:cell_kharakteristik.jenis_kelamin_pelaku_pelaku_ganda_baik_laki_laki_maupun_perempuan	jenis kelamin pelaku pelaku ganda, baik laki-laki maupun perempuan	jenis|kelamin|pelaku|pelaku|ganda|,|baik|laki|laki|maupun|perempuan	jenis|kelamin|pelaku|pelaku|ganda|,|baik|laki|laki|maupun|perempuan	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				jenis kelamin pelaku pelaku ganda|baik laki-laki maupun perempuan	fb:part_kharakteristik.jenis_kelamin_pelaku_pelaku_ganda|fb:part_kharakteristik.baik_laki_laki_maupun_perempuan
+13	1	fb:cell_persen_perempuan.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+13	2	fb:cell_wanita_interval_kepercayaan_95_dari.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+13	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+13	4	fb:cell_persen_pria.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+13	5	fb:cell_pria_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+13	6	fb:cell_pria_interval_kepercayaan_95_hingga.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+14	0	fb:cell_kharakteristik.hubungan_pelaku_dengan_korban	hubungan pelaku dengan korban	hubungan|pelaku|dengan|korban	hubungan|pelaku|dengan|korban	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+14	1	fb:cell_persen_perempuan.null											
+14	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+14	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+14	4	fb:cell_persen_pria.null											
+14	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+14	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+15	0	fb:cell_kharakteristik.hubungan_pelaku_dengan_anggota_keluarga_korban_pasangan_pasangan	hubungan pelaku dengan anggota keluarga korban, pasangan, pasangan	hubungan|pelaku|dengan|anggota|keluarga|korban|,|pasangan|,|pasangan	hubungan|pelaku|dengan|anggota|keluarga|korban|,|pasangan|,|pasangan	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|,|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				hubungan pelaku dengan anggota keluarga korban|pasangan|pasangan	fb:part_kharakteristik.hubungan_pelaku_dengan_anggota_keluarga_korban|fb:part_kharakteristik.pasangan|fb:part_kharakteristik.pasangan
+15	1	fb:cell_persen_perempuan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+15	2	fb:cell_wanita_interval_kepercayaan_95_dari.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+15	4	fb:cell_persen_pria.null											
+15	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+15	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+16	0	fb:cell_kharakteristik.hubungan_pelaku_dengan_teman_tetangga_atau_kenalan_korban	hubungan pelaku dengan teman, tetangga atau kenalan korban	hubungan|pelaku|dengan|teman|,|tetangga|atau|kenalan|korban	hubungan|pelaku|dengan|teman|,|tetangga|atau|kenalan|korban	NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||				hubungan pelaku dengan teman|tetangga atau kenalan korban	fb:part_kharakteristik.hubungan_pelaku_dengan_teman|fb:part_kharakteristik.tetangga_atau_kenalan_korban
+16	1	fb:cell_persen_perempuan.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+16	2	fb:cell_wanita_interval_kepercayaan_95_dari.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+16	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+16	4	fb:cell_persen_pria.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+16	5	fb:cell_pria_interval_kepercayaan_95_dari.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+16	6	fb:cell_pria_interval_kepercayaan_95_hingga.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+17	0	fb:cell_kharakteristik.hubungan_pelaku_dengan_korban_orang_lain_yang_dikenal	hubungan pelaku dengan korban orang lain yang dikenal	hubungan|pelaku|dengan|korban|orang|lain|yang|dikenal	hubungan|pelaku|dengan|korban|orang|lain|yang|dikenal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+17	1	fb:cell_persen_perempuan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+17	2	fb:cell_wanita_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+17	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+17	4	fb:cell_persen_pria.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+17	5	fb:cell_pria_interval_kepercayaan_95_dari.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+17	6	fb:cell_pria_interval_kepercayaan_95_hingga.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+18	0	fb:cell_kharakteristik.hubungan_pelaku_dengan_korban_orang_asing_atau_orang_yang_hanya_diketahui_secara_kasat_mata	hubungan pelaku dengan korban orang asing atau orang yang hanya diketahui secara kasat mata	hubungan|pelaku|dengan|korban|orang|asing|atau|orang|yang|hanya|diketahui|secara|kasat|mata	hubungan|pelaku|dengan|korban|orang|asing|atau|orang|yang|hanya|diketahui|secara|kasat|mata	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+18	1	fb:cell_persen_perempuan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+18	2	fb:cell_wanita_interval_kepercayaan_95_dari.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+18	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+18	4	fb:cell_persen_pria.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+18	5	fb:cell_pria_interval_kepercayaan_95_dari.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+18	6	fb:cell_pria_interval_kepercayaan_95_hingga.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+19	0	fb:cell_kharakteristik.kejadian_yang_berkaitan_dengan_penggunaan_alkohol_atau_obat_obatan_oleh_pelaku	kejadian yang berkaitan dengan penggunaan alkohol atau obat-obatan oleh pelaku	kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|oleh|pelaku	kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|oleh|pelaku	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+19	1	fb:cell_persen_perempuan.null											
+19	2	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+19	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+19	4	fb:cell_persen_pria.null											
+19	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+19	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+20	0	fb:cell_kharakteristik.insiden_yang_berkaitan_dengan_penggunaan_alkohol_atau_obat_obatan_oleh_pelaku_ya	insiden yang berkaitan dengan penggunaan alkohol atau obat-obatan oleh pelaku ya	insiden|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|oleh|pelaku|ya	insiden|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|oleh|pelaku|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+20	1	fb:cell_persen_perempuan.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+20	2	fb:cell_wanita_interval_kepercayaan_95_dari.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+20	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+20	4	fb:cell_persen_pria.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+20	5	fb:cell_pria_interval_kepercayaan_95_dari.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+20	6	fb:cell_pria_interval_kepercayaan_95_hingga.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+21	0	fb:cell_kharakteristik.kejadian_yang_berkaitan_dengan_penggunaan_alkohol_atau_obat_obatan_oleh_pelaku_no	kejadian yang berkaitan dengan penggunaan alkohol atau obat-obatan oleh pelaku no	kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|oleh|pelaku|no	kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|oleh|pelaku|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+21	1	fb:cell_persen_perempuan.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+21	2	fb:cell_wanita_interval_kepercayaan_95_dari.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+21	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+21	4	fb:cell_persen_pria.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+21	5	fb:cell_pria_interval_kepercayaan_95_dari.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+21	6	fb:cell_pria_interval_kepercayaan_95_hingga.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+22	0	fb:cell_kharakteristik.kejadian_yang_berkaitan_dengan_penggunaan_alkohol_atau_obat_obatan_terlarang_oleh_pelaku_tidak_diketahui	kejadian yang berkaitan dengan penggunaan alkohol atau obat-obatan terlarang oleh pelaku tidak diketahui	kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|terlarang|oleh|pelaku|tidak|diketahui	kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|obat|obatan|terlarang|oleh|pelaku|tidak|diketahui	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+22	1	fb:cell_persen_perempuan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+22	2	fb:cell_wanita_interval_kepercayaan_95_dari.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+22	3	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+22	4	fb:cell_persen_pria.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+22	5	fb:cell_pria_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+22	6	fb:cell_pria_interval_kepercayaan_95_hingga.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				

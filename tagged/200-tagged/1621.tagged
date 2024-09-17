@@ -1,0 +1,71 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_65_tahun_ke_atas_wanita	total - 65 tahun ke atas wanita	total|-|65|tahun|ke|atas|wanita	total|-|65|tahun|ke|atas|wanita	JJ|:|CD|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O	||65.0||||					
+-1	2	fb:row.row.total_65_tahun_ke_atas_laki_laki	total - 65 tahun ke atas laki-laki	total|-|65|tahun|ke|atas|laki|laki	total|-|65|tahun|ke|atas|laki|laki	JJ|:|CD|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O	||65.0|||||					
+-1	3	fb:row.row.wanita_65_hingga_74_tahun	wanita 65 hingga 74 tahun	wanita|65|hingga|74|tahun	wanita|65|hingga|74|tahun	NNP|CD|NN|CD|NN	O|NUMBER|O|NUMBER|O	|65.0||74.0|					
+-1	4	fb:row.row.pria_berusia_65_hingga_74_tahun	pria berusia 65 hingga 74 tahun	pria|berusia|65|hingga|74|tahun	pria|berusia|65|hingga|74|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||65.0||74.0|					
+-1	5	fb:row.row.wanita_berusia_75_tahun_ke_atas	wanita berusia 75 tahun ke atas	wanita|berusia|75|tahun|ke|atas	wanita|berusia|75|tahun|ke|atas	NNP|NNP|CD|NNP|NNP|NNP	PERSON|PERSON|NUMBER|O|O|O	||75.0|||					
+-1	6	fb:row.row.laki_laki_berusia_75_tahun_ke_atas	laki-laki berusia 75 tahun ke atas	laki|laki|berusia|75|tahun|ke|atas	laki|laki|berusia|75|tahun|ke|atas	NNP|NNP|NNP|CD|NNP|NNP|NNP	PERSON|O|O|NUMBER|O|O|O	|||75.0|||					
+0	0	fb:cell_kharakteristik.serikat_persentase_atau_organisasi_profesi	serikat persentase atau organisasi profesi	serikat|persentase|atau|organisasi|profesi	serikat|persentase|atau|organisasi|profesi	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+0	1	fb:cell_total_65_tahun_ke_atas_wanita.9	9	9	9	CD	NUMBER	9.0	9.0				
+0	2	fb:cell_total_65_tahun_ke_atas_laki_laki.17	17	17	17	CD	NUMBER	17.0	17.0				
+0	3	fb:cell_wanita_65_hingga_74_tahun.11	11	11	11	CD	NUMBER	11.0	11.0				
+0	4	fb:cell_pria_berusia_65_hingga_74_tahun.21	21	21	21	CD	NUMBER	21.0	21.0				
+0	5	fb:cell_wanita_berusia_75_tahun_ke_atas.6	6	6	6	CD	NUMBER	6.0	6.0				
+0	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.12	12	12	12	CD	NUMBER	12.0	12.0				
+1	0	fb:cell_kharakteristik.persentase_partai_atau_kelompok_politik	persentase partai atau kelompok politik	persentase|partai|atau|kelompok|politik	persentase|partai|atau|kelompok|politik	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+1	1	fb:cell_total_65_tahun_ke_atas_wanita.6	6	6	6	CD	NUMBER	6.0	6.0				
+1	2	fb:cell_total_65_tahun_ke_atas_laki_laki.8	8	8	8	CD	NUMBER	8.0	8.0				
+1	3	fb:cell_wanita_65_hingga_74_tahun.6	6	6	6	CD	NUMBER	6.0	6.0				
+1	4	fb:cell_pria_berusia_65_hingga_74_tahun.8	8	8	8	CD	NUMBER	8.0	8.0				
+1	5	fb:cell_wanita_berusia_75_tahun_ke_atas.5	5	5	5	CD	NUMBER	5.0	5.0				
+1	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.8	8	8	8	CD	NUMBER	8.0	8.0				
+2	0	fb:cell_kharakteristik.persentase_organisasi_olahraga_atau_rekreasi	persentase organisasi olahraga atau rekreasi	persentase|organisasi|olahraga|atau|rekreasi	persentase|organisasus|olahraga|atau|rekreasi	NN|NNS|JJ|NN|NN	O|O|O|O|O	||||					
+2	1	fb:cell_total_65_tahun_ke_atas_wanita.19	19	19	19	CD	NUMBER	19.0	19.0				
+2	2	fb:cell_total_65_tahun_ke_atas_laki_laki.23	23	23	23	CD	NUMBER	23.0	23.0				
+2	3	fb:cell_wanita_65_hingga_74_tahun.23	23	23	23	CD	NUMBER	23.0	23.0				
+2	4	fb:cell_pria_berusia_65_hingga_74_tahun.25	25	25	25	CD	NUMBER	25.0	25.0				
+2	5	fb:cell_wanita_berusia_75_tahun_ke_atas.14	14	14	14	CD	NUMBER	14.0	14.0				
+2	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.19	19	19	19	CD	NUMBER	19.0	19.0				
+3	0	fb:cell_kharakteristik.persentase_organisasi_budaya_pendidikan_atau_hobi	persentase organisasi budaya, pendidikan, atau hobi	persentase|organisasi|budaya|,|pendidikan|,|atau|hobi	persentase|organisasus|budaya|,|pendidikan|,|atau|hobi	NN|NNS|NNP|,|NNP|,|NNP|NNP	O|O|LOCATION|O|O|O|PERSON|PERSON	|||||||				persentase organisasi budaya|pendidikan|atau hobi	fb:part_kharakteristik.persentase_organisasi_budaya|fb:part_kharakteristik.pendidikan|fb:part_kharakteristik.atau_hobi
+3	1	fb:cell_total_65_tahun_ke_atas_wanita.25	25	25	25	CD	NUMBER	25.0	25.0				
+3	2	fb:cell_total_65_tahun_ke_atas_laki_laki.19	19	19	19	CD	NUMBER	19.0	19.0				
+3	3	fb:cell_wanita_65_hingga_74_tahun.28	28	28	28	CD	NUMBER	28.0	28.0				
+3	4	fb:cell_pria_berusia_65_hingga_74_tahun.20	20	20	20	CD	NUMBER	20.0	20.0				
+3	5	fb:cell_wanita_berusia_75_tahun_ke_atas.22	22	22	22	CD	NUMBER	22.0	22.0				
+3	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.17	17	17	17	CD	NUMBER	17.0	17.0				
+4	0	fb:cell_kharakteristik.persentase_kelompok_agama	persentase kelompok agama	persentase|kelompok|agama	persentase|kelompok|agama	NN|NN|NN	O|O|O	||					
+4	1	fb:cell_total_65_tahun_ke_atas_wanita.23	23	23	23	CD	NUMBER	23.0	23.0				
+4	2	fb:cell_total_65_tahun_ke_atas_laki_laki.16	16	16	16	CD	NUMBER	16.0	16.0				
+4	3	fb:cell_wanita_65_hingga_74_tahun.22	22	22	22	CD	NUMBER	22.0	22.0				
+4	4	fb:cell_pria_berusia_65_hingga_74_tahun.17	17	17	17	CD	NUMBER	17.0	17.0				
+4	5	fb:cell_wanita_berusia_75_tahun_ke_atas.26	26	26	26	CD	NUMBER	26.0	26.0				
+4	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.16	16	16	16	CD	NUMBER	16.0	16.0				
+5	0	fb:cell_kharakteristik.persentase_sekolah_atau_kelompok_masyarakat	persentase sekolah atau kelompok masyarakat	persentase|sekolah|atau|kelompok|masyarakat	persentase|sekolah|atau|kelompok|masyarakat	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+5	1	fb:cell_total_65_tahun_ke_atas_wanita.13	13	13	13	CD	NUMBER	13.0	13.0				
+5	2	fb:cell_total_65_tahun_ke_atas_laki_laki.12	12	12	12	CD	NUMBER	12.0	12.0				
+5	3	fb:cell_wanita_65_hingga_74_tahun.15	15	15	15	CD	NUMBER	15.0	15.0				
+5	4	fb:cell_pria_berusia_65_hingga_74_tahun.13	13	13	13	CD	NUMBER	13.0	13.0				
+5	5	fb:cell_wanita_berusia_75_tahun_ke_atas.10	10	10	10	CD	NUMBER	10.0	10.0				
+5	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.11	11	11	11	CD	NUMBER	11.0	11.0				
+6	0	fb:cell_kharakteristik.klub_layanan_persentase	klub layanan persentase	klub|layanan|persentase	klub|layanan|persentase	NNP|NNP|NN	O|O|O	||					
+6	1	fb:cell_total_65_tahun_ke_atas_wanita.9	9	9	9	CD	NUMBER	9.0	9.0				
+6	2	fb:cell_total_65_tahun_ke_atas_laki_laki.15	15	15	15	CD	NUMBER	15.0	15.0				
+6	3	fb:cell_wanita_65_hingga_74_tahun.9	9	9	9	CD	NUMBER	9.0	9.0				
+6	4	fb:cell_pria_berusia_65_hingga_74_tahun.14	14	14	14	CD	NUMBER	14.0	14.0				
+6	5	fb:cell_wanita_berusia_75_tahun_ke_atas.8	8	8	8	CD	NUMBER	8.0	8.0				
+6	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.16	16	16	16	CD	NUMBER	16.0	16.0				
+7	0	fb:cell_kharakteristik.persentase_kelompok_senior	persentase kelompok senior	persentase|kelompok|senior	persentase|kelompok|senior	NN|NN|JJ	O|O|O	||					
+7	1	fb:cell_total_65_tahun_ke_atas_wanita.28	28	28	28	CD	NUMBER	28.0	28.0				
+7	2	fb:cell_total_65_tahun_ke_atas_laki_laki.18	18	18	18	CD	NUMBER	18.0	18.0				
+7	3	fb:cell_wanita_65_hingga_74_tahun.23	23	23	23	CD	NUMBER	23.0	23.0				
+7	4	fb:cell_pria_berusia_65_hingga_74_tahun.14	14	14	14	CD	NUMBER	14.0	14.0				
+7	5	fb:cell_wanita_berusia_75_tahun_ke_atas.33	33	33	33	CD	NUMBER	33.0	33.0				
+7	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.24	24	24	24	CD	NUMBER	24.0	24.0				
+8	0	fb:cell_kharakteristik.persentase_asosiasi_atau_klub_imigran_atau_etnis	persentase asosiasi atau klub imigran atau etnis	persentase|asosiasi|atau|klub|imigran|atau|etnis	persentase|asosiasi|atau|klub|imigran|atau|etnis	NN|NN|NN|NN|NN|NN|FW	O|O|O|O|O|O|O	||||||					
+8	1	fb:cell_total_65_tahun_ke_atas_wanita.3	3	3	3	CD	NUMBER	3.0	3.0				
+8	2	fb:cell_total_65_tahun_ke_atas_laki_laki.3	3	3	3	CD	NUMBER	3.0	3.0				
+8	3	fb:cell_wanita_65_hingga_74_tahun.3	3	3	3	CD	NUMBER	3.0	3.0				
+8	4	fb:cell_pria_berusia_65_hingga_74_tahun.3	3	3	3	CD	NUMBER	3.0	3.0				
+8	5	fb:cell_wanita_berusia_75_tahun_ke_atas.2	2	2	2	CD	NUMBER	2.0	2.0				
+8	6	fb:cell_laki_laki_berusia_75_tahun_ke_atas.3	3	3	3	CD	NUMBER	3.0	3.0				

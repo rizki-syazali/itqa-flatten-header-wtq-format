@@ -1,0 +1,36 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pdb_nominal_tahunan_yang_direvisi_miliaran_dolar	PDB nominal tahunan yang direvisi miliaran dolar	pdb|nominal|tahunan|yang|direvisi|miliaran|dolar	PDB|nominal|tahunan|yang|direvisi|miliaran|dolar	NNP|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	2	fb:row.row.pdb_nominal_tahunan_yang_diterbitkan_sebelumnya_miliaran_dolar	PDB nominal tahunan yang diterbitkan sebelumnya miliaran dolar	pdb|nominal|tahunan|yang|diterbitkan|sebelumnya|miliaran|dolar	PDB|nominal|tahunan|yang|diterbitkan|sebelumnya|miliaran|dolar	NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.revisi_miliaran_dolar	revisi miliaran dolar	revisi|miliaran|dolar	revisi|miliaran|dolar	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.revisi_pertumbuhan_persen_pdb_tahunan	revisi pertumbuhan persen PDB tahunan	revisi|pertumbuhan|persen|pdb|tahunan	revisi|pertumbuhan|persen|PDB|tahunan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	5	fb:row.row.pertumbuhan_persen_pdb_tahunan_yang_dipublikasikan_sebelumnya	pertumbuhan persen PDB tahunan yang dipublikasikan sebelumnya	pertumbuhan|persen|pdb|tahunan|yang|dipublikasikan|sebelumnya	pertumbuhan|persen|PDB|tahunan|yang|dipublikasikan|sebelumnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	6	fb:row.row.revisi_mutlak_terhadap_pertumbuhan_poin_persentase_pdb_tahunan	revisi mutlak terhadap pertumbuhan poin persentase PDB tahunan	revisi|mutlak|terhadap|pertumbuhan|poin|persentase|pdb|tahunan	revisi|mutlak|terhadap|pertumbuhan|poin|persentase|pdb|tahunan	NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.2016	2016	2016	2016	CD	DATE	2016	2016.0	2016-xx-xx			
+0	1	fb:cell_pdb_nominal_tahunan_yang_direvisi_miliaran_dolar.2025_54	2025.54	2025.54	2025.54	CD	NUMBER	2025.54	2025.54				
+0	2	fb:cell_pdb_nominal_tahunan_yang_diterbitkan_sebelumnya_miliaran_dolar.2028_22	2028.22	2028.22	2028.22	CD	NUMBER	2028.22	2028.22				
+0	3	fb:cell_revisi_miliaran_dolar._2_69	-2.69	-2.69	-2.69	CD	NUMBER	-2.69	2.69				
+0	4	fb:cell_revisi_pertumbuhan_persen_pdb_tahunan.1_76	1.76	1.76	1.76	CD	NUMBER	1.76	1.76				
+0	5	fb:cell_pertumbuhan_persen_pdb_tahunan_yang_dipublikasikan_sebelumnya.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+0	6	fb:cell_revisi_mutlak_terhadap_pertumbuhan_poin_persentase_pdb_tahunan.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+1	0	fb:cell_kharakteristik.2017	2017	2017	2017	CD	DATE	2017	2017.0	2017-xx-xx			
+1	1	fb:cell_pdb_nominal_tahunan_yang_direvisi_miliaran_dolar.2141_11	2141.11	2141.11	2141.11	CD	NUMBER	2141.11	2141.11				
+1	2	fb:cell_pdb_nominal_tahunan_yang_diterbitkan_sebelumnya_miliaran_dolar.2141_51	2141.51	2141.51	2141.51	CD	NUMBER	2141.51	2141.51				
+1	3	fb:cell_revisi_miliaran_dolar._0_4	-0.4	-0.4	-0.4	CD	NUMBER	-0.4	0.4				
+1	4	fb:cell_revisi_pertumbuhan_persen_pdb_tahunan.5_71	5.71	5.71	5.71	CD	NUMBER	5.71	5.71				
+1	5	fb:cell_pertumbuhan_persen_pdb_tahunan_yang_dipublikasikan_sebelumnya.5_59	5.59	5.59	5.59	CD	NUMBER	5.59	5.59				
+1	6	fb:cell_revisi_mutlak_terhadap_pertumbuhan_poin_persentase_pdb_tahunan.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+2	0	fb:cell_kharakteristik.2018	2018	2018	2018	CD	DATE	2018	2018.0	2018-xx-xx			
+2	1	fb:cell_pdb_nominal_tahunan_yang_direvisi_miliaran_dolar.2223_86	2223.86	2223.86	2223.86	CD	NUMBER	2223.86	2223.86				
+2	2	fb:cell_pdb_nominal_tahunan_yang_diterbitkan_sebelumnya_miliaran_dolar.2219_06	2219.06	2219.06	2219.06	CD	NUMBER	2219.06	2219.06				
+2	3	fb:cell_revisi_miliaran_dolar.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+2	4	fb:cell_revisi_pertumbuhan_persen_pdb_tahunan.3_86	3.86	3.86	3.86	CD	NUMBER	3.86	3.86				
+2	5	fb:cell_pertumbuhan_persen_pdb_tahunan_yang_dipublikasikan_sebelumnya.3_62	3.62	3.62	3.62	CD	NUMBER	3.62	3.62				
+2	6	fb:cell_revisi_mutlak_terhadap_pertumbuhan_poin_persentase_pdb_tahunan.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+3	0	fb:cell_kharakteristik.rata_rata_tahun_2016_hingga_2018	Rata-rata tahun 2016 hingga 2018	rata|rata|tahun|2016|hingga|2018	rata|rata|tahun|2016|hingga|2018	JJ|JJ|NNP|CD|NNP|CD	O|O|O|DATE|O|DATE	|||2016||2018	2016.0		2018.0		
+3	1	fb:cell_pdb_nominal_tahunan_yang_direvisi_miliaran_dolar.2130_17	2130.17	2130.17	2130.17	CD	NUMBER	2130.17	2130.17				
+3	2	fb:cell_pdb_nominal_tahunan_yang_diterbitkan_sebelumnya_miliaran_dolar.2129_6	2129.6	2129.6	2129.6	CD	NUMBER	2129.6	2129.6				
+3	3	fb:cell_revisi_miliaran_dolar.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+3	4	fb:cell_revisi_pertumbuhan_persen_pdb_tahunan.3_78	3.78	3.78	3.78	CD	NUMBER	3.78	3.78				
+3	5	fb:cell_pertumbuhan_persen_pdb_tahunan_yang_dipublikasikan_sebelumnya.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+3	6	fb:cell_revisi_mutlak_terhadap_pertumbuhan_poin_persentase_pdb_tahunan.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				

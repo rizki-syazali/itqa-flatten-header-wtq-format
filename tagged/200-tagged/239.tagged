@@ -1,0 +1,121 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011	Sensus 2006- keterkaitan survei rumah tangga nasional tahun 2011	sensus|2006|-|keterkaitan|survei|rumah|tangga|nasional|tahun|2011	Sensus|2006|-|keterkaitan|survei|rumah|tangga|nasional|tahun|2011	NNP|CD|:|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|DATE|O|O|O|O|O|O|O|DATE	|2006||||||||2011					
+-1	2	fb:row.row.data_lengkap_sensus_2006	data lengkap sensus 2006	data|lengkap|sensus|2006	datum|lengkap|sensus|2006	NNS|NN|NNP|CD	O|O|O|DATE	|||2006					
+0	0	fb:cell_kharakteristik.variabel_rata_rata	variabel rata-rata	variabel|rata|rata	variabel|rata|rata	NNP|JJ|JJ	O|O|O	||					
+0	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.null											
+0	2	fb:cell_data_lengkap_sensus_2006.null											
+1	0	fb:cell_kharakteristik.rata_rata_usia_variabel	rata-rata usia variabel	rata|rata|usia|variabel	rata|rata|usia|variabel	JJ|JJ|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.30_5	30.5	30.5	30.5	CD	NUMBER	30.5	30.5				
+1	2	fb:cell_data_lengkap_sensus_2006.30_7	30.7	30.7	30.7	CD	NUMBER	30.7	30.7				
+2	0	fb:cell_kharakteristik.mean_variabel_pendapatan_keluarga_lainnya	mean variabel pendapatan keluarga lainnya	mean|variabel|pendapatan|keluarga|lainnya	mean|variabel|pendapatan|keluarga|lainnya	VB|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.52088_0	52088.0	52088.0	52088.0	CD	NUMBER	52088.0	52088.0				
+2	2	fb:cell_data_lengkap_sensus_2006.50226_0	50226.0	50226.0	50226.0	CD	NUMBER	50226.0	50226.0				
+3	0	fb:cell_kharakteristik.variabel_rata_rata_jumlah_anak_di_bawah_usia_18_tahun	variabel rata-rata jumlah anak di bawah usia 18 tahun	variabel|rata|rata|jumlah|anak|di|bawah|usia|18|tahun	variabel|rata|rata|jumlah|anak|di|bawah|usia|18|tahun	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|O|O|NUMBER|O	||||||||18.0|	18.0				
+3	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.0_93	0.93	0.93	0.93	CD	NUMBER	0.93	0.93				
+3	2	fb:cell_data_lengkap_sensus_2006.0_92	0.92	0.92	0.92	CD	NUMBER	0.92	0.92				
+4	0	fb:cell_kharakteristik.persentase_bagian_dari_total_kelompok_umur	persentase bagian dari total kelompok umur	persentase|bagian|dari|total|kelompok|umur	persentase|bagian|dari|total|kelompok|umur	NN|NNP|NNP|JJ|NN|NN	O|O|O|O|O|O	|||||					
+4	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.null											
+4	2	fb:cell_data_lengkap_sensus_2006.null											
+5	0	fb:cell_kharakteristik.persentase_bagian_dari_total_kelompok_usia_21_hingga_25_tahun	persentase bagian dari total kelompok usia 21 hingga 25 tahun	persentase|bagian|dari|total|kelompok|usia|21|hingga|25|tahun	persentase|bagian|dari|total|kelompok|usia|21|hingga|25|tahun	NN|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|ORGANIZATION|NUMBER|O|NUMBER|O	||||||21.0||25.0|	21.0		25.0		
+5	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.25_5	25.5	25.5	25.5	CD	NUMBER	25.5	25.5				
+5	2	fb:cell_data_lengkap_sensus_2006.25_1	25.1	25.1	25.1	CD	NUMBER	25.1	25.1				
+6	0	fb:cell_kharakteristik.persentase_bagian_dari_total_kelompok_usia_26_hingga_30_tahun	persentase bagian dari total kelompok usia 26 hingga 30 tahun	persentase|bagian|dari|total|kelompok|usia|26|hingga|30|tahun	persentase|bagian|dari|total|kelompok|usia|26|hingga|30|tahun	NN|NNP|NNP|NNP|NNP|NNP|CD|JJ|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||26.0||30.0|	26.0		30.0		
+6	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+6	2	fb:cell_data_lengkap_sensus_2006.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+7	0	fb:cell_kharakteristik.persentase_bagian_dari_total_kelompok_usia_31_hingga_35_tahun	persentase bagian dari total kelompok usia 31 hingga 35 tahun	persentase|bagian|dari|total|kelompok|usia|31|hingga|35|tahun	persentase|bagian|dari|total|kelompok|usia|31|hingga|35|tahun	NN|NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||31.0||35.0|	31.0		35.0		
+7	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+7	2	fb:cell_data_lengkap_sensus_2006.24_4	24.4	24.4	24.4	CD	NUMBER	24.4	24.4				
+8	0	fb:cell_kharakteristik.persentase_bagian_dari_total_kelompok_usia_36_hingga_40_tahun	persentase bagian dari total kelompok usia 36 hingga 40 tahun	persentase|bagian|dari|total|kelompok|usia|36|hingga|40|tahun	persentase|bagian|dari|total|kelompok|usia|36|hingga|40|tahun	NN|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O|NUMBER|O	||||||36.0||40.0|	36.0		40.0		
+8	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.25_9	25.9	25.9	25.9	CD	NUMBER	25.9	25.9				
+8	2	fb:cell_data_lengkap_sensus_2006.26_7	26.7	26.7	26.7	CD	NUMBER	26.7	26.7				
+9	0	fb:cell_kharakteristik.persentase_bagian_dari_total_pendidikan	persentase bagian dari total pendidikan	persentase|bagian|dari|total|pendidikan	persentase|bagian|dari|total|pendidikan	NN|NNP|NNP|JJ|NN	O|O|O|O|O	||||					
+9	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.null											
+9	2	fb:cell_data_lengkap_sensus_2006.null											
+10	0	fb:cell_kharakteristik.persentase_bagian_dari_total_pendidikan_sekolah_menengah_atas_atau_kurang	persentase bagian dari total pendidikan sekolah menengah atas atau kurang	persentase|bagian|dari|total|pendidikan|sekolah|menengah|atas|atau|kurang	persentase|bagian|dari|total|pendidikan|sekolah|menengah|atas|atau|kurang	NN|NNP|NNP|JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+10	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.29_3	29.3	29.3	29.3	CD	NUMBER	29.3	29.3				
+10	2	fb:cell_data_lengkap_sensus_2006.30_4	30.4	30.4	30.4	CD	NUMBER	30.4	30.4				
+11	0	fb:cell_kharakteristik.persentase_bagian_dari_total_pendidikan_beberapa_pasca_sekolah_menengah	persentase bagian dari total pendidikan beberapa pasca sekolah menengah	persentase|bagian|dari|total|pendidikan|beberapa|pasca|sekolah|menengah	persentase|bagian|dari|total|pendidikan|beberapa|pasca|sekolah|menengah	NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+11	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+11	2	fb:cell_data_lengkap_sensus_2006.39_7	39.7	39.7	39.7	CD	NUMBER	39.7	39.7				
+12	0	fb:cell_kharakteristik.persentase_bagian_dari_total_pendidikan_gelar_sarjana	persentase bagian dari total pendidikan gelar sarjana	persentase|bagian|dari|total|pendidikan|gelar|sarjana	persentase|bagian|dari|total|pendidikan|gelar|sarjana	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.26_1	26.1	26.1	26.1	CD	NUMBER	26.1	26.1				
+12	2	fb:cell_data_lengkap_sensus_2006.24_6	24.6	24.6	24.6	CD	NUMBER	24.6	24.6				
+13	0	fb:cell_kharakteristik.persentase_bagian_dari_total_gelar_sarjana_pendidikan	persentase bagian dari total gelar sarjana pendidikan	persentase|bagian|dari|total|gelar|sarjana|pendidikan	persentase|bagian|dari|total|gelar|sarjana|pendidikan	NN|NNP|NNP|JJ|JJ|NN|NN	O|O|O|O|O|O|O	||||||					
+13	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+13	2	fb:cell_data_lengkap_sensus_2006.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+14	0	fb:cell_kharakteristik.persentase_bagian_dari_total_status_kemitraan	persentase bagian dari total status kemitraan	persentase|bagian|dari|total|status|kemitraan	persentase|bagian|dari|total|status|kemitraan	NN|NNP|NNP|JJ|NN|NN	O|O|O|O|O|O	|||||					
+14	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.null											
+14	2	fb:cell_data_lengkap_sensus_2006.null											
+15	0	fb:cell_kharakteristik.persentase_bagian_dari_total_status_kemitraan_lajang	persentase bagian dari total status kemitraan lajang	persentase|bagian|dari|total|status|kemitraan|lajang	persentase|bagian|dari|total|status|kemitraan|lajang	NN|NNP|NNP|JJ|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+15	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.38_9	38.9	38.9	38.9	CD	NUMBER	38.9	38.9				
+15	2	fb:cell_data_lengkap_sensus_2006.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+16	0	fb:cell_kharakteristik.persentase_bagian_dari_total_status_kemitraan_pasangan	persentase bagian dari total status kemitraan pasangan	persentase|bagian|dari|total|status|kemitraan|pasangan	persentase|bagian|dari|total|status|kemitraan|pasangan	NN|NNP|NNP|JJ|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+16	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.61_1	61.1	61.1	61.1	CD	NUMBER	61.1	61.1				
+16	2	fb:cell_data_lengkap_sensus_2006.60_9	60.9	60.9	60.9	CD	NUMBER	60.9	60.9				
+17	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu	persentase bagian dari total usia anak bungsu	persentase|bagian|dari|total|usia|anak|bungsu	persentase|bagian|dari|total|usia|anak|bungsu	NN|NNP|NNP|JJ|NNP|NNP|NNP	O|O|O|O|ORGANIZATION|O|O	||||||					
+17	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.null											
+17	2	fb:cell_data_lengkap_sensus_2006.null											
+18	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_tidak_mempunyai_anak	persentase bagian dari total usia anak bungsu tidak mempunyai anak	persentase|bagian|dari|total|usia|anak|bungsu|tidak|mempunyai|anak	persentase|bagian|dari|total|usia|anak|bungsu|tidak|mempunyai|anak	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|ORGANIZATION|O|O|O|O|O	|||||||||					
+18	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+18	2	fb:cell_data_lengkap_sensus_2006.33_3	33.3	33.3	33.3	CD	NUMBER	33.3	33.3				
+19	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_0_hingga_1	persentase bagian dari total usia anak bungsu 0 hingga 1	persentase|bagian|dari|total|usia|anak|bungsu|0|hingga|1	persentase|bagian|dari|total|usia|anak|bungsu|0|hingga|1	NN|NNP|NNP|JJ|NNP|NN|NN|CD|NN|CD	O|O|O|O|ORGANIZATION|O|O|NUMBER|O|NUMBER	|||||||0.0||1.0	0.0		1.0		
+19	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.13_4	13.4	13.4	13.4	CD	NUMBER	13.4	13.4				
+19	2	fb:cell_data_lengkap_sensus_2006.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+20	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_2_hingga_3_tahun	persentase bagian dari total usia anak bungsu 2 hingga 3 tahun	persentase|bagian|dari|total|usia|anak|bungsu|2|hingga|3|tahun	persentase|bagian|dari|total|usia|anak|bungsu|2|hingga|3|tahun	NN|NNP|NNP|JJ|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|ORGANIZATION|O|O|NUMBER|O|NUMBER|O	|||||||2.0||3.0|	2.0		3.0		
+20	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+20	2	fb:cell_data_lengkap_sensus_2006.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+21	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_4_hingga_5_tahun	persentase bagian dari total usia anak bungsu 4 hingga 5 tahun	persentase|bagian|dari|total|usia|anak|bungsu|4|hingga|5|tahun	persentase|bagian|dari|total|usia|anak|bungsu|4|hingga|5|tahun	NN|NNP|NNP|JJ|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|ORGANIZATION|O|O|NUMBER|O|NUMBER|O	|||||||4.0||5.0|	4.0		5.0		
+21	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+21	2	fb:cell_data_lengkap_sensus_2006.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+22	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_6_hingga_12_tahun	persentase bagian dari total usia anak bungsu 6 hingga 12 tahun	persentase|bagian|dari|total|usia|anak|bungsu|6|hingga|12|tahun	persentase|bagian|dari|total|usia|anak|bungsu|6|hingga|12|tahun	NN|NNP|NNP|JJ|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|ORGANIZATION|O|O|NUMBER|O|NUMBER|O	|||||||6.0||12.0|	6.0		12.0		
+22	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+22	2	fb:cell_data_lengkap_sensus_2006.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+23	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_13_hingga_17_tahun	persentase bagian dari total usia anak bungsu 13 hingga 17 tahun	persentase|bagian|dari|total|usia|anak|bungsu|13|hingga|17|tahun	persentase|bagian|dari|total|usia|anak|bungsu|13|hingga|17|tahun	NN|NNP|NNP|JJ|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|ORGANIZATION|O|O|NUMBER|O|NUMBER|O	|||||||13.0||17.0|	13.0		17.0		
+23	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+23	2	fb:cell_data_lengkap_sensus_2006.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+24	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_berusia_18_tahun_ke_atas	persentase bagian dari total usia anak bungsu berusia 18 tahun ke atas	persentase|bagian|dari|total|usia|anak|bungsu|berusia|18|tahun|ke|atas	persentase|bagian|dari|total|usia|anak|bungsu|berusia|18|tahun|ke|atas	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|ORGANIZATION|O|O|O|NUMBER|O|O|O	||||||||18.0|||	18.0				
+24	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+24	2	fb:cell_data_lengkap_sensus_2006.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				
+25	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_bahasa_ibu_selain_bahasa_inggris_atau_perancis	persentase bagian dari total usia anak bungsu bahasa ibu selain bahasa Inggris atau Perancis	persentase|bagian|dari|total|usia|anak|bungsu|bahasa|ibu|selain|bahasa|inggris|atau|perancis	persentase|bagian|dari|total|usia|anak|bungsu|bahasa|ibu|selain|bahasa|Inggris|atau|Perancis	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|ORGANIZATION|O|O|O|O|O|O|O|O|O	|||||||||||||					
+25	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+25	2	fb:cell_data_lengkap_sensus_2006.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+26	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_minoritas_yang_terlihat	persentase bagian dari total usia anak bungsu minoritas yang terlihat	persentase|bagian|dari|total|usia|anak|bungsu|minoritas|yang|terlihat	persentase|bagian|dari|total|usia|anak|bungsu|minoritas|yang|terlihat	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|ORGANIZATION|O|O|O|O|O	|||||||||					
+26	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+26	2	fb:cell_data_lengkap_sensus_2006.21_6	21.6	21.6	21.6	CD	NUMBER	21.6	21.6				
+27	0	fb:cell_kharakteristik.persentase_bagian_dari_total_usia_anak_bungsu_di_perkotaan	persentase bagian dari total usia anak bungsu di perkotaan	persentase|bagian|dari|total|usia|anak|bungsu|di|perkotaan	persentase|bagian|dari|total|usia|anak|bungsu|di|perkotaan	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|ORGANIZATION|O|O|O|O	||||||||					
+27	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.85_2	85.2	85.2	85.2	CD	NUMBER	85.2	85.2				
+27	2	fb:cell_data_lengkap_sensus_2006.84_7	84.7	84.7	84.7	CD	NUMBER	84.7	84.7				
+28	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wilayah	persentase bagian dari total wilayah	persentase|bagian|dari|total|wilayah	persentase|bagian|dari|total|wilayah	NN|NNP|NNP|JJ|NN	O|O|O|O|O	||||					
+28	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.null											
+28	2	fb:cell_data_lengkap_sensus_2006.null											
+29	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wilayah_provinsi_atlantik	persentase bagian dari total wilayah provinsi Atlantik	persentase|bagian|dari|total|wilayah|provinsi|atlantik	persentase|bagian|dari|total|wilayah|provinsi|Atlantik	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+29	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+29	2	fb:cell_data_lengkap_sensus_2006.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+30	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wilayah_quebec	persentase bagian dari total wilayah Quebec	persentase|bagian|dari|total|wilayah|quebec	persentase|bagian|dari|total|wilayah|Quebec	NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+30	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+30	2	fb:cell_data_lengkap_sensus_2006.23_4	23.4	23.4	23.4	CD	NUMBER	23.4	23.4				
+31	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wilayah_ontario	persentase bagian dari total wilayah ontario	persentase|bagian|dari|total|wilayah|ontario	persentase|bagian|dari|total|wilayah|ontario	NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+31	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.39_9	39.9	39.9	39.9	CD	NUMBER	39.9	39.9				
+31	2	fb:cell_data_lengkap_sensus_2006.39_3	39.3	39.3	39.3	CD	NUMBER	39.3	39.3				
+32	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wilayah_padang_rumput	persentase bagian dari total wilayah padang rumput	persentase|bagian|dari|total|wilayah|padang|rumput	persentase|bagian|dari|total|wilayah|padang|rumput	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+32	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+32	2	fb:cell_data_lengkap_sensus_2006.17_5	17.5	17.5	17.5	CD	NUMBER	17.5	17.5				
+33	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wilayah_british_columbia	persentase bagian dari total wilayah British Columbia	persentase|bagian|dari|total|wilayah|british|columbia	persentase|bagian|dari|total|wilayah|British|Columbia	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|LOCATION|O|O|MISC|O	||||||					
+33	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+33	2	fb:cell_data_lengkap_sensus_2006.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+34	0	fb:cell_kharakteristik.persentase_bagian_dari_total_pekerjaan_yang_dibayar_di_wilayah_tersebut	persentase bagian dari total pekerjaan yang dibayar di wilayah tersebut	persentase|bagian|dari|total|pekerjaan|yang|dibayar|di|wilayah|tersebut	persentase|bagian|dari|total|pekerjaan|yang|dibayar|di|wilayah|tersebut	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+34	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.93_4	93.4	93.4	93.4	CD	NUMBER	93.4	93.4				
+34	2	fb:cell_data_lengkap_sensus_2006.93_4	93.4	93.4	93.4	CD	NUMBER	93.4	93.4				
+35	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wirausaha_di_wilayah_tersebut_yang_tergabung	persentase bagian dari total wirausaha di wilayah tersebut, yang tergabung	persentase|bagian|dari|total|wirausaha|di|wilayah|tersebut|,|yang|tergabung	persentase|bagian|dari|total|wirausaha|di|wilayah|tersebut|,|yang|tergabung	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|,|NNP|NNP	O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||				persentase bagian dari total wirausaha di wilayah tersebut|yang tergabung	fb:part_kharakteristik.persentase_bagian_dari_total_wirausaha_di_wilayah_tersebut|fb:part_kharakteristik.yang_tergabung
+35	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+35	2	fb:cell_data_lengkap_sensus_2006.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+36	0	fb:cell_kharakteristik.persentase_bagian_dari_total_wirausaha_di_wilayah_tersebut_tidak_berbadan_hukum	persentase bagian dari total wirausaha di wilayah tersebut, tidak berbadan hukum	persentase|bagian|dari|total|wirausaha|di|wilayah|tersebut|,|tidak|berbadan|hukum	persentase|bagian|dari|total|wirausaha|di|wilayah|tersebut|,|tidak|berbadan|hukum	NN|NNP|NNP|JJ|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				persentase bagian dari total wirausaha di wilayah tersebut|tidak berbadan hukum	fb:part_kharakteristik.persentase_bagian_dari_total_wirausaha_di_wilayah_tersebut|fb:part_kharakteristik.tidak_berbadan_hukum
+36	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+36	2	fb:cell_data_lengkap_sensus_2006.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+37	0	fb:cell_kharakteristik.observasi_angka	observasi angka	observasi|angka	observasi|angka	NNP|NNP	O|O	|					
+37	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.69374_0	69374.0	69374.0	69374.0	CD	NUMBER	69374.0	69374.0				
+37	2	fb:cell_data_lengkap_sensus_2006.673673_0	673673.0	673673.0	673673.0	CD	NUMBER	673673.0	673673.0				
+38	0	fb:cell_kharakteristik.observasi_angka	observasi angka	observasi|angka	observasi|angka	NNP|NNP	O|O	|					
+38	1	fb:cell_sensus_2006_keterkaitan_survei_rumah_tangga_nasional_tahun_2011.3619332_0	3619332.0	3619332.0	3619332.0	CD	NUMBER	3619332.0	3619332.0				
+38	2	fb:cell_data_lengkap_sensus_2006.3467619_0	3467619.0	3467619.0	3467619.0	CD	NUMBER	3467619.0	3467619.0				

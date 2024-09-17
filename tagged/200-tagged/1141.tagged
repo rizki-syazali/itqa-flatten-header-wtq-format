@@ -1,0 +1,217 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_ukuran_sampel	nomor ukuran sampel	nomor|ukuran|sampel	nomor|ukuran|sampel	NN|NN|NN	O|O|O	||					
+-1	2	fb:row.row.persen_definisi_berbasis_telur	persen definisi berbasis telur	persen|definisi|berbasis|telur	persen|definisi|berbasis|telur	JJ|NN|NN|NN	O|O|O|O	|||					
+-1	3	fb:row.row.persen_definisi_berbasis_ei	persen definisi berbasis ei	persen|definisi|berbasis|ei	persen|definisi|berbasis|ei	JJ|NN|NN|NN	O|O|O|O	|||					
+-1	4	fb:row.row.perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe	perbedaan antara rasio definisi berbasis ei dan roe	perbedaan|antara|rasio|definisi|berbasis|ei|dan|roe	perbedaan|antara|rasio|definisi|berbasis|ei|dan|roe	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||					
+-1	5	fb:row.row.perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe	perbedaan antara poin persentase definisi berbasis ei dan roe	perbedaan|antara|poin|persentase|definisi|berbasis|ei|dan|roe	perbedaan|antara|poin|persentase|definisi|berbasis|ei|dan|roe	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|PERSON|PERSON	||||||||					
+0	0	fb:cell_kharakteristik.status_perkawinan	status perkawinan	status|perkawinan	status|perkawinan	NN|NN	O|O	|					
+0	1	fb:cell_nomor_ukuran_sampel.null											
+0	2	fb:cell_persen_definisi_berbasis_telur.null											
+0	3	fb:cell_persen_definisi_berbasis_ei.null											
+0	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.null											
+0	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.null											
+1	0	fb:cell_kharakteristik.status_perkawinan_menikah	status perkawinan menikah	status|perkawinan|menikah	status|perkawinan|menikah	NN|NN|NN	O|O|O	||					
+1	1	fb:cell_nomor_ukuran_sampel.2179467_0	2179467.0	2179467.0	2179467.0	CD	NUMBER	2179467.0	2179467.0				
+1	2	fb:cell_persen_definisi_berbasis_telur.54_1	54.1	54.1	54.1	CD	NUMBER	54.1	54.1				
+1	3	fb:cell_persen_definisi_berbasis_ei.72_3	72.3	72.3	72.3	CD	NUMBER	72.3	72.3				
+1	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+1	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+2	0	fb:cell_kharakteristik.status_perkawinan_menurut_hukum_adat	status perkawinan menurut hukum adat	status|perkawinan|menurut|hukum|adat	status|perkawinan|menurut|hukum|adat	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+2	1	fb:cell_nomor_ukuran_sampel.916691_0	916691.0	916691.0	916691.0	CD	NUMBER	916691.0	916691.0				
+2	2	fb:cell_persen_definisi_berbasis_telur.48_9	48.9	48.9	48.9	CD	NUMBER	48.9	48.9				
+2	3	fb:cell_persen_definisi_berbasis_ei.77_6	77.6	77.6	77.6	CD	NUMBER	77.6	77.6				
+2	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+2	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.28_7	28.7	28.7	28.7	CD	NUMBER	28.7	28.7				
+3	0	fb:cell_kharakteristik.status_perkawinan_orang_tua_tunggal	status perkawinan orang tua tunggal	status|perkawinan|orang|tua|tunggal	status|perkawinan|orang|tua|tunggal	NN|NN|NNP|NNP|NNP	O|O|O|O|O	||||					
+3	1	fb:cell_nomor_ukuran_sampel.508553_0	508553.0	508553.0	508553.0	CD	NUMBER	508553.0	508553.0				
+3	2	fb:cell_persen_definisi_berbasis_telur.28_6	28.6	28.6	28.6	CD	NUMBER	28.6	28.6				
+3	3	fb:cell_persen_definisi_berbasis_ei.44_5	44.5	44.5	44.5	CD	NUMBER	44.5	44.5				
+3	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+3	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+4	0	fb:cell_kharakteristik.jenis_kelamin_orang_tua	jenis kelamin orang tua	jenis|kelamin|orang|tua	jenis|kelamin|orang|tua	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_nomor_ukuran_sampel.null											
+4	2	fb:cell_persen_definisi_berbasis_telur.null											
+4	3	fb:cell_persen_definisi_berbasis_ei.null											
+4	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.null											
+4	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.null											
+5	0	fb:cell_kharakteristik.orang_tua_yang_berjenis_kelamin_lawan_jenis	orang tua yang berjenis kelamin lawan jenis	orang|tua|yang|berjenis|kelamin|lawan|jenis	orang|tua|yang|berjenis|kelamin|lawan|jenis	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_nomor_ukuran_sampel.3089827_0	3089827.0	3089827.0	3089827.0	CD	NUMBER	3089827.0	3089827.0				
+5	2	fb:cell_persen_definisi_berbasis_telur.52_5	52.5	52.5	52.5	CD	NUMBER	52.5	52.5				
+5	3	fb:cell_persen_definisi_berbasis_ei.73_8	73.8	73.8	73.8	CD	NUMBER	73.8	73.8				
+5	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+5	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				
+6	0	fb:cell_kharakteristik.orang_tua_yang_berjenis_kelamin_sama_dengan_orang_tua_yang_berjenis_kelamin_sama	orang tua yang berjenis kelamin sama dengan orang tua yang berjenis kelamin sama	orang|tua|yang|berjenis|kelamin|sama|dengan|orang|tua|yang|berjenis|kelamin|sama	orang|tua|yang|berjenis|kelamin|sama|dengan|orang|tua|yang|berjenis|kelamin|sama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+6	1	fb:cell_nomor_ukuran_sampel.1852_0	1852.0	1852.0	1852.0	CD	NUMBER	1852.0	1852.0				
+6	2	fb:cell_persen_definisi_berbasis_telur.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+6	3	fb:cell_persen_definisi_berbasis_ei.73_7	73.7	73.7	73.7	CD	NUMBER	73.7	73.7				
+6	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+6	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+7	0	fb:cell_kharakteristik.orang_tua_yang_berjenis_kelamin_sama_dengan_orang_tua_yang_berjenis_kelamin_sama	orang tua yang berjenis kelamin sama dengan orang tua yang berjenis kelamin sama	orang|tua|yang|berjenis|kelamin|sama|dengan|orang|tua|yang|berjenis|kelamin|sama	orang|tua|yang|berjenis|kelamin|sama|dengan|orang|tua|yang|berjenis|kelamin|sama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+7	1	fb:cell_nomor_ukuran_sampel.4479_0	4479.0	4479.0	4479.0	CD	NUMBER	4479.0	4479.0				
+7	2	fb:cell_persen_definisi_berbasis_telur.62_8	62.8	62.8	62.8	CD	NUMBER	62.8	62.8				
+7	3	fb:cell_persen_definisi_berbasis_ei.83_2	83.2	83.2	83.2	CD	NUMBER	83.2	83.2				
+7	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+7	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.20_4	20.4	20.4	20.4	CD	NUMBER	20.4	20.4				
+8	0	fb:cell_kharakteristik.orang_tua_tunggal_yang_berjenis_kelamin_laki_laki	orang tua tunggal yang berjenis kelamin laki-laki	orang|tua|tunggal|yang|berjenis|kelamin|laki|laki	orang|tua|tunggal|yang|berjenis|kelamin|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+8	1	fb:cell_nomor_ukuran_sampel.9977_0	9977.0	9977.0	9977.0	CD	NUMBER	9977.0	9977.0				
+8	2	fb:cell_persen_definisi_berbasis_telur.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+8	3	fb:cell_persen_definisi_berbasis_ei.25_1	25.1	25.1	25.1	CD	NUMBER	25.1	25.1				
+8	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+8	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+9	0	fb:cell_kharakteristik.jenis_kelamin_orang_tua_perempuan_orang_tua_tunggal	jenis kelamin orang tua perempuan, orang tua tunggal	jenis|kelamin|orang|tua|perempuan|,|orang|tua|tunggal	jenis|kelamin|orang|tua|perempuan|,|orang|tua|tunggal	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||				jenis kelamin orang tua perempuan|orang tua tunggal	fb:part_kharakteristik.jenis_kelamin_orang_tua_perempuan|fb:part_kharakteristik.orang_tua_tunggal
+9	1	fb:cell_nomor_ukuran_sampel.498576_0	498576.0	498576.0	498576.0	CD	NUMBER	498576.0	498576.0				
+9	2	fb:cell_persen_definisi_berbasis_telur.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+9	3	fb:cell_persen_definisi_berbasis_ei.44_9	44.9	44.9	44.9	CD	NUMBER	44.9	44.9				
+9	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+9	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+10	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran	pendapatan keluarga pada tahun sebelum kelahiran	pendapatan|keluarga|pada|tahun|sebelum|kelahiran	pendapatan|keluarga|pada|tahun|sebelum|kelahiran	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_nomor_ukuran_sampel.null											
+10	2	fb:cell_persen_definisi_berbasis_telur.null											
+10	3	fb:cell_persen_definisi_berbasis_ei.null											
+10	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.null											
+10	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.null											
+11	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran_kurang_dari_30_000	pendapatan keluarga pada tahun sebelum kelahiran kurang dari $30.000	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|kurang|dari|$|30.000	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|kurang|dari|$|30.000	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|O|O|MONEY|MONEY	||||||||$30.0|$30.0	30.0				
+11	1	fb:cell_nomor_ukuran_sampel.925199_0	925199.0	925199.0	925199.0	CD	NUMBER	925199.0	925199.0				
+11	2	fb:cell_persen_definisi_berbasis_telur.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+11	3	fb:cell_persen_definisi_berbasis_ei.38_4	38.4	38.4	38.4	CD	NUMBER	38.4	38.4				
+11	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+11	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.16_5	16.5	16.5	16.5	CD	NUMBER	16.5	16.5				
+12	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran_30_000_hingga_59_999	pendapatan keluarga pada tahun sebelum kelahiran $30.000 hingga $59.999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|30.000|hingga|$|59.999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|30.000|hingga|$|59.999	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$30.0|$30.0||$59.999|$59.999	30.0		59.999		
+12	1	fb:cell_nomor_ukuran_sampel.868464_0	868464.0	868464.0	868464.0	CD	NUMBER	868464.0	868464.0				
+12	2	fb:cell_persen_definisi_berbasis_telur.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+12	3	fb:cell_persen_definisi_berbasis_ei.72_5	72.5	72.5	72.5	CD	NUMBER	72.5	72.5				
+12	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+12	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.28_7	28.7	28.7	28.7	CD	NUMBER	28.7	28.7				
+13	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran_60_000_hingga_89_999	pendapatan keluarga pada tahun sebelum kelahiran $60.000 hingga $89.999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|60.000|hingga|$|89.999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|60.000|hingga|$|89.999	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$60.0|$60.0||$89.999|$89.999	60.0		89.999		
+13	1	fb:cell_nomor_ukuran_sampel.784526_0	784526.0	784526.0	784526.0	CD	NUMBER	784526.0	784526.0				
+13	2	fb:cell_persen_definisi_berbasis_telur.59_2	59.2	59.2	59.2	CD	NUMBER	59.2	59.2				
+13	3	fb:cell_persen_definisi_berbasis_ei.82_3	82.3	82.3	82.3	CD	NUMBER	82.3	82.3				
+13	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+13	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+14	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran_90_000_hingga_119_999	pendapatan keluarga pada tahun sebelum kelahiran $90.000 hingga $119.999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|90.000|hingga|$|119.999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|90.000|hingga|$|119.999	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$90.0|$90.0||$119.999|$119.999	90.0		119.999		
+14	1	fb:cell_nomor_ukuran_sampel.525228_0	525228.0	525228.0	525228.0	CD	NUMBER	525228.0	525228.0				
+14	2	fb:cell_persen_definisi_berbasis_telur.69_6	69.6	69.6	69.6	CD	NUMBER	69.6	69.6				
+14	3	fb:cell_persen_definisi_berbasis_ei.87_3	87.3	87.3	87.3	CD	NUMBER	87.3	87.3				
+14	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+14	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+15	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran_120_000_hingga_149_999	pendapatan keluarga pada tahun sebelum kelahiran $120,000 hingga $149,999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|120,000|hingga|$|149,999	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|120,000|hingga|$|149,999	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||||$120000.0|$120000.0||$149999.0|$149999.0	120000.0		149999.0		
+15	1	fb:cell_nomor_ukuran_sampel.259397_0	259397.0	259397.0	259397.0	CD	NUMBER	259397.0	259397.0				
+15	2	fb:cell_persen_definisi_berbasis_telur.73_9	73.9	73.9	73.9	CD	NUMBER	73.9	73.9				
+15	3	fb:cell_persen_definisi_berbasis_ei.88_7	88.7	88.7	88.7	CD	NUMBER	88.7	88.7				
+15	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+15	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				
+16	0	fb:cell_kharakteristik.pendapatan_keluarga_pada_tahun_sebelum_kelahiran_150_000_atau_lebih	pendapatan keluarga pada tahun sebelum kelahiran $150.000 atau lebih	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|150.000|atau|lebih	pendapatan|keluarga|pada|tahun|sebelum|kelahiran|$|150.000|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|NN	O|O|O|O|O|O|MONEY|MONEY|O|O	||||||$150.0|$150.0||	150.0				
+16	1	fb:cell_nomor_ukuran_sampel.241899_0	241899.0	241899.0	241899.0	CD	NUMBER	241899.0	241899.0				
+16	2	fb:cell_persen_definisi_berbasis_telur.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+16	3	fb:cell_persen_definisi_berbasis_ei.82_7	82.7	82.7	82.7	CD	NUMBER	82.7	82.7				
+16	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+16	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+17	0	fb:cell_kharakteristik.jumlah_anak	jumlah anak	jumlah|anak	jumlah|anak	NNP|NNP	O|O	|					
+17	1	fb:cell_nomor_ukuran_sampel.null											
+17	2	fb:cell_persen_definisi_berbasis_telur.null											
+17	3	fb:cell_persen_definisi_berbasis_ei.null											
+17	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.null											
+17	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.null											
+18	0	fb:cell_kharakteristik.jumlah_anak_0	jumlah anak 0	jumlah|anak|0	jumlah|anak|0	NNP|NNP|CD	O|O|NUMBER	||0.0	0.0				
+18	1	fb:cell_nomor_ukuran_sampel.3452200_0	3452200.0	3452200.0	3452200.0	CD	NUMBER	3452200.0	3452200.0				
+18	2	fb:cell_persen_definisi_berbasis_telur.48_4	48.4	48.4	48.4	CD	NUMBER	48.4	48.4				
+18	3	fb:cell_persen_definisi_berbasis_ei.68_8	68.8	68.8	68.8	CD	NUMBER	68.8	68.8				
+18	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+18	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.20_4	20.4	20.4	20.4	CD	NUMBER	20.4	20.4				
+19	0	fb:cell_kharakteristik.jumlah_anak_1	jumlah anak 1	jumlah|anak|1	jumlah|anak|1	NNP|NNP|CD	O|O|NUMBER	||1.0	1.0				
+19	1	fb:cell_nomor_ukuran_sampel.115774_0	115774.0	115774.0	115774.0	CD	NUMBER	115774.0	115774.0				
+19	2	fb:cell_persen_definisi_berbasis_telur.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+19	3	fb:cell_persen_definisi_berbasis_ei.91_1	91.1	91.1	91.1	CD	NUMBER	91.1	91.1				
+19	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+19	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+20	0	fb:cell_kharakteristik.jumlah_anak_2	jumlah anak 2	jumlah|anak|2	jumlah|anak|2	NNP|NNP|CD	O|O|NUMBER	||2.0	2.0				
+20	1	fb:cell_nomor_ukuran_sampel.30387_0	30387.0	30387.0	30387.0	CD	NUMBER	30387.0	30387.0				
+20	2	fb:cell_persen_definisi_berbasis_telur.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+20	3	fb:cell_persen_definisi_berbasis_ei.86_6	86.6	86.6	86.6	CD	NUMBER	86.6	86.6				
+20	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+20	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.24_6	24.6	24.6	24.6	CD	NUMBER	24.6	24.6				
+21	0	fb:cell_kharakteristik.jumlah_anak_3	jumlah anak 3	jumlah|anak|3	jumlah|anak|3	NNP|NNP|CD	O|O|NUMBER	||3.0	3.0				
+21	1	fb:cell_nomor_ukuran_sampel.5179_0	5179.0	5179.0	5179.0	CD	NUMBER	5179.0	5179.0				
+21	2	fb:cell_persen_definisi_berbasis_telur.55_8	55.8	55.8	55.8	CD	NUMBER	55.8	55.8				
+21	3	fb:cell_persen_definisi_berbasis_ei.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+21	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+21	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.25_6	25.6	25.6	25.6	CD	NUMBER	25.6	25.6				
+22	0	fb:cell_kharakteristik.jumlah_anak_4_atau_lebih	jumlah anak 4 atau lebih	jumlah|anak|4|atau|lebih	jumlah|anak|4|atau|lebih	NNP|NNP|CD|NN|NN	O|O|NUMBER|O|O	||4.0||	4.0				
+22	1	fb:cell_nomor_ukuran_sampel.1173_0	1173.0	1173.0	1173.0	CD	NUMBER	1173.0	1173.0				
+22	2	fb:cell_persen_definisi_berbasis_telur.48_3	48.3	48.3	48.3	CD	NUMBER	48.3	48.3				
+22	3	fb:cell_persen_definisi_berbasis_ei.72_6	72.6	72.6	72.6	CD	NUMBER	72.6	72.6				
+22	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+22	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+23	0	fb:cell_kharakteristik.provinsi_atau_wilayah	provinsi atau wilayah	provinsi|atau|wilayah	provinsi|atau|wilayah	NNP|NNP|NNP	O|O|O	||					
+23	1	fb:cell_nomor_ukuran_sampel.null											
+23	2	fb:cell_persen_definisi_berbasis_telur.null											
+23	3	fb:cell_persen_definisi_berbasis_ei.null											
+23	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.null											
+23	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.null											
+24	0	fb:cell_kharakteristik.provinsi_atau_wilayah_newfoundland_dan_labrador	provinsi atau wilayah newfoundland dan labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+24	1	fb:cell_nomor_ukuran_sampel.63480_0	63480.0	63480.0	63480.0	CD	NUMBER	63480.0	63480.0				
+24	2	fb:cell_persen_definisi_berbasis_telur.31_6	31.6	31.6	31.6	CD	NUMBER	31.6	31.6				
+24	3	fb:cell_persen_definisi_berbasis_ei.62_3	62.3	62.3	62.3	CD	NUMBER	62.3	62.3				
+24	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+24	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.30_7	30.7	30.7	30.7	CD	NUMBER	30.7	30.7				
+25	0	fb:cell_kharakteristik.provinsi_atau_wilayah_pulau_pangeran_edward	provinsi atau wilayah pulau pangeran edward	provinsi|atau|wilayah|pulau|pangeran|edward	provinsi|atau|wilayah|pulau|pangeran|edward	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+25	1	fb:cell_nomor_ukuran_sampel.14821_0	14821.0	14821.0	14821.0	CD	NUMBER	14821.0	14821.0				
+25	2	fb:cell_persen_definisi_berbasis_telur.49_5	49.5	49.5	49.5	CD	NUMBER	49.5	49.5				
+25	3	fb:cell_persen_definisi_berbasis_ei.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+25	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+25	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.34_8	34.8	34.8	34.8	CD	NUMBER	34.8	34.8				
+26	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nova_scotia	provinsi atau wilayah nova scotia	provinsi|atau|wilayah|nova|scotia	provinsi|atau|wilayah|nova|scotia	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+26	1	fb:cell_nomor_ukuran_sampel.92757_0	92757.0	92757.0	92757.0	CD	NUMBER	92757.0	92757.0				
+26	2	fb:cell_persen_definisi_berbasis_telur.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+26	3	fb:cell_persen_definisi_berbasis_ei.73_5	73.5	73.5	73.5	CD	NUMBER	73.5	73.5				
+26	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+26	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.25_8	25.8	25.8	25.8	CD	NUMBER	25.8	25.8				
+27	0	fb:cell_kharakteristik.provinsi_atau_wilayah_brunswick_baru	provinsi atau wilayah brunswick baru	provinsi|atau|wilayah|brunswick|baru	provinsi|atau|wilayah|brunswick|baru	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+27	1	fb:cell_nomor_ukuran_sampel.77176_0	77176.0	77176.0	77176.0	CD	NUMBER	77176.0	77176.0				
+27	2	fb:cell_persen_definisi_berbasis_telur.46_5	46.5	46.5	46.5	CD	NUMBER	46.5	46.5				
+27	3	fb:cell_persen_definisi_berbasis_ei.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+27	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+27	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.30_5	30.5	30.5	30.5	CD	NUMBER	30.5	30.5				
+28	0	fb:cell_kharakteristik.provinsi_atau_wilayah_quebec	provinsi atau wilayah quebec	provinsi|atau|wilayah|quebec	provinsi|atau|wilayah|quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+28	1	fb:cell_nomor_ukuran_sampel.828392_0	828392.0	828392.0	828392.0	CD	NUMBER	828392.0	828392.0				
+28	2	fb:cell_persen_definisi_berbasis_telur.49_7	49.7	49.7	49.7	CD	NUMBER	49.7	49.7				
+28	3	fb:cell_persen_definisi_berbasis_ei.78_5	78.5	78.5	78.5	CD	NUMBER	78.5	78.5				
+28	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+28	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.28_8	28.8	28.8	28.8	CD	NUMBER	28.8	28.8				
+29	0	fb:cell_kharakteristik.provinsi_atau_wilayah_ontario	provinsi atau wilayah ontario	provinsi|atau|wilayah|ontario	provinsi|atau|wilayah|ontario	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+29	1	fb:cell_nomor_ukuran_sampel.1354528_0	1354528.0	1354528.0	1354528.0	CD	NUMBER	1354528.0	1354528.0				
+29	2	fb:cell_persen_definisi_berbasis_telur.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+29	3	fb:cell_persen_definisi_berbasis_ei.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+29	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+29	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+30	0	fb:cell_kharakteristik.provinsi_atau_wilayah_manitoba	provinsi atau wilayah manitoba	provinsi|atau|wilayah|manitoba	provinsi|atau|wilayah|manitoba	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+30	1	fb:cell_nomor_ukuran_sampel.144359_0	144359.0	144359.0	144359.0	CD	NUMBER	144359.0	144359.0				
+30	2	fb:cell_persen_definisi_berbasis_telur.45_7	45.7	45.7	45.7	CD	NUMBER	45.7	45.7				
+30	3	fb:cell_persen_definisi_berbasis_ei.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+30	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+30	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+31	0	fb:cell_kharakteristik.provinsi_atau_wilayah_saskatchewan	provinsi atau wilayah saskatchewan	provinsi|atau|wilayah|saskatchewan	provinsi|atau|wilayah|saskatchewan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+31	1	fb:cell_nomor_ukuran_sampel.126468_0	126468.0	126468.0	126468.0	CD	NUMBER	126468.0	126468.0				
+31	2	fb:cell_persen_definisi_berbasis_telur.44_5	44.5	44.5	44.5	CD	NUMBER	44.5	44.5				
+31	3	fb:cell_persen_definisi_berbasis_ei.60_5	60.5	60.5	60.5	CD	NUMBER	60.5	60.5				
+31	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+31	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+32	0	fb:cell_kharakteristik.provinsi_atau_wilayah_alberta	provinsi atau wilayah alberta	provinsi|atau|wilayah|alberta	provinsi|atau|wilayah|alberta	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+32	1	fb:cell_nomor_ukuran_sampel.424162_0	424162.0	424162.0	424162.0	CD	NUMBER	424162.0	424162.0				
+32	2	fb:cell_persen_definisi_berbasis_telur.46_7	46.7	46.7	46.7	CD	NUMBER	46.7	46.7				
+32	3	fb:cell_persen_definisi_berbasis_ei.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+32	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+32	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+33	0	fb:cell_kharakteristik.provinsi_atau_wilayah_columbia_inggris	provinsi atau wilayah columbia inggris	provinsi|atau|wilayah|columbia|inggris	provinsi|atau|wilayah|columbia|inggris	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+33	1	fb:cell_nomor_ukuran_sampel.431247_0	431247.0	431247.0	431247.0	CD	NUMBER	431247.0	431247.0				
+33	2	fb:cell_persen_definisi_berbasis_telur.47_5	47.5	47.5	47.5	CD	NUMBER	47.5	47.5				
+33	3	fb:cell_persen_definisi_berbasis_ei.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+33	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+33	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+34	0	fb:cell_kharakteristik.wilayah_provinsi_atau_teritori	wilayah provinsi atau teritori	wilayah|provinsi|atau|teritori	wilayah|provinsi|atau|teritori	JJ|NN|NN|NN	O|O|O|O	|||					
+34	1	fb:cell_nomor_ukuran_sampel.19236_0	19236.0	19236.0	19236.0	CD	NUMBER	19236.0	19236.0				
+34	2	fb:cell_persen_definisi_berbasis_telur.34_4	34.4	34.4	34.4	CD	NUMBER	34.4	34.4				
+34	3	fb:cell_persen_definisi_berbasis_ei.50_9	50.9	50.9	50.9	CD	NUMBER	50.9	50.9				
+34	4	fb:cell_perbedaan_antara_rasio_definisi_berbasis_ei_dan_roe.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+34	5	fb:cell_perbedaan_antara_poin_persentase_definisi_berbasis_ei_dan_roe.16_5	16.5	16.5	16.5	CD	NUMBER	16.5	16.5				

@@ -1,0 +1,36 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_pendapatan_rendah_setelah_pajak_termasuk_witb	tingkat pendapatan rendah setelah pajak termasuk witb	tingkat|pendapatan|rendah|setelah|pajak|termasuk|witb	tingkat|pendapatan|rendah|setelah|pajak|termasuk|witb	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	2	fb:row.row.tingkat_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb	tingkat pendapatan rendah setelah pajak tidak termasuk witb	tingkat|pendapatan|rendah|setelah|pajak|tidak|termasuk|witb	tingkat|pendapatan|rendah|setelah|pajak|tidak|termasuk|witb	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.perbedaan_tingkat_pendapatan_rendah_setelah_pajak	perbedaan tingkat pendapatan rendah setelah pajak	perbedaan|tingkat|pendapatan|rendah|setelah|pajak	perbedaan|tingkat|pendapatan|rendah|setelah|pajak	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_termasuk_witb	rata-rata rasio kesenjangan pendapatan rendah setelah pajak termasuk witb	rata|rata|rasio|kesenjangan|pendapatan|rendah|setelah|pajak|termasuk|witb	rata|rata|rasio|kesenjangan|pendapatan|rendah|setelah|pajak|termasuk|witb	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	5	fb:row.row.rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb	rata-rata rasio kesenjangan pendapatan rendah setelah pajak tidak termasuk witb	rata|rata|rasio|kesenjangan|pendapatan|rendah|setelah|pajak|tidak|termasuk|witb	rata|rata|rasio|kesenjangan|pendapatan|rendah|setelah|pajak|tidak|termasuk|witb	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	6	fb:row.row.rata_rata_perbedaan_rasio_kesenjangan_pendapatan_rendah_setelah_pajak	rata-rata perbedaan rasio kesenjangan pendapatan rendah setelah pajak	rata|rata|perbedaan|rasio|kesenjangan|pendapatan|rendah|setelah|pajak	rata|rata|perbedaan|rasio|kesenjangan|pendapatan|rendah|setelah|pajak	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.persen_jumlah_penduduk	persen jumlah penduduk	persen|jumlah|penduduk	persen|jumlah|penduduk	JJ|NN|NN	O|O|O	||					
+0	1	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_termasuk_witb.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+0	2	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+0	3	fb:cell_perbedaan_tingkat_pendapatan_rendah_setelah_pajak.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+0	4	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_termasuk_witb.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+0	5	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.39_5	39.5	39.5	39.5	CD	NUMBER	39.5	39.5				
+0	6	fb:cell_rata_rata_perbedaan_rasio_kesenjangan_pendapatan_rendah_setelah_pajak.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+1	0	fb:cell_kharakteristik.persen_dengan_populasi	persen dengan populasi	persen|dengan|populasi	persen|dengan|populasi	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_termasuk_witb.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+1	2	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.58_3	58.3	58.3	58.3	CD	NUMBER	58.3	58.3				
+1	3	fb:cell_perbedaan_tingkat_pendapatan_rendah_setelah_pajak.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+1	4	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_termasuk_witb.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+1	5	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+1	6	fb:cell_rata_rata_perbedaan_rasio_kesenjangan_pendapatan_rendah_setelah_pajak.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+2	0	fb:cell_kharakteristik.persen_keluarga_perempuan_dengan_orang_tua_tunggal	persen keluarga perempuan dengan orang tua tunggal	persen|keluarga|perempuan|dengan|orang|tua|tunggal	persen|keluarga|perempuan|dengan|orang|tua|tunggal	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+2	1	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_termasuk_witb.42_2	42.2	42.2	42.2	CD	NUMBER	42.2	42.2				
+2	2	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.42_9	42.9	42.9	42.9	CD	NUMBER	42.9	42.9				
+2	3	fb:cell_perbedaan_tingkat_pendapatan_rendah_setelah_pajak.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+2	4	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_termasuk_witb.39_9	39.9	39.9	39.9	CD	NUMBER	39.9	39.9				
+2	5	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.40_2	40.2	40.2	40.2	CD	NUMBER	40.2	40.2				
+2	6	fb:cell_rata_rata_perbedaan_rasio_kesenjangan_pendapatan_rendah_setelah_pajak.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	0	fb:cell_kharakteristik.persen_dengan_keluarga_orang_tua_tunggal_perempuan	persen dengan keluarga orang tua tunggal perempuan	persen|dengan|keluarga|orang|tua|tunggal|perempuan	persen|dengan|keluarga|orang|tua|tunggal|perempuan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_termasuk_witb.53_7	53.7	53.7	53.7	CD	NUMBER	53.7	53.7				
+3	2	fb:cell_tingkat_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+3	3	fb:cell_perbedaan_tingkat_pendapatan_rendah_setelah_pajak.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+3	4	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_termasuk_witb.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+3	5	fb:cell_rata_rata_rasio_kesenjangan_pendapatan_rendah_setelah_pajak_tidak_termasuk_witb.26_6	26.6	26.6	26.6	CD	NUMBER	26.6	26.6				
+3	6	fb:cell_rata_rata_perbedaan_rasio_kesenjangan_pendapatan_rendah_setelah_pajak.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				

@@ -1,0 +1,61 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor	nomor	nomor	nomor	NNP	O						
+-1	2	fb:row.row.persen	persen	persen	persen	NNP	O						
+-1	3	fb:row.row.kecepatan	kecepatan	kecepatan	kecepatan	NNP	O						
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+0	2	fb:cell_persen.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+0	3	fb:cell_kecepatan.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+1	2	fb:cell_persen.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+1	3	fb:cell_kecepatan.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+2	2	fb:cell_persen.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+2	3	fb:cell_kecepatan.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+3	2	fb:cell_persen.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+3	3	fb:cell_kecepatan.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_nomor.487_0	487.0	487.0	487.0	CD	NUMBER	487.0	487.0				
+4	2	fb:cell_persen.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+4	3	fb:cell_kecepatan.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_nomor.909_0	909.0	909.0	909.0	CD	NUMBER	909.0	909.0				
+5	2	fb:cell_persen.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+5	3	fb:cell_kecepatan.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_nomor.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+6	2	fb:cell_persen.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+6	3	fb:cell_kecepatan.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_nomor.103_0	103.0	103.0	103.0	CD	NUMBER	103.0	103.0				
+7	2	fb:cell_persen.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+7	3	fb:cell_kecepatan.35_3	35.3	35.3	35.3	CD	NUMBER	35.3	35.3				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_nomor.219_0	219.0	219.0	219.0	CD	NUMBER	219.0	219.0				
+8	2	fb:cell_persen.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+8	3	fb:cell_kecepatan.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor.353_0	353.0	353.0	353.0	CD	NUMBER	353.0	353.0				
+9	2	fb:cell_persen.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+9	3	fb:cell_kecepatan.26_7	26.7	26.7	26.7	CD	NUMBER	26.7	26.7				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_nomor.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+10	2	fb:cell_persen.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+10	3	fb:cell_kecepatan.71_9	71.9	71.9	71.9	CD	NUMBER	71.9	71.9				
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_nomor.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+11	2	fb:cell_persen.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+11	3	fb:cell_kecepatan.152_7	152.7	152.7	152.7	CD	NUMBER	152.7	152.7				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_nomor.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+12	2	fb:cell_persen.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+12	3	fb:cell_kecepatan.190_4	190.4	190.4	190.4	CD	NUMBER	190.4	190.4				
+13	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+13	1	fb:cell_nomor.2329_0	2329.0	2329.0	2329.0	CD	NUMBER	2329.0	2329.0				
+13	2	fb:cell_persen.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+13	3	fb:cell_kecepatan.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				

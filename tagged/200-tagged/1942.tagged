@@ -1,0 +1,136 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_2018_terkait_senjata_api	nomor 2018 terkait senjata api	nomor|2018|terkait|senjata|api	nomor|2018|terkait|senjata|api	NNP|CD|NNP|NNP|NNP	O|DATE|O|O|O	|2018|||					
+-1	2	fb:row.row.terkait_senjata_api_2018_persen	terkait senjata api 2018 persen	terkait|senjata|api|2018|persen	terkait|senjata|api|2018|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2018|					
+-1	3	fb:row.row.tingkat_terkait_senjata_api_tahun_2018	tingkat terkait senjata api tahun 2018	tingkat|terkait|senjata|api|tahun|2018	tingkat|terkait|senjata|api|tahun|2018	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2018					
+-1	4	fb:row.row.jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api	jumlah total pembunuhan tahun 2018 terkait senjata api	jumlah|total|pembunuhan|tahun|2018|terkait|senjata|api	jumlah|total|pembunuhan|tahun|2018|terkait|senjata|api	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O	||||2018|||					
+-1	5	fb:row.row.nomor_2017r_terkait_senjata_api	nomor 2017r terkait senjata api	nomor|2017r|terkait|senjata|api	nomor|2017r|terkait|senjata|api	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	6	fb:row.row.terkait_senjata_api_2017r_persen	terkait senjata api 2017r persen	terkait|senjata|api|2017r|persen	terkait|senjata|api|2017r|persen	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	7	fb:row.row.tingkat_2017r_terkait_senjata_api	tingkat 2017r terkait senjata api	tingkat|2017r|terkait|senjata|api	tingkat|2017r|terkait|senjata|api	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	8	fb:row.row.jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api	jumlah total pembunuhan tahun 2017 yang terkait dengan senjata api	jumlah|total|pembunuhan|tahun|2017|yang|terkait|dengan|senjata|api	jumlah|total|pembunuhan|tahun|2017|yang|terkait|dengan|senjata|api	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O|O	||||2017|||||					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor_2018_terkait_senjata_api.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	2	fb:cell_terkait_senjata_api_2018_persen.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+0	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+0	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.2	2	2	2	CD	NUMBER	2.0	2.0				
+0	5	fb:cell_nomor_2017r_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	6	fb:cell_terkait_senjata_api_2017r_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.4	4	4	4	CD	NUMBER	4.0	4.0				
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor_2018_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	2	fb:cell_terkait_senjata_api_2018_persen.null											
+1	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	5	fb:cell_nomor_2017r_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	6	fb:cell_terkait_senjata_api_2017r_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.2	2	2	2	CD	NUMBER	2.0	2.0				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor_2018_terkait_senjata_api.4	4	4	4	CD	NUMBER	4.0	4.0				
+2	2	fb:cell_terkait_senjata_api_2018_persen.36_4	36.4	36.4	36.4	CD	NUMBER	36.4	36.4				
+2	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_42	0.42	0.42	0.42	CD	NUMBER	0.42	0.42				
+2	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.11	11	11	11	CD	NUMBER	11.0	11.0				
+2	5	fb:cell_nomor_2017r_terkait_senjata_api.8	8	8	8	CD	NUMBER	8.0	8.0				
+2	6	fb:cell_terkait_senjata_api_2017r_persen.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+2	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+2	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.21	21	21	21	CD	NUMBER	21.0	21.0				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor_2018_terkait_senjata_api.5	5	5	5	CD	NUMBER	5.0	5.0				
+3	2	fb:cell_terkait_senjata_api_2018_persen.38_5	38.5	38.5	38.5	CD	NUMBER	38.5	38.5				
+3	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+3	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.13	13	13	13	CD	NUMBER	13.0	13.0				
+3	5	fb:cell_nomor_2017r_terkait_senjata_api.5	5	5	5	CD	NUMBER	5.0	5.0				
+3	6	fb:cell_terkait_senjata_api_2017r_persen.55_6	55.6	55.6	55.6	CD	NUMBER	55.6	55.6				
+3	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+3	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.10	10	10	10	CD	NUMBER	10.0	10.0				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_nomor_2018_terkait_senjata_api.30	30	30	30	CD	NUMBER	30.0	30.0				
+4	2	fb:cell_terkait_senjata_api_2018_persen.36_1	36.1	36.1	36.1	CD	NUMBER	36.1	36.1				
+4	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_36	0.36	0.36	0.36	CD	NUMBER	0.36	0.36				
+4	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.83	83	83	83	CD	NUMBER	83.0	83.0				
+4	5	fb:cell_nomor_2017r_terkait_senjata_api.35	35	35	35	CD	NUMBER	35.0	35.0				
+4	6	fb:cell_terkait_senjata_api_2017r_persen.39_3	39.3	39.3	39.3	CD	NUMBER	39.3	39.3				
+4	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_42	0.42	0.42	0.42	CD	NUMBER	0.42	0.42				
+4	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.93	93	93	93	CD	NUMBER	93.0	93.0				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_nomor_2018_terkait_senjata_api.120	120	120	120	CD	NUMBER	120.0	120.0				
+5	2	fb:cell_terkait_senjata_api_2018_persen.48_4	48.4	48.4	48.4	CD	NUMBER	48.4	48.4				
+5	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+5	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.266	266	266	266	CD	NUMBER	266.0	266.0				
+5	5	fb:cell_nomor_2017r_terkait_senjata_api.84	84	84	84	CD	NUMBER	84.0	84.0				
+5	6	fb:cell_terkait_senjata_api_2017r_persen.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+5	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+5	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.197	197	197	197	CD	NUMBER	197.0	197.0				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_nomor_2018_terkait_senjata_api.6	6	6	6	CD	NUMBER	6.0	6.0				
+6	2	fb:cell_terkait_senjata_api_2018_persen.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+6	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_44	0.44	0.44	0.44	CD	NUMBER	0.44	0.44				
+6	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.55	55	55	55	CD	NUMBER	55.0	55.0				
+6	5	fb:cell_nomor_2017r_terkait_senjata_api.13	13	13	13	CD	NUMBER	13.0	13.0				
+6	6	fb:cell_terkait_senjata_api_2017r_persen.28_3	28.3	28.3	28.3	CD	NUMBER	28.3	28.3				
+6	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_97	0.97	0.97	0.97	CD	NUMBER	0.97	0.97				
+6	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.47	47	47	47	CD	NUMBER	47.0	47.0				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_nomor_2018_terkait_senjata_api.12	12	12	12	CD	NUMBER	12.0	12.0				
+7	2	fb:cell_terkait_senjata_api_2018_persen.37_5	37.5	37.5	37.5	CD	NUMBER	37.5	37.5				
+7	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+7	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.34	34	34	34	CD	NUMBER	34.0	34.0				
+7	5	fb:cell_nomor_2017r_terkait_senjata_api.10	10	10	10	CD	NUMBER	10.0	10.0				
+7	6	fb:cell_terkait_senjata_api_2017r_persen.26_3	26.3	26.3	26.3	CD	NUMBER	26.3	26.3				
+7	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+7	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.38	38	38	38	CD	NUMBER	38.0	38.0				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_nomor_2018_terkait_senjata_api.31	31	31	31	CD	NUMBER	31.0	31.0				
+8	2	fb:cell_terkait_senjata_api_2018_persen.39_2	39.2	39.2	39.2	CD	NUMBER	39.2	39.2				
+8	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_72	0.72	0.72	0.72	CD	NUMBER	0.72	0.72				
+8	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.81	81	81	81	CD	NUMBER	81.0	81.0				
+8	5	fb:cell_nomor_2017r_terkait_senjata_api.51	51	51	51	CD	NUMBER	51.0	51.0				
+8	6	fb:cell_terkait_senjata_api_2017r_persen.44_7	44.7	44.7	44.7	CD	NUMBER	44.7	44.7				
+8	7	fb:cell_tingkat_2017r_terkait_senjata_api.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+8	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.119	119	119	119	CD	NUMBER	119.0	119.0				
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor_2018_terkait_senjata_api.40	40	40	40	CD	NUMBER	40.0	40.0				
+9	2	fb:cell_terkait_senjata_api_2018_persen.51_3	51.3	51.3	51.3	CD	NUMBER	51.3	51.3				
+9	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+9	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.89	89	89	89	CD	NUMBER	89.0	89.0				
+9	5	fb:cell_nomor_2017r_terkait_senjata_api.58	58	58	58	CD	NUMBER	58.0	58.0				
+9	6	fb:cell_terkait_senjata_api_2017r_persen.53_7	53.7	53.7	53.7	CD	NUMBER	53.7	53.7				
+9	7	fb:cell_tingkat_2017r_terkait_senjata_api.1_18	1.18	1.18	1.18	CD	NUMBER	1.18	1.18				
+9	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.119	119	119	119	CD	NUMBER	119.0	119.0				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_nomor_2018_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	2	fb:cell_terkait_senjata_api_2018_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.3	3	3	3	CD	NUMBER	3.0	3.0				
+10	5	fb:cell_nomor_2017r_terkait_senjata_api.2	2	2	2	CD	NUMBER	2.0	2.0				
+10	6	fb:cell_terkait_senjata_api_2017r_persen.33_3	33.3	33.3	33.3	CD	NUMBER	33.3	33.3				
+10	7	fb:cell_tingkat_2017r_terkait_senjata_api.5_05	5.05	5.05	5.05	CD	NUMBER	5.05	5.05				
+10	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.8	8	8	8	CD	NUMBER	8.0	8.0				
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_nomor_2018_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	2	fb:cell_terkait_senjata_api_2018_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.6	6	6	6	CD	NUMBER	6.0	6.0				
+11	5	fb:cell_nomor_2017r_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	6	fb:cell_terkait_senjata_api_2017r_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.2	2	2	2	CD	NUMBER	2.0	2.0				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_nomor_2018_terkait_senjata_api.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	2	fb:cell_terkait_senjata_api_2018_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.8	8	8	8	CD	NUMBER	8.0	8.0				
+12	5	fb:cell_nomor_2017r_terkait_senjata_api.1	1	1	1	CD	NUMBER	1.0	1.0				
+12	6	fb:cell_terkait_senjata_api_2017r_persen.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+12	7	fb:cell_tingkat_2017r_terkait_senjata_api.2_66	2.66	2.66	2.66	CD	NUMBER	2.66	2.66				
+12	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.6	6	6	6	CD	NUMBER	6.0	6.0				
+13	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+13	1	fb:cell_nomor_2018_terkait_senjata_api.249	249	249	249	CD	NUMBER	249.0	249.0				
+13	2	fb:cell_terkait_senjata_api_2018_persen.40_5	40.5	40.5	40.5	CD	NUMBER	40.5	40.5				
+13	3	fb:cell_tingkat_terkait_senjata_api_tahun_2018.0_67	0.67	0.67	0.67	CD	NUMBER	0.67	0.67				
+13	4	fb:cell_jumlah_total_pembunuhan_tahun_2018_terkait_senjata_api.651	651	651	651	CD	NUMBER	651.0	651.0				
+13	5	fb:cell_nomor_2017r_terkait_senjata_api.267	267	267	267	CD	NUMBER	267.0	267.0				
+13	6	fb:cell_terkait_senjata_api_2017r_persen.42_2	42.2	42.2	42.2	CD	NUMBER	42.2	42.2				
+13	7	fb:cell_tingkat_2017r_terkait_senjata_api.0_73	0.73	0.73	0.73	CD	NUMBER	0.73	0.73				
+13	8	fb:cell_jumlah_total_pembunuhan_tahun_2017_yang_terkait_dengan_senjata_api.666	666	666	666	CD	NUMBER	666.0	666.0				

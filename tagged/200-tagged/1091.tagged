@@ -1,0 +1,66 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kanada_1997	Kanada 1997	kanada|1997	Kanada|1997	NNP|CD	O|DATE	|1997					
+-1	2	fb:row.row.kanada_2015	Kanada 2015	kanada|2015	Kanada|2015	NNP|CD	O|DATE	|2015					
+-1	3	fb:row.row.amerika_serikat_tahun_1997	Amerika Serikat tahun 1997	amerika|serikat|tahun|1997	Amerika|Serikat|tahun|1997	NNP|NNP|NNP|CD	O|O|O|DATE	|||1997					
+-1	4	fb:row.row.amerika_serikat_pada_tahun_2015	Amerika Serikat pada tahun 2015	amerika|serikat|pada|tahun|2015	Amerika|Serikat|pada|tahun|2015	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2015					
+0	0	fb:cell_kharakteristik.persen_berusia_25_hingga_54_tahun	persen berusia 25 hingga 54 tahun	persen|berusia|25|hingga|54|tahun	persen|berusia|25|hingga|54|tahun	JJ|NN|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||25.0||54.0|	25.0		54.0		
+0	1	fb:cell_kanada_1997.null											
+0	2	fb:cell_kanada_2015.null											
+0	3	fb:cell_amerika_serikat_tahun_1997.null											
+0	4	fb:cell_amerika_serikat_pada_tahun_2015.null											
+1	0	fb:cell_kharakteristik.persen_berusia_25_hingga_54_tahun_sekolah_menengah_atas_atau_kurang	persen berusia 25 hingga 54 tahun sekolah menengah atas atau kurang	persen|berusia|25|hingga|54|tahun|sekolah|menengah|atas|atau|kurang	persen|berusia|25|hingga|54|tahun|sekolah|menengah|atas|atau|kurang	JJ|NN|CD|NN|CD|NN|NN|NN|NN|NN|NN	O|O|NUMBER|O|NUMBER|O|O|O|O|O|O	||25.0||54.0||||||	25.0		54.0		
+1	1	fb:cell_kanada_1997.39_7	39.7	39.7	39.7	CD	NUMBER	39.7	39.7				
+1	2	fb:cell_kanada_2015.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+1	3	fb:cell_amerika_serikat_tahun_1997.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+1	4	fb:cell_amerika_serikat_pada_tahun_2015.33_4	33.4	33.4	33.4	CD	NUMBER	33.4	33.4				
+2	0	fb:cell_kharakteristik.persen_berusia_25_hingga_54_tahun_perguruan_tinggi_perdagangan_atau_pasca_sekolah_menengah_lainnya	persen berusia 25 hingga 54 tahun perguruan tinggi, perdagangan atau pasca sekolah menengah lainnya	persen|berusia|25|hingga|54|tahun|perguruan|tinggi|,|perdagangan|atau|pasca|sekolah|menengah|lainnya	persen|berusia|25|hingga|54|tahun|perguruan|tinggi|,|perdagangan|atau|pasca|sekolah|menengah|lainnya	NNP|NNP|CD|NNP|CD|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O|O|O|O	||25.0||54.0||||||||||	25.0		54.0	persen berusia 25 hingga 54 tahun perguruan tinggi|perdagangan atau pasca sekolah menengah lainnya	fb:part_kharakteristik.persen_berusia_25_hingga_54_tahun_perguruan_tinggi|fb:part_kharakteristik.perdagangan_atau_pasca_sekolah_menengah_lainnya
+2	1	fb:cell_kanada_1997.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+2	2	fb:cell_kanada_2015.41_4	41.4	41.4	41.4	CD	NUMBER	41.4	41.4				
+2	3	fb:cell_amerika_serikat_tahun_1997.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+2	4	fb:cell_amerika_serikat_pada_tahun_2015.28_8	28.8	28.8	28.8	CD	NUMBER	28.8	28.8				
+3	0	fb:cell_kharakteristik.persen_berusia_25_hingga_54_tahun_gelar_sarjana	persen berusia 25 hingga 54 tahun, gelar sarjana	persen|berusia|25|hingga|54|tahun|,|gelar|sarjana	persen|berusia|25|hingga|54|tahun|,|gelar|sarjana	JJ|NN|CD|NN|CD|NN|,|JJ|NN	O|O|NUMBER|O|NUMBER|O|O|O|O	||25.0||54.0||||	25.0		54.0	persen berusia 25 hingga 54 tahun|gelar sarjana	fb:part_kharakteristik.persen_berusia_25_hingga_54_tahun|fb:part_kharakteristik.gelar_sarjana
+3	1	fb:cell_kanada_1997.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+3	2	fb:cell_kanada_2015.35_1	35.1	35.1	35.1	CD	NUMBER	35.1	35.1				
+3	3	fb:cell_amerika_serikat_tahun_1997.26_4	26.4	26.4	26.4	CD	NUMBER	26.4	26.4				
+3	4	fb:cell_amerika_serikat_pada_tahun_2015.37_8	37.8	37.8	37.8	CD	NUMBER	37.8	37.8				
+4	0	fb:cell_kharakteristik.persen_berusia_25_hingga_44_tahun	persen berusia 25 hingga 44 tahun	persen|berusia|25|hingga|44|tahun	persen|berusia|25|hingga|44|tahun	JJ|NN|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||25.0||44.0|	25.0		44.0		
+4	1	fb:cell_kanada_1997.null											
+4	2	fb:cell_kanada_2015.null											
+4	3	fb:cell_amerika_serikat_tahun_1997.null											
+4	4	fb:cell_amerika_serikat_pada_tahun_2015.null											
+5	0	fb:cell_kharakteristik.persen_berusia_25_hingga_44_tahun_sekolah_menengah_atas_atau_kurang	persen berusia 25 hingga 44 tahun sekolah menengah atas atau kurang	persen|berusia|25|hingga|44|tahun|sekolah|menengah|atas|atau|kurang	persen|berusia|25|hingga|44|tahun|sekolah|menengah|atas|atau|kurang	JJ|NN|CD|NN|CD|NN|NN|NN|NN|NN|NN	O|O|NUMBER|O|NUMBER|O|O|O|O|O|O	||25.0||44.0||||||	25.0		44.0		
+5	1	fb:cell_kanada_1997.36_7	36.7	36.7	36.7	CD	NUMBER	36.7	36.7				
+5	2	fb:cell_kanada_2015.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+5	3	fb:cell_amerika_serikat_tahun_1997.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+5	4	fb:cell_amerika_serikat_pada_tahun_2015.31_5	31.5	31.5	31.5	CD	NUMBER	31.5	31.5				
+6	0	fb:cell_kharakteristik.persen_berusia_25_hingga_44_tahun_perguruan_tinggi_perdagangan_atau_pasca_sekolah_menengah_lainnya	persen berusia 25 hingga 44 tahun perguruan tinggi, perdagangan atau pasca sekolah menengah lainnya	persen|berusia|25|hingga|44|tahun|perguruan|tinggi|,|perdagangan|atau|pasca|sekolah|menengah|lainnya	persen|berusia|25|hingga|44|tahun|perguruan|tinggi|,|perdagangan|atau|pasca|sekolah|menengah|lainnya	NNP|NNP|CD|NNP|CD|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O|O|O|O	||25.0||44.0||||||||||	25.0		44.0	persen berusia 25 hingga 44 tahun perguruan tinggi|perdagangan atau pasca sekolah menengah lainnya	fb:part_kharakteristik.persen_berusia_25_hingga_44_tahun_perguruan_tinggi|fb:part_kharakteristik.perdagangan_atau_pasca_sekolah_menengah_lainnya
+6	1	fb:cell_kanada_1997.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+6	2	fb:cell_kanada_2015.40_5	40.5	40.5	40.5	CD	NUMBER	40.5	40.5				
+6	3	fb:cell_amerika_serikat_tahun_1997.29_3	29.3	29.3	29.3	CD	NUMBER	29.3	29.3				
+6	4	fb:cell_amerika_serikat_pada_tahun_2015.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+7	0	fb:cell_kharakteristik.persen_berusia_25_hingga_44_tahun_gelar_sarjana	persen berusia 25 hingga 44 tahun gelar sarjana	persen|berusia|25|hingga|44|tahun|gelar|sarjana	persen|berusia|25|hingga|44|tahun|gelar|sarjana	JJ|NN|CD|NN|CD|NN|NN|NN	O|O|NUMBER|O|NUMBER|O|O|O	||25.0||44.0|||	25.0		44.0		
+7	1	fb:cell_kanada_1997.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+7	2	fb:cell_kanada_2015.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+7	3	fb:cell_amerika_serikat_tahun_1997.26_9	26.9	26.9	26.9	CD	NUMBER	26.9	26.9				
+7	4	fb:cell_amerika_serikat_pada_tahun_2015.39_7	39.7	39.7	39.7	CD	NUMBER	39.7	39.7				
+8	0	fb:cell_kharakteristik.persen_berusia_45_hingga_54_tahun	persen berusia 45 hingga 54 tahun	persen|berusia|45|hingga|54|tahun	persen|berusia|45|hingga|54|tahun	JJ|NN|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||45.0||54.0|	45.0		54.0		
+8	1	fb:cell_kanada_1997.null											
+8	2	fb:cell_kanada_2015.null											
+8	3	fb:cell_amerika_serikat_tahun_1997.null											
+8	4	fb:cell_amerika_serikat_pada_tahun_2015.null											
+9	0	fb:cell_kharakteristik.persen_berusia_45_hingga_54_tahun_sekolah_menengah_atas_atau_kurang	persen berusia 45 hingga 54 tahun, sekolah menengah atas atau kurang	persen|berusia|45|hingga|54|tahun|,|sekolah|menengah|atas|atau|kurang	persen|berusia|45|hingga|54|tahun|,|sekolah|menengah|atas|atau|kurang	JJ|NN|CD|NN|CD|NN|,|NN|NN|NN|NN|NN	O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O	||45.0||54.0|||||||	45.0		54.0	persen berusia 45 hingga 54 tahun|sekolah menengah atas atau kurang	fb:part_kharakteristik.persen_berusia_45_hingga_54_tahun|fb:part_kharakteristik.sekolah_menengah_atas_atau_kurang
+9	1	fb:cell_kanada_1997.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+9	2	fb:cell_kanada_2015.29_2	29.2	29.2	29.2	CD	NUMBER	29.2	29.2				
+9	3	fb:cell_amerika_serikat_tahun_1997.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+9	4	fb:cell_amerika_serikat_pada_tahun_2015.37_2	37.2	37.2	37.2	CD	NUMBER	37.2	37.2				
+10	0	fb:cell_kharakteristik.persen_berusia_45_hingga_54_tahun_perguruan_tinggi_perdagangan_atau_pasca_sekolah_menengah_lainnya	persen berusia 45 hingga 54 tahun perguruan tinggi, perdagangan atau pasca sekolah menengah lainnya	persen|berusia|45|hingga|54|tahun|perguruan|tinggi|,|perdagangan|atau|pasca|sekolah|menengah|lainnya	persen|berusia|45|hingga|54|tahun|perguruan|tinggi|,|perdagangan|atau|pasca|sekolah|menengah|lainnya	NNP|NNP|CD|NNP|CD|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O|O|O|O|O|O|O|O	||45.0||54.0||||||||||	45.0		54.0	persen berusia 45 hingga 54 tahun perguruan tinggi|perdagangan atau pasca sekolah menengah lainnya	fb:part_kharakteristik.persen_berusia_45_hingga_54_tahun_perguruan_tinggi|fb:part_kharakteristik.perdagangan_atau_pasca_sekolah_menengah_lainnya
+10	1	fb:cell_kanada_1997.37_6	37.6	37.6	37.6	CD	NUMBER	37.6	37.6				
+10	2	fb:cell_kanada_2015.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+10	3	fb:cell_amerika_serikat_tahun_1997.26_7	26.7	26.7	26.7	CD	NUMBER	26.7	26.7				
+10	4	fb:cell_amerika_serikat_pada_tahun_2015.28_6	28.6	28.6	28.6	CD	NUMBER	28.6	28.6				
+11	0	fb:cell_kharakteristik.persen_berusia_45_hingga_54_tahun_gelar_sarjana	persen berusia 45 hingga 54 tahun, gelar sarjana	persen|berusia|45|hingga|54|tahun|,|gelar|sarjana	persen|berusia|45|hingga|54|tahun|,|gelar|sarjana	JJ|NN|CD|NN|CD|NN|,|JJ|NN	O|O|NUMBER|O|NUMBER|O|O|O|O	||45.0||54.0||||	45.0		54.0	persen berusia 45 hingga 54 tahun|gelar sarjana	fb:part_kharakteristik.persen_berusia_45_hingga_54_tahun|fb:part_kharakteristik.gelar_sarjana
+11	1	fb:cell_kanada_1997.15_5	15.5	15.5	15.5	CD	NUMBER	15.5	15.5				
+11	2	fb:cell_kanada_2015.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				
+11	3	fb:cell_amerika_serikat_tahun_1997.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+11	4	fb:cell_amerika_serikat_pada_tahun_2015.34_2	34.2	34.2	34.2	CD	NUMBER	34.2	34.2				

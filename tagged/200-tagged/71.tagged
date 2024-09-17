@@ -1,0 +1,100 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.estrie_pekerja_berbahasa_inggris	estrie pekerja berbahasa Inggris	estrie|pekerja|berbahasa|inggris	estrie|pekerja|berbahasa|Inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.estrie_pekerja_lain	estrie pekerja lain	estrie|pekerja|lain	estrie|pekerja|lain	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.pekerja_berbahasa_inggris_monteregie	pekerja berbahasa Inggris monteregie	pekerja|berbahasa|inggris|monteregie	pekerja|berbahasa|inggris|monteregie	NN|NN|NN|NN	O|O|O|O	|||					
+-1	4	fb:row.row.monteregie_pekerja_lainnya	monteregie pekerja lainnya	monteregie|pekerja|lainnya	monteregie|pekerja|lainnya	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.montreal_pekerja_berbahasa_inggris_laval	montreal - pekerja berbahasa inggris laval	montreal|-|pekerja|berbahasa|inggris|laval	montreal|-|pekerja|berbahasa|inggris|laval	NNP|:|NN|NN|NN|NN	LOCATION|O|O|O|O|O	|||||					
+-1	6	fb:row.row.montreal_laval_pekerja_lain	montreal - laval pekerja lain	montreal|-|laval|pekerja|lain	montreal|-|laval|pekerja|lain	NNP|:|JJ|NN|NN	LOCATION|O|O|O|O	||||					
+-1	7	fb:row.row.laurentides_pekerja_berbahasa_inggris	laurentides pekerja berbahasa Inggris	laurentides|pekerja|berbahasa|inggris	laurentides|pekerja|berbahasa|inggris	NN|NN|NN|NN	O|O|O|O	|||					
+-1	8	fb:row.row.laurentides_pekerja_lainnya	laurentides pekerja lainnya	laurentides|pekerja|lainnya	laurentides|pekerja|lainnya	NN|NN|NN	O|O|O	||					
+-1	9	fb:row.row.outaouais_pekerja_berbahasa_inggris	outaouais pekerja berbahasa Inggris	outaouais|pekerja|berbahasa|inggris	outaouais|pekerja|berbahasa|Inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	10	fb:row.row.outaouais_pekerja_lainnya	outaouais pekerja lainnya	outaouais|pekerja|lainnya	outaouais|pekerja|lainnya	NNP|NNP|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.persen_jenis_kelamin	persen jenis kelamin	persen|jenis|kelamin	persen|jenis|kelamin	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_estrie_pekerja_berbahasa_inggris.null											
+0	2	fb:cell_estrie_pekerja_lain.null											
+0	3	fb:cell_pekerja_berbahasa_inggris_monteregie.null											
+0	4	fb:cell_monteregie_pekerja_lainnya.null											
+0	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.null											
+0	6	fb:cell_montreal_laval_pekerja_lain.null											
+0	7	fb:cell_laurentides_pekerja_berbahasa_inggris.null											
+0	8	fb:cell_laurentides_pekerja_lainnya.null											
+0	9	fb:cell_outaouais_pekerja_berbahasa_inggris.null											
+0	10	fb:cell_outaouais_pekerja_lainnya.null											
+1	0	fb:cell_kharakteristik.persen_berjenis_kelamin_perempuan	persen berjenis kelamin perempuan	persen|berjenis|kelamin|perempuan	persen|berjenis|kelamin|perempuan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_estrie_pekerja_berbahasa_inggris.30_1	30.1	30.1	30.1	CD	NUMBER	30.1	30.1				
+1	2	fb:cell_estrie_pekerja_lain.28_4	28.4	28.4	28.4	CD	NUMBER	28.4	28.4				
+1	3	fb:cell_pekerja_berbahasa_inggris_monteregie.37_3	37.3	37.3	37.3	CD	NUMBER	37.3	37.3				
+1	4	fb:cell_monteregie_pekerja_lainnya.32_4	32.4	32.4	32.4	CD	NUMBER	32.4	32.4				
+1	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.31_9	31.9	31.9	31.9	CD	NUMBER	31.9	31.9				
+1	6	fb:cell_montreal_laval_pekerja_lain.38_8	38.8	38.8	38.8	CD	NUMBER	38.8	38.8				
+1	7	fb:cell_laurentides_pekerja_berbahasa_inggris.33_8	33.8	33.8	33.8	CD	NUMBER	33.8	33.8				
+1	8	fb:cell_laurentides_pekerja_lainnya.38_2	38.2	38.2	38.2	CD	NUMBER	38.2	38.2				
+1	9	fb:cell_outaouais_pekerja_berbahasa_inggris.28_2	28.2	28.2	28.2	CD	NUMBER	28.2	28.2				
+1	10	fb:cell_outaouais_pekerja_lainnya.27_7	27.7	27.7	27.7	CD	NUMBER	27.7	27.7				
+2	0	fb:cell_kharakteristik.persen_berjenis_kelamin_laki_laki	persen berjenis kelamin laki-laki	persen|berjenis|kelamin|laki|laki	persen|berjenis|kelamin|laki|laki	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_estrie_pekerja_berbahasa_inggris.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+2	2	fb:cell_estrie_pekerja_lain.71_6	71.6	71.6	71.6	CD	NUMBER	71.6	71.6				
+2	3	fb:cell_pekerja_berbahasa_inggris_monteregie.62_7	62.7	62.7	62.7	CD	NUMBER	62.7	62.7				
+2	4	fb:cell_monteregie_pekerja_lainnya.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+2	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+2	6	fb:cell_montreal_laval_pekerja_lain.61_2	61.2	61.2	61.2	CD	NUMBER	61.2	61.2				
+2	7	fb:cell_laurentides_pekerja_berbahasa_inggris.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+2	8	fb:cell_laurentides_pekerja_lainnya.61_8	61.8	61.8	61.8	CD	NUMBER	61.8	61.8				
+2	9	fb:cell_outaouais_pekerja_berbahasa_inggris.71_8	71.8	71.8	71.8	CD	NUMBER	71.8	71.8				
+2	10	fb:cell_outaouais_pekerja_lainnya.72_3	72.3	72.3	72.3	CD	NUMBER	72.3	72.3				
+3	0	fb:cell_kharakteristik.persen_status_perkawinan	persen status perkawinan	persen|status|perkawinan	persen|status|perkawinan	JJ|NN|NN	O|O|O	||					
+3	1	fb:cell_estrie_pekerja_berbahasa_inggris.null											
+3	2	fb:cell_estrie_pekerja_lain.null											
+3	3	fb:cell_pekerja_berbahasa_inggris_monteregie.null											
+3	4	fb:cell_monteregie_pekerja_lainnya.null											
+3	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.null											
+3	6	fb:cell_montreal_laval_pekerja_lain.null											
+3	7	fb:cell_laurentides_pekerja_berbahasa_inggris.null											
+3	8	fb:cell_laurentides_pekerja_lainnya.null											
+3	9	fb:cell_outaouais_pekerja_berbahasa_inggris.null											
+3	10	fb:cell_outaouais_pekerja_lainnya.null											
+4	0	fb:cell_kharakteristik.persen_status_perkawinan_lajang	persen status perkawinan lajang	persen|status|perkawinan|lajang	persen|status|perkawinan|lajang	JJ|NN|NN|NN	O|O|O|O	|||					
+4	1	fb:cell_estrie_pekerja_berbahasa_inggris.24_1	24.1	24.1	24.1	CD	NUMBER	24.1	24.1				
+4	2	fb:cell_estrie_pekerja_lain.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				
+4	3	fb:cell_pekerja_berbahasa_inggris_monteregie.26_1	26.1	26.1	26.1	CD	NUMBER	26.1	26.1				
+4	4	fb:cell_monteregie_pekerja_lainnya.25_7	25.7	25.7	25.7	CD	NUMBER	25.7	25.7				
+4	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.37_9	37.9	37.9	37.9	CD	NUMBER	37.9	37.9				
+4	6	fb:cell_montreal_laval_pekerja_lain.37_1	37.1	37.1	37.1	CD	NUMBER	37.1	37.1				
+4	7	fb:cell_laurentides_pekerja_berbahasa_inggris.41_9	41.9	41.9	41.9	CD	NUMBER	41.9	41.9				
+4	8	fb:cell_laurentides_pekerja_lainnya.27_4	27.4	27.4	27.4	CD	NUMBER	27.4	27.4				
+4	9	fb:cell_outaouais_pekerja_berbahasa_inggris.28_2	28.2	28.2	28.2	CD	NUMBER	28.2	28.2				
+4	10	fb:cell_outaouais_pekerja_lainnya.36_7	36.7	36.7	36.7	CD	NUMBER	36.7	36.7				
+5	0	fb:cell_kharakteristik.persen_status_perkawinan_menikah	persen status perkawinan menikah	persen|status|perkawinan|menikah	persen|status|perkawinan|menikah	JJ|NN|NN|NN	O|O|O|O	|||					
+5	1	fb:cell_estrie_pekerja_berbahasa_inggris.49_6	49.6	49.6	49.6	CD	NUMBER	49.6	49.6				
+5	2	fb:cell_estrie_pekerja_lain.41_2	41.2	41.2	41.2	CD	NUMBER	41.2	41.2				
+5	3	fb:cell_pekerja_berbahasa_inggris_monteregie.48_1	48.1	48.1	48.1	CD	NUMBER	48.1	48.1				
+5	4	fb:cell_monteregie_pekerja_lainnya.41_9	41.9	41.9	41.9	CD	NUMBER	41.9	41.9				
+5	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.43_1	43.1	43.1	43.1	CD	NUMBER	43.1	43.1				
+5	6	fb:cell_montreal_laval_pekerja_lain.35_3	35.3	35.3	35.3	CD	NUMBER	35.3	35.3				
+5	7	fb:cell_laurentides_pekerja_berbahasa_inggris.43_2	43.2	43.2	43.2	CD	NUMBER	43.2	43.2				
+5	8	fb:cell_laurentides_pekerja_lainnya.43_7	43.7	43.7	43.7	CD	NUMBER	43.7	43.7				
+5	9	fb:cell_outaouais_pekerja_berbahasa_inggris.63_2	63.2	63.2	63.2	CD	NUMBER	63.2	63.2				
+5	10	fb:cell_outaouais_pekerja_lainnya.44_6	44.6	44.6	44.6	CD	NUMBER	44.6	44.6				
+6	0	fb:cell_kharakteristik.persen_status_perkawinan_menurut_hukum_adat	persen status perkawinan menurut hukum adat	persen|status|perkawinan|menurut|hukum|adat	persen|status|perkawinan|menurut|hukum|adat	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+6	1	fb:cell_estrie_pekerja_berbahasa_inggris.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+6	2	fb:cell_estrie_pekerja_lain.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+6	3	fb:cell_pekerja_berbahasa_inggris_monteregie.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+6	4	fb:cell_monteregie_pekerja_lainnya.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+6	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+6	6	fb:cell_montreal_laval_pekerja_lain.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+6	7	fb:cell_laurentides_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	8	fb:cell_laurentides_pekerja_lainnya.22_2	22.2	22.2	22.2	CD	NUMBER	22.2	22.2				
+6	9	fb:cell_outaouais_pekerja_berbahasa_inggris.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+6	10	fb:cell_outaouais_pekerja_lainnya.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+7	0	fb:cell_kharakteristik.persen_status_perkawinan_berpisah_bercerai_atau_menjanda	persen status perkawinan berpisah, bercerai, atau menjanda	persen|status|perkawinan|berpisah|,|bercerai|,|atau|menjanda	persen|status|perkawinan|berpisah|,|bercerai|,|atau|menjanda	JJ|NN|NN|NN|,|NN|,|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				persen status perkawinan berpisah|bercerai|atau menjanda	fb:part_kharakteristik.persen_status_perkawinan_berpisah|fb:part_kharakteristik.bercerai|fb:part_kharakteristik.atau_menjanda
+7	1	fb:cell_estrie_pekerja_berbahasa_inggris.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+7	2	fb:cell_estrie_pekerja_lain.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+7	3	fb:cell_pekerja_berbahasa_inggris_monteregie.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+7	4	fb:cell_monteregie_pekerja_lainnya.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+7	5	fb:cell_montreal_pekerja_berbahasa_inggris_laval.14_7	14.7	14.7	14.7	CD	NUMBER	14.7	14.7				
+7	6	fb:cell_montreal_laval_pekerja_lain.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+7	7	fb:cell_laurentides_pekerja_berbahasa_inggris.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+7	8	fb:cell_laurentides_pekerja_lainnya.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+7	9	fb:cell_outaouais_pekerja_berbahasa_inggris.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+7	10	fb:cell_outaouais_pekerja_lainnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				

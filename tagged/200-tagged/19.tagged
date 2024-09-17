@@ -1,0 +1,10 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.meminjam_lahan_pertanian_rata_rata_hektar	meminjam lahan pertanian rata-rata hektar	meminjam|lahan|pertanian|rata|rata|hektar	meminjam|lahan|pertanian|rata|rata|hektar	NNP|NNP|NNP|JJ|JJ|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.persentase_rata_rata_lahan_pertanian_yang_dipinjam	persentase rata-rata lahan pertanian yang dipinjam	persentase|rata|rata|lahan|pertanian|yang|dipinjam	persentase|rata|rata|lahan|pertanian|yang|dipinjam	NN|JJ|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.peternakan_yang_dioperasikan_secara_eksklusif_oleh_perempuan	peternakan yang dioperasikan secara eksklusif oleh perempuan	peternakan|yang|dioperasikan|secara|eksklusif|oleh|perempuan	peternakan|yang|dioperasikan|secara|eksklusif|oleh|perempuan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_meminjam_lahan_pertanian_rata_rata_hektar.1051_0	1051.0	1051.0	1051.0	CD	NUMBER	1051.0	1051.0				
+0	2	fb:cell_persentase_rata_rata_lahan_pertanian_yang_dipinjam.71_3	71.3	71.3	71.3	CD	NUMBER	71.3	71.3				
+1	0	fb:cell_kharakteristik.peternakan_yang_dioperasikan_secara_eksklusif_oleh_laki_laki	peternakan yang dioperasikan secara eksklusif oleh laki-laki	peternakan|yang|dioperasikan|secara|eksklusif|oleh|laki|laki	peternakan|yang|dioperasikan|secara|eksklusif|oleh|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_meminjam_lahan_pertanian_rata_rata_hektar.818_0	818.0	818.0	818.0	CD	NUMBER	818.0	818.0				
+1	2	fb:cell_persentase_rata_rata_lahan_pertanian_yang_dipinjam.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				

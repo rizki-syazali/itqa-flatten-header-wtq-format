@@ -1,0 +1,155 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+-1	2	fb:row.row.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+-1	4	fb:row.row.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+-1	5	fb:row.row.quebec	Quebec	quebec	Quebec	NNP	O						
+-1	6	fb:row.row.ontario	ontario	ontario	ontario	NNP	O						
+-1	7	fb:row.row.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+-1	8	fb:row.row.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+-1	9	fb:row.row.alberta	alberta	alberta	alberta	NNP	O						
+-1	10	fb:row.row.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+-1	11	fb:row.row.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+-1	12	fb:row.row.yukon	yukon	yukon	yukon	NNP	O						
+-1	13	fb:row.row.nunavut	nunavut	nunavut	nunavut	NNP	O						
+0	0	fb:cell_kharakteristik.persen_2002	persen 2002	persen|2002	persen|2002	NNP|CD	O|DATE	|2002	2002.0				
+0	1	fb:cell_newfoundland_dan_labrador.77_5	77.5	77.5	77.5	CD	NUMBER	77.5	77.5				
+0	2	fb:cell_pulau_pangeran_edward.59_5	59.5	59.5	59.5	CD	NUMBER	59.5	59.5				
+0	3	fb:cell_nova_scotia.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+0	4	fb:cell_brunswick_baru.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+0	5	fb:cell_quebec.81_7	81.7	81.7	81.7	CD	NUMBER	81.7	81.7				
+0	6	fb:cell_ontario.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+0	7	fb:cell_manitoba.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+0	8	fb:cell_saskatchewan.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+0	9	fb:cell_alberta.57_7	57.7	57.7	57.7	CD	NUMBER	57.7	57.7				
+0	10	fb:cell_columbia_inggris.62_5	62.5	62.5	62.5	CD	NUMBER	62.5	62.5				
+0	11	fb:cell_wilayah_barat_laut.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+0	12	fb:cell_yukon.54_7	54.7	54.7	54.7	CD	NUMBER	54.7	54.7				
+0	13	fb:cell_nunavut.37_5	37.5	37.5	37.5	CD	NUMBER	37.5	37.5				
+1	0	fb:cell_kharakteristik.persen_2003	persen 2003	persen|2003	persen|2003	NNP|CD	O|DATE	|2003	2003.0				
+1	1	fb:cell_newfoundland_dan_labrador.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+1	2	fb:cell_pulau_pangeran_edward.61_8	61.8	61.8	61.8	CD	NUMBER	61.8	61.8				
+1	3	fb:cell_nova_scotia.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+1	4	fb:cell_brunswick_baru.65_1	65.1	65.1	65.1	CD	NUMBER	65.1	65.1				
+1	5	fb:cell_quebec.82_8	82.8	82.8	82.8	CD	NUMBER	82.8	82.8				
+1	6	fb:cell_ontario.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+1	7	fb:cell_manitoba.60_8	60.8	60.8	60.8	CD	NUMBER	60.8	60.8				
+1	8	fb:cell_saskatchewan.68_2	68.2	68.2	68.2	CD	NUMBER	68.2	68.2				
+1	9	fb:cell_alberta.58_6	58.6	58.6	58.6	CD	NUMBER	58.6	58.6				
+1	10	fb:cell_columbia_inggris.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+1	11	fb:cell_wilayah_barat_laut.46_3	46.3	46.3	46.3	CD	NUMBER	46.3	46.3				
+1	12	fb:cell_yukon.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+1	13	fb:cell_nunavut.36_2	36.2	36.2	36.2	CD	NUMBER	36.2	36.2				
+2	0	fb:cell_kharakteristik.persen_2004	persen 2004	persen|2004	persen|2004	NNP|CD	O|DATE	|2004	2004.0				
+2	1	fb:cell_newfoundland_dan_labrador.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+2	2	fb:cell_pulau_pangeran_edward.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+2	3	fb:cell_nova_scotia.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+2	4	fb:cell_brunswick_baru.66_4	66.4	66.4	66.4	CD	NUMBER	66.4	66.4				
+2	5	fb:cell_quebec.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+2	6	fb:cell_ontario.70_1	70.1	70.1	70.1	CD	NUMBER	70.1	70.1				
+2	7	fb:cell_manitoba.61_3	61.3	61.3	61.3	CD	NUMBER	61.3	61.3				
+2	8	fb:cell_saskatchewan.68_8	68.8	68.8	68.8	CD	NUMBER	68.8	68.8				
+2	9	fb:cell_alberta.58_1	58.1	58.1	58.1	CD	NUMBER	58.1	58.1				
+2	10	fb:cell_columbia_inggris.62_8	62.8	62.8	62.8	CD	NUMBER	62.8	62.8				
+2	11	fb:cell_wilayah_barat_laut.46_6	46.6	46.6	46.6	CD	NUMBER	46.6	46.6				
+2	12	fb:cell_yukon.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+2	13	fb:cell_nunavut.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+3	0	fb:cell_kharakteristik.persen_tahun_2005	persen tahun 2005	persen|tahun|2005	persen|tahun|2005	NNP|NNP|CD	O|O|DATE	||2005	2005.0				
+3	1	fb:cell_newfoundland_dan_labrador.76_8	76.8	76.8	76.8	CD	NUMBER	76.8	76.8				
+3	2	fb:cell_pulau_pangeran_edward.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+3	3	fb:cell_nova_scotia.66_6	66.6	66.6	66.6	CD	NUMBER	66.6	66.6				
+3	4	fb:cell_brunswick_baru.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+3	5	fb:cell_quebec.82_1	82.1	82.1	82.1	CD	NUMBER	82.1	82.1				
+3	6	fb:cell_ontario.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+3	7	fb:cell_manitoba.63_6	63.6	63.6	63.6	CD	NUMBER	63.6	63.6				
+3	8	fb:cell_saskatchewan.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+3	9	fb:cell_alberta.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+3	10	fb:cell_columbia_inggris.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+3	11	fb:cell_wilayah_barat_laut.47_2	47.2	47.2	47.2	CD	NUMBER	47.2	47.2				
+3	12	fb:cell_yukon.58_5	58.5	58.5	58.5	CD	NUMBER	58.5	58.5				
+3	13	fb:cell_nunavut.41_8	41.8	41.8	41.8	CD	NUMBER	41.8	41.8				
+4	0	fb:cell_kharakteristik.persen_2006	persen 2006	persen|2006	persen|2006	NNP|CD	O|DATE	|2006	2006.0				
+4	1	fb:cell_newfoundland_dan_labrador.80_9	80.9	80.9	80.9	CD	NUMBER	80.9	80.9				
+4	2	fb:cell_pulau_pangeran_edward.62_6	62.6	62.6	62.6	CD	NUMBER	62.6	62.6				
+4	3	fb:cell_nova_scotia.68_9	68.9	68.9	68.9	CD	NUMBER	68.9	68.9				
+4	4	fb:cell_brunswick_baru.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+4	5	fb:cell_quebec.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+4	6	fb:cell_ontario.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+4	7	fb:cell_manitoba.62_9	62.9	62.9	62.9	CD	NUMBER	62.9	62.9				
+4	8	fb:cell_saskatchewan.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+4	9	fb:cell_alberta.53_6	53.6	53.6	53.6	CD	NUMBER	53.6	53.6				
+4	10	fb:cell_columbia_inggris.62_7	62.7	62.7	62.7	CD	NUMBER	62.7	62.7				
+4	11	fb:cell_wilayah_barat_laut.46_5	46.5	46.5	46.5	CD	NUMBER	46.5	46.5				
+4	12	fb:cell_yukon.59_2	59.2	59.2	59.2	CD	NUMBER	59.2	59.2				
+4	13	fb:cell_nunavut.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+5	0	fb:cell_kharakteristik.persen_2007	persen 2007	persen|2007	persen|2007	NNP|CD	O|DATE	|2007	2007.0				
+5	1	fb:cell_newfoundland_dan_labrador.80_5	80.5	80.5	80.5	CD	NUMBER	80.5	80.5				
+5	2	fb:cell_pulau_pangeran_edward.64_2	64.2	64.2	64.2	CD	NUMBER	64.2	64.2				
+5	3	fb:cell_nova_scotia.69_5	69.5	69.5	69.5	CD	NUMBER	69.5	69.5				
+5	4	fb:cell_brunswick_baru.67_5	67.5	67.5	67.5	CD	NUMBER	67.5	67.5				
+5	5	fb:cell_quebec.81_8	81.8	81.8	81.8	CD	NUMBER	81.8	81.8				
+5	6	fb:cell_ontario.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+5	7	fb:cell_manitoba.63_5	63.5	63.5	63.5	CD	NUMBER	63.5	63.5				
+5	8	fb:cell_saskatchewan.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+5	9	fb:cell_alberta.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+5	10	fb:cell_columbia_inggris.63_1	63.1	63.1	63.1	CD	NUMBER	63.1	63.1				
+5	11	fb:cell_wilayah_barat_laut.46_2	46.2	46.2	46.2	CD	NUMBER	46.2	46.2				
+5	12	fb:cell_yukon.58_8	58.8	58.8	58.8	CD	NUMBER	58.8	58.8				
+5	13	fb:cell_nunavut.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+6	0	fb:cell_kharakteristik.persen_2008	persen 2008	persen|2008	persen|2008	NNP|CD	O|DATE	|2008	2008.0				
+6	1	fb:cell_newfoundland_dan_labrador.81_9	81.9	81.9	81.9	CD	NUMBER	81.9	81.9				
+6	2	fb:cell_pulau_pangeran_edward.67_5	67.5	67.5	67.5	CD	NUMBER	67.5	67.5				
+6	3	fb:cell_nova_scotia.70_8	70.8	70.8	70.8	CD	NUMBER	70.8	70.8				
+6	4	fb:cell_brunswick_baru.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+6	5	fb:cell_quebec.81_5	81.5	81.5	81.5	CD	NUMBER	81.5	81.5				
+6	6	fb:cell_ontario.71_1	71.1	71.1	71.1	CD	NUMBER	71.1	71.1				
+6	7	fb:cell_manitoba.63_4	63.4	63.4	63.4	CD	NUMBER	63.4	63.4				
+6	8	fb:cell_saskatchewan.69_5	69.5	69.5	69.5	CD	NUMBER	69.5	69.5				
+6	9	fb:cell_alberta.53_2	53.2	53.2	53.2	CD	NUMBER	53.2	53.2				
+6	10	fb:cell_columbia_inggris.64_9	64.9	64.9	64.9	CD	NUMBER	64.9	64.9				
+6	11	fb:cell_wilayah_barat_laut.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+6	12	fb:cell_yukon.59_1	59.1	59.1	59.1	CD	NUMBER	59.1	59.1				
+6	13	fb:cell_nunavut.48_2	48.2	48.2	48.2	CD	NUMBER	48.2	48.2				
+7	0	fb:cell_kharakteristik.persen_2009	persen 2009	persen|2009	persen|2009	NNP|CD	O|DATE	|2009	2009.0				
+7	1	fb:cell_newfoundland_dan_labrador.81_1	81.1	81.1	81.1	CD	NUMBER	81.1	81.1				
+7	2	fb:cell_pulau_pangeran_edward.66_8	66.8	66.8	66.8	CD	NUMBER	66.8	66.8				
+7	3	fb:cell_nova_scotia.71_1	71.1	71.1	71.1	CD	NUMBER	71.1	71.1				
+7	4	fb:cell_brunswick_baru.70_9	70.9	70.9	70.9	CD	NUMBER	70.9	70.9				
+7	5	fb:cell_quebec.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+7	6	fb:cell_ontario.73_8	73.8	73.8	73.8	CD	NUMBER	73.8	73.8				
+7	7	fb:cell_manitoba.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+7	8	fb:cell_saskatchewan.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+7	9	fb:cell_alberta.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+7	10	fb:cell_columbia_inggris.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+7	11	fb:cell_wilayah_barat_laut.48_3	48.3	48.3	48.3	CD	NUMBER	48.3	48.3				
+7	12	fb:cell_yukon.56_9	56.9	56.9	56.9	CD	NUMBER	56.9	56.9				
+7	13	fb:cell_nunavut.44_7	44.7	44.7	44.7	CD	NUMBER	44.7	44.7				
+8	0	fb:cell_kharakteristik.persen_2010	persen 2010	persen|2010	persen|2010	NNP|CD	O|DATE	|2010	2010.0				
+8	1	fb:cell_newfoundland_dan_labrador.82_1	82.1	82.1	82.1	CD	NUMBER	82.1	82.1				
+8	2	fb:cell_pulau_pangeran_edward.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+8	3	fb:cell_nova_scotia.71_6	71.6	71.6	71.6	CD	NUMBER	71.6	71.6				
+8	4	fb:cell_brunswick_baru.71_6	71.6	71.6	71.6	CD	NUMBER	71.6	71.6				
+8	5	fb:cell_quebec.84_4	84.4	84.4	84.4	CD	NUMBER	84.4	84.4				
+8	6	fb:cell_ontario.73_9	73.9	73.9	73.9	CD	NUMBER	73.9	73.9				
+8	7	fb:cell_manitoba.65_2	65.2	65.2	65.2	CD	NUMBER	65.2	65.2				
+8	8	fb:cell_saskatchewan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+8	9	fb:cell_alberta.58_4	58.4	58.4	58.4	CD	NUMBER	58.4	58.4				
+8	10	fb:cell_columbia_inggris.69_3	69.3	69.3	69.3	CD	NUMBER	69.3	69.3				
+8	11	fb:cell_wilayah_barat_laut.50_7	50.7	50.7	50.7	CD	NUMBER	50.7	50.7				
+8	12	fb:cell_yukon.54_9	54.9	54.9	54.9	CD	NUMBER	54.9	54.9				
+8	13	fb:cell_nunavut.29_6	29.6	29.6	29.6	CD	NUMBER	29.6	29.6				
+9	0	fb:cell_kharakteristik.persen_2011	persen 2011	persen|2011	persen|2011	NNP|CD	O|DATE	|2011	2011.0				
+9	1	fb:cell_newfoundland_dan_labrador.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+9	2	fb:cell_pulau_pangeran_edward.68_8	68.8	68.8	68.8	CD	NUMBER	68.8	68.8				
+9	3	fb:cell_nova_scotia.73_2	73.2	73.2	73.2	CD	NUMBER	73.2	73.2				
+9	4	fb:cell_brunswick_baru.73_4	73.4	73.4	73.4	CD	NUMBER	73.4	73.4				
+9	5	fb:cell_quebec.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+9	6	fb:cell_ontario.74_4	74.4	74.4	74.4	CD	NUMBER	74.4	74.4				
+9	7	fb:cell_manitoba.67_3	67.3	67.3	67.3	CD	NUMBER	67.3	67.3				
+9	8	fb:cell_saskatchewan.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+9	9	fb:cell_alberta.58_8	58.8	58.8	58.8	CD	NUMBER	58.8	58.8				
+9	10	fb:cell_columbia_inggris.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+9	11	fb:cell_wilayah_barat_laut.51_6	51.6	51.6	51.6	CD	NUMBER	51.6	51.6				
+9	12	fb:cell_yukon.58_3	58.3	58.3	58.3	CD	NUMBER	58.3	58.3				
+9	13	fb:cell_nunavut.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				

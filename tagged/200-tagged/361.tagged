@@ -1,0 +1,289 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.dolar_saat_ini_total_pengeluaran_ribuan_dolar	dolar saat ini total pengeluaran ribuan dolar	dolar|saat|ini|total|pengeluaran|ribuan|dolar	dolar|saat|ini|total|pengeluaran|ribuan|dolar	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	2	fb:row.row.persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya	persentase dolar saat ini berubah dari persen tahun sebelumnya	persentase|dolar|saat|ini|berubah|dari|persen|tahun|sebelumnya	persentase|dolar|saat|ini|berubah|dari|persen|tahun|sebelumnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	3	fb:row.row.dolar_saat_ini_per_kapita_biaya_dolar	dolar saat ini per kapita biaya dolar	dolar|saat|ini|per|kapita|biaya|dolar	dolar|saat|ini|per|kapita|biaya|dolar	NNP|NNP|NNP|IN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2	persentase dolar saat ini berubah dari persen tahun sebelumnya	persentase|dolar|saat|ini|berubah|dari|persen|tahun|sebelumnya	persentase|dolar|saat|ini|berubah|dari|persen|tahun|sebelumnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	5	fb:row.row.konstan_2002_dolar_total_pengeluaran_ribuan_dolar	konstan (2002) dolar total pengeluaran ribuan dolar	konstan|-lrb-|2002|-rrb-|dolar|total|pengeluaran|ribuan|dolar	konstan|-lrb-|2002|-rrb-|dolar|total|pengeluaran|ribuan|dolar	NNP|-LRB-|CD|-RRB-|JJ|JJ|NN|NN|NN	O|O|DATE|O|O|O|O|O|O	||2002||||||					
+-1	6	fb:row.row.persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya	persentase perubahan dolar konstan (2002) dari persen tahun sebelumnya	persentase|perubahan|dolar|konstan|-lrb-|2002|-rrb-|dari|persen|tahun|sebelumnya	persentase|perubahan|dolar|konstan|-lrb-|2002|-rrb-|dari|persen|tahun|sebelumnya	NN|NN|JJ|NN|-LRB-|CD|-RRB-|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O|O	|||||2002|||||					
+-1	7	fb:row.row.konstan_2002_dolar_per_kapita_biaya_dolar	konstan (2002) dolar per kapita biaya dolar	konstan|-lrb-|2002|-rrb-|dolar|per|kapita|biaya|dolar	konstan|-lrb-|2002|-rrb-|dolar|per|kapita|biaya|dolar	NNP|-LRB-|CD|-RRB-|JJ|IN|NN|NN|NN	O|O|DATE|O|O|O|O|O|O	||2002||||||					
+-1	8	fb:row.row.persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2	persentase perubahan dolar konstan (2002) dari persen tahun sebelumnya	persentase|perubahan|dolar|konstan|-lrb-|2002|-rrb-|dari|persen|tahun|sebelumnya	persentase|perubahan|dolar|konstan|-lrb-|2002|-rrb-|dari|persen|tahun|sebelumnya	NN|NN|JJ|NN|-LRB-|CD|-RRB-|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O|O	|||||2002|||||					
+0	0	fb:cell_kharakteristik.1986_1987	1986/1987	1986/1987	1986/1987	CD	NUMBER		1986.0		1987.0	1986|1987	fb:part_kharakteristik.1986|fb:part_kharakteristik.1987
+0	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.3771205	3771205	3771205	3771205	CD	NUMBER	3771205.0	3771205.0				
+0	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.null											
+0	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.144	144	144	144	CD	NUMBER	144.0	144.0				
+0	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.null											
+0	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.5748789	5748789	5748789	5748789	CD	NUMBER	5748789.0	5748789.0				
+0	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.null											
+0	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.220	220	220	220	CD	NUMBER	220.0	220.0				
+0	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.null											
+1	0	fb:cell_kharakteristik.1987_1988	1987/1988	1987/1988	1987/1988	CD	NUMBER		1987.0		1988.0	1987|1988	fb:part_kharakteristik.1987|fb:part_kharakteristik.1988
+1	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.4027809	4027809	4027809	4027809	CD	NUMBER	4027809.0	4027809.0				
+1	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+1	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.152	152	152	152	CD	NUMBER	152.0	152.0				
+1	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+1	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.5880013	5880013	5880013	5880013	CD	NUMBER	5880013.0	5880013.0				
+1	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+1	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.222	222	222	222	CD	NUMBER	222.0	222.0				
+1	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+2	0	fb:cell_kharakteristik.1988_1989	1988/1989	1988/1989	1988/1989	CD	NUMBER		1988.0		1989.0	1988|1989	fb:part_kharakteristik.1988|fb:part_kharakteristik.1989
+2	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.4389414	4389414	4389414	4389414	CD	NUMBER	4389414.0	4389414.0				
+2	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+2	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.164	164	164	164	CD	NUMBER	164.0	164.0				
+2	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+2	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6164908	6164908	6164908	6164908	CD	NUMBER	6164908.0	6164908.0				
+2	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+2	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.230	230	230	230	CD	NUMBER	230.0	230.0				
+2	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+3	0	fb:cell_kharakteristik.1989_1990	1989/1990	1989/1990	1989/1990	CD	NUMBER		1989.0		1990.0	1989|1990	fb:part_kharakteristik.1989|fb:part_kharakteristik.1990
+3	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.4684760	4684760	4684760	4684760	CD	NUMBER	4684760.0	4684760.0				
+3	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+3	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.172	172	172	172	CD	NUMBER	172.0	172.0				
+3	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+3	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6263049	6263049	6263049	6263049	CD	NUMBER	6263049.0	6263049.0				
+3	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+3	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.230	230	230	230	CD	NUMBER	230.0	230.0				
+3	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+4	0	fb:cell_kharakteristik.1990_1991	1990/1991	1990/1991	1990/1991	CD	NUMBER		1990.0		1991.0	1990|1991	fb:part_kharakteristik.1990|fb:part_kharakteristik.1991
+4	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5247646	5247646	5247646	5247646	CD	NUMBER	5247646.0	5247646.0				
+4	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+4	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.189	189	189	189	CD	NUMBER	189.0	189.0				
+4	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+4	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6693426	6693426	6693426	6693426	CD	NUMBER	6693426.0	6693426.0				
+4	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+4	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.242	242	242	242	CD	NUMBER	242.0	242.0				
+4	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+5	0	fb:cell_kharakteristik.1991_1992	1991/1992	1991/1992	1991/1992	CD	NUMBER		1991.0		1992.0	1991|1992	fb:part_kharakteristik.1991|fb:part_kharakteristik.1992
+5	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5426887	5426887	5426887	5426887	CD	NUMBER	5426887.0	5426887.0				
+5	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+5	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.194	194	194	194	CD	NUMBER	194.0	194.0				
+5	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+5	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6554211	6554211	6554211	6554211	CD	NUMBER	6554211.0	6554211.0				
+5	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya._2_1	-2.1	-2.1	-2.1	CD	NUMBER	-2.1	2.1				
+5	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.234	234	234	234	CD	NUMBER	234.0	234.0				
+5	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+6	0	fb:cell_kharakteristik.1992_1993	1992/1993	1992/1993	1992/1993	CD	NUMBER		1992.0		1993.0	1992|1993	fb:part_kharakteristik.1992|fb:part_kharakteristik.1993
+6	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5716833	5716833	5716833	5716833	CD	NUMBER	5716833.0	5716833.0				
+6	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+6	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.202	202	202	202	CD	NUMBER	202.0	202.0				
+6	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+6	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6805754	6805754	6805754	6805754	CD	NUMBER	6805754.0	6805754.0				
+6	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+6	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.240	240	240	240	CD	NUMBER	240.0	240.0				
+6	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+7	0	fb:cell_kharakteristik.1993_1994	1993/1994	1993/1994	1993/1994	CD	NUMBER		1993.0		1994.0	1993|1994	fb:part_kharakteristik.1993|fb:part_kharakteristik.1994
+7	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5790165	5790165	5790165	5790165	CD	NUMBER	5790165.0	5790165.0				
+7	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+7	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.202	202	202	202	CD	NUMBER	202.0	202.0				
+7	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+7	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6764212	6764212	6764212	6764212	CD	NUMBER	6764212.0	6764212.0				
+7	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+7	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.236	236	236	236	CD	NUMBER	236.0	236.0				
+7	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+8	0	fb:cell_kharakteristik.1994_1995	1994/1995	1994/1995	1994/1995	CD	NUMBER		1994.0		1995.0	1994|1995	fb:part_kharakteristik.1994|fb:part_kharakteristik.1995
+8	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5783656	5783656	5783656	5783656	CD	NUMBER	5783656.0	5783656.0				
+8	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya._0_1	-0.1	-0.1	-0.1	CD	NUMBER	-0.1	0.1				
+8	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.199	199	199	199	CD	NUMBER	199.0	199.0				
+8	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+8	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6748723	6748723	6748723	6748723	CD	NUMBER	6748723.0	6748723.0				
+8	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+8	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.233	233	233	233	CD	NUMBER	233.0	233.0				
+8	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._1_3	-1.3	-1.3	-1.3	CD	NUMBER	-1.3	1.3				
+9	0	fb:cell_kharakteristik.1995_1996r	1995/1996r	1995/1996r	1995/1996r	NN	O		1995.0		1996.0	1995|1996r	fb:part_kharakteristik.1995|fb:part_kharakteristik.1996r
+9	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5766630	5766630	5766630	5766630	CD	NUMBER	5766630.0	5766630.0				
+9	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya._0_3	-0.3	-0.3	-0.3	CD	NUMBER	-0.3	0.3				
+9	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.197	197	197	197	CD	NUMBER	197.0	197.0				
+9	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2._1_3	-1.3	-1.3	-1.3	CD	NUMBER	-1.3	1.3				
+9	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6582911	6582911	6582911	6582911	CD	NUMBER	6582911.0	6582911.0				
+9	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+9	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.225	225	225	225	CD	NUMBER	225.0	225.0				
+9	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+10	0	fb:cell_kharakteristik.1996_1997r	1996/1997r	1996/1997r	1996/1997r	NN	O		1996.0		1997.0	1996|1997r	fb:part_kharakteristik.1996|fb:part_kharakteristik.1997r
+10	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5856055	5856055	5856055	5856055	CD	NUMBER	5856055.0	5856055.0				
+10	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+10	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.198	198	198	198	CD	NUMBER	198.0	198.0				
+10	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+10	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6587238	6587238	6587238	6587238	CD	NUMBER	6587238.0	6587238.0				
+10	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.222	222	222	222	CD	NUMBER	222.0	222.0				
+10	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+11	0	fb:cell_kharakteristik.1997_1998	1997/1998	1997/1998	1997/1998	CD	NUMBER		1997.0		1998.0	1997|1998	fb:part_kharakteristik.1997|fb:part_kharakteristik.1998
+11	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.5989022	5989022	5989022	5989022	CD	NUMBER	5989022.0	5989022.0				
+11	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+11	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.200	200	200	200	CD	NUMBER	200.0	200.0				
+11	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+11	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6625024	6625024	6625024	6625024	CD	NUMBER	6625024.0	6625024.0				
+11	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+11	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.222	222	222	222	CD	NUMBER	222.0	222.0				
+11	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._0_4	-0.4	-0.4	-0.4	CD	NUMBER	-0.4	0.4				
+12	0	fb:cell_kharakteristik.1998_1999	1998/1999	1998/1999	1998/1999	CD	NUMBER		1998.0		1999.0	1998|1999	fb:part_kharakteristik.1998|fb:part_kharakteristik.1999
+12	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.6209756	6209756	6209756	6209756	CD	NUMBER	6209756.0	6209756.0				
+12	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+12	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.206	206	206	206	CD	NUMBER	206.0	206.0				
+12	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+12	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6801486	6801486	6801486	6801486	CD	NUMBER	6801486.0	6801486.0				
+12	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+12	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.226	226	226	226	CD	NUMBER	226.0	226.0				
+12	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+13	0	fb:cell_kharakteristik.1999_2000	1999/2000	1999/2000	1999/2000	CD	NUMBER		1999.0		2000.0	1999|2000	fb:part_kharakteristik.1999|fb:part_kharakteristik.2000
+13	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.6395380	6395380	6395380	6395380	CD	NUMBER	6395380.0	6395380.0				
+13	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+13	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.210	210	210	210	CD	NUMBER	210.0	210.0				
+13	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+13	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.6884155	6884155	6884155	6884155	CD	NUMBER	6884155.0	6884155.0				
+13	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+13	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.226	226	226	226	CD	NUMBER	226.0	226.0				
+13	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+14	0	fb:cell_kharakteristik.2000_2001r	2000/2001r	2000/2001r	2000/2001r	NN	O		2000.0		2001.0	2000|2001r	fb:part_kharakteristik.2000|fb:part_kharakteristik.2001r
+14	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.6798772	6798772	6798772	6798772	CD	NUMBER	6798772.0	6798772.0				
+14	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+14	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.222	222	222	222	CD	NUMBER	222.0	222.0				
+14	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+14	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.7126596	7126596	7126596	7126596	CD	NUMBER	7126596.0	7126596.0				
+14	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+14	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.232	232	232	232	CD	NUMBER	232.0	232.0				
+14	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+15	0	fb:cell_kharakteristik.2001_2002r	2001/2002r	2001/2002r	2001/2002r	NN	O		2001.0		2002.0	2001|2002r	fb:part_kharakteristik.2001|fb:part_kharakteristik.2002r
+15	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.7270027	7270027	7270027	7270027	CD	NUMBER	7270027.0	7270027.0				
+15	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+15	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.234	234	234	234	CD	NUMBER	234.0	234.0				
+15	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+15	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.7433565	7433565	7433565	7433565	CD	NUMBER	7433565.0	7433565.0				
+15	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+15	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.240	240	240	240	CD	NUMBER	240.0	240.0				
+15	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+16	0	fb:cell_kharakteristik.2002_2003r	2002/2003r	2002/2003r	2002/2003r	NN	O		2002.0		2003.0	2002|2003r	fb:part_kharakteristik.2002|fb:part_kharakteristik.2003r
+16	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.7827322	7827322	7827322	7827322	CD	NUMBER	7827322.0	7827322.0				
+16	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+16	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.250	250	250	250	CD	NUMBER	250.0	250.0				
+16	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+16	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.7827322	7827322	7827322	7827322	CD	NUMBER	7827322.0	7827322.0				
+16	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+16	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.250	250	250	250	CD	NUMBER	250.0	250.0				
+16	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+17	0	fb:cell_kharakteristik.2003_2004r	2003/2004r	2003/2004r	2003/2004r	NN	O		2003.0		2004.0	2003|2004r	fb:part_kharakteristik.2003|fb:part_kharakteristik.2004r
+17	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.8324196	8324196	8324196	8324196	CD	NUMBER	8324196.0	8324196.0				
+17	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+17	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.263	263	263	263	CD	NUMBER	263.0	263.0				
+17	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+17	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.8097467	8097467	8097467	8097467	CD	NUMBER	8097467.0	8097467.0				
+17	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+17	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.256	256	256	256	CD	NUMBER	256.0	256.0				
+17	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+18	0	fb:cell_kharakteristik.2004_2005	2004/2005	2004/2005	2004/2005	CD	NUMBER		2004.0		2005.0	2004|2005	fb:part_kharakteristik.2004|fb:part_kharakteristik.2005
+18	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.8758213	8758213	8758213	8758213	CD	NUMBER	8758213.0	8758213.0				
+18	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+18	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.274	274	274	274	CD	NUMBER	274.0	274.0				
+18	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+18	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.8365055	8365055	8365055	8365055	CD	NUMBER	8365055.0	8365055.0				
+18	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+18	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.262	262	262	262	CD	NUMBER	262.0	262.0				
+18	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+19	0	fb:cell_kharakteristik.2005_2006	2005/2006	2005/2006	2005/2006	CD	NUMBER		2005.0		2006.0	2005|2006	fb:part_kharakteristik.2005|fb:part_kharakteristik.2006
+19	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.9281879	9281879	9281879	9281879	CD	NUMBER	9281879.0	9281879.0				
+19	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+19	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.288	288	288	288	CD	NUMBER	288.0	288.0				
+19	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+19	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.8674653	8674653	8674653	8674653	CD	NUMBER	8674653.0	8674653.0				
+19	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+19	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.269	269	269	269	CD	NUMBER	269.0	269.0				
+19	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+20	0	fb:cell_kharakteristik.2006_2007	2006/2007	2006/2007	2006/2007	CD	NUMBER		2006.0		2007.0	2006|2007	fb:part_kharakteristik.2006|fb:part_kharakteristik.2007
+20	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.9877071	9877071	9877071	9877071	CD	NUMBER	9877071.0	9877071.0				
+20	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+20	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.303	303	303	303	CD	NUMBER	303.0	303.0				
+20	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+20	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.9053227	9053227	9053227	9053227	CD	NUMBER	9053227.0	9053227.0				
+20	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+20	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.278	278	278	278	CD	NUMBER	278.0	278.0				
+20	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+21	0	fb:cell_kharakteristik.2007_2008r	2007/2008r	2007/2008r	2007/2008r	NN	O		2007.0		2008.0	2007|2008r	fb:part_kharakteristik.2007|fb:part_kharakteristik.2008r
+21	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.10544769	10544769	10544769	10544769	CD	NUMBER	1.0544769E7	1.0544769E7				
+21	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+21	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.321	321	321	321	CD	NUMBER	321.0	321.0				
+21	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+21	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.9457192	9457192	9457192	9457192	CD	NUMBER	9457192.0	9457192.0				
+21	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+21	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.288	288	288	288	CD	NUMBER	288.0	288.0				
+21	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+22	0	fb:cell_kharakteristik.2008_2009r	2008/2009r	2008/2009r	2008/2009r	NN	O		2008.0		2009.0	2008|2009r	fb:part_kharakteristik.2008|fb:part_kharakteristik.2009r
+22	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.11449953	11449953	11449953	11449953	CD	NUMBER	1.1449953E7	1.1449953E7				
+22	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+22	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.344	344	344	344	CD	NUMBER	344.0	344.0				
+22	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+22	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.10035016	10035016	10035016	10035016	CD	NUMBER	1.0035016E7	1.0035016E7				
+22	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+22	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.302	302	302	302	CD	NUMBER	302.0	302.0				
+22	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+23	0	fb:cell_kharakteristik.2009_2010r	2009/2010r	2009/2010r	2009/2010r	NN	O		2009.0		2010.0	2009|2010r	fb:part_kharakteristik.2009|fb:part_kharakteristik.2010r
+23	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.12314195	12314195	12314195	12314195	CD	NUMBER	1.2314195E7	1.2314195E7				
+23	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+23	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.366	366	366	366	CD	NUMBER	366.0	366.0				
+23	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+23	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.10764157	10764157	10764157	10764157	CD	NUMBER	1.0764157E7	1.0764157E7				
+23	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+23	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.320	320	320	320	CD	NUMBER	320.0	320.0				
+23	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+24	0	fb:cell_kharakteristik.2010_2011r	2010/2011r	2010/2011r	2010/2011r	NN	O		2010.0		2011.0	2010|2011r	fb:part_kharakteristik.2010|fb:part_kharakteristik.2011r
+24	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.12651406	12651406	12651406	12651406	CD	NUMBER	1.2651406E7	1.2651406E7				
+24	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+24	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.372	372	372	372	CD	NUMBER	372.0	372.0				
+24	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+24	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.10859576	10859576	10859576	10859576	CD	NUMBER	1.0859576E7	1.0859576E7				
+24	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+24	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.319	319	319	319	CD	NUMBER	319.0	319.0				
+24	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+25	0	fb:cell_kharakteristik.2011_2012r	2011/2012r	2011/2012r	2011/2012r	NN	O		2011.0		2012.0	2011|2012r	fb:part_kharakteristik.2011|fb:part_kharakteristik.2012r
+25	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.12952744	12952744	12952744	12952744	CD	NUMBER	1.2952744E7	1.2952744E7				
+25	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+25	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.377	377	377	377	CD	NUMBER	377.0	377.0				
+25	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+25	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.10802955	10802955	10802955	10802955	CD	NUMBER	1.0802955E7	1.0802955E7				
+25	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+25	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.315	315	315	315	CD	NUMBER	315.0	315.0				
+25	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._1_5	-1.5	-1.5	-1.5	CD	NUMBER	-1.5	1.5				
+26	0	fb:cell_kharakteristik.2012_2013r	2012/2013r	2012/2013r	2012/2013r	NN	O		2012.0		2013.0	2012|2013r	fb:part_kharakteristik.2012|fb:part_kharakteristik.2013r
+26	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.13550728	13550728	13550728	13550728	CD	NUMBER	1.3550728E7	1.3550728E7				
+26	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+26	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.390	390	390	390	CD	NUMBER	390.0	390.0				
+26	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+26	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.11134534	11134534	11134534	11134534	CD	NUMBER	1.1134534E7	1.1134534E7				
+26	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+26	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.320	320	320	320	CD	NUMBER	320.0	320.0				
+26	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+27	0	fb:cell_kharakteristik.2013_2014	2013/2014	2013/2014	2013/2014	CD	NUMBER		2013.0		2014.0	2013|2014	fb:part_kharakteristik.2013|fb:part_kharakteristik.2014
+27	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.13596407	13596407	13596407	13596407	CD	NUMBER	1.3596407E7	1.3596407E7				
+27	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+27	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.387	387	387	387	CD	NUMBER	387.0	387.0				
+27	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+27	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.11071992	11071992	11071992	11071992	CD	NUMBER	1.1071992E7	1.1071992E7				
+27	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+27	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.315	315	315	315	CD	NUMBER	315.0	315.0				
+27	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+28	0	fb:cell_kharakteristik.2014_2015r	2014/2015r	2014/2015r	2014/2015r	NN	O		2014.0		2015.0	2014|2015r	fb:part_kharakteristik.2014|fb:part_kharakteristik.2015r
+28	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.13881108	13881108	13881108	13881108	CD	NUMBER	1.3881108E7	1.3881108E7				
+28	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+28	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.391	391	391	391	CD	NUMBER	391.0	391.0				
+28	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+28	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.11087147	11087147	11087147	11087147	CD	NUMBER	1.1087147E7	1.1087147E7				
+28	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+28	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.312	312	312	312	CD	NUMBER	312.0	312.0				
+28	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+29	0	fb:cell_kharakteristik.2015_2016r	2015/2016r	2015/2016r	2015/2016r	NN	O		2015.0		2016.0	2015|2016r	fb:part_kharakteristik.2015|fb:part_kharakteristik.2016r
+29	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.14208589	14208589	14208589	14208589	CD	NUMBER	1.4208589E7	1.4208589E7				
+29	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+29	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.397	397	397	397	CD	NUMBER	397.0	397.0				
+29	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+29	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.11223214	11223214	11223214	11223214	CD	NUMBER	1.1223214E7	1.1223214E7				
+29	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+29	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.313	313	313	313	CD	NUMBER	313.0	313.0				
+29	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+30	0	fb:cell_kharakteristik.2016_2017	2016/2017	2016/2017	2016/2017	CD	NUMBER		2016.0		2017.0	2016|2017	fb:part_kharakteristik.2016|fb:part_kharakteristik.2017
+30	1	fb:cell_dolar_saat_ini_total_pengeluaran_ribuan_dolar.14669412	14669412	14669412	14669412	CD	NUMBER	1.4669412E7	1.4669412E7				
+30	2	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+30	3	fb:cell_dolar_saat_ini_per_kapita_biaya_dolar.405	405	405	405	CD	NUMBER	405.0	405.0				
+30	4	fb:cell_persentase_dolar_saat_ini_berubah_dari_persen_tahun_sebelumnya_2.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+30	5	fb:cell_konstan_2002_dolar_total_pengeluaran_ribuan_dolar.11424776	11424776	11424776	11424776	CD	NUMBER	1.1424776E7	1.1424776E7				
+30	6	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+30	7	fb:cell_konstan_2002_dolar_per_kapita_biaya_dolar.315	315	315	315	CD	NUMBER	315.0	315.0				
+30	8	fb:cell_persentase_perubahan_dolar_konstan_2002_dari_persen_tahun_sebelumnya_2.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				

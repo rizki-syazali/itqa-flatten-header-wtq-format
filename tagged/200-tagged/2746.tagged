@@ -1,0 +1,21 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_12_hingga_14_dan_17_tahun	total - 12 hingga 14 dan 17 tahun	total|-|12|hingga|14|dan|17|tahun	total|-|12|hingga|14|dan|17|tahun	JJ|:|CD|NN|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O|NUMBER|O	||12.0||14.0||17.0|					
+-1	2	fb:row.row.12_hingga_14_tahun	12 hingga 14 tahun	12|hingga|14|tahun	12|hingga|14|tahun	CD|NN|CD|NN	NUMBER|O|NUMBER|O	12.0||14.0|					
+-1	3	fb:row.row.17_tahun	17 tahun	17|tahun	17|tahun	CD|NN	NUMBER|O	17.0|					
+0	0	fb:cell_kharakteristik.persen_kekhawatiran_tentang_keamanan_vaksin	persen kekhawatiran tentang keamanan vaksin	persen|kekhawatiran|tentang|keamanan|vaksin	persen|kekhawatiran|tentang|keamanan|vaksin	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_total_12_hingga_14_dan_17_tahun.46_9	46.9	46.9	46.9	CD	NUMBER	46.9	46.9				
+0	2	fb:cell_12_hingga_14_tahun.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+0	3	fb:cell_17_tahun.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+1	0	fb:cell_kharakteristik.persen_tidak_menganggapnya_perlu_untuk_anak_mereka	persen tidak menganggapnya perlu untuk anak mereka	persen|tidak|menganggapnya|perlu|untuk|anak|mereka	persen|tidak|menganggapnya|perlu|untuk|anak|mereka	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_total_12_hingga_14_dan_17_tahun.29_1	29.1	29.1	29.1	CD	NUMBER	29.1	29.1				
+1	2	fb:cell_12_hingga_14_tahun.30_5	30.5	30.5	30.5	CD	NUMBER	30.5	30.5				
+1	3	fb:cell_17_tahun.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+2	0	fb:cell_kharakteristik.persen_lainnya	persen lainnya	persen|lainnya	persen|lainnya	NNP|NNP	O|O	|					
+2	1	fb:cell_total_12_hingga_14_dan_17_tahun.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+2	2	fb:cell_12_hingga_14_tahun.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+2	3	fb:cell_17_tahun.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+3	0	fb:cell_kharakteristik.persen_totalnya	persen totalnya	persen|totalnya	persen|totalnya	NNP|NNP	O|O	|					
+3	1	fb:cell_total_12_hingga_14_dan_17_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+3	2	fb:cell_12_hingga_14_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+3	3	fb:cell_17_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

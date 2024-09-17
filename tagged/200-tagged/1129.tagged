@@ -1,0 +1,91 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.laki_laki_dikenakan_nomor	laki-laki dikenakan nomor	laki|laki|dikenakan|nomor	laki|laki|dikenakan|nomor	NNP|NNP|NNP|NNP	PERSON|O|O|O	|||					
+-1	2	fb:row.row.laki_laki_mengenakan_tarif	laki-laki mengenakan tarif	laki|laki|mengenakan|tarif	laki|laki|mengenakan|tarif	NNP|NNP|NNP|NNP	PERSON|O|O|O	|||					
+-1	3	fb:row.row.nomor_yang_dikenakan_perempuan	nomor yang dikenakan perempuan	nomor|yang|dikenakan|perempuan	nomor|yang|dikenakan|perempuan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.perempuan_dikenakan_tarif	perempuan dikenakan tarif	perempuan|dikenakan|tarif	perempuan|dikenakan|tarif	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.jumlah_total_yang_dibebankan	jumlah total yang dibebankan	jumlah|total|yang|dibebankan	jumlah|total|yang|dibebankan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	6	fb:row.row.total_tarif_yang_dikenakan	total tarif yang dikenakan	total|tarif|yang|dikenakan	total|tarif|yang|dikenakan	JJ|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+-1	7	fb:row.row.total_nomor_tidak_dikenakan_biaya	total nomor tidak dikenakan biaya	total|nomor|tidak|dikenakan|biaya	total|nomor|tidak|dikenakan|biaya	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	8	fb:row.row.tarif_total_tidak_dikenakan_biaya	tarif total tidak dikenakan biaya	tarif|total|tidak|dikenakan|biaya	tarif|total|tidak|dikenakan|biaya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.total_biaya	total biaya	total|biaya	total|biaya	JJ|NN	O|O	|					
+0	1	fb:cell_laki_laki_dikenakan_nomor.31781	31781	31781	31781	CD	NUMBER	31781.0	31781.0				
+0	2	fb:cell_laki_laki_mengenakan_tarif.2637	2637	2637	2637	CD	DATE	2637	2637.0	2637-xx-xx			
+0	3	fb:cell_nomor_yang_dikenakan_perempuan.10414	10414	10414	10414	CD	NUMBER	10414.0	10414.0				
+0	4	fb:cell_perempuan_dikenakan_tarif.915	915	915	915	CD	NUMBER	915.0	915.0				
+0	5	fb:cell_jumlah_total_yang_dibebankan.42195	42195	42195	42195	CD	NUMBER	42195.0	42195.0				
+0	6	fb:cell_total_tarif_yang_dikenakan.1800	1800	1800	1800	CD	DATE	1800	1800.0	1800-xx-xx			
+0	7	fb:cell_total_nomor_tidak_dikenakan_biaya.51950	51950	51950	51950	CD	NUMBER	51950.0	51950.0				
+0	8	fb:cell_tarif_total_tidak_dikenakan_biaya.2216	2216	2216	2216	CD	DATE	2216	2216.0	2216-xx-xx			
+1	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan	pelanggaran terhadap administrasi peradilan	pelanggaran|terhadap|administrasi|peradilan	pelanggaran|terhadap|administrasi|peradilan	NN|NN|NN|NN	O|O|O|O	|||					
+1	1	fb:cell_laki_laki_dikenakan_nomor.7126	7126	7126	7126	CD	NUMBER	7126.0	7126.0	7126-xx-xx			
+1	2	fb:cell_laki_laki_mengenakan_tarif.591	591	591	591	CD	NUMBER	591.0	591.0				
+1	3	fb:cell_nomor_yang_dikenakan_perempuan.2915	2915	2915	2915	CD	DATE	2915	2915.0	2915-xx-xx			
+1	4	fb:cell_perempuan_dikenakan_tarif.256	256	256	256	CD	NUMBER	256.0	256.0				
+1	5	fb:cell_jumlah_total_yang_dibebankan.10041	10041	10041	10041	CD	NUMBER	10041.0	10041.0				
+1	6	fb:cell_total_tarif_yang_dikenakan.428	428	428	428	CD	NUMBER	428.0	428.0				
+1	7	fb:cell_total_nomor_tidak_dikenakan_biaya.1780	1780	1780	1780	CD	DATE	1780	1780.0	1780-xx-xx			
+1	8	fb:cell_tarif_total_tidak_dikenakan_biaya.76	76	76	76	CD	NUMBER	76.0	76.0				
+2	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_kegagalan_untuk_mematuhi_kondisi	pelanggaran terhadap administrasi peradilan kegagalan untuk mematuhi kondisi	pelanggaran|terhadap|administrasi|peradilan|kegagalan|untuk|mematuhi|kondisi	pelanggaran|terhadap|administrasi|peradilan|kegagalan|untuk|mematuhi|kondisi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_laki_laki_dikenakan_nomor.4880	4880	4880	4880	CD	NUMBER	4880.0	4880.0	4880-xx-xx			
+2	2	fb:cell_laki_laki_mengenakan_tarif.405	405	405	405	CD	NUMBER	405.0	405.0				
+2	3	fb:cell_nomor_yang_dikenakan_perempuan.2074	2074	2074	2074	CD	DATE	2074	2074.0	2074-xx-xx			
+2	4	fb:cell_perempuan_dikenakan_tarif.182	182	182	182	CD	NUMBER	182.0	182.0				
+2	5	fb:cell_jumlah_total_yang_dibebankan.6954	6954	6954	6954	CD	NUMBER	6954.0	6954.0	6954-xx-xx			
+2	6	fb:cell_total_tarif_yang_dikenakan.297	297	297	297	CD	NUMBER	297.0	297.0				
+2	7	fb:cell_total_nomor_tidak_dikenakan_biaya.942	942	942	942	CD	NUMBER	942.0	942.0				
+2	8	fb:cell_tarif_total_tidak_dikenakan_biaya.40	40	40	40	CD	NUMBER	40.0	40.0				
+3	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_lolos_dari_tahanan	pelanggaran terhadap administrasi peradilan lolos dari tahanan	pelanggaran|terhadap|administrasi|peradilan|lolos|dari|tahanan	pelanggaran|terhadap|administrasi|peradilan|lolos|dari|tahanan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_laki_laki_dikenakan_nomor.126	126	126	126	CD	NUMBER	126.0	126.0				
+3	2	fb:cell_laki_laki_mengenakan_tarif.10	10	10	10	CD	NUMBER	10.0	10.0				
+3	3	fb:cell_nomor_yang_dikenakan_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+3	4	fb:cell_perempuan_dikenakan_tarif.1	1	1	1	CD	NUMBER	1.0	1.0				
+3	5	fb:cell_jumlah_total_yang_dibebankan.139	139	139	139	CD	NUMBER	139.0	139.0				
+3	6	fb:cell_total_tarif_yang_dikenakan.6	6	6	6	CD	NUMBER	6.0	6.0				
+3	7	fb:cell_total_nomor_tidak_dikenakan_biaya.9	9	9	9	CD	NUMBER	9.0	9.0				
+3	8	fb:cell_tarif_total_tidak_dikenakan_biaya.0	0	0	0	CD	NUMBER	0.0	0.0				
+4	0	fb:cell_kharakteristik.pelanggaran_terhadap_penyelenggaraan_peradilan_tahanan_yang_buron_secara_tidak_sah	pelanggaran terhadap penyelenggaraan peradilan tahanan yang buron secara tidak sah	pelanggaran|terhadap|penyelenggaraan|peradilan|tahanan|yang|buron|secara|tidak|sah	pelanggaran|terhadap|penyelenggaraan|peradilan|tahanan|yang|buron|secara|tidak|sah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+4	1	fb:cell_laki_laki_dikenakan_nomor.93	93	93	93	CD	NUMBER	93.0	93.0				
+4	2	fb:cell_laki_laki_mengenakan_tarif.8	8	8	8	CD	NUMBER	8.0	8.0				
+4	3	fb:cell_nomor_yang_dikenakan_perempuan.12	12	12	12	CD	NUMBER	12.0	12.0				
+4	4	fb:cell_perempuan_dikenakan_tarif.1	1	1	1	CD	NUMBER	1.0	1.0				
+4	5	fb:cell_jumlah_total_yang_dibebankan.105	105	105	105	CD	NUMBER	105.0	105.0				
+4	6	fb:cell_total_tarif_yang_dikenakan.4	4	4	4	CD	NUMBER	4.0	4.0				
+4	7	fb:cell_total_nomor_tidak_dikenakan_biaya.9	9	9	9	CD	NUMBER	9.0	9.0				
+4	8	fb:cell_tarif_total_tidak_dikenakan_biaya.0	0	0	0	CD	NUMBER	0.0	0.0				
+5	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_kegagalan_menghadiri_pengadilan	pelanggaran terhadap administrasi peradilan kegagalan menghadiri pengadilan	pelanggaran|terhadap|administrasi|peradilan|kegagalan|menghadiri|pengadilan	pelanggaran|terhadap|administrasi|peradilan|kegagalan|menghadiri|pengadilan	NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_laki_laki_dikenakan_nomor.894	894	894	894	CD	NUMBER	894.0	894.0				
+5	2	fb:cell_laki_laki_mengenakan_tarif.74	74	74	74	CD	NUMBER	74.0	74.0				
+5	3	fb:cell_nomor_yang_dikenakan_perempuan.446	446	446	446	CD	NUMBER	446.0	446.0				
+5	4	fb:cell_perempuan_dikenakan_tarif.39	39	39	39	CD	NUMBER	39.0	39.0				
+5	5	fb:cell_jumlah_total_yang_dibebankan.1340	1340	1340	1340	CD	DATE	1340	1340.0	1340-xx-xx			
+5	6	fb:cell_total_tarif_yang_dikenakan.57	57	57	57	CD	NUMBER	57.0	57.0				
+5	7	fb:cell_total_nomor_tidak_dikenakan_biaya.51	51	51	51	CD	NUMBER	51.0	51.0				
+5	8	fb:cell_tarif_total_tidak_dikenakan_biaya.2	2	2	2	CD	NUMBER	2.0	2.0				
+6	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_pelanggaran_masa_percobaan	pelanggaran terhadap administrasi peradilan pelanggaran masa percobaan	pelanggaran|terhadap|administrasi|peradilan|pelanggaran|masa|percobaan	pelanggaran|terhadap|administrasi|peradilan|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_laki_laki_dikenakan_nomor.1013	1013	1013	1013	CD	DATE	1013	1013.0	1013-xx-xx			
+6	2	fb:cell_laki_laki_mengenakan_tarif.84	84	84	84	CD	NUMBER	84.0	84.0				
+6	3	fb:cell_nomor_yang_dikenakan_perempuan.292	292	292	292	CD	NUMBER	292.0	292.0				
+6	4	fb:cell_perempuan_dikenakan_tarif.26	26	26	26	CD	NUMBER	26.0	26.0				
+6	5	fb:cell_jumlah_total_yang_dibebankan.1305	1305	1305	1305	CD	DATE	1305	1305.0	1305-xx-xx			
+6	6	fb:cell_total_tarif_yang_dikenakan.56	56	56	56	CD	NUMBER	56.0	56.0				
+6	7	fb:cell_total_nomor_tidak_dikenakan_biaya.459	459	459	459	CD	NUMBER	459.0	459.0				
+6	8	fb:cell_tarif_total_tidak_dikenakan_biaya.20	20	20	20	CD	NUMBER	20.0	20.0				
+7	0	fb:cell_kharakteristik.pelanggaran_terhadap_penyelenggaraan_peradilan_pelanggaran_lain_terhadap_penyelenggaraan_hukum_dan_peradilan	pelanggaran terhadap penyelenggaraan peradilan pelanggaran lain terhadap penyelenggaraan hukum dan peradilan	pelanggaran|terhadap|penyelenggaraan|peradilan|pelanggaran|lain|terhadap|penyelenggaraan|hukum|dan|peradilan	pelanggaran|terhadap|penyelenggaraan|peradilan|pelanggaran|lain|terhadap|penyelenggaraan|hukum|dan|peradilan	NN|NN|NN|NN|NN|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+7	1	fb:cell_laki_laki_dikenakan_nomor.120	120	120	120	CD	NUMBER	120.0	120.0				
+7	2	fb:cell_laki_laki_mengenakan_tarif.10	10	10	10	CD	NUMBER	10.0	10.0				
+7	3	fb:cell_nomor_yang_dikenakan_perempuan.78	78	78	78	CD	NUMBER	78.0	78.0				
+7	4	fb:cell_perempuan_dikenakan_tarif.7	7	7	7	CD	NUMBER	7.0	7.0				
+7	5	fb:cell_jumlah_total_yang_dibebankan.198	198	198	198	CD	NUMBER	198.0	198.0				
+7	6	fb:cell_total_tarif_yang_dikenakan.8	8	8	8	CD	NUMBER	8.0	8.0				
+7	7	fb:cell_total_nomor_tidak_dikenakan_biaya.310	310	310	310	CD	NUMBER	310.0	310.0				
+7	8	fb:cell_tarif_total_tidak_dikenakan_biaya.13	13	13	13	CD	NUMBER	13.0	13.0				
+8	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_tindakan_peradilan_pidana_remaja	pelanggaran terhadap administrasi peradilan tindakan peradilan pidana remaja	pelanggaran|terhadap|administrasi|peradilan|tindakan|peradilan|pidana|remaja	pelanggaran|terhadap|administrasi|peradilan|tindakan|peradilan|pidana|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+8	1	fb:cell_laki_laki_dikenakan_nomor.2709	2709	2709	2709	CD	DATE	2709	2709.0	2709-xx-xx			
+8	2	fb:cell_laki_laki_mengenakan_tarif.225	225	225	225	CD	NUMBER	225.0	225.0				
+8	3	fb:cell_nomor_yang_dikenakan_perempuan.1084	1084	1084	1084	CD	DATE	1084	1084.0	1084-xx-xx			
+8	4	fb:cell_perempuan_dikenakan_tarif.95	95	95	95	CD	NUMBER	95.0	95.0				
+8	5	fb:cell_jumlah_total_yang_dibebankan.3793	3793	3793	3793	CD	NUMBER	3793.0	3793.0	3793-xx-xx			
+8	6	fb:cell_total_tarif_yang_dikenakan.162	162	162	162	CD	NUMBER	162.0	162.0				
+8	7	fb:cell_total_nomor_tidak_dikenakan_biaya.592	592	592	592	CD	NUMBER	592.0	592.0				
+8	8	fb:cell_tarif_total_tidak_dikenakan_biaya.25	25	25	25	CD	NUMBER	25.0	25.0				

@@ -1,0 +1,393 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.koefisien_model_1	koefisien model 1	koefisien|model|1	koefisien|model|1	NNP|NNP|CD	O|O|NUMBER	||1.0					
+-1	2	fb:row.row.kesalahan_standar_bootstrap_model_1	kesalahan standar bootstrap model 1	kesalahan|standar|bootstrap|model|1	kesalahan|standar|bootstrap|model|1	NNP|NNP|NN|NN|CD	O|O|O|O|NUMBER	||||1.0					
+-1	3	fb:row.row.koefisien_model_2	koefisien model 2	koefisien|model|2	koefisien|model|2	NNP|NNP|CD	O|O|NUMBER	||2.0					
+-1	4	fb:row.row.kesalahan_standar_bootstrap_model_2	kesalahan standar bootstrap model 2	kesalahan|standar|bootstrap|model|2	kesalahan|standar|bootstrap|model|2	NNP|NNP|NN|NN|CD	O|O|O|O|NUMBER	||||2.0					
+-1	5	fb:row.row.koefisien_model_3	koefisien model 3	koefisien|model|3	koefisien|model|3	NNP|NNP|CD	O|O|NUMBER	||3.0					
+-1	6	fb:row.row.kesalahan_standar_bootstrap_model_3	kesalahan standar bootstrap model 3	kesalahan|standar|bootstrap|model|3	kesalahan|standar|bootstrap|model|3	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||3.0					
+0	0	fb:cell_kharakteristik.kuartil_pendapatan_kelompok_referensi_pertama_bawah	kuartil pendapatan (kelompok referensi: pertama (bawah))	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-	NNP|NNP|-LRB-|NNP|NNP|:|NNP|-LRB-|NNP|-RRB-|-RRB-	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+0	1	fb:cell_koefisien_model_1.null											
+0	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+0	3	fb:cell_koefisien_model_2.null											
+0	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+0	5	fb:cell_koefisien_model_3.null											
+0	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+1	0	fb:cell_kharakteristik.kuartil_pendapatan_kelompok_referensi_pertama_bawah_kedua	kuartil pendapatan (kelompok referensi: pertama (bawah)) kedua	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|kedua	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|kedua	NNP|NNP|-LRB-|NNP|NNP|:|NNP|-LRB-|NNP|-RRB-|-RRB-|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+1	1	fb:cell_koefisien_model_1.0_184	0.184	0.184	0.184	CD	NUMBER	0.184	0.184				
+1	2	fb:cell_kesalahan_standar_bootstrap_model_1.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+1	3	fb:cell_koefisien_model_2.0_067	0.067	0.067	0.067	CD	NUMBER	0.067	0.067				
+1	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+1	5	fb:cell_koefisien_model_3.0_065	0.065	0.065	0.065	CD	NUMBER	0.065	0.065				
+1	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+2	0	fb:cell_kharakteristik.kuartil_pendapatan_kelompok_referensi_pertama_bawah_ketiga	kuartil pendapatan (kelompok referensi: pertama (bawah)) ketiga	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|ketiga	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|ketiga	NNP|NNP|-LRB-|NNP|NNP|:|NNP|-LRB-|NNP|-RRB-|-RRB-|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+2	1	fb:cell_koefisien_model_1.0_259	0.259	0.259	0.259	CD	NUMBER	0.259	0.259				
+2	2	fb:cell_kesalahan_standar_bootstrap_model_1.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+2	3	fb:cell_koefisien_model_2.0_058	0.058	0.058	0.058	CD	NUMBER	0.058	0.058				
+2	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+2	5	fb:cell_koefisien_model_3.0_056	0.056	0.056	0.056	CD	NUMBER	0.056	0.056				
+2	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+3	0	fb:cell_kharakteristik.kuartil_pendapatan_kelompok_referensi_pertama_bawah_keempat	kuartil pendapatan (kelompok referensi: pertama (bawah)) keempat	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|keempat	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|keempat	NNP|NNP|-LRB-|NNP|NNP|:|NNP|-LRB-|NNP|-RRB-|-RRB-|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+3	1	fb:cell_koefisien_model_1.0_467	0.467	0.467	0.467	CD	NUMBER	0.467	0.467				
+3	2	fb:cell_kesalahan_standar_bootstrap_model_1.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+3	3	fb:cell_koefisien_model_2.0_131	0.131	0.131	0.131	CD	NUMBER	0.131	0.131				
+3	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+3	5	fb:cell_koefisien_model_3.0_128	0.128	0.128	0.128	CD	NUMBER	0.128	0.128				
+3	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+4	0	fb:cell_kharakteristik.kuartil_pendapatan_kelompok_referensi_pertama_bawah_skor_melek_huruf	kuartil pendapatan (kelompok referensi: pertama (bawah)) skor melek huruf	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|skor|melek|huruf	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|skor|melek|huruf	NNP|NNP|-LRB-|NNP|NNP|:|NNP|-LRB-|NNP|-RRB-|-RRB-|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+4	1	fb:cell_koefisien_model_1.null											
+4	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+4	3	fb:cell_koefisien_model_2.0_057	0.057	0.057	0.057	CD	NUMBER	0.057	0.057				
+4	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+4	5	fb:cell_koefisien_model_3.null											
+4	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+5	0	fb:cell_kharakteristik.kuartil_pendapatan_kelompok_referensi_pertama_bawah_skor_berhitung	kuartil pendapatan (kelompok referensi: pertama (bawah)) skor berhitung	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|skor|berhitung	kuartil|pendapatan|-lrb-|kelompok|referensi|:|pertama|-lrb-|bawah|-rrb-|-rrb-|skor|berhitung	NNP|NNP|-LRB-|NNP|NNP|:|NNP|-LRB-|NNP|-RRB-|-RRB-|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+5	1	fb:cell_koefisien_model_1.null											
+5	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+5	3	fb:cell_koefisien_model_2.null											
+5	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+5	5	fb:cell_koefisien_model_3.0_043	0.043	0.043	0.043	CD	NUMBER	0.043	0.043				
+5	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+6	0	fb:cell_kharakteristik.tingkat_pendidikan	tingkat pendidikan	tingkat|pendidikan	tingkat|pendidikan	NNP|NNP	O|O	|					
+6	1	fb:cell_koefisien_model_1.null											
+6	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+6	3	fb:cell_koefisien_model_2.null											
+6	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+6	5	fb:cell_koefisien_model_3.null											
+6	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+7	0	fb:cell_kharakteristik.tingkat_pendidikannya_kurang_dari_sekolah_menengah_atas	tingkat pendidikannya kurang dari sekolah menengah atas	tingkat|pendidikannya|kurang|dari|sekolah|menengah|atas	tingkat|pendidikannya|kurang|dari|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O	||||||					
+7	1	fb:cell_koefisien_model_1.null											
+7	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+7	3	fb:cell_koefisien_model_2.0_072	0.072	0.072	0.072	CD	NUMBER	0.072	0.072				
+7	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_15	0.15	0.15	0.15	CD	NUMBER	0.15	0.15				
+7	5	fb:cell_koefisien_model_3.0_075	0.075	0.075	0.075	CD	NUMBER	0.075	0.075				
+7	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_15	0.15	0.15	0.15	CD	NUMBER	0.15	0.15				
+8	0	fb:cell_kharakteristik.tingkat_pendidikan_pasca_sekolah_menengah_non_universitas	tingkat pendidikan pasca sekolah menengah non-universitas	tingkat|pendidikan|pasca|sekolah|menengah|non|universitas	tingkat|pendidikan|pasca|sekolah|menengah|non|universita	NNP|NNP|NNP|NNP|NNP|JJ|NNS	O|O|O|O|O|O|O	||||||					
+8	1	fb:cell_koefisien_model_1.null											
+8	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+8	3	fb:cell_koefisien_model_2.0_072	0.072	0.072	0.072	CD	NUMBER	0.072	0.072				
+8	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+8	5	fb:cell_koefisien_model_3.0_076	0.076	0.076	0.076	CD	NUMBER	0.076	0.076				
+8	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+9	0	fb:cell_kharakteristik.gelar_sarjana_tingkat_pendidikan	gelar sarjana tingkat pendidikan	gelar|sarjana|tingkat|pendidikan	gelar|sarjana|tingkat|pendidikan	JJ|NN|NN|NN	O|O|O|O	|||					
+9	1	fb:cell_koefisien_model_1.null											
+9	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+9	3	fb:cell_koefisien_model_2.0_137	0.137	0.137	0.137	CD	NUMBER	0.137	0.137				
+9	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+9	5	fb:cell_koefisien_model_3.0_141	0.141	0.141	0.141	CD	NUMBER	0.141	0.141				
+9	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+10	0	fb:cell_kharakteristik.tingkat_pendidikan_di_atas_gelar_sarjana	tingkat pendidikan di atas gelar sarjana	tingkat|pendidikan|di|atas|gelar|sarjana	tingkat|pendidikan|di|atas|gelar|sarjana	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_koefisien_model_1.null											
+10	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+10	3	fb:cell_koefisien_model_2.0_109	0.109	0.109	0.109	CD	NUMBER	0.109	0.109				
+10	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+10	5	fb:cell_koefisien_model_3.0_116	0.116	0.116	0.116	CD	NUMBER	0.116	0.116				
+10	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+11	0	fb:cell_kharakteristik.perempuan_tingkat_pendidikan	perempuan tingkat pendidikan	perempuan|tingkat|pendidikan	perempuan|tingkat|pendidikan	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_koefisien_model_1.null											
+11	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+11	3	fb:cell_koefisien_model_2.0_129	0.129	0.129	0.129	CD	NUMBER	0.129	0.129				
+11	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+11	5	fb:cell_koefisien_model_3.0_133	0.133	0.133	0.133	CD	NUMBER	0.133	0.133				
+11	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+12	0	fb:cell_kharakteristik.usia_tingkat_pendidikan	usia tingkat pendidikan	usia|tingkat|pendidikan	usia|tingkat|pendidikan	NNP|NNP|NNP	ORGANIZATION|O|O	||					
+12	1	fb:cell_koefisien_model_1.null											
+12	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+12	3	fb:cell_koefisien_model_2.0_007	0.007	0.007	0.007	CD	NUMBER	0.007	0.007				
+12	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	5	fb:cell_koefisien_model_3.0_006	0.006	0.006	0.006	CD	NUMBER	0.006	0.006				
+12	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	0	fb:cell_kharakteristik.status_perkawinan	status perkawinan	status|perkawinan	status|perkawinan	NN|NN	O|O	|					
+13	1	fb:cell_koefisien_model_1.null											
+13	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+13	3	fb:cell_koefisien_model_2.null											
+13	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+13	5	fb:cell_koefisien_model_3.null											
+13	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+14	0	fb:cell_kharakteristik.status_perkawinan_menurut_hukum_adat	status perkawinan menurut hukum adat	status|perkawinan|menurut|hukum|adat	status|perkawinan|menurut|hukum|adat	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+14	1	fb:cell_koefisien_model_1.null											
+14	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+14	3	fb:cell_koefisien_model_2._0_077	-0.077	-0.077	-0.077	CD	NUMBER	-0.077	0.077				
+14	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+14	5	fb:cell_koefisien_model_3._0_077	-0.077	-0.077	-0.077	CD	NUMBER	-0.077	0.077				
+14	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+15	0	fb:cell_kharakteristik.status_perkawinan_berpisah_bercerai_atau_duda	status perkawinan berpisah, bercerai atau duda	status|perkawinan|berpisah|,|bercerai|atau|duda	status|perkawinan|berpisah|,|bercerai|atau|duda	NN|NN|NN|,|FW|FW|FW	O|O|O|O|O|O|O	||||||				status perkawinan berpisah|bercerai atau duda	fb:part_kharakteristik.status_perkawinan_berpisah|fb:part_kharakteristik.bercerai_atau_duda
+15	1	fb:cell_koefisien_model_1.null											
+15	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+15	3	fb:cell_koefisien_model_2._0_004	-0.004	-0.004	-0.004	CD	NUMBER	-0.004	0.004				
+15	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+15	5	fb:cell_koefisien_model_3._0_006	-0.006	-0.006	-0.006	CD	NUMBER	-0.006	0.006				
+15	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+16	0	fb:cell_kharakteristik.status_perkawinan_lajang_belum_pernah_menikah	status perkawinan lajang, belum pernah menikah	status|perkawinan|lajang|,|belum|pernah|menikah	status|perkawinan|lajang|,|belum|pernah|menikah	NN|NN|NN|,|NN|NN|NN	O|O|O|O|O|O|O	||||||				status perkawinan lajang|belum pernah menikah	fb:part_kharakteristik.status_perkawinan_lajang|fb:part_kharakteristik.belum_pernah_menikah
+16	1	fb:cell_koefisien_model_1.null											
+16	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+16	3	fb:cell_koefisien_model_2._0_125	-0.125	-0.125	-0.125	CD	NUMBER	-0.125	0.125				
+16	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+16	5	fb:cell_koefisien_model_3._0_124	-0.124	-0.124	-0.124	CD	NUMBER	-0.124	0.124				
+16	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+17	0	fb:cell_kharakteristik.status_perkawinan_jumlah_anak_berusia_15_hingga_17_tahun_dalam_rumah_tangga	status perkawinan jumlah anak berusia 15 hingga 17 tahun dalam rumah tangga	status|perkawinan|jumlah|anak|berusia|15|hingga|17|tahun|dalam|rumah|tangga	status|perkawinan|jumlah|anak|berusia|15|hingga|17|tahun|dalam|rumah|tangga	NN|NN|NN|NN|NN|CD|NN|CD|NN|NN|NN|NN	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	|||||15.0||17.0||||	15.0		17.0		
+17	1	fb:cell_koefisien_model_1.null											
+17	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+17	3	fb:cell_koefisien_model_2._0_065	-0.065	-0.065	-0.065	CD	NUMBER	-0.065	0.065				
+17	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+17	5	fb:cell_koefisien_model_3._0_065	-0.065	-0.065	-0.065	CD	NUMBER	-0.065	0.065				
+17	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+18	0	fb:cell_kharakteristik.status_perkawinan_jumlah_anak_berusia_12_hingga_14_tahun_dalam_rumah_tangga	status perkawinan jumlah anak berusia 12 hingga 14 tahun dalam rumah tangga	status|perkawinan|jumlah|anak|berusia|12|hingga|14|tahun|dalam|rumah|tangga	status|perkawinan|jumlah|anak|berusia|12|hingga|14|tahun|dalam|rumah|tangga	NN|NN|NN|NN|NN|CD|NN|CD|NN|NN|NN|NN	O|O|O|O|O|NUMBER|O|NUMBER|O|O|O|O	|||||12.0||14.0||||	12.0		14.0		
+18	1	fb:cell_koefisien_model_1.null											
+18	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+18	3	fb:cell_koefisien_model_2.0_041	0.041	0.041	0.041	CD	NUMBER	0.041	0.041				
+18	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+18	5	fb:cell_koefisien_model_3.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+18	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+19	0	fb:cell_kharakteristik.status_perkawinan_jumlah_anak_di_bawah_12_tahun_dalam_rumah_tangga	status perkawinan jumlah anak di bawah 12 tahun dalam rumah tangga	status|perkawinan|jumlah|anak|di|bawah|12|tahun|dalam|rumah|tangga	status|perkawinan|jumlah|anak|di|bawah|12|tahun|dalam|rumah|tangga	NN|NN|NN|NN|NNP|NNP|CD|NN|NN|NN|NN	O|O|O|O|O|O|NUMBER|O|O|O|O	||||||12.0||||	12.0				
+19	1	fb:cell_koefisien_model_1.null											
+19	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+19	3	fb:cell_koefisien_model_2.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+19	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+19	5	fb:cell_koefisien_model_3.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+19	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+20	0	fb:cell_kharakteristik.provinsi_tempat_tinggal	provinsi tempat tinggal	provinsi|tempat|tinggal	provinsi|tempat|tinggal	NNP|NNP|NNP	O|O|O	||					
+20	1	fb:cell_koefisien_model_1.null											
+20	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+20	3	fb:cell_koefisien_model_2.null											
+20	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+20	5	fb:cell_koefisien_model_3.null											
+20	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+21	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_newfoundland_dan_labrador	provinsi tempat tinggal newfoundland dan labrador	provinsi|tempat|tinggal|newfoundland|dan|labrador	provinsi|tempat|tinggal|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+21	1	fb:cell_koefisien_model_1.null											
+21	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+21	3	fb:cell_koefisien_model_2._0_216	-0.216	-0.216	-0.216	CD	NUMBER	-0.216	0.216				
+21	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+21	5	fb:cell_koefisien_model_3._0_211	-0.211	-0.211	-0.211	CD	NUMBER	-0.211	0.211				
+21	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+22	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_pulau_pangeran_edward	provinsi tempat tinggal pulau pangeran Edward	provinsi|tempat|tinggal|pulau|pangeran|edward	provinsi|tempat|tinggal|pulau|pangeran|Edward	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+22	1	fb:cell_koefisien_model_1.null											
+22	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+22	3	fb:cell_koefisien_model_2._0_083	-0.083	-0.083	-0.083	CD	NUMBER	-0.083	0.083				
+22	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_17	0.17	0.17	0.17	CD	NUMBER	0.17	0.17				
+22	5	fb:cell_koefisien_model_3._0_083	-0.083	-0.083	-0.083	CD	NUMBER	-0.083	0.083				
+22	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_17	0.17	0.17	0.17	CD	NUMBER	0.17	0.17				
+23	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_nova_scotia	provinsi tempat tinggal nova scotia	provinsi|tempat|tinggal|nova|scotia	provinsi|tempat|tinggal|nova|scotia	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+23	1	fb:cell_koefisien_model_1.null											
+23	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+23	3	fb:cell_koefisien_model_2._0_033	-0.033	-0.033	-0.033	CD	NUMBER	-0.033	0.033				
+23	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+23	5	fb:cell_koefisien_model_3._0_026	-0.026	-0.026	-0.026	CD	NUMBER	-0.026	0.026				
+23	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+24	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_new_brunswick	provinsi tempat tinggal new brunswick	provinsi|tempat|tinggal|new|brunswick	provinsi|tempat|tinggal|new|brunswick	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+24	1	fb:cell_koefisien_model_1.null											
+24	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+24	3	fb:cell_koefisien_model_2._0_17	-0.17	-0.17	-0.17	CD	NUMBER	-0.17	0.17				
+24	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+24	5	fb:cell_koefisien_model_3._0_166	-0.166	-0.166	-0.166	CD	NUMBER	-0.166	0.166				
+24	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+25	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_quebec	provinsi tempat tinggal Quebec	provinsi|tempat|tinggal|quebec	provinsi|tempat|tinggal|Quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+25	1	fb:cell_koefisien_model_1.null											
+25	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+25	3	fb:cell_koefisien_model_2._0_137	-0.137	-0.137	-0.137	CD	NUMBER	-0.137	0.137				
+25	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+25	5	fb:cell_koefisien_model_3._0_137	-0.137	-0.137	-0.137	CD	NUMBER	-0.137	0.137				
+25	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+26	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_manitoba	provinsi tempat tinggal manitoba	provinsi|tempat|tinggal|manitoba	provinsi|tempat|tinggal|manitoba	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+26	1	fb:cell_koefisien_model_1.null											
+26	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+26	3	fb:cell_koefisien_model_2._0_33	-0.33	-0.33	-0.33	CD	NUMBER	-0.33	0.33				
+26	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+26	5	fb:cell_koefisien_model_3._0_326	-0.326	-0.326	-0.326	CD	NUMBER	-0.326	0.326				
+26	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+27	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_saskatchewan	provinsi tempat tinggal saskatchewan	provinsi|tempat|tinggal|saskatchewan	provinsi|tempat|tinggal|saskatchewan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+27	1	fb:cell_koefisien_model_1.null											
+27	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+27	3	fb:cell_koefisien_model_2._0_192	-0.192	-0.192	-0.192	CD	NUMBER	-0.192	0.192				
+27	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+27	5	fb:cell_koefisien_model_3._0_195	-0.195	-0.195	-0.195	CD	NUMBER	-0.195	0.195				
+27	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+28	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_alberta	provinsi tempat tinggal alberta	provinsi|tempat|tinggal|alberta	provinsi|tempat|tinggal|alberta	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+28	1	fb:cell_koefisien_model_1.null											
+28	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+28	3	fb:cell_koefisien_model_2._0_167	-0.167	-0.167	-0.167	CD	NUMBER	-0.167	0.167				
+28	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+28	5	fb:cell_koefisien_model_3._0_166	-0.166	-0.166	-0.166	CD	NUMBER	-0.166	0.166				
+28	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+29	0	fb:cell_kharakteristik.provinsi_tempat_tinggal_british_columbia	provinsi tempat tinggal British Columbia	provinsi|tempat|tinggal|british|columbia	provinsi|tempat|tinggal|British|Columbia	NNP|NNP|NNP|NNP|NNP	O|O|O|MISC|O	||||					
+29	1	fb:cell_koefisien_model_1.null											
+29	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+29	3	fb:cell_koefisien_model_2._0_12	-0.12	-0.12	-0.12	CD	NUMBER	-0.12	0.12				
+29	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+29	5	fb:cell_koefisien_model_3._0_118	-0.118	-0.118	-0.118	CD	NUMBER	-0.118	0.118				
+29	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+30	0	fb:cell_kharakteristik.aset_berwujud	aset berwujud	aset|berwujud	aset|berwujud	NNP|NNP	O|O	|					
+30	1	fb:cell_koefisien_model_1.null											
+30	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+30	3	fb:cell_koefisien_model_2.null											
+30	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+30	5	fb:cell_koefisien_model_3.null											
+30	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+31	0	fb:cell_kharakteristik.aset_berwujud_100_000_hingga_kurang_dari_300_000	aset berwujud $100.000 hingga kurang dari $300.000	aset|berwujud|$|100.000|hingga|kurang|dari|$|300.000	aset|berwujud|$|100.000|hingga|kurang|dari|$|300.000	NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	||$100.0|$100.0||||$300.0|$300.0	100.0		300.0		
+31	1	fb:cell_koefisien_model_1.null											
+31	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+31	3	fb:cell_koefisien_model_2.0_032	0.032	0.032	0.032	CD	NUMBER	0.032	0.032				
+31	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+31	5	fb:cell_koefisien_model_3.0_031	0.031	0.031	0.031	CD	NUMBER	0.031	0.031				
+31	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+32	0	fb:cell_kharakteristik.aset_berwujud_300_000_hingga_kurang_dari_500_000	aset berwujud $300.000 hingga kurang dari $500.000	aset|berwujud|$|300.000|hingga|kurang|dari|$|500.000	aset|berwujud|$|300.000|hingga|kurang|dari|$|500.000	NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	||$300.0|$300.0||||$500.0|$500.0	300.0		500.0		
+32	1	fb:cell_koefisien_model_1.null											
+32	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+32	3	fb:cell_koefisien_model_2.0_032	0.032	0.032	0.032	CD	NUMBER	0.032	0.032				
+32	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+32	5	fb:cell_koefisien_model_3.0_032	0.032	0.032	0.032	CD	NUMBER	0.032	0.032				
+32	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+33	0	fb:cell_kharakteristik.aset_berwujud_500_000_atau_lebih	aset berwujud $500.000 atau lebih	aset|berwujud|$|500.000|atau|lebih	aset|berwujud|$|500.000|atau|lebih	NNP|NNP|$|CD|NN|NN	O|O|MONEY|MONEY|O|O	||$500.0|$500.0||	500.0				
+33	1	fb:cell_koefisien_model_1.null											
+33	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+33	3	fb:cell_koefisien_model_2.0_081	0.081	0.081	0.081	CD	NUMBER	0.081	0.081				
+33	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+33	5	fb:cell_koefisien_model_3.0_082	0.082	0.082	0.082	CD	NUMBER	0.082	0.082				
+33	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+34	0	fb:cell_kharakteristik.aset_berwujud_yang_nilainya_hilang	aset berwujud yang nilainya hilang	aset|berwujud|yang|nilainya|hilang	aset|berwujud|yang|nilainya|hilang	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+34	1	fb:cell_koefisien_model_1.null											
+34	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+34	3	fb:cell_koefisien_model_2._0_112	-0.112	-0.112	-0.112	CD	NUMBER	-0.112	0.112				
+34	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+34	5	fb:cell_koefisien_model_3._0_111	-0.111	-0.111	-0.111	CD	NUMBER	-0.111	0.111				
+34	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+35	0	fb:cell_kharakteristik.rencana_tabungan_pensiun_terdaftar	rencana tabungan pensiun terdaftar	rencana|tabungan|pensiun|terdaftar	rencana|tabungan|pensiun|terdaftar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+35	1	fb:cell_koefisien_model_1.null											
+35	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+35	3	fb:cell_koefisien_model_2.null											
+35	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+35	5	fb:cell_koefisien_model_3.null											
+35	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+36	0	fb:cell_kharakteristik.rencana_tabungan_pensiun_terdaftar_lebih_dari_0_hingga_kurang_dari_25_000	rencana tabungan pensiun terdaftar lebih dari $0 hingga kurang dari $25.000	rencana|tabungan|pensiun|terdaftar|lebih|dari|$|0|hingga|kurang|dari|$|25.000	rencana|tabungan|pensiun|terdaftar|lebih|dari|$|0|hingga|kurang|dari|$|25.000	NNP|NNP|NNP|NNP|NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	||||||$0.0|$0.0||||$25.0|$25.0	0.0		25.0		
+36	1	fb:cell_koefisien_model_1.null											
+36	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+36	3	fb:cell_koefisien_model_2.0_234	0.234	0.234	0.234	CD	NUMBER	0.234	0.234				
+36	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+36	5	fb:cell_koefisien_model_3.0_237	0.237	0.237	0.237	CD	NUMBER	0.237	0.237				
+36	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+37	0	fb:cell_kharakteristik.rencana_tabungan_pensiun_terdaftar_25_000_atau_lebih	rencana tabungan pensiun terdaftar $25.000 atau lebih	rencana|tabungan|pensiun|terdaftar|$|25.000|atau|lebih	rencana|tabungan|pensiun|terdaftar|$|25.000|atau|lebih	NNP|NNP|NNP|NNP|$|CD|NN|NN	O|O|O|O|MONEY|MONEY|O|O	||||$25.0|$25.0||	25.0				
+37	1	fb:cell_koefisien_model_1.null											
+37	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+37	3	fb:cell_koefisien_model_2.0_325	0.325	0.325	0.325	CD	NUMBER	0.325	0.325				
+37	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+37	5	fb:cell_koefisien_model_3.0_331	0.331	0.331	0.331	CD	NUMBER	0.331	0.331				
+37	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+38	0	fb:cell_kharakteristik.nilai_hilang_rencana_tabungan_pensiun_terdaftar	nilai hilang rencana tabungan pensiun terdaftar	nilai|hilang|rencana|tabungan|pensiun|terdaftar	nilai|hilang|rencana|tabungan|pensiun|terdaftar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+38	1	fb:cell_koefisien_model_1.null											
+38	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+38	3	fb:cell_koefisien_model_2.0_313	0.313	0.313	0.313	CD	NUMBER	0.313	0.313				
+38	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_11	0.11	0.11	0.11	CD	NUMBER	0.11	0.11				
+38	5	fb:cell_koefisien_model_3.0_315	0.315	0.315	0.315	CD	NUMBER	0.315	0.315				
+38	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+39	0	fb:cell_kharakteristik.aset_keuangan	aset keuangan	aset|keuangan	aset|keuangan	NNP|NNP	O|O	|					
+39	1	fb:cell_koefisien_model_1.null											
+39	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+39	3	fb:cell_koefisien_model_2.null											
+39	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+39	5	fb:cell_koefisien_model_3.null											
+39	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+40	0	fb:cell_kharakteristik.aset_keuangan_lebih_dari_0_hingga_kurang_dari_10_000	aset keuangan lebih dari $0 hingga kurang dari $10.000	aset|keuangan|lebih|dari|$|0|hingga|kurang|dari|$|10.000	aset|keuangan|lebih|dari|$|0|hingga|kurang|dari|$|10.000	NNP|NNP|NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	||||$0.0|$0.0||||$10.0|$10.0	0.0		10.0		
+40	1	fb:cell_koefisien_model_1.null											
+40	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+40	3	fb:cell_koefisien_model_2._0_01	-0.01	-0.01	-0.01	CD	NUMBER	-0.01	0.01				
+40	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+40	5	fb:cell_koefisien_model_3._0_007	-0.007	-0.007	-0.007	CD	NUMBER	-0.007	0.007				
+40	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+41	0	fb:cell_kharakteristik.aset_keuangan_10_000_hingga_kurang_dari_30_000	aset keuangan $10.000 hingga kurang dari $30.000	aset|keuangan|$|10.000|hingga|kurang|dari|$|30.000	aset|keuangan|$|10.000|hingga|kurang|dari|$|30.000	NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	||$10.0|$10.0||||$30.0|$30.0	10.0		30.0		
+41	1	fb:cell_koefisien_model_1.null											
+41	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+41	3	fb:cell_koefisien_model_2.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+41	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+41	5	fb:cell_koefisien_model_3.0_192	0.192	0.192	0.192	CD	NUMBER	0.192	0.192				
+41	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+42	0	fb:cell_kharakteristik.aset_keuangan_30_000_atau_lebih	aset keuangan $30.000 atau lebih	aset|keuangan|$|30.000|atau|lebih	aset|keuangan|$|30.000|atau|lebih	NNP|NNP|$|CD|NN|NN	O|O|MONEY|MONEY|O|O	||$30.0|$30.0||	30.0				
+42	1	fb:cell_koefisien_model_1.null											
+42	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+42	3	fb:cell_koefisien_model_2.0_024	0.024	0.024	0.024	CD	NUMBER	0.024	0.024				
+42	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+42	5	fb:cell_koefisien_model_3.0_025	0.025	0.025	0.025	CD	NUMBER	0.025	0.025				
+42	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+43	0	fb:cell_kharakteristik.nilai_aset_keuangan_yang_hilang	nilai aset keuangan yang hilang	nilai|aset|keuangan|yang|hilang	nilai|aset|keuangan|yang|hilang	NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||					
+43	1	fb:cell_koefisien_model_1.null											
+43	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+43	3	fb:cell_koefisien_model_2.0_022	0.022	0.022	0.022	CD	NUMBER	0.022	0.022				
+43	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+43	5	fb:cell_koefisien_model_3.0_021	0.021	0.021	0.021	CD	NUMBER	0.021	0.021				
+43	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+44	0	fb:cell_kharakteristik.aset_bisnis	aset bisnis	aset|bisnis	aset|bisnis	NNP|NNP	O|O	|					
+44	1	fb:cell_koefisien_model_1.null											
+44	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+44	3	fb:cell_koefisien_model_2.null											
+44	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+44	5	fb:cell_koefisien_model_3.null											
+44	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+45	0	fb:cell_kharakteristik.aset_bisnis_aset_bisnis_dengan_nilai_berapa_pun	aset bisnis aset bisnis dengan nilai berapa pun	aset|bisnis|aset|bisnis|dengan|nilai|berapa|pun	aset|bisnis|aset|bisnis|dengan|nilai|berapa|pun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||					
+45	1	fb:cell_koefisien_model_1.null											
+45	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+45	3	fb:cell_koefisien_model_2._0_013	-0.013	-0.013	-0.013	CD	NUMBER	-0.013	0.013				
+45	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+45	5	fb:cell_koefisien_model_3._0_012	-0.012	-0.012	-0.012	CD	NUMBER	-0.012	0.012				
+45	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+46	0	fb:cell_kharakteristik.nilai_aset_bisnis_hilang	nilai aset bisnis hilang	nilai|aset|bisnis|hilang	nilai|aset|bisnis|hilang	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+46	1	fb:cell_koefisien_model_1.null											
+46	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+46	3	fb:cell_koefisien_model_2.0_352	0.352	0.352	0.352	CD	NUMBER	0.352	0.352				
+46	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+46	5	fb:cell_koefisien_model_3.0_356	0.356	0.356	0.356	CD	NUMBER	0.356	0.356				
+46	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+47	0	fb:cell_kharakteristik.hutang_dan_kewajiban	hutang dan kewajiban	hutang|dan|kewajiban	hutang|dan|kewajiban	NNP|NNP|NNP	PERSON|PERSON|PERSON	||					
+47	1	fb:cell_koefisien_model_1.null											
+47	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+47	3	fb:cell_koefisien_model_2.null											
+47	4	fb:cell_kesalahan_standar_bootstrap_model_2.null											
+47	5	fb:cell_koefisien_model_3.null											
+47	6	fb:cell_kesalahan_standar_bootstrap_model_3.null											
+48	0	fb:cell_kharakteristik.utang_dan_kewajiban_lebih_dari_0_hingga_kurang_dari_50_000	utang dan kewajiban lebih dari $0 hingga kurang dari $50.000	utang|dan|kewajiban|lebih|dari|$|0|hingga|kurang|dari|$|50.000	utang|dan|kewajiban|lebih|dari|$|0|hingga|kurang|dari|$|50.000	NNP|NNP|NNP|NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||||$0.0|$0.0||||$50.0|$50.0	0.0		50.0		
+48	1	fb:cell_koefisien_model_1.null											
+48	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+48	3	fb:cell_koefisien_model_2.0_042	0.042	0.042	0.042	CD	NUMBER	0.042	0.042				
+48	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+48	5	fb:cell_koefisien_model_3.0_043	0.043	0.043	0.043	CD	NUMBER	0.043	0.043				
+48	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+49	0	fb:cell_kharakteristik.utang_dan_kewajiban_50_000_hingga_kurang_dari_150_000	utang dan kewajiban $50.000 hingga kurang dari $150.000	utang|dan|kewajiban|$|50.000|hingga|kurang|dari|$|150.000	utang|dan|kewajiban|$|50.000|hingga|kurang|dari|$|150.000	NNP|NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||$50.0|$50.0||||$150.0|$150.0	50.0		150.0		
+49	1	fb:cell_koefisien_model_1.null											
+49	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+49	3	fb:cell_koefisien_model_2.0_052	0.052	0.052	0.052	CD	NUMBER	0.052	0.052				
+49	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+49	5	fb:cell_koefisien_model_3.0_054	0.054	0.054	0.054	CD	NUMBER	0.054	0.054				
+49	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+50	0	fb:cell_kharakteristik.utang_dan_kewajiban_150_000_hingga_kurang_dari_250_000	utang dan kewajiban $150.000 hingga kurang dari $250.000	utang|dan|kewajiban|$|150.000|hingga|kurang|dari|$|250.000	utang|dan|kewajiban|$|150.000|hingga|kurang|dari|$|250.000	NNP|NNP|NNP|$|CD|NN|NN|NNP|$|CD	O|O|O|MONEY|MONEY|O|O|O|MONEY|MONEY	|||$150.0|$150.0||||$250.0|$250.0	150.0		250.0		
+50	1	fb:cell_koefisien_model_1.null											
+50	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+50	3	fb:cell_koefisien_model_2.0_086	0.086	0.086	0.086	CD	NUMBER	0.086	0.086				
+50	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+50	5	fb:cell_koefisien_model_3.0_088	0.088	0.088	0.088	CD	NUMBER	0.088	0.088				
+50	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+51	0	fb:cell_kharakteristik.hutang_dan_kewajiban_250_000_atau_lebih	hutang dan kewajiban $250.000 atau lebih	hutang|dan|kewajiban|$|250.000|atau|lebih	hutang|dan|kewajiban|$|250.000|atau|lebih	NNP|NNP|NNP|$|CD|NN|NN	O|O|O|MONEY|MONEY|O|O	|||$250.0|$250.0||	250.0				
+51	1	fb:cell_koefisien_model_1.null											
+51	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+51	3	fb:cell_koefisien_model_2.0_014	0.014	0.014	0.014	CD	NUMBER	0.014	0.014				
+51	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+51	5	fb:cell_koefisien_model_3.0_014	0.014	0.014	0.014	CD	NUMBER	0.014	0.014				
+51	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+52	0	fb:cell_kharakteristik.utang_dan_kewajiban_yang_nilainya_hilang	utang dan kewajiban yang nilainya hilang	utang|dan|kewajiban|yang|nilainya|hilang	utang|dan|kewajiban|yang|nilainya|hilang	NNP|NNP|NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON|PERSON|PERSON	|||||					
+52	1	fb:cell_koefisien_model_1.null											
+52	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+52	3	fb:cell_koefisien_model_2.0_071	0.071	0.071	0.071	CD	NUMBER	0.071	0.071				
+52	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+52	5	fb:cell_koefisien_model_3.0_071	0.071	0.071	0.071	CD	NUMBER	0.071	0.071				
+52	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+53	0	fb:cell_kharakteristik.bendera_penghitungan_ganda_utang_dan_kewajiban	bendera penghitungan ganda utang dan kewajiban	bendera|penghitungan|ganda|utang|dan|kewajiban	bendera|penghitungan|ganda|utang|dan|kewajiban	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+53	1	fb:cell_koefisien_model_1.null											
+53	2	fb:cell_kesalahan_standar_bootstrap_model_1.null											
+53	3	fb:cell_koefisien_model_2.0_014	0.014	0.014	0.014	CD	NUMBER	0.014	0.014				
+53	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_16	0.16	0.16	0.16	CD	NUMBER	0.16	0.16				
+53	5	fb:cell_koefisien_model_3.0_012	0.012	0.012	0.012	CD	NUMBER	0.012	0.012				
+53	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_16	0.16	0.16	0.16	CD	NUMBER	0.16	0.16				
+54	0	fb:cell_kharakteristik.hutang_dan_kewajiban_konstan	hutang dan kewajiban konstan	hutang|dan|kewajiban|konstan	hutang|dan|kewajiban|konstan	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||					
+54	1	fb:cell_koefisien_model_1.0_343	0.343	0.343	0.343	CD	NUMBER	0.343	0.343				
+54	2	fb:cell_kesalahan_standar_bootstrap_model_1.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+54	3	fb:cell_koefisien_model_2._0_305	-0.305	-0.305	-0.305	CD	NUMBER	-0.305	0.305				
+54	4	fb:cell_kesalahan_standar_bootstrap_model_2.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				
+54	5	fb:cell_koefisien_model_3._0_264	-0.264	-0.264	-0.264	CD	NUMBER	-0.264	0.264				
+54	6	fb:cell_kesalahan_standar_bootstrap_model_3.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				

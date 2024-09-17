@@ -1,0 +1,323 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kanola	kanola	kanola	kanola	NNP	O						
+-1	2	fb:row.row.semua_gandum	semua gandum	semua|gandum	semua|gandum	NN|NN	O|O	|					
+-1	3	fb:row.row.kedelai	kedelai	kedelai	kedelai	NNP	O						
+-1	4	fb:row.row.jelai	jelai	jelai	jelai	NNP	O						
+-1	5	fb:row.row.gandum	gandum	gandum	gandum	NN	O						
+-1	6	fb:row.row.jagung_untuk_biji_bijian	jagung untuk biji-bijian	jagung|untuk|biji|bijian	jagung|untuk|biji|bijian	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.ribu_hektar_tahun_2018	ribu hektar tahun 2018	ribu|hektar|tahun|2018	ribu|hektar|tahun|2018	NN|NN|NN|CD	O|O|O|DATE	|||2018	2018.0				
+0	1	fb:cell_kanola.null											
+0	2	fb:cell_semua_gandum.null											
+0	3	fb:cell_kedelai.null											
+0	4	fb:cell_jelai.null											
+0	5	fb:cell_gandum.null											
+0	6	fb:cell_jagung_untuk_biji_bijian.null											
+1	0	fb:cell_kharakteristik.ribuan_hektar_maret_2018	ribuan hektar Maret 2018	ribuan|hektar|maret|2018	ribuan|hektar|Maret|2018	NNP|NNP|NNP|CD	O|O|O|DATE	|||2018	2018.0				
+1	1	fb:cell_kanola.21383_0	21383.0	21383.0	21383.0	CD	NUMBER	21383.0	21383.0				
+1	2	fb:cell_semua_gandum.25259_0	25259.0	25259.0	25259.0	CD	NUMBER	25259.0	25259.0				
+1	3	fb:cell_kedelai.6452_0	6452.0	6452.0	6452.0	CD	NUMBER	6452.0	6452.0				
+1	4	fb:cell_jelai.6059_0	6059.0	6059.0	6059.0	CD	NUMBER	6059.0	6059.0				
+1	5	fb:cell_gandum.3148_0	3148.0	3148.0	3148.0	CD	NUMBER	3148.0	3148.0				
+1	6	fb:cell_jagung_untuk_biji_bijian.3758_0	3758.0	3758.0	3758.0	CD	NUMBER	3758.0	3758.0				
+2	0	fb:cell_kharakteristik.seribu_hektar_2018_juni	seribu hektar 2018 juni	seribu|hektar|2018|juni	seribu|hektar|2018|juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2018|	2018.0				
+2	1	fb:cell_kanola.22740_0	22740.0	22740.0	22740.0	CD	NUMBER	22740.0	22740.0				
+2	2	fb:cell_semua_gandum.24710_0	24710.0	24710.0	24710.0	CD	NUMBER	24710.0	24710.0				
+2	3	fb:cell_kedelai.6320_0	6320.0	6320.0	6320.0	CD	NUMBER	6320.0	6320.0				
+2	4	fb:cell_jelai.6499_0	6499.0	6499.0	6499.0	CD	NUMBER	6499.0	6499.0				
+2	5	fb:cell_gandum.3053_0	3053.0	3053.0	3053.0	CD	NUMBER	3053.0	3053.0				
+2	6	fb:cell_jagung_untuk_biji_bijian.3634_0	3634.0	3634.0	3634.0	CD	NUMBER	3634.0	3634.0				
+3	0	fb:cell_kharakteristik.seribu_hektar_selisih_2018	seribu hektar selisih 2018 %.	seribu|hektar|selisih|2018|%|.	seribu|hektar|selisih|2018|%|.	NNP|NNP|NNP|CD|NN|.	O|O|O|PERCENT|PERCENT|O	|||%2018.0|%2018.0|	2018.0				
+3	1	fb:cell_kanola.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+3	2	fb:cell_semua_gandum._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+3	3	fb:cell_kedelai._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+3	4	fb:cell_jelai.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+3	5	fb:cell_gandum._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+3	6	fb:cell_jagung_untuk_biji_bijian._3_3	-3.3	-3.3	-3.3	CD	NUMBER	-3.3	3.3				
+4	0	fb:cell_kharakteristik.seribu_hektar_tahun_2017	seribu hektar tahun 2017	seribu|hektar|tahun|2017	seribu|hektar|tahun|2017	NNP|NNP|NNP|CD	O|O|O|DATE	|||2017	2017.0				
+4	1	fb:cell_kanola.null											
+4	2	fb:cell_semua_gandum.null											
+4	3	fb:cell_kedelai.null											
+4	4	fb:cell_jelai.null											
+4	5	fb:cell_gandum.null											
+4	6	fb:cell_jagung_untuk_biji_bijian.null											
+5	0	fb:cell_kharakteristik.ribuan_hektar_maret_2017	ribuan hektar Maret 2017	ribuan|hektar|maret|2017	ribuan|hektar|Maret|2017	NNP|NNP|NNP|CD	O|O|O|DATE	|||2017	2017.0				
+5	1	fb:cell_kanola.22387_0	22387.0	22387.0	22387.0	CD	NUMBER	22387.0	22387.0				
+5	2	fb:cell_semua_gandum.23182_0	23182.0	23182.0	23182.0	CD	NUMBER	23182.0	23182.0				
+5	3	fb:cell_kedelai.6956_0	6956.0	6956.0	6956.0	CD	NUMBER	6956.0	6956.0				
+5	4	fb:cell_jelai.5880_0	5880.0	5880.0	5880.0	CD	NUMBER	5880.0	5880.0				
+5	5	fb:cell_gandum.3419_0	3419.0	3419.0	3419.0	CD	NUMBER	3419.0	3419.0				
+5	6	fb:cell_jagung_untuk_biji_bijian.3751_0	3751.0	3751.0	3751.0	CD	NUMBER	3751.0	3751.0				
+6	0	fb:cell_kharakteristik.seribu_hektar_2017_juni	seribu hektar 2017 Juni	seribu|hektar|2017|juni	seribu|hektar|2017|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2017|	2017.0				
+6	1	fb:cell_kanola.22837_0	22837.0	22837.0	22837.0	CD	NUMBER	22837.0	22837.0				
+6	2	fb:cell_semua_gandum.22361_0	22361.0	22361.0	22361.0	CD	NUMBER	22361.0	22361.0				
+6	3	fb:cell_kedelai.7282_0	7282.0	7282.0	7282.0	CD	NUMBER	7282.0	7282.0				
+6	4	fb:cell_jelai.5771_0	5771.0	5771.0	5771.0	CD	NUMBER	5771.0	5771.0				
+6	5	fb:cell_gandum.3220_0	3220.0	3220.0	3220.0	CD	NUMBER	3220.0	3220.0				
+6	6	fb:cell_jagung_untuk_biji_bijian.3576_0	3576.0	3576.0	3576.0	CD	NUMBER	3576.0	3576.0				
+7	0	fb:cell_kharakteristik.ribu_hektar_2017_selisihnya	ribu hektar 2017 % selisihnya	ribu|hektar|2017|%|selisihnya	ribu|hektar|2017|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2017.0|%2017.0|	2017.0				
+7	1	fb:cell_kanola.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+7	2	fb:cell_semua_gandum._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+7	3	fb:cell_kedelai.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+7	4	fb:cell_jelai._1_9	-1.9	-1.9	-1.9	CD	NUMBER	-1.9	1.9				
+7	5	fb:cell_gandum._5_8	-5.8	-5.8	-5.8	CD	NUMBER	-5.8	5.8				
+7	6	fb:cell_jagung_untuk_biji_bijian._4_7	-4.7	-4.7	-4.7	CD	NUMBER	-4.7	4.7				
+8	0	fb:cell_kharakteristik.ribu_hektar_tahun_2016	ribu hektar tahun 2016	ribu|hektar|tahun|2016	ribu|hektar|tahun|2016	NN|NN|NN|CD	O|O|O|DATE	|||2016	2016.0				
+8	1	fb:cell_kanola.null											
+8	2	fb:cell_semua_gandum.null											
+8	3	fb:cell_kedelai.null											
+8	4	fb:cell_jelai.null											
+8	5	fb:cell_gandum.null											
+8	6	fb:cell_jagung_untuk_biji_bijian.null											
+9	0	fb:cell_kharakteristik.ribuan_hektar_maret_2016	ribuan hektar Maret 2016	ribuan|hektar|maret|2016	ribuan|hektar|Maret|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016	2016.0				
+9	1	fb:cell_kanola.19345_0	19345.0	19345.0	19345.0	CD	NUMBER	19345.0	19345.0				
+9	2	fb:cell_semua_gandum.23846_0	23846.0	23846.0	23846.0	CD	NUMBER	23846.0	23846.0				
+9	3	fb:cell_kedelai.5306_0	5306.0	5306.0	5306.0	CD	NUMBER	5306.0	5306.0				
+9	4	fb:cell_jelai.6777_0	6777.0	6777.0	6777.0	CD	NUMBER	6777.0	6777.0				
+9	5	fb:cell_gandum.2972_0	2972.0	2972.0	2972.0	CD	NUMBER	2972.0	2972.0				
+9	6	fb:cell_jagung_untuk_biji_bijian.3477_0	3477.0	3477.0	3477.0	CD	NUMBER	3477.0	3477.0				
+10	0	fb:cell_kharakteristik.seribu_hektar_2016_juni	seribu hektar 2016 juni	seribu|hektar|2016|juni	seribu|hektar|2016|juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2016|	2016.0				
+10	1	fb:cell_kanola.20020_0	20020.0	20020.0	20020.0	CD	NUMBER	20020.0	20020.0				
+10	2	fb:cell_semua_gandum.23177_0	23177.0	23177.0	23177.0	CD	NUMBER	23177.0	23177.0				
+10	3	fb:cell_kedelai.5465_0	5465.0	5465.0	5465.0	CD	NUMBER	5465.0	5465.0				
+10	4	fb:cell_jelai.6385_0	6385.0	6385.0	6385.0	CD	NUMBER	6385.0	6385.0				
+10	5	fb:cell_gandum.2861_0	2861.0	2861.0	2861.0	CD	NUMBER	2861.0	2861.0				
+10	6	fb:cell_jagung_untuk_biji_bijian.3330_0	3330.0	3330.0	3330.0	CD	NUMBER	3330.0	3330.0				
+11	0	fb:cell_kharakteristik.ribu_hektar_2016_selisihnya	ribu hektar 2016 % selisihnya	ribu|hektar|2016|%|selisihnya	ribu|hektar|2016|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2016.0|%2016.0|	2016.0				
+11	1	fb:cell_kanola.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+11	2	fb:cell_semua_gandum._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+11	3	fb:cell_kedelai.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+11	4	fb:cell_jelai._5_8	-5.8	-5.8	-5.8	CD	NUMBER	-5.8	5.8				
+11	5	fb:cell_gandum._3_7	-3.7	-3.7	-3.7	CD	NUMBER	-3.7	3.7				
+11	6	fb:cell_jagung_untuk_biji_bijian._4_2	-4.2	-4.2	-4.2	CD	NUMBER	-4.2	4.2				
+12	0	fb:cell_kharakteristik.ribu_hektar_tahun_2015	ribu hektar tahun 2015	ribu|hektar|tahun|2015	ribu|hektar|tahun|2015	NN|NN|NN|CD	O|O|O|DATE	|||2015	2015.0				
+12	1	fb:cell_kanola.null											
+12	2	fb:cell_semua_gandum.null											
+12	3	fb:cell_kedelai.null											
+12	4	fb:cell_jelai.null											
+12	5	fb:cell_gandum.null											
+12	6	fb:cell_jagung_untuk_biji_bijian.null											
+13	0	fb:cell_kharakteristik.ribuan_hektar_maret_2015	ribuan hektar Maret 2015	ribuan|hektar|maret|2015	ribuan|hektar|Maret|2015	NNP|NNP|NNP|CD	O|O|O|DATE	|||2015	2015.0				
+13	1	fb:cell_kanola.19416_0	19416.0	19416.0	19416.0	CD	NUMBER	19416.0	19416.0				
+13	2	fb:cell_semua_gandum.24765_0	24765.0	24765.0	24765.0	CD	NUMBER	24765.0	24765.0				
+13	3	fb:cell_kedelai.5375_0	5375.0	5375.0	5375.0	CD	NUMBER	5375.0	5375.0				
+13	4	fb:cell_jelai.6478_0	6478.0	6478.0	6478.0	CD	NUMBER	6478.0	6478.0				
+13	5	fb:cell_gandum.3645_0	3645.0	3645.0	3645.0	CD	NUMBER	3645.0	3645.0				
+13	6	fb:cell_jagung_untuk_biji_bijian.3268_0	3268.0	3268.0	3268.0	CD	NUMBER	3268.0	3268.0				
+14	0	fb:cell_kharakteristik.seribu_hektar_2015_juni	seribu hektar 2015 juni	seribu|hektar|2015|juni	seribu|hektar|2015|juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2015|	2015.0				
+14	1	fb:cell_kanola.19840_0	19840.0	19840.0	19840.0	CD	NUMBER	19840.0	19840.0				
+14	2	fb:cell_semua_gandum.24142_0	24142.0	24142.0	24142.0	CD	NUMBER	24142.0	24142.0				
+14	3	fb:cell_kedelai.5420_0	5420.0	5420.0	5420.0	CD	NUMBER	5420.0	5420.0				
+14	4	fb:cell_jelai.6511_0	6511.0	6511.0	6511.0	CD	NUMBER	6511.0	6511.0				
+14	5	fb:cell_gandum.3403_0	3403.0	3403.0	3403.0	CD	NUMBER	3403.0	3403.0				
+14	6	fb:cell_jagung_untuk_biji_bijian.3252_0	3252.0	3252.0	3252.0	CD	NUMBER	3252.0	3252.0				
+15	0	fb:cell_kharakteristik.ribu_hektar_2015_selisihnya	ribu hektar 2015 % selisihnya	ribu|hektar|2015|%|selisihnya	ribu|hektar|2015|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2015.0|%2015.0|	2015.0				
+15	1	fb:cell_kanola.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+15	2	fb:cell_semua_gandum._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+15	3	fb:cell_kedelai.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+15	4	fb:cell_jelai.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+15	5	fb:cell_gandum._6_6	-6.6	-6.6	-6.6	CD	NUMBER	-6.6	6.6				
+15	6	fb:cell_jagung_untuk_biji_bijian._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+16	0	fb:cell_kharakteristik.ribu_hektar_tahun_2014	ribu hektar tahun 2014	ribu|hektar|tahun|2014	ribu|hektar|tahun|2014	NN|NN|NN|CD	O|O|O|DATE	|||2014	2014.0				
+16	1	fb:cell_kanola.null											
+16	2	fb:cell_semua_gandum.null											
+16	3	fb:cell_kedelai.null											
+16	4	fb:cell_jelai.null											
+16	5	fb:cell_gandum.null											
+16	6	fb:cell_jagung_untuk_biji_bijian.null											
+17	0	fb:cell_kharakteristik.ribuan_hektar_maret_2014	ribuan hektar Maret 2014	ribuan|hektar|maret|2014	ribuan|hektar|Maret|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014	2014.0				
+17	1	fb:cell_kanola.19801_0	19801.0	19801.0	19801.0	CD	NUMBER	19801.0	19801.0				
+17	2	fb:cell_semua_gandum.24766_0	24766.0	24766.0	24766.0	CD	NUMBER	24766.0	24766.0				
+17	3	fb:cell_kedelai.5264_0	5264.0	5264.0	5264.0	CD	NUMBER	5264.0	5264.0				
+17	4	fb:cell_jelai.6311_0	6311.0	6311.0	6311.0	CD	NUMBER	6311.0	6311.0				
+17	5	fb:cell_gandum.3188_0	3188.0	3188.0	3188.0	CD	NUMBER	3188.0	3188.0				
+17	6	fb:cell_jagung_untuk_biji_bijian.3369_0	3369.0	3369.0	3369.0	CD	NUMBER	3369.0	3369.0				
+18	0	fb:cell_kharakteristik.seribu_hektar_2014_juni	seribu hektar 2014 juni	seribu|hektar|2014|juni	seribu|hektar|2014|juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2014|	2014.0				
+18	1	fb:cell_kanola.20228_0	20228.0	20228.0	20228.0	CD	NUMBER	20228.0	20228.0				
+18	2	fb:cell_semua_gandum.24087_0	24087.0	24087.0	24087.0	CD	NUMBER	24087.0	24087.0				
+18	3	fb:cell_kedelai.5583_0	5583.0	5583.0	5583.0	CD	NUMBER	5583.0	5583.0				
+18	4	fb:cell_jelai.6089_0	6089.0	6089.0	6089.0	CD	NUMBER	6089.0	6089.0				
+18	5	fb:cell_gandum.3046_0	3046.0	3046.0	3046.0	CD	NUMBER	3046.0	3046.0				
+18	6	fb:cell_jagung_untuk_biji_bijian.3119_0	3119.0	3119.0	3119.0	CD	NUMBER	3119.0	3119.0				
+19	0	fb:cell_kharakteristik.ribu_hektar_2014_selisihnya	ribu hektar 2014 % selisihnya	ribu|hektar|2014|%|selisihnya	ribu|hektar|2014|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2014.0|%2014.0|	2014.0				
+19	1	fb:cell_kanola.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+19	2	fb:cell_semua_gandum._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				
+19	3	fb:cell_kedelai.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+19	4	fb:cell_jelai._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+19	5	fb:cell_gandum._4_4	-4.4	-4.4	-4.4	CD	NUMBER	-4.4	4.4				
+19	6	fb:cell_jagung_untuk_biji_bijian._7_4	-7.4	-7.4	-7.4	CD	NUMBER	-7.4	7.4				
+20	0	fb:cell_kharakteristik.ribu_hektar_tahun_2013	ribu hektar tahun 2013	ribu|hektar|tahun|2013	ribu|hektar|tahun|2013	NN|NN|NN|CD	O|O|O|DATE	|||2013	2013.0				
+20	1	fb:cell_kanola.null											
+20	2	fb:cell_semua_gandum.null											
+20	3	fb:cell_kedelai.null											
+20	4	fb:cell_jelai.null											
+20	5	fb:cell_gandum.null											
+20	6	fb:cell_jagung_untuk_biji_bijian.null											
+21	0	fb:cell_kharakteristik.ribuan_hektar_maret_2013	ribuan hektar Maret 2013	ribuan|hektar|maret|2013	ribuan|hektar|Maret|2013	NNP|NNP|NNP|CD	O|O|O|DATE	|||2013	2013.0				
+21	1	fb:cell_kanola.19133_0	19133.0	19133.0	19133.0	CD	NUMBER	19133.0	19133.0				
+21	2	fb:cell_semua_gandum.26618_0	26618.0	26618.0	26618.0	CD	NUMBER	26618.0	26618.0				
+21	3	fb:cell_kedelai.4294_0	4294.0	4294.0	4294.0	CD	NUMBER	4294.0	4294.0				
+21	4	fb:cell_jelai.7240_0	7240.0	7240.0	7240.0	CD	NUMBER	7240.0	7240.0				
+21	5	fb:cell_gandum.3379_0	3379.0	3379.0	3379.0	CD	NUMBER	3379.0	3379.0				
+21	6	fb:cell_jagung_untuk_biji_bijian.3813_0	3813.0	3813.0	3813.0	CD	NUMBER	3813.0	3813.0				
+22	0	fb:cell_kharakteristik.seribu_hektar_2013_juni	seribu hektar 2013 Juni	seribu|hektar|2013|juni	seribu|hektar|2013|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2013|	2013.0				
+22	1	fb:cell_kanola.19738_0	19738.0	19738.0	19738.0	CD	NUMBER	19738.0	19738.0				
+22	2	fb:cell_semua_gandum.25906_0	25906.0	25906.0	25906.0	CD	NUMBER	25906.0	25906.0				
+22	3	fb:cell_kedelai.4589_0	4589.0	4589.0	4589.0	CD	NUMBER	4589.0	4589.0				
+22	4	fb:cell_jelai.7175_0	7175.0	7175.0	7175.0	CD	NUMBER	7175.0	7175.0				
+22	5	fb:cell_gandum.3371_0	3371.0	3371.0	3371.0	CD	NUMBER	3371.0	3371.0				
+22	6	fb:cell_jagung_untuk_biji_bijian.3645_0	3645.0	3645.0	3645.0	CD	NUMBER	3645.0	3645.0				
+23	0	fb:cell_kharakteristik.ribu_hektar_2013_selisihnya	ribu hektar 2013 % selisihnya	ribu|hektar|2013|%|selisihnya	ribu|hektar|2013|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2013.0|%2013.0|	2013.0				
+23	1	fb:cell_kanola.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+23	2	fb:cell_semua_gandum._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				
+23	3	fb:cell_kedelai.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+23	4	fb:cell_jelai._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+23	5	fb:cell_gandum._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+23	6	fb:cell_jagung_untuk_biji_bijian._4_4	-4.4	-4.4	-4.4	CD	NUMBER	-4.4	4.4				
+24	0	fb:cell_kharakteristik.ribu_hektar_tahun_2012	ribu hektar tahun 2012	ribu|hektar|tahun|2012	ribu|hektar|tahun|2012	NN|NN|NN|CD	O|O|O|DATE	|||2012	2012.0				
+24	1	fb:cell_kanola.null											
+24	2	fb:cell_semua_gandum.null											
+24	3	fb:cell_kedelai.null											
+24	4	fb:cell_jelai.null											
+24	5	fb:cell_gandum.null											
+24	6	fb:cell_jagung_untuk_biji_bijian.null											
+25	0	fb:cell_kharakteristik.ribuan_hektar_maret_2012	ribuan hektar Maret 2012	ribuan|hektar|maret|2012	ribuan|hektar|Maret|2012	NNP|NNP|NNP|CD	O|O|O|DATE	|||2012	2012.0				
+25	1	fb:cell_kanola.20372_0	20372.0	20372.0	20372.0	CD	NUMBER	20372.0	20372.0				
+25	2	fb:cell_semua_gandum.24325_0	24325.0	24325.0	24325.0	CD	NUMBER	24325.0	24325.0				
+25	3	fb:cell_kedelai.3969_0	3969.0	3969.0	3969.0	CD	NUMBER	3969.0	3969.0				
+25	4	fb:cell_jelai.7968_0	7968.0	7968.0	7968.0	CD	NUMBER	7968.0	7968.0				
+25	5	fb:cell_gandum.3393_0	3393.0	3393.0	3393.0	CD	NUMBER	3393.0	3393.0				
+25	6	fb:cell_jagung_untuk_biji_bijian.3562_0	3562.0	3562.0	3562.0	CD	NUMBER	3562.0	3562.0				
+26	0	fb:cell_kharakteristik.seribu_hektar_2012_juni	seribu hektar 2012 Juni	seribu|hektar|2012|juni	seribu|hektar|2012|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2012|	2012.0				
+26	1	fb:cell_kanola.21273_0	21273.0	21273.0	21273.0	CD	NUMBER	21273.0	21273.0				
+26	2	fb:cell_semua_gandum.23812_0	23812.0	23812.0	23812.0	CD	NUMBER	23812.0	23812.0				
+26	3	fb:cell_kedelai.4316_0	4316.0	4316.0	4316.0	CD	NUMBER	4316.0	4316.0				
+26	4	fb:cell_jelai.7365_0	7365.0	7365.0	7365.0	CD	NUMBER	7365.0	7365.0				
+26	5	fb:cell_gandum.3074_0	3074.0	3074.0	3074.0	CD	NUMBER	3074.0	3074.0				
+26	6	fb:cell_jagung_untuk_biji_bijian.3638_0	3638.0	3638.0	3638.0	CD	NUMBER	3638.0	3638.0				
+27	0	fb:cell_kharakteristik.ribu_hektar_2012_selisihnya	ribu hektar 2012 % selisihnya	ribu|hektar|2012|%|selisihnya	ribu|hektar|2012|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2012.0|%2012.0|	2012.0				
+27	1	fb:cell_kanola.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+27	2	fb:cell_semua_gandum._2_1	-2.1	-2.1	-2.1	CD	NUMBER	-2.1	2.1				
+27	3	fb:cell_kedelai.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+27	4	fb:cell_jelai._7_6	-7.6	-7.6	-7.6	CD	NUMBER	-7.6	7.6				
+27	5	fb:cell_gandum._9_4	-9.4	-9.4	-9.4	CD	NUMBER	-9.4	9.4				
+27	6	fb:cell_jagung_untuk_biji_bijian.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+28	0	fb:cell_kharakteristik.ribu_hektar_tahun_2011	ribu hektar tahun 2011	ribu|hektar|tahun|2011	ribu|hektar|tahun|2011	NN|NN|NN|CD	O|O|O|DATE	|||2011	2011.0				
+28	1	fb:cell_kanola.null											
+28	2	fb:cell_semua_gandum.null											
+28	3	fb:cell_kedelai.null											
+28	4	fb:cell_jelai.null											
+28	5	fb:cell_gandum.null											
+28	6	fb:cell_jagung_untuk_biji_bijian.null											
+29	0	fb:cell_kharakteristik.ribuan_hektar_maret_2011	ribuan hektar Maret 2011	ribuan|hektar|maret|2011	ribuan|hektar|Maret|2011	NNP|NNP|NNP|CD	O|O|O|DATE	|||2011	2011.0				
+29	1	fb:cell_kanola.19225_0	19225.0	19225.0	19225.0	CD	NUMBER	19225.0	19225.0				
+29	2	fb:cell_semua_gandum.24724_0	24724.0	24724.0	24724.0	CD	NUMBER	24724.0	24724.0				
+29	3	fb:cell_kedelai.3757_0	3757.0	3757.0	3757.0	CD	NUMBER	3757.0	3757.0				
+29	4	fb:cell_jelai.7833_0	7833.0	7833.0	7833.0	CD	NUMBER	7833.0	7833.0				
+29	5	fb:cell_gandum.4056_0	4056.0	4056.0	4056.0	CD	NUMBER	4056.0	4056.0				
+29	6	fb:cell_jagung_untuk_biji_bijian.3211_0	3211.0	3211.0	3211.0	CD	NUMBER	3211.0	3211.0				
+30	0	fb:cell_kharakteristik.seribu_hektar_2011_juni	seribu hektar 2011 Juni	seribu|hektar|2011|juni	seribu|hektar|2011|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2011|	2011.0				
+30	1	fb:cell_kanola.19800_0	19800.0	19800.0	19800.0	CD	NUMBER	19800.0	19800.0				
+30	2	fb:cell_semua_gandum.23568_0	23568.0	23568.0	23568.0	CD	NUMBER	23568.0	23568.0				
+30	3	fb:cell_kedelai.3885_0	3885.0	3885.0	3885.0	CD	NUMBER	3885.0	3885.0				
+30	4	fb:cell_jelai.7139_0	7139.0	7139.0	7139.0	CD	NUMBER	7139.0	7139.0				
+30	5	fb:cell_gandum.3814_0	3814.0	3814.0	3814.0	CD	NUMBER	3814.0	3814.0				
+30	6	fb:cell_jagung_untuk_biji_bijian.3041_0	3041.0	3041.0	3041.0	CD	NUMBER	3041.0	3041.0				
+31	0	fb:cell_kharakteristik.ribu_hektar_2011_selisihnya	ribu hektar 2011 % selisihnya	ribu|hektar|2011|%|selisihnya	ribu|hektar|2011|%|selisihnya	NN|NN|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2011.0|%2011.0|	2011.0				
+31	1	fb:cell_kanola.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+31	2	fb:cell_semua_gandum._4_7	-4.7	-4.7	-4.7	CD	NUMBER	-4.7	4.7				
+31	3	fb:cell_kedelai.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+31	4	fb:cell_jelai._8_9	-8.9	-8.9	-8.9	CD	NUMBER	-8.9	8.9				
+31	5	fb:cell_gandum._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+31	6	fb:cell_jagung_untuk_biji_bijian._5_3	-5.3	-5.3	-5.3	CD	NUMBER	-5.3	5.3				
+32	0	fb:cell_kharakteristik.seribu_hektar_tahun_2010	seribu hektar tahun 2010	seribu|hektar|tahun|2010	seribu|hektar|tahun|2010	NNP|NNP|NNP|CD	O|O|O|DATE	|||2010	2010.0				
+32	1	fb:cell_kanola.null											
+32	2	fb:cell_semua_gandum.null											
+32	3	fb:cell_kedelai.null											
+32	4	fb:cell_jelai.null											
+32	5	fb:cell_gandum.null											
+32	6	fb:cell_jagung_untuk_biji_bijian.null											
+33	0	fb:cell_kharakteristik.seribu_hektar_maret_2010	seribu hektar Maret 2010	seribu|hektar|maret|2010	seribu|hektar|Maret|2010	NNP|NNP|NNP|CD	O|O|O|DATE	|||2010	2010.0				
+33	1	fb:cell_kanola.16907_0	16907.0	16907.0	16907.0	CD	NUMBER	16907.0	16907.0				
+33	2	fb:cell_semua_gandum.23221_0	23221.0	23221.0	23221.0	CD	NUMBER	23221.0	23221.0				
+33	3	fb:cell_kedelai.3532_0	3532.0	3532.0	3532.0	CD	NUMBER	3532.0	3532.0				
+33	4	fb:cell_jelai.8344_0	8344.0	8344.0	8344.0	CD	NUMBER	8344.0	8344.0				
+33	5	fb:cell_gandum.3992_0	3992.0	3992.0	3992.0	CD	NUMBER	3992.0	3992.0				
+33	6	fb:cell_jagung_untuk_biji_bijian.3016_0	3016.0	3016.0	3016.0	CD	NUMBER	3016.0	3016.0				
+34	0	fb:cell_kharakteristik.seribu_hektar_2010_juni	seribu hektar 2010 Juni	seribu|hektar|2010|juni	seribu|hektar|2010|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2010|	2010.0				
+34	1	fb:cell_kanola.17895_0	17895.0	17895.0	17895.0	CD	NUMBER	17895.0	17895.0				
+34	2	fb:cell_semua_gandum.22720_0	22720.0	22720.0	22720.0	CD	NUMBER	22720.0	22720.0				
+34	3	fb:cell_kedelai.3724_0	3724.0	3724.0	3724.0	CD	NUMBER	3724.0	3724.0				
+34	4	fb:cell_jelai.8052_0	8052.0	8052.0	8052.0	CD	NUMBER	8052.0	8052.0				
+34	5	fb:cell_gandum.3738_0	3738.0	3738.0	3738.0	CD	NUMBER	3738.0	3738.0				
+34	6	fb:cell_jagung_untuk_biji_bijian.2981_0	2981.0	2981.0	2981.0	CD	NUMBER	2981.0	2981.0				
+35	0	fb:cell_kharakteristik.seribu_hektar_2010_selisihnya	seribu hektar 2010 % selisihnya	seribu|hektar|2010|%|selisihnya	seribu|hektar|2010|%|selisihnya	NNP|NNP|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2010.0|%2010.0|	2010.0				
+35	1	fb:cell_kanola.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+35	2	fb:cell_semua_gandum._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+35	3	fb:cell_kedelai.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+35	4	fb:cell_jelai._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+35	5	fb:cell_gandum._6_4	-6.4	-6.4	-6.4	CD	NUMBER	-6.4	6.4				
+35	6	fb:cell_jagung_untuk_biji_bijian._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+36	0	fb:cell_kharakteristik.ribu_hektar_tahun_2009	ribu hektar tahun 2009	ribu|hektar|tahun|2009	ribu|hektar|tahun|2009	NN|NN|NN|CD	O|O|O|DATE	|||2009	2009.0				
+36	1	fb:cell_kanola.null											
+36	2	fb:cell_semua_gandum.null											
+36	3	fb:cell_kedelai.null											
+36	4	fb:cell_jelai.null											
+36	5	fb:cell_gandum.null											
+36	6	fb:cell_jagung_untuk_biji_bijian.null											
+37	0	fb:cell_kharakteristik.ribuan_hektar_maret_2009	ribuan hektar Maret 2009	ribuan|hektar|maret|2009	ribuan|hektar|Maret|2009	NNP|NNP|NNP|CD	O|O|O|DATE	|||2009	2009.0				
+37	1	fb:cell_kanola.14990_0	14990.0	14990.0	14990.0	CD	NUMBER	14990.0	14990.0				
+37	2	fb:cell_semua_gandum.25161_0	25161.0	25161.0	25161.0	CD	NUMBER	25161.0	25161.0				
+37	3	fb:cell_kedelai.3284_0	3284.0	3284.0	3284.0	CD	NUMBER	3284.0	3284.0				
+37	4	fb:cell_jelai.9476_0	9476.0	9476.0	9476.0	CD	NUMBER	9476.0	9476.0				
+37	5	fb:cell_gandum.3955_0	3955.0	3955.0	3955.0	CD	NUMBER	3955.0	3955.0				
+37	6	fb:cell_jagung_untuk_biji_bijian.3084_0	3084.0	3084.0	3084.0	CD	NUMBER	3084.0	3084.0				
+38	0	fb:cell_kharakteristik.seribu_hektar_2009_juni	seribu hektar 2009 Juni	seribu|hektar|2009|juni	seribu|hektar|2009|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2009|	2009.0				
+38	1	fb:cell_kanola.15825_0	15825.0	15825.0	15825.0	CD	NUMBER	15825.0	15825.0				
+38	2	fb:cell_semua_gandum.24932_0	24932.0	24932.0	24932.0	CD	NUMBER	24932.0	24932.0				
+38	3	fb:cell_kedelai.3476_0	3476.0	3476.0	3476.0	CD	NUMBER	3476.0	3476.0				
+38	4	fb:cell_jelai.8778_0	8778.0	8778.0	8778.0	CD	NUMBER	8778.0	8778.0				
+38	5	fb:cell_gandum.3879_0	3879.0	3879.0	3879.0	CD	NUMBER	3879.0	3879.0				
+38	6	fb:cell_jagung_untuk_biji_bijian.3041_0	3041.0	3041.0	3041.0	CD	NUMBER	3041.0	3041.0				
+39	0	fb:cell_kharakteristik.seribu_hektar_2009_selisihnya	seribu hektar 2009 % selisihnya	seribu|hektar|2009|%|selisihnya	seribu|hektar|2009|%|selisihnya	NNP|NNP|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2009.0|%2009.0|	2009.0				
+39	1	fb:cell_kanola.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+39	2	fb:cell_semua_gandum._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+39	3	fb:cell_kedelai.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+39	4	fb:cell_jelai._7_4	-7.4	-7.4	-7.4	CD	NUMBER	-7.4	7.4				
+39	5	fb:cell_gandum._1_9	-1.9	-1.9	-1.9	CD	NUMBER	-1.9	1.9				
+39	6	fb:cell_jagung_untuk_biji_bijian._1_4	-1.4	-1.4	-1.4	CD	NUMBER	-1.4	1.4				
+40	0	fb:cell_kharakteristik.ribu_hektar_tahun_2008	ribu hektar tahun 2008	ribu|hektar|tahun|2008	ribu|hektar|tahun|2008	NN|NN|NN|CD	O|O|O|DATE	|||2008	2008.0				
+40	1	fb:cell_kanola.null											
+40	2	fb:cell_semua_gandum.null											
+40	3	fb:cell_kedelai.null											
+40	4	fb:cell_jelai.null											
+40	5	fb:cell_gandum.null											
+40	6	fb:cell_jagung_untuk_biji_bijian.null											
+41	0	fb:cell_kharakteristik.ribuan_hektar_maret_2008	ribuan hektar Maret 2008	ribuan|hektar|maret|2008	ribuan|hektar|Maret|2008	NNP|NNP|NNP|CD	O|O|O|DATE	|||2008	2008.0				
+41	1	fb:cell_kanola.14805_0	14805.0	14805.0	14805.0	CD	NUMBER	14805.0	14805.0				
+41	2	fb:cell_semua_gandum.25109_0	25109.0	25109.0	25109.0	CD	NUMBER	25109.0	25109.0				
+41	3	fb:cell_kedelai.2985_0	2985.0	2985.0	2985.0	CD	NUMBER	2985.0	2985.0				
+41	4	fb:cell_jelai.9332_0	9332.0	9332.0	9332.0	CD	NUMBER	9332.0	9332.0				
+41	5	fb:cell_gandum.4485_0	4485.0	4485.0	4485.0	CD	NUMBER	4485.0	4485.0				
+41	6	fb:cell_jagung_untuk_biji_bijian.3005_0	3005.0	3005.0	3005.0	CD	NUMBER	3005.0	3005.0				
+42	0	fb:cell_kharakteristik.seribu_hektar_2008_juni	seribu hektar 2008 Juni	seribu|hektar|2008|juni	seribu|hektar|2008|Juni	NNP|NNP|CD|NNP	O|O|DATE|O	||2008|	2008.0				
+42	1	fb:cell_kanola.15812_0	15812.0	15812.0	15812.0	CD	NUMBER	15812.0	15812.0				
+42	2	fb:cell_semua_gandum.25100_0	25100.0	25100.0	25100.0	CD	NUMBER	25100.0	25100.0				
+42	3	fb:cell_kedelai.2993_0	2993.0	2993.0	2993.0	CD	NUMBER	2993.0	2993.0				
+42	4	fb:cell_jelai.9072_0	9072.0	9072.0	9072.0	CD	NUMBER	9072.0	9072.0				
+42	5	fb:cell_gandum.4382_0	4382.0	4382.0	4382.0	CD	NUMBER	4382.0	4382.0				
+42	6	fb:cell_jagung_untuk_biji_bijian.2975_0	2975.0	2975.0	2975.0	CD	NUMBER	2975.0	2975.0				
+43	0	fb:cell_kharakteristik.seribu_hektar_2008_selisihnya	seribu hektar 2008 % selisihnya	seribu|hektar|2008|%|selisihnya	seribu|hektar|2008|%|selisihnya	NNP|NNP|CD|NN|NN	O|O|PERCENT|PERCENT|O	||%2008.0|%2008.0|	2008.0				
+43	1	fb:cell_kanola.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+43	2	fb:cell_semua_gandum.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+43	3	fb:cell_kedelai.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+43	4	fb:cell_jelai._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+43	5	fb:cell_gandum._2_3	-2.3	-2.3	-2.3	CD	NUMBER	-2.3	2.3				
+43	6	fb:cell_jagung_untuk_biji_bijian._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+44	0	fb:cell_kharakteristik.ribu_hektar_rata_rata_perubahan_menurut_jenis_tanaman	ribu hektar rata-rata % perubahan menurut jenis tanaman	ribu|hektar|rata|rata|%|perubahan|menurut|jenis|tanaman	ribu|hektar|rata|rata|%|perubahan|menurut|jenis|tanaman	NN|NN|JJ|JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+44	1	fb:cell_kanola.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+44	2	fb:cell_semua_gandum._2_4	-2.4	-2.4	-2.4	CD	NUMBER	-2.4	2.4				
+44	3	fb:cell_kedelai.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+44	4	fb:cell_jelai._3_1	-3.1	-3.1	-3.1	CD	NUMBER	-3.1	3.1				
+44	5	fb:cell_gandum._4_5	-4.5	-4.5	-4.5	CD	NUMBER	-4.5	4.5				
+44	6	fb:cell_jagung_untuk_biji_bijian._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				

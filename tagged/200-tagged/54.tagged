@@ -1,0 +1,43 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.wilayah_pertanian_1_pekerja_berbahasa_perancis	wilayah pertanian 1 pekerja berbahasa perancis	wilayah|pertanian|1|pekerja|berbahasa|perancis	wilayah|pertanian|1|pekerja|berbahasa|perancis	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||1.0|||					
+-1	2	fb:row.row.wilayah_pertanian_1_pekerja_berbahasa_inggris	wilayah pertanian 1 pekerja berbahasa inggris	wilayah|pertanian|1|pekerja|berbahasa|inggris	wilayah|pertanian|1|pekerja|berbahasa|inggris	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||1.0|||					
+-1	3	fb:row.row.wilayah_pertanian_3_pekerja_berbahasa_perancis	wilayah pertanian 3 pekerja berbahasa Perancis	wilayah|pertanian|3|pekerja|berbahasa|perancis	wilayah|pertanian|3|pekerja|berbahasa|perancis	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||3.0|||					
+-1	4	fb:row.row.wilayah_pertanian_3_pekerja_berbahasa_inggris	wilayah pertanian 3 pekerja berbahasa inggris	wilayah|pertanian|3|pekerja|berbahasa|inggris	wilayah|pertanian|3|pekerja|berbahasa|inggris	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||3.0|||					
+-1	5	fb:row.row.wilayah_pertanian_4_pekerja_berbahasa_perancis	wilayah pertanian 4 pekerja berbahasa Perancis	wilayah|pertanian|4|pekerja|berbahasa|perancis	wilayah|pertanian|4|pekerja|berbahasa|perancis	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||4.0|||					
+-1	6	fb:row.row.wilayah_pertanian_4_pekerja_berbahasa_inggris	wilayah pertanian 4 pekerja berbahasa inggris	wilayah|pertanian|4|pekerja|berbahasa|inggris	wilayah|pertanian|4|pekerja|berbahasa|inggris	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||4.0|||					
+0	0	fb:cell_kharakteristik.persen_tidak_berfungsi_pada_tahun_2010	persen tidak berfungsi pada tahun 2010	persen|tidak|berfungsi|pada|tahun|2010	persen|tidak|berfungsi|pada|tahun|2010	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2010	2010.0				
+0	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	0	fb:cell_kharakteristik.persen_karyawan	persen karyawan	persen|karyawan	persen|karyawan	NNP|NNP	O|O	|					
+1	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.86_1	86.1	86.1	86.1	CD	NUMBER	86.1	86.1				
+1	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.81_1	81.1	81.1	81.1	CD	NUMBER	81.1	81.1				
+1	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.73_1	73.1	73.1	73.1	CD	NUMBER	73.1	73.1				
+1	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+1	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.84_1	84.1	84.1	84.1	CD	NUMBER	84.1	84.1				
+1	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.81_3	81.3	81.3	81.3	CD	NUMBER	81.3	81.3				
+2	0	fb:cell_kharakteristik.persen_pekerja_keluarga_yang_tidak_dibayar	persen pekerja keluarga yang tidak dibayar	persen|pekerja|keluarga|yang|tidak|dibayar	persen|pekerja|keluarga|yang|tidak|dibayar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+2	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+2	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+2	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	0	fb:cell_kharakteristik.persen_wiraswasta_berbadan_hukum	persen wiraswasta, berbadan hukum	persen|wiraswasta|,|berbadan|hukum	persen|wiraswasta|,|berbadan|hukum	NNP|NNP|,|NNP|NNP	O|O|O|O|O	||||				persen wiraswasta|berbadan hukum	fb:part_kharakteristik.persen_wiraswasta|fb:part_kharakteristik.berbadan_hukum
+3	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+3	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+3	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+3	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+3	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	0	fb:cell_kharakteristik.persen_wiraswasta_bukan_badan_hukum	persen wiraswasta, bukan badan hukum	persen|wiraswasta|,|bukan|badan|hukum	persen|wiraswasta|,|bukan|badan|hukum	NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O	|||||				persen wiraswasta|bukan badan hukum	fb:part_kharakteristik.persen_wiraswasta|fb:part_kharakteristik.bukan_badan_hukum
+4	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+4	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.13_1	13.1	13.1	13.1	CD	NUMBER	13.1	13.1				
+4	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.40_1	40.1	40.1	40.1	CD	NUMBER	40.1	40.1				
+4	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+4	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.14_1	14.1	14.1	14.1	CD	NUMBER	14.1	14.1				

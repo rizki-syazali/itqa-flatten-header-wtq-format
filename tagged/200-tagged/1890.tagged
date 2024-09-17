@@ -1,0 +1,162 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_populasi_perempuan_identitas_penduduk_asli	total populasi perempuan identitas penduduk asli	total|populasi|perempuan|identitas|penduduk|asli	total|populasi|perempuan|identitas|penduduk|asli	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.sebagai_dari_total_populasi_perempuan	sebagai % dari total populasi perempuan	sebagai|%|dari|total|populasi|perempuan	sebagai|%|dari|total|populasi|perempuan	CD|NN|NNP|NNP|NNP|NNP	PERCENT|PERCENT|O|O|O|O	%0.0|%0.0||||					
+-1	3	fb:row.row.populasi_perempuan_negara_pertama	populasi perempuan negara pertama	populasi|perempuan|negara|pertama	populasi|perempuan|negara|pertama	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.sebagai_dari_total_populasi_perempuan_2	sebagai % dari total populasi perempuan	sebagai|%|dari|total|populasi|perempuan	sebagai|%|dari|total|populasi|perempuan	CD|NN|NNP|NNP|NNP|NNP	PERCENT|PERCENT|O|O|O|O	%0.0|%0.0||||					
+-1	5	fb:row.row.populasi_perempuan_metis	populasi perempuan metis	populasi|perempuan|metis	populasi|perempuan|metis	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.sebagai_dari_total_populasi_perempuan_3	sebagai % dari total populasi perempuan	sebagai|%|dari|total|populasi|perempuan	sebagai|%|dari|total|populasi|perempuan	CD|NN|NNP|NNP|NNP|NNP	PERCENT|PERCENT|O|O|O|O	%0.0|%0.0||||					
+0	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan	sensus wilayah metropolitan	sensus|wilayah|metropolitan	sensus|wilayah|metropolitan	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+0	2	fb:cell_sebagai_dari_total_populasi_perempuan.null											
+0	3	fb:cell_populasi_perempuan_negara_pertama.null											
+0	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.null											
+0	5	fb:cell_populasi_perempuan_metis.null											
+0	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.null											
+1	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_winnipeg	sensus wilayah metropolitan winnipeg	sensus|wilayah|metropolitan|winnipeg	sensus|wilayah|metropolitan|winnipeg	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.40935_0	40935.0	40935.0	40935.0	CD	NUMBER	40935.0	40935.0				
+1	2	fb:cell_sebagai_dari_total_populasi_perempuan.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+1	3	fb:cell_populasi_perempuan_negara_pertama.16695_0	16695.0	16695.0	16695.0	CD	NUMBER	16695.0	16695.0				
+1	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+1	5	fb:cell_populasi_perempuan_metis.23340_0	23340.0	23340.0	23340.0	CD	NUMBER	23340.0	23340.0				
+1	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+2	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_edmonton	sensus wilayah metropolitan edmonton	sensus|wilayah|metropolitan|edmonton	sensus|wilayah|metropolitan|edmonton	NNP|NNP|NNP|NNP	O|O|O|LOCATION	|||					
+2	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.31830_0	31830.0	31830.0	31830.0	CD	NUMBER	31830.0	31830.0				
+2	2	fb:cell_sebagai_dari_total_populasi_perempuan.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+2	3	fb:cell_populasi_perempuan_negara_pertama.14585_0	14585.0	14585.0	14585.0	CD	NUMBER	14585.0	14585.0				
+2	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+2	5	fb:cell_populasi_perempuan_metis.15700_0	15700.0	15700.0	15700.0	CD	NUMBER	15700.0	15700.0				
+2	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+3	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_vancouver	sensus wilayah metropolitan vancouver	sensus|wilayah|metropolitan|vancouver	sensus|wilayah|metropolitan|vancouver	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.27305_0	27305.0	27305.0	27305.0	CD	NUMBER	27305.0	27305.0				
+3	2	fb:cell_sebagai_dari_total_populasi_perempuan.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+3	3	fb:cell_populasi_perempuan_negara_pertama.16490_0	16490.0	16490.0	16490.0	CD	NUMBER	16490.0	16490.0				
+3	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+3	5	fb:cell_populasi_perempuan_metis.9705_0	9705.0	9705.0	9705.0	CD	NUMBER	9705.0	9705.0				
+3	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+4	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_toronto	sensus wilayah metropolitan toronto	sensus|wilayah|metropolitan|toronto	sensus|wilayah|metropolitan|toronto	NNP|NNP|NNP|NNP	O|O|O|LOCATION	|||					
+4	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.19645_0	19645.0	19645.0	19645.0	CD	NUMBER	19645.0	19645.0				
+4	2	fb:cell_sebagai_dari_total_populasi_perempuan.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+4	3	fb:cell_populasi_perempuan_negara_pertama.12650_0	12650.0	12650.0	12650.0	CD	NUMBER	12650.0	12650.0				
+4	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+4	5	fb:cell_populasi_perempuan_metis.5395_0	5395.0	5395.0	5395.0	CD	NUMBER	5395.0	5395.0				
+4	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+5	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_calgary	sensus wilayah metropolitan calgary	sensus|wilayah|metropolitan|calgary	sensus|wilayah|metropolitan|calgary	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.17015_0	17015.0	17015.0	17015.0	CD	NUMBER	17015.0	17015.0				
+5	2	fb:cell_sebagai_dari_total_populasi_perempuan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+5	3	fb:cell_populasi_perempuan_negara_pertama.7645_0	7645.0	7645.0	7645.0	CD	NUMBER	7645.0	7645.0				
+5	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+5	5	fb:cell_populasi_perempuan_metis.8440_0	8440.0	8440.0	8440.0	CD	NUMBER	8440.0	8440.0				
+5	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+6	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_ottawa_gatineau	sensus wilayah metropolitan ottawa-gatineau	sensus|wilayah|metropolitan|ottawa|gatineau	sensus|wilayah|metropolitan|ottawa|gatineau	NNP|NNP|NNP|NNP|NNP	O|O|O|LOCATION|LOCATION	||||					
+6	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.15985_0	15985.0	15985.0	15985.0	CD	NUMBER	15985.0	15985.0				
+6	2	fb:cell_sebagai_dari_total_populasi_perempuan.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+6	3	fb:cell_populasi_perempuan_negara_pertama.8595_0	8595.0	8595.0	8595.0	CD	NUMBER	8595.0	8595.0				
+6	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+6	5	fb:cell_populasi_perempuan_metis.6175_0	6175.0	6175.0	6175.0	CD	NUMBER	6175.0	6175.0				
+6	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_montreal	sensus wilayah metropolitan montreal	sensus|wilayah|metropolitan|montreal	sensus|wilayah|metropolitan|montreal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+7	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.13945_0	13945.0	13945.0	13945.0	CD	NUMBER	13945.0	13945.0				
+7	2	fb:cell_sebagai_dari_total_populasi_perempuan.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+7	3	fb:cell_populasi_perempuan_negara_pertama.7955_0	7955.0	7955.0	7955.0	CD	NUMBER	7955.0	7955.0				
+7	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+7	5	fb:cell_populasi_perempuan_metis.4495_0	4495.0	4495.0	4495.0	CD	NUMBER	4495.0	4495.0				
+7	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+8	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_saskatoon	sensus wilayah metropolitan saskatoon	sensus|wilayah|metropolitan|saskatoon	sensus|wilayah|metropolitan|saskatoon	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+8	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.12860_0	12860.0	12860.0	12860.0	CD	NUMBER	12860.0	12860.0				
+8	2	fb:cell_sebagai_dari_total_populasi_perempuan.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+8	3	fb:cell_populasi_perempuan_negara_pertama.6460_0	6460.0	6460.0	6460.0	CD	NUMBER	6460.0	6460.0				
+8	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+8	5	fb:cell_populasi_perempuan_metis.6075_0	6075.0	6075.0	6075.0	CD	NUMBER	6075.0	6075.0				
+8	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+9	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_regina	sensus wilayah metropolitan regina	sensus|wilayah|metropolitan|regina	sensus|wilayah|metropolitan|regina	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.10635_0	10635.0	10635.0	10635.0	CD	NUMBER	10635.0	10635.0				
+9	2	fb:cell_sebagai_dari_total_populasi_perempuan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+9	3	fb:cell_populasi_perempuan_negara_pertama.6015_0	6015.0	6015.0	6015.0	CD	NUMBER	6015.0	6015.0				
+9	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+9	5	fb:cell_populasi_perempuan_metis.4370_0	4370.0	4370.0	4370.0	CD	NUMBER	4370.0	4370.0				
+9	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+10	0	fb:cell_kharakteristik.sensus_wilayah_metropolitan_victoria	sensus wilayah metropolitan victoria	sensus|wilayah|metropolitan|victoria	sensus|wilayah|metropolitan|victoria	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.7550_0	7550.0	7550.0	7550.0	CD	NUMBER	7550.0	7550.0				
+10	2	fb:cell_sebagai_dari_total_populasi_perempuan.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+10	3	fb:cell_populasi_perempuan_negara_pertama.4660_0	4660.0	4660.0	4660.0	CD	NUMBER	4660.0	4660.0				
+10	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+10	5	fb:cell_populasi_perempuan_metis.2580_0	2580.0	2580.0	2580.0	CD	NUMBER	2580.0	2580.0				
+10	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+11	0	fb:cell_kharakteristik.aglomerasi_sensus	aglomerasi sensus	aglomerasi|sensus	aglomerasi|sensus	NNP|NNP	O|O	|					
+11	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+11	2	fb:cell_sebagai_dari_total_populasi_perempuan.null											
+11	3	fb:cell_populasi_perempuan_negara_pertama.null											
+11	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.null											
+11	5	fb:cell_populasi_perempuan_metis.null											
+11	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.null											
+12	0	fb:cell_kharakteristik.aglomerasi_sensus_pangeran_albert	aglomerasi sensus pangeran albert	aglomerasi|sensus|pangeran|albert	aglomerasi|sensus|pangeran|albert	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.8355_0	8355.0	8355.0	8355.0	CD	NUMBER	8355.0	8355.0				
+12	2	fb:cell_sebagai_dari_total_populasi_perempuan.39_4	39.4	39.4	39.4	CD	NUMBER	39.4	39.4				
+12	3	fb:cell_populasi_perempuan_negara_pertama.4030_0	4030.0	4030.0	4030.0	CD	NUMBER	4030.0	4030.0				
+12	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+12	5	fb:cell_populasi_perempuan_metis.4255_0	4255.0	4255.0	4255.0	CD	NUMBER	4255.0	4255.0				
+12	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+13	0	fb:cell_kharakteristik.aglomerasi_sensus_pangeran_george	aglomerasi sensus pangeran george	aglomerasi|sensus|pangeran|george	aglomerasi|sensus|pangeran|george	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+13	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.5285_0	5285.0	5285.0	5285.0	CD	NUMBER	5285.0	5285.0				
+13	2	fb:cell_sebagai_dari_total_populasi_perempuan.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+13	3	fb:cell_populasi_perempuan_negara_pertama.3105_0	3105.0	3105.0	3105.0	CD	NUMBER	3105.0	3105.0				
+13	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+13	5	fb:cell_populasi_perempuan_metis.2070_0	2070.0	2070.0	2070.0	CD	NUMBER	2070.0	2070.0				
+13	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+14	0	fb:cell_kharakteristik.aglomerasi_sensus_chilliwack	aglomerasi sensus chilliwack	aglomerasi|sensus|chilliwack	aglomerasi|sensus|chilliwack	NNP|NNP|NNP	O|O|O	||					
+14	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.4325_0	4325.0	4325.0	4325.0	CD	NUMBER	4325.0	4325.0				
+14	2	fb:cell_sebagai_dari_total_populasi_perempuan.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+14	3	fb:cell_populasi_perempuan_negara_pertama.2850_0	2850.0	2850.0	2850.0	CD	NUMBER	2850.0	2850.0				
+14	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+14	5	fb:cell_populasi_perempuan_metis.1335_0	1335.0	1335.0	1335.0	CD	NUMBER	1335.0	1335.0				
+14	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+15	0	fb:cell_kharakteristik.aglomerasi_sensus_sault_ste_marie	aglomerasi sensus sault ste. marie	aglomerasi|sensus|sault|ste.|marie	aglomerasi|sensus|sault|ste.|marie	NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON	||||					
+15	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.4290_0	4290.0	4290.0	4290.0	CD	NUMBER	4290.0	4290.0				
+15	2	fb:cell_sebagai_dari_total_populasi_perempuan.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+15	3	fb:cell_populasi_perempuan_negara_pertama.2710_0	2710.0	2710.0	2710.0	CD	NUMBER	2710.0	2710.0				
+15	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+15	5	fb:cell_populasi_perempuan_metis.1470_0	1470.0	1470.0	1470.0	CD	NUMBER	1470.0	1470.0				
+15	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+16	0	fb:cell_kharakteristik.kamloops_aglomerasi_sensus	kamloops aglomerasi sensus	kamloops|aglomerasi|sensus	kamloops|aglomerasi|sensus	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.4070_0	4070.0	4070.0	4070.0	CD	NUMBER	4070.0	4070.0				
+16	2	fb:cell_sebagai_dari_total_populasi_perempuan.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+16	3	fb:cell_populasi_perempuan_negara_pertama.2370_0	2370.0	2370.0	2370.0	CD	NUMBER	2370.0	2370.0				
+16	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+16	5	fb:cell_populasi_perempuan_metis.1540_0	1540.0	1540.0	1540.0	CD	NUMBER	1540.0	1540.0				
+16	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+17	0	fb:cell_kharakteristik.kerbau_kayu_aglomerasi_sensus	kerbau kayu aglomerasi sensus	kerbau|kayu|aglomerasi|sensus	kerbau|kayu|aglomerasi|sensus	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+17	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.3635_0	3635.0	3635.0	3635.0	CD	NUMBER	3635.0	3635.0				
+17	2	fb:cell_sebagai_dari_total_populasi_perempuan.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+17	3	fb:cell_populasi_perempuan_negara_pertama.2140_0	2140.0	2140.0	2140.0	CD	NUMBER	2140.0	2140.0				
+17	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+17	5	fb:cell_populasi_perempuan_metis.1290_0	1290.0	1290.0	1290.0	CD	NUMBER	1290.0	1290.0				
+17	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+18	0	fb:cell_kharakteristik.aglomerasi_sensus_nanaimo	aglomerasi sensus nanaimo	aglomerasi|sensus|nanaimo	aglomerasi|sensus|nanaimo	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.3570_0	3570.0	3570.0	3570.0	CD	NUMBER	3570.0	3570.0				
+18	2	fb:cell_sebagai_dari_total_populasi_perempuan.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+18	3	fb:cell_populasi_perempuan_negara_pertama.2335_0	2335.0	2335.0	2335.0	CD	NUMBER	2335.0	2335.0				
+18	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+18	5	fb:cell_populasi_perempuan_metis.1105_0	1105.0	1105.0	1105.0	CD	NUMBER	1105.0	1105.0				
+18	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+19	0	fb:cell_kharakteristik.sensus_aglomerasi_grande_padang_rumput	sensus aglomerasi grande padang rumput	sensus|aglomerasi|grande|padang|rumput	sensus|aglomerasi|grande|padang|rumput	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+19	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.2925_0	2925.0	2925.0	2925.0	CD	NUMBER	2925.0	2925.0				
+19	2	fb:cell_sebagai_dari_total_populasi_perempuan.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+19	3	fb:cell_populasi_perempuan_negara_pertama.1100_0	1100.0	1100.0	1100.0	CD	NUMBER	1100.0	1100.0				
+19	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+19	5	fb:cell_populasi_perempuan_metis.1715_0	1715.0	1715.0	1715.0	CD	NUMBER	1715.0	1715.0				
+19	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+20	0	fb:cell_kharakteristik.aglomerasi_sensus_pangeran_rupert	aglomerasi sensus pangeran rupert	aglomerasi|sensus|pangeran|rupert	aglomerasi|sensus|pangeran|rupert	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+20	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.2680_0	2680.0	2680.0	2680.0	CD	NUMBER	2680.0	2680.0				
+20	2	fb:cell_sebagai_dari_total_populasi_perempuan.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+20	3	fb:cell_populasi_perempuan_negara_pertama.2445_0	2445.0	2445.0	2445.0	CD	NUMBER	2445.0	2445.0				
+20	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+20	5	fb:cell_populasi_perempuan_metis.150_0	150.0	150.0	150.0	CD	NUMBER	150.0	150.0				
+20	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+21	0	fb:cell_kharakteristik.aglomerasi_sensus_thompson	aglomerasi sensus Thompson	aglomerasi|sensus|thompson	aglomerasi|sensus|Thompson	NNP|NNP|NNP	O|O|O	||					
+21	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.2305_0	2305.0	2305.0	2305.0	CD	NUMBER	2305.0	2305.0				
+21	2	fb:cell_sebagai_dari_total_populasi_perempuan.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+21	3	fb:cell_populasi_perempuan_negara_pertama.1650_0	1650.0	1650.0	1650.0	CD	NUMBER	1650.0	1650.0				
+21	4	fb:cell_sebagai_dari_total_populasi_perempuan_2.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+21	5	fb:cell_populasi_perempuan_metis.630_0	630.0	630.0	630.0	CD	NUMBER	630.0	630.0				
+21	6	fb:cell_sebagai_dari_total_populasi_perempuan_3.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				

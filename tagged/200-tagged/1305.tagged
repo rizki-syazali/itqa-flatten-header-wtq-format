@@ -1,0 +1,165 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir	pembayaran non-hipotek dilewati atau ditunda dalam satu tahun terakhir	pembayaran|non|hipotek|dilewati|atau|ditunda|dalam|satu|tahun|terakhir	pembayaran|non|hipotek|dilewati|atau|ditunda|dalam|satu|tahun|terakhir	NNP|JJ|NN|NN|NN|NN|NN|FW|FW|FW	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	2	fb:row.row.pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir	pembayaran hipotek dilewati atau ditunda dalam setahun terakhir	pembayaran|hipotek|dilewati|atau|ditunda|dalam|setahun|terakhir	pembayaran|hipotek|dilewati|atau|ditunda|dalam|setahun|terakhir	JJ|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir	pinjaman gaji yang digunakan dalam tiga tahun terakhir	pinjaman|gaji|yang|digunakan|dalam|tiga|tahun|terakhir	pinjaman|gaji|yang|digunakan|dalam|tiga|tahun|terakhir	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.kategori_rasio_utang_terhadap_aset_probabilitas_yang_diprediksi	kategori rasio utang terhadap aset probabilitas yang diprediksi	kategori|rasio|utang|terhadap|aset|probabilitas|yang|diprediksi	kategori|rasio|utang|terhadap|aset|probabilitas|yang|diprediksi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+0	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+0	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+1	0	fb:cell_kharakteristik.prediksi_probabilitas_kategori_rasio_utang_terhadap_aset_hingga_0_25	prediksi probabilitas kategori rasio utang terhadap aset hingga 0,25	prediksi|probabilitas|kategori|rasio|utang|terhadap|aset|hingga|0,25	prediksi|probabilitas|kategori|rasio|utang|terhadap|aset|hingga|0,25	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||	25.0				
+1	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+1	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_016	0.016	0.016	0.016	CD	NUMBER	0.016	0.016				
+1	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_027	0.027	0.027	0.027	CD	NUMBER	0.027	0.027				
+2	0	fb:cell_kharakteristik.prediksi_probabilitas_kategori_rasio_utang_terhadap_aset_di_atas_0_25_dan_sampai_dengan_0_50	prediksi probabilitas kategori rasio utang terhadap aset di atas 0,25 dan sampai dengan 0,50	prediksi|probabilitas|kategori|rasio|utang|terhadap|aset|di|atas|0,25|dan|sampai|dengan|0,50	prediksi|probabilitas|kategori|rasio|utang|terhadap|aset|di|atas|0,25|dan|sampai|dengan|0,50	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||	25.0		50.0		
+2	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_122	0.122	0.122	0.122	CD	NUMBER	0.122	0.122				
+2	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_042	0.042	0.042	0.042	CD	NUMBER	0.042	0.042				
+2	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_031	0.031	0.031	0.031	CD	NUMBER	0.031	0.031				
+3	0	fb:cell_kharakteristik.prediksi_probabilitas_kategori_rasio_utang_terhadap_aset_di_atas_0_50	prediksi probabilitas kategori rasio utang terhadap aset di atas 0,50	prediksi|probabilitas|kategori|rasio|utang|terhadap|aset|di|atas|0,50	prediksi|probabilitas|kategori|rasio|utang|terhadap|aset|di|atas|0,50	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||	50.0				
+3	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_128	0.128	0.128	0.128	CD	NUMBER	0.128	0.128				
+3	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_073	0.073	0.073	0.073	CD	NUMBER	0.073	0.073				
+3	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+4	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_usia_penerima_penghasilan_utama	prediksi probabilitas kelompok usia penerima penghasilan utama	prediksi|probabilitas|kelompok|usia|penerima|penghasilan|utama	prediksi|probabilitas|kelompok|usia|penerima|penghasilan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+4	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+4	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+4	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+5	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_usia_pencari_nafkah_utama_15_hingga_34_tahun	prediksi probabilitas kelompok usia pencari nafkah utama 15 hingga 34 tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|15|hingga|34|tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|15|hingga|34|tahun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||15.0||34.0|	15.0		34.0		
+5	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_114	0.114	0.114	0.114	CD	NUMBER	0.114	0.114				
+5	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_02	0.02	0.02	0.02	CD	NUMBER	0.02	0.02				
+5	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_034	0.034	0.034	0.034	CD	NUMBER	0.034	0.034				
+6	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_usia_pencari_nafkah_utama_35_hingga_44_tahun	prediksi probabilitas kelompok usia pencari nafkah utama 35 hingga 44 tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|35|hingga|44|tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|35|hingga|44|tahun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||35.0||44.0|	35.0		44.0		
+6	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_105	0.105	0.105	0.105	CD	NUMBER	0.105	0.105				
+6	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_039	0.039	0.039	0.039	CD	NUMBER	0.039	0.039				
+6	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_037	0.037	0.037	0.037	CD	NUMBER	0.037	0.037				
+7	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_usia_pencari_nafkah_utama_45_hingga_54_tahun	prediksi probabilitas kelompok usia pencari nafkah utama 45 hingga 54 tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|45|hingga|54|tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|45|hingga|54|tahun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||45.0||54.0|	45.0		54.0		
+7	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_125	0.125	0.125	0.125	CD	NUMBER	0.125	0.125				
+7	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_042	0.042	0.042	0.042	CD	NUMBER	0.042	0.042				
+7	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_047	0.047	0.047	0.047	CD	NUMBER	0.047	0.047				
+8	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_usia_pencari_nafkah_utama_55_hingga_64_tahun	prediksi probabilitas kelompok usia pencari nafkah utama 55 hingga 64 tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|55|hingga|64|tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|55|hingga|64|tahun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||55.0||64.0|	55.0		64.0		
+8	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_099	0.099	0.099	0.099	CD	NUMBER	0.099	0.099				
+8	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_081	0.081	0.081	0.081	CD	NUMBER	0.081	0.081				
+8	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_042	0.042	0.042	0.042	CD	NUMBER	0.042	0.042				
+9	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_usia_pencari_nafkah_utama_di_atas_64_tahun	prediksi probabilitas kelompok usia pencari nafkah utama di atas 64 tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|di|atas|64|tahun	prediksi|probabilitas|kelompok|usia|pencari|nafkah|utama|di|atas|64|tahun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|O|O|O|NUMBER|O	|||||||||64.0|	64.0				
+9	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_062	0.062	0.062	0.062	CD	NUMBER	0.062	0.062				
+9	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_041	0.041	0.041	0.041	CD	NUMBER	0.041	0.041				
+9	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+10	0	fb:cell_kharakteristik.tipe_keluarga_probabilitas_yang_diprediksi	tipe keluarga probabilitas yang diprediksi	tipe|keluarga|probabilitas|yang|diprediksi	tipe|keluarga|probabilitas|yang|diprediksi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+10	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+10	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+10	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+11	0	fb:cell_kharakteristik.tipe_keluarga_probabilitas_yang_diprediksi_tidak_terikat	tipe keluarga probabilitas yang diprediksi tidak terikat	tipe|keluarga|probabilitas|yang|diprediksi|tidak|terikat	tipe|keluarga|probabilitas|yang|diprediksi|tidak|terikat	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+11	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_11	0.11	0.11	0.11	CD	NUMBER	0.11	0.11				
+11	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_045	0.045	0.045	0.045	CD	NUMBER	0.045	0.045				
+11	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_024	0.024	0.024	0.024	CD	NUMBER	0.024	0.024				
+12	0	fb:cell_kharakteristik.prediksi_kemungkinan_pasangan_tipe_keluarga_tanpa_anak	prediksi kemungkinan pasangan tipe keluarga tanpa anak	prediksi|kemungkinan|pasangan|tipe|keluarga|tanpa|anak	prediksi|kemungkinan|pasangan|tipe|keluarga|tanpa|anak	NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_083	0.083	0.083	0.083	CD	NUMBER	0.083	0.083				
+12	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_024	0.024	0.024	0.024	CD	NUMBER	0.024	0.024				
+12	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_035	0.035	0.035	0.035	CD	NUMBER	0.035	0.035				
+13	0	fb:cell_kharakteristik.prediksi_probabilitas_tipe_keluarga_pasangan_dengan_anak	prediksi probabilitas tipe keluarga pasangan dengan anak	prediksi|probabilitas|tipe|keluarga|pasangan|dengan|anak	prediksi|probabilitas|tipe|keluarga|pasangan|dengan|anak	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+13	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_106	0.106	0.106	0.106	CD	NUMBER	0.106	0.106				
+13	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+13	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_041	0.041	0.041	0.041	CD	NUMBER	0.041	0.041				
+14	0	fb:cell_kharakteristik.prediksi_probabilitas_tipe_keluarga_orang_tua_tunggal	prediksi probabilitas tipe keluarga orang tua tunggal	prediksi|probabilitas|tipe|keluarga|orang|tua|tunggal	prediksi|probabilitas|tipe|keluarga|orang|tua|tunggal	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+14	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_121	0.121	0.121	0.121	CD	NUMBER	0.121	0.121				
+14	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_094	0.094	0.094	0.094	CD	NUMBER	0.094	0.094				
+14	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_084	0.084	0.084	0.084	CD	NUMBER	0.084	0.084				
+15	0	fb:cell_kharakteristik.prediksi_probabilitas_tipe_keluarga_tipe_keluarga_lainnya	prediksi probabilitas tipe keluarga tipe keluarga "lainnya".	prediksi|probabilitas|tipe|keluarga|tipe|keluarga|``|lainnya|''|.	prediksi|probabilitas|tipe|keluarga|tipe|keluarga|``|lainnya|''|.	NN|NN|NN|NN|NN|NN|``|NNP|''|.	O|O|O|O|O|O|O|O|O|O	|||||||||					
+15	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_116	0.116	0.116	0.116	CD	NUMBER	0.116	0.116				
+15	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_045	0.045	0.045	0.045	CD	NUMBER	0.045	0.045				
+15	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_063	0.063	0.063	0.063	CD	NUMBER	0.063	0.063				
+16	0	fb:cell_kharakteristik.prediksi_probabilitas_pendidikan_pencari_nafkah_utama	prediksi probabilitas pendidikan pencari nafkah utama	prediksi|probabilitas|pendidikan|pencari|nafkah|utama	prediksi|probabilitas|pendidikan|pencari|nafkah|utama	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+16	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+16	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+16	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+17	0	fb:cell_kharakteristik.prediksi_probabilitas_pendidikan_pencari_nafkah_utama_kurang_dari_sekolah_menengah_atas	prediksi probabilitas pendidikan pencari nafkah utama kurang dari sekolah menengah atas	prediksi|probabilitas|pendidikan|pencari|nafkah|utama|kurang|dari|sekolah|menengah|atas	prediksi|probabilitas|pendidikan|pencari|nafkah|utama|kurang|dari|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+17	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_112	0.112	0.112	0.112	CD	NUMBER	0.112	0.112				
+17	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_054	0.054	0.054	0.054	CD	NUMBER	0.054	0.054				
+17	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_075	0.075	0.075	0.075	CD	NUMBER	0.075	0.075				
+18	0	fb:cell_kharakteristik.prediksi_probabilitas_pendidikan_sekolah_menengah_dengan_pendapatan_utama	prediksi probabilitas pendidikan sekolah menengah dengan pendapatan utama	prediksi|probabilitas|pendidikan|sekolah|menengah|dengan|pendapatan|utama	prediksi|probabilitas|pendidikan|sekolah|menengah|dengan|pendapatan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+18	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_117	0.117	0.117	0.117	CD	NUMBER	0.117	0.117				
+18	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_038	0.038	0.038	0.038	CD	NUMBER	0.038	0.038				
+18	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_048	0.048	0.048	0.048	CD	NUMBER	0.048	0.048				
+19	0	fb:cell_kharakteristik.prediksi_probabilitas_pendidikan_pencari_nafkah_utama_beberapa_pasca_sekolah_menengah	prediksi probabilitas pendidikan pencari nafkah utama beberapa pasca sekolah menengah	prediksi|probabilitas|pendidikan|pencari|nafkah|utama|beberapa|pasca|sekolah|menengah	prediksi|probabilitas|pendidikan|pencari|nafkah|utama|beberapa|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+19	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_121	0.121	0.121	0.121	CD	NUMBER	0.121	0.121				
+19	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_046	0.046	0.046	0.046	CD	NUMBER	0.046	0.046				
+19	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_041	0.041	0.041	0.041	CD	NUMBER	0.041	0.041				
+20	0	fb:cell_kharakteristik.prediksi_probabilitas_pendidikan_ijazah_atau_gelar_universitas_yang_menghasilkan_pendapatan_utama	prediksi probabilitas pendidikan ijazah atau gelar universitas yang menghasilkan pendapatan utama	prediksi|probabilitas|pendidikan|ijazah|atau|gelar|universitas|yang|menghasilkan|pendapatan|utama	prediksi|probabilitas|pendidikan|ijazah|atau|gelar|universitas|yang|menghasilkan|pendapatan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+20	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_079	0.079	0.079	0.079	CD	NUMBER	0.079	0.079				
+20	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_033	0.033	0.033	0.033	CD	NUMBER	0.033	0.033				
+20	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_016	0.016	0.016	0.016	CD	NUMBER	0.016	0.016				
+21	0	fb:cell_kharakteristik.kelompok_pendapatan_probabilitas_yang_diprediksi	kelompok pendapatan probabilitas yang diprediksi	kelompok|pendapatan|probabilitas|yang|diprediksi	kelompok|pendapatan|probabilitas|yang|diprediksi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+21	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+21	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+21	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+22	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_pendapatan_kuintil_pertama	prediksi probabilitas kelompok pendapatan kuintil pertama	prediksi|probabilitas|kelompok|pendapatan|kuintil|pertama	prediksi|probabilitas|kelompok|pendapatan|kuintil|pertama	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+22	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_128	0.128	0.128	0.128	CD	NUMBER	0.128	0.128				
+22	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_068	0.068	0.068	0.068	CD	NUMBER	0.068	0.068				
+22	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_037	0.037	0.037	0.037	CD	NUMBER	0.037	0.037				
+23	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_pendapatan_kuintil_kedua	prediksi probabilitas kelompok pendapatan kuintil kedua	prediksi|probabilitas|kelompok|pendapatan|kuintil|kedua	prediksi|probabilitas|kelompok|pendapatan|kuintil|kedua	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+23	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_134	0.134	0.134	0.134	CD	NUMBER	0.134	0.134				
+23	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_038	0.038	0.038	0.038	CD	NUMBER	0.038	0.038				
+23	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_046	0.046	0.046	0.046	CD	NUMBER	0.046	0.046				
+24	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_pendapatan_kuintil_ketiga	prediksi probabilitas kelompok pendapatan kuintil ketiga	prediksi|probabilitas|kelompok|pendapatan|kuintil|ketiga	prediksi|probabilitas|kelompok|pendapatan|kuintil|ketiga	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+24	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_097	0.097	0.097	0.097	CD	NUMBER	0.097	0.097				
+24	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_048	0.048	0.048	0.048	CD	NUMBER	0.048	0.048				
+24	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_038	0.038	0.038	0.038	CD	NUMBER	0.038	0.038				
+25	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_pendapatan_kuintil_keempat	prediksi probabilitas kelompok pendapatan kuintil keempat	prediksi|probabilitas|kelompok|pendapatan|kuintil|keempat	prediksi|probabilitas|kelompok|pendapatan|kuintil|keempat	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+25	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_095	0.095	0.095	0.095	CD	NUMBER	0.095	0.095				
+25	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_041	0.041	0.041	0.041	CD	NUMBER	0.041	0.041				
+25	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_038	0.038	0.038	0.038	CD	NUMBER	0.038	0.038				
+26	0	fb:cell_kharakteristik.prediksi_probabilitas_kelompok_pendapatan_kuintil_kelima	prediksi probabilitas kelompok pendapatan kuintil kelima	prediksi|probabilitas|kelompok|pendapatan|kuintil|kelima	prediksi|probabilitas|kelompok|pendapatan|kuintil|kelima	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+26	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_051	0.051	0.051	0.051	CD	NUMBER	0.051	0.051				
+26	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_022	0.022	0.022	0.022	CD	NUMBER	0.022	0.022				
+26	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_033	0.033	0.033	0.033	CD	NUMBER	0.033	0.033				
+27	0	fb:cell_kharakteristik.wilayah_probabilitas_yang_diprediksi	wilayah probabilitas yang diprediksi	wilayah|probabilitas|yang|diprediksi	wilayah|probabilitas|yang|diprediksi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+27	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+27	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+27	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+28	0	fb:cell_kharakteristik.prediksi_probabilitas_wilayah_atlantik	prediksi probabilitas wilayah Atlantik	prediksi|probabilitas|wilayah|atlantik	prediksi|probabilitas|wilayah|Atlantik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+28	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_073	0.073	0.073	0.073	CD	NUMBER	0.073	0.073				
+28	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_043	0.043	0.043	0.043	CD	NUMBER	0.043	0.043				
+28	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_038	0.038	0.038	0.038	CD	NUMBER	0.038	0.038				
+29	0	fb:cell_kharakteristik.prediksi_probabilitas_wilayah_quebec	prediksi probabilitas wilayah quebec	prediksi|probabilitas|wilayah|quebec	prediksi|probabilitas|wilayah|quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+29	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_136	0.136	0.136	0.136	CD	NUMBER	0.136	0.136				
+29	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_034	0.034	0.034	0.034	CD	NUMBER	0.034	0.034				
+29	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_014	0.014	0.014	0.014	CD	NUMBER	0.014	0.014				
+30	0	fb:cell_kharakteristik.prediksi_probabilitas_wilayah_ontario	prediksi probabilitas wilayah ontario	prediksi|probabilitas|wilayah|ontario	prediksi|probabilitas|wilayah|ontario	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+30	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_096	0.096	0.096	0.096	CD	NUMBER	0.096	0.096				
+30	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_032	0.032	0.032	0.032	CD	NUMBER	0.032	0.032				
+30	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_046	0.046	0.046	0.046	CD	NUMBER	0.046	0.046				
+31	0	fb:cell_kharakteristik.prediksi_kemungkinan_wilayah_padang_rumput	prediksi kemungkinan wilayah padang rumput	prediksi|kemungkinan|wilayah|padang|rumput	prediksi|kemungkinan|wilayah|padang|rumput	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+31	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_106	0.106	0.106	0.106	CD	NUMBER	0.106	0.106				
+31	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_068	0.068	0.068	0.068	CD	NUMBER	0.068	0.068				
+31	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_056	0.056	0.056	0.056	CD	NUMBER	0.056	0.056				
+32	0	fb:cell_kharakteristik.prediksi_probabilitas_wilayah_british_columbia	prediksi probabilitas wilayah british columbia	prediksi|probabilitas|wilayah|british|columbia	prediksi|probabilitas|wilayah|british|columbia	NNP|NNP|NNP|NNP|NNP	O|O|O|MISC|O	||||					
+32	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_091	0.091	0.091	0.091	CD	NUMBER	0.091	0.091				
+32	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_039	0.039	0.039	0.039	CD	NUMBER	0.039	0.039				
+32	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_044	0.044	0.044	0.044	CD	NUMBER	0.044	0.044				
+33	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_penerima_pendapatan_utama	prediksi probabilitas jenis kelamin penerima pendapatan utama	prediksi|probabilitas|jenis|kelamin|penerima|pendapatan|utama	prediksi|probabilitas|jenis|kelamin|penerima|pendapatan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+33	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+33	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+33	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+34	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_laki_laki_yang_berpenghasilan_utama	prediksi probabilitas jenis kelamin laki-laki yang berpenghasilan utama	prediksi|probabilitas|jenis|kelamin|laki|laki|yang|berpenghasilan|utama	prediksi|probabilitas|jenis|kelamin|laki|laki|yang|berpenghasilan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+34	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_107	0.107	0.107	0.107	CD	NUMBER	0.107	0.107				
+34	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_042	0.042	0.042	0.042	CD	NUMBER	0.042	0.042				
+34	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+35	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_perempuan_pencari_nafkah_utama	prediksi probabilitas jenis kelamin perempuan pencari nafkah utama	prediksi|probabilitas|jenis|kelamin|perempuan|pencari|nafkah|utama	prediksi|probabilitas|jenis|kelamin|perempuan|pencari|nafkah|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+35	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_103	0.103	0.103	0.103	CD	NUMBER	0.103	0.103				
+35	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.0_038	0.038	0.038	0.038	CD	NUMBER	0.038	0.038				
+35	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_037	0.037	0.037	0.037	CD	NUMBER	0.037	0.037				
+36	0	fb:cell_kharakteristik.prediksi_probabilitas_status_kepemilikan_rumah	prediksi probabilitas status kepemilikan rumah	prediksi|probabilitas|status|kepemilikan|rumah	prediksi|probabilitas|status|kepemilikan|rumah	NNP|NNP|NN|NN|NN	O|O|O|O|O	||||					
+36	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.null											
+36	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+36	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.null											
+37	0	fb:cell_kharakteristik.prediksi_probabilitas_status_kepemilikan_rumah_sendiri_tanpa_kpr	prediksi probabilitas status kepemilikan rumah sendiri tanpa KPR	prediksi|probabilitas|status|kepemilikan|rumah|sendiri|tanpa|kpr	prediksi|probabilitas|status|kepemilikan|rumah|sendiri|tanpa|kpr	NNP|NNP|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+37	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_078	0.078	0.078	0.078	CD	NUMBER	0.078	0.078				
+37	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+37	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_017	0.017	0.017	0.017	CD	NUMBER	0.017	0.017				
+38	0	fb:cell_kharakteristik.prediksi_probabilitas_status_kepemilikan_rumah_yang_dimiliki_dengan_kpr	prediksi probabilitas status kepemilikan rumah yang dimiliki dengan KPR	prediksi|probabilitas|status|kepemilikan|rumah|yang|dimiliki|dengan|kpr	prediksi|probabilitas|status|kepemilikan|rumah|yang|dimiliki|dengan|KPR	NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+38	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_085	0.085	0.085	0.085	CD	NUMBER	0.085	0.085				
+38	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+38	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_019	0.019	0.019	0.019	CD	NUMBER	0.019	0.019				
+39	0	fb:cell_kharakteristik.prediksi_probabilitas_status_kepemilikan_rumah_tidak_dimiliki	prediksi probabilitas status kepemilikan rumah tidak dimiliki	prediksi|probabilitas|status|kepemilikan|rumah|tidak|dimiliki	prediksi|probabilitas|status|kepemilikan|rumah|tidak|dimiliki	NNP|NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+39	1	fb:cell_pembayaran_non_hipotek_dilewati_atau_ditunda_dalam_satu_tahun_terakhir.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+39	2	fb:cell_pembayaran_hipotek_dilewati_atau_ditunda_dalam_setahun_terakhir.null											
+39	3	fb:cell_pinjaman_gaji_yang_digunakan_dalam_tiga_tahun_terakhir.0_082	0.082	0.082	0.082	CD	NUMBER	0.082	0.082				

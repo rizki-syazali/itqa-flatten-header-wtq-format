@@ -1,0 +1,113 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_perempuan	nomor perempuan	nomor|perempuan	nomor|perempuan	NNP|NNP	O|O	|					
+-1	2	fb:row.row.perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada	perempuan sebagai persentase dari seluruh perempuan di Kanada	perempuan|sebagai|persentase|dari|seluruh|perempuan|di|kanada	perempuan|sebagai|persentase|dari|seluruh|perempuan|di|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat	perempuan sebagai persentase dari semua perempuan minoritas yang terlihat	perempuan|sebagai|persentase|dari|semua|perempuan|minoritas|yang|terlihat	perempuan|sebagai|persentase|dari|semua|perempuan|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	4	fb:row.row.perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat	perempuan sebagai persentase dari populasi minoritas yang terlihat	perempuan|sebagai|persentase|dari|populasi|minoritas|yang|terlihat	perempuan|sebagai|persentase|dari|populasi|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	5	fb:row.row.nomor_laki_laki	nomor laki-laki	nomor|laki|laki	nomor|laki|laki	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada	laki-laki sebagai persentase dari seluruh laki-laki di Kanada	laki|laki|sebagai|persentase|dari|seluruh|laki|laki|di|kanada	laki|laki|sebagai|persentase|dari|seluruh|laki|laki|di|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|PERSON|PERSON|PERSON	|||||||||					
+-1	7	fb:row.row.laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat	laki-laki sebagai persentase dari semua laki-laki minoritas yang terlihat	laki|laki|sebagai|persentase|dari|semua|laki|laki|minoritas|yang|terlihat	laki|laki|sebagai|persentase|dari|semua|laki|laki|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O|O|O|O	||||||||||					
+0	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat	populasi minoritas yang terlihat	populasi|minoritas|yang|terlihat	populasi|minoritas|yang|terlihat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_nomor_perempuan.3221740_0	3221740.0	3221740.0	3221740.0	CD	NUMBER	3221740.0	3221740.0				
+0	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+0	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.51_4	51.4	51.4	51.4	CD	NUMBER	51.4	51.4				
+0	5	fb:cell_nomor_laki_laki.3043010_0	3043010.0	3043010.0	3043010.0	CD	NUMBER	3043010.0	3043010.0				
+0	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.18_8	18.8	18.8	18.8	CD	NUMBER	18.8	18.8				
+0	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_di_asia_selatan	populasi minoritas yang terlihat di Asia Selatan	populasi|minoritas|yang|terlihat|di|asia|selatan	populasi|minoritas|yang|terlihat|di|Asia|Selatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_nomor_perempuan.776650_0	776650.0	776650.0	776650.0	CD	NUMBER	776650.0	776650.0				
+1	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+1	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.24_1	24.1	24.1	24.1	CD	NUMBER	24.1	24.1				
+1	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.49_6	49.6	49.6	49.6	CD	NUMBER	49.6	49.6				
+1	5	fb:cell_nomor_laki_laki.790755_0	790755.0	790755.0	790755.0	CD	NUMBER	790755.0	790755.0				
+1	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+1	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+2	0	fb:cell_kharakteristik.terlihat_populasi_minoritas_tionghoa	terlihat populasi minoritas Tionghoa	terlihat|populasi|minoritas|tionghoa	terlihat|populasi|minoritas|Tionghoa	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_nomor_perempuan.692420_0	692420.0	692420.0	692420.0	CD	NUMBER	692420.0	692420.0				
+2	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+2	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.21_5	21.5	21.5	21.5	CD	NUMBER	21.5	21.5				
+2	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.52_3	52.3	52.3	52.3	CD	NUMBER	52.3	52.3				
+2	5	fb:cell_nomor_laki_laki.632325_0	632325.0	632325.0	632325.0	CD	NUMBER	632325.0	632325.0				
+2	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+2	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+3	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_berkulit_hitam	populasi minoritas yang terlihat berkulit hitam	populasi|minoritas|yang|terlihat|berkulit|hitam	populasi|minoritas|yang|terlihat|berkulit|hitam	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_nomor_perempuan.492660_0	492660.0	492660.0	492660.0	CD	NUMBER	492660.0	492660.0				
+3	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+3	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.52_1	52.1	52.1	52.1	CD	NUMBER	52.1	52.1				
+3	5	fb:cell_nomor_laki_laki.453005_0	453005.0	453005.0	453005.0	CD	NUMBER	453005.0	453005.0				
+3	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+3	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+4	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_filipina	populasi minoritas yang terlihat Filipina	populasi|minoritas|yang|terlihat|filipina	populasi|minoritas|yang|terlihat|Filipina	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_nomor_perempuan.350425_0	350425.0	350425.0	350425.0	CD	NUMBER	350425.0	350425.0				
+4	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+4	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+4	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.56_6	56.6	56.6	56.6	CD	NUMBER	56.6	56.6				
+4	5	fb:cell_nomor_laki_laki.268885_0	268885.0	268885.0	268885.0	CD	NUMBER	268885.0	268885.0				
+4	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+4	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+5	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_di_amerika_latin	populasi minoritas yang terlihat di Amerika Latin	populasi|minoritas|yang|terlihat|di|amerika|latin	populasi|minoritas|yang|terlihat|di|Amerika|Latin	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_nomor_perempuan.194930_0	194930.0	194930.0	194930.0	CD	NUMBER	194930.0	194930.0				
+5	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+5	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+5	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+5	5	fb:cell_nomor_laki_laki.186350_0	186350.0	186350.0	186350.0	CD	NUMBER	186350.0	186350.0				
+5	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+5	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+6	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_arab	populasi minoritas yang terlihat arab	populasi|minoritas|yang|terlihat|arab	populasi|minoritas|yang|terlihat|arab	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+6	1	fb:cell_nomor_perempuan.177135_0	177135.0	177135.0	177135.0	CD	NUMBER	177135.0	177135.0				
+6	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+6	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+6	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.46_5	46.5	46.5	46.5	CD	NUMBER	46.5	46.5				
+6	5	fb:cell_nomor_laki_laki.203485_0	203485.0	203485.0	203485.0	CD	NUMBER	203485.0	203485.0				
+6	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+6	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+7	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_di_asia_tenggara	populasi minoritas yang terlihat di Asia Tenggara	populasi|minoritas|yang|terlihat|di|asia|tenggara	populasi|minoritas|yang|terlihat|di|Asia|Tenggara	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+7	1	fb:cell_nomor_perempuan.158045_0	158045.0	158045.0	158045.0	CD	NUMBER	158045.0	158045.0				
+7	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+7	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+7	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+7	5	fb:cell_nomor_laki_laki.154035_0	154035.0	154035.0	154035.0	CD	NUMBER	154035.0	154035.0				
+7	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+8	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_di_asia_barat	populasi minoritas yang terlihat di Asia Barat	populasi|minoritas|yang|terlihat|di|asia|barat	populasi|minoritas|yang|terlihat|di|Asia|Barat	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+8	1	fb:cell_nomor_perempuan.101220_0	101220.0	101220.0	101220.0	CD	NUMBER	101220.0	101220.0				
+8	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+8	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+8	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.48_9	48.9	48.9	48.9	CD	NUMBER	48.9	48.9				
+8	5	fb:cell_nomor_laki_laki.105620_0	105620.0	105620.0	105620.0	CD	NUMBER	105620.0	105620.0				
+8	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+8	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+9	0	fb:cell_kharakteristik.terlihat_populasi_minoritas_korea	terlihat populasi minoritas korea	terlihat|populasi|minoritas|korea	terlihat|populasi|minoritas|korea	NN|NN|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_nomor_perempuan.83960_0	83960.0	83960.0	83960.0	CD	NUMBER	83960.0	83960.0				
+9	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+9	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+9	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.52_1	52.1	52.1	52.1	CD	NUMBER	52.1	52.1				
+9	5	fb:cell_nomor_laki_laki.77170_0	77170.0	77170.0	77170.0	CD	NUMBER	77170.0	77170.0				
+9	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+9	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+10	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_di_jepang	populasi minoritas yang terlihat di Jepang	populasi|minoritas|yang|terlihat|di|jepang	populasi|minoritas|yang|terlihat|di|Jepang	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_nomor_perempuan.48995_0	48995.0	48995.0	48995.0	CD	NUMBER	48995.0	48995.0				
+10	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+10	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+10	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.56_1	56.1	56.1	56.1	CD	NUMBER	56.1	56.1				
+10	5	fb:cell_nomor_laki_laki.38270_0	38270.0	38270.0	38270.0	CD	NUMBER	38270.0	38270.0				
+10	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+10	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+11	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_minoritas_lain_yang_terlihat	populasi minoritas yang terlihat minoritas lain yang terlihat	populasi|minoritas|yang|terlihat|minoritas|lain|yang|terlihat	populasi|minoritas|yang|terlihat|minoritas|lain|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+11	1	fb:cell_nomor_perempuan.56705_0	56705.0	56705.0	56705.0	CD	NUMBER	56705.0	56705.0				
+11	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+11	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+11	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.53_3	53.3	53.3	53.3	CD	NUMBER	53.3	53.3				
+11	5	fb:cell_nomor_laki_laki.49770_0	49770.0	49770.0	49770.0	CD	NUMBER	49770.0	49770.0				
+11	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+11	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+12	0	fb:cell_kharakteristik.populasi_minoritas_yang_terlihat_beberapa_minoritas_yang_terlihat	populasi minoritas yang terlihat beberapa minoritas yang terlihat	populasi|minoritas|yang|terlihat|beberapa|minoritas|yang|terlihat	populasi|minoritas|yang|terlihat|beberapa|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+12	1	fb:cell_nomor_perempuan.88600_0	88600.0	88600.0	88600.0	CD	NUMBER	88600.0	88600.0				
+12	2	fb:cell_perempuan_sebagai_persentase_dari_seluruh_perempuan_di_kanada.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+12	3	fb:cell_perempuan_sebagai_persentase_dari_semua_perempuan_minoritas_yang_terlihat.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+12	4	fb:cell_perempuan_sebagai_persentase_dari_populasi_minoritas_yang_terlihat.51_5	51.5	51.5	51.5	CD	NUMBER	51.5	51.5				
+12	5	fb:cell_nomor_laki_laki.83335_0	83335.0	83335.0	83335.0	CD	NUMBER	83335.0	83335.0				
+12	6	fb:cell_laki_laki_sebagai_persentase_dari_seluruh_laki_laki_di_kanada.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+12	7	fb:cell_laki_laki_sebagai_persentase_dari_semua_laki_laki_minoritas_yang_terlihat.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				

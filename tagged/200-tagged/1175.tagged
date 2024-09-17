@@ -1,0 +1,161 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_asli_laki_laki	nomor asli laki-laki	nomor|asli|laki|laki	nomor|asli|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.persen_penduduk_asli_laki_laki	persen penduduk asli laki-laki	persen|penduduk|asli|laki|laki	persen|penduduk|asli|laki|laki	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	3	fb:row.row.persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008	persen perubahan jumlah penduduk asli laki-laki dari tahun 2007/2008	persen|perubahan|jumlah|penduduk|asli|laki|laki|dari|tahun|2007/2008	persen|perubahan|jumlah|penduduk|asli|laki|laki|dari|tahun|2007/2008	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|NUMBER	|||||||||					
+-1	4	fb:row.row.nomor_laki_laki_non_aborigin	nomor laki-laki non-aborigin	nomor|laki|laki|non|aborigin	nomor|laki|laki|non|aborigin	NNP|NNP|NNP|JJ|NN	O|O|O|O|O	||||					
+-1	5	fb:row.row.persen_laki_laki_non_aborigin	persen laki-laki non-aborigin	persen|laki|laki|non|aborigin	persen|laki|laki|non|aborigin	NNP|NNP|NNP|JJ|NN	O|O|O|O|O	||||					
+-1	6	fb:row.row.persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008	persentase perubahan jumlah laki-laki non-aborigin dari tahun 2007/2008	persentase|perubahan|jumlah|laki|laki|non|aborigin|dari|tahun|2007/2008	persentase|perubahan|jumlah|laki|laki|non|aborigin|dari|tahun|2007/2008	NN|NN|NN|NN|NN|JJ|NN|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|NUMBER	|||||||||					
+-1	7	fb:row.row.nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui	nomor identitas penduduk asli laki-laki yang tidak diketahui	nomor|identitas|penduduk|asli|laki|laki|yang|tidak|diketahui	nomor|identitas|penduduk|asli|laki|laki|yang|tidak|diketahui	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	8	fb:row.row.persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui	persentase identitas penduduk asli laki-laki yang tidak diketahui	persentase|identitas|penduduk|asli|laki|laki|yang|tidak|diketahui	persentase|identitas|penduduk|asli|laki|laki|yang|tidak|diketahui	NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	9	fb:row.row.persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008	persen perubahan jumlah penduduk asli laki-laki yang tidak diketahui identitasnya dari tahun 2007/2008	persen|perubahan|jumlah|penduduk|asli|laki|laki|yang|tidak|diketahui|identitasnya|dari|tahun|2007/2008	persen|perubahan|jumlah|penduduk|asli|laki|laki|yang|tidak|diketahui|identitasnya|dari|tahun|2007/2008	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|O|O|O|NUMBER	|||||||||||||					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor_asli_laki_laki.359	359	359	359	CD	NUMBER	359.0	359.0				
+0	2	fb:cell_persen_penduduk_asli_laki_laki.21	21	21	21	CD	NUMBER	21.0	21.0				
+0	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+0	4	fb:cell_nomor_laki_laki_non_aborigin.1329	1329	1329	1329	CD	DATE	1329	1329.0	1329-xx-xx			
+0	5	fb:cell_persen_laki_laki_non_aborigin.79	79	79	79	CD	NUMBER	79.0	79.0				
+0	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+0	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor_asli_laki_laki.23	23	23	23	CD	NUMBER	23.0	23.0				
+1	2	fb:cell_persen_penduduk_asli_laki_laki.4	4	4	4	CD	NUMBER	4.0	4.0				
+1	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.null											
+1	4	fb:cell_nomor_laki_laki_non_aborigin.548	548	548	548	CD	NUMBER	548.0	548.0				
+1	5	fb:cell_persen_laki_laki_non_aborigin.95	95	95	95	CD	NUMBER	95.0	95.0				
+1	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.null											
+1	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.6	6	6	6	CD	NUMBER	6.0	6.0				
+1	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008._99_0	-99.0	-99.0	-99.0	CD	NUMBER	-99.0	99.0				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor_asli_laki_laki.214	214	214	214	CD	NUMBER	214.0	214.0				
+2	2	fb:cell_persen_penduduk_asli_laki_laki.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008._44_0	-44.0	-44.0	-44.0	CD	NUMBER	-44.0	44.0				
+2	4	fb:cell_nomor_laki_laki_non_aborigin.3487	3487	3487	3487	CD	NUMBER	3487.0	3487.0	3487-xx-xx			
+2	5	fb:cell_persen_laki_laki_non_aborigin.89	89	89	89	CD	NUMBER	89.0	89.0				
+2	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._23_0	-23.0	-23.0	-23.0	CD	NUMBER	-23.0	23.0				
+2	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.201	201	201	201	CD	NUMBER	201.0	201.0				
+2	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.279_0	279.0	279.0	279.0	CD	NUMBER	279.0	279.0				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor_asli_laki_laki.400	400	400	400	CD	NUMBER	400.0	400.0				
+3	2	fb:cell_persen_penduduk_asli_laki_laki.9	9	9	9	CD	NUMBER	9.0	9.0				
+3	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+3	4	fb:cell_nomor_laki_laki_non_aborigin.4149	4149	4149	4149	CD	NUMBER	4149.0	4149.0	4149-xx-xx			
+3	5	fb:cell_persen_laki_laki_non_aborigin.91	91	91	91	CD	NUMBER	91.0	91.0				
+3	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+3	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.3	3	3	3	CD	NUMBER	3.0	3.0				
+3	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008._57_0	-57.0	-57.0	-57.0	CD	NUMBER	-57.0	57.0				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_nomor_asli_laki_laki.1903	1903	1903	1903	CD	DATE	1903	1903.0	1903-xx-xx			
+4	2	fb:cell_persen_penduduk_asli_laki_laki.5	5	5	5	CD	NUMBER	5.0	5.0				
+4	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+4	4	fb:cell_nomor_laki_laki_non_aborigin.38193	38193	38193	38193	CD	NUMBER	38193.0	38193.0				
+4	5	fb:cell_persen_laki_laki_non_aborigin.95	95	95	95	CD	NUMBER	95.0	95.0				
+4	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+4	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+4	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+4	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_nomor_asli_laki_laki.6822	6822	6822	6822	CD	NUMBER	6822.0	6822.0	6822-xx-xx			
+5	2	fb:cell_persen_penduduk_asli_laki_laki.11	11	11	11	CD	NUMBER	11.0	11.0				
+5	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+5	4	fb:cell_nomor_laki_laki_non_aborigin.53119	53119	53119	53119	CD	NUMBER	53119.0	53119.0				
+5	5	fb:cell_persen_laki_laki_non_aborigin.89	89	89	89	CD	NUMBER	89.0	89.0				
+5	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+5	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+5	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+5	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_nomor_asli_laki_laki.17066	17066	17066	17066	CD	NUMBER	17066.0	17066.0				
+6	2	fb:cell_persen_penduduk_asli_laki_laki.72	72	72	72	CD	NUMBER	72.0	72.0				
+6	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+6	4	fb:cell_nomor_laki_laki_non_aborigin.6500	6500	6500	6500	CD	NUMBER	6500.0	6500.0	6500-xx-xx			
+6	5	fb:cell_persen_laki_laki_non_aborigin.28	28	28	28	CD	NUMBER	28.0	28.0				
+6	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+6	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+6	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+6	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_nomor_asli_laki_laki.8000	8000	8000	8000	CD	NUMBER	8000.0	8000.0	8000-xx-xx			
+7	2	fb:cell_persen_penduduk_asli_laki_laki.73	73	73	73	CD	NUMBER	73.0	73.0				
+7	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+7	4	fb:cell_nomor_laki_laki_non_aborigin.2655	2655	2655	2655	CD	DATE	2655	2655.0	2655-xx-xx			
+7	5	fb:cell_persen_laki_laki_non_aborigin.24	24	24	24	CD	NUMBER	24.0	24.0				
+7	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+7	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.332	332	332	332	CD	NUMBER	332.0	332.0				
+7	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.3	3	3	3	CD	NUMBER	3.0	3.0				
+7	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_nomor_asli_laki_laki.13456	13456	13456	13456	CD	NUMBER	13456.0	13456.0				
+8	2	fb:cell_persen_penduduk_asli_laki_laki.38	38	38	38	CD	NUMBER	38.0	38.0				
+8	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+8	4	fb:cell_nomor_laki_laki_non_aborigin.21032	21032	21032	21032	CD	NUMBER	21032.0	21032.0				
+8	5	fb:cell_persen_laki_laki_non_aborigin.60	60	60	60	CD	NUMBER	60.0	60.0				
+8	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+8	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.469	469	469	469	CD	NUMBER	469.0	469.0				
+8	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.1	1	1	1	CD	NUMBER	1.0	1.0				
+8	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor_asli_laki_laki.7181	7181	7181	7181	CD	NUMBER	7181.0	7181.0	7181-xx-xx			
+9	2	fb:cell_persen_penduduk_asli_laki_laki.31	31	31	31	CD	NUMBER	31.0	31.0				
+9	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+9	4	fb:cell_nomor_laki_laki_non_aborigin.16011	16011	16011	16011	CD	NUMBER	16011.0	16011.0				
+9	5	fb:cell_persen_laki_laki_non_aborigin.69	69	69	69	CD	NUMBER	69.0	69.0				
+9	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+9	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.77	77	77	77	CD	NUMBER	77.0	77.0				
+9	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+9	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008._83_0	-83.0	-83.0	-83.0	CD	NUMBER	-83.0	83.0				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_nomor_asli_laki_laki.269	269	269	269	CD	NUMBER	269.0	269.0				
+10	2	fb:cell_persen_penduduk_asli_laki_laki.62	62	62	62	CD	NUMBER	62.0	62.0				
+10	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008._39_0	-39.0	-39.0	-39.0	CD	NUMBER	-39.0	39.0				
+10	4	fb:cell_nomor_laki_laki_non_aborigin.166	166	166	166	CD	NUMBER	166.0	166.0				
+10	5	fb:cell_persen_laki_laki_non_aborigin.38	38	38	38	CD	NUMBER	38.0	38.0				
+10	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+10	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_nomor_asli_laki_laki.846	846	846	846	CD	NUMBER	846.0	846.0				
+11	2	fb:cell_persen_penduduk_asli_laki_laki.86	86	86	86	CD	NUMBER	86.0	86.0				
+11	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+11	4	fb:cell_nomor_laki_laki_non_aborigin.123	123	123	123	CD	NUMBER	123.0	123.0				
+11	5	fb:cell_persen_laki_laki_non_aborigin.12	12	12	12	CD	NUMBER	12.0	12.0				
+11	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+11	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.20	20	20	20	CD	NUMBER	20.0	20.0				
+11	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.2	2	2	2	CD	NUMBER	2.0	2.0				
+11	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_nomor_asli_laki_laki.875	875	875	875	CD	NUMBER	875.0	875.0				
+12	2	fb:cell_persen_penduduk_asli_laki_laki.96	96	96	96	CD	NUMBER	96.0	96.0				
+12	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+12	4	fb:cell_nomor_laki_laki_non_aborigin.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	5	fb:cell_persen_laki_laki_non_aborigin.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008.null											
+12	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.40	40	40	40	CD	NUMBER	40.0	40.0				
+12	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.4	4	4	4	CD	NUMBER	4.0	4.0				
+12	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+13	0	fb:cell_kharakteristik.total_provinsi_dan_wilayah	total provinsi dan wilayah	total|provinsi|dan|wilayah	total|provinsi|dan|wilayah	JJ|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+13	1	fb:cell_nomor_asli_laki_laki.57414	57414	57414	57414	CD	NUMBER	57414.0	57414.0				
+13	2	fb:cell_persen_penduduk_asli_laki_laki.28	28	28	28	CD	NUMBER	28.0	28.0				
+13	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+13	4	fb:cell_nomor_laki_laki_non_aborigin.147312	147312	147312	147312	CD	NUMBER	147312.0	147312.0				
+13	5	fb:cell_persen_laki_laki_non_aborigin.72	72	72	72	CD	NUMBER	72.0	72.0				
+13	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+13	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.1148	1148	1148	1148	CD	DATE	1148	1148.0	1148-xx-xx			
+13	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.1	1	1	1	CD	NUMBER	1.0	1.0				
+13	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008._45_0	-45.0	-45.0	-45.0	CD	NUMBER	-45.0	45.0				
+14	0	fb:cell_kharakteristik.federal	federal	federal	federal	NNP	O						
+14	1	fb:cell_nomor_asli_laki_laki.1884	1884	1884	1884	CD	DATE	1884	1884.0	1884-xx-xx			
+14	2	fb:cell_persen_penduduk_asli_laki_laki.28	28	28	28	CD	NUMBER	28.0	28.0				
+14	3	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_dari_tahun_2007_2008.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+14	4	fb:cell_nomor_laki_laki_non_aborigin.4897	4897	4897	4897	CD	NUMBER	4897.0	4897.0	4897-xx-xx			
+14	5	fb:cell_persen_laki_laki_non_aborigin.72	72	72	72	CD	NUMBER	72.0	72.0				
+14	6	fb:cell_persentase_perubahan_jumlah_laki_laki_non_aborigin_dari_tahun_2007_2008._25_0	-25.0	-25.0	-25.0	CD	NUMBER	-25.0	25.0				
+14	7	fb:cell_nomor_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+14	8	fb:cell_persentase_identitas_penduduk_asli_laki_laki_yang_tidak_diketahui.0	0	0	0	CD	NUMBER	0.0	0.0				
+14	9	fb:cell_persen_perubahan_jumlah_penduduk_asli_laki_laki_yang_tidak_diketahui_identitasnya_dari_tahun_2007_2008.null											

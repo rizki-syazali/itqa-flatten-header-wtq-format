@@ -1,0 +1,71 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan	penjualan pengecer ganja non-medis dalam dolar yang tidak disesuaikan	penjualan|pengecer|ganja|non|medis|dalam|dolar|yang|tidak|disesuaikan	penjualan|pengecer|ganja|non|medis|dalam|dolar|yang|tidak|disesuaikan	NNP|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	2	fb:row.row.penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan	penjualan eceran ganja non-medis grosir dengan dolar yang tidak disesuaikan	penjualan|eceran|ganja|non|medis|grosir|dengan|dolar|yang|tidak|disesuaikan	penjualan|eceran|ganja|non|medis|grosir|dengan|dolar|yang|tidak|disesuaikan	NNP|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	3	fb:row.row.total_aktivitas_ritel_dolar_yang_belum_disesuaikan	total aktivitas ritel dolar yang belum disesuaikan	total|aktivitas|ritel|dolar|yang|belum|disesuaikan	total|aktivitas|ritel|dolar|yang|belum|disesuaikan	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen	proporsi pedagang grosir terhadap total aktivitas ritel persen	proporsi|pedagang|grosir|terhadap|total|aktivitas|ritel|persen	proporsi|pedagang|grosir|terhadap|total|aktivitas|ritel|persen	NN|NN|NN|NN|JJ|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.907833_0	907833.0	907833.0	907833.0	CD	NUMBER	907833.0	907833.0				
+0	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.17541_0	17541.0	17541.0	17541.0	CD	NUMBER	17541.0	17541.0				
+0	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.925374_0	925374.0	925374.0	925374.0	CD	NUMBER	925374.0	925374.0				
+0	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+1	0	fb:cell_kharakteristik.jumlah_september_2019	jumlah September 2019	jumlah|september|2019	jumlah|September|2019	NNP|NNP|CD	O|DATE|DATE	|2019-09|2019-09	2019.0				
+1	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.121453_0	121453.0	121453.0	121453.0	CD	NUMBER	121453.0	121453.0				
+1	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.904_0	904.0	904.0	904.0	CD	NUMBER	904.0	904.0				
+1	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.122357_0	122357.0	122357.0	122357.0	CD	NUMBER	122357.0	122357.0				
+1	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+2	0	fb:cell_kharakteristik.jumlah_agustus_2019	jumlah Agustus 2019	jumlah|agustus|2019	jumlah|Agustus|2019	NNP|NNP|CD	O|O|DATE	||2019	2019.0				
+2	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.124576_0	124576.0	124576.0	124576.0	CD	NUMBER	124576.0	124576.0				
+2	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.931_0	931.0	931.0	931.0	CD	NUMBER	931.0	931.0				
+2	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.125507_0	125507.0	125507.0	125507.0	CD	NUMBER	125507.0	125507.0				
+2	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+3	0	fb:cell_kharakteristik.total_juli_2019	total Juli 2019	total|juli|2019	total|Juli|2019	JJ|NNP|CD	O|O|DATE	||2019	2019.0				
+3	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.106065_0	106065.0	106065.0	106065.0	CD	NUMBER	106065.0	106065.0				
+3	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1095_0	1095.0	1095.0	1095.0	CD	NUMBER	1095.0	1095.0				
+3	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.107160_0	107160.0	107160.0	107160.0	CD	NUMBER	107160.0	107160.0				
+3	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+4	0	fb:cell_kharakteristik.jumlah_juni_2019	jumlah Juni 2019	jumlah|juni|2019	jumlah|Juni|2019	NNP|NNP|CD	O|O|DATE	||2019	2019.0				
+4	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.89811_0	89811.0	89811.0	89811.0	CD	NUMBER	89811.0	89811.0				
+4	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1232_0	1232.0	1232.0	1232.0	CD	NUMBER	1232.0	1232.0				
+4	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.91043_0	91043.0	91043.0	91043.0	CD	NUMBER	91043.0	91043.0				
+4	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+5	0	fb:cell_kharakteristik.total_mei_2019	total Mei 2019	total|mei|2019	total|mei|2019	JJ|NN|CD	O|O|DATE	||2019	2019.0				
+5	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.82384_0	82384.0	82384.0	82384.0	CD	NUMBER	82384.0	82384.0				
+5	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1377_0	1377.0	1377.0	1377.0	CD	NUMBER	1377.0	1377.0				
+5	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.83761_0	83761.0	83761.0	83761.0	CD	NUMBER	83761.0	83761.0				
+5	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+6	0	fb:cell_kharakteristik.jumlah_april_2019	jumlah April 2019	jumlah|april|2019	jumlah|April|2019	NNP|NNP|CD	O|DATE|DATE	|2019-04|2019-04	2019.0				
+6	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.72895_0	72895.0	72895.0	72895.0	CD	NUMBER	72895.0	72895.0				
+6	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1380_0	1380.0	1380.0	1380.0	CD	NUMBER	1380.0	1380.0				
+6	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.74275_0	74275.0	74275.0	74275.0	CD	NUMBER	74275.0	74275.0				
+6	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+7	0	fb:cell_kharakteristik.total_maret_2019	total Maret 2019	total|maret|2019	total|Maret|2019	JJ|NNP|CD	O|O|DATE	||2019	2019.0				
+7	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.59350_0	59350.0	59350.0	59350.0	CD	NUMBER	59350.0	59350.0				
+7	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1391_0	1391.0	1391.0	1391.0	CD	NUMBER	1391.0	1391.0				
+7	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.60741_0	60741.0	60741.0	60741.0	CD	NUMBER	60741.0	60741.0				
+7	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+8	0	fb:cell_kharakteristik.total_februari_2019	total Februari 2019	total|februari|2019	total|Februari|2019	JJ|NNP|CD	O|O|DATE	||2019	2019.0				
+8	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.50292_0	50292.0	50292.0	50292.0	CD	NUMBER	50292.0	50292.0				
+8	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1419_0	1419.0	1419.0	1419.0	CD	NUMBER	1419.0	1419.0				
+8	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.51711_0	51711.0	51711.0	51711.0	CD	NUMBER	51711.0	51711.0				
+8	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+9	0	fb:cell_kharakteristik.total_bulan_januari_2019	total bulan Januari 2019	total|bulan|januari|2019	total|bulan|Januari|2019	JJ|NN|NNP|CD	O|O|O|DATE	|||2019	2019.0				
+9	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.53294_0	53294.0	53294.0	53294.0	CD	NUMBER	53294.0	53294.0				
+9	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1796_0	1796.0	1796.0	1796.0	CD	NUMBER	1796.0	1796.0				
+9	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.55090_0	55090.0	55090.0	55090.0	CD	NUMBER	55090.0	55090.0				
+9	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+10	0	fb:cell_kharakteristik.total_bulan_desember_2018	total bulan Desember 2018	total|bulan|desember|2018	total|bulan|desember|2018	JJ|NN|NN|CD	O|O|O|DATE	|||2018	2018.0				
+10	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.55808_0	55808.0	55808.0	55808.0	CD	NUMBER	55808.0	55808.0				
+10	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.2005_0	2005.0	2005.0	2005.0	CD	NUMBER	2005.0	2005.0				
+10	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.57813_0	57813.0	57813.0	57813.0	CD	NUMBER	57813.0	57813.0				
+10	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+11	0	fb:cell_kharakteristik.jumlah_november_2018	jumlah November 2018	jumlah|november|2018	jumlah|November|2018	NNP|NNP|CD	O|DATE|DATE	|2018-11|2018-11	2018.0				
+11	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.52322_0	52322.0	52322.0	52322.0	CD	NUMBER	52322.0	52322.0				
+11	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.2409_0	2409.0	2409.0	2409.0	CD	NUMBER	2409.0	2409.0				
+11	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.54731_0	54731.0	54731.0	54731.0	CD	NUMBER	54731.0	54731.0				
+11	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+12	0	fb:cell_kharakteristik.total_bulan_oktober_2018	total bulan Oktober 2018	total|bulan|oktober|2018	total|bulan|Oktober|2018	JJ|NN|NNP|CD	O|O|O|DATE	|||2018	2018.0				
+12	1	fb:cell_penjualan_pengecer_ganja_non_medis_dalam_dolar_yang_tidak_disesuaikan.39583_0	39583.0	39583.0	39583.0	CD	NUMBER	39583.0	39583.0				
+12	2	fb:cell_penjualan_eceran_ganja_non_medis_grosir_dengan_dolar_yang_tidak_disesuaikan.1602_0	1602.0	1602.0	1602.0	CD	NUMBER	1602.0	1602.0				
+12	3	fb:cell_total_aktivitas_ritel_dolar_yang_belum_disesuaikan.41185_0	41185.0	41185.0	41185.0	CD	NUMBER	41185.0	41185.0				
+12	4	fb:cell_proporsi_pedagang_grosir_terhadap_total_aktivitas_ritel_persen.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				

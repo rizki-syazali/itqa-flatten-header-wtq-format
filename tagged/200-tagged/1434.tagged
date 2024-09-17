@@ -1,0 +1,71 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1999	1999	1999	1999	CD	DATE	1999					
+-1	2	fb:row.row.2005	2005	2005	2005	CD	DATE	2005					
+-1	3	fb:row.row.2012	2012	2012	2012	CD	DATE	2012					
+-1	4	fb:row.row.2016	2016	2016	2016	CD	DATE	2016					
+0	0	fb:cell_kharakteristik.kekayaan_median_dolar_2016	kekayaan median dolar 2016	kekayaan|median|dolar|2016	kekayaan|median|dolar|2016	NNP|JJ|NN|CD	O|O|O|DATE	|||2016	2016.0				
+0	1	fb:cell_1999.null											
+0	2	fb:cell_2005.null											
+0	3	fb:cell_2012.null											
+0	4	fb:cell_2016.null											
+1	0	fb:cell_kharakteristik.kekayaan_rata_rata_dolar_tahun_2016_a_kelompok_keluarga_imigran_baru_tahun_1999	kekayaan rata-rata dolar tahun 2016 a) kelompok keluarga imigran baru tahun 1999	kekayaan|rata|rata|dolar|tahun|2016|a|-rrb-|kelompok|keluarga|imigran|baru|tahun|1999	kekayaan|rata|rata|dolar|tahun|2016|a|-rrb-|kelompok|keluarga|imigran|baru|tahun|1999	NNP|JJ|JJ|NNP|NNP|CD|DT|-RRB-|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE|O|O|O|O|O|O|O|DATE	|||||2016||||||||1999	2016.0		1999.0		
+1	1	fb:cell_1999.27263_0	27263.0	27263.0	27263.0	CD	NUMBER	27263.0	27263.0				
+1	2	fb:cell_2005.170400_0	170400.0	170400.0	170400.0	CD	NUMBER	170400.0	170400.0				
+1	3	fb:cell_2012.325800_0	325800.0	325800.0	325800.0	CD	NUMBER	325800.0	325800.0				
+1	4	fb:cell_2016.504009_0	504009.0	504009.0	504009.0	CD	NUMBER	504009.0	504009.0				
+2	0	fb:cell_kharakteristik.kekayaan_rata_rata_dolar_tahun_2016_b_kelompok_keluarga_kelahiran_kanada_tahun_1999	kekayaan rata-rata dolar tahun 2016 b) kelompok keluarga kelahiran Kanada tahun 1999	kekayaan|rata|rata|dolar|tahun|2016|b|-rrb-|kelompok|keluarga|kelahiran|kanada|tahun|1999	kekayaan|rata|rata|dolar|tahun|2016|b|-rrb-|kelompok|keluarga|kelahiran|Kanada|tahun|1999	NNP|JJ|JJ|NNP|NNP|CD|NN|-RRB-|NN|NN|NNP|NNP|NNP|CD	O|O|O|O|O|DATE|O|O|O|O|O|O|O|DATE	|||||2016||||||||1999	2016.0		1999.0		
+2	1	fb:cell_1999.88733_0	88733.0	88733.0	88733.0	CD	NUMBER	88733.0	88733.0				
+2	2	fb:cell_2005.182917_0	182917.0	182917.0	182917.0	CD	NUMBER	182917.0	182917.0				
+2	3	fb:cell_2012.395645_0	395645.0	395645.0	395645.0	CD	NUMBER	395645.0	395645.0				
+2	4	fb:cell_2016.520163_0	520163.0	520163.0	520163.0	CD	NUMBER	520163.0	520163.0				
+3	0	fb:cell_kharakteristik.perbedaan_kekayaan_relatif_kekayaan_median_dolar_2016	Perbedaan kekayaan relatif kekayaan median dolar 2016	perbedaan|kekayaan|relatif|kekayaan|median|dolar|2016	perbedaan|kekayaan|relatif|kekayaan|median|dolar|2016	JJ|NN|NN|NN|JJ|JJ|CD	O|O|O|O|O|O|DATE	||||||2016	2016.0				
+3	1	fb:cell_1999.3_25	3.25	3.25	3.25	CD	NUMBER	3.25	3.25				
+3	2	fb:cell_2005.1_07	1.07	1.07	1.07	CD	NUMBER	1.07	1.07				
+3	3	fb:cell_2012.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+3	4	fb:cell_2016.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+4	0	fb:cell_kharakteristik.persen_persentase_keluarga_yang_mempunyai_tempat_tinggal_utama	persen persentase keluarga yang mempunyai tempat tinggal utama	persen|persentase|keluarga|yang|mempunyai|tempat|tinggal|utama	persen|persentase|keluarga|yang|mempunyai|tempat|tinggal|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+4	1	fb:cell_1999.null											
+4	2	fb:cell_2005.null											
+4	3	fb:cell_2012.null											
+4	4	fb:cell_2016.null											
+5	0	fb:cell_kharakteristik.persen_persentase_keluarga_dengan_tempat_tinggal_utama_kelompok_keluarga_imigran_baru_pada_tahun_1999	persen persentase keluarga dengan tempat tinggal utama Kelompok keluarga imigran baru pada tahun 1999	persen|persentase|keluarga|dengan|tempat|tinggal|utama|kelompok|keluarga|imigran|baru|pada|tahun|1999	persen|persentase|keluarga|dengan|tempat|tinggal|utama|Kelompok|keluarga|imigran|baru|pada|tahun|1999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|O|O|O|DATE	|||||||||||||1999	1999.0				
+5	1	fb:cell_1999.31_2	31.2	31.2	31.2	CD	NUMBER	31.2	31.2				
+5	2	fb:cell_2005.60_3	60.3	60.3	60.3	CD	NUMBER	60.3	60.3				
+5	3	fb:cell_2012.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+5	4	fb:cell_2016.78_7	78.7	78.7	78.7	CD	NUMBER	78.7	78.7				
+6	0	fb:cell_kharakteristik.persen_persentase_keluarga_dengan_tempat_tinggal_utama_kelompok_keluarga_kelahiran_kanada_tahun_1999	persen persentase keluarga dengan tempat tinggal utama kelompok keluarga kelahiran Kanada tahun 1999	persen|persentase|keluarga|dengan|tempat|tinggal|utama|kelompok|keluarga|kelahiran|kanada|tahun|1999	persen|persentase|keluarga|dengan|tempat|tinggal|utama|kelompok|keluarga|kelahiran|Kanada|tahun|1999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|O|O|DATE	||||||||||||1999	1999.0				
+6	1	fb:cell_1999.56_4	56.4	56.4	56.4	CD	NUMBER	56.4	56.4				
+6	2	fb:cell_2005.72_1	72.1	72.1	72.1	CD	NUMBER	72.1	72.1				
+6	3	fb:cell_2012.73_5	73.5	73.5	73.5	CD	NUMBER	73.5	73.5				
+6	4	fb:cell_2016.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+7	0	fb:cell_kharakteristik.persen_persentase_keluarga_yang_memiliki_aset_rpp	persen persentase keluarga yang memiliki aset rpp	persen|persentase|keluarga|yang|memiliki|aset|rpp	persen|persentase|keluarga|yang|memiliki|aset|rpp	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+7	1	fb:cell_1999.null											
+7	2	fb:cell_2005.null											
+7	3	fb:cell_2012.null											
+7	4	fb:cell_2016.null											
+8	0	fb:cell_kharakteristik.persen_persentase_keluarga_dengan_aset_rpp_kelompok_keluarga_imigran_baru_tahun_1999	persen persentase keluarga dengan aset rpp kelompok keluarga imigran baru tahun 1999	persen|persentase|keluarga|dengan|aset|rpp|kelompok|keluarga|imigran|baru|tahun|1999	persen|persentase|keluarga|dengan|aset|rpp|kelompok|keluarga|imigran|baru|tahun|1999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|O|DATE	|||||||||||1999	1999.0				
+8	1	fb:cell_1999.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+8	2	fb:cell_2005.29_6	29.6	29.6	29.6	CD	NUMBER	29.6	29.6				
+8	3	fb:cell_2012.33_2	33.2	33.2	33.2	CD	NUMBER	33.2	33.2				
+8	4	fb:cell_2016.46_6	46.6	46.6	46.6	CD	NUMBER	46.6	46.6				
+9	0	fb:cell_kharakteristik.persen_persentase_keluarga_dengan_aset_rpp_kohort_keluarga_lahir_kanada_tahun_1999	persen persentase keluarga dengan aset rpp kohort keluarga lahir Kanada tahun 1999	persen|persentase|keluarga|dengan|aset|rpp|kohort|keluarga|lahir|kanada|tahun|1999	persen|persentase|keluarga|dengan|aset|rpp|kohort|keluarga|lahir|Kanada|tahun|1999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|O|DATE	|||||||||||1999	1999.0				
+9	1	fb:cell_1999.45_7	45.7	45.7	45.7	CD	NUMBER	45.7	45.7				
+9	2	fb:cell_2005.52_2	52.2	52.2	52.2	CD	NUMBER	52.2	52.2				
+9	3	fb:cell_2012.57_9	57.9	57.9	57.9	CD	NUMBER	57.9	57.9				
+9	4	fb:cell_2016.61_2	61.2	61.2	61.2	CD	NUMBER	61.2	61.2				
+10	0	fb:cell_kharakteristik.jumlah_observasi_ukuran_sampel	jumlah observasi ukuran sampel	jumlah|observasi|ukuran|sampel	jumlah|observasi|ukuran|sampel	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_1999.null											
+10	2	fb:cell_2005.null											
+10	3	fb:cell_2012.null											
+10	4	fb:cell_2016.null											
+11	0	fb:cell_kharakteristik.jumlah_pengamatan_ukuran_sampel_kelompok_keluarga_imigran_baru_tahun_1999	jumlah pengamatan ukuran sampel kelompok keluarga imigran baru tahun 1999	jumlah|pengamatan|ukuran|sampel|kelompok|keluarga|imigran|baru|tahun|1999	jumlah|pengamatan|ukuran|sampel|kelompok|keluarga|imigran|baru|tahun|1999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|DATE	|||||||||1999	1999.0				
+11	1	fb:cell_1999.390_0	390.0	390.0	390.0	CD	NUMBER	390.0	390.0				
+11	2	fb:cell_2005.119_0	119.0	119.0	119.0	CD	NUMBER	119.0	119.0				
+11	3	fb:cell_2012.206_0	206.0	206.0	206.0	CD	NUMBER	206.0	206.0				
+11	4	fb:cell_2016.255_0	255.0	255.0	255.0	CD	NUMBER	255.0	255.0				
+12	0	fb:cell_kharakteristik.jumlah_pengamatan_ukuran_sampel_kohort_keluarga_kelahiran_kanada_tahun_1999	jumlah pengamatan ukuran sampel kohort keluarga kelahiran Kanada tahun 1999	jumlah|pengamatan|ukuran|sampel|kohort|keluarga|kelahiran|kanada|tahun|1999	jumlah|pengamatan|ukuran|sampel|kohort|keluarga|kelahiran|Kanada|tahun|1999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|DATE	|||||||||1999	1999.0				
+12	1	fb:cell_1999.5454_0	5454.0	5454.0	5454.0	CD	NUMBER	5454.0	5454.0				
+12	2	fb:cell_2005.1700_0	1700.0	1700.0	1700.0	CD	NUMBER	1700.0	1700.0				
+12	3	fb:cell_2012.3752_0	3752.0	3752.0	3752.0	CD	NUMBER	3752.0	3752.0				
+12	4	fb:cell_2016.3701_0	3701.0	3701.0	3701.0	CD	NUMBER	3701.0	3701.0				

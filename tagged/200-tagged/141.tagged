@@ -1,0 +1,248 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pembukaan_bisnis_nomor_april_2019	pembukaan bisnis nomor april 2019	pembukaan|bisnis|nomor|april|2019	pembukaan|bisnis|nomor|april|2019	NNP|NNP|NNP|NNP|CD	O|O|O|DATE|DATE	|||2019-04|2019-04					
+-1	2	fb:row.row.pembukaan_bisnis_nomor_20_april	pembukaan bisnis nomor 20 April	pembukaan|bisnis|nomor|20|april	pembukaan|bisnis|nomor|20|April	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|DATE	|||XXXX-04-20|XXXX-04-20					
+-1	3	fb:row.row.pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020	pembukaan usaha berubah dari nomor april 2019 menjadi nomor april 2020	pembukaan|usaha|berubah|dari|nomor|april|2019|menjadi|nomor|april|2020	pembukaan|usaha|berubah|dari|nomor|april|2019|menjadi|nomor|april|2020	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|CD	O|O|O|O|O|DATE|DATE|O|O|DATE|DATE	|||||2019-04|2019-04|||2020-04|2020-04					
+-1	4	fb:row.row.perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen	perubahan pembukaan usaha dari april 2019 ke april 2020 persen	perubahan|pembukaan|usaha|dari|april|2019|ke|april|2020|persen	perubahan|pembukaan|usaha|dari|april|2019|ke|april|2020|persen	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|CD|NNP	O|O|O|O|DATE|DATE|O|DATE|DATE|O	||||2019-04|2019-04||2020-04|2020-04|					
+-1	5	fb:row.row.penutupan_bisnis_nomor_19_april	penutupan bisnis nomor 19 April	penutupan|bisnis|nomor|19|april	penutupan|bisnis|nomor|19|April	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|DATE	|||XXXX-04-19|XXXX-04-19					
+-1	6	fb:row.row.penutupan_bisnis_nomor_20_april	penutupan bisnis nomor 20 April	penutupan|bisnis|nomor|20|april	penutupan|bisnis|nomor|20|April	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|DATE	|||XXXX-04-20|XXXX-04-20					
+-1	7	fb:row.row.penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020	penutupan usaha berubah dari nomor april 2019 menjadi nomor april 2020	penutupan|usaha|berubah|dari|nomor|april|2019|menjadi|nomor|april|2020	penutupan|usaha|berubah|dari|nomor|april|2019|menjadi|nomor|april|2020	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|CD	O|O|O|O|O|DATE|DATE|O|O|DATE|DATE	|||||2019-04|2019-04|||2020-04|2020-04					
+-1	8	fb:row.row.penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen	penutupan usaha berubah dari april 2019 menjadi april 2020 persen	penutupan|usaha|berubah|dari|april|2019|menjadi|april|2020|persen	penutupan|usaha|berubah|dari|april|2019|menjadi|april|2020|persen	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|CD|NNP	O|O|O|O|DATE|DATE|O|DATE|DATE|O	||||2019-04|2019-04||2020-04|2020-04|					
+-1	9	fb:row.row.bisnis_aktif_nomor_19_april	bisnis aktif nomor 19 April	bisnis|aktif|nomor|19|april	bisnis|aktif|nomor|19|April	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|DATE	|||XXXX-04-19|XXXX-04-19					
+-1	10	fb:row.row.bisnis_aktif_nomor_20_april	bisnis aktif nomor 20 April	bisnis|aktif|nomor|20|april	bisnis|aktif|nomor|20|April	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|DATE	|||XXXX-04-20|XXXX-04-20					
+-1	11	fb:row.row.perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020	perubahan bisnis aktif dari nomor april 2019 ke nomor april 2020	perubahan|bisnis|aktif|dari|nomor|april|2019|ke|nomor|april|2020	perubahan|bisnis|aktif|dari|nomor|april|2019|ke|nomor|april|2020	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|CD	O|O|O|O|O|DATE|DATE|O|O|DATE|DATE	|||||2019-04|2019-04|||2020-04|2020-04					
+-1	12	fb:row.row.perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen	perubahan bisnis aktif dari April 2019 hingga April 2020 persen	perubahan|bisnis|aktif|dari|april|2019|hingga|april|2020|persen	perubahan|bisnis|aktif|dari|April|2019|hingga|April|2020|persen	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|CD|NNP	O|O|O|O|DATE|DATE|O|DATE|DATE|O	||||2019-04|2019-04||2020-04|2020-04|					
+0	0	fb:cell_kharakteristik.sektor_bisnis	sektor bisnis	sektor|bisnis	sektor|bisnis	NNP|NNP	O|O	|					
+0	1	fb:cell_pembukaan_bisnis_nomor_april_2019.40136_0	40136.0	40136.0	40136.0	CD	NUMBER	40136.0	40136.0				
+0	2	fb:cell_pembukaan_bisnis_nomor_20_april.32803_0	32803.0	32803.0	32803.0	CD	NUMBER	32803.0	32803.0				
+0	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.7333_0	7333.0	7333.0	7333.0	CD	NUMBER	7333.0	7333.0				
+0	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._18_3	-18.3	-18.3	-18.3	CD	NUMBER	-18.3	18.3				
+0	5	fb:cell_penutupan_bisnis_nomor_19_april.39078_0	39078.0	39078.0	39078.0	CD	NUMBER	39078.0	39078.0				
+0	6	fb:cell_penutupan_bisnis_nomor_20_april.88187_0	88187.0	88187.0	88187.0	CD	NUMBER	88187.0	88187.0				
+0	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.49109_0	49109.0	49109.0	49109.0	CD	NUMBER	49109.0	49109.0				
+0	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.125_7	125.7	125.7	125.7	CD	NUMBER	125.7	125.7				
+0	9	fb:cell_bisnis_aktif_nomor_19_april.798379_0	798379.0	798379.0	798379.0	CD	NUMBER	798379.0	798379.0				
+0	10	fb:cell_bisnis_aktif_nomor_20_april.711472_0	711472.0	711472.0	711472.0	CD	NUMBER	711472.0	711472.0				
+0	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._86907_0	-86907.0	-86907.0	-86907.0	CD	NUMBER	-86907.0	86907.0				
+0	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._10_9	-10.9	-10.9	-10.9	CD	NUMBER	-10.9	10.9				
+1	0	fb:cell_kharakteristik.pertanian_kehutanan_perikanan_dan_perburuan	pertanian, kehutanan, perikanan dan perburuan	pertanian|,|kehutanan|,|perikanan|dan|perburuan	pertanian|,|kehutanan|,|perikanan|dan|perburuan	NNP|,|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				pertanian|kehutanan|perikanan dan perburuan	fb:part_kharakteristik.pertanian|fb:part_kharakteristik.kehutanan|fb:part_kharakteristik.perikanan_dan_perburuan
+1	1	fb:cell_pembukaan_bisnis_nomor_april_2019.311_0	311.0	311.0	311.0	CD	NUMBER	311.0	311.0				
+1	2	fb:cell_pembukaan_bisnis_nomor_20_april.253_0	253.0	253.0	253.0	CD	NUMBER	253.0	253.0				
+1	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._58_0	-58.0	-58.0	-58.0	CD	NUMBER	-58.0	58.0				
+1	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._18_6	-18.6	-18.6	-18.6	CD	NUMBER	-18.6	18.6				
+1	5	fb:cell_penutupan_bisnis_nomor_19_april.282_0	282.0	282.0	282.0	CD	NUMBER	282.0	282.0				
+1	6	fb:cell_penutupan_bisnis_nomor_20_april.441_0	441.0	441.0	441.0	CD	NUMBER	441.0	441.0				
+1	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.159_0	159.0	159.0	159.0	CD	NUMBER	159.0	159.0				
+1	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+1	9	fb:cell_bisnis_aktif_nomor_19_april.4768_0	4768.0	4768.0	4768.0	CD	NUMBER	4768.0	4768.0				
+1	10	fb:cell_bisnis_aktif_nomor_20_april.4274_0	4274.0	4274.0	4274.0	CD	NUMBER	4274.0	4274.0				
+1	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._495_0	-495.0	-495.0	-495.0	CD	NUMBER	-495.0	495.0				
+1	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._10_4	-10.4	-10.4	-10.4	CD	NUMBER	-10.4	10.4				
+2	0	fb:cell_kharakteristik.pertambangan_penggalian_ekstraksi_minyak_dan_gas	pertambangan, penggalian, ekstraksi minyak dan gas	pertambangan|,|penggalian|,|ekstraksi|minyak|dan|gas	pertambangan|,|penggalian|,|ekstraksi|minyak|dan|gas	NNP|,|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				pertambangan|penggalian|ekstraksi minyak dan gas	fb:part_kharakteristik.pertambangan|fb:part_kharakteristik.penggalian|fb:part_kharakteristik.ekstraksi_minyak_dan_gas
+2	1	fb:cell_pembukaan_bisnis_nomor_april_2019.279_0	279.0	279.0	279.0	CD	NUMBER	279.0	279.0				
+2	2	fb:cell_pembukaan_bisnis_nomor_20_april.235_0	235.0	235.0	235.0	CD	NUMBER	235.0	235.0				
+2	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._44_0	-44.0	-44.0	-44.0	CD	NUMBER	-44.0	44.0				
+2	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._15_8	-15.8	-15.8	-15.8	CD	NUMBER	-15.8	15.8				
+2	5	fb:cell_penutupan_bisnis_nomor_19_april.282_0	282.0	282.0	282.0	CD	NUMBER	282.0	282.0				
+2	6	fb:cell_penutupan_bisnis_nomor_20_april.416_0	416.0	416.0	416.0	CD	NUMBER	416.0	416.0				
+2	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.134_0	134.0	134.0	134.0	CD	NUMBER	134.0	134.0				
+2	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.47_6	47.6	47.6	47.6	CD	NUMBER	47.6	47.6				
+2	9	fb:cell_bisnis_aktif_nomor_19_april.6057_0	6057.0	6057.0	6057.0	CD	NUMBER	6057.0	6057.0				
+2	10	fb:cell_bisnis_aktif_nomor_20_april.5416_0	5416.0	5416.0	5416.0	CD	NUMBER	5416.0	5416.0				
+2	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._640_0	-640.0	-640.0	-640.0	CD	NUMBER	-640.0	640.0				
+2	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._10_6	-10.6	-10.6	-10.6	CD	NUMBER	-10.6	10.6				
+3	0	fb:cell_kharakteristik.utilitas	utilitas	utilitas	utilitas	NNP	O						
+3	1	fb:cell_pembukaan_bisnis_nomor_april_2019.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+3	2	fb:cell_pembukaan_bisnis_nomor_20_april.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+3	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+3	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._43_9	-43.9	-43.9	-43.9	CD	NUMBER	-43.9	43.9				
+3	5	fb:cell_penutupan_bisnis_nomor_19_april.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+3	6	fb:cell_penutupan_bisnis_nomor_20_april.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+3	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+3	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.57_1	57.1	57.1	57.1	CD	NUMBER	57.1	57.1				
+3	9	fb:cell_bisnis_aktif_nomor_19_april.728_0	728.0	728.0	728.0	CD	NUMBER	728.0	728.0				
+3	10	fb:cell_bisnis_aktif_nomor_20_april.673_0	673.0	673.0	673.0	CD	NUMBER	673.0	673.0				
+3	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._55_0	-55.0	-55.0	-55.0	CD	NUMBER	-55.0	55.0				
+3	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._7_6	-7.6	-7.6	-7.6	CD	NUMBER	-7.6	7.6				
+4	0	fb:cell_kharakteristik.konstruksi	konstruksi	konstruksi	konstruksi	NNP	O						
+4	1	fb:cell_pembukaan_bisnis_nomor_april_2019.5954_0	5954.0	5954.0	5954.0	CD	NUMBER	5954.0	5954.0				
+4	2	fb:cell_pembukaan_bisnis_nomor_20_april.3971_0	3971.0	3971.0	3971.0	CD	NUMBER	3971.0	3971.0				
+4	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._1982_0	-1982.0	-1982.0	-1982.0	CD	NUMBER	-1982.0	1982.0				
+4	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._33_3	-33.3	-33.3	-33.3	CD	NUMBER	-33.3	33.3				
+4	5	fb:cell_penutupan_bisnis_nomor_19_april.6160_0	6160.0	6160.0	6160.0	CD	NUMBER	6160.0	6160.0				
+4	6	fb:cell_penutupan_bisnis_nomor_20_april.12837_0	12837.0	12837.0	12837.0	CD	NUMBER	12837.0	12837.0				
+4	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.6677_0	6677.0	6677.0	6677.0	CD	NUMBER	6677.0	6677.0				
+4	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.108_4	108.4	108.4	108.4	CD	NUMBER	108.4	108.4				
+4	9	fb:cell_bisnis_aktif_nomor_19_april.117476_0	117476.0	117476.0	117476.0	CD	NUMBER	117476.0	117476.0				
+4	10	fb:cell_bisnis_aktif_nomor_20_april.103713_0	103713.0	103713.0	103713.0	CD	NUMBER	103713.0	103713.0				
+4	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._13763_0	-13763.0	-13763.0	-13763.0	CD	NUMBER	-13763.0	13763.0				
+4	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._11_7	-11.7	-11.7	-11.7	CD	NUMBER	-11.7	11.7				
+5	0	fb:cell_kharakteristik.manufaktur	manufaktur	manufaktur	manufaktur	NN	O						
+5	1	fb:cell_pembukaan_bisnis_nomor_april_2019.1116_0	1116.0	1116.0	1116.0	CD	NUMBER	1116.0	1116.0				
+5	2	fb:cell_pembukaan_bisnis_nomor_20_april.914_0	914.0	914.0	914.0	CD	NUMBER	914.0	914.0				
+5	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._202_0	-202.0	-202.0	-202.0	CD	NUMBER	-202.0	202.0				
+5	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._18_1	-18.1	-18.1	-18.1	CD	NUMBER	-18.1	18.1				
+5	5	fb:cell_penutupan_bisnis_nomor_19_april.1157_0	1157.0	1157.0	1157.0	CD	NUMBER	1157.0	1157.0				
+5	6	fb:cell_penutupan_bisnis_nomor_20_april.3178_0	3178.0	3178.0	3178.0	CD	NUMBER	3178.0	3178.0				
+5	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.2021_0	2021.0	2021.0	2021.0	CD	NUMBER	2021.0	2021.0				
+5	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.174_7	174.7	174.7	174.7	CD	NUMBER	174.7	174.7				
+5	9	fb:cell_bisnis_aktif_nomor_19_april.42582_0	42582.0	42582.0	42582.0	CD	NUMBER	42582.0	42582.0				
+5	10	fb:cell_bisnis_aktif_nomor_20_april.38903_0	38903.0	38903.0	38903.0	CD	NUMBER	38903.0	38903.0				
+5	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._3679_0	-3679.0	-3679.0	-3679.0	CD	NUMBER	-3679.0	3679.0				
+5	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._8_6	-8.6	-8.6	-8.6	CD	NUMBER	-8.6	8.6				
+6	0	fb:cell_kharakteristik.perdagangan_grosir	perdagangan grosir	perdagangan|grosir	perdagangan|grosir	NNP|NNP	O|O	|					
+6	1	fb:cell_pembukaan_bisnis_nomor_april_2019.1074_0	1074.0	1074.0	1074.0	CD	NUMBER	1074.0	1074.0				
+6	2	fb:cell_pembukaan_bisnis_nomor_20_april.858_0	858.0	858.0	858.0	CD	NUMBER	858.0	858.0				
+6	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._215_0	-215.0	-215.0	-215.0	CD	NUMBER	-215.0	215.0				
+6	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+6	5	fb:cell_penutupan_bisnis_nomor_19_april.1141_0	1141.0	1141.0	1141.0	CD	NUMBER	1141.0	1141.0				
+6	6	fb:cell_penutupan_bisnis_nomor_20_april.2672_0	2672.0	2672.0	2672.0	CD	NUMBER	2672.0	2672.0				
+6	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.1531_0	1531.0	1531.0	1531.0	CD	NUMBER	1531.0	1531.0				
+6	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.134_2	134.2	134.2	134.2	CD	NUMBER	134.2	134.2				
+6	9	fb:cell_bisnis_aktif_nomor_19_april.39521_0	39521.0	39521.0	39521.0	CD	NUMBER	39521.0	39521.0				
+6	10	fb:cell_bisnis_aktif_nomor_20_april.35807_0	35807.0	35807.0	35807.0	CD	NUMBER	35807.0	35807.0				
+6	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._3714_0	-3714.0	-3714.0	-3714.0	CD	NUMBER	-3714.0	3714.0				
+6	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._9_4	-9.4	-9.4	-9.4	CD	NUMBER	-9.4	9.4				
+7	0	fb:cell_kharakteristik.perdagangan_eceran	perdagangan eceran	perdagangan|eceran	perdagangan|eceran	NNP|NNP	O|O	|					
+7	1	fb:cell_pembukaan_bisnis_nomor_april_2019.2715_0	2715.0	2715.0	2715.0	CD	NUMBER	2715.0	2715.0				
+7	2	fb:cell_pembukaan_bisnis_nomor_20_april.2266_0	2266.0	2266.0	2266.0	CD	NUMBER	2266.0	2266.0				
+7	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._449_0	-449.0	-449.0	-449.0	CD	NUMBER	-449.0	449.0				
+7	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._16_5	-16.5	-16.5	-16.5	CD	NUMBER	-16.5	16.5				
+7	5	fb:cell_penutupan_bisnis_nomor_19_april.2818_0	2818.0	2818.0	2818.0	CD	NUMBER	2818.0	2818.0				
+7	6	fb:cell_penutupan_bisnis_nomor_20_april.8951_0	8951.0	8951.0	8951.0	CD	NUMBER	8951.0	8951.0				
+7	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.6133_0	6133.0	6133.0	6133.0	CD	NUMBER	6133.0	6133.0				
+7	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.217_7	217.7	217.7	217.7	CD	NUMBER	217.7	217.7				
+7	9	fb:cell_bisnis_aktif_nomor_19_april.86279_0	86279.0	86279.0	86279.0	CD	NUMBER	86279.0	86279.0				
+7	10	fb:cell_bisnis_aktif_nomor_20_april.75503_0	75503.0	75503.0	75503.0	CD	NUMBER	75503.0	75503.0				
+7	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._10776_0	-10776.0	-10776.0	-10776.0	CD	NUMBER	-10776.0	10776.0				
+7	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._12_5	-12.5	-12.5	-12.5	CD	NUMBER	-12.5	12.5				
+8	0	fb:cell_kharakteristik.transportasi_dan_pergudangan	transportasi dan pergudangan	transportasi|dan|pergudangan	transportasi|dan|pergudangan	NNP|NNP|NNP	O|PERSON|PERSON	||					
+8	1	fb:cell_pembukaan_bisnis_nomor_april_2019.3103_0	3103.0	3103.0	3103.0	CD	NUMBER	3103.0	3103.0				
+8	2	fb:cell_pembukaan_bisnis_nomor_20_april.2586_0	2586.0	2586.0	2586.0	CD	NUMBER	2586.0	2586.0				
+8	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._517_0	-517.0	-517.0	-517.0	CD	NUMBER	-517.0	517.0				
+8	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._16_7	-16.7	-16.7	-16.7	CD	NUMBER	-16.7	16.7				
+8	5	fb:cell_penutupan_bisnis_nomor_19_april.3107_0	3107.0	3107.0	3107.0	CD	NUMBER	3107.0	3107.0				
+8	6	fb:cell_penutupan_bisnis_nomor_20_april.5511_0	5511.0	5511.0	5511.0	CD	NUMBER	5511.0	5511.0				
+8	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.2405_0	2405.0	2405.0	2405.0	CD	NUMBER	2405.0	2405.0				
+8	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+8	9	fb:cell_bisnis_aktif_nomor_19_april.51165_0	51165.0	51165.0	51165.0	CD	NUMBER	51165.0	51165.0				
+8	10	fb:cell_bisnis_aktif_nomor_20_april.45412_0	45412.0	45412.0	45412.0	CD	NUMBER	45412.0	45412.0				
+8	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._5753_0	-5753.0	-5753.0	-5753.0	CD	NUMBER	-5753.0	5753.0				
+8	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._11_2	-11.2	-11.2	-11.2	CD	NUMBER	-11.2	11.2				
+9	0	fb:cell_kharakteristik.industri_informasi_dan_budaya	industri informasi dan budaya	industri|informasi|dan|budaya	industri|informasi|dan|budaya	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+9	1	fb:cell_pembukaan_bisnis_nomor_april_2019.497_0	497.0	497.0	497.0	CD	NUMBER	497.0	497.0				
+9	2	fb:cell_pembukaan_bisnis_nomor_20_april.405_0	405.0	405.0	405.0	CD	NUMBER	405.0	405.0				
+9	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._92_0	-92.0	-92.0	-92.0	CD	NUMBER	-92.0	92.0				
+9	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._18_5	-18.5	-18.5	-18.5	CD	NUMBER	-18.5	18.5				
+9	5	fb:cell_penutupan_bisnis_nomor_19_april.479_0	479.0	479.0	479.0	CD	NUMBER	479.0	479.0				
+9	6	fb:cell_penutupan_bisnis_nomor_20_april.918_0	918.0	918.0	918.0	CD	NUMBER	918.0	918.0				
+9	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.439_0	439.0	439.0	439.0	CD	NUMBER	439.0	439.0				
+9	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.91_7	91.7	91.7	91.7	CD	NUMBER	91.7	91.7				
+9	9	fb:cell_bisnis_aktif_nomor_19_april.10142_0	10142.0	10142.0	10142.0	CD	NUMBER	10142.0	10142.0				
+9	10	fb:cell_bisnis_aktif_nomor_20_april.9323_0	9323.0	9323.0	9323.0	CD	NUMBER	9323.0	9323.0				
+9	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._819_0	-819.0	-819.0	-819.0	CD	NUMBER	-819.0	819.0				
+9	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._8_1	-8.1	-8.1	-8.1	CD	NUMBER	-8.1	8.1				
+10	0	fb:cell_kharakteristik.real_estat_dan_persewaan_dan_persewaan	real estat dan persewaan dan persewaan	real|estat|dan|persewaan|dan|persewaan	real|estat|dan|persewaan|dan|persewaan	JJ|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_pembukaan_bisnis_nomor_april_2019.2176_0	2176.0	2176.0	2176.0	CD	NUMBER	2176.0	2176.0				
+10	2	fb:cell_pembukaan_bisnis_nomor_20_april.1826_0	1826.0	1826.0	1826.0	CD	NUMBER	1826.0	1826.0				
+10	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._350_0	-350.0	-350.0	-350.0	CD	NUMBER	-350.0	350.0				
+10	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._16_1	-16.1	-16.1	-16.1	CD	NUMBER	-16.1	16.1				
+10	5	fb:cell_penutupan_bisnis_nomor_19_april.2268_0	2268.0	2268.0	2268.0	CD	NUMBER	2268.0	2268.0				
+10	6	fb:cell_penutupan_bisnis_nomor_20_april.4145_0	4145.0	4145.0	4145.0	CD	NUMBER	4145.0	4145.0				
+10	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.1877_0	1877.0	1877.0	1877.0	CD	NUMBER	1877.0	1877.0				
+10	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.82_8	82.8	82.8	82.8	CD	NUMBER	82.8	82.8				
+10	9	fb:cell_bisnis_aktif_nomor_19_april.40278_0	40278.0	40278.0	40278.0	CD	NUMBER	40278.0	40278.0				
+10	10	fb:cell_bisnis_aktif_nomor_20_april.36064_0	36064.0	36064.0	36064.0	CD	NUMBER	36064.0	36064.0				
+10	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._4214_0	-4214.0	-4214.0	-4214.0	CD	NUMBER	-4214.0	4214.0				
+10	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._10_5	-10.5	-10.5	-10.5	CD	NUMBER	-10.5	10.5				
+11	0	fb:cell_kharakteristik.layanan_profesional_ilmiah_dan_teknis	layanan profesional, ilmiah dan teknis	layanan|profesional|,|ilmiah|dan|teknis	layanan|profesional|,|ilmiah|dan|teknis	NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O	|||||				layanan profesional|ilmiah dan teknis	fb:part_kharakteristik.layanan_profesional|fb:part_kharakteristik.ilmiah_dan_teknis
+11	1	fb:cell_pembukaan_bisnis_nomor_april_2019.5963_0	5963.0	5963.0	5963.0	CD	NUMBER	5963.0	5963.0				
+11	2	fb:cell_pembukaan_bisnis_nomor_20_april.5847_0	5847.0	5847.0	5847.0	CD	NUMBER	5847.0	5847.0				
+11	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._117_0	-117.0	-117.0	-117.0	CD	NUMBER	-117.0	117.0				
+11	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+11	5	fb:cell_penutupan_bisnis_nomor_19_april.5914_0	5914.0	5914.0	5914.0	CD	NUMBER	5914.0	5914.0				
+11	6	fb:cell_penutupan_bisnis_nomor_20_april.9739_0	9739.0	9739.0	9739.0	CD	NUMBER	9739.0	9739.0				
+11	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.3825_0	3825.0	3825.0	3825.0	CD	NUMBER	3825.0	3825.0				
+11	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.64_7	64.7	64.7	64.7	CD	NUMBER	64.7	64.7				
+11	9	fb:cell_bisnis_aktif_nomor_19_april.114287_0	114287.0	114287.0	114287.0	CD	NUMBER	114287.0	114287.0				
+11	10	fb:cell_bisnis_aktif_nomor_20_april.108512_0	108512.0	108512.0	108512.0	CD	NUMBER	108512.0	108512.0				
+11	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._5775_0	-5775.0	-5775.0	-5775.0	CD	NUMBER	-5775.0	5775.0				
+11	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._5_1	-5.1	-5.1	-5.1	CD	NUMBER	-5.1	5.1				
+12	0	fb:cell_kharakteristik.administrasi_dan_dukungan_pengelolaan_limbah_dan_layanan_remediasi	administrasi dan dukungan, pengelolaan limbah dan layanan remediasi	administrasi|dan|dukungan|,|pengelolaan|limbah|dan|layanan|remediasi	administrasi|dan|dukungan|,|pengelolaan|limbah|dan|layanan|remediasi	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	O|PERSON|PERSON|O|O|O|O|O|O	||||||||				administrasi dan dukungan|pengelolaan limbah dan layanan remediasi	fb:part_kharakteristik.administrasi_dan_dukungan|fb:part_kharakteristik.pengelolaan_limbah_dan_layanan_remediasi
+12	1	fb:cell_pembukaan_bisnis_nomor_april_2019.2137_0	2137.0	2137.0	2137.0	CD	NUMBER	2137.0	2137.0				
+12	2	fb:cell_pembukaan_bisnis_nomor_20_april.1475_0	1475.0	1475.0	1475.0	CD	NUMBER	1475.0	1475.0				
+12	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._662_0	-662.0	-662.0	-662.0	CD	NUMBER	-662.0	662.0				
+12	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._31_0	-31.0	-31.0	-31.0	CD	NUMBER	-31.0	31.0				
+12	5	fb:cell_penutupan_bisnis_nomor_19_april.2030_0	2030.0	2030.0	2030.0	CD	NUMBER	2030.0	2030.0				
+12	6	fb:cell_penutupan_bisnis_nomor_20_april.3999_0	3999.0	3999.0	3999.0	CD	NUMBER	3999.0	3999.0				
+12	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.1969_0	1969.0	1969.0	1969.0	CD	NUMBER	1969.0	1969.0				
+12	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.97_0	97.0	97.0	97.0	CD	NUMBER	97.0	97.0				
+12	9	fb:cell_bisnis_aktif_nomor_19_april.39910_0	39910.0	39910.0	39910.0	CD	NUMBER	39910.0	39910.0				
+12	10	fb:cell_bisnis_aktif_nomor_20_april.35951_0	35951.0	35951.0	35951.0	CD	NUMBER	35951.0	35951.0				
+12	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._3959_0	-3959.0	-3959.0	-3959.0	CD	NUMBER	-3959.0	3959.0				
+12	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._9_9	-9.9	-9.9	-9.9	CD	NUMBER	-9.9	9.9				
+13	0	fb:cell_kharakteristik.keuangan_dan_asuransi_dan_manajemen_perusahaan_dan_perusahaan	keuangan dan asuransi dan manajemen perusahaan dan perusahaan	keuangan|dan|asuransi|dan|manajemen|perusahaan|dan|perusahaan	keuangan|dan|asuransi|dan|manajemen|perusahaan|dan|perusahaan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|O|O|PERSON|PERSON	|||||||					
+13	1	fb:cell_pembukaan_bisnis_nomor_april_2019.1420_0	1420.0	1420.0	1420.0	CD	NUMBER	1420.0	1420.0				
+13	2	fb:cell_pembukaan_bisnis_nomor_20_april.1277_0	1277.0	1277.0	1277.0	CD	NUMBER	1277.0	1277.0				
+13	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._144_0	-144.0	-144.0	-144.0	CD	NUMBER	-144.0	144.0				
+13	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._10_1	-10.1	-10.1	-10.1	CD	NUMBER	-10.1	10.1				
+13	5	fb:cell_penutupan_bisnis_nomor_19_april.1458_0	1458.0	1458.0	1458.0	CD	NUMBER	1458.0	1458.0				
+13	6	fb:cell_penutupan_bisnis_nomor_20_april.2025_0	2025.0	2025.0	2025.0	CD	NUMBER	2025.0	2025.0				
+13	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.567_0	567.0	567.0	567.0	CD	NUMBER	567.0	567.0				
+13	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.38_9	38.9	38.9	38.9	CD	NUMBER	38.9	38.9				
+13	9	fb:cell_bisnis_aktif_nomor_19_april.27830_0	27830.0	27830.0	27830.0	CD	NUMBER	27830.0	27830.0				
+13	10	fb:cell_bisnis_aktif_nomor_20_april.26261_0	26261.0	26261.0	26261.0	CD	NUMBER	26261.0	26261.0				
+13	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._1569_0	-1569.0	-1569.0	-1569.0	CD	NUMBER	-1569.0	1569.0				
+13	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._5_6	-5.6	-5.6	-5.6	CD	NUMBER	-5.6	5.6				
+14	0	fb:cell_kharakteristik.seni_hiburan_dan_rekreasi	seni, hiburan dan rekreasi	seni|,|hiburan|dan|rekreasi	seni|,|hiburan|dan|rekreasi	NNP|,|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||				seni|hiburan dan rekreasi	fb:part_kharakteristik.seni|fb:part_kharakteristik.hiburan_dan_rekreasi
+14	1	fb:cell_pembukaan_bisnis_nomor_april_2019.821_0	821.0	821.0	821.0	CD	NUMBER	821.0	821.0				
+14	2	fb:cell_pembukaan_bisnis_nomor_20_april.543_0	543.0	543.0	543.0	CD	NUMBER	543.0	543.0				
+14	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._278_0	-278.0	-278.0	-278.0	CD	NUMBER	-278.0	278.0				
+14	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._33_9	-33.9	-33.9	-33.9	CD	NUMBER	-33.9	33.9				
+14	5	fb:cell_penutupan_bisnis_nomor_19_april.779_0	779.0	779.0	779.0	CD	NUMBER	779.0	779.0				
+14	6	fb:cell_penutupan_bisnis_nomor_20_april.1855_0	1855.0	1855.0	1855.0	CD	NUMBER	1855.0	1855.0				
+14	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.1075_0	1075.0	1075.0	1075.0	CD	NUMBER	1075.0	1075.0				
+14	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.138_0	138.0	138.0	138.0	CD	NUMBER	138.0	138.0				
+14	9	fb:cell_bisnis_aktif_nomor_19_april.14425_0	14425.0	14425.0	14425.0	CD	NUMBER	14425.0	14425.0				
+14	10	fb:cell_bisnis_aktif_nomor_20_april.12652_0	12652.0	12652.0	12652.0	CD	NUMBER	12652.0	12652.0				
+14	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._1773_0	-1773.0	-1773.0	-1773.0	CD	NUMBER	-1773.0	1773.0				
+14	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._12_3	-12.3	-12.3	-12.3	CD	NUMBER	-12.3	12.3				
+15	0	fb:cell_kharakteristik.akomodasi_dan_layanan_makanan	akomodasi dan layanan makanan	akomodasi|dan|layanan|makanan	akomodasi|dan|layanan|makanan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_pembukaan_bisnis_nomor_april_2019.2350_0	2350.0	2350.0	2350.0	CD	NUMBER	2350.0	2350.0				
+15	2	fb:cell_pembukaan_bisnis_nomor_20_april.1933_0	1933.0	1933.0	1933.0	CD	NUMBER	1933.0	1933.0				
+15	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._417_0	-417.0	-417.0	-417.0	CD	NUMBER	-417.0	417.0				
+15	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._17_8	-17.8	-17.8	-17.8	CD	NUMBER	-17.8	17.8				
+15	5	fb:cell_penutupan_bisnis_nomor_19_april.2452_0	2452.0	2452.0	2452.0	CD	NUMBER	2452.0	2452.0				
+15	6	fb:cell_penutupan_bisnis_nomor_20_april.9171_0	9171.0	9171.0	9171.0	CD	NUMBER	9171.0	9171.0				
+15	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.6719_0	6719.0	6719.0	6719.0	CD	NUMBER	6719.0	6719.0				
+15	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.274_1	274.1	274.1	274.1	CD	NUMBER	274.1	274.1				
+15	9	fb:cell_bisnis_aktif_nomor_19_april.62567_0	62567.0	62567.0	62567.0	CD	NUMBER	62567.0	62567.0				
+15	10	fb:cell_bisnis_aktif_nomor_20_april.51796_0	51796.0	51796.0	51796.0	CD	NUMBER	51796.0	51796.0				
+15	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._10770_0	-10770.0	-10770.0	-10770.0	CD	NUMBER	-10770.0	10770.0				
+15	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._17_2	-17.2	-17.2	-17.2	CD	NUMBER	-17.2	17.2				
+16	0	fb:cell_kharakteristik.layanan_lainnya	layanan lainnya	layanan|lainnya	layanan|lainnya	NNP|NNP	O|O	|					
+16	1	fb:cell_pembukaan_bisnis_nomor_april_2019.2611_0	2611.0	2611.0	2611.0	CD	NUMBER	2611.0	2611.0				
+16	2	fb:cell_pembukaan_bisnis_nomor_20_april.2105_0	2105.0	2105.0	2105.0	CD	NUMBER	2105.0	2105.0				
+16	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._507_0	-507.0	-507.0	-507.0	CD	NUMBER	-507.0	507.0				
+16	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._19_4	-19.4	-19.4	-19.4	CD	NUMBER	-19.4	19.4				
+16	5	fb:cell_penutupan_bisnis_nomor_19_april.2578_0	2578.0	2578.0	2578.0	CD	NUMBER	2578.0	2578.0				
+16	6	fb:cell_penutupan_bisnis_nomor_20_april.9392_0	9392.0	9392.0	9392.0	CD	NUMBER	9392.0	9392.0				
+16	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.6814_0	6814.0	6814.0	6814.0	CD	NUMBER	6814.0	6814.0				
+16	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.264_3	264.3	264.3	264.3	CD	NUMBER	264.3	264.3				
+16	9	fb:cell_bisnis_aktif_nomor_19_april.72829_0	72829.0	72829.0	72829.0	CD	NUMBER	72829.0	72829.0				
+16	10	fb:cell_bisnis_aktif_nomor_20_april.61776_0	61776.0	61776.0	61776.0	CD	NUMBER	61776.0	61776.0				
+16	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._11054_0	-11054.0	-11054.0	-11054.0	CD	NUMBER	-11054.0	11054.0				
+16	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._15_2	-15.2	-15.2	-15.2	CD	NUMBER	-15.2	15.2				
+17	0	fb:cell_kharakteristik.industri_yang_tidak_diklasifikasikan	industri yang tidak diklasifikasikan	industri|yang|tidak|diklasifikasikan	industri|yang|tidak|diklasifikasikan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+17	1	fb:cell_pembukaan_bisnis_nomor_april_2019.7355_0	7355.0	7355.0	7355.0	CD	NUMBER	7355.0	7355.0				
+17	2	fb:cell_pembukaan_bisnis_nomor_20_april.5016_0	5016.0	5016.0	5016.0	CD	NUMBER	5016.0	5016.0				
+17	3	fb:cell_pembukaan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020._2339_0	-2339.0	-2339.0	-2339.0	CD	NUMBER	-2339.0	2339.0				
+17	4	fb:cell_perubahan_pembukaan_usaha_dari_april_2019_ke_april_2020_persen._31_8	-31.8	-31.8	-31.8	CD	NUMBER	-31.8	31.8				
+17	5	fb:cell_penutupan_bisnis_nomor_19_april.7009_0	7009.0	7009.0	7009.0	CD	NUMBER	7009.0	7009.0				
+17	6	fb:cell_penutupan_bisnis_nomor_20_april.13503_0	13503.0	13503.0	13503.0	CD	NUMBER	13503.0	13503.0				
+17	7	fb:cell_penutupan_usaha_berubah_dari_nomor_april_2019_menjadi_nomor_april_2020.6494_0	6494.0	6494.0	6494.0	CD	NUMBER	6494.0	6494.0				
+17	8	fb:cell_penutupan_usaha_berubah_dari_april_2019_menjadi_april_2020_persen.92_7	92.7	92.7	92.7	CD	NUMBER	92.7	92.7				
+17	9	fb:cell_bisnis_aktif_nomor_19_april.74013_0	74013.0	74013.0	74013.0	CD	NUMBER	74013.0	74013.0				
+17	10	fb:cell_bisnis_aktif_nomor_20_april.65311_0	65311.0	65311.0	65311.0	CD	NUMBER	65311.0	65311.0				
+17	11	fb:cell_perubahan_bisnis_aktif_dari_nomor_april_2019_ke_nomor_april_2020._8702_0	-8702.0	-8702.0	-8702.0	CD	NUMBER	-8702.0	8702.0				
+17	12	fb:cell_perubahan_bisnis_aktif_dari_april_2019_hingga_april_2020_persen._11_8	-11.8	-11.8	-11.8	CD	NUMBER	-11.8	11.8				

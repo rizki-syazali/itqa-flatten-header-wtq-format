@@ -1,0 +1,206 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_pria	nomor pria	nomor|pria	nomor|pria	NNP|NNP	O|O	|					
+-1	2	fb:row.row.persen_laki_laki	persen laki-laki	persen|laki|laki	persen|laki|laki	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.nomor_perempuan	nomor perempuan	nomor|perempuan	nomor|perempuan	NNP|NNP	O|O	|					
+-1	4	fb:row.row.persen_perempuan	persen perempuan	persen|perempuan	persen|perempuan	NNP|NNP	O|O	|					
+0	0	fb:cell_kharakteristik.pelanggaran_kekerasan	pelanggaran kekerasan	pelanggaran|kekerasan	pelanggaran|kekerasan	NNP|NNP	O|O	|					
+0	1	fb:cell_nomor_pria.56805	56805	56805	56805	CD	NUMBER	56805.0	56805.0				
+0	2	fb:cell_persen_laki_laki.82	82	82	82	CD	NUMBER	82.0	82.0				
+0	3	fb:cell_nomor_perempuan.12460	12460	12460	12460	CD	NUMBER	12460.0	12460.0				
+0	4	fb:cell_persen_perempuan.18	18	18	18	CD	NUMBER	18.0	18.0				
+1	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pembunuhan	pelanggaran kekerasan pembunuhan	pelanggaran|kekerasan|pembunuhan	pelanggaran|kekerasan|pembunuhan	NN|NN|NN	O|O|O	||					
+1	1	fb:cell_nomor_pria.182	182	182	182	CD	NUMBER	182.0	182.0				
+1	2	fb:cell_persen_laki_laki.86	86	86	86	CD	NUMBER	86.0	86.0				
+1	3	fb:cell_nomor_perempuan.29	29	29	29	CD	NUMBER	29.0	29.0				
+1	4	fb:cell_persen_perempuan.14	14	14	14	CD	NUMBER	14.0	14.0				
+2	0	fb:cell_kharakteristik.pelanggaran_kekerasan_percobaan_pembunuhan	pelanggaran kekerasan percobaan pembunuhan	pelanggaran|kekerasan|percobaan|pembunuhan	pelanggaran|kekerasan|percobaan|pembunuhan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_nomor_pria.114	114	114	114	CD	NUMBER	114.0	114.0				
+2	2	fb:cell_persen_laki_laki.89	89	89	89	CD	NUMBER	89.0	89.0				
+2	3	fb:cell_nomor_perempuan.14	14	14	14	CD	NUMBER	14.0	14.0				
+2	4	fb:cell_persen_perempuan.11	11	11	11	CD	NUMBER	11.0	11.0				
+3	0	fb:cell_kharakteristik.pelanggaran_kekerasan_perampokan	pelanggaran kekerasan perampokan	pelanggaran|kekerasan|perampokan	pelanggaran|kekerasan|perampokan	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_nomor_pria.2403	2403	2403	2403	CD	DATE	2403	2403.0	2403-xx-xx			
+3	2	fb:cell_persen_laki_laki.89	89	89	89	CD	NUMBER	89.0	89.0				
+3	3	fb:cell_nomor_perempuan.310	310	310	310	CD	NUMBER	310.0	310.0				
+3	4	fb:cell_persen_perempuan.11	11	11	11	CD	NUMBER	11.0	11.0				
+4	0	fb:cell_kharakteristik.pelanggaran_kekerasan_penyerangan_seksual	pelanggaran kekerasan penyerangan seksual	pelanggaran|kekerasan|penyerangan|seksual	pelanggaran|kekerasan|penyerangan|seksual	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_nomor_pria.2239	2239	2239	2239	CD	DATE	2239	2239.0	2239-xx-xx			
+4	2	fb:cell_persen_laki_laki.98	98	98	98	CD	NUMBER	98.0	98.0				
+4	3	fb:cell_nomor_perempuan.46	46	46	46	CD	NUMBER	46.0	46.0				
+4	4	fb:cell_persen_perempuan.2	2	2	2	CD	NUMBER	2.0	2.0				
+5	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelanggaran_seksual_lainnya	pelanggaran kekerasan pelanggaran seksual lainnya	pelanggaran|kekerasan|pelanggaran|seksual|lainnya	pelanggaran|kekerasan|pelanggaran|seksual|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_nomor_pria.2715	2715	2715	2715	CD	DATE	2715	2715.0	2715-xx-xx			
+5	2	fb:cell_persen_laki_laki.97	97	97	97	CD	NUMBER	97.0	97.0				
+5	3	fb:cell_nomor_perempuan.87	87	87	87	CD	NUMBER	87.0	87.0				
+5	4	fb:cell_persen_perempuan.3	3	3	3	CD	NUMBER	3.0	3.0				
+6	0	fb:cell_kharakteristik.pelanggaran_kekerasan_serangan_besar	pelanggaran kekerasan serangan besar	pelanggaran|kekerasan|serangan|besar	pelanggaran|kekerasan|serangan|besar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_nomor_pria.12002	12002	12002	12002	CD	NUMBER	12002.0	12002.0				
+6	2	fb:cell_persen_laki_laki.77	77	77	77	CD	NUMBER	77.0	77.0				
+6	3	fb:cell_nomor_perempuan.3564	3564	3564	3564	CD	NUMBER	3564.0	3564.0	3564-xx-xx			
+6	4	fb:cell_persen_perempuan.23	23	23	23	CD	NUMBER	23.0	23.0				
+7	0	fb:cell_kharakteristik.pelanggaran_kekerasan_penyerangan_biasa	pelanggaran kekerasan penyerangan biasa	pelanggaran|kekerasan|penyerangan|biasa	pelanggaran|kekerasan|penyerangan|biasa	NN|NN|NN|NN	O|O|O|O	|||					
+7	1	fb:cell_nomor_pria.21036	21036	21036	21036	CD	NUMBER	21036.0	21036.0				
+7	2	fb:cell_persen_laki_laki.77	77	77	77	CD	NUMBER	77.0	77.0				
+7	3	fb:cell_nomor_perempuan.6166	6166	6166	6166	CD	NUMBER	6166.0	6166.0	6166-xx-xx			
+7	4	fb:cell_persen_perempuan.23	23	23	23	CD	NUMBER	23.0	23.0				
+8	0	fb:cell_kharakteristik.pelanggaran_kekerasan_yang_mengucapkan_ancaman	pelanggaran kekerasan yang mengucapkan ancaman	pelanggaran|kekerasan|yang|mengucapkan|ancaman	pelanggaran|kekerasan|yang|mengucapkan|ancaman	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+8	1	fb:cell_nomor_pria.11911	11911	11911	11911	CD	NUMBER	11911.0	11911.0				
+8	2	fb:cell_persen_laki_laki.88	88	88	88	CD	NUMBER	88.0	88.0				
+8	3	fb:cell_nomor_perempuan.1635	1635	1635	1635	CD	DATE	1635	1635.0	1635-xx-xx			
+8	4	fb:cell_persen_perempuan.12	12	12	12	CD	NUMBER	12.0	12.0				
+9	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelecehan_pidana	pelanggaran kekerasan pelecehan pidana	pelanggaran|kekerasan|pelecehan|pidana	pelanggaran|kekerasan|pelecehan|pidana	NN|NN|NN|NN	O|O|O|O	|||					
+9	1	fb:cell_nomor_pria.2178	2178	2178	2178	CD	DATE	2178	2178.0	2178-xx-xx			
+9	2	fb:cell_persen_laki_laki.88	88	88	88	CD	NUMBER	88.0	88.0				
+9	3	fb:cell_nomor_perempuan.305	305	305	305	CD	NUMBER	305.0	305.0				
+9	4	fb:cell_persen_perempuan.12	12	12	12	CD	NUMBER	12.0	12.0				
+10	0	fb:cell_kharakteristik.pelanggaran_kekerasan_pelanggaran_kekerasan_lainnya	pelanggaran kekerasan pelanggaran kekerasan lainnya	pelanggaran|kekerasan|pelanggaran|kekerasan|lainnya	pelanggaran|kekerasan|pelanggaran|kekerasan|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+10	1	fb:cell_nomor_pria.2025	2025	2025	2025	CD	DATE	2025	2025.0	2025-xx-xx			
+10	2	fb:cell_persen_laki_laki.87	87	87	87	CD	NUMBER	87.0	87.0				
+10	3	fb:cell_nomor_perempuan.304	304	304	304	CD	NUMBER	304.0	304.0				
+10	4	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+11	0	fb:cell_kharakteristik.pelanggaran_properti	pelanggaran properti	pelanggaran|properti	pelanggaran|properti	NN|NN	O|O	|					
+11	1	fb:cell_nomor_pria.51118	51118	51118	51118	CD	NUMBER	51118.0	51118.0				
+11	2	fb:cell_persen_laki_laki.72	72	72	72	CD	NUMBER	72.0	72.0				
+11	3	fb:cell_nomor_perempuan.19971	19971	19971	19971	CD	NUMBER	19971.0	19971.0				
+11	4	fb:cell_persen_perempuan.28	28	28	28	CD	NUMBER	28.0	28.0				
+12	0	fb:cell_kharakteristik.pencurian_pelanggaran_properti	pencurian pelanggaran properti	pencurian|pelanggaran|properti	pencurian|pelanggaran|properti	JJ|NN|NN	O|O|O	||					
+12	1	fb:cell_nomor_pria.20788	20788	20788	20788	CD	NUMBER	20788.0	20788.0				
+12	2	fb:cell_persen_laki_laki.65	65	65	65	CD	NUMBER	65.0	65.0				
+12	3	fb:cell_nomor_perempuan.11076	11076	11076	11076	CD	NUMBER	11076.0	11076.0				
+12	4	fb:cell_persen_perempuan.35	35	35	35	CD	NUMBER	35.0	35.0				
+13	0	fb:cell_kharakteristik.pelanggaran_properti_menerobos_dan_masuk	pelanggaran properti menerobos dan masuk	pelanggaran|properti|menerobos|dan|masuk	pelanggaran|properti|menerobos|dan|masuk	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+13	1	fb:cell_nomor_pria.6755	6755	6755	6755	CD	NUMBER	6755.0	6755.0	6755-xx-xx			
+13	2	fb:cell_persen_laki_laki.87	87	87	87	CD	NUMBER	87.0	87.0				
+13	3	fb:cell_nomor_perempuan.988	988	988	988	CD	NUMBER	988.0	988.0				
+13	4	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+14	0	fb:cell_kharakteristik.penipuan_pelanggaran_properti	penipuan pelanggaran properti	penipuan|pelanggaran|properti	penipuan|pelanggaran|properti	NN|NN|NN	O|O|O	||					
+14	1	fb:cell_nomor_pria.6391	6391	6391	6391	CD	NUMBER	6391.0	6391.0	6391-xx-xx			
+14	2	fb:cell_persen_laki_laki.67	67	67	67	CD	NUMBER	67.0	67.0				
+14	3	fb:cell_nomor_perempuan.3181	3181	3181	3181	CD	NUMBER	3181.0	3181.0	3181-xx-xx			
+14	4	fb:cell_persen_perempuan.33	33	33	33	CD	NUMBER	33.0	33.0				
+15	0	fb:cell_kharakteristik.pelanggaran_properti_kenakalan	pelanggaran properti kenakalan	pelanggaran|properti|kenakalan	pelanggaran|properti|kenakalan	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_nomor_pria.9206	9206	9206	9206	CD	NUMBER	9206.0	9206.0	9206-xx-xx			
+15	2	fb:cell_persen_laki_laki.82	82	82	82	CD	NUMBER	82.0	82.0				
+15	3	fb:cell_nomor_perempuan.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx			
+15	4	fb:cell_persen_perempuan.18	18	18	18	CD	NUMBER	18.0	18.0				
+16	0	fb:cell_kharakteristik.pelanggaran_properti_memiliki_properti_curian	pelanggaran properti memiliki properti curian	pelanggaran|properti|memiliki|properti|curian	pelanggaran|properti|memiliki|properti|curian	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+16	1	fb:cell_nomor_pria.6852	6852	6852	6852	CD	NUMBER	6852.0	6852.0	6852-xx-xx			
+16	2	fb:cell_persen_laki_laki.73	73	73	73	CD	NUMBER	73.0	73.0				
+16	3	fb:cell_nomor_perempuan.2599	2599	2599	2599	CD	DATE	2599	2599.0	2599-xx-xx			
+16	4	fb:cell_persen_perempuan.27	27	27	27	CD	NUMBER	27.0	27.0				
+17	0	fb:cell_kharakteristik.pelanggaran_properti_pelanggaran_properti_lainnya	pelanggaran properti pelanggaran properti lainnya	pelanggaran|properti|pelanggaran|properti|lainnya	pelanggaran|properti|pelanggaran|properti|lainnya	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+17	1	fb:cell_nomor_pria.1126	1126	1126	1126	CD	DATE	1126	1126.0	1126-xx-xx			
+17	2	fb:cell_persen_laki_laki.87	87	87	87	CD	NUMBER	87.0	87.0				
+17	3	fb:cell_nomor_perempuan.161	161	161	161	CD	NUMBER	161.0	161.0				
+17	4	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+18	0	fb:cell_kharakteristik.administrasi_pelanggaran_peradilan	administrasi pelanggaran peradilan	administrasi|pelanggaran|peradilan	administrasi|pelanggaran|peradilan	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_nomor_pria.54175	54175	54175	54175	CD	NUMBER	54175.0	54175.0				
+18	2	fb:cell_persen_laki_laki.82	82	82	82	CD	NUMBER	82.0	82.0				
+18	3	fb:cell_nomor_perempuan.12083	12083	12083	12083	CD	NUMBER	12083.0	12083.0				
+18	4	fb:cell_persen_perempuan.18	18	18	18	CD	NUMBER	18.0	18.0				
+19	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_gagal_muncul	pelanggaran administrasi peradilan gagal muncul	pelanggaran|administrasi|peradilan|gagal|muncul	pelanggaran|administrasi|peradilan|gagal|muncul	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+19	1	fb:cell_nomor_pria.2756	2756	2756	2756	CD	DATE	2756	2756.0	2756-xx-xx			
+19	2	fb:cell_persen_laki_laki.76	76	76	76	CD	NUMBER	76.0	76.0				
+19	3	fb:cell_nomor_perempuan.876	876	876	876	CD	NUMBER	876.0	876.0				
+19	4	fb:cell_persen_perempuan.24	24	24	24	CD	NUMBER	24.0	24.0				
+20	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_pelanggaran_masa_percobaan	pelanggaran administrasi peradilan pelanggaran masa percobaan	pelanggaran|administrasi|peradilan|pelanggaran|masa|percobaan	pelanggaran|administrasi|peradilan|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_nomor_pria.21770	21770	21770	21770	CD	NUMBER	21770.0	21770.0				
+20	2	fb:cell_persen_laki_laki.84	84	84	84	CD	NUMBER	84.0	84.0				
+20	3	fb:cell_nomor_perempuan.4274	4274	4274	4274	CD	NUMBER	4274.0	4274.0	4274-xx-xx			
+20	4	fb:cell_persen_perempuan.16	16	16	16	CD	NUMBER	16.0	16.0				
+21	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_secara_luas_secara_melawan_hukum	pelanggaran administrasi peradilan secara luas secara melawan hukum	pelanggaran|administrasi|peradilan|secara|luas|secara|melawan|hukum	pelanggaran|administrasi|peradilan|secara|luas|secara|melawan|hukum	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+21	1	fb:cell_nomor_pria.1762	1762	1762	1762	CD	DATE	1762	1762.0	1762-xx-xx			
+21	2	fb:cell_persen_laki_laki.90	90	90	90	CD	NUMBER	90.0	90.0				
+21	3	fb:cell_nomor_perempuan.200	200	200	200	CD	NUMBER	200.0	200.0				
+21	4	fb:cell_persen_perempuan.10	10	10	10	CD	NUMBER	10.0	10.0				
+22	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_gagal_untuk_mematuhi_perintah	pelanggaran administrasi peradilan gagal untuk mematuhi perintah	pelanggaran|administrasi|peradilan|gagal|untuk|mematuhi|perintah	pelanggaran|administrasi|peradilan|gagal|untuk|mematuhi|perintah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+22	1	fb:cell_nomor_pria.22823	22823	22823	22823	CD	NUMBER	22823.0	22823.0				
+22	2	fb:cell_persen_laki_laki.81	81	81	81	CD	NUMBER	81.0	81.0				
+22	3	fb:cell_nomor_perempuan.5224	5224	5224	5224	CD	NUMBER	5224.0	5224.0	5224-xx-xx			
+22	4	fb:cell_persen_perempuan.19	19	19	19	CD	NUMBER	19.0	19.0				
+23	0	fb:cell_kharakteristik.pelanggaran_administrasi_peradilan_pelanggaran_administrasi_peradilan_lainnya	pelanggaran administrasi peradilan pelanggaran administrasi peradilan lainnya	pelanggaran|administrasi|peradilan|pelanggaran|administrasi|peradilan|lainnya	pelanggaran|administrasi|peradilan|pelanggaran|administrasi|peradilan|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+23	1	fb:cell_nomor_pria.5064	5064	5064	5064	CD	NUMBER	5064.0	5064.0	5064-xx-xx			
+23	2	fb:cell_persen_laki_laki.77	77	77	77	CD	NUMBER	77.0	77.0				
+23	3	fb:cell_nomor_perempuan.1509	1509	1509	1509	CD	DATE	1509	1509.0	1509-xx-xx			
+23	4	fb:cell_persen_perempuan.23	23	23	23	CD	NUMBER	23.0	23.0				
+24	0	fb:cell_kharakteristik.pelanggaran_hukum_pidana_lainnya	pelanggaran hukum pidana lainnya	pelanggaran|hukum|pidana|lainnya	pelanggaran|hukum|pidana|lainnya	NN|NN|NN|NN	O|O|O|O	|||					
+24	1	fb:cell_nomor_pria.10626	10626	10626	10626	CD	NUMBER	10626.0	10626.0				
+24	2	fb:cell_persen_laki_laki.87	87	87	87	CD	NUMBER	87.0	87.0				
+24	3	fb:cell_nomor_perempuan.1639	1639	1639	1639	CD	DATE	1639	1639.0	1639-xx-xx			
+24	4	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+25	0	fb:cell_kharakteristik.senjata_tindak_pidana_kuhp_lainnya	senjata tindak pidana KUHP lainnya	senjata|tindak|pidana|kuhp|lainnya	senjata|tindak|pidana|KUHP|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+25	1	fb:cell_nomor_pria.7055	7055	7055	7055	CD	NUMBER	7055.0	7055.0	7055-xx-xx			
+25	2	fb:cell_persen_laki_laki.90	90	90	90	CD	NUMBER	90.0	90.0				
+25	3	fb:cell_nomor_perempuan.793	793	793	793	CD	NUMBER	793.0	793.0				
+25	4	fb:cell_persen_perempuan.10	10	10	10	CD	NUMBER	10.0	10.0				
+26	0	fb:cell_kharakteristik.tindak_pidana_prostitusi_lainnya	tindak pidana prostitusi lainnya	tindak|pidana|prostitusi|lainnya	tindak|pidana|prostitusi|lainnya	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+26	1	fb:cell_nomor_pria.261	261	261	261	CD	NUMBER	261.0	261.0				
+26	2	fb:cell_persen_laki_laki.84	84	84	84	CD	NUMBER	84.0	84.0				
+26	3	fb:cell_nomor_perempuan.50	50	50	50	CD	NUMBER	50.0	50.0				
+26	4	fb:cell_persen_perempuan.16	16	16	16	CD	NUMBER	16.0	16.0				
+27	0	fb:cell_kharakteristik.tindak_pidana_lain_yang_mengganggu_ketentraman	tindak pidana lain yang mengganggu ketentraman	tindak|pidana|lain|yang|mengganggu|ketentraman	tindak|pidana|lain|yang|mengganggu|ketentraman	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+27	1	fb:cell_nomor_pria.847	847	847	847	CD	NUMBER	847.0	847.0				
+27	2	fb:cell_persen_laki_laki.83	83	83	83	CD	NUMBER	83.0	83.0				
+27	3	fb:cell_nomor_perempuan.174	174	174	174	CD	NUMBER	174.0	174.0				
+27	4	fb:cell_persen_perempuan.17	17	17	17	CD	NUMBER	17.0	17.0				
+28	0	fb:cell_kharakteristik.sisa_tindak_pidana_kuhp_sisa_tindak_pidana_kuhp	sisa tindak pidana KUHP sisa tindak pidana KUHP	sisa|tindak|pidana|kuhp|sisa|tindak|pidana|kuhp	sisa|tindak|pidana|KUHP|sisa|tindak|pidana|KUHP	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+28	1	fb:cell_nomor_pria.2463	2463	2463	2463	CD	DATE	2463	2463.0	2463-xx-xx			
+28	2	fb:cell_persen_laki_laki.80	80	80	80	CD	NUMBER	80.0	80.0				
+28	3	fb:cell_nomor_perempuan.622	622	622	622	CD	NUMBER	622.0	622.0				
+28	4	fb:cell_persen_perempuan.20	20	20	20	CD	NUMBER	20.0	20.0				
+29	0	fb:cell_kharakteristik.hukum_pidana	hukum pidana	hukum|pidana	hukum|pidana	NNP|NNP	O|O	|					
+29	1	fb:cell_nomor_pria.172724	172724	172724	172724	CD	NUMBER	172724.0	172724.0				
+29	2	fb:cell_persen_laki_laki.79	79	79	79	CD	NUMBER	79.0	79.0				
+29	3	fb:cell_nomor_perempuan.46153	46153	46153	46153	CD	NUMBER	46153.0	46153.0				
+29	4	fb:cell_persen_perempuan.21	21	21	21	CD	NUMBER	21.0	21.0				
+30	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas	KUHP pelanggaran lalu lintas	kuhp|pelanggaran|lalu|lintas	kuhp|pelanggaran|lalu|lintas	NN|NN|NN|NNP	O|O|O|O	|||					
+30	1	fb:cell_nomor_pria.32173	32173	32173	32173	CD	NUMBER	32173.0	32173.0				
+30	2	fb:cell_persen_laki_laki.82	82	82	82	CD	NUMBER	82.0	82.0				
+30	3	fb:cell_nomor_perempuan.6911	6911	6911	6911	CD	NUMBER	6911.0	6911.0	6911-xx-xx			
+30	4	fb:cell_persen_perempuan.18	18	18	18	CD	NUMBER	18.0	18.0				
+31	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas_gangguan_mengemudi	KUHP pelanggaran lalu lintas gangguan mengemudi	kuhp|pelanggaran|lalu|lintas|gangguan|mengemudi	kuhp|pelanggaran|lalu|lintas|gangguan|mengemudi	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+31	1	fb:cell_nomor_pria.24832	24832	24832	24832	CD	NUMBER	24832.0	24832.0				
+31	2	fb:cell_persen_laki_laki.81	81	81	81	CD	NUMBER	81.0	81.0				
+31	3	fb:cell_nomor_perempuan.5822	5822	5822	5822	CD	NUMBER	5822.0	5822.0	5822-xx-xx			
+31	4	fb:cell_persen_perempuan.19	19	19	19	CD	NUMBER	19.0	19.0				
+32	0	fb:cell_kharakteristik.kuhp_pelanggaran_lalu_lintas_lainnya_kuhp_pelanggaran_lalu_lintas	KUHP pelanggaran lalu lintas lainnya KUHP pelanggaran lalu lintas	kuhp|pelanggaran|lalu|lintas|lainnya|kuhp|pelanggaran|lalu|lintas	kuhp|pelanggaran|lalu|lintas|lainnya|KUHP|pelanggaran|lalu|lintas	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+32	1	fb:cell_nomor_pria.7341	7341	7341	7341	CD	NUMBER	7341.0	7341.0	7341-xx-xx			
+32	2	fb:cell_persen_laki_laki.87	87	87	87	CD	NUMBER	87.0	87.0				
+32	3	fb:cell_nomor_perempuan.1089	1089	1089	1089	CD	DATE	1089	1089.0	1089-xx-xx			
+32	4	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+33	0	fb:cell_kharakteristik.total_pelanggaran_hukum_pidana	total pelanggaran hukum pidana	total|pelanggaran|hukum|pidana	total|pelanggaran|hukum|pidana	JJ|NN|NN|NN	O|O|O|O	|||					
+33	1	fb:cell_nomor_pria.204897	204897	204897	204897	CD	NUMBER	204897.0	204897.0				
+33	2	fb:cell_persen_laki_laki.79	79	79	79	CD	NUMBER	79.0	79.0				
+33	3	fb:cell_nomor_perempuan.53064	53064	53064	53064	CD	NUMBER	53064.0	53064.0				
+33	4	fb:cell_persen_perempuan.21	21	21	21	CD	NUMBER	21.0	21.0				
+34	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya	pelanggaran undang-undang federal lainnya	pelanggaran|undang|undang|federal|lainnya	pelanggaran|undang|undang|federal|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+34	1	fb:cell_nomor_pria.33869	33869	33869	33869	CD	NUMBER	33869.0	33869.0				
+34	2	fb:cell_persen_laki_laki.85	85	85	85	CD	NUMBER	85.0	85.0				
+34	3	fb:cell_nomor_perempuan.6116	6116	6116	6116	CD	NUMBER	6116.0	6116.0	6116-xx-xx			
+34	4	fb:cell_persen_perempuan.15	15	15	15	CD	NUMBER	15.0	15.0				
+35	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_kepemilikan_narkoba	pelanggaran undang-undang federal lainnya kepemilikan narkoba	pelanggaran|undang|undang|federal|lainnya|kepemilikan|narkoba	pelanggaran|undang|undang|federal|lainnya|kepemilikan|narkoba	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+35	1	fb:cell_nomor_pria.10842	10842	10842	10842	CD	NUMBER	10842.0	10842.0				
+35	2	fb:cell_persen_laki_laki.85	85	85	85	CD	NUMBER	85.0	85.0				
+35	3	fb:cell_nomor_perempuan.1947	1947	1947	1947	CD	DATE	1947	1947.0	1947-xx-xx			
+35	4	fb:cell_persen_perempuan.15	15	15	15	CD	NUMBER	15.0	15.0				
+36	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_pelanggaran_narkoba_lainnya	pelanggaran undang-undang federal lainnya pelanggaran narkoba lainnya	pelanggaran|undang|undang|federal|lainnya|pelanggaran|narkoba|lainnya	pelanggaran|undang|undang|federal|lainnya|pelanggaran|narkoba|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+36	1	fb:cell_nomor_pria.6456	6456	6456	6456	CD	NUMBER	6456.0	6456.0	6456-xx-xx			
+36	2	fb:cell_persen_laki_laki.79	79	79	79	CD	NUMBER	79.0	79.0				
+36	3	fb:cell_nomor_perempuan.1671	1671	1671	1671	CD	DATE	1671	1671.0	1671-xx-xx			
+36	4	fb:cell_persen_perempuan.21	21	21	21	CD	NUMBER	21.0	21.0				
+37	0	fb:cell_kharakteristik.undang_undang_federal_lainnya_melanggar_tindakan_peradilan_pidana_remaja	undang-undang federal lainnya melanggar tindakan peradilan pidana remaja	undang|undang|federal|lainnya|melanggar|tindakan|peradilan|pidana|remaja	undang|undang|federal|lainnya|melanggar|tindakan|peradilan|pidana|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+37	1	fb:cell_nomor_pria.568	568	568	568	CD	NUMBER	568.0	568.0				
+37	2	fb:cell_persen_laki_laki.81	81	81	81	CD	NUMBER	81.0	81.0				
+37	3	fb:cell_nomor_perempuan.132	132	132	132	CD	NUMBER	132.0	132.0				
+37	4	fb:cell_persen_perempuan.19	19	19	19	CD	NUMBER	19.0	19.0				
+38	0	fb:cell_kharakteristik.pelanggaran_undang_undang_federal_lainnya_sisa_pelanggaran_undang_undang_federal	pelanggaran undang-undang federal lainnya sisa pelanggaran undang-undang federal	pelanggaran|undang|undang|federal|lainnya|sisa|pelanggaran|undang|undang|federal	pelanggaran|undang|undang|federal|lainnya|sisa|pelanggaran|undang|undang|federal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+38	1	fb:cell_nomor_pria.16003	16003	16003	16003	CD	NUMBER	16003.0	16003.0				
+38	2	fb:cell_persen_laki_laki.87	87	87	87	CD	NUMBER	87.0	87.0				
+38	3	fb:cell_nomor_perempuan.2366	2366	2366	2366	CD	DATE	2366	2366.0	2366-xx-xx			
+38	4	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+39	0	fb:cell_kharakteristik.pelanggaran_total	pelanggaran total	pelanggaran|total	pelanggaran|total	NNP|NNP	O|O	|					
+39	1	fb:cell_nomor_pria.238766	238766	238766	238766	CD	NUMBER	238766.0	238766.0				
+39	2	fb:cell_persen_laki_laki.80	80	80	80	CD	NUMBER	80.0	80.0				
+39	3	fb:cell_nomor_perempuan.59180	59180	59180	59180	CD	NUMBER	59180.0	59180.0				
+39	4	fb:cell_persen_perempuan.20	20	20	20	CD	NUMBER	20.0	20.0				

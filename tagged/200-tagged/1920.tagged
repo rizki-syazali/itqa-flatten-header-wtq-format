@@ -1,0 +1,196 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_pembunuhan	nomor pembunuhan	nomor|pembunuhan	nomor|pembunuhan	NN|NN	O|O	|					
+-1	2	fb:row.row.tingkat_pembunuhan	tingkat pembunuhan	tingkat|pembunuhan	tingkat|pembunuhan	NN|NN	O|O	|					
+-1	3	fb:row.row.perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018	perubahan persentase pembunuhan pada tahun 2017 hingga 2018	perubahan|persentase|pembunuhan|pada|tahun|2017|hingga|2018	perubahan|persentase|pembunuhan|pada|tahun|2017|hingga|2018	NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|DATE|O|DATE	|||||2017||2018					
+-1	4	fb:row.row.nomor_percobaan_pembunuhan	nomor percobaan pembunuhan	nomor|percobaan|pembunuhan	nomor|percobaan|pembunuhan	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.tingkat_percobaan_pembunuhan	tingkat percobaan pembunuhan	tingkat|percobaan|pembunuhan	tingkat|percobaan|pembunuhan	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018	persen perubahan angka percobaan pembunuhan tahun 2017 ke tahun 2018	persen|perubahan|angka|percobaan|pembunuhan|tahun|2017|ke|tahun|2018	persen|perubahan|angka|percobaan|pembunuhan|tahun|2017|ke|tahun|2018	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|CD	O|O|O|O|O|O|DATE|O|O|DATE	||||||2017|||2018					
+-1	7	fb:row.row.nomor_serangan_besar	nomor serangan besar	nomor|serangan|besar	nomor|serangan|besar	NNP|NNP|NNP	O|O|O	||					
+-1	8	fb:row.row.tingkat_serangan_besar	tingkat serangan besar	tingkat|serangan|besar	tingkat|serangan|besar	NNP|NNP|NNP	O|O|O	||					
+-1	9	fb:row.row.perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018	perubahan persentase serangan besar pada tahun 2017 hingga 2018	perubahan|persentase|serangan|besar|pada|tahun|2017|hingga|2018	perubahan|persentase|serangan|besar|pada|tahun|2017|hingga|2018	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|DATE|O|DATE	||||||2017||2018					
+-1	10	fb:row.row.nomor_perampokan	nomor perampokan	nomor|perampokan	nomor|perampokan	NNP|NNP	O|O	|					
+-1	11	fb:row.row.tingkat_perampokan	tingkat perampokan	tingkat|perampokan	tingkat|perampokan	NNP|NNP	O|O	|					
+-1	12	fb:row.row.persen_perampokan_perubahan_tarif_2017_ke_2018	persen perampokan perubahan tarif 2017 ke 2018	persen|perampokan|perubahan|tarif|2017|ke|2018	persen|perampokan|perubahan|tarif|2017|ke|2018	NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|DATE|O|DATE	||||2017||2018					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor_pembunuhan.2	2	2	2	CD	NUMBER	2.0	2.0				
+0	2	fb:cell_tingkat_pembunuhan.0_38	0.38	0.38	0.38	CD	NUMBER	0.38	0.38				
+0	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.null											
+0	4	fb:cell_nomor_percobaan_pembunuhan.3	3	3	3	CD	NUMBER	3.0	3.0				
+0	5	fb:cell_tingkat_percobaan_pembunuhan.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+0	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.null											
+0	7	fb:cell_nomor_serangan_besar.613	613	613	613	CD	NUMBER	613.0	613.0				
+0	8	fb:cell_tingkat_serangan_besar.117	117	117	117	CD	NUMBER	117.0	117.0				
+0	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+0	10	fb:cell_nomor_perampokan.214	214	214	214	CD	NUMBER	214.0	214.0				
+0	11	fb:cell_tingkat_perampokan.41	41	41	41	CD	NUMBER	41.0	41.0				
+0	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.16	16	16	16	CD	NUMBER	16.0	16.0				
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor_pembunuhan.0	0	0	0	CD	NUMBER	0.0	0.0				
+1	2	fb:cell_tingkat_pembunuhan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.null											
+1	4	fb:cell_nomor_percobaan_pembunuhan.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	5	fb:cell_tingkat_percobaan_pembunuhan.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+1	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.null											
+1	7	fb:cell_nomor_serangan_besar.106	106	106	106	CD	NUMBER	106.0	106.0				
+1	8	fb:cell_tingkat_serangan_besar.69	69	69	69	CD	NUMBER	69.0	69.0				
+1	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018._18	-18	-18	-18	CD	NUMBER	-18.0	18.0				
+1	10	fb:cell_nomor_perampokan.21	21	21	21	CD	NUMBER	21.0	21.0				
+1	11	fb:cell_tingkat_perampokan.14	14	14	14	CD	NUMBER	14.0	14.0				
+1	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.15	15	15	15	CD	NUMBER	15.0	15.0				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor_pembunuhan.11	11	11	11	CD	NUMBER	11.0	11.0				
+2	2	fb:cell_tingkat_pembunuhan.1_15	1.15	1.15	1.15	CD	NUMBER	1.15	1.15				
+2	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018._48_0	-48.0	-48.0	-48.0	CD	NUMBER	-48.0	48.0				
+2	4	fb:cell_nomor_percobaan_pembunuhan.20	20	20	20	CD	NUMBER	20.0	20.0				
+2	5	fb:cell_tingkat_percobaan_pembunuhan.2_08	2.08	2.08	2.08	CD	NUMBER	2.08	2.08				
+2	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._27_0	-27.0	-27.0	-27.0	CD	NUMBER	-27.0	27.0				
+2	7	fb:cell_nomor_serangan_besar.1149	1149	1149	1149	CD	DATE	1149	1149.0	1149-xx-xx			
+2	8	fb:cell_tingkat_serangan_besar.120	120	120	120	CD	NUMBER	120.0	120.0				
+2	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+2	10	fb:cell_nomor_perampokan.312	312	312	312	CD	NUMBER	312.0	312.0				
+2	11	fb:cell_tingkat_perampokan.33	33	33	33	CD	NUMBER	33.0	33.0				
+2	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor_pembunuhan.13	13	13	13	CD	NUMBER	13.0	13.0				
+3	2	fb:cell_tingkat_pembunuhan.1_69	1.69	1.69	1.69	CD	NUMBER	1.69	1.69				
+3	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+3	4	fb:cell_nomor_percobaan_pembunuhan.9	9	9	9	CD	NUMBER	9.0	9.0				
+3	5	fb:cell_tingkat_percobaan_pembunuhan.1_17	1.17	1.17	1.17	CD	NUMBER	1.17	1.17				
+3	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+3	7	fb:cell_nomor_serangan_besar.1045	1045	1045	1045	CD	DATE	1045	1045.0	1045-xx-xx			
+3	8	fb:cell_tingkat_serangan_besar.136	136	136	136	CD	NUMBER	136.0	136.0				
+3	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.5	5	5	5	CD	NUMBER	5.0	5.0				
+3	10	fb:cell_nomor_perampokan.207	207	207	207	CD	NUMBER	207.0	207.0				
+3	11	fb:cell_tingkat_perampokan.27	27	27	27	CD	NUMBER	27.0	27.0				
+3	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_nomor_pembunuhan.83	83	83	83	CD	NUMBER	83.0	83.0				
+4	2	fb:cell_tingkat_pembunuhan.0_99	0.99	0.99	0.99	CD	NUMBER	0.99	0.99				
+4	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+4	4	fb:cell_nomor_percobaan_pembunuhan.193	193	193	193	CD	NUMBER	193.0	193.0				
+4	5	fb:cell_tingkat_percobaan_pembunuhan.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+4	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+4	7	fb:cell_nomor_serangan_besar.10531	10531	10531	10531	CD	NUMBER	10531.0	10531.0				
+4	8	fb:cell_tingkat_serangan_besar.126	126	126	126	CD	NUMBER	126.0	126.0				
+4	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.0	0	0	0	CD	NUMBER	0.0	0.0				
+4	10	fb:cell_nomor_perampokan.3233	3233	3233	3233	CD	NUMBER	3233.0	3233.0	3233-xx-xx			
+4	11	fb:cell_tingkat_perampokan.39	39	39	39	CD	NUMBER	39.0	39.0				
+4	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_nomor_pembunuhan.266	266	266	266	CD	NUMBER	266.0	266.0				
+5	2	fb:cell_tingkat_pembunuhan.1_86	1.86	1.86	1.86	CD	NUMBER	1.86	1.86				
+5	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+5	4	fb:cell_nomor_percobaan_pembunuhan.368	368	368	368	CD	NUMBER	368.0	368.0				
+5	5	fb:cell_tingkat_percobaan_pembunuhan.2_57	2.57	2.57	2.57	CD	NUMBER	2.57	2.57				
+5	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+5	7	fb:cell_nomor_serangan_besar.16308	16308	16308	16308	CD	NUMBER	16308.0	16308.0				
+5	8	fb:cell_tingkat_serangan_besar.114	114	114	114	CD	NUMBER	114.0	114.0				
+5	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.4	4	4	4	CD	NUMBER	4.0	4.0				
+5	10	fb:cell_nomor_perampokan.8814	8814	8814	8814	CD	NUMBER	8814.0	8814.0	8814-xx-xx			
+5	11	fb:cell_tingkat_perampokan.62	62	62	62	CD	NUMBER	62.0	62.0				
+5	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_nomor_pembunuhan.55	55	55	55	CD	NUMBER	55.0	55.0				
+6	2	fb:cell_tingkat_pembunuhan.4_07	4.07	4.07	4.07	CD	NUMBER	4.07	4.07				
+6	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+6	4	fb:cell_nomor_percobaan_pembunuhan.35	35	35	35	CD	NUMBER	35.0	35.0				
+6	5	fb:cell_tingkat_percobaan_pembunuhan.2_59	2.59	2.59	2.59	CD	NUMBER	2.59	2.59				
+6	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+6	7	fb:cell_nomor_serangan_besar.5441	5441	5441	5441	CD	NUMBER	5441.0	5441.0	5441-xx-xx			
+6	8	fb:cell_tingkat_serangan_besar.402	402	402	402	CD	NUMBER	402.0	402.0				
+6	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.1	1	1	1	CD	NUMBER	1.0	1.0				
+6	10	fb:cell_nomor_perampokan.2663	2663	2663	2663	CD	DATE	2663	2663.0	2663-xx-xx			
+6	11	fb:cell_tingkat_perampokan.197	197	197	197	CD	NUMBER	197.0	197.0				
+6	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.11	11	11	11	CD	NUMBER	11.0	11.0				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_nomor_pembunuhan.34	34	34	34	CD	NUMBER	34.0	34.0				
+7	2	fb:cell_tingkat_pembunuhan.2_93	2.93	2.93	2.93	CD	NUMBER	2.93	2.93				
+7	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+7	4	fb:cell_nomor_percobaan_pembunuhan.34	34	34	34	CD	NUMBER	34.0	34.0				
+7	5	fb:cell_tingkat_percobaan_pembunuhan.2_93	2.93	2.93	2.93	CD	NUMBER	2.93	2.93				
+7	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+7	7	fb:cell_nomor_serangan_besar.4162	4162	4162	4162	CD	NUMBER	4162.0	4162.0	4162-xx-xx			
+7	8	fb:cell_tingkat_serangan_besar.358	358	358	358	CD	NUMBER	358.0	358.0				
+7	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+7	10	fb:cell_nomor_perampokan.984	984	984	984	CD	NUMBER	984.0	984.0				
+7	11	fb:cell_tingkat_perampokan.85	85	85	85	CD	NUMBER	85.0	85.0				
+7	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_nomor_pembunuhan.81	81	81	81	CD	NUMBER	81.0	81.0				
+8	2	fb:cell_tingkat_pembunuhan.1_88	1.88	1.88	1.88	CD	NUMBER	1.88	1.88				
+8	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018._33_0	-33.0	-33.0	-33.0	CD	NUMBER	-33.0	33.0				
+8	4	fb:cell_nomor_percobaan_pembunuhan.50	50	50	50	CD	NUMBER	50.0	50.0				
+8	5	fb:cell_tingkat_percobaan_pembunuhan.1_16	1.16	1.16	1.16	CD	NUMBER	1.16	1.16				
+8	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+8	7	fb:cell_nomor_serangan_besar.9302	9302	9302	9302	CD	NUMBER	9302.0	9302.0	9302-xx-xx			
+8	8	fb:cell_tingkat_serangan_besar.216	216	216	216	CD	NUMBER	216.0	216.0				
+8	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.1	1	1	1	CD	NUMBER	1.0	1.0				
+8	10	fb:cell_nomor_perampokan.3467	3467	3467	3467	CD	NUMBER	3467.0	3467.0	3467-xx-xx			
+8	11	fb:cell_tingkat_perampokan.80	80	80	80	CD	NUMBER	80.0	80.0				
+8	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.5	5	5	5	CD	NUMBER	5.0	5.0				
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor_pembunuhan.89	89	89	89	CD	NUMBER	89.0	89.0				
+9	2	fb:cell_tingkat_pembunuhan.1_78	1.78	1.78	1.78	CD	NUMBER	1.78	1.78				
+9	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018._26_0	-26.0	-26.0	-26.0	CD	NUMBER	-26.0	26.0				
+9	4	fb:cell_nomor_percobaan_pembunuhan.83	83	83	83	CD	NUMBER	83.0	83.0				
+9	5	fb:cell_tingkat_percobaan_pembunuhan.1_66	1.66	1.66	1.66	CD	NUMBER	1.66	1.66				
+9	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._29_0	-29.0	-29.0	-29.0	CD	NUMBER	-29.0	29.0				
+9	7	fb:cell_nomor_serangan_besar.7564	7564	7564	7564	CD	NUMBER	7564.0	7564.0	7564-xx-xx			
+9	8	fb:cell_tingkat_serangan_besar.152	152	152	152	CD	NUMBER	152.0	152.0				
+9	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.3	3	3	3	CD	NUMBER	3.0	3.0				
+9	10	fb:cell_nomor_perampokan.2470	2470	2470	2470	CD	DATE	2470	2470.0	2470-xx-xx			
+9	11	fb:cell_tingkat_perampokan.49	49	49	49	CD	NUMBER	49.0	49.0				
+9	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_nomor_pembunuhan.3	3	3	3	CD	NUMBER	3.0	3.0				
+10	2	fb:cell_tingkat_pembunuhan.7_41	7.41	7.41	7.41	CD	NUMBER	7.41	7.41				
+10	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.null											
+10	4	fb:cell_nomor_percobaan_pembunuhan.2	2	2	2	CD	NUMBER	2.0	2.0				
+10	5	fb:cell_tingkat_percobaan_pembunuhan.4_94	4.94	4.94	4.94	CD	NUMBER	4.94	4.94				
+10	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.null											
+10	7	fb:cell_nomor_serangan_besar.215	215	215	215	CD	NUMBER	215.0	215.0				
+10	8	fb:cell_tingkat_serangan_besar.531	531	531	531	CD	NUMBER	531.0	531.0				
+10	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.38	38	38	38	CD	NUMBER	38.0	38.0				
+10	10	fb:cell_nomor_perampokan.15	15	15	15	CD	NUMBER	15.0	15.0				
+10	11	fb:cell_tingkat_perampokan.37	37	37	37	CD	NUMBER	37.0	37.0				
+10	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.22	22	22	22	CD	NUMBER	22.0	22.0				
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_nomor_pembunuhan.6	6	6	6	CD	NUMBER	6.0	6.0				
+11	2	fb:cell_tingkat_pembunuhan.13_47	13.47	13.47	13.47	CD	NUMBER	13.47	13.47				
+11	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.null											
+11	4	fb:cell_nomor_percobaan_pembunuhan.1	1	1	1	CD	NUMBER	1.0	1.0				
+11	5	fb:cell_tingkat_percobaan_pembunuhan.2_25	2.25	2.25	2.25	CD	NUMBER	2.25	2.25				
+11	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.null											
+11	7	fb:cell_nomor_serangan_besar.427	427	427	427	CD	NUMBER	427.0	427.0				
+11	8	fb:cell_tingkat_serangan_besar.959	959	959	959	CD	NUMBER	959.0	959.0				
+11	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+11	10	fb:cell_nomor_perampokan.37	37	37	37	CD	NUMBER	37.0	37.0				
+11	11	fb:cell_tingkat_perampokan.83	83	83	83	CD	NUMBER	83.0	83.0				
+11	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018.24	24	24	24	CD	NUMBER	24.0	24.0				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_nomor_pembunuhan.8	8	8	8	CD	NUMBER	8.0	8.0				
+12	2	fb:cell_tingkat_pembunuhan.20_84	20.84	20.84	20.84	CD	NUMBER	20.84	20.84				
+12	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+12	4	fb:cell_nomor_percobaan_pembunuhan.8	8	8	8	CD	NUMBER	8.0	8.0				
+12	5	fb:cell_tingkat_percobaan_pembunuhan.20_84	20.84	20.84	20.84	CD	NUMBER	20.84	20.84				
+12	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018.null											
+12	7	fb:cell_nomor_serangan_besar.445	445	445	445	CD	NUMBER	445.0	445.0				
+12	8	fb:cell_tingkat_serangan_besar.1159	1159	1159	1159	CD	DATE	1159	1159.0	1159-xx-xx			
+12	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.10	10	10	10	CD	NUMBER	10.0	10.0				
+12	10	fb:cell_nomor_perampokan.13	13	13	13	CD	NUMBER	13.0	13.0				
+12	11	fb:cell_tingkat_perampokan.34	34	34	34	CD	NUMBER	34.0	34.0				
+12	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._15	-15	-15	-15	CD	NUMBER	-15.0	15.0				
+13	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+13	1	fb:cell_nomor_pembunuhan.651	651	651	651	CD	NUMBER	651.0	651.0				
+13	2	fb:cell_tingkat_pembunuhan.1_76	1.76	1.76	1.76	CD	NUMBER	1.76	1.76				
+13	3	fb:cell_perubahan_persentase_pembunuhan_pada_tahun_2017_hingga_2018._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+13	4	fb:cell_nomor_percobaan_pembunuhan.807	807	807	807	CD	NUMBER	807.0	807.0				
+13	5	fb:cell_tingkat_percobaan_pembunuhan.2_18	2.18	2.18	2.18	CD	NUMBER	2.18	2.18				
+13	6	fb:cell_persen_perubahan_angka_percobaan_pembunuhan_tahun_2017_ke_tahun_2018._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+13	7	fb:cell_nomor_serangan_besar.57308	57308	57308	57308	CD	NUMBER	57308.0	57308.0				
+13	8	fb:cell_tingkat_serangan_besar.155	155	155	155	CD	NUMBER	155.0	155.0				
+13	9	fb:cell_perubahan_persentase_serangan_besar_pada_tahun_2017_hingga_2018.1	1	1	1	CD	NUMBER	1.0	1.0				
+13	10	fb:cell_nomor_perampokan.22450	22450	22450	22450	CD	NUMBER	22450.0	22450.0				
+13	11	fb:cell_tingkat_perampokan.61	61	61	61	CD	NUMBER	61.0	61.0				
+13	12	fb:cell_persen_perampokan_perubahan_tarif_2017_ke_2018._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				

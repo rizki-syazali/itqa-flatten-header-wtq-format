@@ -1,0 +1,121 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.indeks_indeks_keparahan_kejahatan_remaja_total	indeks indeks keparahan kejahatan remaja total	indeks|indeks|keparahan|kejahatan|remaja|total	indeks|indeks|keparahan|kejahatan|remaja|total	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017	total persentase perubahan indeks keparahan kejahatan remaja pada tahun 2016 hingga 2017	total|persentase|perubahan|indeks|keparahan|kejahatan|remaja|pada|tahun|2016|hingga|2017	total|persentase|perubahan|indek|keparahan|kejahatan|remaja|pada|tahun|2016|hingga|2017	JJ|NN|NN|VBZ|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|O|O|DATE|O|DATE	|||||||||2016||2017					
+-1	3	fb:row.row.total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017	total persen perubahan indeks keparahan kejahatan remaja 2007 hingga 2017	total|persen|perubahan|indeks|keparahan|kejahatan|remaja|2007|hingga|2017	total|persen|perubahan|indeks|keparahan|kejahatan|remaja|2007|hingga|2017	JJ|JJ|NN|NN|NN|NN|NN|CD|NNP|CD	O|O|O|O|O|O|O|DATE|O|DATE	|||||||2007||2017					
+-1	4	fb:row.row.indeks_indeks_keparahan_kejahatan_kekerasan_remaja	indeks indeks keparahan kejahatan kekerasan remaja	indeks|indeks|keparahan|kejahatan|kekerasan|remaja	indeks|indeks|keparahan|kejahatan|kekerasan|remaja	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	5	fb:row.row.persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017	persentase perubahan indeks keparahan kejahatan kekerasan remaja pada tahun 2016 hingga 2017	persentase|perubahan|indeks|keparahan|kejahatan|kekerasan|remaja|pada|tahun|2016|hingga|2017	persentase|perubahan|indek|keparahan|kejahatan|kekerasan|remaja|pada|tahun|2016|hingga|2017	NN|NN|VBZ|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|O|O|DATE|O|DATE	|||||||||2016||2017					
+-1	6	fb:row.row.indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja	indeks indeks keparahan kejahatan tanpa kekerasan remaja	indeks|indeks|keparahan|kejahatan|tanpa|kekerasan|remaja	indeks|indeks|keparahan|kejahatan|tanpa|kekerasan|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	7	fb:row.row.persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017	persentase perubahan indeks keparahan kejahatan tanpa kekerasan remaja pada tahun 2016 hingga 2017	persentase|perubahan|indeks|keparahan|kejahatan|tanpa|kekerasan|remaja|pada|tahun|2016|hingga|2017	persentase|perubahan|indek|keparahan|kejahatan|tanpa|kekerasan|remaja|pada|tahun|2016|hingga|2017	NN|NN|VBZ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|O|O|O|DATE|O|DATE	||||||||||2016||2017					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+0	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+0	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._39_0	-39.0	-39.0	-39.0	CD	NUMBER	-39.0	39.0				
+0	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.55_2	55.2	55.2	55.2	CD	NUMBER	55.2	55.2				
+0	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+0	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+0	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.29_7	29.7	29.7	29.7	CD	NUMBER	29.7	29.7				
+1	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+1	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._58_0	-58.0	-58.0	-58.0	CD	NUMBER	-58.0	58.0				
+1	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+1	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+1	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.29_3	29.3	29.3	29.3	CD	NUMBER	29.3	29.3				
+1	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+2	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+2	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._50_0	-50.0	-50.0	-50.0	CD	NUMBER	-50.0	50.0				
+2	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.82_7	82.7	82.7	82.7	CD	NUMBER	82.7	82.7				
+2	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+2	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.59_7	59.7	59.7	59.7	CD	NUMBER	59.7	59.7				
+2	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.52_5	52.5	52.5	52.5	CD	NUMBER	52.5	52.5				
+3	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+3	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._45_0	-45.0	-45.0	-45.0	CD	NUMBER	-45.0	45.0				
+3	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+3	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+3	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.51_7	51.7	51.7	51.7	CD	NUMBER	51.7	51.7				
+3	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+4	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+4	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.78_4	78.4	78.4	78.4	CD	NUMBER	78.4	78.4				
+4	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+4	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.45_2	45.2	45.2	45.2	CD	NUMBER	45.2	45.2				
+4	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.58_3	58.3	58.3	58.3	CD	NUMBER	58.3	58.3				
+5	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+5	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._40_0	-40.0	-40.0	-40.0	CD	NUMBER	-40.0	40.0				
+5	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+5	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+5	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.39_9	39.9	39.9	39.9	CD	NUMBER	39.9	39.9				
+5	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.132_0	132.0	132.0	132.0	CD	NUMBER	132.0	132.0				
+6	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+6	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._37_0	-37.0	-37.0	-37.0	CD	NUMBER	-37.0	37.0				
+6	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.180_5	180.5	180.5	180.5	CD	NUMBER	180.5	180.5				
+6	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+6	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.97_7	97.7	97.7	97.7	CD	NUMBER	97.7	97.7				
+6	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.159_3	159.3	159.3	159.3	CD	NUMBER	159.3	159.3				
+7	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+7	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._47_0	-47.0	-47.0	-47.0	CD	NUMBER	-47.0	47.0				
+7	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.154_4	154.4	154.4	154.4	CD	NUMBER	154.4	154.4				
+7	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+7	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.161_2	161.2	161.2	161.2	CD	NUMBER	161.2	161.2				
+7	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.57_4	57.4	57.4	57.4	CD	NUMBER	57.4	57.4				
+8	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+8	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._48_0	-48.0	-48.0	-48.0	CD	NUMBER	-48.0	48.0				
+8	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.65_2	65.2	65.2	65.2	CD	NUMBER	65.2	65.2				
+8	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+8	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.51_5	51.5	51.5	51.5	CD	NUMBER	51.5	51.5				
+8	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+9	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+9	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._50_0	-50.0	-50.0	-50.0	CD	NUMBER	-50.0	50.0				
+9	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.41_7	41.7	41.7	41.7	CD	NUMBER	41.7	41.7				
+9	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+9	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.34_1	34.1	34.1	34.1	CD	NUMBER	34.1	34.1				
+9	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.178_5	178.5	178.5	178.5	CD	NUMBER	178.5	178.5				
+10	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+10	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._40_0	-40.0	-40.0	-40.0	CD	NUMBER	-40.0	40.0				
+10	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.142_8	142.8	142.8	142.8	CD	NUMBER	142.8	142.8				
+10	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+10	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.201_2	201.2	201.2	201.2	CD	NUMBER	201.2	201.2				
+10	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.283_7	283.7	283.7	283.7	CD	NUMBER	283.7	283.7				
+11	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+11	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._40_0	-40.0	-40.0	-40.0	CD	NUMBER	-40.0	40.0				
+11	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.228_6	228.6	228.6	228.6	CD	NUMBER	228.6	228.6				
+11	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+11	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.318_7	318.7	318.7	318.7	CD	NUMBER	318.7	318.7				
+11	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.271_9	271.9	271.9	271.9	CD	NUMBER	271.9	271.9				
+12	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+12	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._33_0	-33.0	-33.0	-33.0	CD	NUMBER	-33.0	33.0				
+12	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.205_2	205.2	205.2	205.2	CD	NUMBER	205.2	205.2				
+12	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+12	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.314_9	314.9	314.9	314.9	CD	NUMBER	314.9	314.9				
+12	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+13	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+13	1	fb:cell_indeks_indeks_keparahan_kejahatan_remaja_total.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+13	2	fb:cell_total_persentase_perubahan_indeks_keparahan_kejahatan_remaja_pada_tahun_2016_hingga_2017.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+13	3	fb:cell_total_persen_perubahan_indeks_keparahan_kejahatan_remaja_2007_hingga_2017._38_0	-38.0	-38.0	-38.0	CD	NUMBER	-38.0	38.0				
+13	4	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan_remaja.81_2	81.2	81.2	81.2	CD	NUMBER	81.2	81.2				
+13	5	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_remaja_pada_tahun_2016_hingga_2017.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+13	6	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+13	7	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_remaja_pada_tahun_2016_hingga_2017._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				

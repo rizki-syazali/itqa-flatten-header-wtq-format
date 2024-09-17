@@ -1,0 +1,651 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.srr_1991	srr 1991	srr|1991	srr|1991	NNP|CD	O|DATE	|1991					
+-1	2	fb:row.row.srr_2010	srr 2010	srr|2010	srr|2010	NNP|CD	O|DATE	|2010					
+-1	3	fb:row.row.1991_hingga_2010_perubahan	1991 hingga 2010 % perubahan	1991|hingga|2010|%|perubahan	1991|hingga|2010|%|perubahan	CD|NNP|CD|NN|NN	DATE|O|PERCENT|PERCENT|O	1991||%2010.0|%2010.0|					
+-1	4	fb:row.row.p	P	p	p	NN	O						
+-1	5	fb:row.row._perubahan_tahunan	% perubahan tahunan	%|perubahan|tahunan	%|perubahan|tahunan	NN|NN|NN	O|O|O	||					
+-1	6	fb:row.row._perubahan_tahunan_interval_kepercayaan_95_dari	% perubahan tahunan interval kepercayaan 95% dari	%|perubahan|tahunan|interval|kepercayaan|95|%|dari	%|perubahan|tahunan|interval|kepercayaan|95|%|dari	NN|NN|NN|NN|NN|CD|NN|NNP	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	7	fb:row.row._tahunan_mengubah_interval_kepercayaan_95_menjadi	% tahunan mengubah interval kepercayaan 95% menjadi	%|tahunan|mengubah|interval|kepercayaan|95|%|menjadi	%|tahunan|mengubah|interval|kepercayaan|95|%|menjadi	NN|NN|NN|NN|NN|CD|NN|NN	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	8	fb:row.row.perkiraan_srr_2014	perkiraan srr 2014	perkiraan|srr|2014	perkiraan|srr|2014	NNP|NNP|CD	O|O|DATE	||2014					
+-1	9	fb:row.row.2010_hingga_2014_perubahan	2010 hingga 2014 % perubahan	2010|hingga|2014|%|perubahan	2010|hingga|2014|%|perubahan	CD|NNP|CD|NN|NN	DATE|O|PERCENT|PERCENT|O	2010||%2014.0|%2014.0|					
+-1	10	fb:row.row._perubahan_tahunan_2	% perubahan tahunan	%|perubahan|tahunan	%|perubahan|tahunan	NN|NN|NN	O|O|O	||					
+-1	11	fb:row.row._perubahan_tahunan_interval_kepercayaan_95_dari_2	% perubahan tahunan interval kepercayaan 95% dari	%|perubahan|tahunan|interval|kepercayaan|95|%|dari	%|perubahan|tahunan|interval|kepercayaan|95|%|dari	NN|NN|NN|NN|NN|CD|NN|NNP	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	12	fb:row.row._tahunan_mengubah_interval_kepercayaan_95_menjadi_2	% tahunan mengubah interval kepercayaan 95% menjadi	%|tahunan|mengubah|interval|kepercayaan|95|%|menjadi	%|tahunan|mengubah|interval|kepercayaan|95|%|menjadi	NN|NN|NN|NN|NN|CD|NN|NN	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.asli	asli	asli	asli	NNP	O						
+0	1	fb:cell_srr_1991.null											
+0	2	fb:cell_srr_2010.null											
+0	3	fb:cell_1991_hingga_2010_perubahan.null											
+0	4	fb:cell_p.null											
+0	5	fb:cell__perubahan_tahunan.null											
+0	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+0	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+0	8	fb:cell_perkiraan_srr_2014.null											
+0	9	fb:cell_2010_hingga_2014_perubahan.null											
+0	10	fb:cell__perubahan_tahunan_2.null											
+0	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+0	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+1	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+1	1	fb:cell_srr_1991.null											
+1	2	fb:cell_srr_2010.null											
+1	3	fb:cell_1991_hingga_2010_perubahan.null											
+1	4	fb:cell_p.null											
+1	5	fb:cell__perubahan_tahunan.null											
+1	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+1	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+1	8	fb:cell_perkiraan_srr_2014.null											
+1	9	fb:cell_2010_hingga_2014_perubahan.null											
+1	10	fb:cell__perubahan_tahunan_2.null											
+1	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+1	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+2	0	fb:cell_kharakteristik.cedera_total_yang_tidak_disengaja	cedera total yang tidak disengaja	cedera|total|yang|tidak|disengaja	cedera|total|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+2	1	fb:cell_srr_1991.2_87	2.87	2.87	2.87	CD	NUMBER	2.87	2.87				
+2	2	fb:cell_srr_2010.1_15	1.15	1.15	1.15	CD	NUMBER	1.15	1.15				
+2	3	fb:cell_1991_hingga_2010_perubahan._59_9	-59.9	-59.9	-59.9	CD	NUMBER	-59.9	59.9				
+2	4	fb:cell_p.0_001	0.001	0.001	0.001	CD	NUMBER	0.001	0.001				
+2	5	fb:cell__perubahan_tahunan._4_7	-4.7	-4.7	-4.7	CD	NUMBER	-4.7	4.7				
+2	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._5_4	-5.4	-5.4	-5.4	CD	NUMBER	-5.4	5.4				
+2	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+2	8	fb:cell_perkiraan_srr_2014.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+2	9	fb:cell_2010_hingga_2014_perubahan._31_5	-31.5	-31.5	-31.5	CD	NUMBER	-31.5	31.5				
+2	10	fb:cell__perubahan_tahunan_2._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+2	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._22_7	-22.7	-22.7	-22.7	CD	NUMBER	-22.7	22.7				
+2	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	0	fb:cell_kharakteristik.kendaraan_pengangkut_cedera_total_yang_tidak_disengaja	kendaraan pengangkut cedera total yang tidak disengaja	kendaraan|pengangkut|cedera|total|yang|tidak|disengaja	kendaraan|pengangkut|cedera|total|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_srr_1991.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+3	2	fb:cell_srr_2010.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+3	3	fb:cell_1991_hingga_2010_perubahan._84_1	-84.1	-84.1	-84.1	CD	NUMBER	-84.1	84.1				
+3	4	fb:cell_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	5	fb:cell__perubahan_tahunan._9_2	-9.2	-9.2	-9.2	CD	NUMBER	-9.2	9.2				
+3	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._10_6	-10.6	-10.6	-10.6	CD	NUMBER	-10.6	10.6				
+3	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._7_9	-7.9	-7.9	-7.9	CD	NUMBER	-7.9	7.9				
+3	8	fb:cell_perkiraan_srr_2014._0_07	-0.07	-0.07	-0.07	CD	NUMBER	-0.07	0.07				
+3	9	fb:cell_2010_hingga_2014_perubahan.null											
+3	10	fb:cell__perubahan_tahunan_2.null											
+3	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+3	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+4	0	fb:cell_kharakteristik.cedera_total_yang_tidak_disengaja_kecelakaan_medis_bedah	cedera total yang tidak disengaja, kecelakaan medis/bedah	cedera|total|yang|tidak|disengaja|,|kecelakaan|medis/bedah	cedera|total|yang|tidak|disengaja|,|kecelakaan|medis/bedah	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				cedera total yang tidak disengaja|kecelakaan medis|bedah	fb:part_kharakteristik.cedera_total_yang_tidak_disengaja|fb:part_kharakteristik.kecelakaan_medis|fb:part_kharakteristik.bedah
+4	1	fb:cell_srr_1991.1_89	1.89	1.89	1.89	CD	NUMBER	1.89	1.89				
+4	2	fb:cell_srr_2010.1_24	1.24	1.24	1.24	CD	NUMBER	1.24	1.24				
+4	3	fb:cell_1991_hingga_2010_perubahan._34_1	-34.1	-34.1	-34.1	CD	NUMBER	-34.1	34.1				
+4	4	fb:cell_p.0_181	0.181	0.181	0.181	CD	NUMBER	0.181	0.181				
+4	5	fb:cell__perubahan_tahunan._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+4	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_7	-3.7	-3.7	-3.7	CD	NUMBER	-3.7	3.7				
+4	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+4	8	fb:cell_perkiraan_srr_2014.1_09	1.09	1.09	1.09	CD	NUMBER	1.09	1.09				
+4	9	fb:cell_2010_hingga_2014_perubahan._12_3	-12.3	-12.3	-12.3	CD	NUMBER	-12.3	12.3				
+4	10	fb:cell__perubahan_tahunan_2._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+4	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._9_5	-9.5	-9.5	-9.5	CD	NUMBER	-9.5	9.5				
+4	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+5	0	fb:cell_kharakteristik.total_cedera_yang_tidak_disengaja_jatuh	total cedera yang tidak disengaja jatuh	total|cedera|yang|tidak|disengaja|jatuh	total|cedera|yang|tidak|disengaja|jatuh	JJ|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+5	1	fb:cell_srr_1991.2_88	2.88	2.88	2.88	CD	NUMBER	2.88	2.88				
+5	2	fb:cell_srr_2010.1_47	1.47	1.47	1.47	CD	NUMBER	1.47	1.47				
+5	3	fb:cell_1991_hingga_2010_perubahan._49_0	-49.0	-49.0	-49.0	CD	NUMBER	-49.0	49.0				
+5	4	fb:cell_p.0_039	0.039	0.039	0.039	CD	NUMBER	0.039	0.039				
+5	5	fb:cell__perubahan_tahunan._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+5	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_6	-4.6	-4.6	-4.6	CD	NUMBER	-4.6	4.6				
+5	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_3	-2.3	-2.3	-2.3	CD	NUMBER	-2.3	2.3				
+5	8	fb:cell_perkiraan_srr_2014.1_17	1.17	1.17	1.17	CD	NUMBER	1.17	1.17				
+5	9	fb:cell_2010_hingga_2014_perubahan._20_2	-20.2	-20.2	-20.2	CD	NUMBER	-20.2	20.2				
+5	10	fb:cell__perubahan_tahunan_2._5_5	-5.5	-5.5	-5.5	CD	NUMBER	-5.5	5.5				
+5	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._20_2	-20.2	-20.2	-20.2	CD	NUMBER	-20.2	20.2				
+5	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+6	0	fb:cell_kharakteristik.cedera_total_yang_diakibatkan_oleh_diri_sendiri	cedera total yang diakibatkan oleh diri sendiri	cedera|total|yang|diakibatkan|oleh|diri|sendiri	cedera|total|yang|diakibatkan|oleh|diri|sendiri	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_srr_1991.4_74	4.74	4.74	4.74	CD	NUMBER	4.74	4.74				
+6	2	fb:cell_srr_2010.1_81	1.81	1.81	1.81	CD	NUMBER	1.81	1.81				
+6	3	fb:cell_1991_hingga_2010_perubahan._61_9	-61.9	-61.9	-61.9	CD	NUMBER	-61.9	61.9				
+6	4	fb:cell_p.0_358	0.358	0.358	0.358	CD	NUMBER	0.358	0.358				
+6	5	fb:cell__perubahan_tahunan._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+6	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._7_2	-7.2	-7.2	-7.2	CD	NUMBER	-7.2	7.2				
+6	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_6	-2.6	-2.6	-2.6	CD	NUMBER	-2.6	2.6				
+6	8	fb:cell_perkiraan_srr_2014.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+6	9	fb:cell_2010_hingga_2014_perubahan._16_8	-16.8	-16.8	-16.8	CD	NUMBER	-16.8	16.8				
+6	10	fb:cell__perubahan_tahunan_2._4_5	-4.5	-4.5	-4.5	CD	NUMBER	-4.5	4.5				
+6	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+6	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+7	0	fb:cell_kharakteristik.keracunan_cedera_total_yang_diakibatkan_oleh_diri_sendiri	keracunan cedera total yang diakibatkan oleh diri sendiri	keracunan|cedera|total|yang|diakibatkan|oleh|diri|sendiri	keracunan|cedera|total|yang|diakibatkan|oleh|diri|sendiri	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+7	1	fb:cell_srr_1991.4_29	4.29	4.29	4.29	CD	NUMBER	4.29	4.29				
+7	2	fb:cell_srr_2010.1_78	1.78	1.78	1.78	CD	NUMBER	1.78	1.78				
+7	3	fb:cell_1991_hingga_2010_perubahan._58_5	-58.5	-58.5	-58.5	CD	NUMBER	-58.5	58.5				
+7	4	fb:cell_p.0_479	0.479	0.479	0.479	CD	NUMBER	0.479	0.479				
+7	5	fb:cell__perubahan_tahunan._4_5	-4.5	-4.5	-4.5	CD	NUMBER	-4.5	4.5				
+7	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+7	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+7	8	fb:cell_perkiraan_srr_2014.1_59	1.59	1.59	1.59	CD	NUMBER	1.59	1.59				
+7	9	fb:cell_2010_hingga_2014_perubahan._10_8	-10.8	-10.8	-10.8	CD	NUMBER	-10.8	10.8				
+7	10	fb:cell__perubahan_tahunan_2._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+7	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._12_8	-12.8	-12.8	-12.8	CD	NUMBER	-12.8	12.8				
+7	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+8	0	fb:cell_kharakteristik.total_yang_sengaja_ditimbulkan_oleh_orang_lain	total yang sengaja ditimbulkan oleh orang lain	total|yang|sengaja|ditimbulkan|oleh|orang|lain	total|yang|sengaja|ditimbulkan|oleh|orang|lain	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+8	1	fb:cell_srr_1991.6_54	6.54	6.54	6.54	CD	NUMBER	6.54	6.54				
+8	2	fb:cell_srr_2010.3_23	3.23	3.23	3.23	CD	NUMBER	3.23	3.23				
+8	3	fb:cell_1991_hingga_2010_perubahan._50_7	-50.7	-50.7	-50.7	CD	NUMBER	-50.7	50.7				
+8	4	fb:cell_p.0_516	0.516	0.516	0.516	CD	NUMBER	0.516	0.516				
+8	5	fb:cell__perubahan_tahunan._3_6	-3.6	-3.6	-3.6	CD	NUMBER	-3.6	3.6				
+8	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_4	-6.4	-6.4	-6.4	CD	NUMBER	-6.4	6.4				
+8	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+8	8	fb:cell_perkiraan_srr_2014.3_55	3.55	3.55	3.55	CD	NUMBER	3.55	3.55				
+8	9	fb:cell_2010_hingga_2014_perubahan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+8	10	fb:cell__perubahan_tahunan_2.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+8	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._7_5	-7.5	-7.5	-7.5	CD	NUMBER	-7.5	7.5				
+8	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+9	0	fb:cell_kharakteristik.pria	pria	pria	pria	NNP	O						
+9	1	fb:cell_srr_1991.null											
+9	2	fb:cell_srr_2010.null											
+9	3	fb:cell_1991_hingga_2010_perubahan.null											
+9	4	fb:cell_p.null											
+9	5	fb:cell__perubahan_tahunan.null											
+9	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+9	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+9	8	fb:cell_perkiraan_srr_2014.null											
+9	9	fb:cell_2010_hingga_2014_perubahan.null											
+9	10	fb:cell__perubahan_tahunan_2.null											
+9	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+9	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+10	0	fb:cell_kharakteristik.cedera_pria_yang_tidak_disengaja	cedera pria yang tidak disengaja	cedera|pria|yang|tidak|disengaja	cedera|pria|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+10	1	fb:cell_srr_1991.2_77	2.77	2.77	2.77	CD	NUMBER	2.77	2.77				
+10	2	fb:cell_srr_2010.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+10	3	fb:cell_1991_hingga_2010_perubahan._58_7	-58.7	-58.7	-58.7	CD	NUMBER	-58.7	58.7				
+10	4	fb:cell_p.0_204	0.204	0.204	0.204	CD	NUMBER	0.204	0.204				
+10	5	fb:cell__perubahan_tahunan._4_5	-4.5	-4.5	-4.5	CD	NUMBER	-4.5	4.5				
+10	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._5_4	-5.4	-5.4	-5.4	CD	NUMBER	-5.4	5.4				
+10	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_7	-3.7	-3.7	-3.7	CD	NUMBER	-3.7	3.7				
+10	8	fb:cell_perkiraan_srr_2014.1_16	1.16	1.16	1.16	CD	NUMBER	1.16	1.16				
+10	9	fb:cell_2010_hingga_2014_perubahan.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+10	10	fb:cell__perubahan_tahunan_2.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+10	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._7_2	-7.2	-7.2	-7.2	CD	NUMBER	-7.2	7.2				
+10	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+11	0	fb:cell_kharakteristik.kendaraan_pengangkut_cedera_pria_yang_tidak_disengaja	kendaraan pengangkut cedera pria yang tidak disengaja	kendaraan|pengangkut|cedera|pria|yang|tidak|disengaja	kendaraan|pengangkut|cedera|pria|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+11	1	fb:cell_srr_1991.3_58	3.58	3.58	3.58	CD	NUMBER	3.58	3.58				
+11	2	fb:cell_srr_2010.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+11	3	fb:cell_1991_hingga_2010_perubahan._83_2	-83.2	-83.2	-83.2	CD	NUMBER	-83.2	83.2				
+11	4	fb:cell_p.0_001	0.001	0.001	0.001	CD	NUMBER	0.001	0.001				
+11	5	fb:cell__perubahan_tahunan._8_9	-8.9	-8.9	-8.9	CD	NUMBER	-8.9	8.9				
+11	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._10_6	-10.6	-10.6	-10.6	CD	NUMBER	-10.6	10.6				
+11	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._7_3	-7.3	-7.3	-7.3	CD	NUMBER	-7.3	7.3				
+11	8	fb:cell_perkiraan_srr_2014.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+11	9	fb:cell_2010_hingga_2014_perubahan.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+11	10	fb:cell__perubahan_tahunan_2.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+11	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._50_2	-50.2	-50.2	-50.2	CD	NUMBER	-50.2	50.2				
+11	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+12	0	fb:cell_kharakteristik.cedera_pria_yang_tidak_disengaja_kecelakaan_medis_bedah	cedera pria yang tidak disengaja, kecelakaan medis/bedah	cedera|pria|yang|tidak|disengaja|,|kecelakaan|medis/bedah	cedera|pria|yang|tidak|disengaja|,|kecelakaan|medis/bedah	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				cedera pria yang tidak disengaja|kecelakaan medis|bedah	fb:part_kharakteristik.cedera_pria_yang_tidak_disengaja|fb:part_kharakteristik.kecelakaan_medis|fb:part_kharakteristik.bedah
+12	1	fb:cell_srr_1991.1_49	1.49	1.49	1.49	CD	NUMBER	1.49	1.49				
+12	2	fb:cell_srr_2010.1_44	1.44	1.44	1.44	CD	NUMBER	1.44	1.44				
+12	3	fb:cell_1991_hingga_2010_perubahan._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+12	4	fb:cell_p.0_011	0.011	0.011	0.011	CD	NUMBER	0.011	0.011				
+12	5	fb:cell__perubahan_tahunan._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+12	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._2_4	-2.4	-2.4	-2.4	CD	NUMBER	-2.4	2.4				
+12	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+12	8	fb:cell_perkiraan_srr_2014.1_39	1.39	1.39	1.39	CD	NUMBER	1.39	1.39				
+12	9	fb:cell_2010_hingga_2014_perubahan._3_7	-3.7	-3.7	-3.7	CD	NUMBER	-3.7	3.7				
+12	10	fb:cell__perubahan_tahunan_2._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+12	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._11_5	-11.5	-11.5	-11.5	CD	NUMBER	-11.5	11.5				
+12	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+13	0	fb:cell_kharakteristik.cedera_pria_yang_tidak_disengaja_jatuh	cedera pria yang tidak disengaja jatuh	cedera|pria|yang|tidak|disengaja|jatuh	cedera|pria|yang|tidak|disengaja|jatuh	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+13	1	fb:cell_srr_1991.2_64	2.64	2.64	2.64	CD	NUMBER	2.64	2.64				
+13	2	fb:cell_srr_2010.1_62	1.62	1.62	1.62	CD	NUMBER	1.62	1.62				
+13	3	fb:cell_1991_hingga_2010_perubahan._38_9	-38.9	-38.9	-38.9	CD	NUMBER	-38.9	38.9				
+13	4	fb:cell_p.0_969	0.969	0.969	0.969	CD	NUMBER	0.969	0.969				
+13	5	fb:cell__perubahan_tahunan._2_6	-2.6	-2.6	-2.6	CD	NUMBER	-2.6	2.6				
+13	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_2	-4.2	-4.2	-4.2	CD	NUMBER	-4.2	4.2				
+13	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+13	8	fb:cell_perkiraan_srr_2014.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+13	9	fb:cell_2010_hingga_2014_perubahan._13_4	-13.4	-13.4	-13.4	CD	NUMBER	-13.4	13.4				
+13	10	fb:cell__perubahan_tahunan_2._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+13	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._16_7	-16.7	-16.7	-16.7	CD	NUMBER	-16.7	16.7				
+13	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+14	0	fb:cell_kharakteristik.cedera_yang_diakibatkan_oleh_diri_sendiri_oleh_pria	cedera yang diakibatkan oleh diri sendiri oleh pria	cedera|yang|diakibatkan|oleh|diri|sendiri|oleh|pria	cedera|yang|diakibatkan|oleh|diri|sendiri|oleh|pria	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+14	1	fb:cell_srr_1991.3_87	3.87	3.87	3.87	CD	NUMBER	3.87	3.87				
+14	2	fb:cell_srr_2010.1_83	1.83	1.83	1.83	CD	NUMBER	1.83	1.83				
+14	3	fb:cell_1991_hingga_2010_perubahan._52_7	-52.7	-52.7	-52.7	CD	NUMBER	-52.7	52.7				
+14	4	fb:cell_p.0_844	0.844	0.844	0.844	CD	NUMBER	0.844	0.844				
+14	5	fb:cell__perubahan_tahunan._3_9	-3.9	-3.9	-3.9	CD	NUMBER	-3.9	3.9				
+14	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._7_8	-7.8	-7.8	-7.8	CD	NUMBER	-7.8	7.8				
+14	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+14	8	fb:cell_perkiraan_srr_2014.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+14	9	fb:cell_2010_hingga_2014_perubahan._23_4	-23.4	-23.4	-23.4	CD	NUMBER	-23.4	23.4				
+14	10	fb:cell__perubahan_tahunan_2._6_5	-6.5	-6.5	-6.5	CD	NUMBER	-6.5	6.5				
+14	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._26_8	-26.8	-26.8	-26.8	CD	NUMBER	-26.8	26.8				
+14	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+15	0	fb:cell_kharakteristik.keracunan_cedera_yang_diakibatkan_oleh_laki_laki	keracunan cedera yang diakibatkan oleh laki-laki	keracunan|cedera|yang|diakibatkan|oleh|laki|laki	keracunan|cedera|yang|diakibatkan|oleh|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON|PERSON	||||||					
+15	1	fb:cell_srr_1991.2_61	2.61	2.61	2.61	CD	NUMBER	2.61	2.61				
+15	2	fb:cell_srr_2010.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+15	3	fb:cell_1991_hingga_2010_perubahan._38_6	-38.6	-38.6	-38.6	CD	NUMBER	-38.6	38.6				
+15	4	fb:cell_p.0_528	0.528	0.528	0.528	CD	NUMBER	0.528	0.528				
+15	5	fb:cell__perubahan_tahunan._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+15	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._7_1	-7.1	-7.1	-7.1	CD	NUMBER	-7.1	7.1				
+15	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+15	8	fb:cell_perkiraan_srr_2014.1_63	1.63	1.63	1.63	CD	NUMBER	1.63	1.63				
+15	9	fb:cell_2010_hingga_2014_perubahan.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+15	10	fb:cell__perubahan_tahunan_2.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+15	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._24_3	-24.3	-24.3	-24.3	CD	NUMBER	-24.3	24.3				
+15	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+16	0	fb:cell_kharakteristik.laki_laki_dengan_sengaja_dilakukan_oleh_orang_lain	laki-laki dengan sengaja dilakukan oleh orang lain	laki|laki|dengan|sengaja|dilakukan|oleh|orang|lain	laki|laki|dengan|sengaja|dilakukan|oleh|orang|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O	|||||||					
+16	1	fb:cell_srr_1991.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+16	2	fb:cell_srr_2010.2_64	2.64	2.64	2.64	CD	NUMBER	2.64	2.64				
+16	3	fb:cell_1991_hingga_2010_perubahan._51_9	-51.9	-51.9	-51.9	CD	NUMBER	-51.9	51.9				
+16	4	fb:cell_p.0_377	0.377	0.377	0.377	CD	NUMBER	0.377	0.377				
+16	5	fb:cell__perubahan_tahunan._3_8	-3.8	-3.8	-3.8	CD	NUMBER	-3.8	3.8				
+16	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_8	-6.8	-6.8	-6.8	CD	NUMBER	-6.8	6.8				
+16	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._0_7	-0.7	-0.7	-0.7	CD	NUMBER	-0.7	0.7				
+16	8	fb:cell_perkiraan_srr_2014.2_04	2.04	2.04	2.04	CD	NUMBER	2.04	2.04				
+16	9	fb:cell_2010_hingga_2014_perubahan._22_7	-22.7	-22.7	-22.7	CD	NUMBER	-22.7	22.7				
+16	10	fb:cell__perubahan_tahunan_2._6_2	-6.2	-6.2	-6.2	CD	NUMBER	-6.2	6.2				
+16	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._48_7	-48.7	-48.7	-48.7	CD	NUMBER	-48.7	48.7				
+16	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+17	0	fb:cell_kharakteristik.perempuan	perempuan	perempuan	perempuan	NNP	O						
+17	1	fb:cell_srr_1991.null											
+17	2	fb:cell_srr_2010.null											
+17	3	fb:cell_1991_hingga_2010_perubahan.null											
+17	4	fb:cell_p.null											
+17	5	fb:cell__perubahan_tahunan.null											
+17	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+17	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+17	8	fb:cell_perkiraan_srr_2014.null											
+17	9	fb:cell_2010_hingga_2014_perubahan.null											
+17	10	fb:cell__perubahan_tahunan_2.null											
+17	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+17	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+18	0	fb:cell_kharakteristik.cedera_wanita_yang_tidak_disengaja	cedera wanita yang tidak disengaja	cedera|wanita|yang|tidak|disengaja	cedera|wanita|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+18	1	fb:cell_srr_1991.3_06	3.06	3.06	3.06	CD	NUMBER	3.06	3.06				
+18	2	fb:cell_srr_2010.1_17	1.17	1.17	1.17	CD	NUMBER	1.17	1.17				
+18	3	fb:cell_1991_hingga_2010_perubahan._61_8	-61.8	-61.8	-61.8	CD	NUMBER	-61.8	61.8				
+18	4	fb:cell_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	5	fb:cell__perubahan_tahunan._4_9	-4.9	-4.9	-4.9	CD	NUMBER	-4.9	4.9				
+18	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+18	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_9	-3.9	-3.9	-3.9	CD	NUMBER	-3.9	3.9				
+18	8	fb:cell_perkiraan_srr_2014.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+18	9	fb:cell_2010_hingga_2014_perubahan._34_0	-34.0	-34.0	-34.0	CD	NUMBER	-34.0	34.0				
+18	10	fb:cell__perubahan_tahunan_2._9_9	-9.9	-9.9	-9.9	CD	NUMBER	-9.9	9.9				
+18	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._27_1	-27.1	-27.1	-27.1	CD	NUMBER	-27.1	27.1				
+18	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+19	0	fb:cell_kharakteristik.kendaraan_pengangkut_cedera_wanita_yang_tidak_disengaja	kendaraan pengangkut cedera wanita yang tidak disengaja	kendaraan|pengangkut|cedera|wanita|yang|tidak|disengaja	kendaraan|pengangkut|cedera|wanita|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+19	1	fb:cell_srr_1991.3_63	3.63	3.63	3.63	CD	NUMBER	3.63	3.63				
+19	2	fb:cell_srr_2010.0_51	0.51	0.51	0.51	CD	NUMBER	0.51	0.51				
+19	3	fb:cell_1991_hingga_2010_perubahan._86_1	-86.1	-86.1	-86.1	CD	NUMBER	-86.1	86.1				
+19	4	fb:cell_p.0_001	0.001	0.001	0.001	CD	NUMBER	0.001	0.001				
+19	5	fb:cell__perubahan_tahunan._9_9	-9.9	-9.9	-9.9	CD	NUMBER	-9.9	9.9				
+19	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._12_1	-12.1	-12.1	-12.1	CD	NUMBER	-12.1	12.1				
+19	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._7_5	-7.5	-7.5	-7.5	CD	NUMBER	-7.5	7.5				
+19	8	fb:cell_perkiraan_srr_2014.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+19	9	fb:cell_2010_hingga_2014_perubahan._72_6	-72.6	-72.6	-72.6	CD	NUMBER	-72.6	72.6				
+19	10	fb:cell__perubahan_tahunan_2._27_6	-27.6	-27.6	-27.6	CD	NUMBER	-27.6	27.6				
+19	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+19	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+20	0	fb:cell_kharakteristik.wanita_cedera_yang_tidak_disengaja_kecelakaan_medis_bedah	wanita cedera yang tidak disengaja kecelakaan medis/bedah	wanita|cedera|yang|tidak|disengaja|kecelakaan|medis/bedah	wanita|cedera|yang|tidak|disengaja|kecelakaan|medis/bedah	NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O	||||||				wanita cedera yang tidak disengaja kecelakaan medis|bedah	fb:part_kharakteristik.wanita_cedera_yang_tidak_disengaja_kecelakaan_medis|fb:part_kharakteristik.bedah
+20	1	fb:cell_srr_1991.2_27	2.27	2.27	2.27	CD	NUMBER	2.27	2.27				
+20	2	fb:cell_srr_2010.1_07	1.07	1.07	1.07	CD	NUMBER	1.07	1.07				
+20	3	fb:cell_1991_hingga_2010_perubahan._53_0	-53.0	-53.0	-53.0	CD	NUMBER	-53.0	53.0				
+20	4	fb:cell_p.0_597	0.597	0.597	0.597	CD	NUMBER	0.597	0.597				
+20	5	fb:cell__perubahan_tahunan._3_9	-3.9	-3.9	-3.9	CD	NUMBER	-3.9	3.9				
+20	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+20	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._1_8	-1.8	-1.8	-1.8	CD	NUMBER	-1.8	1.8				
+20	8	fb:cell_perkiraan_srr_2014.1_09	1.09	1.09	1.09	CD	NUMBER	1.09	1.09				
+20	9	fb:cell_2010_hingga_2014_perubahan.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+20	10	fb:cell__perubahan_tahunan_2.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+20	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._9_3	-9.3	-9.3	-9.3	CD	NUMBER	-9.3	9.3				
+20	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+21	0	fb:cell_kharakteristik.cedera_wanita_yang_tidak_disengaja_jatuh	cedera wanita yang tidak disengaja jatuh	cedera|wanita|yang|tidak|disengaja|jatuh	cedera|wanita|yang|tidak|disengaja|jatuh	NNP|NNP|NNP|NNP|NN|NN	MISC|MISC|O|O|O|O	|||||					
+21	1	fb:cell_srr_1991.3_21	3.21	3.21	3.21	CD	NUMBER	3.21	3.21				
+21	2	fb:cell_srr_2010.1_35	1.35	1.35	1.35	CD	NUMBER	1.35	1.35				
+21	3	fb:cell_1991_hingga_2010_perubahan._57_9	-57.9	-57.9	-57.9	CD	NUMBER	-57.9	57.9				
+21	4	fb:cell_p.0_005	0.005	0.005	0.005	CD	NUMBER	0.005	0.005				
+21	5	fb:cell__perubahan_tahunan._4_5	-4.5	-4.5	-4.5	CD	NUMBER	-4.5	4.5				
+21	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_1	-6.1	-6.1	-6.1	CD	NUMBER	-6.1	6.1				
+21	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+21	8	fb:cell_perkiraan_srr_2014.0_96	0.96	0.96	0.96	CD	NUMBER	0.96	0.96				
+21	9	fb:cell_2010_hingga_2014_perubahan._29_0	-29.0	-29.0	-29.0	CD	NUMBER	-29.0	29.0				
+21	10	fb:cell__perubahan_tahunan_2._8_2	-8.2	-8.2	-8.2	CD	NUMBER	-8.2	8.2				
+21	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._35_0	-35.0	-35.0	-35.0	CD	NUMBER	-35.0	35.0				
+21	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+22	0	fb:cell_kharakteristik.cedera_yang_disebabkan_oleh_diri_sendiri_oleh_wanita	cedera yang disebabkan oleh diri sendiri oleh wanita	cedera|yang|disebabkan|oleh|diri|sendiri|oleh|wanita	cedera|yang|disebabkan|oleh|diri|sendiri|oleh|wanita	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+22	1	fb:cell_srr_1991.5_15	5.15	5.15	5.15	CD	NUMBER	5.15	5.15				
+22	2	fb:cell_srr_2010.1_79	1.79	1.79	1.79	CD	NUMBER	1.79	1.79				
+22	3	fb:cell_1991_hingga_2010_perubahan._65_2	-65.2	-65.2	-65.2	CD	NUMBER	-65.2	65.2				
+22	4	fb:cell_p.0_224	0.224	0.224	0.224	CD	NUMBER	0.224	0.224				
+22	5	fb:cell__perubahan_tahunan._5_4	-5.4	-5.4	-5.4	CD	NUMBER	-5.4	5.4				
+22	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._8_2	-8.2	-8.2	-8.2	CD	NUMBER	-8.2	8.2				
+22	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+22	8	fb:cell_perkiraan_srr_2014.1_55	1.55	1.55	1.55	CD	NUMBER	1.55	1.55				
+22	9	fb:cell_2010_hingga_2014_perubahan._13_3	-13.3	-13.3	-13.3	CD	NUMBER	-13.3	13.3				
+22	10	fb:cell__perubahan_tahunan_2._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+22	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._17_9	-17.9	-17.9	-17.9	CD	NUMBER	-17.9	17.9				
+22	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+23	0	fb:cell_kharakteristik.keracunan_cedera_yang_diakibatkan_oleh_wanita	keracunan cedera yang diakibatkan oleh wanita	keracunan|cedera|yang|diakibatkan|oleh|wanita	keracunan|cedera|yang|diakibatkan|oleh|wanita	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+23	1	fb:cell_srr_1991.4_96	4.96	4.96	4.96	CD	NUMBER	4.96	4.96				
+23	2	fb:cell_srr_2010.1_86	1.86	1.86	1.86	CD	NUMBER	1.86	1.86				
+23	3	fb:cell_1991_hingga_2010_perubahan._62_4	-62.4	-62.4	-62.4	CD	NUMBER	-62.4	62.4				
+23	4	fb:cell_p.0_293	0.293	0.293	0.293	CD	NUMBER	0.293	0.293				
+23	5	fb:cell__perubahan_tahunan._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+23	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._7_9	-7.9	-7.9	-7.9	CD	NUMBER	-7.9	7.9				
+23	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+23	8	fb:cell_perkiraan_srr_2014.1_58	1.58	1.58	1.58	CD	NUMBER	1.58	1.58				
+23	9	fb:cell_2010_hingga_2014_perubahan._15_1	-15.1	-15.1	-15.1	CD	NUMBER	-15.1	15.1				
+23	10	fb:cell__perubahan_tahunan_2._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+23	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._18_5	-18.5	-18.5	-18.5	CD	NUMBER	-18.5	18.5				
+23	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+24	0	fb:cell_kharakteristik.perempuan_dengan_sengaja_dilakukan_oleh_orang_lain	perempuan dengan sengaja dilakukan oleh orang lain	perempuan|dengan|sengaja|dilakukan|oleh|orang|lain	perempuan|dengan|sengaja|dilakukan|oleh|orang|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+24	1	fb:cell_srr_1991.10_86	10.86	10.86	10.86	CD	NUMBER	10.86	10.86				
+24	2	fb:cell_srr_2010.5_76	5.76	5.76	5.76	CD	NUMBER	5.76	5.76				
+24	3	fb:cell_1991_hingga_2010_perubahan._47_0	-47.0	-47.0	-47.0	CD	NUMBER	-47.0	47.0				
+24	4	fb:cell_p.0_814	0.814	0.814	0.814	CD	NUMBER	0.814	0.814				
+24	5	fb:cell__perubahan_tahunan._3_3	-3.3	-3.3	-3.3	CD	NUMBER	-3.3	3.3				
+24	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._9_4	-9.4	-9.4	-9.4	CD	NUMBER	-9.4	9.4				
+24	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+24	8	fb:cell_perkiraan_srr_2014.5_27	5.27	5.27	5.27	CD	NUMBER	5.27	5.27				
+24	9	fb:cell_2010_hingga_2014_perubahan._8_5	-8.5	-8.5	-8.5	CD	NUMBER	-8.5	8.5				
+24	10	fb:cell__perubahan_tahunan_2._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+24	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._18_6	-18.6	-18.6	-18.6	CD	NUMBER	-18.6	18.6				
+24	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+25	0	fb:cell_kharakteristik.total_columbia_inggris	total columbia inggris	total|columbia|inggris	total|columbia|inggris	JJ|NNP|NNP	O|O|O	||					
+25	1	fb:cell_srr_1991.null											
+25	2	fb:cell_srr_2010.null											
+25	3	fb:cell_1991_hingga_2010_perubahan.null											
+25	4	fb:cell_p.null											
+25	5	fb:cell__perubahan_tahunan.null											
+25	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+25	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+25	8	fb:cell_perkiraan_srr_2014.null											
+25	9	fb:cell_2010_hingga_2014_perubahan.null											
+25	10	fb:cell__perubahan_tahunan_2.null											
+25	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+25	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+26	0	fb:cell_kharakteristik.cedera_total_british_columbia_yang_tidak_disengaja	cedera total british columbia yang tidak disengaja	cedera|total|british|columbia|yang|tidak|disengaja	cedera|total|british|columbia|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|MISC|O|O|O|O	||||||					
+26	1	fb:cell_srr_1991.1_44	1.44	1.44	1.44	CD	NUMBER	1.44	1.44				
+26	2	fb:cell_srr_2010.0_73	0.73	0.73	0.73	CD	NUMBER	0.73	0.73				
+26	3	fb:cell_1991_hingga_2010_perubahan._49_3	-49.3	-49.3	-49.3	CD	NUMBER	-49.3	49.3				
+26	4	fb:cell_p.null											
+26	5	fb:cell__perubahan_tahunan._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+26	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_6	-3.6	-3.6	-3.6	CD	NUMBER	-3.6	3.6				
+26	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_4	-3.4	-3.4	-3.4	CD	NUMBER	-3.4	3.4				
+26	8	fb:cell_perkiraan_srr_2014.0_58	0.58	0.58	0.58	CD	NUMBER	0.58	0.58				
+26	9	fb:cell_2010_hingga_2014_perubahan._20_5	-20.5	-20.5	-20.5	CD	NUMBER	-20.5	20.5				
+26	10	fb:cell__perubahan_tahunan_2._5_6	-5.6	-5.6	-5.6	CD	NUMBER	-5.6	5.6				
+26	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._11_8	-11.8	-11.8	-11.8	CD	NUMBER	-11.8	11.8				
+26	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._0_4	-0.4	-0.4	-0.4	CD	NUMBER	-0.4	0.4				
+27	0	fb:cell_kharakteristik.total_kendaraan_pengangkut_cedera_yang_tidak_disengaja_british_columbia	total kendaraan pengangkut cedera yang tidak disengaja british columbia	total|kendaraan|pengangkut|cedera|yang|tidak|disengaja|british|columbia	total|kendaraan|pengangkut|cedera|yang|tidak|disengaja|british|columbia	JJ|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|MISC|O	||||||||					
+27	1	fb:cell_srr_1991.1_67	1.67	1.67	1.67	CD	NUMBER	1.67	1.67				
+27	2	fb:cell_srr_2010.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+27	3	fb:cell_1991_hingga_2010_perubahan._68_7	-68.7	-68.7	-68.7	CD	NUMBER	-68.7	68.7				
+27	4	fb:cell_p.null											
+27	5	fb:cell__perubahan_tahunan._5_9	-5.9	-5.9	-5.9	CD	NUMBER	-5.9	5.9				
+27	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_2	-6.2	-6.2	-6.2	CD	NUMBER	-6.2	6.2				
+27	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._5_6	-5.6	-5.6	-5.6	CD	NUMBER	-5.6	5.6				
+27	8	fb:cell_perkiraan_srr_2014.0_28	0.28	0.28	0.28	CD	NUMBER	0.28	0.28				
+27	9	fb:cell_2010_hingga_2014_perubahan._46_2	-46.2	-46.2	-46.2	CD	NUMBER	-46.2	46.2				
+27	10	fb:cell__perubahan_tahunan_2._14_4	-14.4	-14.4	-14.4	CD	NUMBER	-14.4	14.4				
+27	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._53_7	-53.7	-53.7	-53.7	CD	NUMBER	-53.7	53.7				
+27	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+28	0	fb:cell_kharakteristik.total_british_columbia_cedera_yang_tidak_disengaja_kecelakaan_medis_bedah	total british columbia cedera yang tidak disengaja kecelakaan medis/bedah	total|british|columbia|cedera|yang|tidak|disengaja|kecelakaan|medis/bedah	total|british|columbia|cedera|yang|tidak|disengaja|kecelakaan|medis/bedah	JJ|JJ|NNP|NNP|NNP|NNP|NN|NN|NN	O|MISC|O|O|O|O|O|O|O	||||||||				total british columbia cedera yang tidak disengaja kecelakaan medis|bedah	fb:part_kharakteristik.total_british_columbia_cedera_yang_tidak_disengaja_kecelakaan_medis|fb:part_kharakteristik.bedah
+28	1	fb:cell_srr_1991.1_35	1.35	1.35	1.35	CD	NUMBER	1.35	1.35				
+28	2	fb:cell_srr_2010.0_72	0.72	0.72	0.72	CD	NUMBER	0.72	0.72				
+28	3	fb:cell_1991_hingga_2010_perubahan._46_4	-46.4	-46.4	-46.4	CD	NUMBER	-46.4	46.4				
+28	4	fb:cell_p.null											
+28	5	fb:cell__perubahan_tahunan._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+28	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+28	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+28	8	fb:cell_perkiraan_srr_2014.0_59	0.59	0.59	0.59	CD	NUMBER	0.59	0.59				
+28	9	fb:cell_2010_hingga_2014_perubahan._18_2	-18.2	-18.2	-18.2	CD	NUMBER	-18.2	18.2				
+28	10	fb:cell__perubahan_tahunan_2._4_9	-4.9	-4.9	-4.9	CD	NUMBER	-4.9	4.9				
+28	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._16_1	-16.1	-16.1	-16.1	CD	NUMBER	-16.1	16.1				
+28	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+29	0	fb:cell_kharakteristik.total_british_columbia_cedera_yang_tidak_disengaja_jatuh	total british columbia cedera yang tidak disengaja jatuh	total|british|columbia|cedera|yang|tidak|disengaja|jatuh	total|british|columbia|cedera|yang|tidak|disengaja|jatuh	JJ|JJ|NNP|NNP|NNP|NNP|NN|NN	O|MISC|O|O|O|O|O|O	|||||||					
+29	1	fb:cell_srr_1991.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+29	2	fb:cell_srr_2010.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+29	3	fb:cell_1991_hingga_2010_perubahan._34_8	-34.8	-34.8	-34.8	CD	NUMBER	-34.8	34.8				
+29	4	fb:cell_p.null											
+29	5	fb:cell__perubahan_tahunan._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+29	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._2_4	-2.4	-2.4	-2.4	CD	NUMBER	-2.4	2.4				
+29	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+29	8	fb:cell_perkiraan_srr_2014.0_74	0.74	0.74	0.74	CD	NUMBER	0.74	0.74				
+29	9	fb:cell_2010_hingga_2014_perubahan._11_3	-11.3	-11.3	-11.3	CD	NUMBER	-11.3	11.3				
+29	10	fb:cell__perubahan_tahunan_2._2_9	-2.9	-2.9	-2.9	CD	NUMBER	-2.9	2.9				
+29	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._6_8	-6.8	-6.8	-6.8	CD	NUMBER	-6.8	6.8				
+29	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+30	0	fb:cell_kharakteristik.total_cedera_yang_ditimbulkan_oleh_british_columbia	total cedera yang ditimbulkan oleh british columbia	total|cedera|yang|ditimbulkan|oleh|british|columbia	total|cedera|yang|ditimbulkan|oleh|british|columbia	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|MISC|O	||||||					
+30	1	fb:cell_srr_1991.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+30	2	fb:cell_srr_2010.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+30	3	fb:cell_1991_hingga_2010_perubahan._52_4	-52.4	-52.4	-52.4	CD	NUMBER	-52.4	52.4				
+30	4	fb:cell_p.null											
+30	5	fb:cell__perubahan_tahunan._3_8	-3.8	-3.8	-3.8	CD	NUMBER	-3.8	3.8				
+30	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_3	-4.3	-4.3	-4.3	CD	NUMBER	-4.3	4.3				
+30	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_3	-3.3	-3.3	-3.3	CD	NUMBER	-3.3	3.3				
+30	8	fb:cell_perkiraan_srr_2014.0_49	0.49	0.49	0.49	CD	NUMBER	0.49	0.49				
+30	9	fb:cell_2010_hingga_2014_perubahan._25_5	-25.5	-25.5	-25.5	CD	NUMBER	-25.5	25.5				
+30	10	fb:cell__perubahan_tahunan_2._7_1	-7.1	-7.1	-7.1	CD	NUMBER	-7.1	7.1				
+30	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._13_3	-13.3	-13.3	-13.3	CD	NUMBER	-13.3	13.3				
+30	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._1_9	-1.9	-1.9	-1.9	CD	NUMBER	-1.9	1.9				
+31	0	fb:cell_kharakteristik.keracunan_cedera_yang_diakibatkan_oleh_total_british_columbia	keracunan cedera yang diakibatkan oleh total british columbia	keracunan|cedera|yang|diakibatkan|oleh|total|british|columbia	keracunan|cedera|yang|diakibatkan|oleh|total|british|columbia	NNP|NNP|NNP|NNP|NNP|JJ|NNP|NNP	O|O|O|O|O|O|MISC|O	|||||||					
+31	1	fb:cell_srr_1991.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				
+31	2	fb:cell_srr_2010.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+31	3	fb:cell_1991_hingga_2010_perubahan._50_2	-50.2	-50.2	-50.2	CD	NUMBER	-50.2	50.2				
+31	4	fb:cell_p.null											
+31	5	fb:cell__perubahan_tahunan._3_6	-3.6	-3.6	-3.6	CD	NUMBER	-3.6	3.6				
+31	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_1	-4.1	-4.1	-4.1	CD	NUMBER	-4.1	4.1				
+31	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_1	-3.1	-3.1	-3.1	CD	NUMBER	-3.1	3.1				
+31	8	fb:cell_perkiraan_srr_2014.0_51	0.51	0.51	0.51	CD	NUMBER	0.51	0.51				
+31	9	fb:cell_2010_hingga_2014_perubahan._22_9	-22.9	-22.9	-22.9	CD	NUMBER	-22.9	22.9				
+31	10	fb:cell__perubahan_tahunan_2._6_3	-6.3	-6.3	-6.3	CD	NUMBER	-6.3	6.3				
+31	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._12_3	-12.3	-12.3	-12.3	CD	NUMBER	-12.3	12.3				
+31	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._1_3	-1.3	-1.3	-1.3	CD	NUMBER	-1.3	1.3				
+32	0	fb:cell_kharakteristik.total_british_columbia_sengaja_dilakukan_oleh_orang_lain	total british columbia sengaja dilakukan oleh orang lain	total|british|columbia|sengaja|dilakukan|oleh|orang|lain	total|british|columbia|sengaja|dilakukan|oleh|orang|lain	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|MISC|O|O|O|O|O|O	|||||||					
+32	1	fb:cell_srr_1991.1_35	1.35	1.35	1.35	CD	NUMBER	1.35	1.35				
+32	2	fb:cell_srr_2010.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+32	3	fb:cell_1991_hingga_2010_perubahan._40_7	-40.7	-40.7	-40.7	CD	NUMBER	-40.7	40.7				
+32	4	fb:cell_p.null											
+32	5	fb:cell__perubahan_tahunan._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				
+32	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_3	-3.3	-3.3	-3.3	CD	NUMBER	-3.3	3.3				
+32	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_1	-2.1	-2.1	-2.1	CD	NUMBER	-2.1	2.1				
+32	8	fb:cell_perkiraan_srr_2014.0_69	0.69	0.69	0.69	CD	NUMBER	0.69	0.69				
+32	9	fb:cell_2010_hingga_2014_perubahan._14_4	-14.4	-14.4	-14.4	CD	NUMBER	-14.4	14.4				
+32	10	fb:cell__perubahan_tahunan_2._3_8	-3.8	-3.8	-3.8	CD	NUMBER	-3.8	3.8				
+32	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._12_9	-12.9	-12.9	-12.9	CD	NUMBER	-12.9	12.9				
+32	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+33	0	fb:cell_kharakteristik.pria	pria	pria	pria	NNP	O						
+33	1	fb:cell_srr_1991.null											
+33	2	fb:cell_srr_2010.null											
+33	3	fb:cell_1991_hingga_2010_perubahan.null											
+33	4	fb:cell_p.null											
+33	5	fb:cell__perubahan_tahunan.null											
+33	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+33	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+33	8	fb:cell_perkiraan_srr_2014.null											
+33	9	fb:cell_2010_hingga_2014_perubahan.null											
+33	10	fb:cell__perubahan_tahunan_2.null											
+33	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+33	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+34	0	fb:cell_kharakteristik.cedera_pria_yang_tidak_disengaja	cedera pria yang tidak disengaja	cedera|pria|yang|tidak|disengaja	cedera|pria|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+34	1	fb:cell_srr_1991.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+34	2	fb:cell_srr_2010.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+34	3	fb:cell_1991_hingga_2010_perubahan._53_7	-53.7	-53.7	-53.7	CD	NUMBER	-53.7	53.7				
+34	4	fb:cell_p.null											
+34	5	fb:cell__perubahan_tahunan._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+34	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_1	-4.1	-4.1	-4.1	CD	NUMBER	-4.1	4.1				
+34	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_8	-3.8	-3.8	-3.8	CD	NUMBER	-3.8	3.8				
+34	8	fb:cell_perkiraan_srr_2014.0_53	0.53	0.53	0.53	CD	NUMBER	0.53	0.53				
+34	9	fb:cell_2010_hingga_2014_perubahan._24_4	-24.4	-24.4	-24.4	CD	NUMBER	-24.4	24.4				
+34	10	fb:cell__perubahan_tahunan_2._6_7	-6.7	-6.7	-6.7	CD	NUMBER	-6.7	6.7				
+34	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._14_8	-14.8	-14.8	-14.8	CD	NUMBER	-14.8	14.8				
+34	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._0_4	-0.4	-0.4	-0.4	CD	NUMBER	-0.4	0.4				
+35	0	fb:cell_kharakteristik.kendaraan_pengangkut_cedera_pria_yang_tidak_disengaja	kendaraan pengangkut cedera pria yang tidak disengaja	kendaraan|pengangkut|cedera|pria|yang|tidak|disengaja	kendaraan|pengangkut|cedera|pria|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+35	1	fb:cell_srr_1991.1_63	1.63	1.63	1.63	CD	NUMBER	1.63	1.63				
+35	2	fb:cell_srr_2010.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+35	3	fb:cell_1991_hingga_2010_perubahan._69_3	-69.3	-69.3	-69.3	CD	NUMBER	-69.3	69.3				
+35	4	fb:cell_p.null											
+35	5	fb:cell__perubahan_tahunan._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+35	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_4	-6.4	-6.4	-6.4	CD	NUMBER	-6.4	6.4				
+35	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._5_7	-5.7	-5.7	-5.7	CD	NUMBER	-5.7	5.7				
+35	8	fb:cell_perkiraan_srr_2014.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+35	9	fb:cell_2010_hingga_2014_perubahan._47_5	-47.5	-47.5	-47.5	CD	NUMBER	-47.5	47.5				
+35	10	fb:cell__perubahan_tahunan_2._14_9	-14.9	-14.9	-14.9	CD	NUMBER	-14.9	14.9				
+35	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+35	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+36	0	fb:cell_kharakteristik.cedera_pria_yang_tidak_disengaja_kecelakaan_medis_bedah	cedera pria yang tidak disengaja, kecelakaan medis/bedah	cedera|pria|yang|tidak|disengaja|,|kecelakaan|medis/bedah	cedera|pria|yang|tidak|disengaja|,|kecelakaan|medis/bedah	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				cedera pria yang tidak disengaja|kecelakaan medis|bedah	fb:part_kharakteristik.cedera_pria_yang_tidak_disengaja|fb:part_kharakteristik.kecelakaan_medis|fb:part_kharakteristik.bedah
+36	1	fb:cell_srr_1991.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+36	2	fb:cell_srr_2010.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+36	3	fb:cell_1991_hingga_2010_perubahan._45_3	-45.3	-45.3	-45.3	CD	NUMBER	-45.3	45.3				
+36	4	fb:cell_p.null											
+36	5	fb:cell__perubahan_tahunan._3_1	-3.1	-3.1	-3.1	CD	NUMBER	-3.1	3.1				
+36	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+36	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+36	8	fb:cell_perkiraan_srr_2014.0_62	0.62	0.62	0.62	CD	NUMBER	0.62	0.62				
+36	9	fb:cell_2010_hingga_2014_perubahan._17_5	-17.5	-17.5	-17.5	CD	NUMBER	-17.5	17.5				
+36	10	fb:cell__perubahan_tahunan_2._4_7	-4.7	-4.7	-4.7	CD	NUMBER	-4.7	4.7				
+36	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+36	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+37	0	fb:cell_kharakteristik.cedera_pria_yang_tidak_disengaja_jatuh	cedera pria yang tidak disengaja jatuh	cedera|pria|yang|tidak|disengaja|jatuh	cedera|pria|yang|tidak|disengaja|jatuh	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+37	1	fb:cell_srr_1991.1_32	1.32	1.32	1.32	CD	NUMBER	1.32	1.32				
+37	2	fb:cell_srr_2010.0_81	0.81	0.81	0.81	CD	NUMBER	0.81	0.81				
+37	3	fb:cell_1991_hingga_2010_perubahan._38_5	-38.5	-38.5	-38.5	CD	NUMBER	-38.5	38.5				
+37	4	fb:cell_p.null											
+37	5	fb:cell__perubahan_tahunan._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+37	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+37	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+37	8	fb:cell_perkiraan_srr_2014.0_71	0.71	0.71	0.71	CD	NUMBER	0.71	0.71				
+37	9	fb:cell_2010_hingga_2014_perubahan._13_2	-13.2	-13.2	-13.2	CD	NUMBER	-13.2	13.2				
+37	10	fb:cell__perubahan_tahunan_2._3_5	-3.5	-3.5	-3.5	CD	NUMBER	-3.5	3.5				
+37	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+37	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+38	0	fb:cell_kharakteristik.cedera_yang_diakibatkan_oleh_diri_sendiri_oleh_pria	cedera yang diakibatkan oleh diri sendiri oleh pria	cedera|yang|diakibatkan|oleh|diri|sendiri|oleh|pria	cedera|yang|diakibatkan|oleh|diri|sendiri|oleh|pria	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+38	1	fb:cell_srr_1991.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+38	2	fb:cell_srr_2010.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+38	3	fb:cell_1991_hingga_2010_perubahan._56_4	-56.4	-56.4	-56.4	CD	NUMBER	-56.4	56.4				
+38	4	fb:cell_p.null											
+38	5	fb:cell__perubahan_tahunan._4_3	-4.3	-4.3	-4.3	CD	NUMBER	-4.3	4.3				
+38	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._5_1	-5.1	-5.1	-5.1	CD	NUMBER	-5.1	5.1				
+38	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_4	-3.4	-3.4	-3.4	CD	NUMBER	-3.4	3.4				
+38	8	fb:cell_perkiraan_srr_2014.0_45	0.45	0.45	0.45	CD	NUMBER	0.45	0.45				
+38	9	fb:cell_2010_hingga_2014_perubahan._24_6	-24.6	-24.6	-24.6	CD	NUMBER	-24.6	24.6				
+38	10	fb:cell__perubahan_tahunan_2._6_8	-6.8	-6.8	-6.8	CD	NUMBER	-6.8	6.8				
+38	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._14_0	-14.0	-14.0	-14.0	CD	NUMBER	-14.0	14.0				
+38	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+39	0	fb:cell_kharakteristik.keracunan_cedera_yang_diakibatkan_oleh_laki_laki	keracunan cedera yang diakibatkan oleh laki-laki	keracunan|cedera|yang|diakibatkan|oleh|laki|laki	keracunan|cedera|yang|diakibatkan|oleh|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON|PERSON	||||||					
+39	1	fb:cell_srr_1991.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+39	2	fb:cell_srr_2010.0_59	0.59	0.59	0.59	CD	NUMBER	0.59	0.59				
+39	3	fb:cell_1991_hingga_2010_perubahan._54_4	-54.4	-54.4	-54.4	CD	NUMBER	-54.4	54.4				
+39	4	fb:cell_p.null											
+39	5	fb:cell__perubahan_tahunan._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+39	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+39	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_1	-3.1	-3.1	-3.1	CD	NUMBER	-3.1	3.1				
+39	8	fb:cell_perkiraan_srr_2014.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+39	9	fb:cell_2010_hingga_2014_perubahan._14_6	-14.6	-14.6	-14.6	CD	NUMBER	-14.6	14.6				
+39	10	fb:cell__perubahan_tahunan_2._3_9	-3.9	-3.9	-3.9	CD	NUMBER	-3.9	3.9				
+39	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._11_6	-11.6	-11.6	-11.6	CD	NUMBER	-11.6	11.6				
+39	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+40	0	fb:cell_kharakteristik.laki_laki_dengan_sengaja_dilakukan_oleh_orang_lain	laki-laki dengan sengaja dilakukan oleh orang lain	laki|laki|dengan|sengaja|dilakukan|oleh|orang|lain	laki|laki|dengan|sengaja|dilakukan|oleh|orang|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O	|||||||					
+40	1	fb:cell_srr_1991.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+40	2	fb:cell_srr_2010.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+40	3	fb:cell_1991_hingga_2010_perubahan._36_5	-36.5	-36.5	-36.5	CD	NUMBER	-36.5	36.5				
+40	4	fb:cell_p.null											
+40	5	fb:cell__perubahan_tahunan._2_4	-2.4	-2.4	-2.4	CD	NUMBER	-2.4	2.4				
+40	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+40	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+40	8	fb:cell_perkiraan_srr_2014.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+40	9	fb:cell_2010_hingga_2014_perubahan._12_1	-12.1	-12.1	-12.1	CD	NUMBER	-12.1	12.1				
+40	10	fb:cell__perubahan_tahunan_2._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+40	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._12_3	-12.3	-12.3	-12.3	CD	NUMBER	-12.3	12.3				
+40	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+41	0	fb:cell_kharakteristik.perempuan	perempuan	perempuan	perempuan	NNP	O						
+41	1	fb:cell_srr_1991.null											
+41	2	fb:cell_srr_2010.null											
+41	3	fb:cell_1991_hingga_2010_perubahan.null											
+41	4	fb:cell_p.null											
+41	5	fb:cell__perubahan_tahunan.null											
+41	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari.null											
+41	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi.null											
+41	8	fb:cell_perkiraan_srr_2014.null											
+41	9	fb:cell_2010_hingga_2014_perubahan.null											
+41	10	fb:cell__perubahan_tahunan_2.null											
+41	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2.null											
+41	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.null											
+42	0	fb:cell_kharakteristik.cedera_wanita_yang_tidak_disengaja	cedera wanita yang tidak disengaja	cedera|wanita|yang|tidak|disengaja	cedera|wanita|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+42	1	fb:cell_srr_1991.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+42	2	fb:cell_srr_2010.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+42	3	fb:cell_1991_hingga_2010_perubahan._43_8	-43.8	-43.8	-43.8	CD	NUMBER	-43.8	43.8				
+42	4	fb:cell_p.null											
+42	5	fb:cell__perubahan_tahunan._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+42	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+42	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_8	-2.8	-2.8	-2.8	CD	NUMBER	-2.8	2.8				
+42	8	fb:cell_perkiraan_srr_2014.0_64	0.64	0.64	0.64	CD	NUMBER	0.64	0.64				
+42	9	fb:cell_2010_hingga_2014_perubahan._16_4	-16.4	-16.4	-16.4	CD	NUMBER	-16.4	16.4				
+42	10	fb:cell__perubahan_tahunan_2._4_4	-4.4	-4.4	-4.4	CD	NUMBER	-4.4	4.4				
+42	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._9_8	-9.8	-9.8	-9.8	CD	NUMBER	-9.8	9.8				
+42	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+43	0	fb:cell_kharakteristik.kendaraan_pengangkut_cedera_wanita_yang_tidak_disengaja	kendaraan pengangkut cedera wanita yang tidak disengaja	kendaraan|pengangkut|cedera|wanita|yang|tidak|disengaja	kendaraan|pengangkut|cedera|wanita|yang|tidak|disengaja	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+43	1	fb:cell_srr_1991.1_72	1.72	1.72	1.72	CD	NUMBER	1.72	1.72				
+43	2	fb:cell_srr_2010.0_56	0.56	0.56	0.56	CD	NUMBER	0.56	0.56				
+43	3	fb:cell_1991_hingga_2010_perubahan._67_7	-67.7	-67.7	-67.7	CD	NUMBER	-67.7	67.7				
+43	4	fb:cell_p.null											
+43	5	fb:cell__perubahan_tahunan._5_8	-5.8	-5.8	-5.8	CD	NUMBER	-5.8	5.8				
+43	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._6_3	-6.3	-6.3	-6.3	CD	NUMBER	-6.3	6.3				
+43	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._5_3	-5.3	-5.3	-5.3	CD	NUMBER	-5.3	5.3				
+43	8	fb:cell_perkiraan_srr_2014.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+43	9	fb:cell_2010_hingga_2014_perubahan._44_0	-44.0	-44.0	-44.0	CD	NUMBER	-44.0	44.0				
+43	10	fb:cell__perubahan_tahunan_2._13_5	-13.5	-13.5	-13.5	CD	NUMBER	-13.5	13.5				
+43	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._42_5	-42.5	-42.5	-42.5	CD	NUMBER	-42.5	42.5				
+43	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+44	0	fb:cell_kharakteristik.wanita_cedera_yang_tidak_disengaja_kecelakaan_medis_bedah	wanita cedera yang tidak disengaja kecelakaan medis/bedah	wanita|cedera|yang|tidak|disengaja|kecelakaan|medis/bedah	wanita|cedera|yang|tidak|disengaja|kecelakaan|medis/bedah	NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O	||||||				wanita cedera yang tidak disengaja kecelakaan medis|bedah	fb:part_kharakteristik.wanita_cedera_yang_tidak_disengaja_kecelakaan_medis|fb:part_kharakteristik.bedah
+44	1	fb:cell_srr_1991.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				
+44	2	fb:cell_srr_2010.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+44	3	fb:cell_1991_hingga_2010_perubahan._47_4	-47.4	-47.4	-47.4	CD	NUMBER	-47.4	47.4				
+44	4	fb:cell_p.null											
+44	5	fb:cell__perubahan_tahunan._3_3	-3.3	-3.3	-3.3	CD	NUMBER	-3.3	3.3				
+44	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._3_7	-3.7	-3.7	-3.7	CD	NUMBER	-3.7	3.7				
+44	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+44	8	fb:cell_perkiraan_srr_2014.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+44	9	fb:cell_2010_hingga_2014_perubahan._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+44	10	fb:cell__perubahan_tahunan_2._5_1	-5.1	-5.1	-5.1	CD	NUMBER	-5.1	5.1				
+44	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._17_7	-17.7	-17.7	-17.7	CD	NUMBER	-17.7	17.7				
+44	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+45	0	fb:cell_kharakteristik.cedera_wanita_yang_tidak_disengaja_jatuh	cedera wanita yang tidak disengaja jatuh	cedera|wanita|yang|tidak|disengaja|jatuh	cedera|wanita|yang|tidak|disengaja|jatuh	NNP|NNP|NNP|NNP|NN|NN	MISC|MISC|O|O|O|O	|||||					
+45	1	fb:cell_srr_1991.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+45	2	fb:cell_srr_2010.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+45	3	fb:cell_1991_hingga_2010_perubahan._31_7	-31.7	-31.7	-31.7	CD	NUMBER	-31.7	31.7				
+45	4	fb:cell_p.null											
+45	5	fb:cell__perubahan_tahunan._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+45	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+45	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+45	8	fb:cell_perkiraan_srr_2014.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+45	9	fb:cell_2010_hingga_2014_perubahan._9_8	-9.8	-9.8	-9.8	CD	NUMBER	-9.8	9.8				
+45	10	fb:cell__perubahan_tahunan_2._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+45	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._6_3	-6.3	-6.3	-6.3	CD	NUMBER	-6.3	6.3				
+45	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+46	0	fb:cell_kharakteristik.cedera_yang_disebabkan_oleh_diri_sendiri_oleh_wanita	cedera yang disebabkan oleh diri sendiri oleh wanita	cedera|yang|disebabkan|oleh|diri|sendiri|oleh|wanita	cedera|yang|disebabkan|oleh|diri|sendiri|oleh|wanita	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+46	1	fb:cell_srr_1991.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+46	2	fb:cell_srr_2010.0_68	0.68	0.68	0.68	CD	NUMBER	0.68	0.68				
+46	3	fb:cell_1991_hingga_2010_perubahan._50_0	-50.0	-50.0	-50.0	CD	NUMBER	-50.0	50.0				
+46	4	fb:cell_p.null											
+46	5	fb:cell__perubahan_tahunan._3_6	-3.6	-3.6	-3.6	CD	NUMBER	-3.6	3.6				
+46	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_2	-4.2	-4.2	-4.2	CD	NUMBER	-4.2	4.2				
+46	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_9	-2.9	-2.9	-2.9	CD	NUMBER	-2.9	2.9				
+46	8	fb:cell_perkiraan_srr_2014.0_51	0.51	0.51	0.51	CD	NUMBER	0.51	0.51				
+46	9	fb:cell_2010_hingga_2014_perubahan._26_0	-26.0	-26.0	-26.0	CD	NUMBER	-26.0	26.0				
+46	10	fb:cell__perubahan_tahunan_2._7_2	-7.2	-7.2	-7.2	CD	NUMBER	-7.2	7.2				
+46	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._14_7	-14.7	-14.7	-14.7	CD	NUMBER	-14.7	14.7				
+46	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._1_3	-1.3	-1.3	-1.3	CD	NUMBER	-1.3	1.3				
+47	0	fb:cell_kharakteristik.keracunan_cedera_yang_diakibatkan_oleh_wanita	keracunan cedera yang diakibatkan oleh wanita	keracunan|cedera|yang|diakibatkan|oleh|wanita	keracunan|cedera|yang|diakibatkan|oleh|wanita	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+47	1	fb:cell_srr_1991.1_35	1.35	1.35	1.35	CD	NUMBER	1.35	1.35				
+47	2	fb:cell_srr_2010.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+47	3	fb:cell_1991_hingga_2010_perubahan._48_0	-48.0	-48.0	-48.0	CD	NUMBER	-48.0	48.0				
+47	4	fb:cell_p.null											
+47	5	fb:cell__perubahan_tahunan._3_4	-3.4	-3.4	-3.4	CD	NUMBER	-3.4	3.4				
+47	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+47	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				
+47	8	fb:cell_perkiraan_srr_2014.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+47	9	fb:cell_2010_hingga_2014_perubahan._26_3	-26.3	-26.3	-26.3	CD	NUMBER	-26.3	26.3				
+47	10	fb:cell__perubahan_tahunan_2._7_4	-7.4	-7.4	-7.4	CD	NUMBER	-7.4	7.4				
+47	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._14_5	-14.5	-14.5	-14.5	CD	NUMBER	-14.5	14.5				
+47	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2._1_6	-1.6	-1.6	-1.6	CD	NUMBER	-1.6	1.6				
+48	0	fb:cell_kharakteristik.perempuan_dengan_sengaja_dilakukan_oleh_orang_lain	perempuan dengan sengaja dilakukan oleh orang lain	perempuan|dengan|sengaja|dilakukan|oleh|orang|lain	perempuan|dengan|sengaja|dilakukan|oleh|orang|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+48	1	fb:cell_srr_1991.1_85	1.85	1.85	1.85	CD	NUMBER	1.85	1.85				
+48	2	fb:cell_srr_2010.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+48	3	fb:cell_1991_hingga_2010_perubahan._54_5	-54.5	-54.5	-54.5	CD	NUMBER	-54.5	54.5				
+48	4	fb:cell_p.null											
+48	5	fb:cell__perubahan_tahunan._4_1	-4.1	-4.1	-4.1	CD	NUMBER	-4.1	4.1				
+48	6	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari._5_6	-5.6	-5.6	-5.6	CD	NUMBER	-5.6	5.6				
+48	7	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+48	8	fb:cell_perkiraan_srr_2014.0_94	0.94	0.94	0.94	CD	NUMBER	0.94	0.94				
+48	9	fb:cell_2010_hingga_2014_perubahan.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+48	10	fb:cell__perubahan_tahunan_2.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+48	11	fb:cell__perubahan_tahunan_interval_kepercayaan_95_dari_2._15_4	-15.4	-15.4	-15.4	CD	NUMBER	-15.4	15.4				
+48	12	fb:cell__tahunan_mengubah_interval_kepercayaan_95_menjadi_2.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				

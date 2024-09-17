@@ -1,0 +1,169 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan	menerima dukungan untuk pengasuhan dalam 12 bulan terakhir segala jenis dukungan	menerima|dukungan|untuk|pengasuhan|dalam|12|bulan|terakhir|segala|jenis|dukungan	menerima|dukungan|untuk|pengasuhan|dalam|12|bulan|terakhir|segala|jenis|dukungan	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|O|O|O|O	|||||12.0|||||					
+-1	2	fb:row.row.menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial	menerima dukungan untuk pengasuhan dalam 12 bulan terakhir dukungan sosial	menerima|dukungan|untuk|pengasuhan|dalam|12|bulan|terakhir|dukungan|sosial	menerima|dukungan|untuk|pengasuhan|dalam|12|bulan|terakhir|dukungan|sosial	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|O|O|O	|||||12.0||||					
+-1	3	fb:row.row.menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir	menerima dukungan untuk pengasuhan dalam dukungan keuangan 12 bulan terakhir	menerima|dukungan|untuk|pengasuhan|dalam|dukungan|keuangan|12|bulan|terakhir	menerima|dukungan|untuk|pengasuhan|dalam|dukungan|keuangan|12|bulan|terakhir	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|O|NUMBER|O|O	|||||||12.0||					
+0	0	fb:cell_kharakteristik.persen_jenis_kelamin	persen jenis kelamin	persen|jenis|kelamin	persen|jenis|kelamin	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+0	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+0	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+1	0	fb:cell_kharakteristik.persen_berjenis_kelamin_laki_laki	persen berjenis kelamin laki-laki	persen|berjenis|kelamin|laki|laki	persen|berjenis|kelamin|laki|laki	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+1	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+1	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+2	0	fb:cell_kharakteristik.persen_berjenis_kelamin_perempuan	persen berjenis kelamin perempuan	persen|berjenis|kelamin|perempuan	persen|berjenis|kelamin|perempuan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+2	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+2	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+3	0	fb:cell_kharakteristik.persen_usia	persen usia	persen|usia	persen|usia	NNP|NNP	O|O	|					
+3	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+3	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+3	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+4	0	fb:cell_kharakteristik.persen_usia_15_hingga_34_tahun	persen usia 15 hingga 34 tahun	persen|usia|15|hingga|34|tahun	persen|usia|15|hingga|34|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||15.0||34.0|	15.0		34.0		
+4	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+4	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+4	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+5	0	fb:cell_kharakteristik.persen_usia_35_hingga_64_tahun	persen usia 35 hingga 64 tahun	persen|usia|35|hingga|64|tahun	persen|usia|35|hingga|64|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||35.0||64.0|	35.0		64.0		
+5	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+5	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+5	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+6	0	fb:cell_kharakteristik.persen_berusia_65_tahun_ke_atas	persen berusia 65 tahun ke atas	persen|berusia|65|tahun|ke|atas	persen|berusia|65|tahun|ke|atas	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||65.0|||	65.0				
+6	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+6	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+6	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+7	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal	persen provinsi tempat tinggal	persen|provinsi|tempat|tinggal	persen|provinsi|tempat|tinggal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+7	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+7	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+7	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+8	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_newfoundland_dan_labrador	persen provinsi tempat tinggal newfoundland dan labrador	persen|provinsi|tempat|tinggal|newfoundland|dan|labrador	persen|provinsi|tempat|tinggal|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|PERSON|PERSON	||||||					
+8	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+8	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+8	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+9	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_pulau_pangeran_edward	persen provinsi tempat tinggal pulau pangeran Edward	persen|provinsi|tempat|tinggal|pulau|pangeran|edward	persen|provinsi|tempat|tinggal|pulau|pangeran|Edward	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+9	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+9	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+9	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+10	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_nova_scotia	persen provinsi tempat tinggal nova scotia	persen|provinsi|tempat|tinggal|nova|scotia	persen|provinsi|tempat|tinggal|nova|scotia	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+10	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+10	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+11	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_new_brunswick	persen provinsi tempat tinggal new brunswick	persen|provinsi|tempat|tinggal|new|brunswick	persen|provinsi|tempat|tinggal|new|brunswick	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+11	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+11	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+12	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_quebec	persen provinsi tempat tinggal quebec	persen|provinsi|tempat|tinggal|quebec	persen|provinsi|tempat|tinggal|quebec	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+12	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+12	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+12	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+13	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_ontario	persen provinsi tempat tinggal ontario	persen|provinsi|tempat|tinggal|ontario	persen|provinsi|tempat|tinggal|ontario	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+13	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+13	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+14	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_manitoba	persen provinsi tempat tinggal manitoba	persen|provinsi|tempat|tinggal|manitoba	persen|provinsi|tempat|tinggal|manitoba	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+14	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+14	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+14	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+15	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_saskatchewan	persen provinsi tempat tinggal saskatchewan	persen|provinsi|tempat|tinggal|saskatchewan	persen|provinsi|tempat|tinggal|saskatchewan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+15	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+15	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+16	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_alberta	persen provinsi tempat tinggal alberta	persen|provinsi|tempat|tinggal|alberta	persen|provinsi|tempat|tinggal|alberta	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+16	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+16	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+16	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+17	0	fb:cell_kharakteristik.persen_provinsi_tempat_tinggal_british_columbia	persen provinsi tempat tinggal British Columbia	persen|provinsi|tempat|tinggal|british|columbia	persen|provinsi|tempat|tinggal|British|Columbia	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|MISC|O	|||||					
+17	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+17	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+17	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+18	0	fb:cell_kharakteristik.persen_negara_tempat_lahir	persen negara tempat lahir	persen|negara|tempat|lahir	persen|negara|tempat|lahir	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+18	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+18	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+18	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+19	0	fb:cell_kharakteristik.persen_negara_kelahiran_di_luar_kanada	persen negara kelahiran di luar Kanada	persen|negara|kelahiran|di|luar|kanada	persen|negara|kelahiran|di|luar|Kanada	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+19	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+19	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+19	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+20	0	fb:cell_kharakteristik.persen_negara_kelahiran_kanada	persen negara kelahiran Kanada	persen|negara|kelahiran|kanada	persen|negara|kelahiran|Kanada	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+20	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+20	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+20	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+21	0	fb:cell_kharakteristik.persen_ukuran_rumah_tangga	persen ukuran rumah tangga	persen|ukuran|rumah|tangga	persen|ukuran|rumah|tangga	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+21	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+21	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+21	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+22	0	fb:cell_kharakteristik.persen_rumah_tangga_ukuran_satu	persen rumah tangga ukuran satu	persen|rumah|tangga|ukuran|satu	persen|rumah|tangga|ukuran|satu	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+22	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+22	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+22	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+23	0	fb:cell_kharakteristik.persen_rumah_tangga_berukuran_dua	persen rumah tangga berukuran dua	persen|rumah|tangga|berukuran|dua	persen|rumah|tangga|berukuran|dua	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+23	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+23	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+23	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+24	0	fb:cell_kharakteristik.persen_rumah_tangga_ukuran_tiga	persen rumah tangga ukuran tiga	persen|rumah|tangga|ukuran|tiga	persen|rumah|tangga|ukuran|tiga	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+24	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+24	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+24	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+25	0	fb:cell_kharakteristik.persen_rumah_tangga_ukuran_empat	persen rumah tangga ukuran empat	persen|rumah|tangga|ukuran|empat	persen|rumah|tangga|ukuran|empat	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+25	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+25	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+25	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+26	0	fb:cell_kharakteristik.persen_rumah_tangga_berukuran_lima_orang_atau_lebih	persen rumah tangga berukuran lima orang atau lebih	persen|rumah|tangga|berukuran|lima|orang|atau|lebih	persen|rumah|tangga|berukuran|lima|orang|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+26	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+26	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+26	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+27	0	fb:cell_kharakteristik.persen_minggu_bekerja_dalam_12_bulan_terakhir	persen minggu bekerja dalam 12 bulan terakhir	persen|minggu|bekerja|dalam|12|bulan|terakhir	persen|minggu|bekerja|dalam|12|bulan|terakhir	NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|NUMBER|O|O	||||12.0||	12.0				
+27	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+27	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+27	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+28	0	fb:cell_kharakteristik.persen_minggu_bekerja_dalam_12_bulan_terakhir_tidak_ada	persen minggu bekerja dalam 12 bulan terakhir tidak ada	persen|minggu|bekerja|dalam|12|bulan|terakhir|tidak|ada	persen|minggu|bekerja|dalam|12|bulan|terakhir|tidak|ada	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NN	O|O|O|O|NUMBER|O|O|O|O	||||12.0||||	12.0				
+28	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+28	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+28	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+29	0	fb:cell_kharakteristik.persen_minggu_bekerja_dalam_12_bulan_terakhir_1_sampai_17	persen minggu bekerja dalam 12 bulan terakhir 1 sampai 17	persen|minggu|bekerja|dalam|12|bulan|terakhir|1|sampai|17	persen|minggu|bekerja|dalam|12|bulan|terakhir|1|sampai|17	NNP|NNP|NNP|NNP|CD|NNP|NNP|CD|FW|CD	O|O|O|O|NUMBER|O|O|NUMBER|O|NUMBER	||||12.0|||1.0||17.0	12.0		1.0		
+29	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+29	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+29	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+30	0	fb:cell_kharakteristik.persen_minggu_bekerja_dalam_12_bulan_terakhir_18_hingga_34	persen minggu bekerja dalam 12 bulan terakhir 18 hingga 34	persen|minggu|bekerja|dalam|12|bulan|terakhir|18|hingga|34	persen|minggu|bekerja|dalam|12|bulan|terakhir|18|hingga|34	JJ|NN|NN|NN|CD|NN|NN|CD|NN|CD	O|O|O|O|NUMBER|O|O|NUMBER|O|NUMBER	||||12.0|||18.0||34.0	12.0		18.0		
+30	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+30	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+30	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+31	0	fb:cell_kharakteristik.persen_minggu_bekerja_dalam_12_bulan_terakhir_35_hingga_51	persen minggu bekerja dalam 12 bulan terakhir 35 hingga 51	persen|minggu|bekerja|dalam|12|bulan|terakhir|35|hingga|51	persen|minggu|bekerja|dalam|12|bulan|terakhir|35|hingga|51	JJ|NN|NN|NN|CD|NN|NN|CD|NN|CD	O|O|O|O|NUMBER|O|O|NUMBER|O|NUMBER	||||12.0|||35.0||51.0	12.0		35.0		
+31	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+31	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+31	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+32	0	fb:cell_kharakteristik.persen_minggu_bekerja_dalam_12_bulan_terakhir_52	persen minggu bekerja dalam 12 bulan terakhir 52	persen|minggu|bekerja|dalam|12|bulan|terakhir|52	persen|minggu|bekerja|dalam|12|bulan|terakhir|52	NNP|NNP|NNP|NNP|CD|NNP|NNP|CD	O|O|O|O|NUMBER|O|O|NUMBER	||||12.0|||52.0	12.0		52.0		
+32	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+32	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+32	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+33	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017	persen total pendapatan rumah tangga pada tahun 2017	persen|total|pendapatan|rumah|tangga|pada|tahun|2017	persen|total|pendapatan|rumah|tangga|pada|tahun|2017	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||2017	2017.0				
+33	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.null											
+33	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.null											
+33	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.null											
+34	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_kurang_dari_20_000	persen total pendapatan rumah tangga pada tahun 2017 kurang dari $20.000	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|kurang|dari|$|20.000	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|kurang|dari|$|20.000	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|$|CD	O|O|O|O|O|O|O|DATE|O|O|MONEY|MONEY	|||||||2017|||$20.0|$20.0	2017.0		20.0		
+34	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+34	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+34	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+35	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_20_000_hingga_39_999	persen total pendapatan rumah tangga pada tahun 2017 $20.000 hingga $39.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|20.000|hingga|$|39.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|20.000|hingga|$|39.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|$|CD|NN|$|CD	O|O|O|O|O|O|O|DATE|MONEY|MONEY|O|MONEY|MONEY	|||||||2017|$20.0|$20.0||$39.999|$39.999	2017.0		20.0		
+35	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+35	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+35	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+36	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_40_000_hingga_59_999	persen total pendapatan rumah tangga pada tahun 2017 $40.000 hingga $59.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|40.000|hingga|$|59.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|40.000|hingga|$|59.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|$|CD|NN|$|CD	O|O|O|O|O|O|O|DATE|MONEY|MONEY|O|MONEY|MONEY	|||||||2017|$40.0|$40.0||$59.999|$59.999	2017.0		40.0		
+36	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+36	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+36	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+37	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_60_000_hingga_79_999	persen total pendapatan rumah tangga pada tahun 2017 $60.000 hingga $79.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|60.000|hingga|$|79.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|60.000|hingga|$|79.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|$|CD|NN|$|CD	O|O|O|O|O|O|O|DATE|MONEY|MONEY|O|MONEY|MONEY	|||||||2017|$60.0|$60.0||$79.999|$79.999	2017.0		60.0		
+37	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+37	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+37	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+38	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_80_000_hingga_99_999	persen total pendapatan rumah tangga pada tahun 2017 $80.000 hingga $99.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|80.000|hingga|$|99.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|80.000|hingga|$|99.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|$|CD|NN|$|CD	O|O|O|O|O|O|O|DATE|MONEY|MONEY|O|MONEY|MONEY	|||||||2017|$80.0|$80.0||$99.999|$99.999	2017.0		80.0		
+38	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+38	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+38	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+39	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_100_000_hingga_119_999	persen total pendapatan rumah tangga pada tahun 2017 $100.000 hingga $119.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|100.000|hingga|$|119.999	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|$|100.000|hingga|$|119.999	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|$|CD|NN|$|CD	O|O|O|O|O|O|O|DATE|MONEY|MONEY|O|MONEY|MONEY	|||||||2017|$100.0|$100.0||$119.999|$119.999	2017.0		100.0		
+39	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+39	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+39	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+40	0	fb:cell_kharakteristik.persen_total_pendapatan_rumah_tangga_pada_tahun_2017_sebesar_120_000_atau_lebih	persen total pendapatan rumah tangga pada tahun 2017 sebesar $120.000 atau lebih	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|sebesar|$|120.000|atau|lebih	persen|total|pendapatan|rumah|tangga|pada|tahun|2017|sebesar|$|120.000|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|$|CD|NN|NN	O|O|O|O|O|O|O|DATE|O|MONEY|MONEY|O|O	|||||||2017||$120.0|$120.0||	2017.0		120.0		
+40	1	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_segala_jenis_dukungan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+40	2	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_12_bulan_terakhir_dukungan_sosial.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+40	3	fb:cell_menerima_dukungan_untuk_pengasuhan_dalam_dukungan_keuangan_12_bulan_terakhir.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				

@@ -1,0 +1,55 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+-1	2	fb:row.row.amerika_serikat	Amerika Serikat	amerika|serikat	Amerika|Serikat	NNP|NNP	O|O	|					
+0	0	fb:cell_kharakteristik.proporsi_perempuan	proporsi perempuan	proporsi|perempuan	proporsi|perempuan	NN|NN	O|O	|					
+0	1	fb:cell_kanada.0_47	0.47	0.47	0.47	CD	NUMBER	0.47	0.47				
+0	2	fb:cell_amerika_serikat.0_484	0.484	0.484	0.484	CD	NUMBER	0.484	0.484				
+1	0	fb:cell_kharakteristik.proporsi_usia	proporsi usia	proporsi|usia	proporsi|usia	NNP|NNP	O|O	|					
+1	1	fb:cell_kanada.null											
+1	2	fb:cell_amerika_serikat.null											
+2	0	fb:cell_kharakteristik.proporsi_usia_25_hingga_29_tahun	proporsi usia 25 hingga 29 tahun	proporsi|usia|25|hingga|29|tahun	proporsi|usia|25|hingga|29|tahun	NNP|NNP|CD|NN|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||25.0||29.0|	25.0		29.0		
+2	1	fb:cell_kanada.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+2	2	fb:cell_amerika_serikat.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+3	0	fb:cell_kharakteristik.proporsi_usia_30_hingga_34_tahun	proporsi usia 30 hingga 34 tahun	proporsi|usia|30|hingga|34|tahun	proporsi|usia|30|hingga|34|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||30.0||34.0|	30.0		34.0		
+3	1	fb:cell_kanada.0_135	0.135	0.135	0.135	CD	NUMBER	0.135	0.135				
+3	2	fb:cell_amerika_serikat.0_122	0.122	0.122	0.122	CD	NUMBER	0.122	0.122				
+4	0	fb:cell_kharakteristik.proporsi_usia_35_hingga_39_tahun	proporsi usia 35 hingga 39 tahun	proporsi|usia|35|hingga|39|tahun	proporsi|usia|35|hingga|39|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||35.0||39.0|	35.0		39.0		
+4	1	fb:cell_kanada.0_123	0.123	0.123	0.123	CD	NUMBER	0.123	0.123				
+4	2	fb:cell_amerika_serikat.0_131	0.131	0.131	0.131	CD	NUMBER	0.131	0.131				
+5	0	fb:cell_kharakteristik.proporsi_usia_40_hingga_44_tahun	proporsi usia 40 hingga 44 tahun	proporsi|usia|40|hingga|44|tahun	proporsi|usia|40|hingga|44|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||40.0||44.0|	40.0		44.0		
+5	1	fb:cell_kanada.0_134	0.134	0.134	0.134	CD	NUMBER	0.134	0.134				
+5	2	fb:cell_amerika_serikat.0_128	0.128	0.128	0.128	CD	NUMBER	0.128	0.128				
+6	0	fb:cell_kharakteristik.proporsi_usia_45_hingga_49_tahun	proporsi usia 45 hingga 49 tahun	proporsi|usia|45|hingga|49|tahun	proporsi|usia|45|hingga|49|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||45.0||49.0|	45.0		49.0		
+6	1	fb:cell_kanada.0_139	0.139	0.139	0.139	CD	NUMBER	0.139	0.139				
+6	2	fb:cell_amerika_serikat.0_141	0.141	0.141	0.141	CD	NUMBER	0.141	0.141				
+7	0	fb:cell_kharakteristik.proporsi_berusia_50_hingga_54_tahun	proporsi berusia 50 hingga 54 tahun	proporsi|berusia|50|hingga|54|tahun	proporsi|berusia|50|hingga|54|tahun	NN|NN|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||50.0||54.0|	50.0		54.0		
+7	1	fb:cell_kanada.0_153	0.153	0.153	0.153	CD	NUMBER	0.153	0.153				
+7	2	fb:cell_amerika_serikat.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+8	0	fb:cell_kharakteristik.proporsi_berusia_55_hingga_59_tahun	proporsi berusia 55 hingga 59 tahun	proporsi|berusia|55|hingga|59|tahun	proporsi|berusia|55|hingga|59|tahun	NN|NN|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||55.0||59.0|	55.0		59.0		
+8	1	fb:cell_kanada.0_117	0.117	0.117	0.117	CD	NUMBER	0.117	0.117				
+8	2	fb:cell_amerika_serikat.0_107	0.107	0.107	0.107	CD	NUMBER	0.107	0.107				
+9	0	fb:cell_kharakteristik.proporsi_usia_60_hingga_65_tahun	proporsi usia 60 hingga 65 tahun	proporsi|usia|60|hingga|65|tahun	proporsi|usia|60|hingga|65|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||60.0||65.0|	60.0		65.0		
+9	1	fb:cell_kanada.0_079	0.079	0.079	0.079	CD	NUMBER	0.079	0.079				
+9	2	fb:cell_amerika_serikat.0_09	0.09	0.09	0.09	CD	NUMBER	0.09	0.09				
+10	0	fb:cell_kharakteristik.proporsi_usia_imigran	proporsi usia imigran	proporsi|usia|imigran	proporsi|usia|imigran	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_kanada.0_265	0.265	0.265	0.265	CD	NUMBER	0.265	0.265				
+10	2	fb:cell_amerika_serikat.0_162	0.162	0.162	0.162	CD	NUMBER	0.162	0.162				
+11	0	fb:cell_kharakteristik.proporsi_usia_tidak_memiliki_kredensial_pasca_sekolah_menengah	proporsi usia tidak memiliki kredensial pasca sekolah menengah	proporsi|usia|tidak|memiliki|kredensial|pasca|sekolah|menengah	proporsi|usia|tidak|memiliki|kredensial|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+11	1	fb:cell_kanada.0_279	0.279	0.279	0.279	CD	NUMBER	0.279	0.279				
+11	2	fb:cell_amerika_serikat.0_461	0.461	0.461	0.461	CD	NUMBER	0.461	0.461				
+12	0	fb:cell_kharakteristik.proporsi_usia_memegang_kredensial_pasca_sekolah_menengah_non_universitas	proporsi usia memegang kredensial pasca sekolah menengah non-universitas	proporsi|usia|memegang|kredensial|pasca|sekolah|menengah|non|universitas	proporsi|usia|memegang|kredensial|pasca|sekolah|menengah|non|universita	NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NNS	O|O|O|O|O|O|O|O|O	||||||||					
+12	1	fb:cell_kanada.0_398	0.398	0.398	0.398	CD	NUMBER	0.398	0.398				
+12	2	fb:cell_amerika_serikat.0_197	0.197	0.197	0.197	CD	NUMBER	0.197	0.197				
+13	0	fb:cell_kharakteristik.proporsi_usia_memegang_kredensial_universitas	proporsi usia memegang kredensial universitas	proporsi|usia|memegang|kredensial|universitas	proporsi|usia|memegang|kredensial|universitas	NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O	||||					
+13	1	fb:cell_kanada.0_323	0.323	0.323	0.323	CD	NUMBER	0.323	0.323				
+13	2	fb:cell_amerika_serikat.0_342	0.342	0.342	0.342	CD	NUMBER	0.342	0.342				
+14	0	fb:cell_kharakteristik.berarti_literasi	berarti literasi	berarti|literasi	berarti|literasi	NNP|NNP	O|O	|					
+14	1	fb:cell_kanada.278_3	278.3	278.3	278.3	CD	NUMBER	278.3	278.3				
+14	2	fb:cell_amerika_serikat.274_4	274.4	274.4	274.4	CD	NUMBER	274.4	274.4				
+15	0	fb:cell_kharakteristik.berarti_berhitung	berarti berhitung	berarti|berhitung	berarti|berhitung	NNP|NNP	O|O	|					
+15	1	fb:cell_kanada.271_7	271.7	271.7	271.7	CD	NUMBER	271.7	271.7				
+15	2	fb:cell_amerika_serikat.260_6	260.6	260.6	260.6	CD	NUMBER	260.6	260.6				
+16	0	fb:cell_kharakteristik.nomor_ukuran_sampel	nomor ukuran sampel	nomor|ukuran|sampel	nomor|ukuran|sampel	NN|NN|NN	O|O|O	||					
+16	1	fb:cell_kanada.16589_0	16589.0	16589.0	16589.0	CD	NUMBER	16589.0	16589.0				
+16	2	fb:cell_amerika_serikat.2958_0	2958.0	2958.0	2958.0	CD	NUMBER	2958.0	2958.0				
