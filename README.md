@@ -1,1 +1,0 @@
-# itqa-wtq-format
