@@ -1,0 +1,17 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.perkiraan_konsumsi_tahunan_dalam_ton	perkiraan konsumsi tahunan dalam ton	perkiraan|konsumsi|tahunan|dalam|ton	perkiraan|konsumsi|tahunan|dalam|ton	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+-1	2	fb:row.row.batas_kepercayaan_rendah	batas kepercayaan rendah	batas|kepercayaan|rendah	batas|kepercayaan|rendah	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.batas_kepercayaan_tinggi	batas kepercayaan tinggi	batas|kepercayaan|tinggi	batas|kepercayaan|tinggi	NNP|NNP|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.ganja	ganja	ganja	ganja	NNP	O						
+0	1	fb:cell_perkiraan_konsumsi_tahunan_dalam_ton.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+0	2	fb:cell_batas_kepercayaan_rendah.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+0	3	fb:cell_batas_kepercayaan_tinggi.268_0	268.0	268.0	268.0	CD	NUMBER	268.0	268.0				
+1	0	fb:cell_kharakteristik.kokain	kokain	kokain	kokain	NNP	O						
+1	1	fb:cell_perkiraan_konsumsi_tahunan_dalam_ton.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+1	2	fb:cell_batas_kepercayaan_rendah.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+1	3	fb:cell_batas_kepercayaan_tinggi.0_54	0.54	0.54	0.54	CD	NUMBER	0.54	0.54				
+2	0	fb:cell_kharakteristik.metamfetamin	metamfetamin	metamfetamin	metamfetamin	NN	O						
+2	1	fb:cell_perkiraan_konsumsi_tahunan_dalam_ton.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+2	2	fb:cell_batas_kepercayaan_rendah.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+2	3	fb:cell_batas_kepercayaan_tinggi.0_56	0.56	0.56	0.56	CD	NUMBER	0.56	0.56				

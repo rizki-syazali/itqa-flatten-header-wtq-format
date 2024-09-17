@@ -1,0 +1,211 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador	provinsi atau wilayah tempat tinggal newfoundland dan labrador	provinsi|atau|wilayah|tempat|tinggal|newfoundland|dan|labrador	provinsi|atau|wilayah|tempat|tinggal|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||					
+-1	2	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward	provinsi atau wilayah tempat tinggal pulau pangeran edward	provinsi|atau|wilayah|tempat|tinggal|pulau|pangeran|edward	provinsi|atau|wilayah|tempat|tinggal|pulau|pangeran|edward	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_nova_scotia	provinsi atau wilayah tempat tinggal nova scotia	provinsi|atau|wilayah|tempat|tinggal|nova|scotia	provinsi|atau|wilayah|tempat|tinggal|nova|scotia	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_new_brunswick	provinsi atau wilayah tempat tinggal new brunswick	provinsi|atau|wilayah|tempat|tinggal|new|brunswick	provinsi|atau|wilayah|tempat|tinggal|new|brunswick	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	5	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_quebec	provinsi atau wilayah tempat tinggal quebec	provinsi|atau|wilayah|tempat|tinggal|quebec	provinsi|atau|wilayah|tempat|tinggal|quebec	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	6	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_ontario	provinsi atau wilayah tempat tinggal ontario	provinsi|atau|wilayah|tempat|tinggal|ontario	provinsi|atau|wilayah|tempat|tinggal|ontario	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	7	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_manitoba	provinsi atau wilayah tempat tinggal manitoba	provinsi|atau|wilayah|tempat|tinggal|manitoba	provinsi|atau|wilayah|tempat|tinggal|manitoba	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	8	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_saskatchewan	provinsi atau wilayah tempat tinggal saskatchewan	provinsi|atau|wilayah|tempat|tinggal|saskatchewan	provinsi|atau|wilayah|tempat|tinggal|saskatchewan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	9	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_alberta	provinsi atau wilayah tempat tinggal alberta	provinsi|atau|wilayah|tempat|tinggal|alberta	provinsi|atau|wilayah|tempat|tinggal|alberta	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	10	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_british_columbia	provinsi atau wilayah tempat tinggal British Columbia	provinsi|atau|wilayah|tempat|tinggal|british|columbia	provinsi|atau|wilayah|tempat|tinggal|British|Columbia	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|MISC|O	||||||					
+-1	11	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut	provinsi atau wilayah tempat tinggal wilayah barat laut	provinsi|atau|wilayah|tempat|tinggal|wilayah|barat|laut	provinsi|atau|wilayah|tempat|tinggal|wilayah|barat|laut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	12	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_yukon	provinsi atau wilayah tempat tinggal yukon	provinsi|atau|wilayah|tempat|tinggal|yukon	provinsi|atau|wilayah|tempat|tinggal|yukon	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	13	fb:row.row.provinsi_atau_wilayah_tempat_tinggal_nunavut	provinsi atau wilayah tempat tinggal nunavut	provinsi|atau|wilayah|tempat|tinggal|nunavut	provinsi|atau|wilayah|tempat|tinggal|nunavut	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	0	fb:cell_kharakteristik.persen_newfoundland_dan_labrador	persen Newfoundland dan Labrador	persen|newfoundland|dan|labrador	persen|Newfoundland|dan|Labrador	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+0	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.null											
+0	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+0	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+0	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+0	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+0	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+0	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+0	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+0	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+0	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+0	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+0	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+0	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+1	0	fb:cell_kharakteristik.persen_pulau_pangeran_edward	persen pulau pangeran Edward	persen|pulau|pangeran|edward	persen|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+1	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.null											
+1	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+1	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+1	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+1	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+1	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+1	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+1	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+1	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+1	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+1	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+2	0	fb:cell_kharakteristik.persen_nova_scotia	persen nova scotia	persen|nova|scotia	persen|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+2	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+2	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.null											
+2	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+2	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+2	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+2	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+2	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+2	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+2	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+2	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+2	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+2	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+3	0	fb:cell_kharakteristik.persen_brunswick_baru	persen brunswick baru	persen|brunswick|baru	persen|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+3	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+3	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+3	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.null											
+3	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+3	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+3	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+3	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+3	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+3	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+3	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+4	0	fb:cell_kharakteristik.persen_quebec	persen Quebec	persen|quebec	persen|Quebec	NNP|NNP	O|O	|					
+4	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+4	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+4	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+4	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+4	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.null											
+4	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.57_8	57.8	57.8	57.8	CD	NUMBER	57.8	57.8				
+4	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+4	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+4	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+4	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+4	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+4	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+4	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+5	0	fb:cell_kharakteristik.persen_ontario	persen ontario	persen|ontario	persen|ontario	NNP|NNP	O|O	|					
+5	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+5	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+5	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+5	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+5	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.91_7	91.7	91.7	91.7	CD	NUMBER	91.7	91.7				
+5	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.null											
+5	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+5	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+5	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+5	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.20_7	20.7	20.7	20.7	CD	NUMBER	20.7	20.7				
+5	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+5	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+5	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.19_4	19.4	19.4	19.4	CD	NUMBER	19.4	19.4				
+6	0	fb:cell_kharakteristik.persen_manitoba	persen manitoba	persen|manitoba	persen|manitoba	NNP|NNP	O|O	|					
+6	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+6	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+6	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+6	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+6	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+6	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.null											
+6	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+6	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+6	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+6	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+6	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+6	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+7	0	fb:cell_kharakteristik.persen_saskatchewan	persen saskatchewan	persen|saskatchewan	persen|saskatchewan	NNP|NNP	O|O	|					
+7	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+7	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+7	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+7	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+7	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+7	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+7	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.31_3	31.3	31.3	31.3	CD	NUMBER	31.3	31.3				
+7	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.null											
+7	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.27_4	27.4	27.4	27.4	CD	NUMBER	27.4	27.4				
+7	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+7	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+7	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+7	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+8	0	fb:cell_kharakteristik.persen_alberta	persen alberta	persen|alberta	persen|alberta	NNP|NNP	O|O	|					
+8	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.56_6	56.6	56.6	56.6	CD	NUMBER	56.6	56.6				
+8	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.45_3	45.3	45.3	45.3	CD	NUMBER	45.3	45.3				
+8	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+8	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.36_9	36.9	36.9	36.9	CD	NUMBER	36.9	36.9				
+8	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+8	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+8	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.30_6	30.6	30.6	30.6	CD	NUMBER	30.6	30.6				
+8	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+8	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.null											
+8	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.60_4	60.4	60.4	60.4	CD	NUMBER	60.4	60.4				
+8	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+8	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+8	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+9	0	fb:cell_kharakteristik.persen_british_columbia	persen British Columbia	persen|british|columbia	persen|British|Columbia	NNP|NNP|NNP	O|MISC|O	||					
+9	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+9	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+9	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+9	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+9	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+9	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+9	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+9	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+9	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.32_5	32.5	32.5	32.5	CD	NUMBER	32.5	32.5				
+9	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.null											
+9	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+9	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.47_5	47.5	47.5	47.5	CD	NUMBER	47.5	47.5				
+9	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+10	0	fb:cell_kharakteristik.persen_wilayah_barat_laut	persen wilayah barat laut	persen|wilayah|barat|laut	persen|wilayah|barat|laut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+10	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+10	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+10	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+10	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+10	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+10	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+10	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+10	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+10	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.null											
+10	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+10	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.31_8	31.8	31.8	31.8	CD	NUMBER	31.8	31.8				
+11	0	fb:cell_kharakteristik.persen_yukon	persen yukon	persen|yukon	persen|yukon	NNP|NNP	O|O	|					
+11	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+11	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+11	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+11	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+11	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+11	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+11	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+11	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+11	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+11	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+11	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.null											
+11	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	0	fb:cell_kharakteristik.persen_nunavut	persen nunavut	persen|nunavut	persen|nunavut	NNP|NNP	O|O	|					
+12	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+12	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+12	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+12	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+12	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+12	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+12	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+12	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+12	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+12	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+12	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+12	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+12	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.null											
+13	0	fb:cell_kharakteristik.persen_totalnya	persen totalnya	persen|totalnya	persen|totalnya	NNP|NNP	O|O	|					
+13	1	fb:cell_provinsi_atau_wilayah_tempat_tinggal_newfoundland_dan_labrador.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	2	fb:cell_provinsi_atau_wilayah_tempat_tinggal_pulau_pangeran_edward.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	3	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nova_scotia.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	4	fb:cell_provinsi_atau_wilayah_tempat_tinggal_new_brunswick.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	5	fb:cell_provinsi_atau_wilayah_tempat_tinggal_quebec.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	6	fb:cell_provinsi_atau_wilayah_tempat_tinggal_ontario.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	7	fb:cell_provinsi_atau_wilayah_tempat_tinggal_manitoba.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	8	fb:cell_provinsi_atau_wilayah_tempat_tinggal_saskatchewan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	9	fb:cell_provinsi_atau_wilayah_tempat_tinggal_alberta.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	10	fb:cell_provinsi_atau_wilayah_tempat_tinggal_british_columbia.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	11	fb:cell_provinsi_atau_wilayah_tempat_tinggal_wilayah_barat_laut.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	12	fb:cell_provinsi_atau_wilayah_tempat_tinggal_yukon.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	13	fb:cell_provinsi_atau_wilayah_tempat_tinggal_nunavut.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

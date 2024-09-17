@@ -1,0 +1,133 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor	nomor	nomor	nomor	NNP	O						
+-1	2	fb:row.row.menit_rata_rata_aktivitas_fisik_sedang_hingga_berat	menit rata-rata aktivitas fisik sedang hingga berat	menit|rata|rata|aktivitas|fisik|sedang|hingga|berat	menit|rata|rata|aktivitas|fisik|sedang|hingga|berat	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari	aktivitas fisik sedang hingga berat interval kepercayaan 95% dari	aktivitas|fisik|sedang|hingga|berat|interval|kepercayaan|95|%|dari	aktivitas|fisik|sedang|hingga|berat|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	4	fb:row.row.aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga	aktivitas fisik sedang hingga berat interval kepercayaan 95% hingga	aktivitas|fisik|sedang|hingga|berat|interval|kepercayaan|95|%|hingga	aktivitas|fisik|sedang|hingga|berat|interval|kepercayaan|95|%|hingga	NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	5	fb:row.row.waktu_layar_rata_rata_jam	waktu layar rata-rata jam	waktu|layar|rata|rata|jam	waktu|layar|rata|rata|jam	NNP|NNP|JJ|JJ|NN	O|O|O|O|O	||||					
+-1	6	fb:row.row.waktu_layar_interval_kepercayaan_95_dari	waktu layar interval kepercayaan 95% dari	waktu|layar|interval|kepercayaan|95|%|dari	waktu|layar|interval|kepercayaan|95|%|dari	NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	7	fb:row.row.waktu_layar_interval_kepercayaan_95_hingga	waktu layar interval kepercayaan 95% hingga	waktu|layar|interval|kepercayaan|95|%|hingga	waktu|layar|interval|kepercayaan|95|%|hingga	NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+-1	8	fb:row.row.rata_rata_jam_tidur	rata-rata jam tidur	rata|rata|jam|tidur	rata|rata|jam|tidur	JJ|JJ|NN|NN	O|O|O|O	|||					
+-1	9	fb:row.row.tidur_interval_kepercayaan_95_dari	tidur interval kepercayaan 95% dari	tidur|interval|kepercayaan|95|%|dari	tidur|interval|kepercayaan|95|%|dari	NNP|NN|NN|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	10	fb:row.row.tidur_interval_kepercayaan_95_hingga	tidur interval kepercayaan 95% hingga	tidur|interval|kepercayaan|95|%|hingga	tidur|interval|kepercayaan|95|%|hingga	NNP|NN|NN|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_nomor.3111_0	3111.0	3111.0	3111.0	CD	NUMBER	3111.0	3111.0				
+0	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.53_8	53.8	53.8	53.8	CD	NUMBER	53.8	53.8				
+0	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+0	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+0	5	fb:cell_waktu_layar_rata_rata_jam.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+0	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+0	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+0	8	fb:cell_rata_rata_jam_tidur.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+0	9	fb:cell_tidur_interval_kepercayaan_95_dari.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+0	10	fb:cell_tidur_interval_kepercayaan_95_hingga.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+1	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+1	1	fb:cell_nomor.null											
+1	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.null											
+1	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.null											
+1	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.null											
+1	5	fb:cell_waktu_layar_rata_rata_jam.null											
+1	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.null											
+1	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.null											
+1	8	fb:cell_rata_rata_jam_tidur.null											
+1	9	fb:cell_tidur_interval_kepercayaan_95_dari.null											
+1	10	fb:cell_tidur_interval_kepercayaan_95_hingga.null											
+2	0	fb:cell_kharakteristik.seks_laki_laki	seks laki-laki	seks|laki|laki	seks|laki|laki	NNP|NNP|NNP	O|PERSON|PERSON	||					
+2	1	fb:cell_nomor.1553_0	1553.0	1553.0	1553.0	CD	NUMBER	1553.0	1553.0				
+2	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.60_1	60.1	60.1	60.1	CD	NUMBER	60.1	60.1				
+2	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.55_8	55.8	55.8	55.8	CD	NUMBER	55.8	55.8				
+2	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.64_4	64.4	64.4	64.4	CD	NUMBER	64.4	64.4				
+2	5	fb:cell_waktu_layar_rata_rata_jam.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+2	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+2	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+2	8	fb:cell_rata_rata_jam_tidur.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+2	9	fb:cell_tidur_interval_kepercayaan_95_dari.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+2	10	fb:cell_tidur_interval_kepercayaan_95_hingga.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+3	0	fb:cell_kharakteristik.gadis_seks	gadis seks	gadis|seks	gadis|seks	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor.1558_0	1558.0	1558.0	1558.0	CD	NUMBER	1558.0	1558.0				
+3	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.47_1	47.1	47.1	47.1	CD	NUMBER	47.1	47.1				
+3	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.44_6	44.6	44.6	44.6	CD	NUMBER	44.6	44.6				
+3	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.49_7	49.7	49.7	49.7	CD	NUMBER	49.7	49.7				
+3	5	fb:cell_waktu_layar_rata_rata_jam.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+3	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+3	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	8	fb:cell_rata_rata_jam_tidur.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+3	9	fb:cell_tidur_interval_kepercayaan_95_dari.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+3	10	fb:cell_tidur_interval_kepercayaan_95_hingga.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+4	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+4	1	fb:cell_nomor.null											
+4	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.null											
+4	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.null											
+4	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.null											
+4	5	fb:cell_waktu_layar_rata_rata_jam.null											
+4	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.null											
+4	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.null											
+4	8	fb:cell_rata_rata_jam_tidur.null											
+4	9	fb:cell_tidur_interval_kepercayaan_95_dari.null											
+4	10	fb:cell_tidur_interval_kepercayaan_95_hingga.null											
+5	0	fb:cell_kharakteristik.kelompok_umur_5_hingga_11_tahun	kelompok umur 5 hingga 11 tahun	kelompok|umur|5|hingga|11|tahun	kelompok|umur|5|hingga|11|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||5.0||11.0|	5.0		11.0		
+5	1	fb:cell_nomor.1985_0	1985.0	1985.0	1985.0	CD	NUMBER	1985.0	1985.0				
+5	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.61_3	61.3	61.3	61.3	CD	NUMBER	61.3	61.3				
+5	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.57_8	57.8	57.8	57.8	CD	NUMBER	57.8	57.8				
+5	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.64_7	64.7	64.7	64.7	CD	NUMBER	64.7	64.7				
+5	5	fb:cell_waktu_layar_rata_rata_jam.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+5	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+5	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+5	8	fb:cell_rata_rata_jam_tidur.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+5	9	fb:cell_tidur_interval_kepercayaan_95_dari.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+5	10	fb:cell_tidur_interval_kepercayaan_95_hingga.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+6	0	fb:cell_kharakteristik.kelompok_umur_5_sampai_11_anak_laki_laki	kelompok umur 5 sampai 11 anak laki-laki	kelompok|umur|5|sampai|11|anak|laki|laki	kelompok|umur|5|sampai|11|anak|laki|laki	NNP|NNP|CD|FW|CD|NN|NNP|NNP	O|O|NUMBER|O|NUMBER|O|PERSON|PERSON	||5.0||11.0|||	5.0		11.0		
+6	1	fb:cell_nomor.980_0	980.0	980.0	980.0	CD	NUMBER	980.0	980.0				
+6	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+6	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+6	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.73_2	73.2	73.2	73.2	CD	NUMBER	73.2	73.2				
+6	5	fb:cell_waktu_layar_rata_rata_jam.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+6	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+6	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+6	8	fb:cell_rata_rata_jam_tidur.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+6	9	fb:cell_tidur_interval_kepercayaan_95_dari.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+6	10	fb:cell_tidur_interval_kepercayaan_95_hingga.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+7	0	fb:cell_kharakteristik.kelompok_umur_5_sampai_11_anak_perempuan	kelompok umur 5 sampai 11 anak perempuan	kelompok|umur|5|sampai|11|anak|perempuan	kelompok|umur|5|sampai|11|anak|perempuan	NNP|NNP|CD|FW|CD|NN|NN	O|O|NUMBER|O|NUMBER|O|O	||5.0||11.0||	5.0		11.0		
+7	1	fb:cell_nomor.1005_0	1005.0	1005.0	1005.0	CD	NUMBER	1005.0	1005.0				
+7	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+7	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+7	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.56_8	56.8	56.8	56.8	CD	NUMBER	56.8	56.8				
+7	5	fb:cell_waktu_layar_rata_rata_jam.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+7	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+7	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+7	8	fb:cell_rata_rata_jam_tidur.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+7	9	fb:cell_tidur_interval_kepercayaan_95_dari.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+7	10	fb:cell_tidur_interval_kepercayaan_95_hingga.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+8	0	fb:cell_kharakteristik.kelompok_usia_12_hingga_17_tahun	kelompok usia 12 hingga 17 tahun	kelompok|usia|12|hingga|17|tahun	kelompok|usia|12|hingga|17|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||12.0||17.0|	12.0		17.0		
+8	1	fb:cell_nomor.1126_0	1126.0	1126.0	1126.0	CD	NUMBER	1126.0	1126.0				
+8	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.46_3	46.3	46.3	46.3	CD	NUMBER	46.3	46.3				
+8	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.42_5	42.5	42.5	42.5	CD	NUMBER	42.5	42.5				
+8	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.50_1	50.1	50.1	50.1	CD	NUMBER	50.1	50.1				
+8	5	fb:cell_waktu_layar_rata_rata_jam.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+8	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+8	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+8	8	fb:cell_rata_rata_jam_tidur.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+8	9	fb:cell_tidur_interval_kepercayaan_95_dari.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+8	10	fb:cell_tidur_interval_kepercayaan_95_hingga.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+9	0	fb:cell_kharakteristik.kelompok_usia_12_hingga_17_anak_laki_laki	kelompok usia 12 hingga 17 anak laki-laki	kelompok|usia|12|hingga|17|anak|laki|laki	kelompok|usia|12|hingga|17|anak|laki|laki	NNP|NNP|CD|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|NUMBER|O|O|O	||12.0||17.0|||	12.0		17.0		
+9	1	fb:cell_nomor.573_0	573.0	573.0	573.0	CD	NUMBER	573.0	573.0				
+9	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+9	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.46_9	46.9	46.9	46.9	CD	NUMBER	46.9	46.9				
+9	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.57_1	57.1	57.1	57.1	CD	NUMBER	57.1	57.1				
+9	5	fb:cell_waktu_layar_rata_rata_jam.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+9	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+9	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+9	8	fb:cell_rata_rata_jam_tidur.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+9	9	fb:cell_tidur_interval_kepercayaan_95_dari.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+9	10	fb:cell_tidur_interval_kepercayaan_95_hingga.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+10	0	fb:cell_kharakteristik.kelompok_usia_12_hingga_17_anak_perempuan	kelompok usia 12 hingga 17 anak perempuan	kelompok|usia|12|hingga|17|anak|perempuan	kelompok|usia|12|hingga|17|anak|perempuan	NNP|NNP|CD|NN|CD|NN|NN	O|O|NUMBER|O|NUMBER|O|O	||12.0||17.0||	12.0		17.0		
+10	1	fb:cell_nomor.553_0	553.0	553.0	553.0	CD	NUMBER	553.0	553.0				
+10	2	fb:cell_menit_rata_rata_aktivitas_fisik_sedang_hingga_berat.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+10	3	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_dari.36_9	36.9	36.9	36.9	CD	NUMBER	36.9	36.9				
+10	4	fb:cell_aktivitas_fisik_sedang_hingga_berat_interval_kepercayaan_95_hingga.43_6	43.6	43.6	43.6	CD	NUMBER	43.6	43.6				
+10	5	fb:cell_waktu_layar_rata_rata_jam.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+10	6	fb:cell_waktu_layar_interval_kepercayaan_95_dari.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+10	7	fb:cell_waktu_layar_interval_kepercayaan_95_hingga.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+10	8	fb:cell_rata_rata_jam_tidur.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+10	9	fb:cell_tidur_interval_kepercayaan_95_dari.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+10	10	fb:cell_tidur_interval_kepercayaan_95_hingga.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				

@@ -1,0 +1,91 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan	ijazah pasca sekolah menengah non-universitas atau universitas perempuan	ijazah|pasca|sekolah|menengah|non|universitas|atau|universitas|perempuan	ijazah|pasca|sekolah|menengah|non|universita|atau|universitas|perempuan	NNP|NNP|NNP|NNP|JJ|NNS|NN|JJ|NN	O|O|O|O|O|O|O|O|O	||||||||					
+-1	2	fb:row.row.gelar_universitas_wanita_saja	gelar universitas wanita saja	gelar|universitas|wanita|saja	gelar|universita|wanita|saja	JJ|NNS|NNP|NNP	O|O|PERSON|PERSON	|||					
+-1	3	fb:row.row.laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas	laki-laki diploma pasca sekolah menengah non-universitas atau universitas	laki|laki|diploma|pasca|sekolah|menengah|non|universitas|atau|universitas	laki|laki|diploma|pasca|sekolah|menengah|non|universita|atau|universita	NNP|NNP|NN|NNP|NNP|NNP|JJ|NNS|NN|NNS	PERSON|PERSON|O|O|O|O|O|O|O|O	|||||||||					
+-1	4	fb:row.row.gelar_universitas_pria_saja	gelar universitas pria saja	gelar|universitas|pria|saja	gelar|universitas|pria|saja	NNP|NNPS|NNP|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.wilayah_keturunan	wilayah keturunan	wilayah|keturunan	wilayah|keturunan	JJ|NN	O|O	|					
+0	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.percent	percent	percent	percent	NN	O						
+0	2	fb:cell_gelar_universitas_wanita_saja.percent	percent	percent	percent	NN	O						
+0	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.percent	percent	percent	percent	NN	O						
+0	4	fb:cell_gelar_universitas_pria_saja.percent	percent	percent	percent	NN	O						
+1	0	fb:cell_kharakteristik.wilayah_keturunan_karibia_dan_amerika_latin	wilayah keturunan Karibia dan Amerika Latin	wilayah|keturunan|karibia|dan|amerika|latin	wilayah|keturunan|Karibia|dan|Amerika|Latin	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+1	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+1	2	fb:cell_gelar_universitas_wanita_saja.34_8	34.8	34.8	34.8	CD	NUMBER	34.8	34.8				
+1	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.59_5	59.5	59.5	59.5	CD	NUMBER	59.5	59.5				
+1	4	fb:cell_gelar_universitas_pria_saja.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+2	0	fb:cell_kharakteristik.wilayah_keturunan_afrika	wilayah keturunan Afrika	wilayah|keturunan|afrika	wilayah|keturunan|Afrika	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.79_6	79.6	79.6	79.6	CD	NUMBER	79.6	79.6				
+2	2	fb:cell_gelar_universitas_wanita_saja.50_8	50.8	50.8	50.8	CD	NUMBER	50.8	50.8				
+2	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.63_6	63.6	63.6	63.6	CD	NUMBER	63.6	63.6				
+2	4	fb:cell_gelar_universitas_pria_saja.35_3	35.3	35.3	35.3	CD	NUMBER	35.3	35.3				
+3	0	fb:cell_kharakteristik.wilayah_keturunan_wilayah_lain	wilayah keturunan wilayah lain	wilayah|keturunan|wilayah|lain	wilayah|keturunan|wilayah|lain	JJ|NN|NN|NN	O|O|O|O	|||					
+3	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.59_8	59.8	59.8	59.8	CD	NUMBER	59.8	59.8				
+3	2	fb:cell_gelar_universitas_wanita_saja.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+3	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+3	4	fb:cell_gelar_universitas_pria_saja.14_1	14.1	14.1	14.1	CD	NUMBER	14.1	14.1				
+4	0	fb:cell_kharakteristik.negara_keturunan	negara keturunan	negara|keturunan	negara|keturunan	NNP|NNP	O|O	|					
+4	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.null											
+4	2	fb:cell_gelar_universitas_wanita_saja.null											
+4	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.null											
+4	4	fb:cell_gelar_universitas_pria_saja.null											
+5	0	fb:cell_kharakteristik.negara_keturunan_jamaika	negara keturunan jamaika	negara|keturunan|jamaika	negara|keturunan|jamaika	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.75_5	75.5	75.5	75.5	CD	NUMBER	75.5	75.5				
+5	2	fb:cell_gelar_universitas_wanita_saja.31_3	31.3	31.3	31.3	CD	NUMBER	31.3	31.3				
+5	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.54_6	54.6	54.6	54.6	CD	NUMBER	54.6	54.6				
+5	4	fb:cell_gelar_universitas_pria_saja.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+6	0	fb:cell_kharakteristik.negara_keturunan_haiti	negara keturunan Haiti	negara|keturunan|haiti	negara|keturunan|Haiti	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+6	2	fb:cell_gelar_universitas_wanita_saja.37_1	37.1	37.1	37.1	CD	NUMBER	37.1	37.1				
+6	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.65_8	65.8	65.8	65.8	CD	NUMBER	65.8	65.8				
+6	4	fb:cell_gelar_universitas_pria_saja.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+7	0	fb:cell_kharakteristik.negara_keturunan_trinidad_dan_tobago	negara keturunan trinidad dan tobago	negara|keturunan|trinidad|dan|tobago	negara|keturunan|trinidad|dan|tobago	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+7	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+7	2	fb:cell_gelar_universitas_wanita_saja.36_5	36.5	36.5	36.5	CD	NUMBER	36.5	36.5				
+7	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.61_4	61.4	61.4	61.4	CD	NUMBER	61.4	61.4				
+7	4	fb:cell_gelar_universitas_pria_saja.20_4	20.4	20.4	20.4	CD	NUMBER	20.4	20.4				
+8	0	fb:cell_kharakteristik.negara_leluhur_barbados	negara leluhur barbados	negara|leluhur|barbados	negara|leluhur|barbados	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+8	2	fb:cell_gelar_universitas_wanita_saja.39_2	39.2	39.2	39.2	CD	NUMBER	39.2	39.2				
+8	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.64_4	64.4	64.4	64.4	CD	NUMBER	64.4	64.4				
+8	4	fb:cell_gelar_universitas_pria_saja.22_8	22.8	22.8	22.8	CD	NUMBER	22.8	22.8				
+9	0	fb:cell_kharakteristik.negara_keturunan_guyana	negara keturunan Guyana	negara|keturunan|guyana	negara|keturunan|Guyana	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.74_8	74.8	74.8	74.8	CD	NUMBER	74.8	74.8				
+9	2	fb:cell_gelar_universitas_wanita_saja.32_5	32.5	32.5	32.5	CD	NUMBER	32.5	32.5				
+9	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+9	4	fb:cell_gelar_universitas_pria_saja.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+10	0	fb:cell_kharakteristik.negara_leluhur_saint_vincent_dan_grenadines	negara leluhur saint vincent dan grenadines	negara|leluhur|saint|vincent|dan|grenadines	negara|leluhur|saint|vincent|dan|grenadines	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON|O	|||||					
+10	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+10	2	fb:cell_gelar_universitas_wanita_saja.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+10	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.58_3	58.3	58.3	58.3	CD	NUMBER	58.3	58.3				
+10	4	fb:cell_gelar_universitas_pria_saja.17_5	17.5	17.5	17.5	CD	NUMBER	17.5	17.5				
+11	0	fb:cell_kharakteristik.negara_nenek_moyang_grenada	negara nenek moyang grenada	negara|nenek|moyang|grenada	negara|nenek|moyang|grenada	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+11	2	fb:cell_gelar_universitas_wanita_saja.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+11	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+11	4	fb:cell_gelar_universitas_pria_saja.21_4	21.4	21.4	21.4	CD	NUMBER	21.4	21.4				
+12	0	fb:cell_kharakteristik.negara_keturunan_ghana	negara keturunan Ghana	negara|keturunan|ghana	negara|keturunan|Ghana	NNP|NNP|NNP	O|O|O	||					
+12	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.81_7	81.7	81.7	81.7	CD	NUMBER	81.7	81.7				
+12	2	fb:cell_gelar_universitas_wanita_saja.49_8	49.8	49.8	49.8	CD	NUMBER	49.8	49.8				
+12	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+12	4	fb:cell_gelar_universitas_pria_saja.31_4	31.4	31.4	31.4	CD	NUMBER	31.4	31.4				
+13	0	fb:cell_kharakteristik.negara_keturunan_nigeria	negara keturunan Nigeria	negara|keturunan|nigeria	negara|keturunan|Nigeria	NNP|NNP|NNP	O|O|O	||					
+13	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.86_4	86.4	86.4	86.4	CD	NUMBER	86.4	86.4				
+13	2	fb:cell_gelar_universitas_wanita_saja.63_3	63.3	63.3	63.3	CD	NUMBER	63.3	63.3				
+13	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.75_3	75.3	75.3	75.3	CD	NUMBER	75.3	75.3				
+13	4	fb:cell_gelar_universitas_pria_saja.51_5	51.5	51.5	51.5	CD	NUMBER	51.5	51.5				
+14	0	fb:cell_kharakteristik.negara_asal_amerika_serikat	negara asal Amerika Serikat	negara|asal|amerika|serikat	negara|asal|Amerika|Serikat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+14	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.63_9	63.9	63.9	63.9	CD	NUMBER	63.9	63.9				
+14	2	fb:cell_gelar_universitas_wanita_saja.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+14	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.49_2	49.2	49.2	49.2	CD	NUMBER	49.2	49.2				
+14	4	fb:cell_gelar_universitas_pria_saja.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+15	0	fb:cell_kharakteristik.negara_nenek_moyang_inggris	negara nenek moyang inggris	negara|nenek|moyang|inggris	negara|nenek|moyang|inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.71_9	71.9	71.9	71.9	CD	NUMBER	71.9	71.9				
+15	2	fb:cell_gelar_universitas_wanita_saja.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+15	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.53_9	53.9	53.9	53.9	CD	NUMBER	53.9	53.9				
+15	4	fb:cell_gelar_universitas_pria_saja.22_1	22.1	22.1	22.1	CD	NUMBER	22.1	22.1				
+16	0	fb:cell_kharakteristik.negara_keturunan_kanada	negara keturunan Kanada	negara|keturunan|kanada	negara|keturunan|Kanada	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_ijazah_pasca_sekolah_menengah_non_universitas_atau_universitas_perempuan.56_5	56.5	56.5	56.5	CD	NUMBER	56.5	56.5				
+16	2	fb:cell_gelar_universitas_wanita_saja.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+16	3	fb:cell_laki_laki_diploma_pasca_sekolah_menengah_non_universitas_atau_universitas.44_8	44.8	44.8	44.8	CD	NUMBER	44.8	44.8				
+16	4	fb:cell_gelar_universitas_pria_saja.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				

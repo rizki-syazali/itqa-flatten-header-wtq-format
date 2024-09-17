@@ -1,0 +1,33 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.sektor_korporasi_non_keuangan	sektor korporasi non-keuangan	sektor|korporasi|non|keuangan	sektor|korporasi|non|keuangan	NNP|NNP|JJ|NN	O|O|O|O	|||					
+-1	2	fb:row.row.sektor_rumah_tangga	sektor rumah tangga	sektor|rumah|tangga	sektor|rumah|tangga	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.sektor_korporasi_keuangan	sektor korporasi keuangan	sektor|korporasi|keuangan	sektor|korporasi|keuangan	NNP|NNP|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.kontribusi_sosial_pemberi_kerja_yang_sebenarnya	kontribusi sosial pemberi kerja yang sebenarnya	kontribusi|sosial|pemberi|kerja|yang|sebenarnya	kontribusi|sosial|pemberi|kerja|yang|sebenarnya	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	1	fb:cell_sektor_korporasi_non_keuangan._25_0	-25.0	-25.0	-25.0	CD	NUMBER	-25.0	25.0				
+0	2	fb:cell_sektor_rumah_tangga.25	25	25	25	CD	NUMBER	25.0	25.0				
+0	3	fb:cell_sektor_korporasi_keuangan.null											
+1	0	fb:cell_kharakteristik.kontribusi_sosial_pemberi_kerja_yang_diperhitungkan	kontribusi sosial pemberi kerja yang diperhitungkan	kontribusi|sosial|pemberi|kerja|yang|diperhitungkan	kontribusi|sosial|pemberi|kerja|yang|diperhitungkan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+1	1	fb:cell_sektor_korporasi_non_keuangan._25_0	-25.0	-25.0	-25.0	CD	NUMBER	-25.0	25.0				
+1	2	fb:cell_sektor_rumah_tangga.25	25	25	25	CD	NUMBER	25.0	25.0				
+1	3	fb:cell_sektor_korporasi_keuangan.null											
+2	0	fb:cell_kharakteristik.pendapatan_properti_diterima	pendapatan properti diterima	pendapatan|properti|diterima	pendapatan|properti|diterima	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_sektor_korporasi_non_keuangan.null											
+2	2	fb:cell_sektor_rumah_tangga.5	5	5	5	CD	NUMBER	5.0	5.0				
+2	3	fb:cell_sektor_korporasi_keuangan._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+3	0	fb:cell_kharakteristik.transfer_saat_ini	transfer saat ini	transfer|saat|ini	transfer|saat|ini	NN|NNP|NNP	O|O|O	||					
+3	1	fb:cell_sektor_korporasi_non_keuangan.null											
+3	2	fb:cell_sektor_rumah_tangga._75	-75	-75	-75	CD	NUMBER	-75.0	75.0				
+3	3	fb:cell_sektor_korporasi_keuangan.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+4	0	fb:cell_kharakteristik.transfer_saat_ini	transfer saat ini	transfer|saat|ini	transfer|saat|ini	NN|NNP|NNP	O|O|O	||					
+4	1	fb:cell_sektor_korporasi_non_keuangan.null											
+4	2	fb:cell_sektor_rumah_tangga.20	20	20	20	CD	NUMBER	20.0	20.0				
+4	3	fb:cell_sektor_korporasi_keuangan._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+5	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_yang_dapat_dibelanjakan	pendapatan rumah tangga yang dapat dibelanjakan	pendapatan|rumah|tangga|yang|dapat|dibelanjakan	pendapatan|rumah|tangga|yang|dapat|dibelanjakan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+5	1	fb:cell_sektor_korporasi_non_keuangan.null											
+5	2	fb:cell_sektor_rumah_tangga._55	-55	-55	-55	CD	NUMBER	-55.0	55.0				
+5	3	fb:cell_sektor_korporasi_keuangan.null											
+6	0	fb:cell_kharakteristik.perubahan_hak_pensiun	perubahan hak pensiun	perubahan|hak|pensiun	perubahan|hak|pensiun	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_sektor_korporasi_non_keuangan.null											
+6	2	fb:cell_sektor_rumah_tangga.55	55	55	55	CD	NUMBER	55.0	55.0				
+6	3	fb:cell_sektor_korporasi_keuangan._55_0	-55.0	-55.0	-55.0	CD	NUMBER	-55.0	55.0				

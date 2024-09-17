@@ -1,0 +1,29 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total	total	total	total	NN	O						
+-1	2	fb:row.row.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+-1	3	fb:row.row.wanita	wanita	wanita	wanita	NNP	PERSON						
+0	0	fb:cell_kharakteristik.prediksi_probabilitas_penyelesaian_sekolah_menengah_atas_dan_pasca_sekolah_menengah	prediksi probabilitas penyelesaian sekolah menengah atas dan pasca sekolah menengah	prediksi|probabilitas|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah	prediksi|probabilitas|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+0	1	fb:cell_total.null											
+0	2	fb:cell_laki_laki.null											
+0	3	fb:cell_wanita.null											
+1	0	fb:cell_kharakteristik.prediksi_probabilitas_kelulusan_sekolah_menengah_atas_dan_pasca_sekolah_menengah_atas_serta_kredensial_pendidikan_pasca_sekolah_menengah	prediksi probabilitas kelulusan sekolah menengah atas dan pasca sekolah menengah atas serta kredensial pendidikan pasca sekolah menengah	prediksi|probabilitas|kelulusan|sekolah|menengah|atas|dan|pasca|sekolah|menengah|atas|serta|kredensial|pendidikan|pasca|sekolah|menengah	prediksi|probabilitas|kelulusan|sekolah|menengah|atas|dan|pasca|sekolah|menengah|atas|serta|kredensial|pendidikan|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+1	1	fb:cell_total.0_76	0.76	0.76	0.76	CD	NUMBER	0.76	0.76				
+1	2	fb:cell_laki_laki.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+1	3	fb:cell_wanita.0_73	0.73	0.73	0.73	CD	NUMBER	0.73	0.73				
+2	0	fb:cell_kharakteristik.prediksi_probabilitas_kelulusan_sekolah_menengah_atas_dan_ijazah_sekolah_menengah_atas_dan_tidak_ada_kredensial_pendidikan_pasca_sekolah_menengah	prediksi probabilitas kelulusan sekolah menengah atas dan ijazah sekolah menengah atas dan tidak ada kredensial pendidikan pasca sekolah menengah	prediksi|probabilitas|kelulusan|sekolah|menengah|atas|dan|ijazah|sekolah|menengah|atas|dan|tidak|ada|kredensial|pendidikan|pasca|sekolah|menengah	prediksi|probabilitas|kelulusan|sekolah|menengah|atas|dan|ijazah|sekolah|menengah|atas|dan|tidak|ada|kredensial|pendidikan|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|JJ|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||					
+2	1	fb:cell_total.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+2	2	fb:cell_laki_laki.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+2	3	fb:cell_wanita.0_56	0.56	0.56	0.56	CD	NUMBER	0.56	0.56				
+3	0	fb:cell_kharakteristik.prediksi_probabilitas_peningkatan_penyelesaian_sekolah_menengah_atas_dan_pasca_sekolah_menengah_atau_kesetaraan_sekolah_menengah_atas_dan_kredensial_pendidikan_pasca_sekolah_menengah	prediksi probabilitas peningkatan penyelesaian sekolah menengah atas dan pasca sekolah menengah atau kesetaraan sekolah menengah atas dan kredensial pendidikan pasca sekolah menengah	prediksi|probabilitas|peningkatan|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah|atau|kesetaraan|sekolah|menengah|atas|dan|kredensial|pendidikan|pasca|sekolah|menengah	prediksi|probabilitas|peningkatan|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah|atau|kesetaraan|sekolah|menengah|atas|dan|kredensial|pendidikan|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+3	1	fb:cell_total.0_68	0.68	0.68	0.68	CD	NUMBER	0.68	0.68				
+3	2	fb:cell_laki_laki.0_68	0.68	0.68	0.68	CD	NUMBER	0.68	0.68				
+3	3	fb:cell_wanita.0_67	0.67	0.67	0.67	CD	NUMBER	0.67	0.67				
+4	0	fb:cell_kharakteristik.prediksi_probabilitas_peningkatan_penyelesaian_sekolah_menengah_atas_dan_pasca_sekolah_menengah_atau_kesetaraan_sekolah_menengah_atas_dan_tidak_ada_kredensial_pendidikan_pasca_sekolah_menengah	prediksi probabilitas peningkatan penyelesaian sekolah menengah atas dan pasca sekolah menengah atau kesetaraan sekolah menengah atas dan tidak ada kredensial pendidikan pasca sekolah menengah	prediksi|probabilitas|peningkatan|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah|atau|kesetaraan|sekolah|menengah|atas|dan|tidak|ada|kredensial|pendidikan|pasca|sekolah|menengah	prediksi|probabilitas|peningkatan|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah|atau|kesetaraan|sekolah|menengah|atas|dan|tidak|ada|kredensial|pendidikan|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|JJ|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||					
+4	1	fb:cell_total.0_58	0.58	0.58	0.58	CD	NUMBER	0.58	0.58				
+4	2	fb:cell_laki_laki.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+4	3	fb:cell_wanita.0_51	0.51	0.51	0.51	CD	NUMBER	0.51	0.51				
+5	0	fb:cell_kharakteristik.prediksi_probabilitas_penyelesaian_sekolah_menengah_atas_dan_pasca_sekolah_menengah_tidak_menyelesaikan_sekolah_menengah_atas	prediksi probabilitas penyelesaian sekolah menengah atas dan pasca sekolah menengah tidak menyelesaikan sekolah menengah atas	prediksi|probabilitas|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah|tidak|menyelesaikan|sekolah|menengah|atas	prediksi|probabilitas|penyelesaian|sekolah|menengah|atas|dan|pasca|sekolah|menengah|tidak|menyelesaikan|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+5	1	fb:cell_total.0_46	0.46	0.46	0.46	CD	NUMBER	0.46	0.46				
+5	2	fb:cell_laki_laki.0_54	0.54	0.54	0.54	CD	NUMBER	0.54	0.54				
+5	3	fb:cell_wanita.0_38	0.38	0.38	0.38	CD	NUMBER	0.38	0.38				

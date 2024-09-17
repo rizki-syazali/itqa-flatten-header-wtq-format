@@ -1,0 +1,22 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+-1	2	fb:row.row.wanita	wanita	wanita	wanita	NNP	PERSON						
+0	0	fb:cell_kharakteristik.dolar_total_upah_median_dan_pendapatan_gaji	dolar total upah median dan pendapatan gaji	dolar|total|upah|median|dan|pendapatan|gaji	dolar|total|upah|median|dan|pendapatan|gaji	JJ|JJ|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_laki_laki.58176	58176	58176	58176	CD	NUMBER	58176.0	58176.0				
+0	2	fb:cell_wanita.37117	37117	37117	37117	CD	NUMBER	37117.0	37117.0				
+1	0	fb:cell_kharakteristik.dolar_total_upah_median_dan_pendapatan_gaji_kurang_dari_sekolah_menengah	dolar total upah median dan pendapatan gaji kurang dari sekolah menengah	dolar|total|upah|median|dan|pendapatan|gaji|kurang|dari|sekolah|menengah	dolar|total|upah|median|dan|pendapatan|gaji|kurang|dari|sekolah|menengah	JJ|JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+1	1	fb:cell_laki_laki.39727	39727	39727	39727	CD	NUMBER	39727.0	39727.0				
+1	2	fb:cell_wanita.25393	25393	25393	25393	CD	NUMBER	25393.0	25393.0				
+2	0	fb:cell_kharakteristik.dolar_total_pendapatan_median_upah_dan_gaji_ijazah_sekolah_menengah_atau_sederajat	dolar total pendapatan median upah dan gaji ijazah sekolah menengah atau sederajat	dolar|total|pendapatan|median|upah|dan|gaji|ijazah|sekolah|menengah|atau|sederajat	dolar|total|pendapatan|median|upah|dan|gaji|ijazah|sekolah|menengah|atau|sederajat	JJ|JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+2	1	fb:cell_laki_laki.52516	52516	52516	52516	CD	NUMBER	52516.0	52516.0				
+2	2	fb:cell_wanita.30519	30519	30519	30519	CD	NUMBER	30519.0	30519.0				
+3	0	fb:cell_kharakteristik.dolar_total_upah_median_dan_pendapatan_gaji_beberapa_pasca_sekolah_menengah	dolar total upah median dan pendapatan gaji beberapa pasca sekolah menengah	dolar|total|upah|median|dan|pendapatan|gaji|beberapa|pasca|sekolah|menengah	dolar|total|upah|median|dan|pendapatan|gaji|beberapa|pasca|sekolah|menengah	JJ|JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+3	1	fb:cell_laki_laki.51427	51427	51427	51427	CD	NUMBER	51427.0	51427.0				
+3	2	fb:cell_wanita.27178	27178	27178	27178	CD	NUMBER	27178.0	27178.0				
+4	0	fb:cell_kharakteristik.dolar_total_upah_rata_rata_dan_pendapatan_gaji_sertifikat_atau_diploma_pasca_sekolah_menengah_di_bawah_tingkat_sarjana	dolar total upah rata-rata dan pendapatan gaji sertifikat atau diploma pasca sekolah menengah di bawah tingkat sarjana	dolar|total|upah|rata|rata|dan|pendapatan|gaji|sertifikat|atau|diploma|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	dolar|total|upah|rata|rata|dan|pendapatan|gaji|sertifikat|atau|diploma|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	JJ|JJ|NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||					
+4	1	fb:cell_laki_laki.63687	63687	63687	63687	CD	NUMBER	63687.0	63687.0				
+4	2	fb:cell_wanita.36563	36563	36563	36563	CD	NUMBER	36563.0	36563.0				
+5	0	fb:cell_kharakteristik.dolar_total_upah_rata_rata_dan_pendapatan_gaji_sertifikat_universitas_diploma_atau_gelar	dolar total upah rata-rata dan pendapatan gaji sertifikat universitas, diploma atau gelar	dolar|total|upah|rata|rata|dan|pendapatan|gaji|sertifikat|universitas|,|diploma|atau|gelar	dolar|total|upah|rata|rata|dan|pendapatan|gaji|sertifikat|universitas|,|diploma|atau|gelar	JJ|JJ|NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNPS|,|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				dolar total upah rata-rata dan pendapatan gaji sertifikat universitas|diploma atau gelar	fb:part_kharakteristik.dolar_total_upah_rata_rata_dan_pendapatan_gaji_sertifikat_universitas|fb:part_kharakteristik.diploma_atau_gelar
+5	1	fb:cell_laki_laki.71104	71104	71104	71104	CD	NUMBER	71104.0	71104.0				
+5	2	fb:cell_wanita.57842	57842	57842	57842	CD	NUMBER	57842.0	57842.0				

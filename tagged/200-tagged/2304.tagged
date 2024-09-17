@@ -1,0 +1,66 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persen_perempuan	persen perempuan	persen|perempuan	persen|perempuan	NNP|NNP	O|O	|					
+-1	2	fb:row.row.nomor_peringkat_wanita	nomor peringkat wanita	nomor|peringkat|wanita	nomor|peringkat|wanita	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.persen_laki_laki	persen laki-laki	persen|laki|laki	persen|laki|laki	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.nomor_pangkat_pria	nomor pangkat pria	nomor|pangkat|pria	nomor|pangkat|pria	NN|NN|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.proporsi_dengan_gelar_universitas	proporsi dengan gelar universitas	proporsi|dengan|gelar|universitas	proporsi|dengan|gelar|universita	NN|NN|JJ|NNS	O|O|O|O	|||					
+0	1	fb:cell_persen_perempuan.100	100	100	100	CD	NUMBER	100.0	100.0				
+0	2	fb:cell_nomor_peringkat_wanita.null											
+0	3	fb:cell_persen_laki_laki.100	100	100	100	CD	NUMBER	100.0	100.0				
+0	4	fb:cell_nomor_pangkat_pria.null											
+1	0	fb:cell_kharakteristik.proporsi_dengan_pendidikan_gelar_universitas	proporsi dengan pendidikan gelar universitas	proporsi|dengan|pendidikan|gelar|universitas	proporsi|dengan|pendidikan|gelar|universitas	NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O	||||					
+1	1	fb:cell_persen_perempuan.19	19	19	19	CD	NUMBER	19.0	19.0				
+1	2	fb:cell_nomor_peringkat_wanita.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	3	fb:cell_persen_laki_laki.8	8	8	8	CD	NUMBER	8.0	8.0				
+1	4	fb:cell_nomor_pangkat_pria.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	0	fb:cell_kharakteristik.proporsi_dengan_gelar_universitas_bisnis_manajemen_pemasaran_dan_layanan_dukungan_terkait	proporsi dengan gelar universitas bisnis, manajemen, pemasaran dan layanan dukungan terkait	proporsi|dengan|gelar|universitas|bisnis|,|manajemen|,|pemasaran|dan|layanan|dukungan|terkait	proporsi|dengan|gelar|universitas|bisnis|,|manajemen|,|pemasaran|dan|layanan|dukungan|terkait	NNP|NNP|NNP|NNPS|NNP|,|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				proporsi dengan gelar universitas bisnis|manajemen|pemasaran dan layanan dukungan terkait	fb:part_kharakteristik.proporsi_dengan_gelar_universitas_bisnis|fb:part_kharakteristik.manajemen|fb:part_kharakteristik.pemasaran_dan_layanan_dukungan_terkait
+2	1	fb:cell_persen_perempuan.15	15	15	15	CD	NUMBER	15.0	15.0				
+2	2	fb:cell_nomor_peringkat_wanita.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+2	3	fb:cell_persen_laki_laki.21	21	21	21	CD	NUMBER	21.0	21.0				
+2	4	fb:cell_nomor_pangkat_pria.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	0	fb:cell_kharakteristik.proporsi_dengan_gelar_universitas_profesi_kesehatan_dan_program_terkait	proporsi dengan gelar universitas profesi kesehatan dan program terkait	proporsi|dengan|gelar|universitas|profesi|kesehatan|dan|program|terkait	proporsi|dengan|gelar|universitas|profesi|kesehatan|dan|program|terkait	NNP|NNP|NNP|NNPS|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+3	1	fb:cell_persen_perempuan.13	13	13	13	CD	NUMBER	13.0	13.0				
+3	2	fb:cell_nomor_peringkat_wanita.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	3	fb:cell_persen_laki_laki.6	6	6	6	CD	NUMBER	6.0	6.0				
+3	4	fb:cell_nomor_pangkat_pria.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	0	fb:cell_kharakteristik.proporsi_dengan_gelar_sarjana_ilmu_sosial	proporsi dengan gelar sarjana ilmu sosial	proporsi|dengan|gelar|sarjana|ilmu|sosial	proporsi|dengan|gelar|sarjana|ilmu|sosial	NN|NN|NN|NN|NN|JJ	O|O|O|O|O|O	|||||					
+4	1	fb:cell_persen_perempuan.7	7	7	7	CD	NUMBER	7.0	7.0				
+4	2	fb:cell_nomor_peringkat_wanita.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+4	3	fb:cell_persen_laki_laki.8	8	8	8	CD	NUMBER	8.0	8.0				
+4	4	fb:cell_nomor_pangkat_pria.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+5	0	fb:cell_kharakteristik.proporsi_dengan_gelar_sarjana_psikologi	proporsi dengan gelar sarjana psikologi	proporsi|dengan|gelar|sarjana|psikologi	proporsi|dengan|gelar|sarjana|psikologi	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+5	1	fb:cell_persen_perempuan.5	5	5	5	CD	NUMBER	5.0	5.0				
+5	2	fb:cell_nomor_peringkat_wanita.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+5	3	fb:cell_persen_laki_laki.2	2	2	2	CD	NUMBER	2.0	2.0				
+5	4	fb:cell_nomor_pangkat_pria.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+6	0	fb:cell_kharakteristik.proporsi_dengan_gelar_universitas_seni_liberal_dan_sains_studi_umum_dan_humaniora	proporsi dengan gelar universitas seni liberal dan sains, studi umum dan humaniora	proporsi|dengan|gelar|universitas|seni|liberal|dan|sains|,|studi|umum|dan|humaniora	proporsi|dengan|gelar|universitas|seni|liberal|dan|sains|,|studi|umum|dan|humaniora	NNP|NNP|NNP|NNPS|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON|O|O|O|PERSON|PERSON	||||||||||||				proporsi dengan gelar universitas seni liberal dan sains|studi umum dan humaniora	fb:part_kharakteristik.proporsi_dengan_gelar_universitas_seni_liberal_dan_sains|fb:part_kharakteristik.studi_umum_dan_humaniora
+6	1	fb:cell_persen_perempuan.4	4	4	4	CD	NUMBER	4.0	4.0				
+6	2	fb:cell_nomor_peringkat_wanita.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+6	3	fb:cell_persen_laki_laki.2	2	2	2	CD	NUMBER	2.0	2.0				
+6	4	fb:cell_nomor_pangkat_pria.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+7	0	fb:cell_kharakteristik.proporsi_dengan_gelar_sarjana_teknik	proporsi dengan gelar sarjana teknik	proporsi|dengan|gelar|sarjana|teknik	proporsi|dengan|gelar|sarjana|teknik	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+7	1	fb:cell_persen_perempuan.4	4	4	4	CD	NUMBER	4.0	4.0				
+7	2	fb:cell_nomor_peringkat_wanita.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+7	3	fb:cell_persen_laki_laki.18	18	18	18	CD	NUMBER	18.0	18.0				
+7	4	fb:cell_nomor_pangkat_pria.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+8	0	fb:cell_kharakteristik.proporsi_dengan_gelar_universitas_seni_visual_dan_pertunjukan	proporsi dengan gelar universitas seni visual dan pertunjukan	proporsi|dengan|gelar|universitas|seni|visual|dan|pertunjukan	proporsi|dengan|gelar|universita|senus|visual|dan|pertunjukan	NN|NN|JJ|NNS|NNS|JJ|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+8	1	fb:cell_persen_perempuan.3	3	3	3	CD	NUMBER	3.0	3.0				
+8	2	fb:cell_nomor_peringkat_wanita.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+8	3	fb:cell_persen_laki_laki.2	2	2	2	CD	NUMBER	2.0	2.0				
+8	4	fb:cell_nomor_pangkat_pria.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+9	0	fb:cell_kharakteristik.proporsi_dengan_gelar_universitas_ilmu_biologi_dan_biomedis	proporsi dengan gelar universitas ilmu biologi dan biomedis	proporsi|dengan|gelar|universitas|ilmu|biologi|dan|biomedis	proporsi|dengan|gelar|universitas|ilmu|biologi|dan|biomedis	NNP|NNP|NNP|NNPS|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+9	1	fb:cell_persen_perempuan.3	3	3	3	CD	NUMBER	3.0	3.0				
+9	2	fb:cell_nomor_peringkat_wanita.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+9	3	fb:cell_persen_laki_laki.3	3	3	3	CD	NUMBER	3.0	3.0				
+9	4	fb:cell_nomor_pangkat_pria.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+10	0	fb:cell_kharakteristik.proporsi_dengan_gelar_sarjana_administrasi_publik_dan_profesi_pelayanan_sosial	proporsi dengan gelar sarjana administrasi publik dan profesi pelayanan sosial	proporsi|dengan|gelar|sarjana|administrasi|publik|dan|profesi|pelayanan|sosial	proporsi|dengan|gelar|sarjana|administrasi|publik|dan|profesi|pelayanan|sosial	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+10	1	fb:cell_persen_perempuan.3	3	3	3	CD	NUMBER	3.0	3.0				
+10	2	fb:cell_nomor_peringkat_wanita.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+10	3	fb:cell_persen_laki_laki.1	1	1	1	CD	NUMBER	1.0	1.0				
+10	4	fb:cell_nomor_pangkat_pria.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+11	0	fb:cell_kharakteristik._diwakili_oleh_10_bidang_studi_wanita_teratas	% diwakili oleh 10 bidang studi wanita teratas	%|diwakili|oleh|10|bidang|studi|wanita|teratas	%|diwakili|oleh|10|bidang|studi|wanita|teratas	NN|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|NUMBER|O|O|O|O	|||10.0||||	10.0				
+11	1	fb:cell_persen_perempuan.76	76	76	76	CD	NUMBER	76.0	76.0				
+11	2	fb:cell_nomor_peringkat_wanita.null											
+11	3	fb:cell_persen_laki_laki.71	71	71	71	CD	NUMBER	71.0	71.0				
+11	4	fb:cell_nomor_pangkat_pria.null											

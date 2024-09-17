@@ -1,0 +1,56 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok	operator pertanian berimigrasi antara tahun 2011 dan 2016 ke Tiongkok	operator|pertanian|berimigrasi|antara|tahun|2011|dan|2016|ke|tiongkok	operator|pertanian|berimigrasi|antara|tahun|2011|dan|2016|ke|Tiongkok	NN|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP|NNP	O|MISC|MISC|O|O|DATE|O|DATE|O|O	|||||2011||2016||					
+-1	2	fb:row.row.operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat	operator pertanian berimigrasi antara tahun 2011 dan 2016 ke Amerika Serikat	operator|pertanian|berimigrasi|antara|tahun|2011|dan|2016|ke|amerika|serikat	operator|pertanian|berimigrasi|antara|tahun|2011|dan|2016|ke|Amerika|Serikat	NN|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP|NNP|NNP	O|MISC|MISC|O|O|DATE|O|DATE|O|O|O	|||||2011||2016|||					
+-1	3	fb:row.row.operator_pertanian_imigran_lainnya	operator pertanian imigran lainnya	operator|pertanian|imigran|lainnya	operator|pertanian|imigran|lainnya	NN|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.operator_pertanian_non_imigran	operator pertanian non-imigran	operator|pertanian|non|imigran	operator|pertanian|non|imigran	NN|NNP|JJ|NN	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.persen_newfoundland_dan_labrador	persen Newfoundland dan Labrador	persen|newfoundland|dan|labrador	persen|Newfoundland|dan|Labrador	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+0	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	3	fb:cell_operator_pertanian_imigran_lainnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	4	fb:cell_operator_pertanian_non_imigran.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+1	0	fb:cell_kharakteristik.persen_pulau_pangeran_edward	persen pulau pangeran Edward	persen|pulau|pangeran|edward	persen|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+1	3	fb:cell_operator_pertanian_imigran_lainnya.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+1	4	fb:cell_operator_pertanian_non_imigran.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+2	0	fb:cell_kharakteristik.persen_nova_scotia	persen nova scotia	persen|nova|scotia	persen|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	3	fb:cell_operator_pertanian_imigran_lainnya.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+2	4	fb:cell_operator_pertanian_non_imigran.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+3	0	fb:cell_kharakteristik.persen_brunswick_baru	persen brunswick baru	persen|brunswick|baru	persen|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+3	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	3	fb:cell_operator_pertanian_imigran_lainnya.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+3	4	fb:cell_operator_pertanian_non_imigran.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+4	0	fb:cell_kharakteristik.persen_quebec	persen Quebec	persen|quebec	persen|Quebec	NNP|NNP	O|O	|					
+4	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+4	3	fb:cell_operator_pertanian_imigran_lainnya.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+4	4	fb:cell_operator_pertanian_non_imigran.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+5	0	fb:cell_kharakteristik.persen_ontario	persen ontario	persen|ontario	persen|ontario	NNP|NNP	O|O	|					
+5	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.58_7	58.7	58.7	58.7	CD	NUMBER	58.7	58.7				
+5	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.13_1	13.1	13.1	13.1	CD	NUMBER	13.1	13.1				
+5	3	fb:cell_operator_pertanian_imigran_lainnya.34_6	34.6	34.6	34.6	CD	NUMBER	34.6	34.6				
+5	4	fb:cell_operator_pertanian_non_imigran.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+6	0	fb:cell_kharakteristik.persen_manitoba	persen manitoba	persen|manitoba	persen|manitoba	NNP|NNP	O|O	|					
+6	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+6	3	fb:cell_operator_pertanian_imigran_lainnya.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+6	4	fb:cell_operator_pertanian_non_imigran.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+7	0	fb:cell_kharakteristik.persen_saskatchewan	persen saskatchewan	persen|saskatchewan	persen|saskatchewan	NNP|NNP	O|O	|					
+7	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+7	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+7	3	fb:cell_operator_pertanian_imigran_lainnya.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+7	4	fb:cell_operator_pertanian_non_imigran.17_9	17.9	17.9	17.9	CD	NUMBER	17.9	17.9				
+8	0	fb:cell_kharakteristik.persen_alberta	persen alberta	persen|alberta	persen|alberta	NNP|NNP	O|O	|					
+8	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+8	3	fb:cell_operator_pertanian_imigran_lainnya.18_1	18.1	18.1	18.1	CD	NUMBER	18.1	18.1				
+8	4	fb:cell_operator_pertanian_non_imigran.21_4	21.4	21.4	21.4	CD	NUMBER	21.4	21.4				
+9	0	fb:cell_kharakteristik.persen_british_columbia	persen British Columbia	persen|british|columbia	persen|British|Columbia	NNP|NNP|NNP	O|MISC|O	||					
+9	1	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_tiongkok.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+9	2	fb:cell_operator_pertanian_berimigrasi_antara_tahun_2011_dan_2016_ke_amerika_serikat.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+9	3	fb:cell_operator_pertanian_imigran_lainnya.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+9	4	fb:cell_operator_pertanian_non_imigran.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				

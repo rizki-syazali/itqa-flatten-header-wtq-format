@@ -1,0 +1,37 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1	variabel terikat, kejutan granular pertumbuhan penjualan agregat 1	variabel|terikat|,|kejutan|granular|pertumbuhan|penjualan|agregat|1	variabel|terikat|,|kejutan|granular|pertumbuhan|penjualan|agregat|1	NNP|NNP|,|NNP|JJ|NN|NN|NN|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||1.0					
+-1	2	fb:row.row.variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2	variabel terikat, kejutan granular pertumbuhan penjualan agregat 2	variabel|terikat|,|kejutan|granular|pertumbuhan|penjualan|agregat|2	variabel|terikat|,|kejutan|granular|pertumbuhan|penjualan|agregat|2	NNP|NNP|,|NNP|JJ|NN|NN|NN|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||2.0					
+-1	3	fb:row.row.variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3	variabel terikat, kejutan granular pertumbuhan penjualan agregat 3	variabel|terikat|,|kejutan|granular|pertumbuhan|penjualan|agregat|3	variabel|terikat|,|kejutan|granular|pertumbuhan|penjualan|agregat|3	NNP|NNP|,|NNP|JJ|NN|NN|NN|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||3.0					
+0	0	fb:cell_kharakteristik.guncangan_granular	guncangan granular	guncangan|granular	guncangan|granular	NNP|JJ	O|O	|					
+0	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.null											
+0	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.null											
+0	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.null											
+1	0	fb:cell_kharakteristik.koefisien_guncangan_granular	koefisien guncangan granular	koefisien|guncangan|granular	koefisien|guncangan|granular	NNP|NNP|JJ	O|O|O	||					
+1	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.0_686	0.686	0.686	0.686	CD	NUMBER	0.686	0.686				
+1	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.0_685	0.685	0.685	0.685	CD	NUMBER	0.685	0.685				
+1	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.0_683	0.683	0.683	0.683	CD	NUMBER	0.683	0.683				
+2	0	fb:cell_kharakteristik.kesalahan_standar_kejutan_granular	kesalahan standar kejutan granular	kesalahan|standar|kejutan|granular	kesalahan|standar|kejutan|granular	NNP|NNP|NNP|JJ	O|O|O|O	|||					
+2	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.0_091	0.091	0.091	0.091	CD	NUMBER	0.091	0.091				
+2	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.0_074	0.074	0.074	0.074	CD	NUMBER	0.074	0.074				
+2	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.0_076	0.076	0.076	0.076	CD	NUMBER	0.076	0.076				
+3	0	fb:cell_kharakteristik.konstan	konstan	konstan	konstan	NNP	O						
+3	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.null											
+3	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.null											
+3	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.null											
+4	0	fb:cell_kharakteristik.koefisien_konstan	koefisien konstan	koefisien|konstan	koefisien|konstan	NNP|NNP	O|O	|					
+4	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+4	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.0_039	0.039	0.039	0.039	CD	NUMBER	0.039	0.039				
+4	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.0_033	0.033	0.033	0.033	CD	NUMBER	0.033	0.033				
+5	0	fb:cell_kharakteristik.kesalahan_standar_yang_konstan	kesalahan standar yang konstan	kesalahan|standar|yang|konstan	kesalahan|standar|yang|konstan	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+5	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.0_005	0.005	0.005	0.005	CD	NUMBER	0.005	0.005				
+5	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.0_006	0.006	0.006	0.006	CD	NUMBER	0.006	0.006				
+5	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.0_006	0.006	0.006	0.006	CD	NUMBER	0.006	0.006				
+6	0	fb:cell_kharakteristik.jumlah_observasi_yang_konstan	jumlah observasi yang konstan	jumlah|observasi|yang|konstan	jumlah|observasi|yang|konstan	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||					
+6	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.1032_0	1032.0	1032.0	1032.0	CD	NUMBER	1032.0	1032.0				
+6	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.1032_0	1032.0	1032.0	1032.0	CD	NUMBER	1032.0	1032.0				
+6	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.1032_0	1032.0	1032.0	1032.0	CD	NUMBER	1032.0	1032.0				
+7	0	fb:cell_kharakteristik.r_kuadrat_yang_konstan	r-kuadrat yang konstan	r|kuadrat|yang|konstan	r|kuadrat|yang|konstan	NN|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||					
+7	1	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_1.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				
+7	2	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_2.0_46	0.46	0.46	0.46	CD	NUMBER	0.46	0.46				
+7	3	fb:cell_variabel_terikat_kejutan_granular_pertumbuhan_penjualan_agregat_3.0_45	0.45	0.45	0.45	CD	NUMBER	0.45	0.45				

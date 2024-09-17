@@ -1,0 +1,36 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.lulus_dalam_waktu_lima_tahun_wanita	lulus dalam waktu lima tahun wanita	lulus|dalam|waktu|lima|tahun|wanita	lulus|dalam|waktu|lima|tahun|wanita	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.lulus_dalam_waktu_lima_tahun_laki_laki	lulus dalam waktu lima tahun laki-laki	lulus|dalam|waktu|lima|tahun|laki|laki	lulus|dalam|waktu|lima|tahun|laki|laki	NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.melanjutkan_studi_untuk_wanita_tahun_keenam	melanjutkan studi untuk wanita tahun keenam	melanjutkan|studi|untuk|wanita|tahun|keenam	melanjutkan|studi|untuk|wanita|tahun|keenam	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.melanjutkan_studi_untuk_pria_tahun_keenam	melanjutkan studi untuk pria tahun keenam	melanjutkan|studi|untuk|pria|tahun|keenam	melanjutkan|studi|untuk|pria|tahun|keenam	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	0	fb:cell_kharakteristik.persen_bertahan_di_bidang_batang_awal	persen bertahan di bidang batang awal	persen|bertahan|di|bidang|batang|awal	persen|bertahan|di|bidang|batang|awal	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	1	fb:cell_lulus_dalam_waktu_lima_tahun_wanita.89_6	89.6	89.6	89.6	CD	NUMBER	89.6	89.6				
+0	2	fb:cell_lulus_dalam_waktu_lima_tahun_laki_laki.78_7	78.7	78.7	78.7	CD	NUMBER	78.7	78.7				
+0	3	fb:cell_melanjutkan_studi_untuk_wanita_tahun_keenam.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+0	4	fb:cell_melanjutkan_studi_untuk_pria_tahun_keenam.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				
+1	0	fb:cell_kharakteristik.persen_beralih_antar_bidang_batang	persen beralih antar bidang batang	persen|beralih|antar|bidang|batang	persen|beralih|antar|bidang|batang	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_lulus_dalam_waktu_lima_tahun_wanita.82_4	82.4	82.4	82.4	CD	NUMBER	82.4	82.4				
+1	2	fb:cell_lulus_dalam_waktu_lima_tahun_laki_laki.65_5	65.5	65.5	65.5	CD	NUMBER	65.5	65.5				
+1	3	fb:cell_melanjutkan_studi_untuk_wanita_tahun_keenam.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+1	4	fb:cell_melanjutkan_studi_untuk_pria_tahun_keenam.34_5	34.5	34.5	34.5	CD	NUMBER	34.5	34.5				
+2	0	fb:cell_kharakteristik.persen_beralih_dari_batang_ke_bhase	persen beralih dari batang ke bhase	persen|beralih|dari|batang|ke|bhase	persen|beralih|dari|batang|ke|bhase	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_lulus_dalam_waktu_lima_tahun_wanita.66_4	66.4	66.4	66.4	CD	NUMBER	66.4	66.4				
+2	2	fb:cell_lulus_dalam_waktu_lima_tahun_laki_laki.54_4	54.4	54.4	54.4	CD	NUMBER	54.4	54.4				
+2	3	fb:cell_melanjutkan_studi_untuk_wanita_tahun_keenam.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+2	4	fb:cell_melanjutkan_studi_untuk_pria_tahun_keenam.45_6	45.6	45.6	45.6	CD	NUMBER	45.6	45.6				
+3	0	fb:cell_kharakteristik.persen_beralih_dari_bhase_ke_batang	persen beralih dari bhase ke batang	persen|beralih|dari|bhase|ke|batang	persen|beralih|dari|bhase|ke|batang	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_lulus_dalam_waktu_lima_tahun_wanita.75_3	75.3	75.3	75.3	CD	NUMBER	75.3	75.3				
+3	2	fb:cell_lulus_dalam_waktu_lima_tahun_laki_laki.59_7	59.7	59.7	59.7	CD	NUMBER	59.7	59.7				
+3	3	fb:cell_melanjutkan_studi_untuk_wanita_tahun_keenam.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+3	4	fb:cell_melanjutkan_studi_untuk_pria_tahun_keenam.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+4	0	fb:cell_kharakteristik.persen_beralih_antar_bidang_bhase	persen beralih antar bidang bhase	persen|beralih|antar|bidang|bhase	persen|beralih|antar|bidang|bhase	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_lulus_dalam_waktu_lima_tahun_wanita.75_7	75.7	75.7	75.7	CD	NUMBER	75.7	75.7				
+4	2	fb:cell_lulus_dalam_waktu_lima_tahun_laki_laki.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+4	3	fb:cell_melanjutkan_studi_untuk_wanita_tahun_keenam.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+4	4	fb:cell_melanjutkan_studi_untuk_pria_tahun_keenam.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+5	0	fb:cell_kharakteristik.persen_bertahan_di_bidang_bhase_awal	persen bertahan di bidang bhase awal	persen|bertahan|di|bidang|bhase|awal	persen|bertahan|di|bidang|bhase|awal	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+5	1	fb:cell_lulus_dalam_waktu_lima_tahun_wanita.89_5	89.5	89.5	89.5	CD	NUMBER	89.5	89.5				
+5	2	fb:cell_lulus_dalam_waktu_lima_tahun_laki_laki.81_9	81.9	81.9	81.9	CD	NUMBER	81.9	81.9				
+5	3	fb:cell_melanjutkan_studi_untuk_wanita_tahun_keenam.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+5	4	fb:cell_melanjutkan_studi_untuk_pria_tahun_keenam.18_1	18.1	18.1	18.1	CD	NUMBER	18.1	18.1				

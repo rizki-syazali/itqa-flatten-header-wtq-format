@@ -1,0 +1,218 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_2018	nomor 2018	nomor|2018	nomor|2018	NNP|CD	O|DATE	|2018					
+-1	2	fb:row.row.tarif_2018r	tarif 2018r	tarif|2018r	tarif|2018r	NNP|NNP	O|O	|					
+-1	3	fb:row.row.nomor_2019	nomor 2019	nomor|2019	nomor|2019	NNP|CD	O|DATE	|2019					
+-1	4	fb:row.row.tarif_tahun_2019	tarif tahun 2019	tarif|tahun|2019	tarif|tahun|2019	NNP|NNP|CD	O|O|DATE	||2019					
+-1	5	fb:row.row.perubahan_tarif_2018_menjadi_2019_persen	perubahan tarif 2018 menjadi 2019 persen	perubahan|tarif|2018|menjadi|2019|persen	perubahan|tarif|2018|menjadi|2019|persen	NNP|NNP|CD|NNP|CD|NNP	O|O|DATE|O|DATE|O	||2018||2019|					
+-1	6	fb:row.row.perubahan_tarif_2009_menjadi_2019_persen	perubahan tarif 2009 menjadi 2019 persen	perubahan|tarif|2009|menjadi|2019|persen	perubahan|tarif|2009|menjadi|2019|persen	NNP|NNP|CD|NNP|CD|NNP	O|O|DATE|O|DATE|O	||2009||2019|					
+0	0	fb:cell_kharakteristik.total_pelanggaran_narkoba	total pelanggaran narkoba	total|pelanggaran|narkoba	total|pelanggaran|narkoba	JJ|NN|NN	O|O|O	||					
+0	1	fb:cell_nomor_2018.84927	84927	84927	84927	CD	NUMBER	84927.0	84927.0				
+0	2	fb:cell_tarif_2018r.229	229	229	229	CD	NUMBER	229.0	229.0				
+0	3	fb:cell_nomor_2019.70140	70140	70140	70140	CD	NUMBER	70140.0	70140.0				
+0	4	fb:cell_tarif_tahun_2019.187	187	187	187	CD	NUMBER	187.0	187.0				
+0	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+0	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+1	0	fb:cell_kharakteristik.total_pelanggaran_ganja	total pelanggaran ganja	total|pelanggaran|ganja	total|pelanggaran|ganja	JJ|JJ|NN	O|O|O	||					
+1	1	fb:cell_nomor_2018.36579	36579	36579	36579	CD	NUMBER	36579.0	36579.0				
+1	2	fb:cell_tarif_2018r.99	99	99	99	CD	NUMBER	99.0	99.0				
+1	3	fb:cell_nomor_2019.16868	16868	16868	16868	CD	NUMBER	16868.0	16868.0				
+1	4	fb:cell_tarif_tahun_2019.45	45	45	45	CD	NUMBER	45.0	45.0				
+1	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+1	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+2	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_kepemilikan	total pelanggaran ganja ganja - kepemilikan	total|pelanggaran|ganja|ganja|-|kepemilikan	total|pelanggaran|ganja|ganja|-|kepemilikan	JJ|JJ|NN|NN|:|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_nomor_2018.26402	26402	26402	26402	CD	NUMBER	26402.0	26402.0				
+2	2	fb:cell_tarif_2018r.71	71	71	71	CD	NUMBER	71.0	71.0				
+2	3	fb:cell_nomor_2019.46	46	46	46	CD	NUMBER	46.0	46.0				
+2	4	fb:cell_tarif_tahun_2019.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+2	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+3	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_perdagangan_manusia	total pelanggaran ganja ganja - perdagangan manusia	total|pelanggaran|ganja|ganja|-|perdagangan|manusia	total|pelanggaran|ganja|ganja|-|perdagangan|manusia	JJ|JJ|NN|NN|:|JJ|NN	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_nomor_2018.3387	3387	3387	3387	CD	NUMBER	3387.0	3387.0	3387-xx-xx			
+3	2	fb:cell_tarif_2018r.9	9	9	9	CD	NUMBER	9.0	9.0				
+3	3	fb:cell_nomor_2019.20	20	20	20	CD	NUMBER	20.0	20.0				
+3	4	fb:cell_tarif_tahun_2019.0	0	0	0	CD	NUMBER	0.0	0.0				
+3	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+3	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+4	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_produksi_atau_impor_ekspor	total pelanggaran ganja ganja - produksi atau impor/ekspor	total|pelanggaran|ganja|ganja|-|produksi|atau|impor/ekspor	total|pelanggaran|ganja|ganja|-|produksi|atau|impor/ekspor	JJ|JJ|NN|NN|:|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||				total pelanggaran ganja ganja - produksi atau impor|ekspor	fb:part_kharakteristik.total_pelanggaran_ganja_ganja_produksi_atau_impor|fb:part_kharakteristik.ekspor
+4	1	fb:cell_nomor_2018.5281	5281	5281	5281	CD	NUMBER	5281.0	5281.0	5281-xx-xx			
+4	2	fb:cell_tarif_2018r.14	14	14	14	CD	NUMBER	14.0	14.0				
+4	3	fb:cell_nomor_2019.214	214	214	214	CD	NUMBER	214.0	214.0				
+4	4	fb:cell_tarif_tahun_2019.1	1	1	1	CD	NUMBER	1.0	1.0				
+4	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+4	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+5	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_tindakan_ganja_kepemilikan	total pelanggaran ganja ganja (tindakan ganja) - kepemilikan	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|kepemilikan	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|kepemilikan	JJ|JJ|NN|NN|-LRB-|NN|NN|-RRB-|:|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+5	1	fb:cell_nomor_2018.459	459	459	459	CD	NUMBER	459.0	459.0				
+5	2	fb:cell_tarif_2018r.1	1	1	1	CD	NUMBER	1.0	1.0				
+5	3	fb:cell_nomor_2019.1818	1818	1818	1818	CD	DATE	1818	1818.0	1818-xx-xx			
+5	4	fb:cell_tarif_tahun_2019.5	5	5	5	CD	NUMBER	5.0	5.0				
+5	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+5	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+6	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_tindakan_ganja_distribusi	total pelanggaran ganja ganja (tindakan ganja) - distribusi	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|distribusi	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|distribusi	JJ|JJ|NN|NN|-LRB-|NN|NN|-RRB-|:|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+6	1	fb:cell_nomor_2018.189	189	189	189	CD	NUMBER	189.0	189.0				
+6	2	fb:cell_tarif_2018r.1	1	1	1	CD	NUMBER	1.0	1.0				
+6	3	fb:cell_nomor_2019.955	955	955	955	CD	NUMBER	955.0	955.0				
+6	4	fb:cell_tarif_tahun_2019.3	3	3	3	CD	NUMBER	3.0	3.0				
+6	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+6	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+7	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_tindakan_ganja_penjualan	total pelanggaran ganja ganja (tindakan ganja) - penjualan	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|penjualan	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|penjualan	JJ|JJ|NN|NN|-LRB-|NN|NN|-RRB-|:|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+7	1	fb:cell_nomor_2018.244	244	244	244	CD	NUMBER	244.0	244.0				
+7	2	fb:cell_tarif_2018r.1	1	1	1	CD	NUMBER	1.0	1.0				
+7	3	fb:cell_nomor_2019.1078	1078	1078	1078	CD	DATE	1078	1078.0	1078-xx-xx			
+7	4	fb:cell_tarif_tahun_2019.3	3	3	3	CD	NUMBER	3.0	3.0				
+7	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+7	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+8	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_tindakan_ganja_impor_atau_ekspor	total pelanggaran ganja ganja (tindakan ganja) - impor atau ekspor	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|impor|atau|ekspor	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|impor|atau|ekspor	JJ|JJ|NN|NN|-LRB-|NN|NN|-RRB-|:|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+8	1	fb:cell_nomor_2018.342	342	342	342	CD	NUMBER	342.0	342.0				
+8	2	fb:cell_tarif_2018r.1	1	1	1	CD	NUMBER	1.0	1.0				
+8	3	fb:cell_nomor_2019.11193	11193	11193	11193	CD	NUMBER	11193.0	11193.0				
+8	4	fb:cell_tarif_tahun_2019.30	30	30	30	CD	NUMBER	30.0	30.0				
+8	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+8	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+9	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_tindakan_ganja_produksi	total pelanggaran ganja ganja (tindakan ganja) - produksi	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|produksi	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|produksi	JJ|JJ|NN|NN|-LRB-|NN|NN|-RRB-|:|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+9	1	fb:cell_nomor_2018.102	102	102	102	CD	NUMBER	102.0	102.0				
+9	2	fb:cell_tarif_2018r.0	0	0	0	CD	NUMBER	0.0	0.0				
+9	3	fb:cell_nomor_2019.907	907	907	907	CD	NUMBER	907.0	907.0				
+9	4	fb:cell_tarif_tahun_2019.2	2	2	2	CD	NUMBER	2.0	2.0				
+9	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+9	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+10	0	fb:cell_kharakteristik.total_pelanggaran_ganja_ganja_tindakan_ganja_lainnya	total pelanggaran ganja ganja (tindakan ganja) - lainnya	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|lainnya	total|pelanggaran|ganja|ganja|-lrb-|tindakan|ganja|-rrb-|-|lainnya	JJ|JJ|NN|NN|-LRB-|NN|NN|-RRB-|:|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+10	1	fb:cell_nomor_2018.173	173	173	173	CD	NUMBER	173.0	173.0				
+10	2	fb:cell_tarif_2018r.0	0	0	0	CD	NUMBER	0.0	0.0				
+10	3	fb:cell_nomor_2019.637	637	637	637	CD	NUMBER	637.0	637.0				
+10	4	fb:cell_tarif_tahun_2019.2	2	2	2	CD	NUMBER	2.0	2.0				
+10	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+10	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+11	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya	total pelanggaran narkoba lainnya	total|pelanggaran|narkoba|lainnya	total|pelanggaran|narkoba|lainnya	JJ|NN|NN|NN	O|O|O|O	|||					
+11	1	fb:cell_nomor_2018.48348	48348	48348	48348	CD	NUMBER	48348.0	48348.0				
+11	2	fb:cell_tarif_2018r.130	130	130	130	CD	NUMBER	130.0	130.0				
+11	3	fb:cell_nomor_2019.53272	53272	53272	53272	CD	NUMBER	53272.0	53272.0				
+11	4	fb:cell_tarif_tahun_2019.142	142	142	142	CD	NUMBER	142.0	142.0				
+11	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+11	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+12	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_kokain_kepemilikan	total pelanggaran narkoba lainnya kokain - kepemilikan	total|pelanggaran|narkoba|lainnya|kokain|-|kepemilikan	total|pelanggaran|narkoba|lainnya|kokain|-|kepemilikan	JJ|NN|NN|NN|NN|:|NNP	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_nomor_2018.7027	7027	7027	7027	CD	NUMBER	7027.0	7027.0	7027-xx-xx			
+12	2	fb:cell_tarif_2018r.19	19	19	19	CD	NUMBER	19.0	19.0				
+12	3	fb:cell_nomor_2019.6732	6732	6732	6732	CD	NUMBER	6732.0	6732.0	6732-xx-xx			
+12	4	fb:cell_tarif_tahun_2019.18	18	18	18	CD	NUMBER	18.0	18.0				
+12	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+12	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+13	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_kokain_perdagangan_manusia	total pelanggaran narkoba lainnya kokain - perdagangan manusia	total|pelanggaran|narkoba|lainnya|kokain|-|perdagangan|manusia	total|pelanggaran|narkoba|lainnya|kokain|-|perdagangan|manusia	JJ|NN|NN|NN|NN|:|JJ|NN	O|O|O|O|O|O|O|O	|||||||					
+13	1	fb:cell_nomor_2018.6969	6969	6969	6969	CD	NUMBER	6969.0	6969.0	6969-xx-xx			
+13	2	fb:cell_tarif_2018r.19	19	19	19	CD	NUMBER	19.0	19.0				
+13	3	fb:cell_nomor_2019.7995	7995	7995	7995	CD	NUMBER	7995.0	7995.0	7995-xx-xx			
+13	4	fb:cell_tarif_tahun_2019.21	21	21	21	CD	NUMBER	21.0	21.0				
+13	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+13	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._26_0	-26.0	-26.0	-26.0	CD	NUMBER	-26.0	26.0				
+14	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_kokain_produksi_atau_impor_ekspor	total pelanggaran narkoba lainnya kokain - produksi atau impor/ekspor	total|pelanggaran|narkoba|lainnya|kokain|-|produksi|atau|impor/ekspor	total|pelanggaran|narkoba|lainnya|kokain|-|produksi|atau|impor/ekspor	JJ|NN|NN|NN|NN|:|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				total pelanggaran narkoba lainnya kokain - produksi atau impor|ekspor	fb:part_kharakteristik.total_pelanggaran_narkoba_lainnya_kokain_produksi_atau_impor|fb:part_kharakteristik.ekspor
+14	1	fb:cell_nomor_2018.613	613	613	613	CD	NUMBER	613.0	613.0				
+14	2	fb:cell_tarif_2018r.2	2	2	2	CD	NUMBER	2.0	2.0				
+14	3	fb:cell_nomor_2019.595	595	595	595	CD	NUMBER	595.0	595.0				
+14	4	fb:cell_tarif_tahun_2019.2	2	2	2	CD	NUMBER	2.0	2.0				
+14	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+14	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+15	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_metamfetamin_kepemilikan	total pelanggaran narkoba lainnya metamfetamin - kepemilikan	total|pelanggaran|narkoba|lainnya|metamfetamin|-|kepemilikan	total|pelanggaran|narkoba|lainnya|metamfetamin|-|kepemilikan	JJ|NN|NN|NN|NN|:|NNP	O|O|O|O|O|O|O	||||||					
+15	1	fb:cell_nomor_2018.10546	10546	10546	10546	CD	NUMBER	10546.0	10546.0				
+15	2	fb:cell_tarif_2018r.28	28	28	28	CD	NUMBER	28.0	28.0				
+15	3	fb:cell_nomor_2019.10849	10849	10849	10849	CD	NUMBER	10849.0	10849.0				
+15	4	fb:cell_tarif_tahun_2019.29	29	29	29	CD	NUMBER	29.0	29.0				
+15	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+15	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.1127_0	1127.0	1127.0	1127.0	CD	NUMBER	1127.0	1127.0				
+16	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_metamfetamin_perdagangan_manusia	total pelanggaran narkoba lainnya metamfetamin - perdagangan manusia	total|pelanggaran|narkoba|lainnya|metamfetamin|-|perdagangan|manusia	total|pelanggaran|narkoba|lainnya|metamfetamin|-|perdagangan|manusia	JJ|NN|NN|NN|NN|:|JJ|NN	O|O|O|O|O|O|O|O	|||||||					
+16	1	fb:cell_nomor_2018.2718	2718	2718	2718	CD	DATE	2718	2718.0	2718-xx-xx			
+16	2	fb:cell_tarif_2018r.7	7	7	7	CD	NUMBER	7.0	7.0				
+16	3	fb:cell_nomor_2019.3228	3228	3228	3228	CD	NUMBER	3228.0	3228.0	3228-xx-xx			
+16	4	fb:cell_tarif_tahun_2019.9	9	9	9	CD	NUMBER	9.0	9.0				
+16	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+16	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.642_0	642.0	642.0	642.0	CD	NUMBER	642.0	642.0				
+17	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_metamfetamin_produksi_atau_impor_ekspor	total pelanggaran narkoba lainnya metamfetamin - produksi atau impor/ekspor	total|pelanggaran|narkoba|lainnya|metamfetamin|-|produksi|atau|impor/ekspor	total|pelanggaran|narkoba|lainnya|metamfetamin|-|produksi|atau|impor/ekspor	JJ|NN|NN|NN|NN|:|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				total pelanggaran narkoba lainnya metamfetamin - produksi atau impor|ekspor	fb:part_kharakteristik.total_pelanggaran_narkoba_lainnya_metamfetamin_produksi_atau_impor|fb:part_kharakteristik.ekspor
+17	1	fb:cell_nomor_2018.583	583	583	583	CD	NUMBER	583.0	583.0				
+17	2	fb:cell_tarif_2018r.2	2	2	2	CD	NUMBER	2.0	2.0				
+17	3	fb:cell_nomor_2019.369	369	369	369	CD	NUMBER	369.0	369.0				
+17	4	fb:cell_tarif_tahun_2019.1	1	1	1	CD	NUMBER	1.0	1.0				
+17	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._38_0	-38.0	-38.0	-38.0	CD	NUMBER	-38.0	38.0				
+17	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.871_0	871.0	871.0	871.0	CD	NUMBER	871.0	871.0				
+18	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_ekstasi_kepemilikan	total pelanggaran narkoba lainnya ekstasi - kepemilikan	total|pelanggaran|narkoba|lainnya|ekstasi|-|kepemilikan	total|pelanggaran|narkoba|lainnya|ekstasi|-|kepemilikan	JJ|NN|NN|NN|NN|:|NNP	O|O|O|O|O|O|O	||||||					
+18	1	fb:cell_nomor_2018.284	284	284	284	CD	NUMBER	284.0	284.0				
+18	2	fb:cell_tarif_2018r.1	1	1	1	CD	NUMBER	1.0	1.0				
+18	3	fb:cell_nomor_2019.231	231	231	231	CD	NUMBER	231.0	231.0				
+18	4	fb:cell_tarif_tahun_2019.1	1	1	1	CD	NUMBER	1.0	1.0				
+18	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+18	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._57_0	-57.0	-57.0	-57.0	CD	NUMBER	-57.0	57.0				
+19	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_ekstasi_perdagangan_manusia	total pelanggaran narkoba lainnya ekstasi - perdagangan manusia	total|pelanggaran|narkoba|lainnya|ekstasi|-|perdagangan|manusia	total|pelanggaran|narkoba|lainnya|ekstasi|-|perdagangan|manusia	JJ|NN|NN|NN|NN|:|JJ|NN	O|O|MISC|MISC|MISC|O|O|O	|||||||					
+19	1	fb:cell_nomor_2018.129	129	129	129	CD	NUMBER	129.0	129.0				
+19	2	fb:cell_tarif_2018r.0	0	0	0	CD	NUMBER	0.0	0.0				
+19	3	fb:cell_nomor_2019.118	118	118	118	CD	NUMBER	118.0	118.0				
+19	4	fb:cell_tarif_tahun_2019.0	0	0	0	CD	NUMBER	0.0	0.0				
+19	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+19	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._60_0	-60.0	-60.0	-60.0	CD	NUMBER	-60.0	60.0				
+20	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_ekstasi_produksi_atau_impor_ekspor	total pelanggaran narkoba lainnya ekstasi - produksi atau impor/ekspor	total|pelanggaran|narkoba|lainnya|ekstasi|-|produksi|atau|impor/ekspor	total|pelanggaran|narkoba|lainnya|ekstasi|-|produksi|atau|impor/ekspor	JJ|NN|NN|NN|NN|:|NN|NN|NN	O|O|MISC|MISC|MISC|O|O|O|O	||||||||				total pelanggaran narkoba lainnya ekstasi - produksi atau impor|ekspor	fb:part_kharakteristik.total_pelanggaran_narkoba_lainnya_ekstasi_produksi_atau_impor|fb:part_kharakteristik.ekspor
+20	1	fb:cell_nomor_2018.805	805	805	805	CD	NUMBER	805.0	805.0				
+20	2	fb:cell_tarif_2018r.2	2	2	2	CD	NUMBER	2.0	2.0				
+20	3	fb:cell_nomor_2019.318	318	318	318	CD	NUMBER	318.0	318.0				
+20	4	fb:cell_tarif_tahun_2019.1	1	1	1	CD	NUMBER	1.0	1.0				
+20	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._61_0	-61.0	-61.0	-61.0	CD	NUMBER	-61.0	61.0				
+20	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.629_0	629.0	629.0	629.0	CD	NUMBER	629.0	629.0				
+21	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_heroin_kepemilikan	total pelanggaran narkoba lainnya heroin - kepemilikan	total|pelanggaran|narkoba|lainnya|heroin|-|kepemilikan	total|pelanggaran|narkoba|lainnya|heroin|-|kepemilikan	JJ|NN|NN|NN|NN|:|NNP	O|O|O|O|O|O|O	||||||					
+21	1	fb:cell_nomor_2018.2282	2282	2282	2282	CD	DATE	2282	2282.0	2282-xx-xx			
+21	2	fb:cell_tarif_2018r.6	6	6	6	CD	NUMBER	6.0	6.0				
+21	3	fb:cell_nomor_2019.2342	2342	2342	2342	CD	DATE	2342	2342.0	2342-xx-xx			
+21	4	fb:cell_tarif_tahun_2019.6	6	6	6	CD	NUMBER	6.0	6.0				
+21	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+21	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.342_0	342.0	342.0	342.0	CD	NUMBER	342.0	342.0				
+22	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_heroin_perdagangan	total pelanggaran narkoba lainnya heroin - perdagangan	total|pelanggaran|narkoba|lainnya|heroin|-|perdagangan	total|pelanggaran|narkoba|lainnya|heroin|-|perdagangan	JJ|NN|NN|NN|NN|:|NN	O|O|O|O|O|O|O	||||||					
+22	1	fb:cell_nomor_2018.866	866	866	866	CD	NUMBER	866.0	866.0				
+22	2	fb:cell_tarif_2018r.2	2	2	2	CD	NUMBER	2.0	2.0				
+22	3	fb:cell_nomor_2019.708	708	708	708	CD	NUMBER	708.0	708.0				
+22	4	fb:cell_tarif_tahun_2019.2	2	2	2	CD	NUMBER	2.0	2.0				
+22	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+22	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.125_0	125.0	125.0	125.0	CD	NUMBER	125.0	125.0				
+23	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_heroin_produksi_atau_impor_ekspor	total pelanggaran narkoba lainnya heroin - produksi atau impor/ekspor	total|pelanggaran|narkoba|lainnya|heroin|-|produksi|atau|impor/ekspor	total|pelanggaran|narkoba|lainnya|heroin|-|produksi|atau|impor/ekspor	JJ|NN|NN|NN|NN|:|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				total pelanggaran narkoba lainnya heroin - produksi atau impor|ekspor	fb:part_kharakteristik.total_pelanggaran_narkoba_lainnya_heroin_produksi_atau_impor|fb:part_kharakteristik.ekspor
+23	1	fb:cell_nomor_2018.204	204	204	204	CD	NUMBER	204.0	204.0				
+23	2	fb:cell_tarif_2018r.1	1	1	1	CD	NUMBER	1.0	1.0				
+23	3	fb:cell_nomor_2019.140	140	140	140	CD	NUMBER	140.0	140.0				
+23	4	fb:cell_tarif_tahun_2019.0	0	0	0	CD	NUMBER	0.0	0.0				
+23	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._32_0	-32.0	-32.0	-32.0	CD	NUMBER	-32.0	32.0				
+23	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.132_0	132.0	132.0	132.0	CD	NUMBER	132.0	132.0				
+24	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_opioid_bukan_heroin_kepemilikan	total pelanggaran narkoba lainnya opioid (bukan heroin) - kepemilikan	total|pelanggaran|narkoba|lainnya|opioid|-lrb-|bukan|heroin|-rrb-|-|kepemilikan	total|pelanggaran|narkoba|lainnya|opioid|-lrb-|bukan|heroin|-rrb-|-|kepemilikan	JJ|NN|NN|NN|NN|-LRB-|NN|NN|-RRB-|:|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+24	1	fb:cell_nomor_2018.1494	1494	1494	1494	CD	DATE	1494	1494.0	1494-xx-xx			
+24	2	fb:cell_tarif_2018r.4	4	4	4	CD	NUMBER	4.0	4.0				
+24	3	fb:cell_nomor_2019.2346	2346	2346	2346	CD	DATE	2346	2346.0	2346-xx-xx			
+24	4	fb:cell_tarif_tahun_2019.6	6	6	6	CD	NUMBER	6.0	6.0				
+24	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+24	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+25	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_opioid_bukan_heroin_perdagangan_manusia	total pelanggaran narkoba lainnya opioid (bukan heroin) - perdagangan manusia	total|pelanggaran|narkoba|lainnya|opioid|-lrb-|bukan|heroin|-rrb-|-|perdagangan|manusia	total|pelanggaran|narkoba|lainnya|opioid|-lrb-|bukan|heroin|-rrb-|-|perdagangan|manusia	JJ|NN|NN|NN|NN|-LRB-|NN|NN|-RRB-|:|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+25	1	fb:cell_nomor_2018.933	933	933	933	CD	NUMBER	933.0	933.0				
+25	2	fb:cell_tarif_2018r.3	3	3	3	CD	NUMBER	3.0	3.0				
+25	3	fb:cell_nomor_2019.1355	1355	1355	1355	CD	DATE	1355	1355.0	1355-xx-xx			
+25	4	fb:cell_tarif_tahun_2019.4	4	4	4	CD	NUMBER	4.0	4.0				
+25	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+25	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+26	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_opioid_bukan_heroin_produksi_atau_impor_ekspor	total pelanggaran narkoba lainnya opioid (bukan heroin) - produksi atau impor/ekspor	total|pelanggaran|narkoba|lainnya|opioid|-lrb-|bukan|heroin|-rrb-|-|produksi|atau|impor/ekspor	total|pelanggaran|narkoba|lainnya|opioid|-lrb-|bukan|heroin|-rrb-|-|produksi|atau|impor/ekspor	JJ|NN|NN|NN|NN|-LRB-|NN|NN|-RRB-|:|FW|FW|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				total pelanggaran narkoba lainnya opioid (bukan heroin) - produksi atau impor|ekspor	fb:part_kharakteristik.total_pelanggaran_narkoba_lainnya_opioid_bukan_heroin_produksi_atau_impor|fb:part_kharakteristik.ekspor
+26	1	fb:cell_nomor_2018.78	78	78	78	CD	NUMBER	78.0	78.0				
+26	2	fb:cell_tarif_2018r.0	0	0	0	CD	NUMBER	0.0	0.0				
+26	3	fb:cell_nomor_2019.65	65	65	65	CD	NUMBER	65.0	65.0				
+26	4	fb:cell_tarif_tahun_2019.0	0	0	0	CD	NUMBER	0.0	0.0				
+26	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+26	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+27	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_obat_lain_kepemilikan	total pelanggaran narkoba lainnya obat lain - kepemilikan	total|pelanggaran|narkoba|lainnya|obat|lain|-|kepemilikan	total|pelanggaran|narkoba|lainnya|obat|lain|-|kepemilikan	JJ|NN|NN|NN|NN|NN|:|NNP	O|O|O|O|O|O|O|O	|||||||					
+27	1	fb:cell_nomor_2018.7050	7050	7050	7050	CD	NUMBER	7050.0	7050.0	7050-xx-xx			
+27	2	fb:cell_tarif_2018r.19	19	19	19	CD	NUMBER	19.0	19.0				
+27	3	fb:cell_nomor_2019.7964	7964	7964	7964	CD	NUMBER	7964.0	7964.0	7964-xx-xx			
+27	4	fb:cell_tarif_tahun_2019.21	21	21	21	CD	NUMBER	21.0	21.0				
+27	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+27	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+28	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_perdagangan_narkoba_lainnya	total pelanggaran narkoba lainnya perdagangan narkoba lainnya	total|pelanggaran|narkoba|lainnya|perdagangan|narkoba|lainnya	total|pelanggaran|narkoba|lainnya|perdagangan|narkoba|lainnya	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+28	1	fb:cell_nomor_2018.3449	3449	3449	3449	CD	NUMBER	3449.0	3449.0	3449-xx-xx			
+28	2	fb:cell_tarif_2018r.9	9	9	9	CD	NUMBER	9.0	9.0				
+28	3	fb:cell_nomor_2019.5288	5288	5288	5288	CD	NUMBER	5288.0	5288.0	5288-xx-xx			
+28	4	fb:cell_tarif_tahun_2019.14	14	14	14	CD	NUMBER	14.0	14.0				
+28	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+28	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+29	0	fb:cell_kharakteristik.total_pelanggaran_narkoba_lainnya_obat_lain_produksi_atau_impor_ekspor_atau_lainnya	total pelanggaran narkoba lainnya obat lain - produksi atau impor/ekspor atau lainnya	total|pelanggaran|narkoba|lainnya|obat|lain|-|produksi|atau|impor/ekspor|atau|lainnya	total|pelanggaran|narkoba|lainnya|obat|lain|-|produksi|atau|impor/ekspor|atau|lainnya	JJ|NN|NN|NN|NN|NN|:|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				total pelanggaran narkoba lainnya obat lain - produksi atau impor|ekspor atau lainnya	fb:part_kharakteristik.total_pelanggaran_narkoba_lainnya_obat_lain_produksi_atau_impor|fb:part_kharakteristik.ekspor_atau_lainnya
+29	1	fb:cell_nomor_2018.2318	2318	2318	2318	CD	DATE	2318	2318.0	2318-xx-xx			
+29	2	fb:cell_tarif_2018r.6	6	6	6	CD	NUMBER	6.0	6.0				
+29	3	fb:cell_nomor_2019.2629	2629	2629	2629	CD	DATE	2629	2629.0	2629-xx-xx			
+29	4	fb:cell_tarif_tahun_2019.7	7	7	7	CD	NUMBER	7.0	7.0				
+29	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+29	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											

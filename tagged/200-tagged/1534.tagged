@@ -1,0 +1,276 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki	total pelamar kepala sekolah kelas ekonomi laki-laki	total|pelamar|kepala|sekolah|kelas|ekonomi|laki|laki	total|pelamar|kepala|sekolah|kelas|ekonomi|laki|laki	JJ|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||					
+-1	2	fb:row.row.laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil	laki-laki pelamar kepala sekolah kelas ekonomi pekerja terampil	laki|laki|pelamar|kepala|sekolah|kelas|ekonomi|pekerja|terampil	laki|laki|pelamar|kepala|sekolah|kelas|ekonomi|pekerja|terampil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O|O	||||||||					
+-1	3	fb:row.row.pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis	pelamar kepala sekolah kelas ekonomi laki-laki kelas bisnis	pelamar|kepala|sekolah|kelas|ekonomi|laki|laki|kelas|bisnis	pelamar|kepala|sekolah|kelas|ekonomi|laki|laki|kelas|bisnis	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	4	fb:row.row.laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh	laki-laki pelamar kepala sekolah kelas ekonomi yang tinggal di pengasuh	laki|laki|pelamar|kepala|sekolah|kelas|ekonomi|yang|tinggal|di|pengasuh	laki|laki|pelamar|kepala|sekolah|kelas|ekonomi|yang|tinggal|di|pengasuh	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	5	fb:row.row.total_pria_kelahiran_kanada	total pria kelahiran Kanada	total|pria|kelahiran|kanada	total|pria|kelahiran|Kanada	JJ|NN|NNP|NNP	O|O|O|O	|||					
+-1	6	fb:row.row.total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan	total pelamar kepala sekolah kelas ekonomi perempuan	total|pelamar|kepala|sekolah|kelas|ekonomi|perempuan	total|pelamar|kepala|sekolah|kelas|ekonomi|perempuan	JJ|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	7	fb:row.row.perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil	perempuan pelamar kepala sekolah kelas ekonomi pekerja terampil	perempuan|pelamar|kepala|sekolah|kelas|ekonomi|pekerja|terampil	perempuan|pelamar|kepala|sekolah|kelas|ekonomi|pekerja|terampil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	8	fb:row.row.pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis	pelamar kepala sekolah kelas ekonomi perempuan kelas bisnis	pelamar|kepala|sekolah|kelas|ekonomi|perempuan|kelas|bisnis	pelamar|kepala|sekolah|kelas|ekonomi|perempuan|kelas|bisnis	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	9	fb:row.row.perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh	perempuan pelamar kepala sekolah kelas ekonomi yang tinggal bersama pengasuh	perempuan|pelamar|kepala|sekolah|kelas|ekonomi|yang|tinggal|bersama|pengasuh	perempuan|pelamar|kepala|sekolah|kelas|ekonomi|yang|tinggal|bersama|pengasuh	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	10	fb:row.row.total_wanita_kelahiran_kanada	total wanita kelahiran Kanada	total|wanita|kelahiran|kanada	total|wanita|kelahiran|Kanada	JJ|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.null											
+0	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+0	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.null											
+0	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.null											
+0	5	fb:cell_total_pria_kelahiran_kanada.null											
+0	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.null											
+0	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+0	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.null											
+0	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.null											
+0	10	fb:cell_total_wanita_kelahiran_kanada.null											
+1	0	fb:cell_kharakteristik.jumlah_total	jumlah total	jumlah|total	jumlah|total	NNP|NNP	O|O	|					
+1	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.337725_0	337725.0	337725.0	337725.0	CD	NUMBER	337725.0	337725.0				
+1	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.296025_0	296025.0	296025.0	296025.0	CD	NUMBER	296025.0	296025.0				
+1	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.40595_0	40595.0	40595.0	40595.0	CD	NUMBER	40595.0	40595.0				
+1	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.1105_0	1105.0	1105.0	1105.0	CD	NUMBER	1105.0	1105.0				
+1	5	fb:cell_total_pria_kelahiran_kanada.4917820_0	4917820.0	4917820.0	4917820.0	CD	NUMBER	4917820.0	4917820.0				
+1	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.169680_0	169680.0	169680.0	169680.0	CD	NUMBER	169680.0	169680.0				
+1	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.116700_0	116700.0	116700.0	116700.0	CD	NUMBER	116700.0	116700.0				
+1	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.7085_0	7085.0	7085.0	7085.0	CD	NUMBER	7085.0	7085.0				
+1	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.45600_0	45600.0	45600.0	45600.0	CD	NUMBER	45600.0	45600.0				
+1	10	fb:cell_total_wanita_kelahiran_kanada.5113155_0	5113155.0	5113155.0	5113155.0	CD	NUMBER	5113155.0	5113155.0				
+2	0	fb:cell_kharakteristik.jumlah	jumlah%	jumlah|%	jumlah|%	NNP|NN	O|O	|					
+2	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.87_7	87.7	87.7	87.7	CD	NUMBER	87.7	87.7				
+2	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+2	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+2	5	fb:cell_total_pria_kelahiran_kanada.null											
+2	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+2	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+2	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.26_9	26.9	26.9	26.9	CD	NUMBER	26.9	26.9				
+2	10	fb:cell_total_wanita_kelahiran_kanada.null											
+3	0	fb:cell_kharakteristik.usia_keseluruhan	usia keseluruhan	usia|keseluruhan	usia|keseluruhan	NNP|NNP	ORGANIZATION|O	|					
+3	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.45_9	45.9	45.9	45.9	CD	NUMBER	45.9	45.9				
+3	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.44_8	44.8	44.8	44.8	CD	NUMBER	44.8	44.8				
+3	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.54_4	54.4	54.4	54.4	CD	NUMBER	54.4	54.4				
+3	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.43_6	43.6	43.6	43.6	CD	NUMBER	43.6	43.6				
+3	5	fb:cell_total_pria_kelahiran_kanada.46_2	46.2	46.2	46.2	CD	NUMBER	46.2	46.2				
+3	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.44_4	44.4	44.4	44.4	CD	NUMBER	44.4	44.4				
+3	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.43_9	43.9	43.9	43.9	CD	NUMBER	43.9	43.9				
+3	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.51_8	51.8	51.8	51.8	CD	NUMBER	51.8	51.8				
+3	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.44_4	44.4	44.4	44.4	CD	NUMBER	44.4	44.4				
+3	10	fb:cell_total_wanita_kelahiran_kanada.46_4	46.4	46.4	46.4	CD	NUMBER	46.4	46.4				
+4	0	fb:cell_kharakteristik._distribusi_kelompok_umur	% distribusi kelompok umur	%|distribusi|kelompok|umur	%|distribusi|kelompok|umur	NN|NN|NN|NN	O|O|O|O	|||					
+4	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.null											
+4	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+4	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.null											
+4	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.null											
+4	5	fb:cell_total_pria_kelahiran_kanada.null											
+4	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.null											
+4	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+4	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.null											
+4	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.null											
+4	10	fb:cell_total_wanita_kelahiran_kanada.null											
+5	0	fb:cell_kharakteristik._distribusi_kelompok_usia_25_hingga_44_tahun	% distribusi kelompok usia 25 hingga 44 tahun	%|distribusi|kelompok|usia|25|hingga|44|tahun	%|distribusi|kelompok|usia|25|hingga|44|tahun	NN|NN|NN|NNP|CD|NN|CD|NN	O|O|O|O|NUMBER|O|NUMBER|O	||||25.0||44.0|	25.0		44.0		
+5	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+5	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.51_3	51.3	51.3	51.3	CD	NUMBER	51.3	51.3				
+5	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+5	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.55_8	55.8	55.8	55.8	CD	NUMBER	55.8	55.8				
+5	5	fb:cell_total_pria_kelahiran_kanada.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+5	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.52_2	52.2	52.2	52.2	CD	NUMBER	52.2	52.2				
+5	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+5	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.19_4	19.4	19.4	19.4	CD	NUMBER	19.4	19.4				
+5	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.52_5	52.5	52.5	52.5	CD	NUMBER	52.5	52.5				
+5	10	fb:cell_total_wanita_kelahiran_kanada.46_4	46.4	46.4	46.4	CD	NUMBER	46.4	46.4				
+6	0	fb:cell_kharakteristik._distribusi_kelompok_usia_45_hingga_54_tahun	% distribusi kelompok usia 45 hingga 54 tahun	%|distribusi|kelompok|usia|45|hingga|54|tahun	%|distribusi|kelompok|usia|45|hingga|54|tahun	NN|NN|NN|NNP|CD|NN|CD|NN	O|O|O|ORGANIZATION|NUMBER|O|NUMBER|O	||||45.0||54.0|	45.0		54.0		
+6	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.34_6	34.6	34.6	34.6	CD	NUMBER	34.6	34.6				
+6	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.34_1	34.1	34.1	34.1	CD	NUMBER	34.1	34.1				
+6	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.37_7	37.7	37.7	37.7	CD	NUMBER	37.7	37.7				
+6	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.31_1	31.1	31.1	31.1	CD	NUMBER	31.1	31.1				
+6	5	fb:cell_total_pria_kelahiran_kanada.25_8	25.8	25.8	25.8	CD	NUMBER	25.8	25.8				
+6	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.35_1	35.1	35.1	35.1	CD	NUMBER	35.1	35.1				
+6	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.34_2	34.2	34.2	34.2	CD	NUMBER	34.2	34.2				
+6	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.43_9	43.9	43.9	43.9	CD	NUMBER	43.9	43.9				
+6	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.35_9	35.9	35.9	35.9	CD	NUMBER	35.9	35.9				
+6	10	fb:cell_total_wanita_kelahiran_kanada.25_7	25.7	25.7	25.7	CD	NUMBER	25.7	25.7				
+7	0	fb:cell_kharakteristik._distribusi_kelompok_usia_55_hingga_74_tahun	% distribusi kelompok usia 55 hingga 74 tahun	%|distribusi|kelompok|usia|55|hingga|74|tahun	%|distribusi|kelompok|usia|55|hingga|74|tahun	NN|NN|NN|NNP|CD|NNP|CD|NN	O|O|O|ORGANIZATION|NUMBER|O|NUMBER|O	||||55.0||74.0|	55.0		74.0		
+7	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+7	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+7	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.49_1	49.1	49.1	49.1	CD	NUMBER	49.1	49.1				
+7	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.13_1	13.1	13.1	13.1	CD	NUMBER	13.1	13.1				
+7	5	fb:cell_total_pria_kelahiran_kanada.27_4	27.4	27.4	27.4	CD	NUMBER	27.4	27.4				
+7	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+7	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+7	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.36_7	36.7	36.7	36.7	CD	NUMBER	36.7	36.7				
+7	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+7	10	fb:cell_total_wanita_kelahiran_kanada.27_9	27.9	27.9	27.9	CD	NUMBER	27.9	27.9				
+8	0	fb:cell_kharakteristik._distribusi_wilayah_dunia	% distribusi wilayah dunia	%|distribusi|wilayah|dunia	%|distribusi|wilayah|dunia	NN|NN|NN|NN	O|O|O|O	|||					
+8	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.null											
+8	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+8	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.null											
+8	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.null											
+8	5	fb:cell_total_pria_kelahiran_kanada.null											
+8	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.null											
+8	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+8	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.null											
+8	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.null											
+8	10	fb:cell_total_wanita_kelahiran_kanada.null											
+9	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_karibia_amerika_tengah_dan_selatan	% distribusi wilayah dunia Karibia/Amerika Tengah dan Selatan	%|distribusi|wilayah|dunia|karibia/amerika|tengah|dan|selatan	%|distribusi|wilayah|dunia|karibia/amerika|Tengah|dan|Selatan	NN|NN|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				% distribusi wilayah dunia Karibia|Amerika Tengah dan Selatan	fb:part_kharakteristik._distribusi_wilayah_dunia_karibia|fb:part_kharakteristik.amerika_tengah_dan_selatan
+9	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+9	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+9	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+9	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+9	5	fb:cell_total_pria_kelahiran_kanada.null											
+9	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+9	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+9	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+9	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+9	10	fb:cell_total_wanita_kelahiran_kanada.null											
+10	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_eropa_barat	% distribusi wilayah dunia eropa barat	%|distribusi|wilayah|dunia|eropa|barat	%|distribusi|wilayah|dunia|eropa|barat	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+10	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+10	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+10	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+10	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+10	5	fb:cell_total_pria_kelahiran_kanada.null											
+10	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+10	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+10	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+10	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+10	10	fb:cell_total_wanita_kelahiran_kanada.null											
+11	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_eropa_timur	% distribusi wilayah dunia eropa timur	%|distribusi|wilayah|dunia|eropa|timur	%|distribusi|wilayah|dunia|eropa|timur	NN|NN|NN|NN|NN|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+11	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+11	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+11	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+11	5	fb:cell_total_pria_kelahiran_kanada.null											
+11	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+11	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.13_9	13.9	13.9	13.9	CD	NUMBER	13.9	13.9				
+11	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+11	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+11	10	fb:cell_total_wanita_kelahiran_kanada.null											
+12	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_asia_barat_daya_dan_afrika	% distribusi wilayah dunia asia barat daya dan afrika	%|distribusi|wilayah|dunia|asia|barat|daya|dan|afrika	%|distribusi|wilayah|dunia|asia|barat|daya|dan|afrika	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+12	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+12	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+12	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+12	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+12	5	fb:cell_total_pria_kelahiran_kanada.null											
+12	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+12	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+12	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+12	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+12	10	fb:cell_total_wanita_kelahiran_kanada.null											
+13	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_asia_selatan	% distribusi wilayah dunia asia selatan	%|distribusi|wilayah|dunia|asia|selatan	%|distribusi|wilayah|dunia|asia|selatan	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+13	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+13	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+13	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+13	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+13	5	fb:cell_total_pria_kelahiran_kanada.null											
+13	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+13	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+13	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+13	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+13	10	fb:cell_total_wanita_kelahiran_kanada.null											
+14	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_asia_tenggara	% distribusi wilayah dunia asia tenggara	%|distribusi|wilayah|dunia|asia|tenggara	%|distribusi|wilayah|dunia|asia|tenggara	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+14	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+14	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+14	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+14	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+14	5	fb:cell_total_pria_kelahiran_kanada.null											
+14	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.31_3	31.3	31.3	31.3	CD	NUMBER	31.3	31.3				
+14	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+14	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+14	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.74_1	74.1	74.1	74.1	CD	NUMBER	74.1	74.1				
+14	10	fb:cell_total_wanita_kelahiran_kanada.null											
+15	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_asia_timur	% distribusi wilayah dunia asia timur	%|distribusi|wilayah|dunia|asia|timur	%|distribusi|wilayah|dunia|asia|timur	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+15	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+15	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.62_1	62.1	62.1	62.1	CD	NUMBER	62.1	62.1				
+15	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+15	5	fb:cell_total_pria_kelahiran_kanada.null											
+15	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.24_6	24.6	24.6	24.6	CD	NUMBER	24.6	24.6				
+15	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.30_6	30.6	30.6	30.6	CD	NUMBER	30.6	30.6				
+15	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.75_2	75.2	75.2	75.2	CD	NUMBER	75.2	75.2				
+15	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+15	10	fb:cell_total_wanita_kelahiran_kanada.null											
+16	0	fb:cell_kharakteristik._distribusi_wilayah_dunia_lainnya	% distribusi wilayah dunia lainnya	%|distribusi|wilayah|dunia|lainnya	%|distribusi|wilayah|dunia|lainnya	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+16	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+16	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+16	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+16	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+16	5	fb:cell_total_pria_kelahiran_kanada.null											
+16	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+16	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+16	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+16	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+16	10	fb:cell_total_wanita_kelahiran_kanada.null											
+17	0	fb:cell_kharakteristik._tahun_pendaratan_distribusi	% tahun pendaratan distribusi	%|tahun|pendaratan|distribusi	%|tahun|pendaratan|distribusi	NN|NN|NN|NN	O|O|O|O	|||					
+17	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.null											
+17	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+17	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.null											
+17	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.null											
+17	5	fb:cell_total_pria_kelahiran_kanada.null											
+17	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.null											
+17	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+17	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.null											
+17	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.null											
+17	10	fb:cell_total_wanita_kelahiran_kanada.null											
+18	0	fb:cell_kharakteristik._distribusi_tahun_pendaratan_1980_hingga_1992	% distribusi tahun pendaratan 1980 hingga 1992	%|distribusi|tahun|pendaratan|1980|hingga|1992	%|distribusi|tahun|pendaratan|1980|hingga|1992	NN|NN|NN|NN|CD|NNP|CD	O|O|O|O|DATE|O|DATE	||||1980||1992	1980.0		1992.0		
+18	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.28_8	28.8	28.8	28.8	CD	NUMBER	28.8	28.8				
+18	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				
+18	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.35_7	35.7	35.7	35.7	CD	NUMBER	35.7	35.7				
+18	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.31_7	31.7	31.7	31.7	CD	NUMBER	31.7	31.7				
+18	5	fb:cell_total_pria_kelahiran_kanada.null											
+18	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.33_9	33.9	33.9	33.9	CD	NUMBER	33.9	33.9				
+18	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.32_6	32.6	32.6	32.6	CD	NUMBER	32.6	32.6				
+18	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.30_3	30.3	30.3	30.3	CD	NUMBER	30.3	30.3				
+18	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.37_8	37.8	37.8	37.8	CD	NUMBER	37.8	37.8				
+18	10	fb:cell_total_wanita_kelahiran_kanada.null											
+19	0	fb:cell_kharakteristik._distribusi_tahun_pendaratan_1993_hingga_2006	% distribusi tahun pendaratan 1993 hingga 2006	%|distribusi|tahun|pendaratan|1993|hingga|2006	%|distribusi|tahun|pendaratan|1993|hingga|2006	NN|NN|NN|NN|CD|NNP|CD	O|O|O|O|DATE|O|DATE	||||1993||2006	1993.0		2006.0		
+19	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.71_3	71.3	71.3	71.3	CD	NUMBER	71.3	71.3				
+19	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+19	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.64_3	64.3	64.3	64.3	CD	NUMBER	64.3	64.3				
+19	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+19	5	fb:cell_total_pria_kelahiran_kanada.null											
+19	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.66_1	66.1	66.1	66.1	CD	NUMBER	66.1	66.1				
+19	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+19	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.69_7	69.7	69.7	69.7	CD	NUMBER	69.7	69.7				
+19	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.62_2	62.2	62.2	62.2	CD	NUMBER	62.2	62.2				
+19	10	fb:cell_total_wanita_kelahiran_kanada.null											
+20	0	fb:cell_kharakteristik._distribusi_tahun_pendaratan_kelulusan_universitas	% distribusi tahun pendaratan kelulusan universitas	%|distribusi|tahun|pendaratan|kelulusan|universitas	%|distribusi|tahun|pendaratan|kelulusan|universita	NN|NN|NN|NN|NN|NNS	O|O|O|O|O|O	|||||					
+20	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+20	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.73_2	73.2	73.2	73.2	CD	NUMBER	73.2	73.2				
+20	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.39_5	39.5	39.5	39.5	CD	NUMBER	39.5	39.5				
+20	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.41_6	41.6	41.6	41.6	CD	NUMBER	41.6	41.6				
+20	5	fb:cell_total_pria_kelahiran_kanada.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+20	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.56_9	56.9	56.9	56.9	CD	NUMBER	56.9	56.9				
+20	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+20	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.35_8	35.8	35.8	35.8	CD	NUMBER	35.8	35.8				
+20	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.37_7	37.7	37.7	37.7	CD	NUMBER	37.7	37.7				
+20	10	fb:cell_total_wanita_kelahiran_kanada.20_3	20.3	20.3	20.3	CD	NUMBER	20.3	20.3				
+21	0	fb:cell_kharakteristik._kemahiran_bahasa_distribusi	% kemahiran bahasa distribusi	%|kemahiran|bahasa|distribusi	%|kemahiran|bahasa|distribusi	NN|NN|NN|NN	O|O|O|O	|||					
+21	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.null											
+21	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+21	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.null											
+21	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.null											
+21	5	fb:cell_total_pria_kelahiran_kanada.null											
+21	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.null											
+21	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.null											
+21	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.null											
+21	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.null											
+21	10	fb:cell_total_wanita_kelahiran_kanada.null											
+22	0	fb:cell_kharakteristik._kemahiran_bahasa_distribusi_inggris_dan_atau_perancis	% kemahiran bahasa distribusi Inggris dan/atau Perancis	%|kemahiran|bahasa|distribusi|inggris|dan/atau|perancis	%|kemahiran|bahasa|distribusi|Inggris|dan/atau|Perancis	NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				% kemahiran bahasa distribusi Inggris dan|atau Perancis	fb:part_kharakteristik._kemahiran_bahasa_distribusi_inggris_dan|fb:part_kharakteristik.atau_perancis
+22	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.79_1	79.1	79.1	79.1	CD	NUMBER	79.1	79.1				
+22	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.82_8	82.8	82.8	82.8	CD	NUMBER	82.8	82.8				
+22	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.51_6	51.6	51.6	51.6	CD	NUMBER	51.6	51.6				
+22	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.94_5	94.5	94.5	94.5	CD	NUMBER	94.5	94.5				
+22	5	fb:cell_total_pria_kelahiran_kanada.99_9	99.9	99.9	99.9	CD	NUMBER	99.9	99.9				
+22	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+22	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+22	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.46_7	46.7	46.7	46.7	CD	NUMBER	46.7	46.7				
+22	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.99_0	99.0	99.0	99.0	CD	NUMBER	99.0	99.0				
+22	10	fb:cell_total_wanita_kelahiran_kanada.99_9	99.9	99.9	99.9	CD	NUMBER	99.9	99.9				
+23	0	fb:cell_kharakteristik._kemahiran_bahasa_distribusi_tidak_ada	% kemahiran bahasa distribusi tidak ada	%|kemahiran|bahasa|distribusi|tidak|ada	%|kemahiran|bahasa|distribusi|tidak|ada	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+23	1	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+23	2	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+23	3	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_laki_laki_kelas_bisnis.48_4	48.4	48.4	48.4	CD	NUMBER	48.4	48.4				
+23	4	fb:cell_laki_laki_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_di_pengasuh.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+23	5	fb:cell_total_pria_kelahiran_kanada.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+23	6	fb:cell_total_pelamar_kepala_sekolah_kelas_ekonomi_perempuan.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+23	7	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_pekerja_terampil.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+23	8	fb:cell_pelamar_kepala_sekolah_kelas_ekonomi_perempuan_kelas_bisnis.53_4	53.4	53.4	53.4	CD	NUMBER	53.4	53.4				
+23	9	fb:cell_perempuan_pelamar_kepala_sekolah_kelas_ekonomi_yang_tinggal_bersama_pengasuh.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+23	10	fb:cell_total_wanita_kelahiran_kanada.null											

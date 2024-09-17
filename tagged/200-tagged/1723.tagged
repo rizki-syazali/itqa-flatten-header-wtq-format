@@ -1,0 +1,100 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.semua_pekerja_diperhitungkan	semua pekerja diperhitungkan	semua|pekerja|diperhitungkan	semua|pekerja|diperhitungkan	NN|NN|NN	O|O|O	||					
+-1	2	fb:row.row.persentase_seluruh_pekerja	persentase seluruh pekerja	persentase|seluruh|pekerja	persentase|seluruh|pekerja	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.jumlah_sektor_bantuan_tunawisma	jumlah sektor bantuan tunawisma	jumlah|sektor|bantuan|tunawisma	jumlah|sektor|bantuan|tunawisma	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.persentase_sektor_dukungan_tunawisma	persentase sektor dukungan tunawisma	persentase|sektor|dukungan|tunawisma	persentase|sektor|dukungan|tunawisma	NN|NN|NN|NN	O|O|O|O	|||					
+-1	5	fb:row.row.pekerja_sosial_diperhitungkan	pekerja sosial diperhitungkan	pekerja|sosial|diperhitungkan	pekerja|sosial|diperhitungkan	NN|JJ|NN	O|O|O	||					
+-1	6	fb:row.row.persentase_pekerja_sosial	persentase pekerja sosial	persentase|pekerja|sosial	persentase|pekerja|sosial	NN|NN|JJ	O|O|O	||					
+-1	7	fb:row.row.pekerja_layanan_sosial_dan_masyarakat_dihitung	pekerja layanan sosial dan masyarakat dihitung	pekerja|layanan|sosial|dan|masyarakat|dihitung	pekerja|layanan|sosial|dan|masyarakat|dihitung	NN|NN|JJ|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	8	fb:row.row.persentase_pekerja_sosial_dan_layanan_masyarakat	persentase pekerja sosial dan layanan masyarakat	persentase|pekerja|sosial|dan|layanan|masyarakat	persentase|pekerja|sosial|dan|layanan|masyarakat	NN|NN|JJ|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	0	fb:cell_kharakteristik.total_status_keluarga_sensus	total - status keluarga sensus	total|-|status|keluarga|sensus	total|-|status|keluarga|sensus	JJ|:|NN|NN|NN	O|O|O|O|O	||||					
+0	1	fb:cell_semua_pekerja_diperhitungkan.19956250_0	19956250.0	19956250.0	19956250.0	CD	NUMBER	1.995625E7	1.995625E7				
+0	2	fb:cell_persentase_seluruh_pekerja.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	3	fb:cell_jumlah_sektor_bantuan_tunawisma.6305_0	6305.0	6305.0	6305.0	CD	NUMBER	6305.0	6305.0				
+0	4	fb:cell_persentase_sektor_dukungan_tunawisma.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	5	fb:cell_pekerja_sosial_diperhitungkan.62235_0	62235.0	62235.0	62235.0	CD	NUMBER	62235.0	62235.0				
+0	6	fb:cell_persentase_pekerja_sosial.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.155625_0	155625.0	155625.0	155625.0	CD	NUMBER	155625.0	155625.0				
+0	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.total_sensus_status_keluarga_menikah_atau_pasangan_ipar	total - sensus status keluarga menikah atau pasangan ipar	total|-|sensus|status|keluarga|menikah|atau|pasangan|ipar	total|-|sensus|status|keluarga|menikah|atau|pasangan|ipar	JJ|:|NNP|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_semua_pekerja_diperhitungkan.13812910_0	13812910.0	13812910.0	13812910.0	CD	NUMBER	1.381291E7	1.381291E7				
+1	2	fb:cell_persentase_seluruh_pekerja.69_2	69.2	69.2	69.2	CD	NUMBER	69.2	69.2				
+1	3	fb:cell_jumlah_sektor_bantuan_tunawisma.3535_0	3535.0	3535.0	3535.0	CD	NUMBER	3535.0	3535.0				
+1	4	fb:cell_persentase_sektor_dukungan_tunawisma.56_1	56.1	56.1	56.1	CD	NUMBER	56.1	56.1				
+1	5	fb:cell_pekerja_sosial_diperhitungkan.42200_0	42200.0	42200.0	42200.0	CD	NUMBER	42200.0	42200.0				
+1	6	fb:cell_persentase_pekerja_sosial.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+1	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.95890_0	95890.0	95890.0	95890.0	CD	NUMBER	95890.0	95890.0				
+1	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+2	0	fb:cell_kharakteristik.total_sensus_status_keluarga_menikah_atau_pasangan_ipar_dengan_anak	total - sensus status keluarga menikah atau pasangan ipar dengan anak	total|-|sensus|status|keluarga|menikah|atau|pasangan|ipar|dengan|anak	total|-|sensus|status|keluarga|menikah|atau|pasangan|ipar|dengan|anak	JJ|:|NNP|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+2	1	fb:cell_semua_pekerja_diperhitungkan.9151300_0	9151300.0	9151300.0	9151300.0	CD	NUMBER	9151300.0	9151300.0				
+2	2	fb:cell_persentase_seluruh_pekerja.45_9	45.9	45.9	45.9	CD	NUMBER	45.9	45.9				
+2	3	fb:cell_jumlah_sektor_bantuan_tunawisma.2140_0	2140.0	2140.0	2140.0	CD	NUMBER	2140.0	2140.0				
+2	4	fb:cell_persentase_sektor_dukungan_tunawisma.33_9	33.9	33.9	33.9	CD	NUMBER	33.9	33.9				
+2	5	fb:cell_pekerja_sosial_diperhitungkan.27960_0	27960.0	27960.0	27960.0	CD	NUMBER	27960.0	27960.0				
+2	6	fb:cell_persentase_pekerja_sosial.44_9	44.9	44.9	44.9	CD	NUMBER	44.9	44.9				
+2	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.61975_0	61975.0	61975.0	61975.0	CD	NUMBER	61975.0	61975.0				
+2	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.39_8	39.8	39.8	39.8	CD	NUMBER	39.8	39.8				
+3	0	fb:cell_kharakteristik.total_sensus_status_keluarga_menikah_atau_pasangan_ipar_tanpa_anak	total - sensus status keluarga menikah atau pasangan ipar tanpa anak	total|-|sensus|status|keluarga|menikah|atau|pasangan|ipar|tanpa|anak	total|-|sensus|status|keluarga|menikah|atau|pasangan|ipar|tanpa|anak	JJ|:|NNP|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+3	1	fb:cell_semua_pekerja_diperhitungkan.4661610_0	4661610.0	4661610.0	4661610.0	CD	NUMBER	4661610.0	4661610.0				
+3	2	fb:cell_persentase_seluruh_pekerja.23_4	23.4	23.4	23.4	CD	NUMBER	23.4	23.4				
+3	3	fb:cell_jumlah_sektor_bantuan_tunawisma.1400_0	1400.0	1400.0	1400.0	CD	NUMBER	1400.0	1400.0				
+3	4	fb:cell_persentase_sektor_dukungan_tunawisma.22_2	22.2	22.2	22.2	CD	NUMBER	22.2	22.2				
+3	5	fb:cell_pekerja_sosial_diperhitungkan.14240_0	14240.0	14240.0	14240.0	CD	NUMBER	14240.0	14240.0				
+3	6	fb:cell_persentase_pekerja_sosial.22_9	22.9	22.9	22.9	CD	NUMBER	22.9	22.9				
+3	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.33910_0	33910.0	33910.0	33910.0	CD	NUMBER	33910.0	33910.0				
+3	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.21_8	21.8	21.8	21.8	CD	NUMBER	21.8	21.8				
+4	0	fb:cell_kharakteristik.total_status_keluarga_sensus_orang_tua_tunggal	total - status keluarga sensus orang tua tunggal	total|-|status|keluarga|sensus|orang|tua|tunggal	total|-|status|keluarga|sensus|orang|tua|tunggal	JJ|:|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+4	1	fb:cell_semua_pekerja_diperhitungkan.1995250_0	1995250.0	1995250.0	1995250.0	CD	NUMBER	1995250.0	1995250.0				
+4	2	fb:cell_persentase_seluruh_pekerja.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+4	3	fb:cell_jumlah_sektor_bantuan_tunawisma.915_0	915.0	915.0	915.0	CD	NUMBER	915.0	915.0				
+4	4	fb:cell_persentase_sektor_dukungan_tunawisma.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+4	5	fb:cell_pekerja_sosial_diperhitungkan.7070_0	7070.0	7070.0	7070.0	CD	NUMBER	7070.0	7070.0				
+4	6	fb:cell_persentase_pekerja_sosial.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+4	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.22330_0	22330.0	22330.0	22330.0	CD	NUMBER	22330.0	22330.0				
+4	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.14_3	14.3	14.3	14.3	CD	NUMBER	14.3	14.3				
+5	0	fb:cell_kharakteristik.total_status_keluarga_sensus_orang_tua_tunggal_perempuan_orang_tua_tunggal	total - status keluarga sensus orang tua tunggal perempuan orang tua tunggal	total|-|status|keluarga|sensus|orang|tua|tunggal|perempuan|orang|tua|tunggal	total|-|status|keluarga|sensus|orang|tua|tunggal|perempuan|orang|tua|tunggal	JJ|:|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+5	1	fb:cell_semua_pekerja_diperhitungkan.1208105_0	1208105.0	1208105.0	1208105.0	CD	NUMBER	1208105.0	1208105.0				
+5	2	fb:cell_persentase_seluruh_pekerja.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+5	3	fb:cell_jumlah_sektor_bantuan_tunawisma.830_0	830.0	830.0	830.0	CD	NUMBER	830.0	830.0				
+5	4	fb:cell_persentase_sektor_dukungan_tunawisma.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+5	5	fb:cell_pekerja_sosial_diperhitungkan.6455_0	6455.0	6455.0	6455.0	CD	NUMBER	6455.0	6455.0				
+5	6	fb:cell_persentase_pekerja_sosial.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+5	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.19360_0	19360.0	19360.0	19360.0	CD	NUMBER	19360.0	19360.0				
+5	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+6	0	fb:cell_kharakteristik.total_status_keluarga_sensus_orang_tua_tunggal_laki_laki_orang_tua_tunggal	total - status keluarga sensus orang tua tunggal laki-laki orang tua tunggal	total|-|status|keluarga|sensus|orang|tua|tunggal|laki|laki|orang|tua|tunggal	total|-|status|keluarga|sensus|orang|tua|tunggal|laki|laki|orang|tua|tunggal	JJ|:|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+6	1	fb:cell_semua_pekerja_diperhitungkan.787150_0	787150.0	787150.0	787150.0	CD	NUMBER	787150.0	787150.0				
+6	2	fb:cell_persentase_seluruh_pekerja.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+6	3	fb:cell_jumlah_sektor_bantuan_tunawisma.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+6	4	fb:cell_persentase_sektor_dukungan_tunawisma.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+6	5	fb:cell_pekerja_sosial_diperhitungkan.605_0	605.0	605.0	605.0	CD	NUMBER	605.0	605.0				
+6	6	fb:cell_persentase_pekerja_sosial.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.2965_0	2965.0	2965.0	2965.0	CD	NUMBER	2965.0	2965.0				
+6	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+7	0	fb:cell_kharakteristik.total_status_keluarga_sensus_beberapa_rumah_tangga_keluarga_sensus	total - status keluarga sensus beberapa rumah tangga keluarga sensus	total|-|status|keluarga|sensus|beberapa|rumah|tangga|keluarga|sensus	total|-|status|keluarga|sensus|beberapa|rumah|tangga|keluarga|sensus	JJ|:|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+7	1	fb:cell_semua_pekerja_diperhitungkan.876270_0	876270.0	876270.0	876270.0	CD	NUMBER	876270.0	876270.0				
+7	2	fb:cell_persentase_seluruh_pekerja.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+7	3	fb:cell_jumlah_sektor_bantuan_tunawisma.230_0	230.0	230.0	230.0	CD	NUMBER	230.0	230.0				
+7	4	fb:cell_persentase_sektor_dukungan_tunawisma.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+7	5	fb:cell_pekerja_sosial_diperhitungkan.1825_0	1825.0	1825.0	1825.0	CD	NUMBER	1825.0	1825.0				
+7	6	fb:cell_persentase_pekerja_sosial.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+7	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.6470_0	6470.0	6470.0	6470.0	CD	NUMBER	6470.0	6470.0				
+7	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+8	0	fb:cell_kharakteristik.total_status_keluarga_sensus_rumah_tangga_keluarga_non_sensus	total - status keluarga sensus rumah tangga keluarga non-sensus	total|-|status|keluarga|sensus|rumah|tangga|keluarga|non|sensus	total|-|status|keluarga|sensus|rumah|tangga|keluarga|non|sensus	JJ|:|NN|NNP|NNP|NNP|NNP|NNP|JJ|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+8	1	fb:cell_semua_pekerja_diperhitungkan.3271825_0	3271825.0	3271825.0	3271825.0	CD	NUMBER	3271825.0	3271825.0				
+8	2	fb:cell_persentase_seluruh_pekerja.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+8	3	fb:cell_jumlah_sektor_bantuan_tunawisma.1625_0	1625.0	1625.0	1625.0	CD	NUMBER	1625.0	1625.0				
+8	4	fb:cell_persentase_sektor_dukungan_tunawisma.25_8	25.8	25.8	25.8	CD	NUMBER	25.8	25.8				
+8	5	fb:cell_pekerja_sosial_diperhitungkan.11140_0	11140.0	11140.0	11140.0	CD	NUMBER	11140.0	11140.0				
+8	6	fb:cell_persentase_pekerja_sosial.17_9	17.9	17.9	17.9	CD	NUMBER	17.9	17.9				
+8	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.30940_0	30940.0	30940.0	30940.0	CD	NUMBER	30940.0	30940.0				
+8	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.19_9	19.9	19.9	19.9	CD	NUMBER	19.9	19.9				
+9	0	fb:cell_kharakteristik.total_status_keluarga_sensus_rumah_tangga_keluarga_non_sensus_satu_rumah_tangga	total - status keluarga sensus rumah tangga keluarga non-sensus satu rumah tangga	total|-|status|keluarga|sensus|rumah|tangga|keluarga|non|sensus|satu|rumah|tangga	total|-|status|keluarga|sensus|rumah|tangga|keluarga|non|sensus|satu|rumah|tangga	JJ|:|NN|NNP|NNP|NNP|NNP|NNP|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+9	1	fb:cell_semua_pekerja_diperhitungkan.2290860_0	2290860.0	2290860.0	2290860.0	CD	NUMBER	2290860.0	2290860.0				
+9	2	fb:cell_persentase_seluruh_pekerja.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+9	3	fb:cell_jumlah_sektor_bantuan_tunawisma.1075_0	1075.0	1075.0	1075.0	CD	NUMBER	1075.0	1075.0				
+9	4	fb:cell_persentase_sektor_dukungan_tunawisma.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+9	5	fb:cell_pekerja_sosial_diperhitungkan.8825_0	8825.0	8825.0	8825.0	CD	NUMBER	8825.0	8825.0				
+9	6	fb:cell_persentase_pekerja_sosial.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+9	7	fb:cell_pekerja_layanan_sosial_dan_masyarakat_dihitung.20925_0	20925.0	20925.0	20925.0	CD	NUMBER	20925.0	20925.0				
+9	8	fb:cell_persentase_pekerja_sosial_dan_layanan_masyarakat.13_4	13.4	13.4	13.4	CD	NUMBER	13.4	13.4				

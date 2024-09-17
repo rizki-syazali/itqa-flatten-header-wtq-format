@@ -1,0 +1,151 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.2010_jutaan_dolar	2010 jutaan dolar	2010|jutaan|dolar	2010|jutaan|dolar	CD|NNP|NNP	DATE|O|O	2010||					
+-1	2	fb:row.row.2011_jutaan_dolar	2011 jutaan dolar	2011|jutaan|dolar	2011|jutaan|dolar	CD|NNP|NNP	DATE|O|O	2011||					
+-1	3	fb:row.row.2012_jutaan_dolar	2012 jutaan dolar	2012|jutaan|dolar	2012|jutaan|dolar	CD|NNP|NNP	DATE|O|O	2012||					
+-1	4	fb:row.row.2013_jutaan_dolar	2013 jutaan dolar	2013|jutaan|dolar	2013|jutaan|dolar	CD|NNP|NNP	DATE|O|O	2013||					
+-1	5	fb:row.row.2014_jutaan_dolar	2014 jutaan dolar	2014|jutaan|dolar	2014|jutaan|dolar	CD|NNP|NNP	DATE|O|O	2014||					
+-1	6	fb:row.row.perubahan_persentase_tahun_2011	Perubahan persentase tahun 2011	perubahan|persentase|tahun|2011	Perubahan|persentase|tahun|2011	NNP|NNP|NNP|CD	O|O|O|DATE	|||2011					
+-1	7	fb:row.row.perubahan_persentase_tahun_2012	Perubahan persentase tahun 2012	perubahan|persentase|tahun|2012	Perubahan|persentase|tahun|2012	NNP|NNP|NNP|CD	O|O|O|DATE	|||2012					
+-1	8	fb:row.row.perubahan_persentase_tahun_2013	Perubahan persentase tahun 2013	perubahan|persentase|tahun|2013	Perubahan|persentase|tahun|2013	NNP|NNP|NNP|CD	O|O|O|DATE	|||2013					
+-1	9	fb:row.row.perubahan_persentase_tahun_2014	Perubahan persentase tahun 2014	perubahan|persentase|tahun|2014	Perubahan|persentase|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014					
+0	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+0	1	fb:cell_2010_jutaan_dolar.4885_8	4885.8	4885.8	4885.8	CD	NUMBER	4885.8	4885.8				
+0	2	fb:cell_2011_jutaan_dolar.5124_3	5124.3	5124.3	5124.3	CD	NUMBER	5124.3	5124.3				
+0	3	fb:cell_2012_jutaan_dolar.5306_3	5306.3	5306.3	5306.3	CD	NUMBER	5306.3	5306.3				
+0	4	fb:cell_2013_jutaan_dolar.5592_4	5592.4	5592.4	5592.4	CD	NUMBER	5592.4	5592.4				
+0	5	fb:cell_2014_jutaan_dolar.5750_3	5750.3	5750.3	5750.3	CD	NUMBER	5750.3	5750.3				
+0	6	fb:cell_perubahan_persentase_tahun_2011.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+0	7	fb:cell_perubahan_persentase_tahun_2012.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+0	8	fb:cell_perubahan_persentase_tahun_2013.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+0	9	fb:cell_perubahan_persentase_tahun_2014.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+1	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+1	1	fb:cell_2010_jutaan_dolar.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+1	2	fb:cell_2011_jutaan_dolar.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+1	3	fb:cell_2012_jutaan_dolar.53_8	53.8	53.8	53.8	CD	NUMBER	53.8	53.8				
+1	4	fb:cell_2013_jutaan_dolar.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+1	5	fb:cell_2014_jutaan_dolar.55_3	55.3	55.3	55.3	CD	NUMBER	55.3	55.3				
+1	6	fb:cell_perubahan_persentase_tahun_2011.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+1	7	fb:cell_perubahan_persentase_tahun_2012.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+1	8	fb:cell_perubahan_persentase_tahun_2013.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+1	9	fb:cell_perubahan_persentase_tahun_2014.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+2	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_2010_jutaan_dolar.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+2	2	fb:cell_2011_jutaan_dolar.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+2	3	fb:cell_2012_jutaan_dolar.22_1	22.1	22.1	22.1	CD	NUMBER	22.1	22.1				
+2	4	fb:cell_2013_jutaan_dolar.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+2	5	fb:cell_2014_jutaan_dolar.22_5	22.5	22.5	22.5	CD	NUMBER	22.5	22.5				
+2	6	fb:cell_perubahan_persentase_tahun_2011.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+2	7	fb:cell_perubahan_persentase_tahun_2012.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+2	8	fb:cell_perubahan_persentase_tahun_2013.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+2	9	fb:cell_perubahan_persentase_tahun_2014.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+3	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+3	1	fb:cell_2010_jutaan_dolar.89_3	89.3	89.3	89.3	CD	NUMBER	89.3	89.3				
+3	2	fb:cell_2011_jutaan_dolar.93_1	93.1	93.1	93.1	CD	NUMBER	93.1	93.1				
+3	3	fb:cell_2012_jutaan_dolar.97_0	97.0	97.0	97.0	CD	NUMBER	97.0	97.0				
+3	4	fb:cell_2013_jutaan_dolar.97_8	97.8	97.8	97.8	CD	NUMBER	97.8	97.8				
+3	5	fb:cell_2014_jutaan_dolar.98_2	98.2	98.2	98.2	CD	NUMBER	98.2	98.2				
+3	6	fb:cell_perubahan_persentase_tahun_2011.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+3	7	fb:cell_perubahan_persentase_tahun_2012.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+3	8	fb:cell_perubahan_persentase_tahun_2013.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+3	9	fb:cell_perubahan_persentase_tahun_2014.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+4	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+4	1	fb:cell_2010_jutaan_dolar.87_3	87.3	87.3	87.3	CD	NUMBER	87.3	87.3				
+4	2	fb:cell_2011_jutaan_dolar.91_3	91.3	91.3	91.3	CD	NUMBER	91.3	91.3				
+4	3	fb:cell_2012_jutaan_dolar.91_9	91.9	91.9	91.9	CD	NUMBER	91.9	91.9				
+4	4	fb:cell_2013_jutaan_dolar.91_2	91.2	91.2	91.2	CD	NUMBER	91.2	91.2				
+4	5	fb:cell_2014_jutaan_dolar.90_5	90.5	90.5	90.5	CD	NUMBER	90.5	90.5				
+4	6	fb:cell_perubahan_persentase_tahun_2011.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+4	7	fb:cell_perubahan_persentase_tahun_2012.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+4	8	fb:cell_perubahan_persentase_tahun_2013._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+4	9	fb:cell_perubahan_persentase_tahun_2014._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+5	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+5	1	fb:cell_2010_jutaan_dolar.749_1	749.1	749.1	749.1	CD	NUMBER	749.1	749.1				
+5	2	fb:cell_2011_jutaan_dolar.799_0	799.0	799.0	799.0	CD	NUMBER	799.0	799.0				
+5	3	fb:cell_2012_jutaan_dolar.822_5	822.5	822.5	822.5	CD	NUMBER	822.5	822.5				
+5	4	fb:cell_2013_jutaan_dolar.874_9	874.9	874.9	874.9	CD	NUMBER	874.9	874.9				
+5	5	fb:cell_2014_jutaan_dolar.901_6	901.6	901.6	901.6	CD	NUMBER	901.6	901.6				
+5	6	fb:cell_perubahan_persentase_tahun_2011.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+5	7	fb:cell_perubahan_persentase_tahun_2012.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+5	8	fb:cell_perubahan_persentase_tahun_2013.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+5	9	fb:cell_perubahan_persentase_tahun_2014.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+6	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+6	1	fb:cell_2010_jutaan_dolar.2126_7	2126.7	2126.7	2126.7	CD	NUMBER	2126.7	2126.7				
+6	2	fb:cell_2011_jutaan_dolar.2221_6	2221.6	2221.6	2221.6	CD	NUMBER	2221.6	2221.6				
+6	3	fb:cell_2012_jutaan_dolar.2297_3	2297.3	2297.3	2297.3	CD	NUMBER	2297.3	2297.3				
+6	4	fb:cell_2013_jutaan_dolar.2425_6	2425.6	2425.6	2425.6	CD	NUMBER	2425.6	2425.6				
+6	5	fb:cell_2014_jutaan_dolar.2486_6	2486.6	2486.6	2486.6	CD	NUMBER	2486.6	2486.6				
+6	6	fb:cell_perubahan_persentase_tahun_2011.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+6	7	fb:cell_perubahan_persentase_tahun_2012.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+6	8	fb:cell_perubahan_persentase_tahun_2013.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+6	9	fb:cell_perubahan_persentase_tahun_2014.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+7	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+7	1	fb:cell_2010_jutaan_dolar.123_2	123.2	123.2	123.2	CD	NUMBER	123.2	123.2				
+7	2	fb:cell_2011_jutaan_dolar.137_8	137.8	137.8	137.8	CD	NUMBER	137.8	137.8				
+7	3	fb:cell_2012_jutaan_dolar.146_8	146.8	146.8	146.8	CD	NUMBER	146.8	146.8				
+7	4	fb:cell_2013_jutaan_dolar.156_4	156.4	156.4	156.4	CD	NUMBER	156.4	156.4				
+7	5	fb:cell_2014_jutaan_dolar.160_3	160.3	160.3	160.3	CD	NUMBER	160.3	160.3				
+7	6	fb:cell_perubahan_persentase_tahun_2011.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+7	7	fb:cell_perubahan_persentase_tahun_2012.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+7	8	fb:cell_perubahan_persentase_tahun_2013.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+7	9	fb:cell_perubahan_persentase_tahun_2014.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+8	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+8	1	fb:cell_2010_jutaan_dolar.145_3	145.3	145.3	145.3	CD	NUMBER	145.3	145.3				
+8	2	fb:cell_2011_jutaan_dolar.158_1	158.1	158.1	158.1	CD	NUMBER	158.1	158.1				
+8	3	fb:cell_2012_jutaan_dolar.173_7	173.7	173.7	173.7	CD	NUMBER	173.7	173.7				
+8	4	fb:cell_2013_jutaan_dolar.184_7	184.7	184.7	184.7	CD	NUMBER	184.7	184.7				
+8	5	fb:cell_2014_jutaan_dolar.191_3	191.3	191.3	191.3	CD	NUMBER	191.3	191.3				
+8	6	fb:cell_perubahan_persentase_tahun_2011.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+8	7	fb:cell_perubahan_persentase_tahun_2012.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+8	8	fb:cell_perubahan_persentase_tahun_2013.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+8	9	fb:cell_perubahan_persentase_tahun_2014.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+9	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+9	1	fb:cell_2010_jutaan_dolar.555_9	555.9	555.9	555.9	CD	NUMBER	555.9	555.9				
+9	2	fb:cell_2011_jutaan_dolar.622_8	622.8	622.8	622.8	CD	NUMBER	622.8	622.8				
+9	3	fb:cell_2012_jutaan_dolar.670_7	670.7	670.7	670.7	CD	NUMBER	670.7	670.7				
+9	4	fb:cell_2013_jutaan_dolar.716_4	716.4	716.4	716.4	CD	NUMBER	716.4	716.4				
+9	5	fb:cell_2014_jutaan_dolar.750_2	750.2	750.2	750.2	CD	NUMBER	750.2	750.2				
+9	6	fb:cell_perubahan_persentase_tahun_2011.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+9	7	fb:cell_perubahan_persentase_tahun_2012.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+9	8	fb:cell_perubahan_persentase_tahun_2013.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+9	9	fb:cell_perubahan_persentase_tahun_2014.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+10	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+10	1	fb:cell_2010_jutaan_dolar.921_0	921.0	921.0	921.0	CD	NUMBER	921.0	921.0				
+10	2	fb:cell_2011_jutaan_dolar.909_3	909.3	909.3	909.3	CD	NUMBER	909.3	909.3				
+10	3	fb:cell_2012_jutaan_dolar.910_7	910.7	910.7	910.7	CD	NUMBER	910.7	910.7				
+10	4	fb:cell_2013_jutaan_dolar.948_4	948.4	948.4	948.4	CD	NUMBER	948.4	948.4				
+10	5	fb:cell_2014_jutaan_dolar.973_5	973.5	973.5	973.5	CD	NUMBER	973.5	973.5				
+10	6	fb:cell_perubahan_persentase_tahun_2011._1_3	-1.3	-1.3	-1.3	CD	NUMBER	-1.3	1.3				
+10	7	fb:cell_perubahan_persentase_tahun_2012.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+10	8	fb:cell_perubahan_persentase_tahun_2013.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+10	9	fb:cell_perubahan_persentase_tahun_2014.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+11	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+11	1	fb:cell_2010_jutaan_dolar.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+11	2	fb:cell_2011_jutaan_dolar.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+11	3	fb:cell_2012_jutaan_dolar.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+11	4	fb:cell_2013_jutaan_dolar.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+11	5	fb:cell_2014_jutaan_dolar.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+11	6	fb:cell_perubahan_persentase_tahun_2011.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+11	7	fb:cell_perubahan_persentase_tahun_2012.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	8	fb:cell_perubahan_persentase_tahun_2013.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+11	9	fb:cell_perubahan_persentase_tahun_2014.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+12	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+12	1	fb:cell_2010_jutaan_dolar.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+12	2	fb:cell_2011_jutaan_dolar.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+12	3	fb:cell_2012_jutaan_dolar.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+12	4	fb:cell_2013_jutaan_dolar.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+12	5	fb:cell_2014_jutaan_dolar.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+12	6	fb:cell_perubahan_persentase_tahun_2011.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+12	7	fb:cell_perubahan_persentase_tahun_2012.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+12	8	fb:cell_perubahan_persentase_tahun_2013.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+12	9	fb:cell_perubahan_persentase_tahun_2014._2_6	-2.6	-2.6	-2.6	CD	NUMBER	-2.6	2.6				
+13	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+13	1	fb:cell_2010_jutaan_dolar.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+13	2	fb:cell_2011_jutaan_dolar.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+13	3	fb:cell_2012_jutaan_dolar.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+13	4	fb:cell_2013_jutaan_dolar.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+13	5	fb:cell_2014_jutaan_dolar.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+13	6	fb:cell_perubahan_persentase_tahun_2011.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+13	7	fb:cell_perubahan_persentase_tahun_2012.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+13	8	fb:cell_perubahan_persentase_tahun_2013.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+13	9	fb:cell_perubahan_persentase_tahun_2014.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				

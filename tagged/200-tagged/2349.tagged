@@ -1,0 +1,369 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016	perubahan rata-rata perubahan utang, 1999 ke 2016 konstan dolar 2016	perubahan|rata|rata|perubahan|utang|,|1999|ke|2016|konstan|dolar|2016	perubahan|rata|rata|perubahan|utang|,|1999|ke|2016|konstan|dolar|2016	NNP|JJ|JJ|NNP|NNP|,|CD|NNP|CD|NNP|NNP|CD	O|O|O|O|O|O|DATE|O|DATE|O|O|DATE	||||||1999||2016|||2016					
+-1	2	fb:row.row.perubahan_rata_rata_hutang_karena_persen_hutang_hipotek	perubahan rata-rata hutang karena persen hutang hipotek	perubahan|rata|rata|hutang|karena|persen|hutang|hipotek	perubahan|rata|rata|hutang|karena|persen|hutang|hipotek	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.perubahan_rata_rata_hutang_karena_persen_hutang_konsumen	perubahan rata-rata hutang karena persen hutang konsumen	perubahan|rata|rata|hutang|karena|persen|hutang|konsumen	perubahan|rata|rata|hutang|karena|persen|hutang|konsumen	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016	perubahan rata-rata perubahan aset, 1999 hingga 2016 konstan dolar 2016	perubahan|rata|rata|perubahan|aset|,|1999|hingga|2016|konstan|dolar|2016	perubahan|rata|rata|perubahan|aset|,|1999|hingga|2016|konstan|dolar|2016	NNP|JJ|JJ|NNP|NNP|,|CD|NNP|CD|NNP|NNP|CD	O|O|O|O|O|O|DATE|O|DATE|O|O|DATE	||||||1999||2016|||2016					
+-1	5	fb:row.row.perubahan_rata_rata_aset_karena_persentase_aset_real_estat	perubahan rata-rata aset karena persentase aset real estat	perubahan|rata|rata|aset|karena|persentase|aset|real|estat	perubahan|rata|rata|aset|karena|persentase|aset|real|estat	NNP|JJ|JJ|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O|O	||||||||					
+-1	6	fb:row.row.perubahan_rata_rata_aset_karena_persentase_aset_pensiun	perubahan rata-rata aset karena persentase aset pensiun	perubahan|rata|rata|aset|karena|persentase|aset|pensiun	perubahan|rata|rata|aset|karena|persentase|aset|pensiun	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	7	fb:row.row.perubahan_rata_rata_aset_karena_persentase_aset_lainnya	perubahan rata-rata aset karena persentase aset lainnya	perubahan|rata|rata|aset|karena|persentase|aset|lainnya	perubahan|rata|rata|aset|karena|persentase|aset|lainnya	NNP|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.keluarga_senior_dengan_hutang	keluarga senior dengan hutang	keluarga|senior|dengan|hutang	keluarga|senior|dengan|hutang	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.50000_0	50000.0	50000.0	50000.0	CD	NUMBER	50000.0	50000.0				
+0	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.67_2	67.2	67.2	67.2	CD	NUMBER	67.2	67.2				
+0	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.32_8	32.8	32.8	32.8	CD	NUMBER	32.8	32.8				
+0	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.500900_0	500900.0	500900.0	500900.0	CD	NUMBER	500900.0	500900.0				
+0	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.51_7	51.7	51.7	51.7	CD	NUMBER	51.7	51.7				
+0	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+0	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+1	0	fb:cell_kharakteristik.jenis_kelamin_pencari_nafkah_utama	jenis kelamin pencari nafkah utama	jenis|kelamin|pencari|nafkah|utama	jenis|kelamin|pencari|nafkah|utama	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+1	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+1	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+1	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+1	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+1	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+1	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+2	0	fb:cell_kharakteristik.jenis_kelamin_laki_laki_yang_berpenghasilan_utama	jenis kelamin laki-laki yang berpenghasilan utama	jenis|kelamin|laki|laki|yang|berpenghasilan|utama	jenis|kelamin|laki|laki|yang|berpenghasilan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON|PERSON|O	||||||					
+2	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.62700_0	62700.0	62700.0	62700.0	CD	NUMBER	62700.0	62700.0				
+2	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.69_5	69.5	69.5	69.5	CD	NUMBER	69.5	69.5				
+2	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.30_5	30.5	30.5	30.5	CD	NUMBER	30.5	30.5				
+2	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.567000_0	567000.0	567000.0	567000.0	CD	NUMBER	567000.0	567000.0				
+2	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+2	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+2	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+3	0	fb:cell_kharakteristik.jenis_kelamin_perempuan_yang_berpenghasilan_besar	jenis kelamin perempuan yang berpenghasilan besar	jenis|kelamin|perempuan|yang|berpenghasilan|besar	jenis|kelamin|perempuan|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.32400_0	32400.0	32400.0	32400.0	CD	NUMBER	32400.0	32400.0				
+3	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.60_2	60.2	60.2	60.2	CD	NUMBER	60.2	60.2				
+3	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.39_8	39.8	39.8	39.8	CD	NUMBER	39.8	39.8				
+3	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.426500_0	426500.0	426500.0	426500.0	CD	NUMBER	426500.0	426500.0				
+3	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.47_9	47.9	47.9	47.9	CD	NUMBER	47.9	47.9				
+3	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+3	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.30_2	30.2	30.2	30.2	CD	NUMBER	30.2	30.2				
+4	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama	usia pencari nafkah utama	usia|pencari|nafkah|utama	usia|pencari|nafkah|utama	NNP|NNP|NNP|NNP	ORGANIZATION|O|O|O	|||					
+4	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+4	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+4	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+4	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+4	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+4	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+4	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+5	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_65_hingga_69	usia pencari nafkah utama 65 hingga 69	usia|pencari|nafkah|utama|65|hingga|69	usia|pencari|nafkah|utama|65|hingga|69	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||65.0||69.0	65.0		69.0		
+5	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.45700_0	45700.0	45700.0	45700.0	CD	NUMBER	45700.0	45700.0				
+5	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.63_7	63.7	63.7	63.7	CD	NUMBER	63.7	63.7				
+5	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.36_3	36.3	36.3	36.3	CD	NUMBER	36.3	36.3				
+5	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.526200_0	526200.0	526200.0	526200.0	CD	NUMBER	526200.0	526200.0				
+5	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.49_4	49.4	49.4	49.4	CD	NUMBER	49.4	49.4				
+5	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+5	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.39_8	39.8	39.8	39.8	CD	NUMBER	39.8	39.8				
+6	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_70_hingga_74	usia pencari nafkah utama 70 hingga 74	usia|pencari|nafkah|utama|70|hingga|74	usia|pencari|nafkah|utama|70|hingga|74	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||70.0||74.0	70.0		74.0		
+6	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.64700_0	64700.0	64700.0	64700.0	CD	NUMBER	64700.0	64700.0				
+6	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+6	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.31_9	31.9	31.9	31.9	CD	NUMBER	31.9	31.9				
+6	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.590600_0	590600.0	590600.0	590600.0	CD	NUMBER	590600.0	590600.0				
+6	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+6	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+6	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+7	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_75_hingga_79	usia pencari nafkah utama 75 hingga 79	usia|pencari|nafkah|utama|75|hingga|79	usia|pencari|nafkah|utama|75|hingga|79	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||75.0||79.0	75.0		79.0		
+7	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.52300_0	52300.0	52300.0	52300.0	CD	NUMBER	52300.0	52300.0				
+7	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+7	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				
+7	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.394800_0	394800.0	394800.0	394800.0	CD	NUMBER	394800.0	394800.0				
+7	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+7	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+7	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.24_2	24.2	24.2	24.2	CD	NUMBER	24.2	24.2				
+8	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_80_tahun_ke_atas	usia pencari nafkah utama 80 tahun ke atas	usia|pencari|nafkah|utama|80|tahun|ke|atas	usia|pencari|nafkah|utama|80|tahun|ke|atas	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	ORGANIZATION|O|O|O|NUMBER|O|O|O	||||80.0|||	80.0				
+8	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.33100_0	33100.0	33100.0	33100.0	CD	NUMBER	33100.0	33100.0				
+8	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.68_2	68.2	68.2	68.2	CD	NUMBER	68.2	68.2				
+8	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.31_8	31.8	31.8	31.8	CD	NUMBER	31.8	31.8				
+8	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.404500_0	404500.0	404500.0	404500.0	CD	NUMBER	404500.0	404500.0				
+8	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.64_3	64.3	64.3	64.3	CD	NUMBER	64.3	64.3				
+8	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+8	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.28_2	28.2	28.2	28.2	CD	NUMBER	28.2	28.2				
+9	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_dari_mereka_yang_berpenghasilan_besar	tingkat pendidikan tertinggi dari mereka yang berpenghasilan besar	tingkat|pendidikan|tertinggi|dari|mereka|yang|berpenghasilan|besar	tingkat|pendidikan|tertinggi|dari|mereka|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+9	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+9	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+9	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+9	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+9	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+9	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+9	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+10	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_dari_mereka_yang_berpenghasilan_utama_kurang_dari_sekolah_menengah_atas	tingkat pendidikan tertinggi dari mereka yang berpenghasilan utama kurang dari sekolah menengah atas	tingkat|pendidikan|tertinggi|dari|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	tingkat|pendidikan|tertinggi|dari|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+10	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.40900_0	40900.0	40900.0	40900.0	CD	NUMBER	40900.0	40900.0				
+10	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.72_4	72.4	72.4	72.4	CD	NUMBER	72.4	72.4				
+10	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.27_6	27.6	27.6	27.6	CD	NUMBER	27.6	27.6				
+10	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.265400_0	265400.0	265400.0	265400.0	CD	NUMBER	265400.0	265400.0				
+10	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+10	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+10	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.33_5	33.5	33.5	33.5	CD	NUMBER	33.5	33.5				
+11	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_ijazah_sekolah_menengah_atas_yang_berpenghasilan_utama	tingkat pendidikan tertinggi ijazah sekolah menengah atas yang berpenghasilan utama	tingkat|pendidikan|tertinggi|ijazah|sekolah|menengah|atas|yang|berpenghasilan|utama	tingkat|pendidikan|tertinggi|ijazah|sekolah|menengah|atas|yang|berpenghasilan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+11	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.31400_0	31400.0	31400.0	31400.0	CD	NUMBER	31400.0	31400.0				
+11	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+11	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+11	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.294000_0	294000.0	294000.0	294000.0	CD	NUMBER	294000.0	294000.0				
+11	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+11	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun._14_4	-14.4	-14.4	-14.4	CD	NUMBER	-14.4	14.4				
+11	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.58_4	58.4	58.4	58.4	CD	NUMBER	58.4	58.4				
+12	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama_sertifikat_atau_diploma_pasca_sekolah_menengah_non_universitas	tingkat pendidikan tertinggi bagi pencari nafkah utama, sertifikat atau diploma pasca sekolah menengah non-universitas	tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama|,|sertifikat|atau|diploma|pasca|sekolah|menengah|non|universitas	tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama|,|sertifikat|atau|diploma|pasca|sekolah|menengah|non|universita	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NN|NNP|NNP|NNP|JJ|NNS	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||				tingkat pendidikan tertinggi bagi pencari nafkah utama|sertifikat atau diploma pasca sekolah menengah non-universitas	fb:part_kharakteristik.tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama|fb:part_kharakteristik.sertifikat_atau_diploma_pasca_sekolah_menengah_non_universitas
+12	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.39100_0	39100.0	39100.0	39100.0	CD	NUMBER	39100.0	39100.0				
+12	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.59_3	59.3	59.3	59.3	CD	NUMBER	59.3	59.3				
+12	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.40_7	40.7	40.7	40.7	CD	NUMBER	40.7	40.7				
+12	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.396700_0	396700.0	396700.0	396700.0	CD	NUMBER	396700.0	396700.0				
+12	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.54_3	54.3	54.3	54.3	CD	NUMBER	54.3	54.3				
+12	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.20_3	20.3	20.3	20.3	CD	NUMBER	20.3	20.3				
+12	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.25_4	25.4	25.4	25.4	CD	NUMBER	25.4	25.4				
+13	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_dari_gelar_atau_sertifikat_universitas_yang_menghasilkan_pendapatan_utama	tingkat pendidikan tertinggi dari gelar atau sertifikat universitas yang menghasilkan pendapatan utama	tingkat|pendidikan|tertinggi|dari|gelar|atau|sertifikat|universitas|yang|menghasilkan|pendapatan|utama	tingkat|pendidikan|tertinggi|dari|gelar|atau|sertifikat|universitas|yang|menghasilkan|pendapatan|utama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+13	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.66200_0	66200.0	66200.0	66200.0	CD	NUMBER	66200.0	66200.0				
+13	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.67_2	67.2	67.2	67.2	CD	NUMBER	67.2	67.2				
+13	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.32_8	32.8	32.8	32.8	CD	NUMBER	32.8	32.8				
+13	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.771700_0	771700.0	771700.0	771700.0	CD	NUMBER	771700.0	771700.0				
+13	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+13	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+13	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+14	0	fb:cell_kharakteristik.struktur_keluarga	struktur keluarga	struktur|keluarga	struktur|keluarga	NN|NN	O|O	|					
+14	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+14	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+14	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+14	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+14	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+14	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+14	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+15	0	fb:cell_kharakteristik.struktur_keluarga_individu_yang_tidak_terikat	struktur keluarga individu yang tidak terikat	struktur|keluarga|individu|yang|tidak|terikat	struktur|keluarga|individu|yang|tidak|terikat	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.25500_0	25500.0	25500.0	25500.0	CD	NUMBER	25500.0	25500.0				
+15	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.63_4	63.4	63.4	63.4	CD	NUMBER	63.4	63.4				
+15	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.36_6	36.6	36.6	36.6	CD	NUMBER	36.6	36.6				
+15	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.270700_0	270700.0	270700.0	270700.0	CD	NUMBER	270700.0	270700.0				
+15	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.47_2	47.2	47.2	47.2	CD	NUMBER	47.2	47.2				
+15	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.22_7	22.7	22.7	22.7	CD	NUMBER	22.7	22.7				
+15	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.30_1	30.1	30.1	30.1	CD	NUMBER	30.1	30.1				
+16	0	fb:cell_kharakteristik.struktur_keluarga_individu_laki_laki_yang_tidak_terikat	struktur keluarga individu laki-laki yang tidak terikat	struktur|keluarga|individu|laki|laki|yang|tidak|terikat	struktur|keluarga|individu|laki|laki|yang|tidak|terikat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+16	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.20000_0	20000.0	20000.0	20000.0	CD	NUMBER	20000.0	20000.0				
+16	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.69_2	69.2	69.2	69.2	CD	NUMBER	69.2	69.2				
+16	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.30_8	30.8	30.8	30.8	CD	NUMBER	30.8	30.8				
+16	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.274300_0	274300.0	274300.0	274300.0	CD	NUMBER	274300.0	274300.0				
+16	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.48_7	48.7	48.7	48.7	CD	NUMBER	48.7	48.7				
+16	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+16	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.31_7	31.7	31.7	31.7	CD	NUMBER	31.7	31.7				
+17	0	fb:cell_kharakteristik.struktur_keluarga_individu_perempuan_yang_tidak_terikat	struktur keluarga individu perempuan yang tidak terikat	struktur|keluarga|individu|perempuan|yang|tidak|terikat	struktur|keluarga|individu|perempuan|yang|tidak|terikat	NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+17	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.27100_0	27100.0	27100.0	27100.0	CD	NUMBER	27100.0	27100.0				
+17	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.62_3	62.3	62.3	62.3	CD	NUMBER	62.3	62.3				
+17	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.37_7	37.7	37.7	37.7	CD	NUMBER	37.7	37.7				
+17	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.257800_0	257800.0	257800.0	257800.0	CD	NUMBER	257800.0	257800.0				
+17	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.47_3	47.3	47.3	47.3	CD	NUMBER	47.3	47.3				
+17	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.24_2	24.2	24.2	24.2	CD	NUMBER	24.2	24.2				
+17	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+18	0	fb:cell_kharakteristik.struktur_keluarga_pasangan_tidak_ada_anak	struktur keluarga pasangan, tidak ada anak	struktur|keluarga|pasangan|,|tidak|ada|anak	struktur|keluarga|pasangan|,|tidak|ada|anak	NNP|NNP|NNP|,|NNP|NN|NN	O|O|O|O|O|O|O	||||||				struktur keluarga pasangan|tidak ada anak	fb:part_kharakteristik.struktur_keluarga_pasangan|fb:part_kharakteristik.tidak_ada_anak
+18	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.56500_0	56500.0	56500.0	56500.0	CD	NUMBER	56500.0	56500.0				
+18	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.62_8	62.8	62.8	62.8	CD	NUMBER	62.8	62.8				
+18	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.37_2	37.2	37.2	37.2	CD	NUMBER	37.2	37.2				
+18	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.581600_0	581600.0	581600.0	581600.0	CD	NUMBER	581600.0	581600.0				
+18	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.55_2	55.2	55.2	55.2	CD	NUMBER	55.2	55.2				
+18	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+18	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.33_2	33.2	33.2	33.2	CD	NUMBER	33.2	33.2				
+19	0	fb:cell_kharakteristik.struktur_keluarga_tipe_keluarga_lainnya	struktur keluarga tipe keluarga lainnya	struktur|keluarga|tipe|keluarga|lainnya	struktur|keluarga|tipe|keluarga|lainnya	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+19	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.102800_0	102800.0	102800.0	102800.0	CD	NUMBER	102800.0	102800.0				
+19	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+19	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+19	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.849800_0	849800.0	849800.0	849800.0	CD	NUMBER	849800.0	849800.0				
+19	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.48_2	48.2	48.2	48.2	CD	NUMBER	48.2	48.2				
+19	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+19	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.45_1	45.1	45.1	45.1	CD	NUMBER	45.1	45.1				
+20	0	fb:cell_kharakteristik.status_imigran_yang_berpenghasilan_besar	status imigran yang berpenghasilan besar	status|imigran|yang|berpenghasilan|besar	status|imigran|yang|berpenghasilan|besar	NN|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+20	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+20	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+20	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+20	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+20	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+20	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+21	0	fb:cell_kharakteristik.status_imigran_dari_imigran_yang_berpenghasilan_besar	status imigran dari imigran yang berpenghasilan besar	status|imigran|dari|imigran|yang|berpenghasilan|besar	status|imigran|dari|imigran|yang|berpenghasilan|besar	NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+21	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.55700_0	55700.0	55700.0	55700.0	CD	NUMBER	55700.0	55700.0				
+21	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+21	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.34_1	34.1	34.1	34.1	CD	NUMBER	34.1	34.1				
+21	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.585600_0	585600.0	585600.0	585600.0	CD	NUMBER	585600.0	585600.0				
+21	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.64_4	64.4	64.4	64.4	CD	NUMBER	64.4	64.4				
+21	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+21	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.29_9	29.9	29.9	29.9	CD	NUMBER	29.9	29.9				
+22	0	fb:cell_kharakteristik.status_imigran_pencari_nafkah_utama_kelahiran_kanada	status imigran pencari nafkah utama kelahiran Kanada	status|imigran|pencari|nafkah|utama|kelahiran|kanada	status|imigran|pencari|nafkah|utama|kelahiran|Kanada	NN|NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O|O	||||||					
+22	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.47500_0	47500.0	47500.0	47500.0	CD	NUMBER	47500.0	47500.0				
+22	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.67_3	67.3	67.3	67.3	CD	NUMBER	67.3	67.3				
+22	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.32_7	32.7	32.7	32.7	CD	NUMBER	32.7	32.7				
+22	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.472300_0	472300.0	472300.0	472300.0	CD	NUMBER	472300.0	472300.0				
+22	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+22	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+22	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.38_2	38.2	38.2	38.2	CD	NUMBER	38.2	38.2				
+23	0	fb:cell_kharakteristik.status_kepemilikan_rumah	status kepemilikan rumah	status|kepemilikan|rumah	status|kepemilikan|rumah	NN|NN|NN	O|O|O	||					
+23	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+23	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+23	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+23	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+23	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+23	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+23	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+24	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dengan_hipotek	pemilik status kepemilikan rumah dengan hipotek	pemilik|status|kepemilikan|rumah|dengan|hipotek	pemilik|status|kepemilikan|rumah|dengan|hipotek	NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+24	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.86100_0	86100.0	86100.0	86100.0	CD	NUMBER	86100.0	86100.0				
+24	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+24	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+24	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.447800_0	447800.0	447800.0	447800.0	CD	NUMBER	447800.0	447800.0				
+24	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.65_2	65.2	65.2	65.2	CD	NUMBER	65.2	65.2				
+24	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+24	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.28_2	28.2	28.2	28.2	CD	NUMBER	28.2	28.2				
+25	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_tanpa_hipotek	pemilik status kepemilikan rumah tanpa hipotek	pemilik|status|kepemilikan|rumah|tanpa|hipotek	pemilik|status|kepemilikan|rumah|tanpa|hipotek	NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+25	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.46700_0	46700.0	46700.0	46700.0	CD	NUMBER	46700.0	46700.0				
+25	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.51_8	51.8	51.8	51.8	CD	NUMBER	51.8	51.8				
+25	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.48_2	48.2	48.2	48.2	CD	NUMBER	48.2	48.2				
+25	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.748800_0	748800.0	748800.0	748800.0	CD	NUMBER	748800.0	748800.0				
+25	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.48_5	48.5	48.5	48.5	CD	NUMBER	48.5	48.5				
+25	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+25	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.39_9	39.9	39.9	39.9	CD	NUMBER	39.9	39.9				
+26	0	fb:cell_kharakteristik.status_kepemilikan_rumah_bukan_pemilik	status kepemilikan rumah bukan pemilik	status|kepemilikan|rumah|bukan|pemilik	status|kepemilikan|rumah|bukan|pemilik	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+26	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+26	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+26	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+26	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.41200_0	41200.0	41200.0	41200.0	CD	NUMBER	41200.0	41200.0				
+26	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat._12_6	-12.6	-12.6	-12.6	CD	NUMBER	-12.6	12.6				
+26	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.80_8	80.8	80.8	80.8	CD	NUMBER	80.8	80.8				
+26	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.31_7	31.7	31.7	31.7	CD	NUMBER	31.7	31.7				
+27	0	fb:cell_kharakteristik.status_angkatan_kerja_yang_berpenghasilan_besar	status angkatan kerja yang berpenghasilan besar	status|angkatan|kerja|yang|berpenghasilan|besar	status|angkatan|kerja|yang|berpenghasilan|besar	NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+27	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+27	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+27	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+27	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+27	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+27	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+27	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+28	0	fb:cell_kharakteristik.status_angkatan_kerja_dari_pekerja_yang_berpenghasilan_besar	status angkatan kerja dari pekerja yang berpenghasilan besar	status|angkatan|kerja|dari|pekerja|yang|berpenghasilan|besar	status|angkatan|kerja|dari|pekerja|yang|berpenghasilan|besar	NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+28	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.90500_0	90500.0	90500.0	90500.0	CD	NUMBER	90500.0	90500.0				
+28	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.69_7	69.7	69.7	69.7	CD	NUMBER	69.7	69.7				
+28	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.30_3	30.3	30.3	30.3	CD	NUMBER	30.3	30.3				
+28	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.592200_0	592200.0	592200.0	592200.0	CD	NUMBER	592200.0	592200.0				
+28	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.48_7	48.7	48.7	48.7	CD	NUMBER	48.7	48.7				
+28	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+28	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.36_4	36.4	36.4	36.4	CD	NUMBER	36.4	36.4				
+29	0	fb:cell_kharakteristik.status_angkatan_kerja_dari_pencari_nafkah_utama_yang_berwiraswasta	status angkatan kerja dari pencari nafkah utama yang berwiraswasta	status|angkatan|kerja|dari|pencari|nafkah|utama|yang|berwiraswasta	status|angkatan|kerja|dari|pencari|nafkah|utama|yang|berwiraswasta	NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|PERSON|PERSON	||||||||					
+29	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.118000_0	118000.0	118000.0	118000.0	CD	NUMBER	118000.0	118000.0				
+29	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.80_7	80.7	80.7	80.7	CD	NUMBER	80.7	80.7				
+29	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+29	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.985200_0	985200.0	985200.0	985200.0	CD	NUMBER	985200.0	985200.0				
+29	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.47_8	47.8	47.8	47.8	CD	NUMBER	47.8	47.8				
+29	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+29	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.47_1	47.1	47.1	47.1	CD	NUMBER	47.1	47.1				
+30	0	fb:cell_kharakteristik.status_angkatan_kerja_yang_mempunyai_pendapatan_utama_dan_bukan_angkatan_kerja	status angkatan kerja yang mempunyai pendapatan utama dan bukan angkatan kerja	status|angkatan|kerja|yang|mempunyai|pendapatan|utama|dan|bukan|angkatan|kerja	status|angkatan|kerja|yang|mempunyai|pendapatan|utama|dan|bukan|angkatan|kerja	NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+30	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.29400_0	29400.0	29400.0	29400.0	CD	NUMBER	29400.0	29400.0				
+30	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.57_5	57.5	57.5	57.5	CD	NUMBER	57.5	57.5				
+30	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.42_5	42.5	42.5	42.5	CD	NUMBER	42.5	42.5				
+30	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.376700_0	376700.0	376700.0	376700.0	CD	NUMBER	376700.0	376700.0				
+30	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.55_2	55.2	55.2	55.2	CD	NUMBER	55.2	55.2				
+30	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+30	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.28_5	28.5	28.5	28.5	CD	NUMBER	28.5	28.5				
+31	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga	kuintil pendapatan keluarga	kuintil|pendapatan|keluarga	kuintil|pendapatan|keluarga	NNP|NNP|NNP	O|O|O	||					
+31	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+31	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+31	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+31	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+31	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+31	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+31	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+32	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_kuintil_terbawah	kuintil pendapatan keluarga kuintil terbawah	kuintil|pendapatan|keluarga|kuintil|terbawah	kuintil|pendapatan|keluarga|kuintil|terbawah	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+32	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.20700_0	20700.0	20700.0	20700.0	CD	NUMBER	20700.0	20700.0				
+32	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.63_9	63.9	63.9	63.9	CD	NUMBER	63.9	63.9				
+32	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.36_1	36.1	36.1	36.1	CD	NUMBER	36.1	36.1				
+32	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.75900_0	75900.0	75900.0	75900.0	CD	NUMBER	75900.0	75900.0				
+32	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.103_8	103.8	103.8	103.8	CD	NUMBER	103.8	103.8				
+32	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+32	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya._9_8	-9.8	-9.8	-9.8	CD	NUMBER	-9.8	9.8				
+33	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_kuintil_kedua	kuintil pendapatan keluarga kuintil kedua	kuintil|pendapatan|keluarga|kuintil|kedua	kuintil|pendapatan|keluarga|kuintil|kedua	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+33	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.29800_0	29800.0	29800.0	29800.0	CD	NUMBER	29800.0	29800.0				
+33	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.71_1	71.1	71.1	71.1	CD	NUMBER	71.1	71.1				
+33	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+33	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.244800_0	244800.0	244800.0	244800.0	CD	NUMBER	244800.0	244800.0				
+33	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.69_7	69.7	69.7	69.7	CD	NUMBER	69.7	69.7				
+33	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+33	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.18_5	18.5	18.5	18.5	CD	NUMBER	18.5	18.5				
+34	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_kuintil_menengah	kuintil pendapatan keluarga kuintil menengah	kuintil|pendapatan|keluarga|kuintil|menengah	kuintil|pendapatan|keluarga|kuintil|menengah	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+34	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.31100_0	31100.0	31100.0	31100.0	CD	NUMBER	31100.0	31100.0				
+34	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.56_2	56.2	56.2	56.2	CD	NUMBER	56.2	56.2				
+34	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+34	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.388400_0	388400.0	388400.0	388400.0	CD	NUMBER	388400.0	388400.0				
+34	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+34	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.23_3	23.3	23.3	23.3	CD	NUMBER	23.3	23.3				
+34	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.34_7	34.7	34.7	34.7	CD	NUMBER	34.7	34.7				
+35	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_kuintil_keempat	kuintil pendapatan keluarga kuintil keempat	kuintil|pendapatan|keluarga|kuintil|keempat	kuintil|pendapatan|keluarga|kuintil|keempat	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+35	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.42400_0	42400.0	42400.0	42400.0	CD	NUMBER	42400.0	42400.0				
+35	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.50_7	50.7	50.7	50.7	CD	NUMBER	50.7	50.7				
+35	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.49_3	49.3	49.3	49.3	CD	NUMBER	49.3	49.3				
+35	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.554100_0	554100.0	554100.0	554100.0	CD	NUMBER	554100.0	554100.0				
+35	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+35	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+35	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+36	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_kuintil_teratas	kuintil pendapatan keluarga kuintil teratas	kuintil|pendapatan|keluarga|kuintil|teratas	kuintil|pendapatan|keluarga|kuintil|teratas	NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O	||||					
+36	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.126500_0	126500.0	126500.0	126500.0	CD	NUMBER	126500.0	126500.0				
+36	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.75_2	75.2	75.2	75.2	CD	NUMBER	75.2	75.2				
+36	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+36	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.1247200_0	1247200.0	1247200.0	1247200.0	CD	NUMBER	1247200.0	1247200.0				
+36	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.47_6	47.6	47.6	47.6	CD	NUMBER	47.6	47.6				
+36	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+36	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.42_6	42.6	42.6	42.6	CD	NUMBER	42.6	42.6				
+37	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal	provinsi atau wilayah tempat tinggal	provinsi|atau|wilayah|tempat|tinggal	provinsi|atau|wilayah|tempat|tinggal	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+37	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.null											
+37	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.null											
+37	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.null											
+37	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.null											
+37	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.null											
+37	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.null											
+37	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.null											
+38	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_atlantik	provinsi atau wilayah tempat tinggal Atlantik	provinsi|atau|wilayah|tempat|tinggal|atlantik	provinsi|atau|wilayah|tempat|tinggal|Atlantik	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+38	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.29200_0	29200.0	29200.0	29200.0	CD	NUMBER	29200.0	29200.0				
+38	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.55_8	55.8	55.8	55.8	CD	NUMBER	55.8	55.8				
+38	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.44_2	44.2	44.2	44.2	CD	NUMBER	44.2	44.2				
+38	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.293100_0	293100.0	293100.0	293100.0	CD	NUMBER	293100.0	293100.0				
+38	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.35_2	35.2	35.2	35.2	CD	NUMBER	35.2	35.2				
+38	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.31_6	31.6	31.6	31.6	CD	NUMBER	31.6	31.6				
+38	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.33_2	33.2	33.2	33.2	CD	NUMBER	33.2	33.2				
+39	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_quebec	provinsi atau wilayah tempat tinggal quebec	provinsi|atau|wilayah|tempat|tinggal|quebec	provinsi|atau|wilayah|tempat|tinggal|quebec	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+39	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.26100_0	26100.0	26100.0	26100.0	CD	NUMBER	26100.0	26100.0				
+39	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.67_1	67.1	67.1	67.1	CD	NUMBER	67.1	67.1				
+39	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.32_9	32.9	32.9	32.9	CD	NUMBER	32.9	32.9				
+39	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.252000_0	252000.0	252000.0	252000.0	CD	NUMBER	252000.0	252000.0				
+39	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.49_8	49.8	49.8	49.8	CD	NUMBER	49.8	49.8				
+39	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.14_7	14.7	14.7	14.7	CD	NUMBER	14.7	14.7				
+39	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.35_5	35.5	35.5	35.5	CD	NUMBER	35.5	35.5				
+40	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_ontario	provinsi atau wilayah tempat tinggal ontario	provinsi|atau|wilayah|tempat|tinggal|ontario	provinsi|atau|wilayah|tempat|tinggal|ontario	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+40	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.39500_0	39500.0	39500.0	39500.0	CD	NUMBER	39500.0	39500.0				
+40	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.56_8	56.8	56.8	56.8	CD	NUMBER	56.8	56.8				
+40	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.43_2	43.2	43.2	43.2	CD	NUMBER	43.2	43.2				
+40	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.578100_0	578100.0	578100.0	578100.0	CD	NUMBER	578100.0	578100.0				
+40	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+40	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+40	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.42_1	42.1	42.1	42.1	CD	NUMBER	42.1	42.1				
+41	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_manitoba	provinsi atau wilayah tempat tinggal manitoba	provinsi|atau|wilayah|tempat|tinggal|manitoba	provinsi|atau|wilayah|tempat|tinggal|manitoba	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+41	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.48700_0	48700.0	48700.0	48700.0	CD	NUMBER	48700.0	48700.0				
+41	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.78_8	78.8	78.8	78.8	CD	NUMBER	78.8	78.8				
+41	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+41	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.503500_0	503500.0	503500.0	503500.0	CD	NUMBER	503500.0	503500.0				
+41	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+41	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+41	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.34_5	34.5	34.5	34.5	CD	NUMBER	34.5	34.5				
+42	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_saskatchewan	provinsi atau wilayah tempat tinggal saskatchewan	provinsi|atau|wilayah|tempat|tinggal|saskatchewan	provinsi|atau|wilayah|tempat|tinggal|saskatchewan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+42	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.47400_0	47400.0	47400.0	47400.0	CD	NUMBER	47400.0	47400.0				
+42	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.85_5	85.5	85.5	85.5	CD	NUMBER	85.5	85.5				
+42	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+42	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.597800_0	597800.0	597800.0	597800.0	CD	NUMBER	597800.0	597800.0				
+42	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+42	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+42	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+43	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_alberta	provinsi atau wilayah tempat tinggal alberta	provinsi|atau|wilayah|tempat|tinggal|alberta	provinsi|atau|wilayah|tempat|tinggal|alberta	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+43	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.152500_0	152500.0	152500.0	152500.0	CD	NUMBER	152500.0	152500.0				
+43	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+43	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.22_6	22.6	22.6	22.6	CD	NUMBER	22.6	22.6				
+43	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.935500_0	935500.0	935500.0	935500.0	CD	NUMBER	935500.0	935500.0				
+43	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.52_1	52.1	52.1	52.1	CD	NUMBER	52.1	52.1				
+43	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+43	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.37_3	37.3	37.3	37.3	CD	NUMBER	37.3	37.3				
+44	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_british_columbia	provinsi atau wilayah tempat tinggal British Columbia	provinsi|atau|wilayah|tempat|tinggal|british|columbia	provinsi|atau|wilayah|tempat|tinggal|British|Columbia	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|MISC|O	||||||					
+44	1	fb:cell_perubahan_rata_rata_perubahan_utang_1999_ke_2016_konstan_dolar_2016.64400_0	64400.0	64400.0	64400.0	CD	NUMBER	64400.0	64400.0				
+44	2	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_hipotek.66_2	66.2	66.2	66.2	CD	NUMBER	66.2	66.2				
+44	3	fb:cell_perubahan_rata_rata_hutang_karena_persen_hutang_konsumen.33_8	33.8	33.8	33.8	CD	NUMBER	33.8	33.8				
+44	4	fb:cell_perubahan_rata_rata_perubahan_aset_1999_hingga_2016_konstan_dolar_2016.555500_0	555500.0	555500.0	555500.0	CD	NUMBER	555500.0	555500.0				
+44	5	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_real_estat.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+44	6	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_pensiun.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+44	7	fb:cell_perubahan_rata_rata_aset_karena_persentase_aset_lainnya.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				

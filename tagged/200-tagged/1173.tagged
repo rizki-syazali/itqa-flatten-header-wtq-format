@@ -1,0 +1,222 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_tahanan_tahanan_yang_dijatuhi_hukuman	nomor tahanan tahanan yang dijatuhi hukuman	nomor|tahanan|tahanan|yang|dijatuhi|hukuman	nomor|tahanan|tahanan|yang|dijatuhi|hukuman	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.nomor_sisa_tahanan	nomor sisa tahanan	nomor|sisa|tahanan	nomor|sisa|tahanan	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.nomor_hak_asuh_sementara_lainnya	nomor hak asuh sementara lainnya	nomor|hak|asuh|sementara|lainnya	nomor|hak|asuh|sementara|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	4	fb:row.row.jumlah_total_tahanan	jumlah total tahanan	jumlah|total|tahanan	jumlah|total|tahanan	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen	persen perubahan hak asuh dari tahun 2016/2017 persen	persen|perubahan|hak|asuh|dari|tahun|2016/2017|persen	persen|perubahan|hak|asuh|dari|tahun|2016/2017|persen	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|O|O|O|NUMBER|O	|||||||					
+-1	6	fb:row.row.nomor_percobaan_pengawasan_masyarakat	nomor percobaan pengawasan masyarakat	nomor|percobaan|pengawasan|masyarakat	nomor|percobaan|pengawasan|masyarakat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	7	fb:row.row.nomor_kalimat_bersyarat_pengawasan_masyarakat	nomor kalimat bersyarat pengawasan masyarakat	nomor|kalimat|bersyarat|pengawasan|masyarakat	nomor|kalimat|bersyarat|pengawasan|masyarakat	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	8	fb:row.row.pengawasan_masyarakat_nomor_lainnya	pengawasan masyarakat nomor lainnya	pengawasan|masyarakat|nomor|lainnya	pengawasan|masyarakat|nomor|lainnya	NN|NN|NN|NN	O|O|O|O	|||					
+-1	9	fb:row.row.jumlah_total_pengawasan_masyarakat	jumlah total pengawasan masyarakat	jumlah|total|pengawasan|masyarakat	jumlah|total|pengawasan|masyarakat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	10	fb:row.row.pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen	pengawasan masyarakat total persen perubahan dari tahun 2016/2017 persen	pengawasan|masyarakat|total|persen|perubahan|dari|tahun|2016/2017|persen	pengawasan|masyarakat|total|persen|perubahan|dari|tahun|2016/2017|persen	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|O|O|O|O|NUMBER|O	||||||||					
+-1	11	fb:row.row.total_layanan_pemasyarakatan_jumlah_total	total layanan pemasyarakatan jumlah total	total|layanan|pemasyarakatan|jumlah|total	total|layanan|pemasyarakatan|jumlah|total	JJ|JJ|NN|NN|NN	O|O|O|O|O	||||					
+-1	12	fb:row.row.total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen	total pelayanan pemasyarakatan total persen perubahan dari tahun 2016/2017 persen	total|pelayanan|pemasyarakatan|total|persen|perubahan|dari|tahun|2016/2017|persen	total|pelayanan|pemasyarakatan|total|persen|perubahan|dari|tahun|2016/2017|persen	JJ|NN|NN|JJ|JJ|NN|NNP|NNP|CD|NNP	O|O|O|O|O|O|O|O|NUMBER|O	|||||||||					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.938	938	938	938	CD	NUMBER	938.0	938.0				
+0	2	fb:cell_nomor_sisa_tahanan.891_0	891.0	891.0	891.0	CD	NUMBER	891.0	891.0				
+0	3	fb:cell_nomor_hak_asuh_sementara_lainnya.102	102	102	102	CD	NUMBER	102.0	102.0				
+0	4	fb:cell_jumlah_total_tahanan.1931	1931	1931	1931	CD	DATE	1931	1931.0	1931-xx-xx			
+0	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+0	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.1367_0	1367.0	1367.0	1367.0	CD	NUMBER	1367.0	1367.0				
+0	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.387_0	387.0	387.0	387.0	CD	NUMBER	387.0	387.0				
+0	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+0	9	fb:cell_jumlah_total_pengawasan_masyarakat.1754	1754	1754	1754	CD	DATE	1754	1754.0	1754-xx-xx			
+0	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.3	3	3	3	CD	NUMBER	3.0	3.0				
+0	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.3685	3685	3685	3685	CD	NUMBER	3685.0	3685.0	3685-xx-xx			
+0	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.481	481	481	481	CD	NUMBER	481.0	481.0				
+1	2	fb:cell_nomor_sisa_tahanan.196_0	196.0	196.0	196.0	CD	NUMBER	196.0	196.0				
+1	3	fb:cell_nomor_hak_asuh_sementara_lainnya.3	3	3	3	CD	NUMBER	3.0	3.0				
+1	4	fb:cell_jumlah_total_tahanan.680	680	680	680	CD	NUMBER	680.0	680.0				
+1	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+1	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.752_0	752.0	752.0	752.0	CD	NUMBER	752.0	752.0				
+1	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+1	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.147	147	147	147	CD	NUMBER	147.0	147.0				
+1	9	fb:cell_jumlah_total_pengawasan_masyarakat.918	918	918	918	CD	NUMBER	918.0	918.0				
+1	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.3	3	3	3	CD	NUMBER	3.0	3.0				
+1	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.1598	1598	1598	1598	CD	DATE	1598	1598.0	1598-xx-xx			
+1	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.1586	1586	1586	1586	CD	DATE	1586	1586.0	1586-xx-xx			
+2	2	fb:cell_nomor_sisa_tahanan.3034_0	3034.0	3034.0	3034.0	CD	NUMBER	3034.0	3034.0				
+2	3	fb:cell_nomor_hak_asuh_sementara_lainnya.192	192	192	192	CD	NUMBER	192.0	192.0				
+2	4	fb:cell_jumlah_total_tahanan.4812	4812	4812	4812	CD	NUMBER	4812.0	4812.0	4812-xx-xx			
+2	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+2	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.2598_0	2598.0	2598.0	2598.0	CD	NUMBER	2598.0	2598.0				
+2	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.647_0	647.0	647.0	647.0	CD	NUMBER	647.0	647.0				
+2	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.1180	1180	1180	1180	CD	DATE	1180	1180.0	1180-xx-xx			
+2	9	fb:cell_jumlah_total_pengawasan_masyarakat.4425	4425	4425	4425	CD	NUMBER	4425.0	4425.0	4425-xx-xx			
+2	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+2	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.9237	9237	9237	9237	CD	NUMBER	9237.0	9237.0	9237-xx-xx			
+2	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.2464	2464	2464	2464	CD	DATE	2464	2464.0	2464-xx-xx			
+3	2	fb:cell_nomor_sisa_tahanan.2350_0	2350.0	2350.0	2350.0	CD	NUMBER	2350.0	2350.0				
+3	3	fb:cell_nomor_hak_asuh_sementara_lainnya.676	676	676	676	CD	NUMBER	676.0	676.0				
+3	4	fb:cell_jumlah_total_tahanan.5490	5490	5490	5490	CD	NUMBER	5490.0	5490.0	5490-xx-xx			
+3	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+3	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.1524_0	1524.0	1524.0	1524.0	CD	NUMBER	1524.0	1524.0				
+3	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.486_0	486.0	486.0	486.0	CD	NUMBER	486.0	486.0				
+3	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.173	173	173	173	CD	NUMBER	173.0	173.0				
+3	9	fb:cell_jumlah_total_pengawasan_masyarakat.2183	2183	2183	2183	CD	DATE	2183	2183.0	2183-xx-xx			
+3	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+3	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.7673	7673	7673	7673	CD	NUMBER	7673.0	7673.0	7673-xx-xx			
+3	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.12682	12682	12682	12682	CD	NUMBER	12682.0	12682.0				
+4	2	fb:cell_nomor_sisa_tahanan.29140_0	29140.0	29140.0	29140.0	CD	NUMBER	29140.0	29140.0				
+4	3	fb:cell_nomor_hak_asuh_sementara_lainnya.3558	3558	3558	3558	CD	NUMBER	3558.0	3558.0	3558-xx-xx			
+4	4	fb:cell_jumlah_total_tahanan.45380	45380	45380	45380	CD	NUMBER	45380.0	45380.0				
+4	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.4	4	4	4	CD	NUMBER	4.0	4.0				
+4	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.10388_0	10388.0	10388.0	10388.0	CD	NUMBER	10388.0	10388.0				
+4	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.1822_0	1822.0	1822.0	1822.0	CD	NUMBER	1822.0	1822.0				
+4	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.14318	14318	14318	14318	CD	NUMBER	14318.0	14318.0				
+4	9	fb:cell_jumlah_total_pengawasan_masyarakat.26528	26528	26528	26528	CD	NUMBER	26528.0	26528.0				
+4	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.6	6	6	6	CD	NUMBER	6.0	6.0				
+4	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.71908	71908	71908	71908	CD	NUMBER	71908.0	71908.0				
+4	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.20729	20729	20729	20729	CD	NUMBER	20729.0	20729.0				
+5	2	fb:cell_nomor_sisa_tahanan.43646_0	43646.0	43646.0	43646.0	CD	NUMBER	43646.0	43646.0				
+5	3	fb:cell_nomor_hak_asuh_sementara_lainnya.4815	4815	4815	4815	CD	NUMBER	4815.0	4815.0	4815-xx-xx			
+5	4	fb:cell_jumlah_total_tahanan.69190	69190	69190	69190	CD	NUMBER	69190.0	69190.0				
+5	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+5	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.26896_0	26896.0	26896.0	26896.0	CD	NUMBER	26896.0	26896.0				
+5	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.3462_0	3462.0	3462.0	3462.0	CD	NUMBER	3462.0	3462.0				
+5	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.494	494	494	494	CD	NUMBER	494.0	494.0				
+5	9	fb:cell_jumlah_total_pengawasan_masyarakat.30852	30852	30852	30852	CD	NUMBER	30852.0	30852.0				
+5	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+5	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.100042	100042	100042	100042	CD	NUMBER	100042.0	100042.0				
+5	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.7333	7333	7333	7333	CD	NUMBER	7333.0	7333.0	7333-xx-xx			
+6	2	fb:cell_nomor_sisa_tahanan.14781_0	14781.0	14781.0	14781.0	CD	NUMBER	14781.0	14781.0				
+6	3	fb:cell_nomor_hak_asuh_sementara_lainnya.7677	7677	7677	7677	CD	NUMBER	7677.0	7677.0	7677-xx-xx			
+6	4	fb:cell_jumlah_total_tahanan.29791	29791	29791	29791	CD	NUMBER	29791.0	29791.0				
+6	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.3	3	3	3	CD	NUMBER	3.0	3.0				
+6	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.7987_0	7987.0	7987.0	7987.0	CD	NUMBER	7987.0	7987.0				
+6	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.689_0	689.0	689.0	689.0	CD	NUMBER	689.0	689.0				
+6	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.1341	1341	1341	1341	CD	DATE	1341	1341.0	1341-xx-xx			
+6	9	fb:cell_jumlah_total_pengawasan_masyarakat.10017	10017	10017	10017	CD	NUMBER	10017.0	10017.0				
+6	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+6	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.39808	39808	39808	39808	CD	NUMBER	39808.0	39808.0				
+6	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.4660	4660	4660	4660	CD	NUMBER	4660.0	4660.0	4660-xx-xx			
+7	2	fb:cell_nomor_sisa_tahanan.8374_0	8374.0	8374.0	8374.0	CD	NUMBER	8374.0	8374.0				
+7	3	fb:cell_nomor_hak_asuh_sementara_lainnya.270	270	270	270	CD	NUMBER	270.0	270.0				
+7	4	fb:cell_jumlah_total_tahanan.13304	13304	13304	13304	CD	NUMBER	13304.0	13304.0				
+7	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+7	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.5115_0	5115.0	5115.0	5115.0	CD	NUMBER	5115.0	5115.0				
+7	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.1571_0	1571.0	1571.0	1571.0	CD	NUMBER	1571.0	1571.0				
+7	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.3896	3896	3896	3896	CD	NUMBER	3896.0	3896.0	3896-xx-xx			
+7	9	fb:cell_jumlah_total_pengawasan_masyarakat.10582	10582	10582	10582	CD	NUMBER	10582.0	10582.0				
+7	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+7	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.23886	23886	23886	23886	CD	NUMBER	23886.0	23886.0				
+7	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+8	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+8	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.16716	16716	16716	16716	CD	NUMBER	16716.0	16716.0				
+8	2	fb:cell_nomor_sisa_tahanan.23914_0	23914.0	23914.0	23914.0	CD	NUMBER	23914.0	23914.0				
+8	3	fb:cell_nomor_hak_asuh_sementara_lainnya.1863	1863	1863	1863	CD	DATE	1863	1863.0	1863-xx-xx			
+8	4	fb:cell_jumlah_total_tahanan.42493	42493	42493	42493	CD	NUMBER	42493.0	42493.0				
+8	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._12	-12	-12	-12	CD	NUMBER	-12.0	12.0				
+8	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.8548_0	8548.0	8548.0	8548.0	CD	NUMBER	8548.0	8548.0				
+8	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.1000_0	1000.0	1000.0	1000.0	CD	NUMBER	1000.0	1000.0				
+8	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.21621	21621	21621	21621	CD	NUMBER	21621.0	21621.0				
+8	9	fb:cell_jumlah_total_pengawasan_masyarakat.31169	31169	31169	31169	CD	NUMBER	31169.0	31169.0				
+8	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.2	2	2	2	CD	NUMBER	2.0	2.0				
+8	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.73662	73662	73662	73662	CD	NUMBER	73662.0	73662.0				
+8	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+9	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.10534	10534	10534	10534	CD	NUMBER	10534.0	10534.0				
+9	2	fb:cell_nomor_sisa_tahanan.14089_0	14089.0	14089.0	14089.0	CD	NUMBER	14089.0	14089.0				
+9	3	fb:cell_nomor_hak_asuh_sementara_lainnya.1353	1353	1353	1353	CD	DATE	1353	1353.0	1353-xx-xx			
+9	4	fb:cell_jumlah_total_tahanan.25976	25976	25976	25976	CD	NUMBER	25976.0	25976.0				
+9	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+9	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.8656_0	8656.0	8656.0	8656.0	CD	NUMBER	8656.0	8656.0				
+9	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.1898_0	1898.0	1898.0	1898.0	CD	NUMBER	1898.0	1898.0				
+9	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.18587	18587	18587	18587	CD	NUMBER	18587.0	18587.0				
+9	9	fb:cell_jumlah_total_pengawasan_masyarakat.29141	29141	29141	29141	CD	NUMBER	29141.0	29141.0				
+9	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+9	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.55117	55117	55117	55117	CD	NUMBER	55117.0	55117.0				
+9	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+10	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+10	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.162	162	162	162	CD	NUMBER	162.0	162.0				
+10	2	fb:cell_nomor_sisa_tahanan.308_0	308.0	308.0	308.0	CD	NUMBER	308.0	308.0				
+10	3	fb:cell_nomor_hak_asuh_sementara_lainnya.6	6	6	6	CD	NUMBER	6.0	6.0				
+10	4	fb:cell_jumlah_total_tahanan.476	476	476	476	CD	NUMBER	476.0	476.0				
+10	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+10	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.271_0	271.0	271.0	271.0	CD	NUMBER	271.0	271.0				
+10	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+10	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.701	701	701	701	CD	NUMBER	701.0	701.0				
+10	9	fb:cell_jumlah_total_pengawasan_masyarakat.1049	1049	1049	1049	CD	DATE	1049	1049.0	1049-xx-xx			
+10	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._16	-16	-16	-16	CD	NUMBER	-16.0	16.0				
+10	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.1525	1525	1525	1525	CD	DATE	1525	1525.0	1525-xx-xx			
+10	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._13	-13	-13	-13	CD	NUMBER	-13.0	13.0				
+11	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.356	356	356	356	CD	NUMBER	356.0	356.0				
+11	2	fb:cell_nomor_sisa_tahanan.717_0	717.0	717.0	717.0	CD	NUMBER	717.0	717.0				
+11	3	fb:cell_nomor_hak_asuh_sementara_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+11	4	fb:cell_jumlah_total_tahanan.1073	1073	1073	1073	CD	DATE	1073	1073.0	1073-xx-xx			
+11	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+11	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.339_0	339.0	339.0	339.0	CD	NUMBER	339.0	339.0				
+11	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+11	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.203	203	203	203	CD	NUMBER	203.0	203.0				
+11	9	fb:cell_jumlah_total_pengawasan_masyarakat.596	596	596	596	CD	NUMBER	596.0	596.0				
+11	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.13	13	13	13	CD	NUMBER	13.0	13.0				
+11	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.1669	1669	1669	1669	CD	DATE	1669	1669.0	1669-xx-xx			
+11	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.7	7	7	7	CD	NUMBER	7.0	7.0				
+12	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+12	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.415	415	415	415	CD	NUMBER	415.0	415.0				
+12	2	fb:cell_nomor_sisa_tahanan.567_0	567.0	567.0	567.0	CD	NUMBER	567.0	567.0				
+12	3	fb:cell_nomor_hak_asuh_sementara_lainnya.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	4	fb:cell_jumlah_total_tahanan.982	982	982	982	CD	NUMBER	982.0	982.0				
+12	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.10	10	10	10	CD	NUMBER	10.0	10.0				
+12	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.135_0	135.0	135.0	135.0	CD	NUMBER	135.0	135.0				
+12	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+12	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.715	715	715	715	CD	NUMBER	715.0	715.0				
+12	9	fb:cell_jumlah_total_pengawasan_masyarakat.900	900	900	900	CD	NUMBER	900.0	900.0				
+12	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.0	0	0	0	CD	NUMBER	0.0	0.0				
+12	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.1882	1882	1882	1882	CD	DATE	1882	1882.0	1882-xx-xx			
+12	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen.5	5	5	5	CD	NUMBER	5.0	5.0				
+13	0	fb:cell_kharakteristik.total_provinsi_dan_wilayah	total provinsi dan wilayah	total|provinsi|dan|wilayah	total|provinsi|dan|wilayah	JJ|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+13	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.79056	79056	79056	79056	CD	NUMBER	79056.0	79056.0				
+13	2	fb:cell_nomor_sisa_tahanan.142007_0	142007.0	142007.0	142007.0	CD	NUMBER	142007.0	142007.0				
+13	3	fb:cell_nomor_hak_asuh_sementara_lainnya.20515	20515	20515	20515	CD	NUMBER	20515.0	20515.0				
+13	4	fb:cell_jumlah_total_tahanan.241578	241578	241578	241578	CD	NUMBER	241578.0	241578.0				
+13	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+13	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.74576_0	74576.0	74576.0	74576.0	CD	NUMBER	74576.0	74576.0				
+13	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.12162_0	12162.0	12162.0	12162.0	CD	NUMBER	12162.0	12162.0				
+13	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.63376	63376	63376	63376	CD	NUMBER	63376.0	63376.0				
+13	9	fb:cell_jumlah_total_pengawasan_masyarakat.150114	150114	150114	150114	CD	NUMBER	150114.0	150114.0				
+13	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen.0	0	0	0	CD	NUMBER	0.0	0.0				
+13	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.391692	391692	391692	391692	CD	NUMBER	391692.0	391692.0				
+13	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+14	0	fb:cell_kharakteristik.federal	federal	federal	federal	NNP	O						
+14	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.5099	5099	5099	5099	CD	NUMBER	5099.0	5099.0	5099-xx-xx			
+14	2	fb:cell_nomor_sisa_tahanan.null											
+14	3	fb:cell_nomor_hak_asuh_sementara_lainnya.2246	2246	2246	2246	CD	DATE	2246	2246.0	2246-xx-xx			
+14	4	fb:cell_jumlah_total_tahanan.7345	7345	7345	7345	CD	NUMBER	7345.0	7345.0	7345-xx-xx			
+14	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen.1	1	1	1	CD	NUMBER	1.0	1.0				
+14	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.null											
+14	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.null											
+14	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.7125	7125	7125	7125	CD	NUMBER	7125.0	7125.0	7125-xx-xx			
+14	9	fb:cell_jumlah_total_pengawasan_masyarakat.7125	7125	7125	7125	CD	NUMBER	7125.0	7125.0	7125-xx-xx			
+14	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+14	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.14470	14470	14470	14470	CD	NUMBER	14470.0	14470.0				
+14	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+15	0	fb:cell_kharakteristik.total_semua_yurisdiksi	total-semua yurisdiksi	total|semua|yurisdiksi	total|semua|yurisdiksi	JJ|NN|NN	O|O|O	||					
+15	1	fb:cell_nomor_tahanan_tahanan_yang_dijatuhi_hukuman.84155	84155	84155	84155	CD	NUMBER	84155.0	84155.0				
+15	2	fb:cell_nomor_sisa_tahanan.142007_0	142007.0	142007.0	142007.0	CD	NUMBER	142007.0	142007.0				
+15	3	fb:cell_nomor_hak_asuh_sementara_lainnya.22761	22761	22761	22761	CD	NUMBER	22761.0	22761.0				
+15	4	fb:cell_jumlah_total_tahanan.248923	248923	248923	248923	CD	NUMBER	248923.0	248923.0				
+15	5	fb:cell_persen_perubahan_hak_asuh_dari_tahun_2016_2017_persen._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+15	6	fb:cell_nomor_percobaan_pengawasan_masyarakat.74576_0	74576.0	74576.0	74576.0	CD	NUMBER	74576.0	74576.0				
+15	7	fb:cell_nomor_kalimat_bersyarat_pengawasan_masyarakat.12162_0	12162.0	12162.0	12162.0	CD	NUMBER	12162.0	12162.0				
+15	8	fb:cell_pengawasan_masyarakat_nomor_lainnya.70501	70501	70501	70501	CD	NUMBER	70501.0	70501.0				
+15	9	fb:cell_jumlah_total_pengawasan_masyarakat.157239	157239	157239	157239	CD	NUMBER	157239.0	157239.0				
+15	10	fb:cell_pengawasan_masyarakat_total_persen_perubahan_dari_tahun_2016_2017_persen._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+15	11	fb:cell_total_layanan_pemasyarakatan_jumlah_total.406162	406162	406162	406162	CD	NUMBER	406162.0	406162.0				
+15	12	fb:cell_total_pelayanan_pemasyarakatan_total_persen_perubahan_dari_tahun_2016_2017_persen._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				

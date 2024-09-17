@@ -1,0 +1,541 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tahun_terakhir_kehidupan_nomor_rawat_inap	tahun terakhir kehidupan nomor rawat inap	tahun|terakhir|kehidupan|nomor|rawat|inap	tahun|terakhir|kehidupan|nomor|rawat|inap	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit	tahun terakhir kehidupan kelompok persen yang dirawat di rumah sakit	tahun|terakhir|kehidupan|kelompok|persen|yang|dirawat|di|rumah|sakit	tahun|terakhir|kehidupan|kelompok|persen|yang|dirawat|di|rumah|sakit	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	3	fb:row.row.tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap	tahun terakhir kehidupan nomor perawatan paliatif rawat inap	tahun|terakhir|kehidupan|nomor|perawatan|paliatif|rawat|inap	tahun|terakhir|kehidupan|nomor|perawatan|paliatif|rawat|inap	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit	tahun terakhir kehidupan setiap persen perawatan paliatif rawat inap kohort yang dirawat di rumah sakit	tahun|terakhir|kehidupan|setiap|persen|perawatan|paliatif|rawat|inap|kohort|yang|dirawat|di|rumah|sakit	tahun|terakhir|kehidupan|setiap|persen|perawatan|paliatif|rawat|inap|kohort|yang|dirawat|di|rumah|sakit	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+-1	5	fb:row.row.sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap	sebelum 30 hari terakhir kehidupan nomor rawat inap	sebelum|30|hari|terakhir|kehidupan|nomor|rawat|inap	sebelum|30|hari|terakhir|kehidupan|nomor|rawat|inap	NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|NUMBER|O|O|O|O|O|O	|30.0||||||					
+-1	6	fb:row.row.sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit	sebelum 30 hari terakhir kehidupan kelompok persen dirawat di rumah sakit	sebelum|30|hari|terakhir|kehidupan|kelompok|persen|dirawat|di|rumah|sakit	sebelum|30|hari|terakhir|kehidupan|kelompok|persen|dirawat|di|rumah|sakit	NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|NUMBER|O|O|O|O|O|O|O|O|O	|30.0|||||||||					
+-1	7	fb:row.row.sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan	sebelum nomor perawatan paliatif pra terminal 30 hari terakhir kehidupan	sebelum|nomor|perawatan|paliatif|pra|terminal|30|hari|terakhir|kehidupan	sebelum|nomor|perawatan|paliatif|pra|terminal|30|hari|terakhir|kehidupan	NN|NN|NN|NN|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|O|O|NUMBER|O|O|O	||||||30.0|||					
+-1	8	fb:row.row.sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit	sebelum 30 hari terakhir kehidupan perawatan paliatif pra-terminal persen kohort yang dirawat di rumah sakit	sebelum|30|hari|terakhir|kehidupan|perawatan|paliatif|pra|terminal|persen|kohort|yang|dirawat|di|rumah|sakit	sebelum|30|hari|terakhir|kehidupan|perawatan|paliatif|pra|terminal|persen|kohort|yang|dirawat|di|rumah|sakit	NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|30.0||||||||||||||					
+-1	9	fb:row.row.sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal	sebelum 30 hari terakhir kehidupan perawatan paliatif pra-terminal persen setiap kohort perawatan paliatif rawat inap yang dirawat di rumah sakit sebelum terminal	sebelum|30|hari|terakhir|kehidupan|perawatan|paliatif|pra|terminal|persen|setiap|kohort|perawatan|paliatif|rawat|inap|yang|dirawat|di|rumah|sakit|sebelum|terminal	sebelum|30|hari|terakhir|kehidupan|perawatan|paliatif|pra|terminal|persen|setiap|kohort|perawatan|paliatif|rawat|inap|yang|dirawat|di|rumah|sakit|sebelum|terminal	NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|30.0|||||||||||||||||||||					
+0	0	fb:cell_kharakteristik.keseluruhan	keseluruhan	keseluruhan	keseluruhan	NNP	O						
+0	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.592800_0	592800.0	592800.0	592800.0	CD	NUMBER	592800.0	592800.0				
+0	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_3	67.3	67.3	67.3	CD	NUMBER	67.3	67.3				
+0	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.111145_0	111145.0	111145.0	111145.0	CD	NUMBER	111145.0	111145.0				
+0	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+0	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.364350_0	364350.0	364350.0	364350.0	CD	NUMBER	364350.0	364350.0				
+0	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_4	41.4	41.4	41.4	CD	NUMBER	41.4	41.4				
+0	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.14865_0	14865.0	14865.0	14865.0	CD	NUMBER	14865.0	14865.0				
+0	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+0	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+1	0	fb:cell_kharakteristik.tahun_kematian	tahun kematian	tahun|kematian	tahun|kematian	NNP|NNP	O|O	|					
+1	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+1	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+1	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+1	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+1	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+1	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+1	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+1	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+1	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+2	0	fb:cell_kharakteristik.tahun_kematian_2010	tahun kematian 2010	tahun|kematian|2010	tahun|kematian|2010	NNP|NNP|CD	O|O|DATE	||2010	2010.0				
+2	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.89040_0	89040.0	89040.0	89040.0	CD	NUMBER	89040.0	89040.0				
+2	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.66_8	66.8	66.8	66.8	CD	NUMBER	66.8	66.8				
+2	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.17100_0	17100.0	17100.0	17100.0	CD	NUMBER	17100.0	17100.0				
+2	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+2	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.53670_0	53670.0	53670.0	53670.0	CD	NUMBER	53670.0	53670.0				
+2	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+2	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.2455_0	2455.0	2455.0	2455.0	CD	NUMBER	2455.0	2455.0				
+2	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+2	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.23_3	23.3	23.3	23.3	CD	NUMBER	23.3	23.3				
+3	0	fb:cell_kharakteristik.tahun_kematian_2011	tahun kematian 2011	tahun|kematian|2011	tahun|kematian|2011	NNP|NNP|CD	O|O|DATE	||2011	2011.0				
+3	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.122400_0	122400.0	122400.0	122400.0	CD	NUMBER	122400.0	122400.0				
+3	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+3	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.23290_0	23290.0	23290.0	23290.0	CD	NUMBER	23290.0	23290.0				
+3	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+3	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.74425_0	74425.0	74425.0	74425.0	CD	NUMBER	74425.0	74425.0				
+3	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+3	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3245_0	3245.0	3245.0	3245.0	CD	NUMBER	3245.0	3245.0				
+3	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+3	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.22_5	22.5	22.5	22.5	CD	NUMBER	22.5	22.5				
+4	0	fb:cell_kharakteristik.tahun_kematian_2012	tahun kematian 2012	tahun|kematian|2012	tahun|kematian|2012	NNP|NNP|CD	O|O|DATE	||2012	2012.0				
+4	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.123705_0	123705.0	123705.0	123705.0	CD	NUMBER	123705.0	123705.0				
+4	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+4	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.22995_0	22995.0	22995.0	22995.0	CD	NUMBER	22995.0	22995.0				
+4	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+4	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.76090_0	76090.0	76090.0	76090.0	CD	NUMBER	76090.0	76090.0				
+4	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_5	41.5	41.5	41.5	CD	NUMBER	41.5	41.5				
+4	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.2985_0	2985.0	2985.0	2985.0	CD	NUMBER	2985.0	2985.0				
+4	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+4	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+5	0	fb:cell_kharakteristik.tahun_kematian_2013	tahun kematian 2013	tahun|kematian|2013	tahun|kematian|2013	NNP|NNP|CD	O|O|DATE	||2013	2013.0				
+5	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.127780_0	127780.0	127780.0	127780.0	CD	NUMBER	127780.0	127780.0				
+5	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_7	67.7	67.7	67.7	CD	NUMBER	67.7	67.7				
+5	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.23785_0	23785.0	23785.0	23785.0	CD	NUMBER	23785.0	23785.0				
+5	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+5	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.79330_0	79330.0	79330.0	79330.0	CD	NUMBER	79330.0	79330.0				
+5	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+5	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3100_0	3100.0	3100.0	3100.0	CD	NUMBER	3100.0	3100.0				
+5	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+5	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+6	0	fb:cell_kharakteristik.tahun_kematian_2014	tahun kematian 2014	tahun|kematian|2014	tahun|kematian|2014	NNP|NNP|CD	O|O|DATE	||2014	2014.0				
+6	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.129880_0	129880.0	129880.0	129880.0	CD	NUMBER	129880.0	129880.0				
+6	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_2	67.2	67.2	67.2	CD	NUMBER	67.2	67.2				
+6	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.23970_0	23970.0	23970.0	23970.0	CD	NUMBER	23970.0	23970.0				
+6	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_5	18.5	18.5	18.5	CD	NUMBER	18.5	18.5				
+6	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.80825_0	80825.0	80825.0	80825.0	CD	NUMBER	80825.0	80825.0				
+6	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_8	41.8	41.8	41.8	CD	NUMBER	41.8	41.8				
+6	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3085_0	3085.0	3085.0	3085.0	CD	NUMBER	3085.0	3085.0				
+6	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+6	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+7	0	fb:cell_kharakteristik.propinsi	propinsi	propinsi	propinsi	NN	O						
+7	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+7	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+7	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+7	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+7	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+7	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+7	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+7	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+7	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+8	0	fb:cell_kharakteristik.provinsi_newfoundland_dan_labrador	provinsi newfoundland dan labrador	provinsi|newfoundland|dan|labrador	provinsi|newfoundland|dan|labrador	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+8	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.14120_0	14120.0	14120.0	14120.0	CD	NUMBER	14120.0	14120.0				
+8	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.63_9	63.9	63.9	63.9	CD	NUMBER	63.9	63.9				
+8	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.3320_0	3320.0	3320.0	3320.0	CD	NUMBER	3320.0	3320.0				
+8	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+8	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.8320_0	8320.0	8320.0	8320.0	CD	NUMBER	8320.0	8320.0				
+8	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.37_6	37.6	37.6	37.6	CD	NUMBER	37.6	37.6				
+8	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.385_0	385.0	385.0	385.0	CD	NUMBER	385.0	385.0				
+8	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+8	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+9	0	fb:cell_kharakteristik.provinsi_pulau_pangeran_edward	provinsi pulau pangeran edward	provinsi|pulau|pangeran|edward	provinsi|pulau|pangeran|edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.3580_0	3580.0	3580.0	3580.0	CD	NUMBER	3580.0	3580.0				
+9	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.62_5	62.5	62.5	62.5	CD	NUMBER	62.5	62.5				
+9	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.860_0	860.0	860.0	860.0	CD	NUMBER	860.0	860.0				
+9	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+9	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.2310_0	2310.0	2310.0	2310.0	CD	NUMBER	2310.0	2310.0				
+9	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+9	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.140_0	140.0	140.0	140.0	CD	NUMBER	140.0	140.0				
+9	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+9	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+10	0	fb:cell_kharakteristik.provinsi_nova_scotia	provinsi nova scotia	provinsi|nova|scotia	provinsi|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.26945_0	26945.0	26945.0	26945.0	CD	NUMBER	26945.0	26945.0				
+10	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.66_4	66.4	66.4	66.4	CD	NUMBER	66.4	66.4				
+10	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.8255_0	8255.0	8255.0	8255.0	CD	NUMBER	8255.0	8255.0				
+10	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.30_6	30.6	30.6	30.6	CD	NUMBER	30.6	30.6				
+10	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.15355_0	15355.0	15355.0	15355.0	CD	NUMBER	15355.0	15355.0				
+10	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.37_9	37.9	37.9	37.9	CD	NUMBER	37.9	37.9				
+10	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.1055_0	1055.0	1055.0	1055.0	CD	NUMBER	1055.0	1055.0				
+10	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+10	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+11	0	fb:cell_kharakteristik.provinsi_brunswick_baru	provinsi brunswick baru	provinsi|brunswick|baru	provinsi|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.21965_0	21965.0	21965.0	21965.0	CD	NUMBER	21965.0	21965.0				
+11	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+11	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.6050_0	6050.0	6050.0	6050.0	CD	NUMBER	6050.0	6050.0				
+11	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.27_5	27.5	27.5	27.5	CD	NUMBER	27.5	27.5				
+11	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.13495_0	13495.0	13495.0	13495.0	CD	NUMBER	13495.0	13495.0				
+11	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.43_7	43.7	43.7	43.7	CD	NUMBER	43.7	43.7				
+11	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.625_0	625.0	625.0	625.0	CD	NUMBER	625.0	625.0				
+11	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+11	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+12	0	fb:cell_kharakteristik.provinsi_ontario	provinsi ontario	provinsi|ontario	provinsi|ontario	NNP|NNP	O|O	|					
+12	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.294795_0	294795.0	294795.0	294795.0	CD	NUMBER	294795.0	294795.0				
+12	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+12	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.49695_0	49695.0	49695.0	49695.0	CD	NUMBER	49695.0	49695.0				
+12	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+12	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.178910_0	178910.0	178910.0	178910.0	CD	NUMBER	178910.0	178910.0				
+12	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_4	41.4	41.4	41.4	CD	NUMBER	41.4	41.4				
+12	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.5970_0	5970.0	5970.0	5970.0	CD	NUMBER	5970.0	5970.0				
+12	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+12	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.20_3	20.3	20.3	20.3	CD	NUMBER	20.3	20.3				
+13	0	fb:cell_kharakteristik.provinsi_manitoba	provinsi manitoba	provinsi|manitoba	provinsi|manitoba	NNP|NNP	O|O	|					
+13	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.29125_0	29125.0	29125.0	29125.0	CD	NUMBER	29125.0	29125.0				
+13	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.60_8	60.8	60.8	60.8	CD	NUMBER	60.8	60.8				
+13	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.7190_0	7190.0	7190.0	7190.0	CD	NUMBER	7190.0	7190.0				
+13	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+13	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.17265_0	17265.0	17265.0	17265.0	CD	NUMBER	17265.0	17265.0				
+13	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.36_1	36.1	36.1	36.1	CD	NUMBER	36.1	36.1				
+13	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.720_0	720.0	720.0	720.0	CD	NUMBER	720.0	720.0				
+13	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+13	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.17_1	17.1	17.1	17.1	CD	NUMBER	17.1	17.1				
+14	0	fb:cell_kharakteristik.provinsi_saskatchewan	provinsi saskatchewan	provinsi|saskatchewan	provinsi|saskatchewan	NNP|NNP	O|O	|					
+14	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.28655_0	28655.0	28655.0	28655.0	CD	NUMBER	28655.0	28655.0				
+14	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+14	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.6035_0	6035.0	6035.0	6035.0	CD	NUMBER	6035.0	6035.0				
+14	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+14	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.18830_0	18830.0	18830.0	18830.0	CD	NUMBER	18830.0	18830.0				
+14	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.43_4	43.4	43.4	43.4	CD	NUMBER	43.4	43.4				
+14	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.980_0	980.0	980.0	980.0	CD	NUMBER	980.0	980.0				
+14	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+14	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.23_4	23.4	23.4	23.4	CD	NUMBER	23.4	23.4				
+15	0	fb:cell_kharakteristik.provinsi_alberta	provinsi alberta	provinsi|alberta	provinsi|alberta	NNP|NNP	O|O	|					
+15	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.69175_0	69175.0	69175.0	69175.0	CD	NUMBER	69175.0	69175.0				
+15	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+15	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.10570_0	10570.0	10570.0	10570.0	CD	NUMBER	10570.0	10570.0				
+15	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+15	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.44595_0	44595.0	44595.0	44595.0	CD	NUMBER	44595.0	44595.0				
+15	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.43_2	43.2	43.2	43.2	CD	NUMBER	43.2	43.2				
+15	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.1515_0	1515.0	1515.0	1515.0	CD	NUMBER	1515.0	1515.0				
+15	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+15	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_5	21.5	21.5	21.5	CD	NUMBER	21.5	21.5				
+16	0	fb:cell_kharakteristik.provinsi_columbia_inggris	provinsi columbia inggris	provinsi|columbia|inggris	provinsi|columbia|inggris	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.104440_0	104440.0	104440.0	104440.0	CD	NUMBER	104440.0	104440.0				
+16	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+16	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.19170_0	19170.0	19170.0	19170.0	CD	NUMBER	19170.0	19170.0				
+16	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+16	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.65265_0	65265.0	65265.0	65265.0	CD	NUMBER	65265.0	65265.0				
+16	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.42_4	42.4	42.4	42.4	CD	NUMBER	42.4	42.4				
+16	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3480_0	3480.0	3480.0	3480.0	CD	NUMBER	3480.0	3480.0				
+16	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+16	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.28_1	28.1	28.1	28.1	CD	NUMBER	28.1	28.1				
+17	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+17	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+17	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+17	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+17	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+17	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+17	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+17	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+17	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+17	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+18	0	fb:cell_kharakteristik.kelompok_umur_19_hingga_29_tahun	kelompok umur 19 hingga 29 tahun	kelompok|umur|19|hingga|29|tahun	kelompok|umur|19|hingga|29|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||19.0||29.0|	19.0		29.0		
+18	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.3155_0	3155.0	3155.0	3155.0	CD	NUMBER	3155.0	3155.0				
+18	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.29_2	29.2	29.2	29.2	CD	NUMBER	29.2	29.2				
+18	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.340_0	340.0	340.0	340.0	CD	NUMBER	340.0	340.0				
+18	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+18	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.1995_0	1995.0	1995.0	1995.0	CD	NUMBER	1995.0	1995.0				
+18	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.18_5	18.5	18.5	18.5	CD	NUMBER	18.5	18.5				
+18	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+18	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+18	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.24_1	24.1	24.1	24.1	CD	NUMBER	24.1	24.1				
+19	0	fb:cell_kharakteristik.kelompok_umur_30_hingga_39_tahun	kelompok umur 30 hingga 39 tahun	kelompok|umur|30|hingga|39|tahun	kelompok|umur|30|hingga|39|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||30.0||39.0|	30.0		39.0		
+19	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.5400_0	5400.0	5400.0	5400.0	CD	NUMBER	5400.0	5400.0				
+19	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.42_4	42.4	42.4	42.4	CD	NUMBER	42.4	42.4				
+19	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.895_0	895.0	895.0	895.0	CD	NUMBER	895.0	895.0				
+19	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+19	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.3680_0	3680.0	3680.0	3680.0	CD	NUMBER	3680.0	3680.0				
+19	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+19	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.195_0	195.0	195.0	195.0	CD	NUMBER	195.0	195.0				
+19	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+19	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.27_1	27.1	27.1	27.1	CD	NUMBER	27.1	27.1				
+20	0	fb:cell_kharakteristik.kelompok_umur_40_hingga_49_tahun	kelompok umur 40 hingga 49 tahun	kelompok|umur|40|hingga|49|tahun	kelompok|umur|40|hingga|49|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||40.0||49.0|	40.0		49.0		
+20	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.16030_0	16030.0	16030.0	16030.0	CD	NUMBER	16030.0	16030.0				
+20	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.54_1	54.1	54.1	54.1	CD	NUMBER	54.1	54.1				
+20	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.3555_0	3555.0	3555.0	3555.0	CD	NUMBER	3555.0	3555.0				
+20	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.22_2	22.2	22.2	22.2	CD	NUMBER	22.2	22.2				
+20	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.10815_0	10815.0	10815.0	10815.0	CD	NUMBER	10815.0	10815.0				
+20	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.36_5	36.5	36.5	36.5	CD	NUMBER	36.5	36.5				
+20	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.665_0	665.0	665.0	665.0	CD	NUMBER	665.0	665.0				
+20	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+20	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+21	0	fb:cell_kharakteristik.kelompok_umur_50_hingga_59_tahun	kelompok umur 50 hingga 59 tahun	kelompok|umur|50|hingga|59|tahun	kelompok|umur|50|hingga|59|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||50.0||59.0|	50.0		59.0		
+21	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.46465_0	46465.0	46465.0	46465.0	CD	NUMBER	46465.0	46465.0				
+21	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.63_7	63.7	63.7	63.7	CD	NUMBER	63.7	63.7				
+21	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.11585_0	11585.0	11585.0	11585.0	CD	NUMBER	11585.0	11585.0				
+21	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.24_9	24.9	24.9	24.9	CD	NUMBER	24.9	24.9				
+21	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.30710_0	30710.0	30710.0	30710.0	CD	NUMBER	30710.0	30710.0				
+21	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.42_1	42.1	42.1	42.1	CD	NUMBER	42.1	42.1				
+21	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.2120_0	2120.0	2120.0	2120.0	CD	NUMBER	2120.0	2120.0				
+21	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+21	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.26_1	26.1	26.1	26.1	CD	NUMBER	26.1	26.1				
+22	0	fb:cell_kharakteristik.kelompok_umur_60_hingga_69_tahun	kelompok umur 60 hingga 69 tahun	kelompok|umur|60|hingga|69|tahun	kelompok|umur|60|hingga|69|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||60.0||69.0|	60.0		69.0		
+22	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.88400_0	88400.0	88400.0	88400.0	CD	NUMBER	88400.0	88400.0				
+22	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.72_1	72.1	72.1	72.1	CD	NUMBER	72.1	72.1				
+22	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.21510_0	21510.0	21510.0	21510.0	CD	NUMBER	21510.0	21510.0				
+22	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.24_3	24.3	24.3	24.3	CD	NUMBER	24.3	24.3				
+22	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.57345_0	57345.0	57345.0	57345.0	CD	NUMBER	57345.0	57345.0				
+22	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+22	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3370_0	3370.0	3370.0	3370.0	CD	NUMBER	3370.0	3370.0				
+22	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+22	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+23	0	fb:cell_kharakteristik.kelompok_umur_70_hingga_79_tahun	kelompok umur 70 hingga 79 tahun	kelompok|umur|70|hingga|79|tahun	kelompok|umur|70|hingga|79|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||70.0||79.0|	70.0		79.0		
+23	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.136455_0	136455.0	136455.0	136455.0	CD	NUMBER	136455.0	136455.0				
+23	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.75_6	75.6	75.6	75.6	CD	NUMBER	75.6	75.6				
+23	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.28215_0	28215.0	28215.0	28215.0	CD	NUMBER	28215.0	28215.0				
+23	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.20_7	20.7	20.7	20.7	CD	NUMBER	20.7	20.7				
+23	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.85140_0	85140.0	85140.0	85140.0	CD	NUMBER	85140.0	85140.0				
+23	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.47_1	47.1	47.1	47.1	CD	NUMBER	47.1	47.1				
+23	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3880_0	3880.0	3880.0	3880.0	CD	NUMBER	3880.0	3880.0				
+23	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+23	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+24	0	fb:cell_kharakteristik.kelompok_umur_80_hingga_89_tahun	kelompok umur 80 hingga 89 tahun	kelompok|umur|80|hingga|89|tahun	kelompok|umur|80|hingga|89|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||80.0||89.0|	80.0		89.0		
+24	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.200305_0	200305.0	200305.0	200305.0	CD	NUMBER	200305.0	200305.0				
+24	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.70_8	70.8	70.8	70.8	CD	NUMBER	70.8	70.8				
+24	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.31935_0	31935.0	31935.0	31935.0	CD	NUMBER	31935.0	31935.0				
+24	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+24	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.119485_0	119485.0	119485.0	119485.0	CD	NUMBER	119485.0	119485.0				
+24	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.42_2	42.2	42.2	42.2	CD	NUMBER	42.2	42.2				
+24	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3455_0	3455.0	3455.0	3455.0	CD	NUMBER	3455.0	3455.0				
+24	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+24	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+25	0	fb:cell_kharakteristik.kelompok_umur_90_tahun_ke_atas	kelompok umur 90 tahun ke atas	kelompok|umur|90|tahun|ke|atas	kelompok|umur|90|tahun|ke|atas	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||90.0|||	90.0				
+25	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.96595_0	96595.0	96595.0	96595.0	CD	NUMBER	96595.0	96595.0				
+25	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.57_5	57.5	57.5	57.5	CD	NUMBER	57.5	57.5				
+25	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.13110_0	13110.0	13110.0	13110.0	CD	NUMBER	13110.0	13110.0				
+25	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+25	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.55180_0	55180.0	55180.0	55180.0	CD	NUMBER	55180.0	55180.0				
+25	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.32_8	32.8	32.8	32.8	CD	NUMBER	32.8	32.8				
+25	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.1110_0	1110.0	1110.0	1110.0	CD	NUMBER	1110.0	1110.0				
+25	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+25	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+26	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+26	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+26	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+26	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+26	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+26	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+26	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+26	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+26	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+26	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+27	0	fb:cell_kharakteristik.jenis_kelamin_laki_laki	jenis kelamin laki-laki	jenis|kelamin|laki|laki	jenis|kelamin|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+27	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.305220_0	305220.0	305220.0	305220.0	CD	NUMBER	305220.0	305220.0				
+27	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.68_5	68.5	68.5	68.5	CD	NUMBER	68.5	68.5				
+27	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.55545_0	55545.0	55545.0	55545.0	CD	NUMBER	55545.0	55545.0				
+27	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+27	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.188075_0	188075.0	188075.0	188075.0	CD	NUMBER	188075.0	188075.0				
+27	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.42_2	42.2	42.2	42.2	CD	NUMBER	42.2	42.2				
+27	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.6995_0	6995.0	6995.0	6995.0	CD	NUMBER	6995.0	6995.0				
+27	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+27	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+28	0	fb:cell_kharakteristik.jenis_kelamin_perempuan	jenis kelamin perempuan	jenis|kelamin|perempuan	jenis|kelamin|perempuan	NNP|NNP|NNP	O|O|O	||					
+28	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.287580_0	287580.0	287580.0	287580.0	CD	NUMBER	287580.0	287580.0				
+28	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.66_2	66.2	66.2	66.2	CD	NUMBER	66.2	66.2				
+28	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.55595_0	55595.0	55595.0	55595.0	CD	NUMBER	55595.0	55595.0				
+28	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+28	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.176275_0	176275.0	176275.0	176275.0	CD	NUMBER	176275.0	176275.0				
+28	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.40_6	40.6	40.6	40.6	CD	NUMBER	40.6	40.6				
+28	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.7870_0	7870.0	7870.0	7870.0	CD	NUMBER	7870.0	7870.0				
+28	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+28	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+29	0	fb:cell_kharakteristik.status_perkawinan	status perkawinan	status|perkawinan	status|perkawinan	NN|NN	O|O	|					
+29	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+29	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+29	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+29	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+29	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+29	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+29	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+29	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+29	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+30	0	fb:cell_kharakteristik.status_perkawinan_lajang	status perkawinan lajang	status|perkawinan|lajang	status|perkawinan|lajang	NN|NN|NN	O|O|O	||					
+30	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.50780_0	50780.0	50780.0	50780.0	CD	NUMBER	50780.0	50780.0				
+30	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.53_4	53.4	53.4	53.4	CD	NUMBER	53.4	53.4				
+30	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.8575_0	8575.0	8575.0	8575.0	CD	NUMBER	8575.0	8575.0				
+30	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+30	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.31225_0	31225.0	31225.0	31225.0	CD	NUMBER	31225.0	31225.0				
+30	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.32_8	32.8	32.8	32.8	CD	NUMBER	32.8	32.8				
+30	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.1360_0	1360.0	1360.0	1360.0	CD	NUMBER	1360.0	1360.0				
+30	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+30	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+31	0	fb:cell_kharakteristik.status_perkawinan_menikah	status perkawinan menikah	status|perkawinan|menikah	status|perkawinan|menikah	NN|NN|NN	O|O|O	||					
+31	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.266945_0	266945.0	266945.0	266945.0	CD	NUMBER	266945.0	266945.0				
+31	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.74_4	74.4	74.4	74.4	CD	NUMBER	74.4	74.4				
+31	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.56250_0	56250.0	56250.0	56250.0	CD	NUMBER	56250.0	56250.0				
+31	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+31	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.166010_0	166010.0	166010.0	166010.0	CD	NUMBER	166010.0	166010.0				
+31	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.46_3	46.3	46.3	46.3	CD	NUMBER	46.3	46.3				
+31	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.7570_0	7570.0	7570.0	7570.0	CD	NUMBER	7570.0	7570.0				
+31	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+31	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+32	0	fb:cell_kharakteristik.status_perkawinan_janda	status perkawinan janda	status|perkawinan|janda	status|perkawinan|janda	NN|NNP|NNP	O|O|O	||					
+32	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.206960_0	206960.0	206960.0	206960.0	CD	NUMBER	206960.0	206960.0				
+32	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.64_2	64.2	64.2	64.2	CD	NUMBER	64.2	64.2				
+32	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.33005_0	33005.0	33005.0	33005.0	CD	NUMBER	33005.0	33005.0				
+32	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+32	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.123470_0	123470.0	123470.0	123470.0	CD	NUMBER	123470.0	123470.0				
+32	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.38_3	38.3	38.3	38.3	CD	NUMBER	38.3	38.3				
+32	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3750_0	3750.0	3750.0	3750.0	CD	NUMBER	3750.0	3750.0				
+32	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+32	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+33	0	fb:cell_kharakteristik.status_perkawinannya_bercerai	status perkawinannya bercerai	status|perkawinannya|bercerai	status|perkawinannya|bercerai	NN|NN|NN	O|O|O	||					
+33	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.48740_0	48740.0	48740.0	48740.0	CD	NUMBER	48740.0	48740.0				
+33	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.65_6	65.6	65.6	65.6	CD	NUMBER	65.6	65.6				
+33	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.9355_0	9355.0	9355.0	9355.0	CD	NUMBER	9355.0	9355.0				
+33	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+33	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.31195_0	31195.0	31195.0	31195.0	CD	NUMBER	31195.0	31195.0				
+33	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+33	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.1550_0	1550.0	1550.0	1550.0	CD	NUMBER	1550.0	1550.0				
+33	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+33	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.25_4	25.4	25.4	25.4	CD	NUMBER	25.4	25.4				
+34	0	fb:cell_kharakteristik.status_perkawinan_dipisahkan	status perkawinan dipisahkan	status|perkawinan|dipisahkan	status|perkawinan|dipisahkan	NN|NN|NN	O|O|O	||					
+34	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.3255_0	3255.0	3255.0	3255.0	CD	NUMBER	3255.0	3255.0				
+34	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.64_2	64.2	64.2	64.2	CD	NUMBER	64.2	64.2				
+34	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.725_0	725.0	725.0	725.0	CD	NUMBER	725.0	725.0				
+34	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+34	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.2115_0	2115.0	2115.0	2115.0	CD	NUMBER	2115.0	2115.0				
+34	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_7	41.7	41.7	41.7	CD	NUMBER	41.7	41.7				
+34	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.120_0	120.0	120.0	120.0	CD	NUMBER	120.0	120.0				
+34	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+34	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+35	0	fb:cell_kharakteristik.status_perkawinan_tidak_diketahui	status perkawinan tidak diketahui	status|perkawinan|tidak|diketahui	status|perkawinan|tidak|diketahui	NN|NN|NN|NN	O|O|O|O	|||					
+35	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.16125_0	16125.0	16125.0	16125.0	CD	NUMBER	16125.0	16125.0				
+35	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.64_7	64.7	64.7	64.7	CD	NUMBER	64.7	64.7				
+35	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.3235_0	3235.0	3235.0	3235.0	CD	NUMBER	3235.0	3235.0				
+35	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+35	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.10340_0	10340.0	10340.0	10340.0	CD	NUMBER	10340.0	10340.0				
+35	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_5	41.5	41.5	41.5	CD	NUMBER	41.5	41.5				
+35	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.520_0	520.0	520.0	520.0	CD	NUMBER	520.0	520.0				
+35	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+35	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+36	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan	kuintil pendapatan lingkungan	kuintil|pendapatan|lingkungan	kuintil|pendapatan|lingkungan	NNP|NNP|NNP	O|O|O	||					
+36	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+36	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+36	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+36	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+36	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+36	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+36	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+36	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+36	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+37	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan_kuintil_terendah	kuintil pendapatan lingkungan kuintil terendah	kuintil|pendapatan|lingkungan|kuintil|terendah	kuintil|pendapatan|lingkungan|kuintil|terendah	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+37	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.133500_0	133500.0	133500.0	133500.0	CD	NUMBER	133500.0	133500.0				
+37	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.66_4	66.4	66.4	66.4	CD	NUMBER	66.4	66.4				
+37	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.24430_0	24430.0	24430.0	24430.0	CD	NUMBER	24430.0	24430.0				
+37	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+37	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.82340_0	82340.0	82340.0	82340.0	CD	NUMBER	82340.0	82340.0				
+37	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.40_9	40.9	40.9	40.9	CD	NUMBER	40.9	40.9				
+37	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3280_0	3280.0	3280.0	3280.0	CD	NUMBER	3280.0	3280.0				
+37	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+37	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_8	21.8	21.8	21.8	CD	NUMBER	21.8	21.8				
+38	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan_kuintil_menengah_rendah	kuintil pendapatan lingkungan kuintil menengah-rendah	kuintil|pendapatan|lingkungan|kuintil|menengah|rendah	kuintil|pendapatan|lingkungan|kuintil|menengah|rendah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+38	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.124140_0	124140.0	124140.0	124140.0	CD	NUMBER	124140.0	124140.0				
+38	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+38	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.23520_0	23520.0	23520.0	23520.0	CD	NUMBER	23520.0	23520.0				
+38	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+38	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.75770_0	75770.0	75770.0	75770.0	CD	NUMBER	75770.0	75770.0				
+38	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_9	41.9	41.9	41.9	CD	NUMBER	41.9	41.9				
+38	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3045_0	3045.0	3045.0	3045.0	CD	NUMBER	3045.0	3045.0				
+38	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+38	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+39	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan_kuintil_menengah	kuintil pendapatan lingkungan kuintil menengah	kuintil|pendapatan|lingkungan|kuintil|menengah	kuintil|pendapatan|lingkungan|kuintil|menengah	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+39	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.115330_0	115330.0	115330.0	115330.0	CD	NUMBER	115330.0	115330.0				
+39	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+39	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.21930_0	21930.0	21930.0	21930.0	CD	NUMBER	21930.0	21930.0				
+39	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+39	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.70695_0	70695.0	70695.0	70695.0	CD	NUMBER	70695.0	70695.0				
+39	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_7	41.7	41.7	41.7	CD	NUMBER	41.7	41.7				
+39	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.2930_0	2930.0	2930.0	2930.0	CD	NUMBER	2930.0	2930.0				
+39	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+39	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+40	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan_kuintil_menengah_tinggi	kuintil pendapatan lingkungan kuintil menengah-tinggi	kuintil|pendapatan|lingkungan|kuintil|menengah|tinggi	kuintil|pendapatan|lingkungan|kuintil|menengah|tinggi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+40	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.111030_0	111030.0	111030.0	111030.0	CD	NUMBER	111030.0	111030.0				
+40	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+40	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.21140_0	21140.0	21140.0	21140.0	CD	NUMBER	21140.0	21140.0				
+40	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+40	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.68585_0	68585.0	68585.0	68585.0	CD	NUMBER	68585.0	68585.0				
+40	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_9	41.9	41.9	41.9	CD	NUMBER	41.9	41.9				
+40	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.2865_0	2865.0	2865.0	2865.0	CD	NUMBER	2865.0	2865.0				
+40	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+40	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+41	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan_kuintil_tertinggi	kuintil pendapatan lingkungan kuintil tertinggi	kuintil|pendapatan|lingkungan|kuintil|tertinggi	kuintil|pendapatan|lingkungan|kuintil|tertinggi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+41	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.101030_0	101030.0	101030.0	101030.0	CD	NUMBER	101030.0	101030.0				
+41	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+41	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.18915_0	18915.0	18915.0	18915.0	CD	NUMBER	18915.0	18915.0				
+41	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+41	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.62155_0	62155.0	62155.0	62155.0	CD	NUMBER	62155.0	62155.0				
+41	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_2	41.2	41.2	41.2	CD	NUMBER	41.2	41.2				
+41	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.2585_0	2585.0	2585.0	2585.0	CD	NUMBER	2585.0	2585.0				
+41	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+41	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+42	0	fb:cell_kharakteristik.kuintil_pendapatan_lingkungan_tidak_ada	kuintil pendapatan lingkungan tidak ada	kuintil|pendapatan|lingkungan|tidak|ada	kuintil|pendapatan|lingkungan|tidak|ada	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+42	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.7775_0	7775.0	7775.0	7775.0	CD	NUMBER	7775.0	7775.0				
+42	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.54_4	54.4	54.4	54.4	CD	NUMBER	54.4	54.4				
+42	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.1205_0	1205.0	1205.0	1205.0	CD	NUMBER	1205.0	1205.0				
+42	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.15_5	15.5	15.5	15.5	CD	NUMBER	15.5	15.5				
+42	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.4800_0	4800.0	4800.0	4800.0	CD	NUMBER	4800.0	4800.0				
+42	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+42	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.160_0	160.0	160.0	160.0	CD	NUMBER	160.0	160.0				
+42	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+42	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.21_6	21.6	21.6	21.6	CD	NUMBER	21.6	21.6				
+43	0	fb:cell_kharakteristik.pedesaan	pedesaan	pedesaan	pedesaan	NNP	O						
+43	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+43	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+43	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+43	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+43	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+43	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+43	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+43	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+43	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+44	0	fb:cell_kharakteristik.pedesaan_pedesaan	pedesaan pedesaan	pedesaan|pedesaan	pedesaan|pedesaan	NNP|NNP	O|O	|					
+44	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.122675_0	122675.0	122675.0	122675.0	CD	NUMBER	122675.0	122675.0				
+44	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.64_6	64.6	64.6	64.6	CD	NUMBER	64.6	64.6				
+44	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.25860_0	25860.0	25860.0	25860.0	CD	NUMBER	25860.0	25860.0				
+44	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+44	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.78155_0	78155.0	78155.0	78155.0	CD	NUMBER	78155.0	78155.0				
+44	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_2	41.2	41.2	41.2	CD	NUMBER	41.2	41.2				
+44	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.3330_0	3330.0	3330.0	3330.0	CD	NUMBER	3330.0	3330.0				
+44	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+44	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+45	0	fb:cell_kharakteristik.pedesaan_perkotaan	pedesaan perkotaan	pedesaan|perkotaan	pedesaan|perkotaan	NNP|NNP	O|O	|					
+45	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.465660_0	465660.0	465660.0	465660.0	CD	NUMBER	465660.0	465660.0				
+45	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+45	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.84605_0	84605.0	84605.0	84605.0	CD	NUMBER	84605.0	84605.0				
+45	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+45	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.283560_0	283560.0	283560.0	283560.0	CD	NUMBER	283560.0	283560.0				
+45	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.41_6	41.6	41.6	41.6	CD	NUMBER	41.6	41.6				
+45	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.11435_0	11435.0	11435.0	11435.0	CD	NUMBER	11435.0	11435.0				
+45	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+45	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+46	0	fb:cell_kharakteristik.pedesaan_hilang	pedesaan hilang	pedesaan|hilang	pedesaan|hilang	NNP|NNP	O|O	|					
+46	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.4465_0	4465.0	4465.0	4465.0	CD	NUMBER	4465.0	4465.0				
+46	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+46	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.675_0	675.0	675.0	675.0	CD	NUMBER	675.0	675.0				
+46	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				
+46	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.2635_0	2635.0	2635.0	2635.0	CD	NUMBER	2635.0	2635.0				
+46	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+46	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.95_0	95.0	95.0	95.0	CD	NUMBER	95.0	95.0				
+46	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+46	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+47	0	fb:cell_kharakteristik.penyebab_kematian_yang_mendasarinya	penyebab kematian yang mendasarinya	penyebab|kematian|yang|mendasarinya	penyebab|kematian|yang|mendasarinya	NN|NNP|NNP|NNP	O|O|O|O	|||					
+47	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.null											
+47	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.null											
+47	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.null											
+47	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.null											
+47	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.null											
+47	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.null											
+47	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.null											
+47	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.null											
+47	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.null											
+48	0	fb:cell_kharakteristik.penyebab_utama_kematian_karena_penyakit_terminal	penyebab utama kematian karena penyakit terminal	penyebab|utama|kematian|karena|penyakit|terminal	penyebab|utama|kematian|karena|penyakit|terminal	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+48	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.228395_0	228395.0	228395.0	228395.0	CD	NUMBER	228395.0	228395.0				
+48	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+48	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.78450_0	78450.0	78450.0	78450.0	CD	NUMBER	78450.0	78450.0				
+48	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+48	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.153045_0	153045.0	153045.0	153045.0	CD	NUMBER	153045.0	153045.0				
+48	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+48	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.13055_0	13055.0	13055.0	13055.0	CD	NUMBER	13055.0	13055.0				
+48	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+48	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+49	0	fb:cell_kharakteristik.penyebab_utama_kelemahan_kematian	penyebab utama kelemahan kematian	penyebab|utama|kelemahan|kematian	penyebab|utama|kelemahan|kematian	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+49	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.131410_0	131410.0	131410.0	131410.0	CD	NUMBER	131410.0	131410.0				
+49	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+49	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.9880_0	9880.0	9880.0	9880.0	CD	NUMBER	9880.0	9880.0				
+49	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+49	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.78875_0	78875.0	78875.0	78875.0	CD	NUMBER	78875.0	78875.0				
+49	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.31_2	31.2	31.2	31.2	CD	NUMBER	31.2	31.2				
+49	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.640_0	640.0	640.0	640.0	CD	NUMBER	640.0	640.0				
+49	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+49	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+50	0	fb:cell_kharakteristik.penyebab_utama_kegagalan_organ_kematian	penyebab utama kegagalan organ kematian	penyebab|utama|kegagalan|organ|kematian	penyebab|utama|kegagalan|organ|kematian	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+50	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.192800_0	192800.0	192800.0	192800.0	CD	NUMBER	192800.0	192800.0				
+50	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+50	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.19715_0	19715.0	19715.0	19715.0	CD	NUMBER	19715.0	19715.0				
+50	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+50	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.111855_0	111855.0	111855.0	111855.0	CD	NUMBER	111855.0	111855.0				
+50	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.40_6	40.6	40.6	40.6	CD	NUMBER	40.6	40.6				
+50	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.1065_0	1065.0	1065.0	1065.0	CD	NUMBER	1065.0	1065.0				
+50	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+50	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+51	0	fb:cell_kharakteristik.penyebab_kematian_lainnya	penyebab kematian lainnya	penyebab|kematian|lainnya	penyebab|kematian|lainnya	NN|NN|NN	O|O|O	||					
+51	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.28340_0	28340.0	28340.0	28340.0	CD	NUMBER	28340.0	28340.0				
+51	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+51	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.2735_0	2735.0	2735.0	2735.0	CD	NUMBER	2735.0	2735.0				
+51	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+51	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.13645_0	13645.0	13645.0	13645.0	CD	NUMBER	13645.0	13645.0				
+51	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.34_8	34.8	34.8	34.8	CD	NUMBER	34.8	34.8				
+51	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.95_0	95.0	95.0	95.0	CD	NUMBER	95.0	95.0				
+51	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+51	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+52	0	fb:cell_kharakteristik.penyebab_utama_kematian_kematian_mendadak	penyebab utama kematian kematian mendadak	penyebab|utama|kematian|kematian|mendadak	penyebab|utama|kematian|kematian|mendadak	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+52	1	fb:cell_tahun_terakhir_kehidupan_nomor_rawat_inap.11860_0	11860.0	11860.0	11860.0	CD	NUMBER	11860.0	11860.0				
+52	2	fb:cell_tahun_terakhir_kehidupan_kelompok_persen_yang_dirawat_di_rumah_sakit.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+52	3	fb:cell_tahun_terakhir_kehidupan_nomor_perawatan_paliatif_rawat_inap.365_0	365.0	365.0	365.0	CD	NUMBER	365.0	365.0				
+52	4	fb:cell_tahun_terakhir_kehidupan_setiap_persen_perawatan_paliatif_rawat_inap_kohort_yang_dirawat_di_rumah_sakit.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+52	5	fb:cell_sebelum_30_hari_terakhir_kehidupan_nomor_rawat_inap.6925_0	6925.0	6925.0	6925.0	CD	NUMBER	6925.0	6925.0				
+52	6	fb:cell_sebelum_30_hari_terakhir_kehidupan_kelompok_persen_dirawat_di_rumah_sakit.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+52	7	fb:cell_sebelum_nomor_perawatan_paliatif_pra_terminal_30_hari_terakhir_kehidupan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+52	8	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_kohort_yang_dirawat_di_rumah_sakit.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+52	9	fb:cell_sebelum_30_hari_terakhir_kehidupan_perawatan_paliatif_pra_terminal_persen_setiap_kohort_perawatan_paliatif_rawat_inap_yang_dirawat_di_rumah_sakit_sebelum_terminal.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				

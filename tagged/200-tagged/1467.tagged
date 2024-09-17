@@ -1,0 +1,25 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.bahasa_inggris	bahasa inggris	bahasa|inggris	bahasa|inggris	NNP|NNP	O|O	|					
+-1	2	fb:row.row.perancis	Perancis	perancis	Perancis	NNP	O						
+-1	3	fb:row.row.bahasa_lain	bahasa lain	bahasa|lain	bahasa|lain	NNP|NNP	O|O	|					
+-1	4	fb:row.row.banyak	banyak	banyak	banyak	NN	O						
+-1	5	fb:row.row.total	total	total	total	NN	O						
+0	0	fb:cell_kharakteristik.pengecualian_nomor	pengecualian nomor	pengecualian|nomor	pengecualian|nomor	JJ|NN	O|O	|					
+0	1	fb:cell_bahasa_inggris.19460850	19460850	19460850	19460850	CD	NUMBER	1.946085E7	1.946085E7				
+0	2	fb:cell_perancis.7166705	7166705	7166705	7166705	CD	NUMBER	7166705.0	7166705.0				
+0	3	fb:cell_bahasa_lain.7321065	7321065	7321065	7321065	CD	NUMBER	7321065.0	7321065.0				
+0	4	fb:cell_banyak.818630_0	818630.0	818630.0	818630.0	CD	NUMBER	818630.0	818630.0				
+0	5	fb:cell_total.34767250_0	34767250.0	34767250.0	34767250.0	CD	NUMBER	3.476725E7	3.476725E7				
+1	0	fb:cell_kharakteristik.distribusi_nomor	distribusi nomor	distribusi|nomor	distribusi|nomor	NN|NN	O|O	|					
+1	1	fb:cell_bahasa_inggris.19821440	19821440	19821440	19821440	CD	NUMBER	1.982144E7	1.982144E7				
+1	2	fb:cell_perancis.7303740	7303740	7303740	7303740	CD	NUMBER	7303740.0	7303740.0				
+1	3	fb:cell_bahasa_lain.7642070	7642070	7642070	7642070	CD	NUMBER	7642070.0	7642070.0				
+1	4	fb:cell_banyak.null											
+1	5	fb:cell_total.34767250_0	34767250.0	34767250.0	34767250.0	CD	NUMBER	3.476725E7	3.476725E7				
+2	0	fb:cell_kharakteristik.penyertaan_nomor	penyertaan nomor	penyertaan|nomor	penyertaan|nomor	NN|NN	O|O	|					
+2	1	fb:cell_bahasa_inggris.20193330	20193330	20193330	20193330	CD	NUMBER	2.019333E7	2.019333E7				
+2	2	fb:cell_perancis.7452075	7452075	7452075	7452075	CD	NUMBER	7452075.0	7452075.0				
+2	3	fb:cell_bahasa_lain.7974375	7974375	7974375	7974375	CD	NUMBER	7974375.0	7974375.0				
+2	4	fb:cell_banyak.null											
+2	5	fb:cell_total.null											

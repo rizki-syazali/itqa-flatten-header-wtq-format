@@ -1,0 +1,19 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.korelasi_pearson	korelasi Pearson	korelasi|pearson	korelasi|Pearson	NNP|NNP	O|O	|					
+-1	2	fb:row.row.korelasi_spearman	korelasi spearman	korelasi|spearman	korelasi|spearman	NNP|NNP	PERSON|PERSON	|					
+0	0	fb:cell_kharakteristik.paaq_dan_akselerometer	paaq dan akselerometer	paaq|dan|akselerometer	paaq|dan|akselerometer	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_korelasi_pearson.0_414	0.414	0.414	0.414	CD	NUMBER	0.414	0.414				
+0	2	fb:cell_korelasi_spearman.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+1	0	fb:cell_kharakteristik.paaq_dan_akselerometer	paaq dan akselerometer	paaq|dan|akselerometer	paaq|dan|akselerometer	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_korelasi_pearson.0_441	0.441	0.441	0.441	CD	NUMBER	0.441	0.441				
+1	2	fb:cell_korelasi_spearman.0_38	0.38	0.38	0.38	CD	NUMBER	0.38	0.38				
+2	0	fb:cell_kharakteristik.ipaq_dan_akselerometer	ipaq dan akselerometer	ipaq|dan|akselerometer	ipaq|dan|akselerometer	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_korelasi_pearson.0_175	0.175	0.175	0.175	CD	NUMBER	0.175	0.175				
+2	2	fb:cell_korelasi_spearman.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				
+3	0	fb:cell_kharakteristik.ipaq_dan_akselerometer	ipaq dan akselerometer	ipaq|dan|akselerometer	ipaq|dan|akselerometer	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_korelasi_pearson.0_196	0.196	0.196	0.196	CD	NUMBER	0.196	0.196				
+3	2	fb:cell_korelasi_spearman.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+4	0	fb:cell_kharakteristik.ipaq_dan_paa	ipaq dan paa	ipaq|dan|paa	ipaq|dan|paa	NNP|NNP|NNP	O|PERSON|PERSON	||					
+4	1	fb:cell_korelasi_pearson.0_375	0.375	0.375	0.375	CD	NUMBER	0.375	0.375				
+4	2	fb:cell_korelasi_spearman.0_35100000000000003	0.35100000000000003	0.35100000000000003	0.35100000000000003	CD	NUMBER	0.35100000000000003	0.35100000000000003				

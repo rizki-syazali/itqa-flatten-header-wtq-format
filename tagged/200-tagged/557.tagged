@@ -1,0 +1,205 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.null	%	%	%	NN	O						
+-1	2	fb:row.row.interval_kepercayaan_95_dari	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	3	fb:row.row.interval_kepercayaan_95_sampai	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.alasan_penggunaan	alasan penggunaan	alasan|penggunaan	alasan|penggunaan	NNP|NNP	O|O	|					
+0	1	fb:cell_null.null											
+0	2	fb:cell_interval_kepercayaan_95_dari.null											
+0	3	fb:cell_interval_kepercayaan_95_sampai.null											
+1	0	fb:cell_kharakteristik.alasan_penggunaan_mendapatkan_dasar_tan	alasan penggunaan mendapatkan dasar tan	alasan|penggunaan|mendapatkan|dasar|tan	alasan|penggunaan|mendapatkan|dasar|tan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_null.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+1	2	fb:cell_interval_kepercayaan_95_dari.57_3	57.3	57.3	57.3	CD	NUMBER	57.3	57.3				
+1	3	fb:cell_interval_kepercayaan_95_sampai.66_6	66.6	66.6	66.6	CD	NUMBER	66.6	66.6				
+2	0	fb:cell_kharakteristik.alasan_untuk_menggunakan_estetika	alasan untuk menggunakan estetika	alasan|untuk|menggunakan|estetika	alasan|untuk|menggunakan|estetika	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_null.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+2	2	fb:cell_interval_kepercayaan_95_dari.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+2	3	fb:cell_interval_kepercayaan_95_sampai.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+3	0	fb:cell_kharakteristik.alasan_penggunaan_bersantai_merasa_lebih_baik	alasan penggunaan bersantai/merasa lebih baik	alasan|penggunaan|bersantai/merasa|lebih|baik	alasan|penggunaan|bersantai/merasa|lebih|baik	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||				alasan penggunaan bersantai|merasa lebih baik	fb:part_kharakteristik.alasan_penggunaan_bersantai|fb:part_kharakteristik.merasa_lebih_baik
+3	1	fb:cell_null.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+3	2	fb:cell_interval_kepercayaan_95_dari.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+3	3	fb:cell_interval_kepercayaan_95_sampai.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+4	0	fb:cell_kharakteristik.alasan_penggunaan_meningkatkan_sistem_kekebalan_tubuh	alasan penggunaan meningkatkan sistem kekebalan tubuh	alasan|penggunaan|meningkatkan|sistem|kekebalan|tubuh	alasan|penggunaan|meningkatkan|sistem|kekebalan|tubuh	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+4	1	fb:cell_null.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+4	2	fb:cell_interval_kepercayaan_95_dari.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+4	3	fb:cell_interval_kepercayaan_95_sampai.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+5	0	fb:cell_kharakteristik.alasan_penggunaan_merawat_kondisi_kulit	alasan penggunaan merawat kondisi kulit	alasan|penggunaan|merawat|kondisi|kulit	alasan|penggunaan|merawat|kondisi|kulit	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_null.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+5	2	fb:cell_interval_kepercayaan_95_dari.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+5	3	fb:cell_interval_kepercayaan_95_sampai.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+6	0	fb:cell_kharakteristik.alasan_penggunaan_mencegah_kanker	alasan penggunaan mencegah kanker	alasan|penggunaan|mencegah|kanker	alasan|penggunaan|mencegah|kanker	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_null.null											
+6	2	fb:cell_interval_kepercayaan_95_dari.null											
+6	3	fb:cell_interval_kepercayaan_95_sampai.null											
+7	0	fb:cell_kharakteristik.alasan_penggunaan_lainnya	alasan penggunaan lainnya	alasan|penggunaan|lainnya	alasan|penggunaan|lainnya	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_null.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+7	2	fb:cell_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+7	3	fb:cell_interval_kepercayaan_95_sampai.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+8	0	fb:cell_kharakteristik.frekuensi_penggunaan	frekuensi penggunaan	frekuensi|penggunaan	frekuensi|penggunaan	NNP|NNP	O|O	|					
+8	1	fb:cell_null.null											
+8	2	fb:cell_interval_kepercayaan_95_dari.null											
+8	3	fb:cell_interval_kepercayaan_95_sampai.null											
+9	0	fb:cell_kharakteristik.frekuensi_penggunaan_berkala	frekuensi penggunaan berkala	frekuensi|penggunaan|berkala	frekuensi|penggunaan|berkala	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_null.73_4	73.4	73.4	73.4	CD	NUMBER	73.4	73.4				
+9	2	fb:cell_interval_kepercayaan_95_dari.69_2	69.2	69.2	69.2	CD	NUMBER	69.2	69.2				
+9	3	fb:cell_interval_kepercayaan_95_sampai.77_6	77.6	77.6	77.6	CD	NUMBER	77.6	77.6				
+10	0	fb:cell_kharakteristik.frekuensi_penggunaan_teratur	frekuensi penggunaan teratur	frekuensi|penggunaan|teratur	frekuensi|penggunaan|teratur	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_null.26_5	26.5	26.5	26.5	CD	NUMBER	26.5	26.5				
+10	2	fb:cell_interval_kepercayaan_95_dari.22_2	22.2	22.2	22.2	CD	NUMBER	22.2	22.2				
+10	3	fb:cell_interval_kepercayaan_95_sampai.30_7	30.7	30.7	30.7	CD	NUMBER	30.7	30.7				
+11	0	fb:cell_kharakteristik.frekuensi_penggunaan_dalam_sebulan_terakhir	frekuensi penggunaan dalam sebulan terakhir	frekuensi|penggunaan|dalam|sebulan|terakhir	frekuensi|penggunaan|dalam|sebulan|terakhir	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+11	1	fb:cell_null.null											
+11	2	fb:cell_interval_kepercayaan_95_dari.null											
+11	3	fb:cell_interval_kepercayaan_95_sampai.null											
+12	0	fb:cell_kharakteristik.frekuensi_penggunaan_dalam_sebulan_terakhir_1_hingga_10_sesi	frekuensi penggunaan dalam sebulan terakhir 1 hingga 10 sesi	frekuensi|penggunaan|dalam|sebulan|terakhir|1|hingga|10|sesi	frekuensi|penggunaan|dalam|sebulan|terakhir|1|hingga|10|sesi	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||1.0||10.0|	1.0		10.0		
+12	1	fb:cell_null.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+12	2	fb:cell_interval_kepercayaan_95_dari.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+12	3	fb:cell_interval_kepercayaan_95_sampai.79_1	79.1	79.1	79.1	CD	NUMBER	79.1	79.1				
+13	0	fb:cell_kharakteristik.frekuensi_penggunaan_dalam_sebulan_terakhir_11_hingga_31_sesi	frekuensi penggunaan dalam sebulan terakhir 11 hingga 31 sesi	frekuensi|penggunaan|dalam|sebulan|terakhir|11|hingga|31|sesi	frekuensi|penggunaan|dalam|sebulan|terakhir|11|hingga|31|sesi	NNP|NNP|NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||11.0||31.0|	11.0		31.0		
+13	1	fb:cell_null.24_9	24.9	24.9	24.9	CD	NUMBER	24.9	24.9				
+13	2	fb:cell_interval_kepercayaan_95_dari.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+13	3	fb:cell_interval_kepercayaan_95_sampai.33_8	33.8	33.8	33.8	CD	NUMBER	33.8	33.8				
+14	0	fb:cell_kharakteristik.frekuensi_penggunaan_sebulan_terakhir_tidak_tersedia_tidak_tahu_penolakan_tidak_disebutkan	frekuensi penggunaan sebulan terakhir tidak tersedia/tidak tahu/penolakan/tidak disebutkan	frekuensi|penggunaan|sebulan|terakhir|tidak|tersedia/tidak|tahu/penolakan/tidak|disebutkan	frekuensi|penggunaan|sebulan|terakhir|tidak|tersedia/tidak|tahu/penolakan/tidak|disebutkan	NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||				frekuensi penggunaan sebulan terakhir tidak tersedia|tidak tahu|penolakan|tidak disebutkan	fb:part_kharakteristik.frekuensi_penggunaan_sebulan_terakhir_tidak_tersedia|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.penolakan|fb:part_kharakteristik.tidak_disebutkan
+14	1	fb:cell_null.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+14	2	fb:cell_interval_kepercayaan_95_dari.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+14	3	fb:cell_interval_kepercayaan_95_sampai.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+15	0	fb:cell_kharakteristik.memakai_pelindung_mata	memakai pelindung mata	memakai|pelindung|mata	memakai|pelindung|mata	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_null.null											
+15	2	fb:cell_interval_kepercayaan_95_dari.null											
+15	3	fb:cell_interval_kepercayaan_95_sampai.null											
+16	0	fb:cell_kharakteristik.memakai_pelindung_mata_ya	memakai pelindung mata ya	memakai|pelindung|mata|ya	memakai|pelindung|mata|ya	NNP|NNP|NNP|PRP	O|O|O|O	|||					
+16	1	fb:cell_null.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+16	2	fb:cell_interval_kepercayaan_95_dari.80_5	80.5	80.5	80.5	CD	NUMBER	80.5	80.5				
+16	3	fb:cell_interval_kepercayaan_95_sampai.88_5	88.5	88.5	88.5	CD	NUMBER	88.5	88.5				
+17	0	fb:cell_kharakteristik.memakai_pelindung_mata_no	memakai pelindung mata no	memakai|pelindung|mata|no	memakai|pelindung|mata|no	NNP|NNP|NNP|DT	O|O|O|O	|||					
+17	1	fb:cell_null.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+17	2	fb:cell_interval_kepercayaan_95_dari.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+17	3	fb:cell_interval_kepercayaan_95_sampai.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+18	0	fb:cell_kharakteristik.baca_label_peringatan_setiap_sesi_dalam_setahun_terakhir	baca label peringatan setiap sesi dalam setahun terakhir	baca|label|peringatan|setiap|sesi|dalam|setahun|terakhir	baca|label|peringatan|setiap|sesi|dalam|setahun|terakhir	NNP|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+18	1	fb:cell_null.null											
+18	2	fb:cell_interval_kepercayaan_95_dari.null											
+18	3	fb:cell_interval_kepercayaan_95_sampai.null											
+19	0	fb:cell_kharakteristik.baca_label_peringatan_setiap_sesi_dalam_setahun_terakhir_ya	baca label peringatan setiap sesi dalam setahun terakhir ya	baca|label|peringatan|setiap|sesi|dalam|setahun|terakhir|ya	baca|label|peringatan|setiap|sesi|dalam|setahun|terakhir|ya	NNP|NN|NN|NN|NN|NN|NN|NN|PRP	O|O|O|O|O|O|O|O|O	||||||||					
+19	1	fb:cell_null.51_7	51.7	51.7	51.7	CD	NUMBER	51.7	51.7				
+19	2	fb:cell_interval_kepercayaan_95_dari.46_8	46.8	46.8	46.8	CD	NUMBER	46.8	46.8				
+19	3	fb:cell_interval_kepercayaan_95_sampai.56_5	56.5	56.5	56.5	CD	NUMBER	56.5	56.5				
+20	0	fb:cell_kharakteristik.baca_label_peringatan_setiap_sesi_dalam_satu_tahun_terakhir_no	baca label peringatan setiap sesi dalam satu tahun terakhir no	baca|label|peringatan|setiap|sesi|dalam|satu|tahun|terakhir|no	baca|label|peringatan|setiap|sesi|dalam|satu|tahun|terakhir|no	NNP|NN|NN|NN|NN|NN|FW|FW|FW|DT	O|O|O|O|O|O|O|O|O|O	|||||||||					
+20	1	fb:cell_null.48_1	48.1	48.1	48.1	CD	NUMBER	48.1	48.1				
+20	2	fb:cell_interval_kepercayaan_95_dari.43_2	43.2	43.2	43.2	CD	NUMBER	43.2	43.2				
+20	3	fb:cell_interval_kepercayaan_95_sampai.52_9	52.9	52.9	52.9	CD	NUMBER	52.9	52.9				
+21	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan	alasan untuk tidak membaca label peringatan	alasan|untuk|tidak|membaca|label|peringatan	alasan|untuk|tidak|membaca|label|peringatan	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+21	1	fb:cell_null.null											
+21	2	fb:cell_interval_kepercayaan_95_dari.null											
+21	3	fb:cell_interval_kepercayaan_95_sampai.null											
+22	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_yang_telah_dibaca_sebelumnya	alasan untuk tidak membaca label peringatan yang telah dibaca sebelumnya	alasan|untuk|tidak|membaca|label|peringatan|yang|telah|dibaca|sebelumnya	alasan|untuk|tidak|membaca|label|peringatan|yang|telah|dibaca|sebelumnya	NNP|NNP|NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+22	1	fb:cell_null.61_4	61.4	61.4	61.4	CD	NUMBER	61.4	61.4				
+22	2	fb:cell_interval_kepercayaan_95_dari.54_4	54.4	54.4	54.4	CD	NUMBER	54.4	54.4				
+22	3	fb:cell_interval_kepercayaan_95_sampai.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+23	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_tidak_penting	alasan untuk tidak membaca label peringatan tidak penting	alasan|untuk|tidak|membaca|label|peringatan|tidak|penting	alasan|untuk|tidak|membaca|label|peringatan|tidak|penting	NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+23	1	fb:cell_null.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				
+23	2	fb:cell_interval_kepercayaan_95_dari.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+23	3	fb:cell_interval_kepercayaan_95_sampai.22_8	22.8	22.8	22.8	CD	NUMBER	22.8	22.8				
+24	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_tidak_memperhatikan_label	alasan untuk tidak membaca label peringatan tidak memperhatikan label	alasan|untuk|tidak|membaca|label|peringatan|tidak|memperhatikan|label	alasan|untuk|tidak|membaca|label|peringatan|tidak|memperhatikan|label	NNP|NNP|NNP|NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+24	1	fb:cell_null.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+24	2	fb:cell_interval_kepercayaan_95_dari.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+24	3	fb:cell_interval_kepercayaan_95_sampai.17_1	17.1	17.1	17.1	CD	NUMBER	17.1	17.1				
+25	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_karena_instruksi_lisan_oleh_petugas	alasan untuk tidak membaca label peringatan karena instruksi lisan oleh petugas	alasan|untuk|tidak|membaca|label|peringatan|karena|instruksi|lisan|oleh|petugas	alasan|untuk|tidak|membaca|label|peringatan|karena|instruksi|lisan|oleh|petugas	NNP|NNP|NNP|NNP|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+25	1	fb:cell_null.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+25	2	fb:cell_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+25	3	fb:cell_interval_kepercayaan_95_sampai.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+26	0	fb:cell_kharakteristik.alasan_tidak_membaca_label_peringatan_tidak_ada_label_peringatan	alasan tidak membaca label peringatan tidak ada label peringatan	alasan|tidak|membaca|label|peringatan|tidak|ada|label|peringatan	alasan|tidak|membaca|label|peringatan|tidak|ada|label|peringatan	NNP|NNP|NNP|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+26	1	fb:cell_null.null											
+26	2	fb:cell_interval_kepercayaan_95_dari.null											
+26	3	fb:cell_interval_kepercayaan_95_sampai.null											
+27	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_tidak_punya_waktu	alasan untuk tidak membaca label peringatan tidak punya waktu	alasan|untuk|tidak|membaca|label|peringatan|tidak|punya|waktu	alasan|untuk|tidak|membaca|label|peringatan|tidak|punya|waktu	NNP|NNP|NNP|NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+27	1	fb:cell_null.null											
+27	2	fb:cell_interval_kepercayaan_95_dari.null											
+27	3	fb:cell_interval_kepercayaan_95_sampai.null											
+28	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_tidak_terbaca	alasan untuk tidak membaca label peringatan tidak terbaca	alasan|untuk|tidak|membaca|label|peringatan|tidak|terbaca	alasan|untuk|tidak|membaca|label|peringatan|tidak|terbaca	NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+28	1	fb:cell_null.null											
+28	2	fb:cell_interval_kepercayaan_95_dari.null											
+28	3	fb:cell_interval_kepercayaan_95_sampai.null											
+29	0	fb:cell_kharakteristik.alasan_untuk_tidak_membaca_label_peringatan_lainnya	alasan untuk tidak membaca label peringatan lainnya	alasan|untuk|tidak|membaca|label|peringatan|lainnya	alasan|untuk|tidak|membaca|label|peringatan|lainnya	NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+29	1	fb:cell_null.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+29	2	fb:cell_interval_kepercayaan_95_dari.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+29	3	fb:cell_interval_kepercayaan_95_sampai.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+30	0	fb:cell_kharakteristik.mengikuti_jadwal_pemaparan_pada_tahun_lalu	mengikuti jadwal pemaparan pada tahun lalu	mengikuti|jadwal|pemaparan|pada|tahun|lalu	mengikuti|jadwal|pemaparan|pada|tahun|lalu	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+30	1	fb:cell_null.null											
+30	2	fb:cell_interval_kepercayaan_95_dari.null											
+30	3	fb:cell_interval_kepercayaan_95_sampai.null											
+31	0	fb:cell_kharakteristik.mengikuti_jadwal_pemaparan_setahun_terakhir_ya	mengikuti jadwal pemaparan setahun terakhir ya	mengikuti|jadwal|pemaparan|setahun|terakhir|ya	mengikuti|jadwal|pemaparan|setahun|terakhir|ya	NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O	|||||					
+31	1	fb:cell_null.80_2	80.2	80.2	80.2	CD	NUMBER	80.2	80.2				
+31	2	fb:cell_interval_kepercayaan_95_dari.75_8	75.8	75.8	75.8	CD	NUMBER	75.8	75.8				
+31	3	fb:cell_interval_kepercayaan_95_sampai.84_7	84.7	84.7	84.7	CD	NUMBER	84.7	84.7				
+32	0	fb:cell_kharakteristik.mengikuti_jadwal_pemaparan_pada_tahun_lalu_no	mengikuti jadwal pemaparan pada tahun lalu no	mengikuti|jadwal|pemaparan|pada|tahun|lalu|no	mengikuti|jadwal|pemaparan|pada|tahun|lalu|no	NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O	||||||					
+32	1	fb:cell_null.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+32	2	fb:cell_interval_kepercayaan_95_dari.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+32	3	fb:cell_interval_kepercayaan_95_sampai.22_8	22.8	22.8	22.8	CD	NUMBER	22.8	22.8				
+33	0	fb:cell_kharakteristik.alasan_untuk_tidak_mengikuti_jadwal_pemaparan	alasan untuk tidak mengikuti jadwal pemaparan	alasan|untuk|tidak|mengikuti|jadwal|pemaparan	alasan|untuk|tidak|mengikuti|jadwal|pemaparan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+33	1	fb:cell_null.null											
+33	2	fb:cell_interval_kepercayaan_95_dari.null											
+33	3	fb:cell_interval_kepercayaan_95_sampai.null											
+34	0	fb:cell_kharakteristik.alasan_tidak_mengikuti_jadwal_pemaparan_yang_diikuti_pertama_kali	alasan tidak mengikuti jadwal pemaparan yang diikuti pertama kali	alasan|tidak|mengikuti|jadwal|pemaparan|yang|diikuti|pertama|kali	alasan|tidak|mengikuti|jadwal|pemaparan|yang|diikuti|pertama|kali	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+34	1	fb:cell_null.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+34	2	fb:cell_interval_kepercayaan_95_dari.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+34	3	fb:cell_interval_kepercayaan_95_sampai.36_6	36.6	36.6	36.6	CD	NUMBER	36.6	36.6				
+35	0	fb:cell_kharakteristik.alasan_untuk_tidak_mengikuti_jadwal_pemaparan_tidak_ada_jadwal_pemaparan	alasan untuk tidak mengikuti jadwal pemaparan tidak ada jadwal pemaparan	alasan|untuk|tidak|mengikuti|jadwal|pemaparan|tidak|ada|jadwal|pemaparan	alasan|untuk|tidak|mengikuti|jadwal|pemaparan|tidak|ada|jadwal|pemaparan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|JJ|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+35	1	fb:cell_null.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+35	2	fb:cell_interval_kepercayaan_95_dari.12_1	12.1	12.1	12.1	CD	NUMBER	12.1	12.1				
+35	3	fb:cell_interval_kepercayaan_95_sampai.32_6	32.6	32.6	32.6	CD	NUMBER	32.6	32.6				
+36	0	fb:cell_kharakteristik.alasan_untuk_tidak_mengikuti_jadwal_pemaparan_mengingat_jadwal_pemaparan_yang_berbeda_oleh_petugas	alasan untuk tidak mengikuti jadwal pemaparan mengingat jadwal pemaparan yang berbeda oleh petugas	alasan|untuk|tidak|mengikuti|jadwal|pemaparan|mengingat|jadwal|pemaparan|yang|berbeda|oleh|petugas	alasan|untuk|tidak|mengikuti|jadwal|pemaparan|mengingat|jadwal|pemaparan|yang|berbeda|oleh|petugas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+36	1	fb:cell_null.null											
+36	2	fb:cell_interval_kepercayaan_95_dari.null											
+36	3	fb:cell_interval_kepercayaan_95_sampai.null											
+37	0	fb:cell_kharakteristik.alasan_tidak_mengikuti_jadwal_pemaparan_lupa	alasan tidak mengikuti jadwal pemaparan lupa	alasan|tidak|mengikuti|jadwal|pemaparan|lupa	alasan|tidak|mengikuti|jadwal|pemaparan|lupa	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+37	1	fb:cell_null.null											
+37	2	fb:cell_interval_kepercayaan_95_dari.null											
+37	3	fb:cell_interval_kepercayaan_95_sampai.null											
+38	0	fb:cell_kharakteristik.alasan_tidak_mengikuti_jadwal_pemaparan_lainnya	alasan tidak mengikuti jadwal pemaparan lainnya	alasan|tidak|mengikuti|jadwal|pemaparan|lainnya	alasan|tidak|mengikuti|jadwal|pemaparan|lainnya	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+38	1	fb:cell_null.44_7	44.7	44.7	44.7	CD	NUMBER	44.7	44.7				
+38	2	fb:cell_interval_kepercayaan_95_dari.32_3	32.3	32.3	32.3	CD	NUMBER	32.3	32.3				
+38	3	fb:cell_interval_kepercayaan_95_sampai.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+39	0	fb:cell_kharakteristik.ketidaknyamanan_cedera_pada_kulit_dalam_satu_tahun_terakhir	ketidaknyamanan/cedera pada kulit dalam satu tahun terakhir	ketidaknyamanan/cedera|pada|kulit|dalam|satu|tahun|terakhir	ketidaknyamanan/cedera|pada|kulit|dalam|satu|tahun|terakhir	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				ketidaknyamanan|cedera pada kulit dalam satu tahun terakhir	fb:part_kharakteristik.ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_satu_tahun_terakhir
+39	1	fb:cell_null.null											
+39	2	fb:cell_interval_kepercayaan_95_dari.null											
+39	3	fb:cell_interval_kepercayaan_95_sampai.null											
+40	0	fb:cell_kharakteristik.ketidaknyamanan_cedera_pada_kulit_dalam_setahun_terakhir_ya	ketidaknyamanan/cedera pada kulit dalam setahun terakhir ya	ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir|ya	ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir|ya	NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O	||||||				ketidaknyamanan|cedera pada kulit dalam setahun terakhir ya	fb:part_kharakteristik.ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_setahun_terakhir_ya
+40	1	fb:cell_null.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+40	2	fb:cell_interval_kepercayaan_95_dari.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+40	3	fb:cell_interval_kepercayaan_95_sampai.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+41	0	fb:cell_kharakteristik.ketidaknyamanan_cedera_pada_kulit_dalam_setahun_terakhir_no	ketidaknyamanan/cedera pada kulit dalam setahun terakhir no	ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir|no	ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir|no	NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O	||||||				ketidaknyamanan|cedera pada kulit dalam setahun terakhir no	fb:part_kharakteristik.ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_setahun_terakhir_no
+41	1	fb:cell_null.89_6	89.6	89.6	89.6	CD	NUMBER	89.6	89.6				
+41	2	fb:cell_interval_kepercayaan_95_dari.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+41	3	fb:cell_interval_kepercayaan_95_sampai.92_5	92.5	92.5	92.5	CD	NUMBER	92.5	92.5				
+42	0	fb:cell_kharakteristik.jumlah_episode_ketidaknyamanan_cedera_pada_kulit_dalam_setahun_terakhir	jumlah episode ketidaknyamanan/cedera pada kulit dalam setahun terakhir	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir	NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				jumlah episode ketidaknyamanan|cedera pada kulit dalam setahun terakhir	fb:part_kharakteristik.jumlah_episode_ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_setahun_terakhir
+42	1	fb:cell_null.null											
+42	2	fb:cell_interval_kepercayaan_95_dari.null											
+42	3	fb:cell_interval_kepercayaan_95_sampai.null											
+43	0	fb:cell_kharakteristik.jumlah_episode_ketidaknyamanan_cedera_pada_kulit_dalam_setahun_terakhir_1	jumlah episode ketidaknyamanan/cedera pada kulit dalam setahun terakhir 1	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir|1	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|setahun|terakhir|1	NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||1.0	1.0			jumlah episode ketidaknyamanan|cedera pada kulit dalam setahun terakhir 1	fb:part_kharakteristik.jumlah_episode_ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_setahun_terakhir_1
+43	1	fb:cell_null.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+43	2	fb:cell_interval_kepercayaan_95_dari.41_4	41.4	41.4	41.4	CD	NUMBER	41.4	41.4				
+43	3	fb:cell_interval_kepercayaan_95_sampai.71_3	71.3	71.3	71.3	CD	NUMBER	71.3	71.3				
+44	0	fb:cell_kharakteristik.jumlah_episode_ketidaknyamanan_cedera_pada_kulit_dalam_satu_tahun_terakhir_2_sampai_12	jumlah episode ketidaknyamanan/cedera pada kulit dalam satu tahun terakhir 2 sampai 12	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|satu|tahun|terakhir|2|sampai|12	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|satu|tahun|terakhir|2|sampai|12	NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|FW|CD	O|O|O|O|O|O|O|O|O|NUMBER|O|NUMBER	|||||||||2.0||12.0	2.0		12.0	jumlah episode ketidaknyamanan|cedera pada kulit dalam satu tahun terakhir 2 sampai 12	fb:part_kharakteristik.jumlah_episode_ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_satu_tahun_terakhir_2_sampai_12
+44	1	fb:cell_null.41_7	41.7	41.7	41.7	CD	NUMBER	41.7	41.7				
+44	2	fb:cell_interval_kepercayaan_95_dari.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+44	3	fb:cell_interval_kepercayaan_95_sampai.56_7	56.7	56.7	56.7	CD	NUMBER	56.7	56.7				
+45	0	fb:cell_kharakteristik.jumlah_episode_ketidaknyamanan_cedera_pada_kulit_dalam_satu_tahun_terakhir_yang_tidak_berlaku_tidak_diketahui_ditolak_tidak_disebutkan	jumlah episode ketidaknyamanan/cedera pada kulit dalam satu tahun terakhir yang tidak berlaku/tidak diketahui/ditolak/tidak disebutkan	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|satu|tahun|terakhir|yang|tidak|berlaku/tidak|diketahui/ditolak/tidak|disebutkan	jumlah|episode|ketidaknyamanan/cedera|pada|kulit|dalam|satu|tahun|terakhir|yang|tidak|berlaku/tidak|diketahui/ditolak/tidak|disebutkan	NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				jumlah episode ketidaknyamanan|cedera pada kulit dalam satu tahun terakhir yang tidak berlaku|tidak diketahui|ditolak|tidak disebutkan	fb:part_kharakteristik.jumlah_episode_ketidaknyamanan|fb:part_kharakteristik.cedera_pada_kulit_dalam_satu_tahun_terakhir_yang_tidak_berlaku|fb:part_kharakteristik.tidak_diketahui|fb:part_kharakteristik.ditolak|fb:part_kharakteristik.tidak_disebutkan
+45	1	fb:cell_null.null											
+45	2	fb:cell_interval_kepercayaan_95_dari.null											
+45	3	fb:cell_interval_kepercayaan_95_sampai.null											
+46	0	fb:cell_kharakteristik.berapa_hari_ketidaknyamanan_cedera_berlangsung	berapa hari ketidaknyamanan/cedera berlangsung	berapa|hari|ketidaknyamanan/cedera|berlangsung	berapa|hari|ketidaknyamanan/cedera|berlangsung	NNP|NNP|NNP|NNP	O|O|O|O	|||				berapa hari ketidaknyamanan|cedera berlangsung	fb:part_kharakteristik.berapa_hari_ketidaknyamanan|fb:part_kharakteristik.cedera_berlangsung
+46	1	fb:cell_null.null											
+46	2	fb:cell_interval_kepercayaan_95_dari.null											
+46	3	fb:cell_interval_kepercayaan_95_sampai.null											
+47	0	fb:cell_kharakteristik.jumlah_hari_ketidaknyamanan_cedera_berlangsung_selama_2_hari_atau_kurang	jumlah hari ketidaknyamanan/cedera berlangsung selama 2 hari atau kurang	jumlah|hari|ketidaknyamanan/cedera|berlangsung|selama|2|hari|atau|kurang	jumlah|hari|ketidaknyamanan/cedera|berlangsung|selama|2|hari|atau|kurang	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|O|O	|||||2.0|||	2.0			jumlah hari ketidaknyamanan|cedera berlangsung selama 2 hari atau kurang	fb:part_kharakteristik.jumlah_hari_ketidaknyamanan|fb:part_kharakteristik.cedera_berlangsung_selama_2_hari_atau_kurang
+47	1	fb:cell_null.69_7	69.7	69.7	69.7	CD	NUMBER	69.7	69.7				
+47	2	fb:cell_interval_kepercayaan_95_dari.55_4	55.4	55.4	55.4	CD	NUMBER	55.4	55.4				
+47	3	fb:cell_interval_kepercayaan_95_sampai.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+48	0	fb:cell_kharakteristik.jumlah_hari_ketidaknyamanan_cedera_berlangsung_lebih_dari_2	jumlah hari ketidaknyamanan/cedera berlangsung lebih dari 2	jumlah|hari|ketidaknyamanan/cedera|berlangsung|lebih|dari|2	jumlah|hari|ketidaknyamanan/cedera|berlangsung|lebih|dari|2	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|NUMBER	||||||2.0	2.0			jumlah hari ketidaknyamanan|cedera berlangsung lebih dari 2	fb:part_kharakteristik.jumlah_hari_ketidaknyamanan|fb:part_kharakteristik.cedera_berlangsung_lebih_dari_2
+48	1	fb:cell_null.28_1	28.1	28.1	28.1	CD	NUMBER	28.1	28.1				
+48	2	fb:cell_interval_kepercayaan_95_dari.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+48	3	fb:cell_interval_kepercayaan_95_sampai.42_6	42.6	42.6	42.6	CD	NUMBER	42.6	42.6				
+49	0	fb:cell_kharakteristik.jumlah_hari_ketidaknyamanan_cedera_berlangsung_tidak_berlaku_tidak_tahu_menolak_tidak_disebutkan	jumlah hari ketidaknyamanan/cedera berlangsung tidak berlaku/tidak tahu/menolak/tidak disebutkan	jumlah|hari|ketidaknyamanan/cedera|berlangsung|tidak|berlaku/tidak|tahu/menolak/tidak|disebutkan	jumlah|hari|ketidaknyamanan/cedera|berlangsung|tidak|berlaku/tidak|tahu/menolak/tidak|disebutkan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				jumlah hari ketidaknyamanan|cedera berlangsung tidak berlaku|tidak tahu|menolak|tidak disebutkan	fb:part_kharakteristik.jumlah_hari_ketidaknyamanan|fb:part_kharakteristik.cedera_berlangsung_tidak_berlaku|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.menolak|fb:part_kharakteristik.tidak_disebutkan
+49	1	fb:cell_null.null											
+49	2	fb:cell_interval_kepercayaan_95_dari.null											
+49	3	fb:cell_interval_kepercayaan_95_sampai.null											

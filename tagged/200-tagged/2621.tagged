@@ -1,0 +1,229 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen	rata-rata pertumbuhan tahunan 2017 hingga 2036 persen	rata|rata|pertumbuhan|tahunan|2017|hingga|2036|persen	rata|rata|pertumbuhan|tahunan|2017|hingga|2036|persen	JJ|JJ|NNP|NNP|CD|NNP|CD|NNP	O|O|O|O|DATE|O|DATE|O	||||2017||2036|					
+-1	2	fb:row.row.tingkat_partisipasi_keseluruhan_2017_persen	tingkat partisipasi keseluruhan 2017 persen	tingkat|partisipasi|keseluruhan|2017|persen	tingkat|partisipasi|keseluruhan|2017|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2017|					
+-1	3	fb:row.row.tingkat_partisipasi_keseluruhan_2036_persen	tingkat partisipasi keseluruhan 2036 persen	tingkat|partisipasi|keseluruhan|2036|persen	tingkat|partisipasi|keseluruhan|2036|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2036|					
+-1	4	fb:row.row.berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen	berusia 55 tahun ke atas/usia 15 tahun ke atas pada tahun 2017 persen	berusia|55|tahun|ke|atas/usia|15|tahun|ke|atas|pada|tahun|2017|persen	berusia|55|tahun|ke|atas/usia|15|tahun|ke|atas|pada|tahun|2017|persen	NNP|CD|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|NUMBER|O|O|O|NUMBER|O|O|O|O|O|DATE|O	|55.0||||15.0||||||2017|					
+-1	5	fb:row.row.berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen	berusia 55 tahun ke atas/usia 15 tahun ke atas sebesar 2036 persen	berusia|55|tahun|ke|atas/usia|15|tahun|ke|atas|sebesar|2036|persen	berusia|55|tahun|ke|atas/usia|15|tahun|ke|atas|sebesar|2036|persen	NNP|CD|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|CD|NNP	O|NUMBER|O|O|O|NUMBER|O|O|O|O|DATE|O	|55.0||||15.0|||||2036|					
+-1	6	fb:row.row.orang_kelahiran_asing_2017_persen	orang kelahiran asing 2017 persen	orang|kelahiran|asing|2017|persen	orang|kelahiran|asing|2017|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2017|					
+-1	7	fb:row.row.orang_kelahiran_asing_2036_persen	orang kelahiran asing 2036 persen	orang|kelahiran|asing|2036|persen	orang|kelahiran|asing|2036|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2036|					
+-1	8	fb:row.row.minoritas_yang_terlihat_2017_persen	minoritas yang terlihat 2017 persen	minoritas|yang|terlihat|2017|persen	minoritas|yang|terlihat|2017|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2017|					
+-1	9	fb:row.row.minoritas_yang_terlihat_2036_persen	minoritas yang terlihat 2036 persen	minoritas|yang|terlihat|2036|persen	minoritas|yang|terlihat|2036|persen	NNP|NNP|NNP|CD|NNP	O|O|O|DATE|O	|||2036|					
+-1	10	fb:row.row.rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio	rasio angkatan kerja, umur 15 tahun ke atas/tidak angkatan kerja, umur 65 tahun ke atas tahun 2017 rasio	rasio|angkatan|kerja|,|umur|15|tahun|ke|atas/tidak|angkatan|kerja|,|umur|65|tahun|ke|atas|tahun|2017|rasio	rasio|angkatan|kerja|,|umur|15|tahun|ke|atas/tidak|angkatan|kerja|,|umur|65|tahun|ke|atas|tahun|2017|rasio	NNP|NNP|NNP|,|NNP|CD|NNP|NNP|NNP|NNP|NNP|,|NNP|CD|NNP|NNP|NNP|NNP|CD|NNP	PERSON|O|O|O|O|NUMBER|O|O|O|O|O|O|O|NUMBER|O|O|O|O|DATE|O	|||||15.0||||||||65.0|||||2017|					
+-1	11	fb:row.row.rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio	rasio angkatan kerja, umur 15 tahun ke atas/tidak angkatan kerja, umur 65 tahun ke atas 2036 rasio	rasio|angkatan|kerja|,|umur|15|tahun|ke|atas/tidak|angkatan|kerja|,|umur|65|tahun|ke|atas|2036|rasio	rasio|angkatan|kerja|,|umur|15|tahun|ke|atas/tidak|angkatan|kerja|,|umur|65|tahun|ke|atas|2036|rasio	NNP|NNP|NNP|,|NNP|CD|NNP|NNP|NNP|NNP|NNP|,|NNP|CD|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|NUMBER|O|O|O|O|O|O|O|NUMBER|O|O|O|DATE|O	|||||15.0||||||||65.0||||2036|					
+0	0	fb:cell_kharakteristik.cmas_atlantik	cmas Atlantik	cmas|atlantik	cmas|Atlantik	NNPS|NNP	O|O	|					
+0	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+0	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+0	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.60_4	60.4	60.4	60.4	CD	NUMBER	60.4	60.4				
+0	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+0	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				
+0	6	fb:cell_orang_kelahiran_asing_2017_persen.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+0	7	fb:cell_orang_kelahiran_asing_2036_persen.14_7	14.7	14.7	14.7	CD	NUMBER	14.7	14.7				
+0	8	fb:cell_minoritas_yang_terlihat_2017_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+0	9	fb:cell_minoritas_yang_terlihat_2036_persen.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+0	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+0	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+1	0	fb:cell_kharakteristik.atlantik_di_luar_cmas	Atlantik, di luar cmas	atlantik|,|di|luar|cmas	Atlantik|,|di|luar|cmas	NNP|,|NNP|NNP|NNPS	O|O|O|O|O	||||				Atlantik|di luar cmas	fb:part_kharakteristik.atlantik|fb:part_kharakteristik.di_luar_cmas
+1	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+1	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.58_4	58.4	58.4	58.4	CD	NUMBER	58.4	58.4				
+1	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.53_2	53.2	53.2	53.2	CD	NUMBER	53.2	53.2				
+1	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.25_1	25.1	25.1	25.1	CD	NUMBER	25.1	25.1				
+1	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.31_6	31.6	31.6	31.6	CD	NUMBER	31.6	31.6				
+1	6	fb:cell_orang_kelahiran_asing_2017_persen.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+1	7	fb:cell_orang_kelahiran_asing_2036_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+1	8	fb:cell_minoritas_yang_terlihat_2017_persen.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+1	9	fb:cell_minoritas_yang_terlihat_2036_persen.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+1	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+1	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+2	0	fb:cell_kharakteristik.cma_montreal	cma montreal	cma|montreal	cma|montreal	NNP|NNP	ORGANIZATION|O	|					
+2	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+2	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.67_6	67.6	67.6	67.6	CD	NUMBER	67.6	67.6				
+2	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+2	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+2	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.23_3	23.3	23.3	23.3	CD	NUMBER	23.3	23.3				
+2	6	fb:cell_orang_kelahiran_asing_2017_persen.29_6	29.6	29.6	29.6	CD	NUMBER	29.6	29.6				
+2	7	fb:cell_orang_kelahiran_asing_2036_persen.39_3	39.3	39.3	39.3	CD	NUMBER	39.3	39.3				
+2	8	fb:cell_minoritas_yang_terlihat_2017_persen.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+2	9	fb:cell_minoritas_yang_terlihat_2036_persen.37_1	37.1	37.1	37.1	CD	NUMBER	37.1	37.1				
+2	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+2	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+3	0	fb:cell_kharakteristik.cmas_quebec_lainnya	cmas quebec lainnya	cmas|quebec|lainnya	cmas|quebec|lainnya	NNPS|NNP|NNP	O|O|O	||					
+3	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.63_8	63.8	63.8	63.8	CD	NUMBER	63.8	63.8				
+3	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.57_4	57.4	57.4	57.4	CD	NUMBER	57.4	57.4				
+3	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+3	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+3	6	fb:cell_orang_kelahiran_asing_2017_persen.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+3	7	fb:cell_orang_kelahiran_asing_2036_persen.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+3	8	fb:cell_minoritas_yang_terlihat_2017_persen.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+3	9	fb:cell_minoritas_yang_terlihat_2036_persen.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+3	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+4	0	fb:cell_kharakteristik.quebec_di_luar_cmas	Quebec, di luar CMAS	quebec|,|di|luar|cmas	Quebec|,|di|luar|CMAS	NNP|,|NNP|NNP|NNPS	O|O|O|O|O	||||				Quebec|di luar CMAS	fb:part_kharakteristik.quebec|fb:part_kharakteristik.di_luar_cmas
+4	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen._0_1	-0.1	-0.1	-0.1	CD	NUMBER	-0.1	0.1				
+4	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.60_8	60.8	60.8	60.8	CD	NUMBER	60.8	60.8				
+4	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+4	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.23_3	23.3	23.3	23.3	CD	NUMBER	23.3	23.3				
+4	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.26_5	26.5	26.5	26.5	CD	NUMBER	26.5	26.5				
+4	6	fb:cell_orang_kelahiran_asing_2017_persen.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+4	7	fb:cell_orang_kelahiran_asing_2036_persen.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+4	8	fb:cell_minoritas_yang_terlihat_2017_persen.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+4	9	fb:cell_minoritas_yang_terlihat_2036_persen.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+4	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+4	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+5	0	fb:cell_kharakteristik.ottawa_gatineau_cma	ottawa-gatineau cma	ottawa|gatineau|cma	ottawa|gatineau|cma	NNP|NNP|NNP	LOCATION|O|O	||					
+5	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+5	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.67_3	67.3	67.3	67.3	CD	NUMBER	67.3	67.3				
+5	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.64_3	64.3	64.3	64.3	CD	NUMBER	64.3	64.3				
+5	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.18_5	18.5	18.5	18.5	CD	NUMBER	18.5	18.5				
+5	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+5	6	fb:cell_orang_kelahiran_asing_2017_persen.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+5	7	fb:cell_orang_kelahiran_asing_2036_persen.30_4	30.4	30.4	30.4	CD	NUMBER	30.4	30.4				
+5	8	fb:cell_minoritas_yang_terlihat_2017_persen.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+5	9	fb:cell_minoritas_yang_terlihat_2036_persen.33_5	33.5	33.5	33.5	CD	NUMBER	33.5	33.5				
+5	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+5	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+6	0	fb:cell_kharakteristik.sudbury_dan_guntur_bay_cmas	sudbury dan guntur bay cmas	sudbury|dan|guntur|bay|cmas	sudbury|dan|guntur|bay|cmas	NNP|NNP|NNP|NNP|NNPS	O|PERSON|PERSON|O|O	||||					
+6	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+6	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.60_4	60.4	60.4	60.4	CD	NUMBER	60.4	60.4				
+6	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.55_5	55.5	55.5	55.5	CD	NUMBER	55.5	55.5				
+6	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				
+6	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.27_5	27.5	27.5	27.5	CD	NUMBER	27.5	27.5				
+6	6	fb:cell_orang_kelahiran_asing_2017_persen.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+6	7	fb:cell_orang_kelahiran_asing_2036_persen.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+6	8	fb:cell_minoritas_yang_terlihat_2017_persen.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+6	9	fb:cell_minoritas_yang_terlihat_2036_persen.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+6	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+6	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+7	0	fb:cell_kharakteristik.toronto_cma	toronto cma	toronto|cma	toronto|cma	NNP|NNP	LOCATION|O	|					
+7	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+7	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.66_9	66.9	66.9	66.9	CD	NUMBER	66.9	66.9				
+7	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.65_5	65.5	65.5	65.5	CD	NUMBER	65.5	65.5				
+7	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+7	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.25_6	25.6	25.6	25.6	CD	NUMBER	25.6	25.6				
+7	6	fb:cell_orang_kelahiran_asing_2017_persen.53_2	53.2	53.2	53.2	CD	NUMBER	53.2	53.2				
+7	7	fb:cell_orang_kelahiran_asing_2036_persen.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+7	8	fb:cell_minoritas_yang_terlihat_2017_persen.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+7	9	fb:cell_minoritas_yang_terlihat_2036_persen.65_6	65.6	65.6	65.6	CD	NUMBER	65.6	65.6				
+7	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+7	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+8	0	fb:cell_kharakteristik.cmas_ontario_lainnya	cmas ontario lainnya	cmas|ontario|lainnya	cmas|ontario|lainnya	NNPS|NNP|NNP	O|O|O	||					
+8	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+8	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.64_8	64.8	64.8	64.8	CD	NUMBER	64.8	64.8				
+8	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.61_5	61.5	61.5	61.5	CD	NUMBER	61.5	61.5				
+8	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+8	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.26_3	26.3	26.3	26.3	CD	NUMBER	26.3	26.3				
+8	6	fb:cell_orang_kelahiran_asing_2017_persen.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+8	7	fb:cell_orang_kelahiran_asing_2036_persen.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+8	8	fb:cell_minoritas_yang_terlihat_2017_persen.13_9	13.9	13.9	13.9	CD	NUMBER	13.9	13.9				
+8	9	fb:cell_minoritas_yang_terlihat_2036_persen.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+8	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+8	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+9	0	fb:cell_kharakteristik.ontario_di_luar_cmas	ontario, di luar cmas	ontario|,|di|luar|cmas	ontario|,|di|luar|cmas	NNP|,|NNP|NNP|NNPS	LOCATION|O|O|O|O	||||				ontario|di luar cmas	fb:part_kharakteristik.ontario|fb:part_kharakteristik.di_luar_cmas
+9	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+9	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+9	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.57_7	57.7	57.7	57.7	CD	NUMBER	57.7	57.7				
+9	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+9	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.27_3	27.3	27.3	27.3	CD	NUMBER	27.3	27.3				
+9	6	fb:cell_orang_kelahiran_asing_2017_persen.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+9	7	fb:cell_orang_kelahiran_asing_2036_persen.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+9	8	fb:cell_minoritas_yang_terlihat_2017_persen.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+9	9	fb:cell_minoritas_yang_terlihat_2036_persen.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+9	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+9	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+10	0	fb:cell_kharakteristik.winnipeg_regina_dan_saskatoon_cmas	winnipeg, regina dan saskatoon cmas	winnipeg|,|regina|dan|saskatoon|cmas	winnipeg|,|regina|dan|saskatoon|cmas	NNP|,|NNP|NNP|NNP|NNPS	LOCATION|O|PERSON|PERSON|PERSON|O	|||||				winnipeg|regina dan saskatoon cmas	fb:part_kharakteristik.winnipeg|fb:part_kharakteristik.regina_dan_saskatoon_cmas
+10	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+10	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.68_5	68.5	68.5	68.5	CD	NUMBER	68.5	68.5				
+10	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.67_5	67.5	67.5	67.5	CD	NUMBER	67.5	67.5				
+10	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+10	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+10	6	fb:cell_orang_kelahiran_asing_2017_persen.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+10	7	fb:cell_orang_kelahiran_asing_2036_persen.43_3	43.3	43.3	43.3	CD	NUMBER	43.3	43.3				
+10	8	fb:cell_minoritas_yang_terlihat_2017_persen.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+10	9	fb:cell_minoritas_yang_terlihat_2036_persen.43_9	43.9	43.9	43.9	CD	NUMBER	43.9	43.9				
+10	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+10	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+11	0	fb:cell_kharakteristik.manitoba_dan_saskatchewan_di_luar_cmas	manitoba dan saskatchewan, di luar cmas	manitoba|dan|saskatchewan|,|di|luar|cmas	manitoba|dan|saskatchewan|,|di|luar|cmas	NNP|NNP|NNP|,|NNP|NNP|NNPS	LOCATION|O|O|O|O|O|O	||||||				manitoba dan saskatchewan|di luar cmas	fb:part_kharakteristik.manitoba_dan_saskatchewan|fb:part_kharakteristik.di_luar_cmas
+11	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+11	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.65_4	65.4	65.4	65.4	CD	NUMBER	65.4	65.4				
+11	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.64_3	64.3	64.3	64.3	CD	NUMBER	64.3	64.3				
+11	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+11	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.27_9	27.9	27.9	27.9	CD	NUMBER	27.9	27.9				
+11	6	fb:cell_orang_kelahiran_asing_2017_persen.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+11	7	fb:cell_orang_kelahiran_asing_2036_persen.21_8	21.8	21.8	21.8	CD	NUMBER	21.8	21.8				
+11	8	fb:cell_minoritas_yang_terlihat_2017_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+11	9	fb:cell_minoritas_yang_terlihat_2036_persen.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+11	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+11	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+12	0	fb:cell_kharakteristik.alberta_cmas	alberta cmas	alberta|cmas	alberta|cmas	NNP|NNPS	O|O	|					
+12	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+12	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.72_4	72.4	72.4	72.4	CD	NUMBER	72.4	72.4				
+12	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.70_6	70.6	70.6	70.6	CD	NUMBER	70.6	70.6				
+12	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+12	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+12	6	fb:cell_orang_kelahiran_asing_2017_persen.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+12	7	fb:cell_orang_kelahiran_asing_2036_persen.42_7	42.7	42.7	42.7	CD	NUMBER	42.7	42.7				
+12	8	fb:cell_minoritas_yang_terlihat_2017_persen.29_1	29.1	29.1	29.1	CD	NUMBER	29.1	29.1				
+12	9	fb:cell_minoritas_yang_terlihat_2036_persen.46_2	46.2	46.2	46.2	CD	NUMBER	46.2	46.2				
+12	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+12	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+13	0	fb:cell_kharakteristik.alberta_di_luar_cmas	alberta, di luar cmas	alberta|,|di|luar|cmas	alberta|,|di|luar|cmas	NNP|,|NNP|NNP|NNPS	LOCATION|O|O|O|O	||||				alberta|di luar cmas	fb:part_kharakteristik.alberta|fb:part_kharakteristik.di_luar_cmas
+13	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+13	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.70_2	70.2	70.2	70.2	CD	NUMBER	70.2	70.2				
+13	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+13	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+13	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.26_2	26.2	26.2	26.2	CD	NUMBER	26.2	26.2				
+13	6	fb:cell_orang_kelahiran_asing_2017_persen.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+13	7	fb:cell_orang_kelahiran_asing_2036_persen.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+13	8	fb:cell_minoritas_yang_terlihat_2017_persen.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+13	9	fb:cell_minoritas_yang_terlihat_2036_persen.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+13	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+13	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+14	0	fb:cell_kharakteristik.vancouver_cma	vancouver cma	vancouver|cma	vancouver|cma	NNP|NNP	O|O	|					
+14	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+14	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+14	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.62_7	62.7	62.7	62.7	CD	NUMBER	62.7	62.7				
+14	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+14	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+14	6	fb:cell_orang_kelahiran_asing_2017_persen.46_4	46.4	46.4	46.4	CD	NUMBER	46.4	46.4				
+14	7	fb:cell_orang_kelahiran_asing_2036_persen.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+14	8	fb:cell_minoritas_yang_terlihat_2017_persen.47_6	47.6	47.6	47.6	CD	NUMBER	47.6	47.6				
+14	9	fb:cell_minoritas_yang_terlihat_2036_persen.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+14	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+14	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+15	0	fb:cell_kharakteristik.cmas_columbia_inggris_lainnya	cmas columbia inggris lainnya	cmas|columbia|inggris|lainnya	cmas|columbia|inggris|lainnya	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+15	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.65_2	65.2	65.2	65.2	CD	NUMBER	65.2	65.2				
+15	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+15	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				
+15	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.24_9	24.9	24.9	24.9	CD	NUMBER	24.9	24.9				
+15	6	fb:cell_orang_kelahiran_asing_2017_persen.19_4	19.4	19.4	19.4	CD	NUMBER	19.4	19.4				
+15	7	fb:cell_orang_kelahiran_asing_2036_persen.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+15	8	fb:cell_minoritas_yang_terlihat_2017_persen.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+15	9	fb:cell_minoritas_yang_terlihat_2036_persen.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+15	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+15	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+16	0	fb:cell_kharakteristik.columbia_inggris_di_luar_cmas	columbia inggris, di luar cmas	columbia|inggris|,|di|luar|cmas	columbia|inggris|,|di|luar|cmas	NNP|NNP|,|NNP|NNP|NNPS	O|O|O|O|O|O	|||||				columbia inggris|di luar cmas	fb:part_kharakteristik.columbia_inggris|fb:part_kharakteristik.di_luar_cmas
+16	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+16	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.62_1	62.1	62.1	62.1	CD	NUMBER	62.1	62.1				
+16	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.56_8	56.8	56.8	56.8	CD	NUMBER	56.8	56.8				
+16	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.24_6	24.6	24.6	24.6	CD	NUMBER	24.6	24.6				
+16	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+16	6	fb:cell_orang_kelahiran_asing_2017_persen.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+16	7	fb:cell_orang_kelahiran_asing_2036_persen.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+16	8	fb:cell_minoritas_yang_terlihat_2017_persen.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+16	9	fb:cell_minoritas_yang_terlihat_2036_persen.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+16	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+16	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+17	0	fb:cell_kharakteristik.wilayah	wilayah	wilayah	wilayah	NNP	O						
+17	1	fb:cell_rata_rata_pertumbuhan_tahunan_2017_hingga_2036_persen.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+17	2	fb:cell_tingkat_partisipasi_keseluruhan_2017_persen.73_5	73.5	73.5	73.5	CD	NUMBER	73.5	73.5				
+17	3	fb:cell_tingkat_partisipasi_keseluruhan_2036_persen.70_7	70.7	70.7	70.7	CD	NUMBER	70.7	70.7				
+17	4	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_pada_tahun_2017_persen.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+17	5	fb:cell_berusia_55_tahun_ke_atas_usia_15_tahun_ke_atas_sebesar_2036_persen.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+17	6	fb:cell_orang_kelahiran_asing_2017_persen.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+17	7	fb:cell_orang_kelahiran_asing_2036_persen.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+17	8	fb:cell_minoritas_yang_terlihat_2017_persen.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+17	9	fb:cell_minoritas_yang_terlihat_2036_persen.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+17	10	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_tahun_2017_rasio.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+17	11	fb:cell_rasio_angkatan_kerja_umur_15_tahun_ke_atas_tidak_angkatan_kerja_umur_65_tahun_ke_atas_2036_rasio.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				

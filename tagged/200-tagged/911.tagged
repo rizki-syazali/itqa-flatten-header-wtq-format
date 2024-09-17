@@ -1,0 +1,46 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1980_hingga_2000	1980 hingga 2000	1980|hingga|2000	1980|hingga|2000	CD|NNP|CD	DATE|O|DATE	1980||2000					
+-1	2	fb:row.row.2000_hingga_2013	2000 hingga 2013	2000|hingga|2013	2000|hingga|2013	CD|NNP|CD	DATE|O|DATE	2000||2013					
+0	0	fb:cell_kharakteristik.persen_output_bruto_riil	persen output bruto riil	persen|output|bruto|riil	persen|output|bruto|riil	JJ|NN|NN|NN	O|O|O|O	|||					
+0	1	fb:cell_1980_hingga_2000.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+0	2	fb:cell_2000_hingga_2013.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+1	0	fb:cell_kharakteristik.persen_kontribusi	persen kontribusi	persen|kontribusi	persen|kontribusi	NNP|NNP	O|O	|					
+1	1	fb:cell_1980_hingga_2000.null											
+1	2	fb:cell_2000_hingga_2013.null											
+2	0	fb:cell_kharakteristik.persen_kontribusi_masukan_tenaga_kerja	persen kontribusi masukan tenaga kerja	persen|kontribusi|masukan|tenaga|kerja	persen|kontribusi|masukan|tenaga|kerja	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_1980_hingga_2000._0_3	-0.3	-0.3	-0.3	CD	NUMBER	-0.3	0.3				
+2	2	fb:cell_2000_hingga_2013.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+3	0	fb:cell_kharakteristik.persen_kontribusi_masukan_modal	persen kontribusi masukan modal	persen|kontribusi|masukan|modal	persen|kontribusi|masukan|modal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_1980_hingga_2000._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+3	2	fb:cell_2000_hingga_2013.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+4	0	fb:cell_kharakteristik.persen_kontribusi_masukan_modal_alam	persen kontribusi masukan modal alam	persen|kontribusi|masukan|modal|alam	persen|kontribusi|masukan|modal|alam	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_1980_hingga_2000.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	2	fb:cell_2000_hingga_2013.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+5	0	fb:cell_kharakteristik.persen_kontribusi_masukan_antara	persen kontribusi masukan antara	persen|kontribusi|masukan|antara	persen|kontribusi|masukan|antara	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_1980_hingga_2000.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	2	fb:cell_2000_hingga_2013.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+6	0	fb:cell_kharakteristik.persen_kontribusi_pertumbuhan_mfp	persen kontribusi pertumbuhan mfp	persen|kontribusi|pertumbuhan|mfp	persen|kontribusi|pertumbuhan|mfp	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_1980_hingga_2000.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+6	2	fb:cell_2000_hingga_2013._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				
+7	0	fb:cell_kharakteristik.tambahan_persen	tambahan persen	tambahan|persen	tambahan|persen	NNP|NNP	O|O	|					
+7	1	fb:cell_1980_hingga_2000.null											
+7	2	fb:cell_2000_hingga_2013.null											
+8	0	fb:cell_kharakteristik.persen_tambahan_pertumbuhan_output_riil	persen tambahan pertumbuhan output riil	persen|tambahan|pertumbuhan|output|riil	persen|tambahan|pertumbuhan|output|riil	NNP|NNP|NNP|NN|NN	O|O|O|O|O	||||					
+8	1	fb:cell_1980_hingga_2000.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+8	2	fb:cell_2000_hingga_2013.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+9	0	fb:cell_kharakteristik.persen_pertumbuhan_input_tenaga_kerja_tambahan	persen pertumbuhan input tenaga kerja tambahan	persen|pertumbuhan|input|tenaga|kerja|tambahan	persen|pertumbuhan|input|tenaga|kerja|tambahan	NNP|NNP|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+9	1	fb:cell_1980_hingga_2000._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+9	2	fb:cell_2000_hingga_2013.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+10	0	fb:cell_kharakteristik.persen_pertumbuhan_input_modal_tambahan	persen pertumbuhan input modal tambahan	persen|pertumbuhan|input|modal|tambahan	persen|pertumbuhan|input|modal|tambahan	JJ|NN|NN|JJ|NN	O|O|O|O|O	||||					
+10	1	fb:cell_1980_hingga_2000._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+10	2	fb:cell_2000_hingga_2013.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+11	0	fb:cell_kharakteristik.persen_tambahan_pertumbuhan_input_modal_alam	persen tambahan pertumbuhan input modal alam	persen|tambahan|pertumbuhan|input|modal|alam	persen|tambahan|pertumbuhan|input|modal|alam	JJ|NN|NN|NN|JJ|NN	O|O|O|O|O|O	|||||					
+11	1	fb:cell_1980_hingga_2000.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+11	2	fb:cell_2000_hingga_2013.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+12	0	fb:cell_kharakteristik.persen_tambahan_pertumbuhan_input_antara	persen tambahan pertumbuhan input antara	persen|tambahan|pertumbuhan|input|antara	persen|tambahan|pertumbuhan|input|antara	NNP|NNP|NNP|NN|NN	O|O|O|O|O	||||					
+12	1	fb:cell_1980_hingga_2000._0_1	-0.1	-0.1	-0.1	CD	NUMBER	-0.1	0.1				
+12	2	fb:cell_2000_hingga_2013.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+13	0	fb:cell_kharakteristik.persen_tambahan_pertumbuhan_mfp_tanpa_modal_alam	persen tambahan pertumbuhan mfp tanpa modal alam	persen|tambahan|pertumbuhan|mfp|tanpa|modal|alam	persen|tambahan|pertumbuhan|mfp|tanpa|modal|alam	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+13	1	fb:cell_1980_hingga_2000.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+13	2	fb:cell_2000_hingga_2013._4_1	-4.1	-4.1	-4.1	CD	NUMBER	-4.1	4.1				

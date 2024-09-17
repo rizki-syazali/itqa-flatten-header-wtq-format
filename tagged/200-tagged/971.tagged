@@ -1,0 +1,133 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen	pangsa 'ilmu data' dalam aktivitas produksi tahun 2005 hingga 2018 persen	pangsa|`|ilmu|data|'|dalam|aktivitas|produksi|tahun|2005|hingga|2018|persen	pangsa|`|ilmu|data|'|dalam|aktivitas|produksi|tahun|2005|hingga|2018|persen	NNP|``|NNP|NNP|POS|NNP|NNP|NNP|NNP|CD|NNP|CD|NNP	O|O|O|O|O|O|O|O|O|DATE|O|DATE|O	|||||||||2005||2018|					
+-1	2	fb:row.row.investasi_dalam_ilmu_data_2005_jutaan_dolar	investasi dalam 'ilmu data' 2005 jutaan dolar	investasi|dalam|`|ilmu|data|'|2005|jutaan|dolar	investasi|dalam|`|ilmu|data|'|2005|jutaan|dolar	NNP|NNP|``|NNP|NNP|POS|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2005||					
+-1	3	fb:row.row.investasi_dalam_ilmu_data_2010_jutaan_dolar	investasi dalam 'ilmu data' 2010 jutaan dolar	investasi|dalam|`|ilmu|data|'|2010|jutaan|dolar	investasi|dalam|`|ilmu|data|'|2010|jutaan|dolar	NNP|NNP|``|NNP|NNP|POS|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2010||					
+-1	4	fb:row.row.investasi_dalam_ilmu_data_2015_jutaan_dolar	investasi dalam 'ilmu data' 2015 jutaan dolar	investasi|dalam|`|ilmu|data|'|2015|jutaan|dolar	investasi|dalam|`|ilmu|data|'|2015|jutaan|dolar	NNP|NNP|``|NNP|NNP|POS|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2015||					
+-1	5	fb:row.row.investasi_dalam_ilmu_data_2018_jutaan_dolar	investasi dalam 'ilmu data' 2018 jutaan dolar	investasi|dalam|`|ilmu|data|'|2018|jutaan|dolar	investasi|dalam|`|ilmu|data|'|2018|jutaan|dolar	NNP|NNP|``|NNP|NNP|POS|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2018||					
+0	0	fb:cell_kharakteristik.total_seluruh_kelompok_pekerjaan	total seluruh kelompok pekerjaan	total|seluruh|kelompok|pekerjaan	total|seluruh|kelompok|pekerjaan	JJ|NN|NN|NN	O|O|O|O	|||					
+0	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+0	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+0	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+0	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+0	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+1	0	fb:cell_kharakteristik.total_semua_kelompok_pekerjaan_nilai_kisaran_yang_lebih_rendah	total semua kelompok pekerjaan nilai kisaran yang lebih rendah	total|semua|kelompok|pekerjaan|nilai|kisaran|yang|lebih|rendah	total|semua|kelompok|pekerjaan|nilai|kisaran|yang|lebih|rendah	JJ|NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+1	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.4829_0	4829.0	4829.0	4829.0	CD	NUMBER	4829.0	4829.0				
+1	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.6085_0	6085.0	6085.0	6085.0	CD	NUMBER	6085.0	6085.0				
+1	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.11168_0	11168.0	11168.0	11168.0	CD	NUMBER	11168.0	11168.0				
+1	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.11991_0	11991.0	11991.0	11991.0	CD	NUMBER	11991.0	11991.0				
+2	0	fb:cell_kharakteristik.total_semua_nilai_kisaran_atas_kelompok_pekerjaan	total semua nilai kisaran atas kelompok pekerjaan	total|semua|nilai|kisaran|atas|kelompok|pekerjaan	total|semua|nilai|kisaran|atas|kelompok|pekerjaan	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+2	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+2	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.5689_0	5689.0	5689.0	5689.0	CD	NUMBER	5689.0	5689.0				
+2	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.7181_0	7181.0	7181.0	7181.0	CD	NUMBER	7181.0	7181.0				
+2	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.13145_0	13145.0	13145.0	13145.0	CD	NUMBER	13145.0	13145.0				
+2	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.14184_0	14184.0	14184.0	14184.0	CD	NUMBER	14184.0	14184.0				
+3	0	fb:cell_kharakteristik.analis_keuangan_dan_investasi	analis keuangan dan investasi	analis|keuangan|dan|investasi	analis|keuangan|dan|investasi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+3	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+3	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+3	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+3	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+4	0	fb:cell_kharakteristik.analis_keuangan_dan_investasi_menurunkan_kisaran_nilai	analis keuangan dan investasi menurunkan kisaran nilai	analis|keuangan|dan|investasi|menurunkan|kisaran|nilai	analis|keuangan|dan|investasi|menurunkan|kisaran|nilai	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+4	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+4	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.2848_0	2848.0	2848.0	2848.0	CD	NUMBER	2848.0	2848.0				
+4	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.2738_0	2738.0	2738.0	2738.0	CD	NUMBER	2738.0	2738.0				
+4	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.6746_0	6746.0	6746.0	6746.0	CD	NUMBER	6746.0	6746.0				
+4	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.5950_0	5950.0	5950.0	5950.0	CD	NUMBER	5950.0	5950.0				
+5	0	fb:cell_kharakteristik.nilai_kisaran_atas_analis_keuangan_dan_investasi	nilai kisaran atas analis keuangan dan investasi	nilai|kisaran|atas|analis|keuangan|dan|investasi	nilai|kisaran|atas|analis|keuangan|dan|investasi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+5	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.3323_0	3323.0	3323.0	3323.0	CD	NUMBER	3323.0	3323.0				
+5	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.3194_0	3194.0	3194.0	3194.0	CD	NUMBER	3194.0	3194.0				
+5	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.7870_0	7870.0	7870.0	7870.0	CD	NUMBER	7870.0	7870.0				
+5	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.6942_0	6942.0	6942.0	6942.0	CD	NUMBER	6942.0	6942.0				
+6	0	fb:cell_kharakteristik.petugas_statistik_dan_pekerjaan_pendukung_penelitian_terkait	petugas statistik dan pekerjaan pendukung penelitian terkait	petugas|statistik|dan|pekerjaan|pendukung|penelitian|terkait	petuga|statistik|dan|pekerjaan|pendukung|penelitian|terkait	NNS|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+6	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+6	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+6	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+6	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+7	0	fb:cell_kharakteristik.petugas_statistik_dan_penelitian_terkait_mendukung_pekerjaan_dengan_nilai_kisaran_yang_lebih_rendah	petugas statistik dan penelitian terkait mendukung pekerjaan dengan nilai kisaran yang lebih rendah	petugas|statistik|dan|penelitian|terkait|mendukung|pekerjaan|dengan|nilai|kisaran|yang|lebih|rendah	petuga|statistik|dan|penelitian|terkait|mendukung|pekerjaan|dengan|nilai|kisaran|yang|lebih|rendah	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+7	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+7	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.129_0	129.0	129.0	129.0	CD	NUMBER	129.0	129.0				
+7	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.336_0	336.0	336.0	336.0	CD	NUMBER	336.0	336.0				
+7	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.360_0	360.0	360.0	360.0	CD	NUMBER	360.0	360.0				
+7	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+8	0	fb:cell_kharakteristik.petugas_statistik_dan_penelitian_terkait_mendukung_nilai_kisaran_atas_pekerjaan	petugas statistik dan penelitian terkait mendukung nilai kisaran atas pekerjaan	petugas|statistik|dan|penelitian|terkait|mendukung|nilai|kisaran|atas|pekerjaan	petuga|statistik|dan|penelitian|terkait|mendukung|nilai|kisaran|atas|pekerjaan	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+8	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+8	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.144_0	144.0	144.0	144.0	CD	NUMBER	144.0	144.0				
+8	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.373_0	373.0	373.0	373.0	CD	NUMBER	373.0	373.0				
+8	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.400_0	400.0	400.0	400.0	CD	NUMBER	400.0	400.0				
+8	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+9	0	fb:cell_kharakteristik.matematikawan_ahli_statistik_dan_aktuaris	matematikawan, ahli statistik, dan aktuaris	matematikawan|,|ahli|statistik|,|dan|aktuaris	matematikawan|,|ahli|statistik|,|dan|aktuaris	NNP|,|NNP|NNP|,|NNP|NNP	O|O|PERSON|O|O|PERSON|PERSON	||||||				matematikawan|ahli statistik|dan aktuaris	fb:part_kharakteristik.matematikawan|fb:part_kharakteristik.ahli_statistik|fb:part_kharakteristik.dan_aktuaris
+9	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+9	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+9	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+9	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+9	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+10	0	fb:cell_kharakteristik.ahli_matematika_ahli_statistik_dan_aktuaris_menurunkan_kisaran_nilai	ahli matematika, ahli statistik dan aktuaris menurunkan kisaran nilai	ahli|matematika|,|ahli|statistik|dan|aktuaris|menurunkan|kisaran|nilai	ahli|matematika|,|ahli|statistik|dan|aktuaris|menurunkan|kisaran|nilai	NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|O|O|O|O|O|O	|||||||||				ahli matematika|ahli statistik dan aktuaris menurunkan kisaran nilai	fb:part_kharakteristik.ahli_matematika|fb:part_kharakteristik.ahli_statistik_dan_aktuaris_menurunkan_kisaran_nilai
+10	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+10	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.413_0	413.0	413.0	413.0	CD	NUMBER	413.0	413.0				
+10	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.813_0	813.0	813.0	813.0	CD	NUMBER	813.0	813.0				
+10	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.995_0	995.0	995.0	995.0	CD	NUMBER	995.0	995.0				
+10	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.2324_0	2324.0	2324.0	2324.0	CD	NUMBER	2324.0	2324.0				
+11	0	fb:cell_kharakteristik.matematikawan_ahli_statistik_dan_aktuaris_nilai_kisaran_atas	matematikawan, ahli statistik dan aktuaris nilai kisaran atas	matematikawan|,|ahli|statistik|dan|aktuaris|nilai|kisaran|atas	matematikawan|,|ahli|statistik|dan|aktuaris|nilai|kisaran|atas	NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|PERSON|O|O|O|O|O|O	||||||||				matematikawan|ahli statistik dan aktuaris nilai kisaran atas	fb:part_kharakteristik.matematikawan|fb:part_kharakteristik.ahli_statistik_dan_aktuaris_nilai_kisaran_atas
+11	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+11	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.495_0	495.0	495.0	495.0	CD	NUMBER	495.0	495.0				
+11	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.976_0	976.0	976.0	976.0	CD	NUMBER	976.0	976.0				
+11	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.1194_0	1194.0	1194.0	1194.0	CD	NUMBER	1194.0	1194.0				
+11	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.2789_0	2789.0	2789.0	2789.0	CD	NUMBER	2789.0	2789.0				
+12	0	fb:cell_kharakteristik.ekonom_dan_peneliti_dan_analis_kebijakan_ekonomi	ekonom dan peneliti dan analis kebijakan ekonomi	ekonom|dan|peneliti|dan|analis|kebijakan|ekonomi	ekonom|dan|peneliti|dan|analis|kebijakan|ekonomi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+12	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+12	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+12	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+12	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+13	0	fb:cell_kharakteristik.ekonom_dan_peneliti_kebijakan_ekonomi_serta_analis_menurunkan_kisaran_nilai	ekonom dan peneliti kebijakan ekonomi serta analis menurunkan kisaran nilai	ekonom|dan|peneliti|kebijakan|ekonomi|serta|analis|menurunkan|kisaran|nilai	ekonom|dan|peneliti|kebijakan|ekonomi|serta|analis|menurunkan|kisaran|nilai	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+13	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+13	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.595_0	595.0	595.0	595.0	CD	NUMBER	595.0	595.0				
+13	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.936_0	936.0	936.0	936.0	CD	NUMBER	936.0	936.0				
+13	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.1387_0	1387.0	1387.0	1387.0	CD	NUMBER	1387.0	1387.0				
+13	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.1974_0	1974.0	1974.0	1974.0	CD	NUMBER	1974.0	1974.0				
+14	0	fb:cell_kharakteristik.ekonom_dan_peneliti_kebijakan_ekonomi_dan_analis_nilai_kisaran_atas	ekonom dan peneliti kebijakan ekonomi dan analis nilai kisaran atas	ekonom|dan|peneliti|kebijakan|ekonomi|dan|analis|nilai|kisaran|atas	ekonom|dan|peneliti|kebijakan|ekonomi|dan|analis|nilai|kisaran|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	MISC|MISC|MISC|MISC|MISC|MISC|O|O|O|O	|||||||||					
+14	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+14	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.714_0	714.0	714.0	714.0	CD	NUMBER	714.0	714.0				
+14	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.1123_0	1123.0	1123.0	1123.0	CD	NUMBER	1123.0	1123.0				
+14	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.1664_0	1664.0	1664.0	1664.0	CD	NUMBER	1664.0	1664.0				
+14	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.2369_0	2369.0	2369.0	2369.0	CD	NUMBER	2369.0	2369.0				
+15	0	fb:cell_kharakteristik.peneliti_kebijakan_sosial_konsultan_dan_petugas_program	peneliti kebijakan sosial, konsultan dan petugas program	peneliti|kebijakan|sosial|,|konsultan|dan|petugas|program	peneliti|kebijakan|sosial|,|konsultan|dan|petugas|program	NNP|NNP|NNP|,|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||				peneliti kebijakan sosial|konsultan dan petugas program	fb:part_kharakteristik.peneliti_kebijakan_sosial|fb:part_kharakteristik.konsultan_dan_petugas_program
+15	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+15	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+15	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+15	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+15	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+16	0	fb:cell_kharakteristik.peneliti_kebijakan_sosial_konsultan_dan_petugas_program_menurunkan_kisaran_nilai	peneliti kebijakan sosial, konsultan dan petugas program menurunkan kisaran nilai	peneliti|kebijakan|sosial|,|konsultan|dan|petugas|program|menurunkan|kisaran|nilai	peneliti|kebijakan|sosial|,|konsultan|dan|petugas|program|menurunkan|kisaran|nilai	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				peneliti kebijakan sosial|konsultan dan petugas program menurunkan kisaran nilai	fb:part_kharakteristik.peneliti_kebijakan_sosial|fb:part_kharakteristik.konsultan_dan_petugas_program_menurunkan_kisaran_nilai
+16	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+16	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.844_0	844.0	844.0	844.0	CD	NUMBER	844.0	844.0				
+16	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.1262_0	1262.0	1262.0	1262.0	CD	NUMBER	1262.0	1262.0				
+16	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.1681_0	1681.0	1681.0	1681.0	CD	NUMBER	1681.0	1681.0				
+16	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.1667_0	1667.0	1667.0	1667.0	CD	NUMBER	1667.0	1667.0				
+17	0	fb:cell_kharakteristik.peneliti_kebijakan_sosial_konsultan_dan_petugas_program_nilai_kisaran_atas	peneliti kebijakan sosial, konsultan dan petugas program nilai kisaran atas	peneliti|kebijakan|sosial|,|konsultan|dan|petugas|program|nilai|kisaran|atas	peneliti|kebijakan|sosial|,|konsultan|dan|petugas|program|nilai|kisaran|atas	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O	||||||||||				peneliti kebijakan sosial|konsultan dan petugas program nilai kisaran atas	fb:part_kharakteristik.peneliti_kebijakan_sosial|fb:part_kharakteristik.konsultan_dan_petugas_program_nilai_kisaran_atas
+17	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+17	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.1013_0	1013.0	1013.0	1013.0	CD	NUMBER	1013.0	1013.0				
+17	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.1514_0	1514.0	1514.0	1514.0	CD	NUMBER	1514.0	1514.0				
+17	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.2017_0	2017.0	2017.0	2017.0	CD	NUMBER	2017.0	2017.0				
+17	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.2000_0	2000.0	2000.0	2000.0	CD	NUMBER	2000.0	2000.0				
+18	0	fb:cell_kharakteristik.persen_tingkat_pertumbuhan_tahunan	persen tingkat pertumbuhan tahunan	persen|tingkat|pertumbuhan|tahunan	persen|tingkat|pertumbuhan|tahunan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+18	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+18	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+18	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.null											
+18	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.null											
+18	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.null											
+19	0	fb:cell_kharakteristik.persen_tingkat_pertumbuhan_tahunan_nilai_kisaran_yang_lebih_rendah	persen tingkat pertumbuhan tahunan nilai kisaran yang lebih rendah	persen|tingkat|pertumbuhan|tahunan|nilai|kisaran|yang|lebih|rendah	persen|tingkat|pertumbuhan|tahunan|nilai|kisaran|yang|lebih|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+19	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+19	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+19	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+19	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+19	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+20	0	fb:cell_kharakteristik.persen_nilai_kisaran_atas_tingkat_pertumbuhan_tahunan	persen nilai kisaran atas tingkat pertumbuhan tahunan	persen|nilai|kisaran|atas|tingkat|pertumbuhan|tahunan	persen|nilai|kisaran|atas|tingkat|pertumbuhan|tahunan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+20	1	fb:cell_pangsa_ilmu_data_dalam_aktivitas_produksi_tahun_2005_hingga_2018_persen.null											
+20	2	fb:cell_investasi_dalam_ilmu_data_2005_jutaan_dolar.null											
+20	3	fb:cell_investasi_dalam_ilmu_data_2010_jutaan_dolar.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+20	4	fb:cell_investasi_dalam_ilmu_data_2015_jutaan_dolar.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+20	5	fb:cell_investasi_dalam_ilmu_data_2018_jutaan_dolar.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				

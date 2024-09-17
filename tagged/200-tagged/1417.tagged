@@ -1,0 +1,181 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.perkiraan_revisi_jutaan_dolar	perkiraan revisi jutaan dolar	perkiraan|revisi|jutaan|dolar	perkiraan|revisi|jutaan|dolar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.perkiraan_sebelumnya_jutaan_dolar	perkiraan sebelumnya jutaan dolar	perkiraan|sebelumnya|jutaan|dolar	perkiraan|sebelumnya|jutaan|dolar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.revisi_jutaan_dolar	revisi jutaan dolar	revisi|jutaan|dolar	revisi|jutaan|dolar	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.revisi	revisi%	revisi|%	revisi|%	CD|NN	PERCENT|PERCENT	%0.0|%0.0					
+0	0	fb:cell_kharakteristik.angkutan	angkutan	angkutan	angkutan	NNP	O						
+0	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+0	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+0	3	fb:cell_revisi_jutaan_dolar.null											
+0	4	fb:cell_revisi.null											
+1	0	fb:cell_kharakteristik.transportasi_tahun_2012	transportasi tahun 2012	transportasi|tahun|2012	transportasi|tahun|2012	NN|NN|CD	O|O|DATE	||2012	2012.0				
+1	1	fb:cell_perkiraan_revisi_jutaan_dolar.31024_0	31024.0	31024.0	31024.0	CD	NUMBER	31024.0	31024.0				
+1	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.32617_0	32617.0	32617.0	32617.0	CD	NUMBER	32617.0	32617.0				
+1	3	fb:cell_revisi_jutaan_dolar._1593_0	-1593.0	-1593.0	-1593.0	CD	NUMBER	-1593.0	1593.0				
+1	4	fb:cell_revisi._4_9	-4.9	-4.9	-4.9	CD	NUMBER	-4.9	4.9				
+2	0	fb:cell_kharakteristik.transportasi_tahun_2013	transportasi tahun 2013	transportasi|tahun|2013	transportasi|tahun|2013	NN|NN|CD	O|O|DATE	||2013	2013.0				
+2	1	fb:cell_perkiraan_revisi_jutaan_dolar.31829_0	31829.0	31829.0	31829.0	CD	NUMBER	31829.0	31829.0				
+2	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.33568_0	33568.0	33568.0	33568.0	CD	NUMBER	33568.0	33568.0				
+2	3	fb:cell_revisi_jutaan_dolar._1739_0	-1739.0	-1739.0	-1739.0	CD	NUMBER	-1739.0	1739.0				
+2	4	fb:cell_revisi._5_2	-5.2	-5.2	-5.2	CD	NUMBER	-5.2	5.2				
+3	0	fb:cell_kharakteristik.transportasi_tahun_2014	transportasi tahun 2014	transportasi|tahun|2014	transportasi|tahun|2014	NN|NN|CD	O|O|DATE	||2014	2014.0				
+3	1	fb:cell_perkiraan_revisi_jutaan_dolar.33791_0	33791.0	33791.0	33791.0	CD	NUMBER	33791.0	33791.0				
+3	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.35587_0	35587.0	35587.0	35587.0	CD	NUMBER	35587.0	35587.0				
+3	3	fb:cell_revisi_jutaan_dolar._1796_0	-1796.0	-1796.0	-1796.0	CD	NUMBER	-1796.0	1796.0				
+3	4	fb:cell_revisi._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+4	0	fb:cell_kharakteristik.transportasi_tahun_2015	transportasi tahun 2015	transportasi|tahun|2015	transportasi|tahun|2015	NN|NN|CD	O|O|DATE	||2015	2015.0				
+4	1	fb:cell_perkiraan_revisi_jutaan_dolar.32987_0	32987.0	32987.0	32987.0	CD	NUMBER	32987.0	32987.0				
+4	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.35105_0	35105.0	35105.0	35105.0	CD	NUMBER	35105.0	35105.0				
+4	3	fb:cell_revisi_jutaan_dolar._2118_0	-2118.0	-2118.0	-2118.0	CD	NUMBER	-2118.0	2118.0				
+4	4	fb:cell_revisi._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+5	0	fb:cell_kharakteristik.akomodasi	akomodasi	akomodasi	akomodasi	NNP	O						
+5	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+5	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+5	3	fb:cell_revisi_jutaan_dolar.null											
+5	4	fb:cell_revisi.null											
+6	0	fb:cell_kharakteristik.akomodasi_tahun_2012	akomodasi tahun 2012	akomodasi|tahun|2012	akomodasi|tahun|2012	NNP|NNP|CD	O|O|DATE	||2012	2012.0				
+6	1	fb:cell_perkiraan_revisi_jutaan_dolar.10758_0	10758.0	10758.0	10758.0	CD	NUMBER	10758.0	10758.0				
+6	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.11621_0	11621.0	11621.0	11621.0	CD	NUMBER	11621.0	11621.0				
+6	3	fb:cell_revisi_jutaan_dolar._863_0	-863.0	-863.0	-863.0	CD	NUMBER	-863.0	863.0				
+6	4	fb:cell_revisi._7_4	-7.4	-7.4	-7.4	CD	NUMBER	-7.4	7.4				
+7	0	fb:cell_kharakteristik.akomodasi_tahun_2013	akomodasi tahun 2013	akomodasi|tahun|2013	akomodasi|tahun|2013	NNP|NNP|CD	O|O|DATE	||2013	2013.0				
+7	1	fb:cell_perkiraan_revisi_jutaan_dolar.11208_0	11208.0	11208.0	11208.0	CD	NUMBER	11208.0	11208.0				
+7	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.12101_0	12101.0	12101.0	12101.0	CD	NUMBER	12101.0	12101.0				
+7	3	fb:cell_revisi_jutaan_dolar._893_0	-893.0	-893.0	-893.0	CD	NUMBER	-893.0	893.0				
+7	4	fb:cell_revisi._7_4	-7.4	-7.4	-7.4	CD	NUMBER	-7.4	7.4				
+8	0	fb:cell_kharakteristik.akomodasi_tahun_2014	akomodasi tahun 2014	akomodasi|tahun|2014	akomodasi|tahun|2014	NNP|NNP|CD	O|O|DATE	||2014	2014.0				
+8	1	fb:cell_perkiraan_revisi_jutaan_dolar.11659_0	11659.0	11659.0	11659.0	CD	NUMBER	11659.0	11659.0				
+8	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.12637_0	12637.0	12637.0	12637.0	CD	NUMBER	12637.0	12637.0				
+8	3	fb:cell_revisi_jutaan_dolar._978_0	-978.0	-978.0	-978.0	CD	NUMBER	-978.0	978.0				
+8	4	fb:cell_revisi._7_7	-7.7	-7.7	-7.7	CD	NUMBER	-7.7	7.7				
+9	0	fb:cell_kharakteristik.akomodasi_tahun_2015	akomodasi tahun 2015	akomodasi|tahun|2015	akomodasi|tahun|2015	NNP|NNP|CD	O|O|DATE	||2015	2015.0				
+9	1	fb:cell_perkiraan_revisi_jutaan_dolar.12290_0	12290.0	12290.0	12290.0	CD	NUMBER	12290.0	12290.0				
+9	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.13365_0	13365.0	13365.0	13365.0	CD	NUMBER	13365.0	13365.0				
+9	3	fb:cell_revisi_jutaan_dolar._1075_0	-1075.0	-1075.0	-1075.0	CD	NUMBER	-1075.0	1075.0				
+9	4	fb:cell_revisi._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+10	0	fb:cell_kharakteristik.layanan_makanan_dan_minuman	layanan makanan dan minuman	layanan|makanan|dan|minuman	layanan|makanan|dan|minuman	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+10	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+10	3	fb:cell_revisi_jutaan_dolar.null											
+10	4	fb:cell_revisi.null											
+11	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2012	jasa makanan dan minuman tahun 2012	jasa|makanan|dan|minuman|tahun|2012	jasa|makanan|dan|minuman|tahun|2012	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2012	2012.0				
+11	1	fb:cell_perkiraan_revisi_jutaan_dolar.12550_0	12550.0	12550.0	12550.0	CD	NUMBER	12550.0	12550.0				
+11	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.11836_0	11836.0	11836.0	11836.0	CD	NUMBER	11836.0	11836.0				
+11	3	fb:cell_revisi_jutaan_dolar.714_0	714.0	714.0	714.0	CD	NUMBER	714.0	714.0				
+11	4	fb:cell_revisi.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+12	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2013	jasa makanan dan minuman tahun 2013	jasa|makanan|dan|minuman|tahun|2013	jasa|makanan|dan|minuman|tahun|2013	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2013	2013.0				
+12	1	fb:cell_perkiraan_revisi_jutaan_dolar.13195_0	13195.0	13195.0	13195.0	CD	NUMBER	13195.0	13195.0				
+12	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.12277_0	12277.0	12277.0	12277.0	CD	NUMBER	12277.0	12277.0				
+12	3	fb:cell_revisi_jutaan_dolar.918_0	918.0	918.0	918.0	CD	NUMBER	918.0	918.0				
+12	4	fb:cell_revisi.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+13	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2014	jasa makanan dan minuman tahun 2014	jasa|makanan|dan|minuman|tahun|2014	jasa|makanan|dan|minuman|tahun|2014	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2014	2014.0				
+13	1	fb:cell_perkiraan_revisi_jutaan_dolar.13843_0	13843.0	13843.0	13843.0	CD	NUMBER	13843.0	13843.0				
+13	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.12907_0	12907.0	12907.0	12907.0	CD	NUMBER	12907.0	12907.0				
+13	3	fb:cell_revisi_jutaan_dolar.936_0	936.0	936.0	936.0	CD	NUMBER	936.0	936.0				
+13	4	fb:cell_revisi.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+14	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2015	jasa makanan dan minuman tahun 2015	jasa|makanan|dan|minuman|tahun|2015	jasa|makanan|dan|minuman|tahun|2015	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2015	2015.0				
+14	1	fb:cell_perkiraan_revisi_jutaan_dolar.14536_0	14536.0	14536.0	14536.0	CD	NUMBER	14536.0	14536.0				
+14	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.13436_0	13436.0	13436.0	13436.0	CD	NUMBER	13436.0	13436.0				
+14	3	fb:cell_revisi_jutaan_dolar.1100_0	1100.0	1100.0	1100.0	CD	NUMBER	1100.0	1100.0				
+14	4	fb:cell_revisi.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+15	0	fb:cell_kharakteristik.barang_dan_jasa_pariwisata_lainnya	barang dan jasa pariwisata lainnya	barang|dan|jasa|pariwisata|lainnya	barang|dan|jasa|pariwisata|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+15	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+15	3	fb:cell_revisi_jutaan_dolar.null											
+15	4	fb:cell_revisi.null											
+16	0	fb:cell_kharakteristik.barang_dan_jasa_pariwisata_lainnya_tahun_2012	barang dan jasa pariwisata lainnya tahun 2012	barang|dan|jasa|pariwisata|lainnya|tahun|2012	barang|dan|jasa|pariwisata|lainnya|tahun|2012	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2012	2012.0				
+16	1	fb:cell_perkiraan_revisi_jutaan_dolar.12752_0	12752.0	12752.0	12752.0	CD	NUMBER	12752.0	12752.0				
+16	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.12760_0	12760.0	12760.0	12760.0	CD	NUMBER	12760.0	12760.0				
+16	3	fb:cell_revisi_jutaan_dolar._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+16	4	fb:cell_revisi._0_1	-0.1	-0.1	-0.1	CD	NUMBER	-0.1	0.1				
+17	0	fb:cell_kharakteristik.barang_dan_jasa_pariwisata_lainnya_tahun_2013	barang dan jasa pariwisata lainnya tahun 2013	barang|dan|jasa|pariwisata|lainnya|tahun|2013	barang|dan|jasa|pariwisata|lainnya|tahun|2013	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2013	2013.0				
+17	1	fb:cell_perkiraan_revisi_jutaan_dolar.12945_0	12945.0	12945.0	12945.0	CD	NUMBER	12945.0	12945.0				
+17	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.13126_0	13126.0	13126.0	13126.0	CD	NUMBER	13126.0	13126.0				
+17	3	fb:cell_revisi_jutaan_dolar._181_0	-181.0	-181.0	-181.0	CD	NUMBER	-181.0	181.0				
+17	4	fb:cell_revisi._1_4	-1.4	-1.4	-1.4	CD	NUMBER	-1.4	1.4				
+18	0	fb:cell_kharakteristik.barang_dan_jasa_pariwisata_lainnya_tahun_2014	barang dan jasa pariwisata lainnya tahun 2014	barang|dan|jasa|pariwisata|lainnya|tahun|2014	barang|dan|jasa|pariwisata|lainnya|tahun|2014	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2014	2014.0				
+18	1	fb:cell_perkiraan_revisi_jutaan_dolar.13267_0	13267.0	13267.0	13267.0	CD	NUMBER	13267.0	13267.0				
+18	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.13397_0	13397.0	13397.0	13397.0	CD	NUMBER	13397.0	13397.0				
+18	3	fb:cell_revisi_jutaan_dolar._130_0	-130.0	-130.0	-130.0	CD	NUMBER	-130.0	130.0				
+18	4	fb:cell_revisi._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+19	0	fb:cell_kharakteristik.barang_dan_jasa_pariwisata_lainnya_tahun_2015	barang dan jasa pariwisata lainnya tahun 2015	barang|dan|jasa|pariwisata|lainnya|tahun|2015	barang|dan|jasa|pariwisata|lainnya|tahun|2015	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2015	2015.0				
+19	1	fb:cell_perkiraan_revisi_jutaan_dolar.13681_0	13681.0	13681.0	13681.0	CD	NUMBER	13681.0	13681.0				
+19	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.14015_0	14015.0	14015.0	14015.0	CD	NUMBER	14015.0	14015.0				
+19	3	fb:cell_revisi_jutaan_dolar._334_0	-334.0	-334.0	-334.0	CD	NUMBER	-334.0	334.0				
+19	4	fb:cell_revisi._2_4	-2.4	-2.4	-2.4	CD	NUMBER	-2.4	2.4				
+20	0	fb:cell_kharakteristik.total_barang_dan_jasa_pariwisata	total barang dan jasa pariwisata	total|barang|dan|jasa|pariwisata	total|barang|dan|jasa|pariwisata	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+20	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+20	3	fb:cell_revisi_jutaan_dolar.null											
+20	4	fb:cell_revisi.null											
+21	0	fb:cell_kharakteristik.total_barang_dan_jasa_pariwisata_tahun_2012	total barang dan jasa pariwisata tahun 2012	total|barang|dan|jasa|pariwisata|tahun|2012	total|barang|dan|jasa|pariwisata|tahun|2012	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2012	2012.0				
+21	1	fb:cell_perkiraan_revisi_jutaan_dolar.67084_0	67084.0	67084.0	67084.0	CD	NUMBER	67084.0	67084.0				
+21	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.68834_0	68834.0	68834.0	68834.0	CD	NUMBER	68834.0	68834.0				
+21	3	fb:cell_revisi_jutaan_dolar._1750_0	-1750.0	-1750.0	-1750.0	CD	NUMBER	-1750.0	1750.0				
+21	4	fb:cell_revisi._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+22	0	fb:cell_kharakteristik.total_barang_dan_jasa_pariwisata_tahun_2013	total barang dan jasa pariwisata tahun 2013	total|barang|dan|jasa|pariwisata|tahun|2013	total|barang|dan|jasa|pariwisata|tahun|2013	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2013	2013.0				
+22	1	fb:cell_perkiraan_revisi_jutaan_dolar.69177_0	69177.0	69177.0	69177.0	CD	NUMBER	69177.0	69177.0				
+22	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.71072_0	71072.0	71072.0	71072.0	CD	NUMBER	71072.0	71072.0				
+22	3	fb:cell_revisi_jutaan_dolar._1895_0	-1895.0	-1895.0	-1895.0	CD	NUMBER	-1895.0	1895.0				
+22	4	fb:cell_revisi._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				
+23	0	fb:cell_kharakteristik.total_barang_dan_jasa_pariwisata_tahun_2014	total barang dan jasa pariwisata tahun 2014	total|barang|dan|jasa|pariwisata|tahun|2014	total|barang|dan|jasa|pariwisata|tahun|2014	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2014	2014.0				
+23	1	fb:cell_perkiraan_revisi_jutaan_dolar.72560_0	72560.0	72560.0	72560.0	CD	NUMBER	72560.0	72560.0				
+23	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.74528_0	74528.0	74528.0	74528.0	CD	NUMBER	74528.0	74528.0				
+23	3	fb:cell_revisi_jutaan_dolar._1968_0	-1968.0	-1968.0	-1968.0	CD	NUMBER	-1968.0	1968.0				
+23	4	fb:cell_revisi._2_6	-2.6	-2.6	-2.6	CD	NUMBER	-2.6	2.6				
+24	0	fb:cell_kharakteristik.total_barang_dan_jasa_pariwisata_tahun_2015	total barang dan jasa pariwisata tahun 2015	total|barang|dan|jasa|pariwisata|tahun|2015	total|barang|dan|jasa|pariwisata|tahun|2015	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2015	2015.0				
+24	1	fb:cell_perkiraan_revisi_jutaan_dolar.73494_0	73494.0	73494.0	73494.0	CD	NUMBER	73494.0	73494.0				
+24	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.75921_0	75921.0	75921.0	75921.0	CD	NUMBER	75921.0	75921.0				
+24	3	fb:cell_revisi_jutaan_dolar._2427_0	-2427.0	-2427.0	-2427.0	CD	NUMBER	-2427.0	2427.0				
+24	4	fb:cell_revisi._3_2	-3.2	-3.2	-3.2	CD	NUMBER	-3.2	3.2				
+25	0	fb:cell_kharakteristik.total_barang_dan_jasa_lainnya	total barang dan jasa lainnya	total|barang|dan|jasa|lainnya	total|barang|dan|jasa|lainnya	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+25	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+25	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+25	3	fb:cell_revisi_jutaan_dolar.null											
+25	4	fb:cell_revisi.null											
+26	0	fb:cell_kharakteristik.total_barang_dan_jasa_lainnya_tahun_2012	total barang dan jasa lainnya tahun 2012	total|barang|dan|jasa|lainnya|tahun|2012	total|barang|dan|jasa|lainnya|tahun|2012	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2012	2012.0				
+26	1	fb:cell_perkiraan_revisi_jutaan_dolar.13073_0	13073.0	13073.0	13073.0	CD	NUMBER	13073.0	13073.0				
+26	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.12915_0	12915.0	12915.0	12915.0	CD	NUMBER	12915.0	12915.0				
+26	3	fb:cell_revisi_jutaan_dolar.158_0	158.0	158.0	158.0	CD	NUMBER	158.0	158.0				
+26	4	fb:cell_revisi.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+27	0	fb:cell_kharakteristik.total_barang_dan_jasa_lainnya_tahun_2013	total barang dan jasa lainnya tahun 2013	total|barang|dan|jasa|lainnya|tahun|2013	total|barang|dan|jasa|lainnya|tahun|2013	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2013	2013.0				
+27	1	fb:cell_perkiraan_revisi_jutaan_dolar.13410_0	13410.0	13410.0	13410.0	CD	NUMBER	13410.0	13410.0				
+27	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.13449_0	13449.0	13449.0	13449.0	CD	NUMBER	13449.0	13449.0				
+27	3	fb:cell_revisi_jutaan_dolar._39_0	-39.0	-39.0	-39.0	CD	NUMBER	-39.0	39.0				
+27	4	fb:cell_revisi._0_3	-0.3	-0.3	-0.3	CD	NUMBER	-0.3	0.3				
+28	0	fb:cell_kharakteristik.total_barang_dan_jasa_lainnya_tahun_2014	total barang dan jasa lainnya tahun 2014	total|barang|dan|jasa|lainnya|tahun|2014	total|barang|dan|jasa|lainnya|tahun|2014	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2014	2014.0				
+28	1	fb:cell_perkiraan_revisi_jutaan_dolar.13923_0	13923.0	13923.0	13923.0	CD	NUMBER	13923.0	13923.0				
+28	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.13975_0	13975.0	13975.0	13975.0	CD	NUMBER	13975.0	13975.0				
+28	3	fb:cell_revisi_jutaan_dolar._52_0	-52.0	-52.0	-52.0	CD	NUMBER	-52.0	52.0				
+28	4	fb:cell_revisi._0_4	-0.4	-0.4	-0.4	CD	NUMBER	-0.4	0.4				
+29	0	fb:cell_kharakteristik.total_barang_dan_jasa_lainnya_tahun_2015	total barang dan jasa lainnya tahun 2015	total|barang|dan|jasa|lainnya|tahun|2015	total|barang|dan|jasa|lainnya|tahun|2015	JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2015	2015.0				
+29	1	fb:cell_perkiraan_revisi_jutaan_dolar.14426_0	14426.0	14426.0	14426.0	CD	NUMBER	14426.0	14426.0				
+29	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.14421_0	14421.0	14421.0	14421.0	CD	NUMBER	14421.0	14421.0				
+29	3	fb:cell_revisi_jutaan_dolar.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+29	4	fb:cell_revisi.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	0	fb:cell_kharakteristik.pengeluaran_pariwisata	pengeluaran pariwisata	pengeluaran|pariwisata	pengeluaran|pariwisata	NN|NN	O|O	|					
+30	1	fb:cell_perkiraan_revisi_jutaan_dolar.null											
+30	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.null											
+30	3	fb:cell_revisi_jutaan_dolar.null											
+30	4	fb:cell_revisi.null											
+31	0	fb:cell_kharakteristik.belanja_pariwisata_tahun_2012	belanja pariwisata tahun 2012	belanja|pariwisata|tahun|2012	belanja|pariwisata|tahun|2012	NNP|NNP|NNP|CD	O|O|O|DATE	|||2012	2012.0				
+31	1	fb:cell_perkiraan_revisi_jutaan_dolar.80157_0	80157.0	80157.0	80157.0	CD	NUMBER	80157.0	80157.0				
+31	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.81749_0	81749.0	81749.0	81749.0	CD	NUMBER	81749.0	81749.0				
+31	3	fb:cell_revisi_jutaan_dolar._1592_0	-1592.0	-1592.0	-1592.0	CD	NUMBER	-1592.0	1592.0				
+31	4	fb:cell_revisi._1_9	-1.9	-1.9	-1.9	CD	NUMBER	-1.9	1.9				
+32	0	fb:cell_kharakteristik.belanja_pariwisata_tahun_2013	belanja pariwisata tahun 2013	belanja|pariwisata|tahun|2013	belanja|pariwisata|tahun|2013	NNP|NNP|NNP|CD	O|O|O|DATE	|||2013	2013.0				
+32	1	fb:cell_perkiraan_revisi_jutaan_dolar.82587_0	82587.0	82587.0	82587.0	CD	NUMBER	82587.0	82587.0				
+32	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.84521_0	84521.0	84521.0	84521.0	CD	NUMBER	84521.0	84521.0				
+32	3	fb:cell_revisi_jutaan_dolar._1934_0	-1934.0	-1934.0	-1934.0	CD	NUMBER	-1934.0	1934.0				
+32	4	fb:cell_revisi._2_3	-2.3	-2.3	-2.3	CD	NUMBER	-2.3	2.3				
+33	0	fb:cell_kharakteristik.belanja_pariwisata_tahun_2014	belanja pariwisata tahun 2014	belanja|pariwisata|tahun|2014	belanja|pariwisata|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014	2014.0				
+33	1	fb:cell_perkiraan_revisi_jutaan_dolar.86483_0	86483.0	86483.0	86483.0	CD	NUMBER	86483.0	86483.0				
+33	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.88503_0	88503.0	88503.0	88503.0	CD	NUMBER	88503.0	88503.0				
+33	3	fb:cell_revisi_jutaan_dolar._2020_0	-2020.0	-2020.0	-2020.0	CD	NUMBER	-2020.0	2020.0				
+33	4	fb:cell_revisi._2_3	-2.3	-2.3	-2.3	CD	NUMBER	-2.3	2.3				
+34	0	fb:cell_kharakteristik.belanja_pariwisata_tahun_2015	belanja pariwisata tahun 2015	belanja|pariwisata|tahun|2015	belanja|pariwisata|tahun|2015	NNP|NNP|NNP|CD	O|O|O|DATE	|||2015	2015.0				
+34	1	fb:cell_perkiraan_revisi_jutaan_dolar.87920_0	87920.0	87920.0	87920.0	CD	NUMBER	87920.0	87920.0				
+34	2	fb:cell_perkiraan_sebelumnya_jutaan_dolar.90342_0	90342.0	90342.0	90342.0	CD	NUMBER	90342.0	90342.0				
+34	3	fb:cell_revisi_jutaan_dolar._2422_0	-2422.0	-2422.0	-2422.0	CD	NUMBER	-2422.0	2422.0				
+34	4	fb:cell_revisi._2_7	-2.7	-2.7	-2.7	CD	NUMBER	-2.7	2.7				

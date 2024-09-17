@@ -1,0 +1,130 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.orang_orang_aborigin	orang-orang Aborigin	orang|orang|aborigin	orang|orang|Aborigin	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.orang_orang_non_aborigin	orang-orang non-aborigin	orang|orang|non|aborigin	orang|orang|non|aborigin	NNP|NNP|JJ|NN	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.persen_dianiaya_secara_fisik_atau_seksual_oleh_orang_dewasa_sebelum_usia_15_tahun	persen dianiaya secara fisik atau seksual oleh orang dewasa sebelum usia 15 tahun	persen|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun	persen|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun	JJ|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|O|O|O|O|O|O|O|O|NUMBER|O	|||||||||||15.0|	15.0				
+0	1	fb:cell_orang_orang_aborigin.null											
+0	2	fb:cell_orang_orang_non_aborigin.null											
+1	0	fb:cell_kharakteristik.persen_yang_dianiaya_secara_fisik_atau_seksual_oleh_orang_dewasa_sebelum_usia_15_tahun_yang_dianiaya_secara_fisik_dan_seksual	persen yang dianiaya secara fisik atau seksual oleh orang dewasa sebelum usia 15 tahun yang dianiaya secara fisik dan seksual	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|yang|dianiaya|secara|fisik|dan|seksual	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|yang|dianiaya|secara|fisik|dan|seksual	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O|O|O|O|O	||||||||||||15.0|||||||	15.0				
+1	1	fb:cell_orang_orang_aborigin.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+1	2	fb:cell_orang_orang_non_aborigin.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	0	fb:cell_kharakteristik.persen_yang_dianiaya_secara_fisik_atau_seksual_oleh_orang_dewasa_sebelum_usia_15_tahun_saja	persen yang dianiaya secara fisik atau seksual oleh orang dewasa sebelum usia 15 tahun saja	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|saja	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|saja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O	||||||||||||15.0||	15.0				
+2	1	fb:cell_orang_orang_aborigin.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	2	fb:cell_orang_orang_non_aborigin.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	0	fb:cell_kharakteristik.persen_yang_dianiaya_secara_fisik_atau_seksual_oleh_orang_dewasa_sebelum_usia_15_tahun_hanya_dianiaya_secara_fisik	persen yang dianiaya secara fisik atau seksual oleh orang dewasa sebelum usia 15 tahun hanya dianiaya secara fisik	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|hanya|dianiaya|secara|fisik	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|hanya|dianiaya|secara|fisik	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O|O|O	||||||||||||15.0|||||	15.0				
+3	1	fb:cell_orang_orang_aborigin.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+3	2	fb:cell_orang_orang_non_aborigin.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+4	0	fb:cell_kharakteristik.persen_yang_dianiaya_secara_fisik_atau_seksual_oleh_orang_dewasa_sebelum_usia_15_tahun_tidak	persen yang dianiaya secara fisik atau seksual oleh orang dewasa sebelum usia 15 tahun tidak	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|tidak	persen|yang|dianiaya|secara|fisik|atau|seksual|oleh|orang|dewasa|sebelum|usia|15|tahun|tidak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O	||||||||||||15.0||	15.0				
+4	1	fb:cell_orang_orang_aborigin.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+4	2	fb:cell_orang_orang_non_aborigin.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+5	0	fb:cell_kharakteristik.persen_lima_atau_lebih_minuman_beralkohol_sekaligus_pesta_minuman_keras_selama_bulan_sebelum_survei	persen lima atau lebih minuman beralkohol sekaligus (pesta minuman keras) selama bulan sebelum survei	persen|lima|atau|lebih|minuman|beralkohol|sekaligus|-lrb-|pesta|minuman|keras|-rrb-|selama|bulan|sebelum|survei	persen|lima|atau|lebih|minuman|beralkohol|sekaligus|-lrb-|pesta|minuman|keras|-rrb-|selama|bulan|sebelum|survei	NNP|NNP|NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|NNP|NNP|-RRB-|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+5	1	fb:cell_orang_orang_aborigin.null											
+5	2	fb:cell_orang_orang_non_aborigin.null											
+6	0	fb:cell_kharakteristik.persen_lima_atau_lebih_minuman_beralkohol_sekaligus_pesta_minuman_keras_selama_bulan_sebelum_survei_ya_setidaknya_sekali	persen lima atau lebih minuman beralkohol sekaligus (pesta minuman keras) selama bulan sebelum survei ya, setidaknya sekali	persen|lima|atau|lebih|minuman|beralkohol|sekaligus|-lrb-|pesta|minuman|keras|-rrb-|selama|bulan|sebelum|survei|ya|,|setidaknya|sekali	persen|lima|atau|lebih|minuman|beralkohol|sekaligus|-lrb-|pesta|minuman|keras|-rrb-|selama|bulan|sebelum|survei|ya|,|setidaknya|sekali	NNP|NNP|NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|NNP|NNP|-RRB-|NNP|NNP|NNP|NNP|PRP|,|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				persen lima atau lebih minuman beralkohol sekaligus (pesta minuman keras) selama bulan sebelum survei ya|setidaknya sekali	fb:part_kharakteristik.persen_lima_atau_lebih_minuman_beralkohol_sekaligus_pesta_minuman_keras_selama_bulan_sebelum_survei_ya|fb:part_kharakteristik.setidaknya_sekali
+6	1	fb:cell_orang_orang_aborigin.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+6	2	fb:cell_orang_orang_non_aborigin.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+7	0	fb:cell_kharakteristik.persen_lima_atau_lebih_minuman_beralkohol_sekaligus_pesta_minuman_keras_selama_bulan_sebelum_survei_no	persen lima atau lebih minuman beralkohol sekaligus (pesta minuman keras) selama bulan sebelum survei no	persen|lima|atau|lebih|minuman|beralkohol|sekaligus|-lrb-|pesta|minuman|keras|-rrb-|selama|bulan|sebelum|survei|no	persen|lima|atau|lebih|minuman|beralkohol|sekaligus|-lrb-|pesta|minuman|keras|-rrb-|selama|bulan|sebelum|survei|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|NNP|NNP|-RRB-|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+7	1	fb:cell_orang_orang_aborigin.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+7	2	fb:cell_orang_orang_non_aborigin.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+8	0	fb:cell_kharakteristik.persen_menggunakan_narkoba_selama_satu_bulan_sebelum_survei	persen menggunakan narkoba selama satu bulan sebelum survei	persen|menggunakan|narkoba|selama|satu|bulan|sebelum|survei	persen|menggunakan|narkoba|selama|satu|bulan|sebelum|survei	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+8	1	fb:cell_orang_orang_aborigin.null											
+8	2	fb:cell_orang_orang_non_aborigin.null											
+9	0	fb:cell_kharakteristik.persen_menggunakan_narkoba_selama_sebulan_sebelum_survei_ya_setidaknya_sekali	persen menggunakan narkoba selama sebulan sebelum survei ya, setidaknya sekali	persen|menggunakan|narkoba|selama|sebulan|sebelum|survei|ya|,|setidaknya|sekali	persen|menggunakan|narkoba|selama|sebulan|sebelum|survei|ya|,|setidaknya|sekali	JJ|NN|NN|NN|NN|NN|NN|PRP|,|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				persen menggunakan narkoba selama sebulan sebelum survei ya|setidaknya sekali	fb:part_kharakteristik.persen_menggunakan_narkoba_selama_sebulan_sebelum_survei_ya|fb:part_kharakteristik.setidaknya_sekali
+9	1	fb:cell_orang_orang_aborigin.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+9	2	fb:cell_orang_orang_non_aborigin.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+10	0	fb:cell_kharakteristik.persen_menggunakan_narkoba_selama_sebulan_sebelum_survei_no	persen menggunakan narkoba selama sebulan sebelum survei no	persen|menggunakan|narkoba|selama|sebulan|sebelum|survei|no	persen|menggunakan|narkoba|selama|sebulan|sebelum|survei|no	JJ|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+10	1	fb:cell_orang_orang_aborigin.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+10	2	fb:cell_orang_orang_non_aborigin.92_0	92.0	92.0	92.0	CD	NUMBER	92.0	92.0				
+11	0	fb:cell_kharakteristik.persen_jumlah_aktivitas_malam_hari_selama_bulan_sebelum_survei	persen jumlah aktivitas malam hari selama bulan sebelum survei	persen|jumlah|aktivitas|malam|hari|selama|bulan|sebelum|survei	persen|jumlah|aktivitas|malam|hari|selama|bulan|sebelum|survei	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+11	1	fb:cell_orang_orang_aborigin.null											
+11	2	fb:cell_orang_orang_non_aborigin.null											
+12	0	fb:cell_kharakteristik.persen_jumlah_aktivitas_malam_hari_selama_bulan_sebelum_survei_tidak_ada	persen jumlah aktivitas malam hari selama bulan sebelum survei tidak ada	persen|jumlah|aktivitas|malam|hari|selama|bulan|sebelum|survei|tidak|ada	persen|jumlah|aktivitas|malam|hari|selama|bulan|sebelum|survei|tidak|ada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+12	1	fb:cell_orang_orang_aborigin.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+12	2	fb:cell_orang_orang_non_aborigin.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+13	0	fb:cell_kharakteristik.persen_jumlah_aktivitas_malam_hari_selama_sebulan_sebelum_survei_1_hingga_10	persen jumlah aktivitas malam hari selama sebulan sebelum survei 1 hingga 10	persen|jumlah|aktivitas|malam|hari|selama|sebulan|sebelum|survei|1|hingga|10	persen|jumlah|aktivitas|malam|hari|selama|sebulan|sebelum|survei|1|hingga|10	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|O|O|O|O|O|O|O|NUMBER|O|NUMBER	|||||||||1.0||10.0	1.0		10.0		
+13	1	fb:cell_orang_orang_aborigin.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+13	2	fb:cell_orang_orang_non_aborigin.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+14	0	fb:cell_kharakteristik.persen_jumlah_aktivitas_malam_hari_selama_sebulan_sebelum_survei_11_hingga_20	persen jumlah aktivitas malam hari selama sebulan sebelum survei 11 hingga 20	persen|jumlah|aktivitas|malam|hari|selama|sebulan|sebelum|survei|11|hingga|20	persen|jumlah|aktivitas|malam|hari|selama|sebulan|sebelum|survei|11|hingga|20	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|O|O|O|O|O|O|O|NUMBER|O|NUMBER	|||||||||11.0||20.0	11.0		20.0		
+14	1	fb:cell_orang_orang_aborigin.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+14	2	fb:cell_orang_orang_non_aborigin.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+15	0	fb:cell_kharakteristik.persen_jumlah_aktivitas_malam_hari_selama_sebulan_sebelum_survei_21_atau_lebih	persen jumlah aktivitas malam hari selama sebulan sebelum survei 21 atau lebih	persen|jumlah|aktivitas|malam|hari|selama|sebulan|sebelum|survei|21|atau|lebih	persen|jumlah|aktivitas|malam|hari|selama|sebulan|sebelum|survei|21|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN	O|O|O|O|O|O|O|O|O|NUMBER|O|O	|||||||||21.0||	21.0				
+15	1	fb:cell_orang_orang_aborigin.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+15	2	fb:cell_orang_orang_non_aborigin.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+16	0	fb:cell_kharakteristik.persen_pernah_menjadi_tunawisma_atau_tinggal_sementara_di_suatu_tempat_karena_anda_tidak_punya_tempat_tinggal_lain	persen pernah menjadi tunawisma atau tinggal sementara di suatu tempat karena Anda tidak punya tempat tinggal lain	persen|pernah|menjadi|tunawisma|atau|tinggal|sementara|di|suatu|tempat|karena|anda|tidak|punya|tempat|tinggal|lain	persen|pernah|menjadi|tunawisma|atau|tinggal|sementara|di|suatu|tempat|karena|Anda|tidak|punya|tempat|tinggal|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+16	1	fb:cell_orang_orang_aborigin.null											
+16	2	fb:cell_orang_orang_non_aborigin.null											
+17	0	fb:cell_kharakteristik.persen_pernah_menjadi_tunawisma_atau_tinggal_sementara_di_suatu_tempat_karena_tidak_punya_tempat_tinggal_lain_ya	persen pernah menjadi tunawisma atau tinggal sementara di suatu tempat karena tidak punya tempat tinggal lain ya	persen|pernah|menjadi|tunawisma|atau|tinggal|sementara|di|suatu|tempat|karena|tidak|punya|tempat|tinggal|lain|ya	persen|pernah|menjadi|tunawisma|atau|tinggal|sementara|di|suatu|tempat|karena|tidak|punya|tempat|tinggal|lain|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+17	1	fb:cell_orang_orang_aborigin.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+17	2	fb:cell_orang_orang_non_aborigin.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+18	0	fb:cell_kharakteristik.persen_pernah_menjadi_tunawisma_atau_tinggal_sementara_di_suatu_tempat_karena_anda_tidak_punya_tempat_tinggal_lain	persen pernah menjadi tunawisma atau tinggal sementara di suatu tempat karena Anda tidak punya tempat tinggal lain	persen|pernah|menjadi|tunawisma|atau|tinggal|sementara|di|suatu|tempat|karena|anda|tidak|punya|tempat|tinggal|lain	persen|pernah|menjadi|tunawisma|atau|tinggal|sementara|di|suatu|tempat|karena|Anda|tidak|punya|tempat|tinggal|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+18	1	fb:cell_orang_orang_aborigin.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+18	2	fb:cell_orang_orang_non_aborigin.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+19	0	fb:cell_kharakteristik.persen_kesehatan_mental_yang_dinilai_sendiri	persen kesehatan mental yang dinilai sendiri	persen|kesehatan|mental|yang|dinilai|sendiri	persen|kesehatan|mental|yang|dinilai|sendiri	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+19	1	fb:cell_orang_orang_aborigin.null											
+19	2	fb:cell_orang_orang_non_aborigin.null											
+20	0	fb:cell_kharakteristik.persen_kesehatan_mental_yang_dinilai_sendiri_baik_sangat_baik_atau_sangat_baik	persen kesehatan mental yang dinilai sendiri baik, sangat baik, atau sangat baik	persen|kesehatan|mental|yang|dinilai|sendiri|baik|,|sangat|baik|,|atau|sangat|baik	persen|kesehatan|mental|yang|dinilai|sendiri|baik|,|sangat|baik|,|atau|sangat|baik	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				persen kesehatan mental yang dinilai sendiri baik|sangat baik|atau sangat baik	fb:part_kharakteristik.persen_kesehatan_mental_yang_dinilai_sendiri_baik|fb:part_kharakteristik.sangat_baik|fb:part_kharakteristik.atau_sangat_baik
+20	1	fb:cell_orang_orang_aborigin.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+20	2	fb:cell_orang_orang_non_aborigin.94_0	94.0	94.0	94.0	CD	NUMBER	94.0	94.0				
+21	0	fb:cell_kharakteristik.persen_kesehatan_mental_yang_dinilai_sendiri_sedang_atau_buruk	persen kesehatan mental yang dinilai sendiri sedang atau buruk	persen|kesehatan|mental|yang|dinilai|sendiri|sedang|atau|buruk	persen|kesehatan|mental|yang|dinilai|sendiri|sedang|atau|buruk	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+21	1	fb:cell_orang_orang_aborigin.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+21	2	fb:cell_orang_orang_non_aborigin.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+22	0	fb:cell_kharakteristik.persen_kecacatan	persen kecacatan	persen|kecacatan	persen|kecacatan	NNP|NNP	O|O	|					
+22	1	fb:cell_orang_orang_aborigin.null											
+22	2	fb:cell_orang_orang_non_aborigin.null											
+23	0	fb:cell_kharakteristik.persen_kecacatan_ya	persen kecacatan ya	persen|kecacatan|ya	persen|kecacatan|ya	NNP|NNP|PRP	O|O|O	||					
+23	1	fb:cell_orang_orang_aborigin.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+23	2	fb:cell_orang_orang_non_aborigin.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+24	0	fb:cell_kharakteristik.persen_cacat_no	persen cacat no	persen|cacat|no	persen|cacat|no	JJ|NN|DT	O|O|O	||					
+24	1	fb:cell_orang_orang_aborigin.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+24	2	fb:cell_orang_orang_non_aborigin.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+25	0	fb:cell_kharakteristik.persen_merasakan_adanya_kekacauan_sosial_di_lingkungan_sekitar	persen merasakan adanya kekacauan sosial di lingkungan sekitar	persen|merasakan|adanya|kekacauan|sosial|di|lingkungan|sekitar	persen|merasakan|adanya|kekacauan|sosial|di|lingkungan|sekitar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+25	1	fb:cell_orang_orang_aborigin.null											
+25	2	fb:cell_orang_orang_non_aborigin.null											
+26	0	fb:cell_kharakteristik.persen_merasakan_adanya_kekacauan_sosial_di_lingkungan_sekitar_ya	persen merasakan adanya kekacauan sosial di lingkungan sekitar ya	persen|merasakan|adanya|kekacauan|sosial|di|lingkungan|sekitar|ya	persen|merasakan|adanya|kekacauan|sosial|di|lingkungan|sekitar|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O	||||||||					
+26	1	fb:cell_orang_orang_aborigin.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+26	2	fb:cell_orang_orang_non_aborigin.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+27	0	fb:cell_kharakteristik.persen_merasakan_adanya_kekacauan_sosial_di_lingkungan_no	persen merasakan adanya kekacauan sosial di lingkungan no	persen|merasakan|adanya|kekacauan|sosial|di|lingkungan|no	persen|merasakan|adanya|kekacauan|sosial|di|lingkungan|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O	|||||||					
+27	1	fb:cell_orang_orang_aborigin.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+27	2	fb:cell_orang_orang_non_aborigin.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+28	0	fb:cell_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_setempat	persen rasa memiliki terhadap masyarakat setempat	persen|rasa|memiliki|terhadap|masyarakat|setempat	persen|rasa|memiliki|terhadap|masyarakat|setempat	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+28	1	fb:cell_orang_orang_aborigin.null											
+28	2	fb:cell_orang_orang_non_aborigin.null											
+29	0	fb:cell_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_lokal_sangat_kuat_atau_agak_kuat	persen rasa memiliki terhadap masyarakat lokal sangat kuat atau agak kuat	persen|rasa|memiliki|terhadap|masyarakat|lokal|sangat|kuat|atau|agak|kuat	persen|rasa|memiliki|terhadap|masyarakat|lokal|sangat|kuat|atau|agak|kuat	JJ|NN|NN|NN|NN|JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+29	1	fb:cell_orang_orang_aborigin.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+29	2	fb:cell_orang_orang_non_aborigin.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+30	0	fb:cell_kharakteristik.persen_rasa_memiliki_masyarakat_lokal_agak_lemah_atau_sangat_lemah	persen rasa memiliki masyarakat lokal agak lemah atau sangat lemah	persen|rasa|memiliki|masyarakat|lokal|agak|lemah|atau|sangat|lemah	persen|rasa|memiliki|masyarakat|lokal|agak|lemah|atau|sangat|lemah	JJ|NN|NN|NN|JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+30	1	fb:cell_orang_orang_aborigin.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+30	2	fb:cell_orang_orang_non_aborigin.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+31	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal	persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+31	1	fb:cell_orang_orang_aborigin.null											
+31	2	fb:cell_orang_orang_non_aborigin.null											
+32	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal_sangat_mungkin_atau_agak_mungkin_terjadi	persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal, sangat mungkin atau agak mungkin terjadi	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal|,|sangat|mungkin|atau|agak|mungkin|terjadi	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal|,|sangat|mungkin|atau|agak|mungkin|terjadi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||				persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal|sangat mungkin atau agak mungkin terjadi	fb:part_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal|fb:part_kharakteristik.sangat_mungkin_atau_agak_mungkin_terjadi
+32	1	fb:cell_orang_orang_aborigin.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+32	2	fb:cell_orang_orang_non_aborigin.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+33	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal_kemungkinannya_kecil_atau_sama_sekali_tidak_mungkin_terjadi	persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal, kemungkinannya kecil atau sama sekali tidak mungkin terjadi	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal|,|kemungkinannya|kecil|atau|sama|sekali|tidak|mungkin|terjadi	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal|,|kemungkinannya|kecil|atau|sama|sekali|tidak|mungkin|terjadi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||				persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal|kemungkinannya kecil atau sama sekali tidak mungkin terjadi	fb:part_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal|fb:part_kharakteristik.kemungkinannya_kecil_atau_sama_sekali_tidak_mungkin_terjadi
+33	1	fb:cell_orang_orang_aborigin.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+33	2	fb:cell_orang_orang_non_aborigin.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+34	0	fb:cell_kharakteristik.persen_usia	persen usia	persen|usia	persen|usia	NNP|NNP	O|O	|					
+34	1	fb:cell_orang_orang_aborigin.null											
+34	2	fb:cell_orang_orang_non_aborigin.null											
+35	0	fb:cell_kharakteristik.persen_usia_15_hingga_24_tahun	persen usia 15 hingga 24 tahun	persen|usia|15|hingga|24|tahun	persen|usia|15|hingga|24|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||15.0||24.0|	15.0		24.0		
+35	1	fb:cell_orang_orang_aborigin.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+35	2	fb:cell_orang_orang_non_aborigin.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+36	0	fb:cell_kharakteristik.persen_usia_25_hingga_44_tahun	persen usia 25 hingga 44 tahun	persen|usia|25|hingga|44|tahun	persen|usia|25|hingga|44|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||25.0||44.0|	25.0		44.0		
+36	1	fb:cell_orang_orang_aborigin.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+36	2	fb:cell_orang_orang_non_aborigin.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+37	0	fb:cell_kharakteristik.persen_usia_45_tahun_ke_atas	persen usia 45 tahun ke atas	persen|usia|45|tahun|ke|atas	persen|usia|45|tahun|ke|atas	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||45.0|||	45.0				
+37	1	fb:cell_orang_orang_aborigin.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+37	2	fb:cell_orang_orang_non_aborigin.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+38	0	fb:cell_kharakteristik.persen_status_perkawinan	persen status perkawinan	persen|status|perkawinan	persen|status|perkawinan	JJ|NN|NN	O|O|O	||					
+38	1	fb:cell_orang_orang_aborigin.null											
+38	2	fb:cell_orang_orang_non_aborigin.null											
+39	0	fb:cell_kharakteristik.persen_status_perkawinan_menikah_atau_mertua	persen status perkawinan menikah atau mertua	persen|status|perkawinan|menikah|atau|mertua	persen|status|perkawinan|menikah|atau|mertua	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+39	1	fb:cell_orang_orang_aborigin.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+39	2	fb:cell_orang_orang_non_aborigin.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+40	0	fb:cell_kharakteristik.persen_status_perkawinan_bercerai_berpisah_atau_menjanda	persen status perkawinan bercerai, berpisah, atau menjanda	persen|status|perkawinan|bercerai|,|berpisah|,|atau|menjanda	persen|status|perkawinan|bercerai|,|berpisah|,|atau|menjanda	JJ|NN|NN|NN|,|NN|,|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				persen status perkawinan bercerai|berpisah|atau menjanda	fb:part_kharakteristik.persen_status_perkawinan_bercerai|fb:part_kharakteristik.berpisah|fb:part_kharakteristik.atau_menjanda
+40	1	fb:cell_orang_orang_aborigin.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+40	2	fb:cell_orang_orang_non_aborigin.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+41	0	fb:cell_kharakteristik.persen_status_perkawinan_lajang_belum_menikah	persen status perkawinan lajang, belum menikah	persen|status|perkawinan|lajang|,|belum|menikah	persen|status|perkawinan|lajang|,|belum|menikah	JJ|NN|NN|NN|,|NN|NN	O|O|O|O|O|O|O	||||||				persen status perkawinan lajang|belum menikah	fb:part_kharakteristik.persen_status_perkawinan_lajang|fb:part_kharakteristik.belum_menikah
+41	1	fb:cell_orang_orang_aborigin.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+41	2	fb:cell_orang_orang_non_aborigin.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				

@@ -1,0 +1,66 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pekerja_terampil_federal	pekerja terampil federal	pekerja|terampil|federal	pekerja|terampil|federal	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.calon_provinsi	calon provinsi	calon|provinsi	calon|provinsi	NNP|NNP	O|O	|					
+-1	3	fb:row.row.pekerja_terampil_quebec	pekerja terampil Quebec	pekerja|terampil|quebec	pekerja|terampil|Quebec	NN|NN|NNP	O|O|O	||					
+-1	4	fb:row.row.kelas_pengalaman_kanada	kelas pengalaman Kanada	kelas|pengalaman|kanada	kelas|pengalaman|Kanada	NNP|NNP|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi	persen setahun penuh pertama setelah imigrasi	persen|setahun|penuh|pertama|setelah|imigrasi	persen|setahun|penuh|pertama|setelah|imigrasi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	1	fb:cell_pekerja_terampil_federal.null											
+0	2	fb:cell_calon_provinsi.null											
+0	3	fb:cell_pekerja_terampil_quebec.null											
+0	4	fb:cell_kelas_pengalaman_kanada.null											
+1	0	fb:cell_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi_semua	persen setahun penuh pertama setelah imigrasi semua	persen|setahun|penuh|pertama|setelah|imigrasi|semua	persen|setahun|penuh|pertama|setelah|imigrasi|semua	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_pekerja_terampil_federal.80_1	80.1	80.1	80.1	CD	NUMBER	80.1	80.1				
+1	2	fb:cell_calon_provinsi.92_5	92.5	92.5	92.5	CD	NUMBER	92.5	92.5				
+1	3	fb:cell_pekerja_terampil_quebec.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+1	4	fb:cell_kelas_pengalaman_kanada.95_0	95.0	95.0	95.0	CD	NUMBER	95.0	95.0				
+2	0	fb:cell_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi_tidak_ada_penghasilan_kanada_sebelum_mendarat	persen setahun penuh pertama setelah imigrasi, tidak ada penghasilan Kanada sebelum mendarat	persen|setahun|penuh|pertama|setelah|imigrasi|,|tidak|ada|penghasilan|kanada|sebelum|mendarat	persen|setahun|penuh|pertama|setelah|imigrasi|,|tidak|ada|penghasilan|kanada|sebelum|mendarat	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				persen setahun penuh pertama setelah imigrasi|tidak ada penghasilan Kanada sebelum mendarat	fb:part_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi|fb:part_kharakteristik.tidak_ada_penghasilan_kanada_sebelum_mendarat
+2	1	fb:cell_pekerja_terampil_federal.76_2	76.2	76.2	76.2	CD	NUMBER	76.2	76.2				
+2	2	fb:cell_calon_provinsi.85_3	85.3	85.3	85.3	CD	NUMBER	85.3	85.3				
+2	3	fb:cell_pekerja_terampil_quebec.71_1	71.1	71.1	71.1	CD	NUMBER	71.1	71.1				
+2	4	fb:cell_kelas_pengalaman_kanada.null											
+3	0	fb:cell_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi_pendapatan_pra_pendaratan_kanada_yang_rendah	persen setahun penuh pertama setelah imigrasi, pendapatan pra-pendaratan Kanada yang rendah	persen|setahun|penuh|pertama|setelah|imigrasi|,|pendapatan|pra|pendaratan|kanada|yang|rendah	persen|setahun|penuh|pertama|setelah|imigrasi|,|pendapatan|pra|pendaratan|Kanada|yang|rendah	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||||				persen setahun penuh pertama setelah imigrasi|pendapatan pra-pendaratan Kanada yang rendah	fb:part_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi|fb:part_kharakteristik.pendapatan_pra_pendaratan_kanada_yang_rendah
+3	1	fb:cell_pekerja_terampil_federal.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+3	2	fb:cell_calon_provinsi.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+3	3	fb:cell_pekerja_terampil_quebec.87_1	87.1	87.1	87.1	CD	NUMBER	87.1	87.1				
+3	4	fb:cell_kelas_pengalaman_kanada.82_9	82.9	82.9	82.9	CD	NUMBER	82.9	82.9				
+4	0	fb:cell_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi_pendapatan_menengah_pra_pendaratan_kanada	persen setahun penuh pertama setelah imigrasi pendapatan menengah pra-pendaratan Kanada	persen|setahun|penuh|pertama|setelah|imigrasi|pendapatan|menengah|pra|pendaratan|kanada	persen|setahun|penuh|pertama|setelah|imigrasi|pendapatan|menengah|pra|pendaratan|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+4	1	fb:cell_pekerja_terampil_federal.93_4	93.4	93.4	93.4	CD	NUMBER	93.4	93.4				
+4	2	fb:cell_calon_provinsi.96_6	96.6	96.6	96.6	CD	NUMBER	96.6	96.6				
+4	3	fb:cell_pekerja_terampil_quebec.95_6	95.6	95.6	95.6	CD	NUMBER	95.6	95.6				
+4	4	fb:cell_kelas_pengalaman_kanada.94_1	94.1	94.1	94.1	CD	NUMBER	94.1	94.1				
+5	0	fb:cell_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi_pendapatan_pra_pendaratan_kanada_yang_tinggi	persen setahun penuh pertama setelah imigrasi, pendapatan pra-pendaratan Kanada yang tinggi	persen|setahun|penuh|pertama|setelah|imigrasi|,|pendapatan|pra|pendaratan|kanada|yang|tinggi	persen|setahun|penuh|pertama|setelah|imigrasi|,|pendapatan|pra|pendaratan|Kanada|yang|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||||				persen setahun penuh pertama setelah imigrasi|pendapatan pra-pendaratan Kanada yang tinggi	fb:part_kharakteristik.persen_setahun_penuh_pertama_setelah_imigrasi|fb:part_kharakteristik.pendapatan_pra_pendaratan_kanada_yang_tinggi
+5	1	fb:cell_pekerja_terampil_federal.96_8	96.8	96.8	96.8	CD	NUMBER	96.8	96.8				
+5	2	fb:cell_calon_provinsi.97_5	97.5	97.5	97.5	CD	NUMBER	97.5	97.5				
+5	3	fb:cell_pekerja_terampil_quebec.97_2	97.2	97.2	97.2	CD	NUMBER	97.2	97.2				
+5	4	fb:cell_kelas_pengalaman_kanada.97_4	97.4	97.4	97.4	CD	NUMBER	97.4	97.4				
+6	0	fb:cell_kharakteristik.persen_tahun_kelima_setelah_imigrasi	persen tahun kelima setelah imigrasi	persen|tahun|kelima|setelah|imigrasi	persen|tahun|kelima|setelah|imigrasi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+6	1	fb:cell_pekerja_terampil_federal.null											
+6	2	fb:cell_calon_provinsi.null											
+6	3	fb:cell_pekerja_terampil_quebec.null											
+6	4	fb:cell_kelas_pengalaman_kanada.null											
+7	0	fb:cell_kharakteristik.persen_tahun_kelima_setelah_imigrasi_semua	persen tahun kelima setelah imigrasi semua	persen|tahun|kelima|setelah|imigrasi|semua	persen|tahun|kelima|setelah|imigrasi|semua	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+7	1	fb:cell_pekerja_terampil_federal.85_6	85.6	85.6	85.6	CD	NUMBER	85.6	85.6				
+7	2	fb:cell_calon_provinsi.91_5	91.5	91.5	91.5	CD	NUMBER	91.5	91.5				
+7	3	fb:cell_pekerja_terampil_quebec.87_4	87.4	87.4	87.4	CD	NUMBER	87.4	87.4				
+7	4	fb:cell_kelas_pengalaman_kanada.91_9	91.9	91.9	91.9	CD	NUMBER	91.9	91.9				
+8	0	fb:cell_kharakteristik.persen_tahun_kelima_setelah_imigrasi_tidak_ada_pendapatan_pra_pendaratan_kanada	persen tahun kelima setelah imigrasi tidak ada pendapatan pra-pendaratan Kanada	persen|tahun|kelima|setelah|imigrasi|tidak|ada|pendapatan|pra|pendaratan|kanada	persen|tahun|kelima|setelah|imigrasi|tidak|ada|pendapatan|pra|pendaratan|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+8	1	fb:cell_pekerja_terampil_federal.84_4	84.4	84.4	84.4	CD	NUMBER	84.4	84.4				
+8	2	fb:cell_calon_provinsi.87_5	87.5	87.5	87.5	CD	NUMBER	87.5	87.5				
+8	3	fb:cell_pekerja_terampil_quebec.86_5	86.5	86.5	86.5	CD	NUMBER	86.5	86.5				
+8	4	fb:cell_kelas_pengalaman_kanada.null											
+9	0	fb:cell_kharakteristik.persen_tahun_kelima_setelah_imigrasi_pendapatan_pra_pendaratan_kanada_yang_rendah	persen tahun kelima setelah imigrasi, pendapatan pra-pendaratan Kanada yang rendah	persen|tahun|kelima|setelah|imigrasi|,|pendapatan|pra|pendaratan|kanada|yang|rendah	persen|tahun|kelima|setelah|imigrasi|,|pendapatan|pra|pendaratan|Kanada|yang|rendah	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||||				persen tahun kelima setelah imigrasi|pendapatan pra-pendaratan Kanada yang rendah	fb:part_kharakteristik.persen_tahun_kelima_setelah_imigrasi|fb:part_kharakteristik.pendapatan_pra_pendaratan_kanada_yang_rendah
+9	1	fb:cell_pekerja_terampil_federal.84_9	84.9	84.9	84.9	CD	NUMBER	84.9	84.9				
+9	2	fb:cell_calon_provinsi.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+9	3	fb:cell_pekerja_terampil_quebec.89_6	89.6	89.6	89.6	CD	NUMBER	89.6	89.6				
+9	4	fb:cell_kelas_pengalaman_kanada.81_7	81.7	81.7	81.7	CD	NUMBER	81.7	81.7				
+10	0	fb:cell_kharakteristik.persen_tahun_kelima_setelah_imigrasi_pendapatan_menengah_pra_pendaratan_kanada	persen tahun kelima setelah imigrasi pendapatan menengah pra-pendaratan Kanada	persen|tahun|kelima|setelah|imigrasi|pendapatan|menengah|pra|pendaratan|kanada	persen|tahun|kelima|setelah|imigrasi|pendapatan|menengah|pra|pendaratan|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+10	1	fb:cell_pekerja_terampil_federal.90_8	90.8	90.8	90.8	CD	NUMBER	90.8	90.8				
+10	2	fb:cell_calon_provinsi.94_7	94.7	94.7	94.7	CD	NUMBER	94.7	94.7				
+10	3	fb:cell_pekerja_terampil_quebec.93_3	93.3	93.3	93.3	CD	NUMBER	93.3	93.3				
+10	4	fb:cell_kelas_pengalaman_kanada.91_6	91.6	91.6	91.6	CD	NUMBER	91.6	91.6				
+11	0	fb:cell_kharakteristik.persen_tahun_kelima_setelah_imigrasi_pendapatan_pra_pendaratan_kanada_yang_tinggi	persen tahun kelima setelah imigrasi pendapatan pra-pendaratan Kanada yang tinggi	persen|tahun|kelima|setelah|imigrasi|pendapatan|pra|pendaratan|kanada|yang|tinggi	persen|tahun|kelima|setelah|imigrasi|pendapatan|pra|pendaratan|Kanada|yang|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||					
+11	1	fb:cell_pekerja_terampil_federal.93_5	93.5	93.5	93.5	CD	NUMBER	93.5	93.5				
+11	2	fb:cell_calon_provinsi.95_3	95.3	95.3	95.3	CD	NUMBER	95.3	95.3				
+11	3	fb:cell_pekerja_terampil_quebec.93_5	93.5	93.5	93.5	CD	NUMBER	93.5	93.5				
+11	4	fb:cell_kelas_pengalaman_kanada.94_2	94.2	94.2	94.2	CD	NUMBER	94.2	94.2				

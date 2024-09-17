@@ -1,0 +1,218 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup	tidak ada pikiran untuk bunuh diri seumur hidup%	tidak|ada|pikiran|untuk|bunuh|diri|seumur|hidup|%	tidak|ada|pikiran|untuk|bunuh|diri|seumur|hidup|%	NNP|NN|NN|NN|NN|NN|NN|CD|NN	O|O|O|O|O|O|O|PERCENT|PERCENT	|||||||%0.0|%0.0					
+-1	2	fb:row.row.tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari	tidak ada pikiran untuk bunuh diri seumur hidup, interval kepercayaan 95% dari	tidak|ada|pikiran|untuk|bunuh|diri|seumur|hidup|,|interval|kepercayaan|95|%|dari	tidak|ada|pikiran|untuk|bunuh|diri|seumur|hidup|,|interval|kepercayaan|95|%|dari	NNP|NN|NN|NN|NN|NN|NN|NN|,|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||||%95.0|%95.0|					
+-1	3	fb:row.row.tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga	tidak ada pikiran untuk bunuh diri seumur hidup, interval kepercayaan 95% hingga	tidak|ada|pikiran|untuk|bunuh|diri|seumur|hidup|,|interval|kepercayaan|95|%|hingga	tidak|ada|pikiran|untuk|bunuh|diri|seumur|hidup|,|interval|kepercayaan|95|%|hingga	NNP|NN|NN|NN|NN|NN|NN|NN|,|NN|NN|CD|NN|NN	O|O|O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||||%95.0|%95.0|					
+-1	4	fb:row.row.pikiran_untuk_bunuh_diri_seumur_hidup	pikiran untuk bunuh diri seumur hidup%	pikiran|untuk|bunuh|diri|seumur|hidup|%	pikiran|untuk|bunuh|diri|seumur|hidup|%	NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|PERCENT|PERCENT	|||||%0.0|%0.0					
+-1	5	fb:row.row.pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari	pikiran untuk bunuh diri seumur hidup dengan interval kepercayaan 95% dari	pikiran|untuk|bunuh|diri|seumur|hidup|dengan|interval|kepercayaan|95|%|dari	pikiran|untuk|bunuh|diri|seumur|hidup|dengan|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||%95.0|%95.0|					
+-1	6	fb:row.row.pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95	pikiran untuk bunuh diri seumur hidup dengan interval kepercayaan 95%.	pikiran|untuk|bunuh|diri|seumur|hidup|dengan|interval|kepercayaan|95|%|.	pikiran|untuk|bunuh|diri|seumur|hidup|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+0	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+0	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+0	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+0	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+0	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+0	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+1	0	fb:cell_kharakteristik.jenis_kelamin_laki_laki	jenis kelamin laki-laki	jenis|kelamin|laki|laki	jenis|kelamin|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+1	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.85_8	85.8	85.8	85.8	CD	NUMBER	85.8	85.8				
+1	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.89_8	89.8	89.8	89.8	CD	NUMBER	89.8	89.8				
+1	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+1	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+1	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+2	0	fb:cell_kharakteristik.jenis_kelamin_perempuan	jenis kelamin perempuan	jenis|kelamin|perempuan	jenis|kelamin|perempuan	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.83_8	83.8	83.8	83.8	CD	NUMBER	83.8	83.8				
+2	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+2	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.85_9	85.9	85.9	85.9	CD	NUMBER	85.9	85.9				
+2	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				
+2	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.14_1	14.1	14.1	14.1	CD	NUMBER	14.1	14.1				
+2	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.18_6	18.6	18.6	18.6	CD	NUMBER	18.6	18.6				
+3	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+3	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+3	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+3	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+3	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+3	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+3	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+4	0	fb:cell_kharakteristik.kelompok_usia_15_hingga_18_tahun	kelompok usia 15 hingga 18 tahun	kelompok|usia|15|hingga|18|tahun	kelompok|usia|15|hingga|18|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||15.0||18.0|	15.0		18.0		
+4	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+4	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+4	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.88_8	88.8	88.8	88.8	CD	NUMBER	88.8	88.8				
+4	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+4	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+4	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+5	0	fb:cell_kharakteristik.kelompok_usia_19_hingga_24_tahun	kelompok usia 19 hingga 24 tahun	kelompok|usia|19|hingga|24|tahun	kelompok|usia|19|hingga|24|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||19.0||24.0|	19.0		24.0		
+5	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.85_4	85.4	85.4	85.4	CD	NUMBER	85.4	85.4				
+5	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.83_2	83.2	83.2	83.2	CD	NUMBER	83.2	83.2				
+5	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.87_3	87.3	87.3	87.3	CD	NUMBER	87.3	87.3				
+5	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+5	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+5	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+6	0	fb:cell_kharakteristik.geografi	geografi	geografi	geografi	NNP	O						
+6	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+6	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+6	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+6	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+6	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+6	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+7	0	fb:cell_kharakteristik.geografi_pedesaan	geografi pedesaan	geografi|pedesaan	geografi|pedesaan	NNP|NNP	O|O	|					
+7	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.88_7	88.7	88.7	88.7	CD	NUMBER	88.7	88.7				
+7	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+7	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.91_6	91.6	91.6	91.6	CD	NUMBER	91.6	91.6				
+7	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+7	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+7	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+8	0	fb:cell_kharakteristik.pusat_populasi_geografi	pusat populasi geografi	pusat|populasi|geografi	pusat|populasi|geografi	NN|NN|NN	O|O|O	||					
+8	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.85_4	85.4	85.4	85.4	CD	NUMBER	85.4	85.4				
+8	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.83_7	83.7	83.7	83.7	CD	NUMBER	83.7	83.7				
+8	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+8	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+8	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+8	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+9	0	fb:cell_kharakteristik.status_imigran	status imigran	status|imigran	status|imigran	NN|NN	O|O	|					
+9	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+9	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+9	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+9	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+9	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+9	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+10	0	fb:cell_kharakteristik.status_imigran_non_imigran	status imigran non-imigran	status|imigran|non|imigran	status|imigran|non|imigran	NN|NN|JJ|NN	O|O|O|O	|||					
+10	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.85_4	85.4	85.4	85.4	CD	NUMBER	85.4	85.4				
+10	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.83_7	83.7	83.7	83.7	CD	NUMBER	83.7	83.7				
+10	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+10	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+10	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+10	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+11	0	fb:cell_kharakteristik.status_imigran_imigran	status imigran imigran	status|imigran|imigran	status|imigran|imigran	NN|NN|NN	O|O|O	||					
+11	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.89_1	89.1	89.1	89.1	CD	NUMBER	89.1	89.1				
+11	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.84_7	84.7	84.7	84.7	CD	NUMBER	84.7	84.7				
+11	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.92_3	92.3	92.3	92.3	CD	NUMBER	92.3	92.3				
+11	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+11	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+11	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+12	0	fb:cell_kharakteristik.status_pelajar	status pelajar	status|pelajar	status|pelajar	NN|NN	O|O	|					
+12	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+12	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+12	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+12	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+12	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+12	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+13	0	fb:cell_kharakteristik.status_pelajar_bukan_pelajar	status pelajar bukan pelajar	status|pelajar|bukan|pelajar	status|pelajar|bukan|pelajar	NN|NN|NN|NN	O|O|O|O	|||					
+13	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.84_8	84.8	84.8	84.8	CD	NUMBER	84.8	84.8				
+13	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.82_3	82.3	82.3	82.3	CD	NUMBER	82.3	82.3				
+13	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+13	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.15_2	15.2	15.2	15.2	CD	NUMBER	15.2	15.2				
+13	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+13	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+14	0	fb:cell_kharakteristik.status_pelajar_pelajar	status pelajar pelajar	status|pelajar|pelajar	status|pelajar|pelajar	NN|NN|NN	O|O|O	||					
+14	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+14	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.84_7	84.7	84.7	84.7	CD	NUMBER	84.7	84.7				
+14	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.88_6	88.6	88.6	88.6	CD	NUMBER	88.6	88.6				
+14	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+14	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+14	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+15	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi	tingkat pendidikan tertinggi	tingkat|pendidikan|tertinggi	tingkat|pendidikan|tertinggi	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+15	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+15	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+15	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+15	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+15	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+16	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_menengah_atau_kurang	tingkat pendidikan tertinggi menengah atau kurang	tingkat|pendidikan|tertinggi|menengah|atau|kurang	tingkat|pendidikan|tertinggi|menengah|atau|kurang	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+16	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+16	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.77_6	77.6	77.6	77.6	CD	NUMBER	77.6	77.6				
+16	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.85_8	85.8	85.8	85.8	CD	NUMBER	85.8	85.8				
+16	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+16	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.14_2	14.2	14.2	14.2	CD	NUMBER	14.2	14.2				
+16	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+17	0	fb:cell_kharakteristik.tingkat_pendidikan_tertinggi_setidaknya_beberapa_pasca_sekolah_menengah	tingkat pendidikan tertinggi setidaknya beberapa pasca sekolah menengah	tingkat|pendidikan|tertinggi|setidaknya|beberapa|pasca|sekolah|menengah	tingkat|pendidikan|tertinggi|setidaknya|beberapa|pasca|sekolah|menengah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+17	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.86_4	86.4	86.4	86.4	CD	NUMBER	86.4	86.4				
+17	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+17	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.88_1	88.1	88.1	88.1	CD	NUMBER	88.1	88.1				
+17	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+17	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+17	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_5	15.5	15.5	15.5	CD	NUMBER	15.5	15.5				
+18	0	fb:cell_kharakteristik.pendapatan_rumah_tangga	pendapatan rumah tangga	pendapatan|rumah|tangga	pendapatan|rumah|tangga	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+18	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+18	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+18	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+18	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+18	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+19	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_kuintil_pendapatan_terendah	pendapatan rumah tangga kuintil pendapatan terendah	pendapatan|rumah|tangga|kuintil|pendapatan|terendah	pendapatan|rumah|tangga|kuintil|pendapatan|terendah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+19	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.84_6	84.6	84.6	84.6	CD	NUMBER	84.6	84.6				
+19	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.81_6	81.6	81.6	81.6	CD	NUMBER	81.6	81.6				
+19	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.87_2	87.2	87.2	87.2	CD	NUMBER	87.2	87.2				
+19	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+19	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+19	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+20	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_lebih_tinggi	pendapatan rumah tangga lebih tinggi	pendapatan|rumah|tangga|lebih|tinggi	pendapatan|rumah|tangga|lebih|tinggi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.86_4	86.4	86.4	86.4	CD	NUMBER	86.4	86.4				
+20	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+20	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.88_1	88.1	88.1	88.1	CD	NUMBER	88.1	88.1				
+20	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+20	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+20	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_5	15.5	15.5	15.5	CD	NUMBER	15.5	15.5				
+21	0	fb:cell_kharakteristik.merokok	merokok	merokok	merokok	NNP	O						
+21	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+21	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+21	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+21	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+21	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+21	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+22	0	fb:cell_kharakteristik.merokok_bukan_perokok_saat_ini	merokok bukan perokok saat ini	merokok|bukan|perokok|saat|ini	merokok|bukan|perokok|saat|ini	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+22	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+22	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.86_3	86.3	86.3	86.3	CD	NUMBER	86.3	86.3				
+22	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.89_6	89.6	89.6	89.6	CD	NUMBER	89.6	89.6				
+22	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+22	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+22	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+23	0	fb:cell_kharakteristik.merokok_setiap_hari_atau_perokok_sesekali	merokok setiap hari atau perokok sesekali	merokok|setiap|hari|atau|perokok|sesekali	merokok|setiap|hari|atau|perokok|sesekali	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+23	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+23	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+23	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+23	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.22_7	22.7	22.7	22.7	CD	NUMBER	22.7	22.7				
+23	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+23	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+24	0	fb:cell_kharakteristik.aktivitas_fisik	aktivitas fisik	aktivitas|fisik	aktivitas|fisik	NNP|NNP	O|O	|					
+24	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+24	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+24	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+24	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+24	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+24	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+25	0	fb:cell_kharakteristik.aktivitas_fisik_tidak_aktif	aktivitas fisik tidak aktif	aktivitas|fisik|tidak|aktif	aktivitas|fisik|tidak|aktif	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+25	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.81_6	81.6	81.6	81.6	CD	NUMBER	81.6	81.6				
+25	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+25	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.85_4	85.4	85.4	85.4	CD	NUMBER	85.4	85.4				
+25	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+25	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+25	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.22_9	22.9	22.9	22.9	CD	NUMBER	22.9	22.9				
+26	0	fb:cell_kharakteristik.aktivitas_fisik_aktif_sedang_kuat_dalam_7_hari_terakhir	aktivitas fisik aktif sedang/kuat dalam 7 hari terakhir	aktivitas|fisik|aktif|sedang/kuat|dalam|7|hari|terakhir	aktivitas|fisik|aktif|sedang/kuat|dalam|7|hari|terakhir	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|NUMBER|O|O	|||||7.0||	7.0			aktivitas fisik aktif sedang|kuat dalam 7 hari terakhir	fb:part_kharakteristik.aktivitas_fisik_aktif_sedang|fb:part_kharakteristik.kuat_dalam_7_hari_terakhir
+26	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+26	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+26	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.88_3	88.3	88.3	88.3	CD	NUMBER	88.3	88.3				
+26	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+26	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+26	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+27	0	fb:cell_kharakteristik.depresi	depresi	depresi	depresi	NNP	O						
+27	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+27	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.null											
+27	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.null											
+27	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.null											
+27	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.null											
+27	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.null											
+28	0	fb:cell_kharakteristik.depresi_no	depresi no	depresi|no	depresus|no	NNS|DT	O|O	|					
+28	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.90_2	90.2	90.2	90.2	CD	NUMBER	90.2	90.2				
+28	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.88_7	88.7	88.7	88.7	CD	NUMBER	88.7	88.7				
+28	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.91_4	91.4	91.4	91.4	CD	NUMBER	91.4	91.4				
+28	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+28	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+28	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+29	0	fb:cell_kharakteristik.depresi_ya	depresi ya	depresi|ya	depresi|ya	NNP|PRP	O|O	|					
+29	1	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup.50_5	50.5	50.5	50.5	CD	NUMBER	50.5	50.5				
+29	2	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_dari.43_4	43.4	43.4	43.4	CD	NUMBER	43.4	43.4				
+29	3	fb:cell_tidak_ada_pikiran_untuk_bunuh_diri_seumur_hidup_interval_kepercayaan_95_hingga.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+29	4	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup.49_5	49.5	49.5	49.5	CD	NUMBER	49.5	49.5				
+29	5	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95_dari.42_4	42.4	42.4	42.4	CD	NUMBER	42.4	42.4				
+29	6	fb:cell_pikiran_untuk_bunuh_diri_seumur_hidup_dengan_interval_kepercayaan_95.56_6	56.6	56.6	56.6	CD	NUMBER	56.6	56.6				

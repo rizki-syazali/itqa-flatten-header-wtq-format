@@ -1,0 +1,323 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.utang_rata_rata_1999	utang rata-rata 1999	utang|rata|rata|1999	utang|rata|rata|1999	NNP|JJ|JJ|CD	O|O|O|DATE	|||1999					
+-1	2	fb:row.row.utang_rata_rata_2016	utang rata-rata 2016	utang|rata|rata|2016	utang|rata|rata|2016	NNP|JJ|JJ|CD	O|O|O|DATE	|||2016					
+-1	3	fb:row.row.perubahan_utang_median	perubahan utang median	perubahan|utang|median	perubahan|utang|median	NNP|NNP|NN	O|O|O	||					
+-1	4	fb:row.row.aset_median_1999	aset median 1999	aset|median|1999	aset|median|1999	NNP|NN|CD	O|O|DATE	||1999					
+-1	5	fb:row.row.aset_rata_rata_2016	aset rata-rata 2016	aset|rata|rata|2016	aset|rata|rata|2016	NNP|JJ|JJ|CD	O|O|O|DATE	|||2016					
+-1	6	fb:row.row.perubahan_aset_median	perubahan aset median	perubahan|aset|median	perubahan|aset|median	NNP|NNP|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.keluarga_senior_dengan_hutang_dolar_konstan_2016	Keluarga senior dengan hutang dolar konstan 2016	keluarga|senior|dengan|hutang|dolar|konstan|2016	Keluarga|senior|dengan|hutang|dolar|konstan|2016	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2016	2016.0				
+0	1	fb:cell_utang_rata_rata_1999.9000_0	9000.0	9000.0	9000.0	CD	NUMBER	9000.0	9000.0				
+0	2	fb:cell_utang_rata_rata_2016.25000_0	25000.0	25000.0	25000.0	CD	NUMBER	25000.0	25000.0				
+0	3	fb:cell_perubahan_utang_median.16000_0	16000.0	16000.0	16000.0	CD	NUMBER	16000.0	16000.0				
+0	4	fb:cell_aset_median_1999.327000_0	327000.0	327000.0	327000.0	CD	NUMBER	327000.0	327000.0				
+0	5	fb:cell_aset_rata_rata_2016.607400_0	607400.0	607400.0	607400.0	CD	NUMBER	607400.0	607400.0				
+0	6	fb:cell_perubahan_aset_median.280400_0	280400.0	280400.0	280400.0	CD	NUMBER	280400.0	280400.0				
+1	0	fb:cell_kharakteristik.jenis_kelamin_dolar_konstan_tahun_2016_dari_pencari_nafkah_utama	Jenis kelamin dolar konstan tahun 2016 dari pencari nafkah utama	jenis|kelamin|dolar|konstan|tahun|2016|dari|pencari|nafkah|utama	Jenis|kelamin|dolar|konstan|tahun|2016|dari|pencari|nafkah|utama	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+1	1	fb:cell_utang_rata_rata_1999.null											
+1	2	fb:cell_utang_rata_rata_2016.null											
+1	3	fb:cell_perubahan_utang_median.null											
+1	4	fb:cell_aset_median_1999.null											
+1	5	fb:cell_aset_rata_rata_2016.null											
+1	6	fb:cell_perubahan_aset_median.null											
+2	0	fb:cell_kharakteristik.dolar_konstan_2016_jenis_kelamin_laki_laki_yang_berpenghasilan_utama	Dolar konstan 2016 jenis kelamin laki-laki yang berpenghasilan utama	dolar|konstan|2016|jenis|kelamin|laki|laki|yang|berpenghasilan|utama	dolar|konstan|2016|jenis|kelamin|laki|laki|yang|berpenghasilan|utama	JJ|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|O|O	||2016|||||||	2016.0				
+2	1	fb:cell_utang_rata_rata_1999.13800_0	13800.0	13800.0	13800.0	CD	NUMBER	13800.0	13800.0				
+2	2	fb:cell_utang_rata_rata_2016.30000_0	30000.0	30000.0	30000.0	CD	NUMBER	30000.0	30000.0				
+2	3	fb:cell_perubahan_utang_median.16200_0	16200.0	16200.0	16200.0	CD	NUMBER	16200.0	16200.0				
+2	4	fb:cell_aset_median_1999.408700_0	408700.0	408700.0	408700.0	CD	NUMBER	408700.0	408700.0				
+2	5	fb:cell_aset_rata_rata_2016.682400_0	682400.0	682400.0	682400.0	CD	NUMBER	682400.0	682400.0				
+2	6	fb:cell_perubahan_aset_median.273700_0	273700.0	273700.0	273700.0	CD	NUMBER	273700.0	273700.0				
+3	0	fb:cell_kharakteristik.dolar_konstan_2016_jenis_kelamin_perempuan_yang_berpenghasilan_besar	Dolar konstan 2016 jenis kelamin perempuan yang berpenghasilan besar	dolar|konstan|2016|jenis|kelamin|perempuan|yang|berpenghasilan|besar	dolar|konstan|2016|jenis|kelamin|perempuan|yang|berpenghasilan|besar	JJ|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|O	||2016||||||	2016.0				
+3	1	fb:cell_utang_rata_rata_1999.4700_0	4700.0	4700.0	4700.0	CD	NUMBER	4700.0	4700.0				
+3	2	fb:cell_utang_rata_rata_2016.20000_0	20000.0	20000.0	20000.0	CD	NUMBER	20000.0	20000.0				
+3	3	fb:cell_perubahan_utang_median.15300_0	15300.0	15300.0	15300.0	CD	NUMBER	15300.0	15300.0				
+3	4	fb:cell_aset_median_1999.198200_0	198200.0	198200.0	198200.0	CD	NUMBER	198200.0	198200.0				
+3	5	fb:cell_aset_rata_rata_2016.489400_0	489400.0	489400.0	489400.0	CD	NUMBER	489400.0	489400.0				
+3	6	fb:cell_perubahan_aset_median.291200_0	291200.0	291200.0	291200.0	CD	NUMBER	291200.0	291200.0				
+4	0	fb:cell_kharakteristik.dolar_konstan_tahun_2016_merupakan_usia_penghasil_pendapatan_utama	Dolar konstan tahun 2016 merupakan usia penghasil pendapatan utama	dolar|konstan|tahun|2016|merupakan|usia|penghasil|pendapatan|utama	dolar|konstan|tahun|2016|merupakan|usia|penghasil|pendapatan|utama	JJ|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+4	1	fb:cell_utang_rata_rata_1999.null											
+4	2	fb:cell_utang_rata_rata_2016.null											
+4	3	fb:cell_perubahan_utang_median.null											
+4	4	fb:cell_aset_median_1999.null											
+4	5	fb:cell_aset_rata_rata_2016.null											
+4	6	fb:cell_perubahan_aset_median.null											
+5	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_penghasilan_utama_65_hingga_69	Dolar konstan 2016 Usia penerima penghasilan utama 65 hingga 69	dolar|konstan|2016|usia|penerima|penghasilan|utama|65|hingga|69	dolar|konstan|2016|Usia|penerima|penghasilan|utama|65|hingga|69	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|DATE|O|O|O|O|NUMBER|O|NUMBER	||2016|||||65.0||69.0	2016.0		65.0		
+5	1	fb:cell_utang_rata_rata_1999.13300_0	13300.0	13300.0	13300.0	CD	NUMBER	13300.0	13300.0				
+5	2	fb:cell_utang_rata_rata_2016.35500_0	35500.0	35500.0	35500.0	CD	NUMBER	35500.0	35500.0				
+5	3	fb:cell_perubahan_utang_median.22200_0	22200.0	22200.0	22200.0	CD	NUMBER	22200.0	22200.0				
+5	4	fb:cell_aset_median_1999.403400_0	403400.0	403400.0	403400.0	CD	NUMBER	403400.0	403400.0				
+5	5	fb:cell_aset_rata_rata_2016.668300_0	668300.0	668300.0	668300.0	CD	NUMBER	668300.0	668300.0				
+5	6	fb:cell_perubahan_aset_median.264900_0	264900.0	264900.0	264900.0	CD	NUMBER	264900.0	264900.0				
+6	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_pendapatan_utama_70_hingga_74	Dolar konstan 2016 Usia penerima pendapatan utama 70 hingga 74	dolar|konstan|2016|usia|penerima|pendapatan|utama|70|hingga|74	dolar|konstan|2016|Usia|penerima|pendapatan|utama|70|hingga|74	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|DATE|O|O|O|O|NUMBER|O|NUMBER	||2016|||||70.0||74.0	2016.0		70.0		
+6	1	fb:cell_utang_rata_rata_1999.10400_0	10400.0	10400.0	10400.0	CD	NUMBER	10400.0	10400.0				
+6	2	fb:cell_utang_rata_rata_2016.21000_0	21000.0	21000.0	21000.0	CD	NUMBER	21000.0	21000.0				
+6	3	fb:cell_perubahan_utang_median.10600_0	10600.0	10600.0	10600.0	CD	NUMBER	10600.0	10600.0				
+6	4	fb:cell_aset_median_1999.278600_0	278600.0	278600.0	278600.0	CD	NUMBER	278600.0	278600.0				
+6	5	fb:cell_aset_rata_rata_2016.657000_0	657000.0	657000.0	657000.0	CD	NUMBER	657000.0	657000.0				
+6	6	fb:cell_perubahan_aset_median.378400_0	378400.0	378400.0	378400.0	CD	NUMBER	378400.0	378400.0				
+7	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_penghasilan_utama_75_hingga_79	Dolar konstan 2016 Usia penerima penghasilan utama 75 hingga 79	dolar|konstan|2016|usia|penerima|penghasilan|utama|75|hingga|79	dolar|konstan|2016|Usia|penerima|penghasilan|utama|75|hingga|79	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NN|CD	O|O|DATE|O|O|O|O|NUMBER|O|NUMBER	||2016|||||75.0||79.0	2016.0		75.0		
+7	1	fb:cell_utang_rata_rata_1999.5500_0	5500.0	5500.0	5500.0	CD	NUMBER	5500.0	5500.0				
+7	2	fb:cell_utang_rata_rata_2016.25000_0	25000.0	25000.0	25000.0	CD	NUMBER	25000.0	25000.0				
+7	3	fb:cell_perubahan_utang_median.19500_0	19500.0	19500.0	19500.0	CD	NUMBER	19500.0	19500.0				
+7	4	fb:cell_aset_median_1999.253900_0	253900.0	253900.0	253900.0	CD	NUMBER	253900.0	253900.0				
+7	5	fb:cell_aset_rata_rata_2016.576200_0	576200.0	576200.0	576200.0	CD	NUMBER	576200.0	576200.0				
+7	6	fb:cell_perubahan_aset_median.322300_0	322300.0	322300.0	322300.0	CD	NUMBER	322300.0	322300.0				
+8	0	fb:cell_kharakteristik.dolar_konstan_2016_usia_penerima_penghasilan_utama_80_tahun_ke_atas	Dolar Konstan 2016 Usia penerima penghasilan utama 80 tahun ke atas	dolar|konstan|2016|usia|penerima|penghasilan|utama|80|tahun|ke|atas	dolar|Konstan|2016|Usia|penerima|penghasilan|utama|80|tahun|ke|atas	JJ|NNP|CD|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|DATE|O|O|O|O|NUMBER|O|O|O	||2016|||||80.0|||	2016.0		80.0		
+8	1	fb:cell_utang_rata_rata_1999.null											
+8	2	fb:cell_utang_rata_rata_2016.null											
+8	3	fb:cell_perubahan_utang_median.null											
+8	4	fb:cell_aset_median_1999.256000_0	256000.0	256000.0	256000.0	CD	NUMBER	256000.0	256000.0				
+8	5	fb:cell_aset_rata_rata_2016.449200_0	449200.0	449200.0	449200.0	CD	NUMBER	449200.0	449200.0				
+8	6	fb:cell_perubahan_aset_median.193200_0	193200.0	193200.0	193200.0	CD	NUMBER	193200.0	193200.0				
+9	0	fb:cell_kharakteristik.dolar_konstan_2016_tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama	Dolar konstan 2016 tingkat pendidikan tertinggi bagi pencari nafkah utama	dolar|konstan|2016|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama	dolar|konstan|2016|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama	JJ|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|O|O	||2016|||||||	2016.0				
+9	1	fb:cell_utang_rata_rata_1999.null											
+9	2	fb:cell_utang_rata_rata_2016.null											
+9	3	fb:cell_perubahan_utang_median.null											
+9	4	fb:cell_aset_median_1999.null											
+9	5	fb:cell_aset_rata_rata_2016.null											
+9	6	fb:cell_perubahan_aset_median.null											
+10	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_bagi_mereka_yang_berpenghasilan_utama_kurang_dari_sekolah_menengah_atas	2016 dolar konstan tingkat pendidikan tertinggi bagi mereka yang berpenghasilan utama kurang dari sekolah menengah atas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	2016|||||||||||||||	2016.0				
+10	1	fb:cell_utang_rata_rata_1999.4800_0	4800.0	4800.0	4800.0	CD	NUMBER	4800.0	4800.0				
+10	2	fb:cell_utang_rata_rata_2016.20000_0	20000.0	20000.0	20000.0	CD	NUMBER	20000.0	20000.0				
+10	3	fb:cell_perubahan_utang_median.15200_0	15200.0	15200.0	15200.0	CD	NUMBER	15200.0	15200.0				
+10	4	fb:cell_aset_median_1999.237300_0	237300.0	237300.0	237300.0	CD	NUMBER	237300.0	237300.0				
+10	5	fb:cell_aset_rata_rata_2016.310900_0	310900.0	310900.0	310900.0	CD	NUMBER	310900.0	310900.0				
+10	6	fb:cell_perubahan_aset_median.73600_0	73600.0	73600.0	73600.0	CD	NUMBER	73600.0	73600.0				
+11	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_dari_ijazah_sekolah_menengah_atas_yang_berpenghasilan_utama	2016 dolar konstan tingkat pendidikan tertinggi dari ijazah sekolah menengah atas yang berpenghasilan utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|ijazah|sekolah|menengah|atas|yang|berpenghasilan|utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|ijazah|sekolah|menengah|atas|yang|berpenghasilan|utama	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O	2016|||||||||||||	2016.0				
+11	1	fb:cell_utang_rata_rata_1999.null											
+11	2	fb:cell_utang_rata_rata_2016.19000_0	19000.0	19000.0	19000.0	CD	NUMBER	19000.0	19000.0				
+11	3	fb:cell_perubahan_utang_median.null											
+11	4	fb:cell_aset_median_1999.357200_0	357200.0	357200.0	357200.0	CD	NUMBER	357200.0	357200.0				
+11	5	fb:cell_aset_rata_rata_2016.472600_0	472600.0	472600.0	472600.0	CD	NUMBER	472600.0	472600.0				
+11	6	fb:cell_perubahan_aset_median.115400_0	115400.0	115400.0	115400.0	CD	NUMBER	115400.0	115400.0				
+12	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama_sertifikat_atau_diploma_pasca_sekolah_menengah_non_universitas	2016 dolar konstan tingkat pendidikan tertinggi bagi pencari nafkah utama, sertifikat atau diploma pasca sekolah menengah non-universitas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama|,|sertifikat|atau|diploma|pasca|sekolah|menengah|non|universitas	2016|dolar|konstan|tingkat|pendidikan|tertinggi|bagi|pencari|nafkah|utama|,|sertifikat|atau|diploma|pasca|sekolah|menengah|non|universita	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NN|NNP|NNP|NNP|JJ|NNS	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	2016||||||||||||||||||	2016.0			2016 dolar konstan tingkat pendidikan tertinggi bagi pencari nafkah utama|sertifikat atau diploma pasca sekolah menengah non-universitas	fb:part_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_bagi_pencari_nafkah_utama|fb:part_kharakteristik.sertifikat_atau_diploma_pasca_sekolah_menengah_non_universitas
+12	1	fb:cell_utang_rata_rata_1999.10100_0	10100.0	10100.0	10100.0	CD	NUMBER	10100.0	10100.0				
+12	2	fb:cell_utang_rata_rata_2016.23000_0	23000.0	23000.0	23000.0	CD	NUMBER	23000.0	23000.0				
+12	3	fb:cell_perubahan_utang_median.12900_0	12900.0	12900.0	12900.0	CD	NUMBER	12900.0	12900.0				
+12	4	fb:cell_aset_median_1999.360700_0	360700.0	360700.0	360700.0	CD	NUMBER	360700.0	360700.0				
+12	5	fb:cell_aset_rata_rata_2016.609900_0	609900.0	609900.0	609900.0	CD	NUMBER	609900.0	609900.0				
+12	6	fb:cell_perubahan_aset_median.249200_0	249200.0	249200.0	249200.0	CD	NUMBER	249200.0	249200.0				
+13	0	fb:cell_kharakteristik.2016_dolar_konstan_tingkat_pendidikan_tertinggi_dari_gelar_atau_sertifikat_universitas_yang_menghasilkan_pendapatan_utama	2016 dolar konstan tingkat pendidikan tertinggi dari gelar atau sertifikat universitas yang menghasilkan pendapatan utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|gelar|atau|sertifikat|universitas|yang|menghasilkan|pendapatan|utama	2016|dolar|konstan|tingkat|pendidikan|tertinggi|dari|gelar|atau|sertifikat|universitas|yang|menghasilkan|pendapatan|utama	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O	2016||||||||||||||	2016.0				
+13	1	fb:cell_utang_rata_rata_1999.26300_0	26300.0	26300.0	26300.0	CD	NUMBER	26300.0	26300.0				
+13	2	fb:cell_utang_rata_rata_2016.46100_0	46100.0	46100.0	46100.0	CD	NUMBER	46100.0	46100.0				
+13	3	fb:cell_perubahan_utang_median.19800_0	19800.0	19800.0	19800.0	CD	NUMBER	19800.0	19800.0				
+13	4	fb:cell_aset_median_1999.766700_0	766700.0	766700.0	766700.0	CD	NUMBER	766700.0	766700.0				
+13	5	fb:cell_aset_rata_rata_2016.1164700_0	1164700.0	1164700.0	1164700.0	CD	NUMBER	1164700.0	1164700.0				
+13	6	fb:cell_perubahan_aset_median.398000_0	398000.0	398000.0	398000.0	CD	NUMBER	398000.0	398000.0				
+14	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016	Struktur keluarga dolar konstan 2016	struktur|keluarga|dolar|konstan|2016	struktur|keluarga|dolar|konstan|2016	NN|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2016	2016.0				
+14	1	fb:cell_utang_rata_rata_1999.null											
+14	2	fb:cell_utang_rata_rata_2016.null											
+14	3	fb:cell_perubahan_utang_median.null											
+14	4	fb:cell_aset_median_1999.null											
+14	5	fb:cell_aset_rata_rata_2016.null											
+14	6	fb:cell_perubahan_aset_median.null											
+15	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_individu_yang_tidak_terikat	Struktur keluarga dolar konstan 2016 individu yang tidak terikat	struktur|keluarga|dolar|konstan|2016|individu|yang|tidak|terikat	struktur|keluarga|dolar|konstan|2016|individu|yang|tidak|terikat	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O	||||2016||||	2016.0				
+15	1	fb:cell_utang_rata_rata_1999.3500_0	3500.0	3500.0	3500.0	CD	NUMBER	3500.0	3500.0				
+15	2	fb:cell_utang_rata_rata_2016.13000_0	13000.0	13000.0	13000.0	CD	NUMBER	13000.0	13000.0				
+15	3	fb:cell_perubahan_utang_median.9500_0	9500.0	9500.0	9500.0	CD	NUMBER	9500.0	9500.0				
+15	4	fb:cell_aset_median_1999.179700_0	179700.0	179700.0	179700.0	CD	NUMBER	179700.0	179700.0				
+15	5	fb:cell_aset_rata_rata_2016.301000_0	301000.0	301000.0	301000.0	CD	NUMBER	301000.0	301000.0				
+15	6	fb:cell_perubahan_aset_median.121300_0	121300.0	121300.0	121300.0	CD	NUMBER	121300.0	121300.0				
+16	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_laki_laki	Struktur keluarga dolar konstan 2016 laki-laki	struktur|keluarga|dolar|konstan|2016|laki|laki	struktur|keluarga|dolar|konstan|2016|laki|laki	NN|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|DATE|PERSON|PERSON	||||2016||	2016.0				
+16	1	fb:cell_utang_rata_rata_1999.null											
+16	2	fb:cell_utang_rata_rata_2016.12200_0	12200.0	12200.0	12200.0	CD	NUMBER	12200.0	12200.0				
+16	3	fb:cell_perubahan_utang_median.null											
+16	4	fb:cell_aset_median_1999.259800_0	259800.0	259800.0	259800.0	CD	NUMBER	259800.0	259800.0				
+16	5	fb:cell_aset_rata_rata_2016.315200_0	315200.0	315200.0	315200.0	CD	NUMBER	315200.0	315200.0				
+16	6	fb:cell_perubahan_aset_median.55400_0	55400.0	55400.0	55400.0	CD	NUMBER	55400.0	55400.0				
+17	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_perempuan	Struktur keluarga dolar konstan 2016 perempuan	struktur|keluarga|dolar|konstan|2016|perempuan	struktur|keluarga|dolar|konstan|2016|perempuan	NN|NNP|NNP|NNP|CD|NNP	O|O|O|O|DATE|O	||||2016|	2016.0				
+17	1	fb:cell_utang_rata_rata_1999.null											
+17	2	fb:cell_utang_rata_rata_2016.13800_0	13800.0	13800.0	13800.0	CD	NUMBER	13800.0	13800.0				
+17	3	fb:cell_perubahan_utang_median.null											
+17	4	fb:cell_aset_median_1999.163700_0	163700.0	163700.0	163700.0	CD	NUMBER	163700.0	163700.0				
+17	5	fb:cell_aset_rata_rata_2016.279000_0	279000.0	279000.0	279000.0	CD	NUMBER	279000.0	279000.0				
+17	6	fb:cell_perubahan_aset_median.115300_0	115300.0	115300.0	115300.0	CD	NUMBER	115300.0	115300.0				
+18	0	fb:cell_kharakteristik.pasangan_struktur_keluarga_dolar_konstan_2016_tanpa_anak	Pasangan struktur keluarga dolar konstan 2016, tanpa anak	pasangan|struktur|keluarga|dolar|konstan|2016|,|tanpa|anak	pasangan|struktur|keluarga|dolar|konstan|2016|,|tanpa|anak	NN|NN|NNP|NNP|NNP|CD|,|NNP|NNP	O|O|O|O|O|DATE|O|O|O	|||||2016|||	2016.0			Pasangan struktur keluarga dolar konstan 2016|tanpa anak	fb:part_kharakteristik.pasangan_struktur_keluarga_dolar_konstan_2016|fb:part_kharakteristik.tanpa_anak
+18	1	fb:cell_utang_rata_rata_1999.13800_0	13800.0	13800.0	13800.0	CD	NUMBER	13800.0	13800.0				
+18	2	fb:cell_utang_rata_rata_2016.35000_0	35000.0	35000.0	35000.0	CD	NUMBER	35000.0	35000.0				
+18	3	fb:cell_perubahan_utang_median.21200_0	21200.0	21200.0	21200.0	CD	NUMBER	21200.0	21200.0				
+18	4	fb:cell_aset_median_1999.425000_0	425000.0	425000.0	425000.0	CD	NUMBER	425000.0	425000.0				
+18	5	fb:cell_aset_rata_rata_2016.802900_0	802900.0	802900.0	802900.0	CD	NUMBER	802900.0	802900.0				
+18	6	fb:cell_perubahan_aset_median.377900_0	377900.0	377900.0	377900.0	CD	NUMBER	377900.0	377900.0				
+19	0	fb:cell_kharakteristik.struktur_keluarga_dolar_konstan_2016_tipe_keluarga_lainnya	Struktur keluarga dolar konstan 2016 tipe keluarga lainnya	struktur|keluarga|dolar|konstan|2016|tipe|keluarga|lainnya	struktur|keluarga|dolar|konstan|2016|tipe|keluarga|lainnya	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O	||||2016|||	2016.0				
+19	1	fb:cell_utang_rata_rata_1999.null											
+19	2	fb:cell_utang_rata_rata_2016.null											
+19	3	fb:cell_perubahan_utang_median.null											
+19	4	fb:cell_aset_median_1999.357200_0	357200.0	357200.0	357200.0	CD	NUMBER	357200.0	357200.0				
+19	5	fb:cell_aset_rata_rata_2016.882400_0	882400.0	882400.0	882400.0	CD	NUMBER	882400.0	882400.0				
+19	6	fb:cell_perubahan_aset_median.525200_0	525200.0	525200.0	525200.0	CD	NUMBER	525200.0	525200.0				
+20	0	fb:cell_kharakteristik.status_imigran_dolar_konstan_tahun_2016_sebagai_pencari_nafkah_utama	Status imigran dolar konstan tahun 2016 sebagai pencari nafkah utama	status|imigran|dolar|konstan|tahun|2016|sebagai|pencari|nafkah|utama	status|imigran|dolar|konstan|tahun|2016|sebagai|pencari|nafkah|utama	NN|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+20	1	fb:cell_utang_rata_rata_1999.null											
+20	2	fb:cell_utang_rata_rata_2016.null											
+20	3	fb:cell_perubahan_utang_median.null											
+20	4	fb:cell_aset_median_1999.null											
+20	5	fb:cell_aset_rata_rata_2016.null											
+20	6	fb:cell_perubahan_aset_median.null											
+21	0	fb:cell_kharakteristik.status_imigran_dolar_konstan_2016_dari_imigran_berpenghasilan_utama	Status imigran dolar konstan 2016 dari imigran berpenghasilan utama	status|imigran|dolar|konstan|2016|dari|imigran|berpenghasilan|utama	status|imigran|dolar|konstan|2016|dari|imigran|berpenghasilan|utama	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O	||||2016||||	2016.0				
+21	1	fb:cell_utang_rata_rata_1999.15800_0	15800.0	15800.0	15800.0	CD	NUMBER	15800.0	15800.0				
+21	2	fb:cell_utang_rata_rata_2016.40100_0	40100.0	40100.0	40100.0	CD	NUMBER	40100.0	40100.0				
+21	3	fb:cell_perubahan_utang_median.24300_0	24300.0	24300.0	24300.0	CD	NUMBER	24300.0	24300.0				
+21	4	fb:cell_aset_median_1999.363500_0	363500.0	363500.0	363500.0	CD	NUMBER	363500.0	363500.0				
+21	5	fb:cell_aset_rata_rata_2016.794700_0	794700.0	794700.0	794700.0	CD	NUMBER	794700.0	794700.0				
+21	6	fb:cell_perubahan_aset_median.431200_0	431200.0	431200.0	431200.0	CD	NUMBER	431200.0	431200.0				
+22	0	fb:cell_kharakteristik.status_imigran_dolar_konstan_2016_dari_pencari_nafkah_utama_kelahiran_kanada	Status imigran dolar konstan 2016 dari pencari nafkah utama kelahiran Kanada	status|imigran|dolar|konstan|2016|dari|pencari|nafkah|utama|kelahiran|kanada	status|imigran|dolar|konstan|2016|dari|pencari|nafkah|utama|kelahiran|Kanada	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|DATE|O|O|O|O|O|O	||||2016||||||	2016.0				
+22	1	fb:cell_utang_rata_rata_1999.8300_0	8300.0	8300.0	8300.0	CD	NUMBER	8300.0	8300.0				
+22	2	fb:cell_utang_rata_rata_2016.21000_0	21000.0	21000.0	21000.0	CD	NUMBER	21000.0	21000.0				
+22	3	fb:cell_perubahan_utang_median.12700_0	12700.0	12700.0	12700.0	CD	NUMBER	12700.0	12700.0				
+22	4	fb:cell_aset_median_1999.321400_0	321400.0	321400.0	321400.0	CD	NUMBER	321400.0	321400.0				
+22	5	fb:cell_aset_rata_rata_2016.557700_0	557700.0	557700.0	557700.0	CD	NUMBER	557700.0	557700.0				
+22	6	fb:cell_perubahan_aset_median.236300_0	236300.0	236300.0	236300.0	CD	NUMBER	236300.0	236300.0				
+23	0	fb:cell_kharakteristik.status_kepemilikan_rumah_dolar_konstan_2016	Status kepemilikan rumah dolar konstan 2016	status|kepemilikan|rumah|dolar|konstan|2016	status|kepemilikan|rumah|dolar|konstan|2016	NN|NN|NN|NN|NNP|CD	O|O|O|O|O|DATE	|||||2016	2016.0				
+23	1	fb:cell_utang_rata_rata_1999.null											
+23	2	fb:cell_utang_rata_rata_2016.null											
+23	3	fb:cell_perubahan_utang_median.null											
+23	4	fb:cell_aset_median_1999.null											
+23	5	fb:cell_aset_rata_rata_2016.null											
+23	6	fb:cell_perubahan_aset_median.null											
+24	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dolar_konstan_2016_dengan_hipotek	Pemilik status kepemilikan rumah dolar konstan 2016 dengan hipotek	pemilik|status|kepemilikan|rumah|dolar|konstan|2016|dengan|hipotek	Pemilik|status|kepemilikan|rumah|dolar|konstan|2016|dengan|hipotek	NNP|FW|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2016||	2016.0				
+24	1	fb:cell_utang_rata_rata_1999.66300_0	66300.0	66300.0	66300.0	CD	NUMBER	66300.0	66300.0				
+24	2	fb:cell_utang_rata_rata_2016.120000_0	120000.0	120000.0	120000.0	CD	NUMBER	120000.0	120000.0				
+24	3	fb:cell_perubahan_utang_median.53700_0	53700.0	53700.0	53700.0	CD	NUMBER	53700.0	53700.0				
+24	4	fb:cell_aset_median_1999.407600_0	407600.0	407600.0	407600.0	CD	NUMBER	407600.0	407600.0				
+24	5	fb:cell_aset_rata_rata_2016.728300_0	728300.0	728300.0	728300.0	CD	NUMBER	728300.0	728300.0				
+24	6	fb:cell_perubahan_aset_median.320700_0	320700.0	320700.0	320700.0	CD	NUMBER	320700.0	320700.0				
+25	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dolar_konstan_2016_tanpa_hipotek	Pemilik status kepemilikan rumah dolar konstan 2016 tanpa hipotek	pemilik|status|kepemilikan|rumah|dolar|konstan|2016|tanpa|hipotek	Pemilik|status|kepemilikan|rumah|dolar|konstan|2016|tanpa|hipotek	NNP|FW|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|DATE|O|O	||||||2016||	2016.0				
+25	1	fb:cell_utang_rata_rata_1999.6900_0	6900.0	6900.0	6900.0	CD	NUMBER	6900.0	6900.0				
+25	2	fb:cell_utang_rata_rata_2016.18000_0	18000.0	18000.0	18000.0	CD	NUMBER	18000.0	18000.0				
+25	3	fb:cell_perubahan_utang_median.11100_0	11100.0	11100.0	11100.0	CD	NUMBER	11100.0	11100.0				
+25	4	fb:cell_aset_median_1999.421600_0	421600.0	421600.0	421600.0	CD	NUMBER	421600.0	421600.0				
+25	5	fb:cell_aset_rata_rata_2016.849000_0	849000.0	849000.0	849000.0	CD	NUMBER	849000.0	849000.0				
+25	6	fb:cell_perubahan_aset_median.427400_0	427400.0	427400.0	427400.0	CD	NUMBER	427400.0	427400.0				
+26	0	fb:cell_kharakteristik.status_kepemilikan_rumah_dolar_konstan_2016_bukan_pemilik	Status kepemilikan rumah dolar konstan 2016 bukan pemilik	status|kepemilikan|rumah|dolar|konstan|2016|bukan|pemilik	status|kepemilikan|rumah|dolar|konstan|2016|bukan|pemilik	NN|NN|NN|NN|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+26	1	fb:cell_utang_rata_rata_1999.2100_0	2100.0	2100.0	2100.0	CD	NUMBER	2100.0	2100.0				
+26	2	fb:cell_utang_rata_rata_2016.5000_0	5000.0	5000.0	5000.0	CD	NUMBER	5000.0	5000.0				
+26	3	fb:cell_perubahan_utang_median.2900_0	2900.0	2900.0	2900.0	CD	NUMBER	2900.0	2900.0				
+26	4	fb:cell_aset_median_1999.54200_0	54200.0	54200.0	54200.0	CD	NUMBER	54200.0	54200.0				
+26	5	fb:cell_aset_rata_rata_2016.70300_0	70300.0	70300.0	70300.0	CD	NUMBER	70300.0	70300.0				
+26	6	fb:cell_perubahan_aset_median.16100_0	16100.0	16100.0	16100.0	CD	NUMBER	16100.0	16100.0				
+27	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_sebagai_pencari_nafkah_utama	Status angkatan kerja dolar konstan 2016 sebagai pencari nafkah utama	status|angkatan|kerja|dolar|konstan|2016|sebagai|pencari|nafkah|utama	status|angkatan|kerja|dolar|konstan|2016|sebagai|pencari|nafkah|utama	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+27	1	fb:cell_utang_rata_rata_1999.null											
+27	2	fb:cell_utang_rata_rata_2016.null											
+27	3	fb:cell_perubahan_utang_median.null											
+27	4	fb:cell_aset_median_1999.null											
+27	5	fb:cell_aset_rata_rata_2016.null											
+27	6	fb:cell_perubahan_aset_median.null											
+28	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_dari_karyawan_berpenghasilan_utama	Status angkatan kerja dolar konstan 2016 dari karyawan berpenghasilan utama	status|angkatan|kerja|dolar|konstan|2016|dari|karyawan|berpenghasilan|utama	status|angkatan|kerja|dolar|konstan|2016|dari|karyawan|berpenghasilan|utama	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O	|||||2016||||	2016.0				
+28	1	fb:cell_utang_rata_rata_1999.null											
+28	2	fb:cell_utang_rata_rata_2016.77000_0	77000.0	77000.0	77000.0	CD	NUMBER	77000.0	77000.0				
+28	3	fb:cell_perubahan_utang_median.null											
+28	4	fb:cell_aset_median_1999.500100_0	500100.0	500100.0	500100.0	CD	NUMBER	500100.0	500100.0				
+28	5	fb:cell_aset_rata_rata_2016.716700_0	716700.0	716700.0	716700.0	CD	NUMBER	716700.0	716700.0				
+28	6	fb:cell_perubahan_aset_median.216600_0	216600.0	216600.0	216600.0	CD	NUMBER	216600.0	216600.0				
+29	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_dari_pencari_nafkah_utama_wiraswasta	Status angkatan kerja dolar konstan 2016 dari pencari nafkah utama wiraswasta	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|wiraswasta	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|wiraswasta	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O|O	|||||2016|||||	2016.0				
+29	1	fb:cell_utang_rata_rata_1999.69100_0	69100.0	69100.0	69100.0	CD	NUMBER	69100.0	69100.0				
+29	2	fb:cell_utang_rata_rata_2016.95300_0	95300.0	95300.0	95300.0	CD	NUMBER	95300.0	95300.0				
+29	3	fb:cell_perubahan_utang_median.26200_0	26200.0	26200.0	26200.0	CD	NUMBER	26200.0	26200.0				
+29	4	fb:cell_aset_median_1999.665000_0	665000.0	665000.0	665000.0	CD	NUMBER	665000.0	665000.0				
+29	5	fb:cell_aset_rata_rata_2016.1116400_0	1116400.0	1116400.0	1116400.0	CD	NUMBER	1116400.0	1116400.0				
+29	6	fb:cell_perubahan_aset_median.451400_0	451400.0	451400.0	451400.0	CD	NUMBER	451400.0	451400.0				
+30	0	fb:cell_kharakteristik.status_angkatan_kerja_dolar_konstan_2016_dari_pencari_nafkah_utama_yang_bukan_angkatan_kerja	Status angkatan kerja dolar konstan 2016 dari pencari nafkah utama yang bukan angkatan kerja	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|yang|bukan|angkatan|kerja	status|angkatan|kerja|dolar|konstan|2016|dari|pencari|nafkah|utama|yang|bukan|angkatan|kerja	NN|NN|NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|DATE|O|O|O|O|O|O|O|O	|||||2016||||||||	2016.0				
+30	1	fb:cell_utang_rata_rata_1999.7200_0	7200.0	7200.0	7200.0	CD	NUMBER	7200.0	7200.0				
+30	2	fb:cell_utang_rata_rata_2016.19000_0	19000.0	19000.0	19000.0	CD	NUMBER	19000.0	19000.0				
+30	3	fb:cell_perubahan_utang_median.11800_0	11800.0	11800.0	11800.0	CD	NUMBER	11800.0	11800.0				
+30	4	fb:cell_aset_median_1999.304300_0	304300.0	304300.0	304300.0	CD	NUMBER	304300.0	304300.0				
+30	5	fb:cell_aset_rata_rata_2016.548800_0	548800.0	548800.0	548800.0	CD	NUMBER	548800.0	548800.0				
+30	6	fb:cell_perubahan_aset_median.244500_0	244500.0	244500.0	244500.0	CD	NUMBER	244500.0	244500.0				
+31	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016	Kuintil pendapatan keluarga dolar konstan 2016	kuintil|pendapatan|keluarga|dolar|konstan|2016	Kuintil|pendapatan|keluarga|dolar|konstan|2016	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2016	2016.0				
+31	1	fb:cell_utang_rata_rata_1999.null											
+31	2	fb:cell_utang_rata_rata_2016.null											
+31	3	fb:cell_perubahan_utang_median.null											
+31	4	fb:cell_aset_median_1999.null											
+31	5	fb:cell_aset_rata_rata_2016.null											
+31	6	fb:cell_perubahan_aset_median.null											
+32	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_terbawah	Kuintil pendapatan keluarga dolar konstan 2016 kuintil terbawah	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|terbawah	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|terbawah	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+32	1	fb:cell_utang_rata_rata_1999.3500_0	3500.0	3500.0	3500.0	CD	NUMBER	3500.0	3500.0				
+32	2	fb:cell_utang_rata_rata_2016.8000_0	8000.0	8000.0	8000.0	CD	NUMBER	8000.0	8000.0				
+32	3	fb:cell_perubahan_utang_median.4500_0	4500.0	4500.0	4500.0	CD	NUMBER	4500.0	4500.0				
+32	4	fb:cell_aset_median_1999.69900_0	69900.0	69900.0	69900.0	CD	NUMBER	69900.0	69900.0				
+32	5	fb:cell_aset_rata_rata_2016.93500_0	93500.0	93500.0	93500.0	CD	NUMBER	93500.0	93500.0				
+32	6	fb:cell_perubahan_aset_median.23600_0	23600.0	23600.0	23600.0	CD	NUMBER	23600.0	23600.0				
+33	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_kedua	Kuintil pendapatan keluarga dolar konstan 2016 kuintil kedua	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|kedua	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|kedua	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+33	1	fb:cell_utang_rata_rata_1999.5500_0	5500.0	5500.0	5500.0	CD	NUMBER	5500.0	5500.0				
+33	2	fb:cell_utang_rata_rata_2016.13600_0	13600.0	13600.0	13600.0	CD	NUMBER	13600.0	13600.0				
+33	3	fb:cell_perubahan_utang_median.8100_0	8100.0	8100.0	8100.0	CD	NUMBER	8100.0	8100.0				
+33	4	fb:cell_aset_median_1999.149300_0	149300.0	149300.0	149300.0	CD	NUMBER	149300.0	149300.0				
+33	5	fb:cell_aset_rata_rata_2016.339500_0	339500.0	339500.0	339500.0	CD	NUMBER	339500.0	339500.0				
+33	6	fb:cell_perubahan_aset_median.190200_0	190200.0	190200.0	190200.0	CD	NUMBER	190200.0	190200.0				
+34	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_menengah	Kuintil pendapatan keluarga dolar konstan 2016 kuintil menengah	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|menengah	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|menengah	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+34	1	fb:cell_utang_rata_rata_1999.9700_0	9700.0	9700.0	9700.0	CD	NUMBER	9700.0	9700.0				
+34	2	fb:cell_utang_rata_rata_2016.21000_0	21000.0	21000.0	21000.0	CD	NUMBER	21000.0	21000.0				
+34	3	fb:cell_perubahan_utang_median.11300_0	11300.0	11300.0	11300.0	CD	NUMBER	11300.0	11300.0				
+34	4	fb:cell_aset_median_1999.328600_0	328600.0	328600.0	328600.0	CD	NUMBER	328600.0	328600.0				
+34	5	fb:cell_aset_rata_rata_2016.630500_0	630500.0	630500.0	630500.0	CD	NUMBER	630500.0	630500.0				
+34	6	fb:cell_perubahan_aset_median.301900_0	301900.0	301900.0	301900.0	CD	NUMBER	301900.0	301900.0				
+35	0	fb:cell_kharakteristik.kuintil_pendapatan_keluarga_dolar_konstan_2016_kuintil_keempat	Kuintil pendapatan keluarga dolar konstan 2016 kuintil keempat	kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|keempat	Kuintil|pendapatan|keluarga|dolar|konstan|2016|kuintil|keempat	NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|DATE|O|O	|||||2016||	2016.0				
+35	1	fb:cell_utang_rata_rata_1999.13900_0	13900.0	13900.0	13900.0	CD	NUMBER	13900.0	13900.0				
+35	2	fb:cell_utang_rata_rata_2016.45000_0	45000.0	45000.0	45000.0	CD	NUMBER	45000.0	45000.0				
+35	3	fb:cell_perubahan_utang_median.31100_0	31100.0	31100.0	31100.0	CD	NUMBER	31100.0	31100.0				
+35	4	fb:cell_aset_median_1999.501600_0	501600.0	501600.0	501600.0	CD	NUMBER	501600.0	501600.0				
+35	5	fb:cell_aset_rata_rata_2016.957200_0	957200.0	957200.0	957200.0	CD	NUMBER	957200.0	957200.0				
+35	6	fb:cell_perubahan_aset_median.455600_0	455600.0	455600.0	455600.0	CD	NUMBER	455600.0	455600.0				
+36	0	fb:cell_kharakteristik.kuintil_teratas_pendapatan_keluarga_dolar_konstan_tahun_2016	Kuintil teratas pendapatan keluarga dolar konstan tahun 2016	kuintil|teratas|pendapatan|keluarga|dolar|konstan|tahun|2016	Kuintil|teratas|pendapatan|keluarga|dolar|konstan|tahun|2016	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||2016	2016.0				
+36	1	fb:cell_utang_rata_rata_1999.null											
+36	2	fb:cell_utang_rata_rata_2016.74000_0	74000.0	74000.0	74000.0	CD	NUMBER	74000.0	74000.0				
+36	3	fb:cell_perubahan_utang_median.null											
+36	4	fb:cell_aset_median_1999.750000_0	750000.0	750000.0	750000.0	CD	NUMBER	750000.0	750000.0				
+36	5	fb:cell_aset_rata_rata_2016.1538800_0	1538800.0	1538800.0	1538800.0	CD	NUMBER	1538800.0	1538800.0				
+36	6	fb:cell_perubahan_aset_median.788800_0	788800.0	788800.0	788800.0	CD	NUMBER	788800.0	788800.0				
+37	0	fb:cell_kharakteristik.provinsi_atau_wilayah_tempat_tinggal_dolar_konstan_2016	Provinsi atau wilayah tempat tinggal dolar konstan 2016	provinsi|atau|wilayah|tempat|tinggal|dolar|konstan|2016	Provinsi|atau|wilayah|tempat|tinggal|dolar|konstan|2016	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||2016	2016.0				
+37	1	fb:cell_utang_rata_rata_1999.null											
+37	2	fb:cell_utang_rata_rata_2016.null											
+37	3	fb:cell_perubahan_utang_median.null											
+37	4	fb:cell_aset_median_1999.null											
+37	5	fb:cell_aset_rata_rata_2016.null											
+37	6	fb:cell_perubahan_aset_median.null											
+38	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_atlantik	Provinsi dolar konstan 2016 atau wilayah tempat tinggal Atlantik	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|atlantik	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|Atlantik	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+38	1	fb:cell_utang_rata_rata_1999.6900_0	6900.0	6900.0	6900.0	CD	NUMBER	6900.0	6900.0				
+38	2	fb:cell_utang_rata_rata_2016.18000_0	18000.0	18000.0	18000.0	CD	NUMBER	18000.0	18000.0				
+38	3	fb:cell_perubahan_utang_median.11100_0	11100.0	11100.0	11100.0	CD	NUMBER	11100.0	11100.0				
+38	4	fb:cell_aset_median_1999.185500_0	185500.0	185500.0	185500.0	CD	NUMBER	185500.0	185500.0				
+38	5	fb:cell_aset_rata_rata_2016.408100_0	408100.0	408100.0	408100.0	CD	NUMBER	408100.0	408100.0				
+38	6	fb:cell_perubahan_aset_median.222600_0	222600.0	222600.0	222600.0	CD	NUMBER	222600.0	222600.0				
+39	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_quebec	Provinsi dolar konstan 2016 atau wilayah tempat tinggal quebec	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|quebec	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|quebec	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+39	1	fb:cell_utang_rata_rata_1999.8300_0	8300.0	8300.0	8300.0	CD	NUMBER	8300.0	8300.0				
+39	2	fb:cell_utang_rata_rata_2016.16500_0	16500.0	16500.0	16500.0	CD	NUMBER	16500.0	16500.0				
+39	3	fb:cell_perubahan_utang_median.8200_0	8200.0	8200.0	8200.0	CD	NUMBER	8200.0	8200.0				
+39	4	fb:cell_aset_median_1999.275200_0	275200.0	275200.0	275200.0	CD	NUMBER	275200.0	275200.0				
+39	5	fb:cell_aset_rata_rata_2016.406000_0	406000.0	406000.0	406000.0	CD	NUMBER	406000.0	406000.0				
+39	6	fb:cell_perubahan_aset_median.130800_0	130800.0	130800.0	130800.0	CD	NUMBER	130800.0	130800.0				
+40	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_ontario	Provinsi dolar konstan 2016 atau wilayah tempat tinggal ontario	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|ontario	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|ontario	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+40	1	fb:cell_utang_rata_rata_1999.8600_0	8600.0	8600.0	8600.0	CD	NUMBER	8600.0	8600.0				
+40	2	fb:cell_utang_rata_rata_2016.32000_0	32000.0	32000.0	32000.0	CD	NUMBER	32000.0	32000.0				
+40	3	fb:cell_perubahan_utang_median.23400_0	23400.0	23400.0	23400.0	CD	NUMBER	23400.0	23400.0				
+40	4	fb:cell_aset_median_1999.420400_0	420400.0	420400.0	420400.0	CD	NUMBER	420400.0	420400.0				
+40	5	fb:cell_aset_rata_rata_2016.775100_0	775100.0	775100.0	775100.0	CD	NUMBER	775100.0	775100.0				
+40	6	fb:cell_perubahan_aset_median.354700_0	354700.0	354700.0	354700.0	CD	NUMBER	354700.0	354700.0				
+41	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_manitoba	Provinsi dolar konstan 2016 atau wilayah tempat tinggal manitoba	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|manitoba	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|manitoba	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+41	1	fb:cell_utang_rata_rata_1999.null											
+41	2	fb:cell_utang_rata_rata_2016.25000_0	25000.0	25000.0	25000.0	CD	NUMBER	25000.0	25000.0				
+41	3	fb:cell_perubahan_utang_median.null											
+41	4	fb:cell_aset_median_1999.274900_0	274900.0	274900.0	274900.0	CD	NUMBER	274900.0	274900.0				
+41	5	fb:cell_aset_rata_rata_2016.595000_0	595000.0	595000.0	595000.0	CD	NUMBER	595000.0	595000.0				
+41	6	fb:cell_perubahan_aset_median.320100_0	320100.0	320100.0	320100.0	CD	NUMBER	320100.0	320100.0				
+42	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_saskatchewan	Provinsi dolar konstan 2016 atau wilayah tempat tinggal saskatchewan	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|saskatchewan	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|saskatchewan	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+42	1	fb:cell_utang_rata_rata_1999.null											
+42	2	fb:cell_utang_rata_rata_2016.null											
+42	3	fb:cell_perubahan_utang_median.null											
+42	4	fb:cell_aset_median_1999.342100_0	342100.0	342100.0	342100.0	CD	NUMBER	342100.0	342100.0				
+42	5	fb:cell_aset_rata_rata_2016.745200_0	745200.0	745200.0	745200.0	CD	NUMBER	745200.0	745200.0				
+42	6	fb:cell_perubahan_aset_median.403100_0	403100.0	403100.0	403100.0	CD	NUMBER	403100.0	403100.0				
+43	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_alberta	Provinsi dolar konstan 2016 atau wilayah tempat tinggal alberta	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|alberta	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|alberta	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|O	|||2016|||||	2016.0				
+43	1	fb:cell_utang_rata_rata_1999.15200_0	15200.0	15200.0	15200.0	CD	NUMBER	15200.0	15200.0				
+43	2	fb:cell_utang_rata_rata_2016.53400_0	53400.0	53400.0	53400.0	CD	NUMBER	53400.0	53400.0				
+43	3	fb:cell_perubahan_utang_median.38200_0	38200.0	38200.0	38200.0	CD	NUMBER	38200.0	38200.0				
+43	4	fb:cell_aset_median_1999.349800_0	349800.0	349800.0	349800.0	CD	NUMBER	349800.0	349800.0				
+43	5	fb:cell_aset_rata_rata_2016.695000_0	695000.0	695000.0	695000.0	CD	NUMBER	695000.0	695000.0				
+43	6	fb:cell_perubahan_aset_median.345200_0	345200.0	345200.0	345200.0	CD	NUMBER	345200.0	345200.0				
+44	0	fb:cell_kharakteristik.provinsi_dolar_konstan_2016_atau_wilayah_tempat_tinggal_british_columbia	Provinsi dolar konstan 2016 atau wilayah tempat tinggal British Columbia	provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|british|columbia	Provinsi|dolar|konstan|2016|atau|wilayah|tempat|tinggal|British|Columbia	NNP|NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|DATE|O|O|O|O|MISC|O	|||2016||||||	2016.0				
+44	1	fb:cell_utang_rata_rata_1999.13800_0	13800.0	13800.0	13800.0	CD	NUMBER	13800.0	13800.0				
+44	2	fb:cell_utang_rata_rata_2016.31000_0	31000.0	31000.0	31000.0	CD	NUMBER	31000.0	31000.0				
+44	3	fb:cell_perubahan_utang_median.17200_0	17200.0	17200.0	17200.0	CD	NUMBER	17200.0	17200.0				
+44	4	fb:cell_aset_median_1999.367700_0	367700.0	367700.0	367700.0	CD	NUMBER	367700.0	367700.0				
+44	5	fb:cell_aset_rata_rata_2016.850100_0	850100.0	850100.0	850100.0	CD	NUMBER	850100.0	850100.0				
+44	6	fb:cell_perubahan_aset_median.482400_0	482400.0	482400.0	482400.0	CD	NUMBER	482400.0	482400.0				

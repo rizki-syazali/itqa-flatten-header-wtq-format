@@ -1,0 +1,25 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_total_insiden_kejahatan_rasial	jumlah total insiden kejahatan rasial	jumlah|total|insiden|kejahatan|rasial	jumlah|total|insiden|kejahatan|rasial	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	2	fb:row.row.jumlah_total_insiden_kejahatan_rasial_terkait_dunia_maya	jumlah total insiden kejahatan rasial terkait dunia maya	jumlah|total|insiden|kejahatan|rasial|terkait|dunia|maya	jumlah|total|insiden|kejahatan|rasial|terkait|dunia|maya	NNP|NNP|NNP|NNP|JJ|NN|NN|JJ	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.total_persentase_insiden_kejahatan_rasial_terkait_dunia_maya	total persentase insiden kejahatan rasial terkait dunia maya	total|persentase|insiden|kejahatan|rasial|terkait|dunia|maya	total|persentase|insiden|kejahatan|rasial|terkait|dunia|maya	JJ|NN|NN|NN|NN|NN|NN|JJ	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx			
+0	1	fb:cell_jumlah_total_insiden_kejahatan_rasial.1148_0	1148.0	1148.0	1148.0	CD	NUMBER	1148.0	1148.0				
+0	2	fb:cell_jumlah_total_insiden_kejahatan_rasial_terkait_dunia_maya.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+0	3	fb:cell_total_persentase_insiden_kejahatan_rasial_terkait_dunia_maya.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+1	0	fb:cell_kharakteristik.2015	2015	2015	2015	CD	DATE	2015	2015.0	2015-xx-xx			
+1	1	fb:cell_jumlah_total_insiden_kejahatan_rasial.1248_0	1248.0	1248.0	1248.0	CD	NUMBER	1248.0	1248.0				
+1	2	fb:cell_jumlah_total_insiden_kejahatan_rasial_terkait_dunia_maya.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+1	3	fb:cell_total_persentase_insiden_kejahatan_rasial_terkait_dunia_maya.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+2	0	fb:cell_kharakteristik.2016	2016	2016	2016	CD	DATE	2016	2016.0	2016-xx-xx			
+2	1	fb:cell_jumlah_total_insiden_kejahatan_rasial.1291_0	1291.0	1291.0	1291.0	CD	NUMBER	1291.0	1291.0				
+2	2	fb:cell_jumlah_total_insiden_kejahatan_rasial_terkait_dunia_maya.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+2	3	fb:cell_total_persentase_insiden_kejahatan_rasial_terkait_dunia_maya.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+3	0	fb:cell_kharakteristik.2017	2017	2017	2017	CD	DATE	2017	2017.0	2017-xx-xx			
+3	1	fb:cell_jumlah_total_insiden_kejahatan_rasial.1897_0	1897.0	1897.0	1897.0	CD	NUMBER	1897.0	1897.0				
+3	2	fb:cell_jumlah_total_insiden_kejahatan_rasial_terkait_dunia_maya.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+3	3	fb:cell_total_persentase_insiden_kejahatan_rasial_terkait_dunia_maya.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+4	0	fb:cell_kharakteristik.2018	2018	2018	2018	CD	DATE	2018	2018.0	2018-xx-xx			
+4	1	fb:cell_jumlah_total_insiden_kejahatan_rasial.1619_0	1619.0	1619.0	1619.0	CD	NUMBER	1619.0	1619.0				
+4	2	fb:cell_jumlah_total_insiden_kejahatan_rasial_terkait_dunia_maya.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+4	3	fb:cell_total_persentase_insiden_kejahatan_rasial_terkait_dunia_maya.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				

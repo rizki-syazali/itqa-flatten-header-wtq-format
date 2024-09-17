@@ -1,0 +1,43 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.beta	beta	beta	beta	NN	O						
+-1	2	fb:row.row.nilai_p	nilai p	nilai|p	nilai|p	NNP|NN	O|O	|					
+0	0	fb:cell_kharakteristik.waktu_layar	waktu layar	waktu|layar	waktu|layar	NNP|NNP	O|O	|					
+0	1	fb:cell_beta.0_128	0.128	0.128	0.128	CD	NUMBER	0.128	0.128				
+0	2	fb:cell_nilai_p.0_0002	0.0002	0.0002	0.0002	CD	NUMBER	2.0E-4	2.0E-4				
+1	0	fb:cell_kharakteristik.waktu_menetap	waktu menetap	waktu|menetap	waktu|menetap	NNP|NNP	O|O	|					
+1	1	fb:cell_beta.null											
+1	2	fb:cell_nilai_p.null											
+2	0	fb:cell_kharakteristik.total_waktu_menetap	total waktu menetap	total|waktu|menetap	total|waktu|menetap	JJ|NN|NN	O|O|O	||					
+2	1	fb:cell_beta.0_124	0.124	0.124	0.124	CD	NUMBER	0.124	0.124				
+2	2	fb:cell_nilai_p.0_0016	0.0016	0.0016	0.0016	CD	NUMBER	0.0016	0.0016				
+3	0	fb:cell_kharakteristik.waktu_menetap_di_hari_kerja	waktu menetap di hari kerja	waktu|menetap|di|hari|kerja	waktu|menetap|di|hari|kerja	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+3	1	fb:cell_beta.0_079	0.079	0.079	0.079	CD	NUMBER	0.079	0.079				
+3	2	fb:cell_nilai_p.0_0309	0.0309	0.0309	0.0309	CD	NUMBER	0.0309	0.0309				
+4	0	fb:cell_kharakteristik.akhir_pekan_waktu_menetap	akhir pekan waktu menetap	akhir|pekan|waktu|menetap	akhir|pekan|waktu|menetap	NNP|NNP|NNP|NN	O|O|O|O	|||					
+4	1	fb:cell_beta.0_17	0.17	0.17	0.17	CD	NUMBER	0.17	0.17				
+4	2	fb:cell_nilai_p.0_0003	0.0003	0.0003	0.0003	CD	NUMBER	3.0E-4	3.0E-4				
+5	0	fb:cell_kharakteristik.lpa	lpa	lpa	lpa	NN	O						
+5	1	fb:cell_beta.null											
+5	2	fb:cell_nilai_p.null											
+6	0	fb:cell_kharakteristik.totalnya	totalnya	totalnya	totalnya	NN	O						
+6	1	fb:cell_beta.0_096	0.096	0.096	0.096	CD	NUMBER	0.096	0.096				
+6	2	fb:cell_nilai_p.0_0001	0.0001	0.0001	0.0001	CD	NUMBER	1.0E-4	1.0E-4				
+7	0	fb:cell_kharakteristik.lpa_hari_kerja	lpa hari kerja	lpa|hari|kerja	lpa|hari|kerja	NNP|NNP|NNP	O|PERSON|PERSON	||					
+7	1	fb:cell_beta.0_067	0.067	0.067	0.067	CD	NUMBER	0.067	0.067				
+7	2	fb:cell_nilai_p.0_003	0.003	0.003	0.003	CD	NUMBER	0.003	0.003				
+8	0	fb:cell_kharakteristik.lpa_akhir_pekan	lpa akhir pekan	lpa|akhir|pekan	lpa|akhir|pekan	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_beta.0_103	0.103	0.103	0.103	CD	NUMBER	0.103	0.103				
+8	2	fb:cell_nilai_p.0_0003	0.0003	0.0003	0.0003	CD	NUMBER	3.0E-4	3.0E-4				
+9	0	fb:cell_kharakteristik.mvpa	mvpa	mvpa	mvpa	NN	O						
+9	1	fb:cell_beta.null											
+9	2	fb:cell_nilai_p.null											
+10	0	fb:cell_kharakteristik.total_mvpa	total mvpa	total|mvpa	total|mvpa	JJ|NN	O|O	|					
+10	1	fb:cell_beta.0_002	0.002	0.002	0.002	CD	NUMBER	0.002	0.002				
+10	2	fb:cell_nilai_p.0_007	0.007	0.007	0.007	CD	NUMBER	0.007	0.007				
+11	0	fb:cell_kharakteristik.mvpa_hari_kerja	mvpa hari kerja	mvpa|hari|kerja	mvpa|hari|kerja	NNP|NNP|NNP	PERSON|PERSON|PERSON	||					
+11	1	fb:cell_beta.0_002	0.002	0.002	0.002	CD	NUMBER	0.002	0.002				
+11	2	fb:cell_nilai_p.0_0134	0.0134	0.0134	0.0134	CD	NUMBER	0.0134	0.0134				
+12	0	fb:cell_kharakteristik.akhir_pekan_mvpa	akhir pekan mvpa	akhir|pekan|mvpa	akhir|pekan|mvpa	NNP|NNP|NNP	O|O|O	||					
+12	1	fb:cell_beta.0_002	0.002	0.002	0.002	CD	NUMBER	0.002	0.002				
+12	2	fb:cell_nilai_p.0_0432	0.0432	0.0432	0.0432	CD	NUMBER	0.0432	0.0432				

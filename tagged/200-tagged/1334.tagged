@@ -1,0 +1,37 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.identitas_penduduk_asli_total_anak_anak_penduduk_asli	identitas penduduk asli total anak-anak penduduk asli	identitas|penduduk|asli|total|anak|anak|penduduk|asli	identitas|penduduk|asli|total|anak|anak|penduduk|asli	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.identitas_asli_anak_anak_bangsa_pertama	identitas asli anak-anak bangsa pertama	identitas|asli|anak|anak|bangsa|pertama	identitas|asli|anak|anak|bangsa|pertama	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	3	fb:row.row.identitas_penduduk_asli_bertemu_dengan_anak_anak	identitas penduduk asli bertemu dengan anak-anak	identitas|penduduk|asli|bertemu|dengan|anak|anak	identitas|penduduk|asli|bertemu|dengan|anak|anak	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.identitas_asli_anak_anak_inuit	identitas asli anak-anak inuit	identitas|asli|anak|anak|inuit	identitas|asli|anak|anak|inuit	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	5	fb:row.row.identitas_penduduk_asli_anak_anak_non_penduduk_asli	identitas penduduk asli anak-anak non-penduduk asli	identitas|penduduk|asli|anak|anak|non|penduduk|asli	identitas|penduduk|asli|anak|anak|non|penduduk|asli	NNP|NNP|NNP|NNP|NNP|JJ|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.persen_total_anak_dalam_keluarga_sensus	persen total anak dalam keluarga sensus	persen|total|anak|dalam|keluarga|sensus	persen|total|anak|dalam|keluarga|sensus	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+0	1	fb:cell_identitas_penduduk_asli_total_anak_anak_penduduk_asli.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	2	fb:cell_identitas_asli_anak_anak_bangsa_pertama.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	3	fb:cell_identitas_penduduk_asli_bertemu_dengan_anak_anak.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	4	fb:cell_identitas_asli_anak_anak_inuit.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	5	fb:cell_identitas_penduduk_asli_anak_anak_non_penduduk_asli.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.persen_jumlah_anak_dalam_keluarga_sensus_1_anak	persen jumlah anak dalam keluarga sensus 1 anak	persen|jumlah|anak|dalam|keluarga|sensus|1|anak	persen|jumlah|anak|dalam|keluarga|sensus|1|anak	NNP|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O	||||||1.0|	1.0				
+1	1	fb:cell_identitas_penduduk_asli_total_anak_anak_penduduk_asli.25_9	25.9	25.9	25.9	CD	NUMBER	25.9	25.9				
+1	2	fb:cell_identitas_asli_anak_anak_bangsa_pertama.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+1	3	fb:cell_identitas_penduduk_asli_bertemu_dengan_anak_anak.29_3	29.3	29.3	29.3	CD	NUMBER	29.3	29.3				
+1	4	fb:cell_identitas_asli_anak_anak_inuit.23_9	23.9	23.9	23.9	CD	NUMBER	23.9	23.9				
+1	5	fb:cell_identitas_penduduk_asli_anak_anak_non_penduduk_asli.28_6	28.6	28.6	28.6	CD	NUMBER	28.6	28.6				
+2	0	fb:cell_kharakteristik.persen_jumlah_anak_dalam_keluarga_sensus_2_anak	persen jumlah anak dalam keluarga sensus 2 anak	persen|jumlah|anak|dalam|keluarga|sensus|2|anak	persen|jumlah|anak|dalam|keluarga|sensus|2|anak	NNP|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O	||||||2.0|	2.0				
+2	1	fb:cell_identitas_penduduk_asli_total_anak_anak_penduduk_asli.36_3	36.3	36.3	36.3	CD	NUMBER	36.3	36.3				
+2	2	fb:cell_identitas_asli_anak_anak_bangsa_pertama.33_4	33.4	33.4	33.4	CD	NUMBER	33.4	33.4				
+2	3	fb:cell_identitas_penduduk_asli_bertemu_dengan_anak_anak.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+2	4	fb:cell_identitas_asli_anak_anak_inuit.33_9	33.9	33.9	33.9	CD	NUMBER	33.9	33.9				
+2	5	fb:cell_identitas_penduduk_asli_anak_anak_non_penduduk_asli.46_6	46.6	46.6	46.6	CD	NUMBER	46.6	46.6				
+3	0	fb:cell_kharakteristik.persen_jumlah_anak_dalam_keluarga_sensus_3_anak	persen jumlah anak dalam keluarga sensus 3 anak	persen|jumlah|anak|dalam|keluarga|sensus|3|anak	persen|jumlah|anak|dalam|keluarga|sensus|3|anak	NNP|NNP|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|NUMBER|O	||||||3.0|	3.0				
+3	1	fb:cell_identitas_penduduk_asli_total_anak_anak_penduduk_asli.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+3	2	fb:cell_identitas_asli_anak_anak_bangsa_pertama.21_8	21.8	21.8	21.8	CD	NUMBER	21.8	21.8				
+3	3	fb:cell_identitas_penduduk_asli_bertemu_dengan_anak_anak.19_7	19.7	19.7	19.7	CD	NUMBER	19.7	19.7				
+3	4	fb:cell_identitas_asli_anak_anak_inuit.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+3	5	fb:cell_identitas_penduduk_asli_anak_anak_non_penduduk_asli.18_1	18.1	18.1	18.1	CD	NUMBER	18.1	18.1				
+4	0	fb:cell_kharakteristik.persen_jumlah_anak_dalam_keluarga_sensus_4_anak_atau_lebih	persen jumlah anak dalam keluarga sensus 4 anak atau lebih	persen|jumlah|anak|dalam|keluarga|sensus|4|anak|atau|lebih	persen|jumlah|anak|dalam|keluarga|sensus|4|anak|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|O|NUMBER|O|O|O	||||||4.0|||	4.0				
+4	1	fb:cell_identitas_penduduk_asli_total_anak_anak_penduduk_asli.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+4	2	fb:cell_identitas_asli_anak_anak_bangsa_pertama.20_3	20.3	20.3	20.3	CD	NUMBER	20.3	20.3				
+4	3	fb:cell_identitas_penduduk_asli_bertemu_dengan_anak_anak.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+4	4	fb:cell_identitas_asli_anak_anak_inuit.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+4	5	fb:cell_identitas_penduduk_asli_anak_anak_non_penduduk_asli.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				

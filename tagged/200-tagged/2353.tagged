@@ -1,0 +1,345 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_yang_dilaporkan	nomor yang dilaporkan	nomor|yang|dilaporkan	nomor|yang|dilaporkan	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.nomor_tidak_berdasar	nomor tidak berdasar	nomor|tidak|berdasar	nomor|tidak|berdasar	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.persen_tidak_berdasar	persen tidak berdasar	persen|tidak|berdasar	persen|tidak|berdasar	JJ|NN|NN	O|O|O	||					
+-1	4	fb:row.row.nomor_didirikan	nomor didirikan	nomor|didirikan	nomor|didirikan	NN|NN	O|O	|					
+-1	5	fb:row.row.tingkat_didirikan	tingkat didirikan	tingkat|didirikan	tingkat|didirikan	NNP|NNP	O|O	|					
+-1	6	fb:row.row.nomor_yang_dibersihkan	nomor yang dibersihkan	nomor|yang|dibersihkan	nomor|yang|dibersihkan	NNP|NNP|NNP	O|O|O	||					
+-1	7	fb:row.row.persen_yang_telah_dibersihkan	persen yang telah dibersihkan	persen|yang|telah|dibersihkan	persen|yang|telah|dibersihkan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor_yang_dilaporkan.null											
+0	2	fb:cell_nomor_tidak_berdasar.null											
+0	3	fb:cell_persen_tidak_berdasar.null											
+0	4	fb:cell_nomor_didirikan.null											
+0	5	fb:cell_tingkat_didirikan.null											
+0	6	fb:cell_nomor_yang_dibersihkan.null											
+0	7	fb:cell_persen_yang_telah_dibersihkan.null											
+1	0	fb:cell_kharakteristik.newfoundland_dan_labrador_2016	newfoundland dan labrador 2016	newfoundland|dan|labrador|2016	newfoundland|dan|labrador|2016	NNP|NNP|NNP|CD	LOCATION|O|O|DATE	|||2016	2016.0				
+1	1	fb:cell_nomor_yang_dilaporkan.4486_0	4486.0	4486.0	4486.0	CD	NUMBER	4486.0	4486.0				
+1	2	fb:cell_nomor_tidak_berdasar.816_0	816.0	816.0	816.0	CD	NUMBER	816.0	816.0				
+1	3	fb:cell_persen_tidak_berdasar.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+1	4	fb:cell_nomor_didirikan.3670_0	3670.0	3670.0	3670.0	CD	NUMBER	3670.0	3670.0				
+1	5	fb:cell_tingkat_didirikan.692_1	692.1	692.1	692.1	CD	NUMBER	692.1	692.1				
+1	6	fb:cell_nomor_yang_dibersihkan.2355_0	2355.0	2355.0	2355.0	CD	NUMBER	2355.0	2355.0				
+1	7	fb:cell_persen_yang_telah_dibersihkan.64_2	64.2	64.2	64.2	CD	NUMBER	64.2	64.2				
+2	0	fb:cell_kharakteristik.newfoundland_dan_labrador_2017	newfoundland dan labrador 2017	newfoundland|dan|labrador|2017	newfoundland|dan|labrador|2017	NNP|NNP|NNP|CD	LOCATION|O|O|DATE	|||2017	2017.0				
+2	1	fb:cell_nomor_yang_dilaporkan.4376_0	4376.0	4376.0	4376.0	CD	NUMBER	4376.0	4376.0				
+2	2	fb:cell_nomor_tidak_berdasar.730_0	730.0	730.0	730.0	CD	NUMBER	730.0	730.0				
+2	3	fb:cell_persen_tidak_berdasar.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+2	4	fb:cell_nomor_didirikan.3646_0	3646.0	3646.0	3646.0	CD	NUMBER	3646.0	3646.0				
+2	5	fb:cell_tingkat_didirikan.689_5	689.5	689.5	689.5	CD	NUMBER	689.5	689.5				
+2	6	fb:cell_nomor_yang_dibersihkan.2401_0	2401.0	2401.0	2401.0	CD	NUMBER	2401.0	2401.0				
+2	7	fb:cell_persen_yang_telah_dibersihkan.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+3	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_nomor_yang_dilaporkan.null											
+3	2	fb:cell_nomor_tidak_berdasar.null											
+3	3	fb:cell_persen_tidak_berdasar.null											
+3	4	fb:cell_nomor_didirikan.null											
+3	5	fb:cell_tingkat_didirikan.null											
+3	6	fb:cell_nomor_yang_dibersihkan.null											
+3	7	fb:cell_persen_yang_telah_dibersihkan.null											
+4	0	fb:cell_kharakteristik.pulau_pangeran_edward_2016	pulau pangeran edward 2016	pulau|pangeran|edward|2016	pulau|pangeran|edward|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016	2016.0				
+4	1	fb:cell_nomor_yang_dilaporkan.919_0	919.0	919.0	919.0	CD	NUMBER	919.0	919.0				
+4	2	fb:cell_nomor_tidak_berdasar.323_0	323.0	323.0	323.0	CD	NUMBER	323.0	323.0				
+4	3	fb:cell_persen_tidak_berdasar.35_1	35.1	35.1	35.1	CD	NUMBER	35.1	35.1				
+4	4	fb:cell_nomor_didirikan.596_0	596.0	596.0	596.0	CD	NUMBER	596.0	596.0				
+4	5	fb:cell_tingkat_didirikan.398_7	398.7	398.7	398.7	CD	NUMBER	398.7	398.7				
+4	6	fb:cell_nomor_yang_dibersihkan.458_0	458.0	458.0	458.0	CD	NUMBER	458.0	458.0				
+4	7	fb:cell_persen_yang_telah_dibersihkan.76_8	76.8	76.8	76.8	CD	NUMBER	76.8	76.8				
+5	0	fb:cell_kharakteristik.pulau_pangeran_edward_2017	pulau pangeran edward 2017	pulau|pangeran|edward|2017	pulau|pangeran|edward|2017	NNP|NNP|NNP|CD	O|O|O|DATE	|||2017	2017.0				
+5	1	fb:cell_nomor_yang_dilaporkan.916_0	916.0	916.0	916.0	CD	NUMBER	916.0	916.0				
+5	2	fb:cell_nomor_tidak_berdasar.217_0	217.0	217.0	217.0	CD	NUMBER	217.0	217.0				
+5	3	fb:cell_persen_tidak_berdasar.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+5	4	fb:cell_nomor_didirikan.699_0	699.0	699.0	699.0	CD	NUMBER	699.0	699.0				
+5	5	fb:cell_tingkat_didirikan.459_8	459.8	459.8	459.8	CD	NUMBER	459.8	459.8				
+5	6	fb:cell_nomor_yang_dibersihkan.527_0	527.0	527.0	527.0	CD	NUMBER	527.0	527.0				
+5	7	fb:cell_persen_yang_telah_dibersihkan.75_4	75.4	75.4	75.4	CD	NUMBER	75.4	75.4				
+6	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+6	1	fb:cell_nomor_yang_dilaporkan.null											
+6	2	fb:cell_nomor_tidak_berdasar.null											
+6	3	fb:cell_persen_tidak_berdasar.null											
+6	4	fb:cell_nomor_didirikan.null											
+6	5	fb:cell_tingkat_didirikan.null											
+6	6	fb:cell_nomor_yang_dibersihkan.null											
+6	7	fb:cell_persen_yang_telah_dibersihkan.null											
+7	0	fb:cell_kharakteristik.nova_scotia_2016	Nova Scotia 2016	nova|scotia|2016	Nova|Scotia|2016	NNP|NNP|CD	O|O|DATE	||2016	2016.0				
+7	1	fb:cell_nomor_yang_dilaporkan.7211_0	7211.0	7211.0	7211.0	CD	NUMBER	7211.0	7211.0				
+7	2	fb:cell_nomor_tidak_berdasar.1868_0	1868.0	1868.0	1868.0	CD	NUMBER	1868.0	1868.0				
+7	3	fb:cell_persen_tidak_berdasar.25_9	25.9	25.9	25.9	CD	NUMBER	25.9	25.9				
+7	4	fb:cell_nomor_didirikan.5343_0	5343.0	5343.0	5343.0	CD	NUMBER	5343.0	5343.0				
+7	5	fb:cell_tingkat_didirikan.563_2	563.2	563.2	563.2	CD	NUMBER	563.2	563.2				
+7	6	fb:cell_nomor_yang_dibersihkan.4504_0	4504.0	4504.0	4504.0	CD	NUMBER	4504.0	4504.0				
+7	7	fb:cell_persen_yang_telah_dibersihkan.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+8	0	fb:cell_kharakteristik.nova_scotia_2017	Nova Scotia 2017	nova|scotia|2017	Nova|Scotia|2017	NNP|NNP|CD	O|O|DATE	||2017	2017.0				
+8	1	fb:cell_nomor_yang_dilaporkan.7088_0	7088.0	7088.0	7088.0	CD	NUMBER	7088.0	7088.0				
+8	2	fb:cell_nomor_tidak_berdasar.1359_0	1359.0	1359.0	1359.0	CD	NUMBER	1359.0	1359.0				
+8	3	fb:cell_persen_tidak_berdasar.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+8	4	fb:cell_nomor_didirikan.5729_0	5729.0	5729.0	5729.0	CD	NUMBER	5729.0	5729.0				
+8	5	fb:cell_tingkat_didirikan.600_6	600.6	600.6	600.6	CD	NUMBER	600.6	600.6				
+8	6	fb:cell_nomor_yang_dibersihkan.4543_0	4543.0	4543.0	4543.0	CD	NUMBER	4543.0	4543.0				
+8	7	fb:cell_persen_yang_telah_dibersihkan.79_3	79.3	79.3	79.3	CD	NUMBER	79.3	79.3				
+9	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor_yang_dilaporkan.null											
+9	2	fb:cell_nomor_tidak_berdasar.null											
+9	3	fb:cell_persen_tidak_berdasar.null											
+9	4	fb:cell_nomor_didirikan.null											
+9	5	fb:cell_tingkat_didirikan.null											
+9	6	fb:cell_nomor_yang_dibersihkan.null											
+9	7	fb:cell_persen_yang_telah_dibersihkan.null											
+10	0	fb:cell_kharakteristik.brunswick_baru_2016	brunswick baru 2016	brunswick|baru|2016	brunswick|baru|2016	NNP|NNP|CD	O|O|DATE	||2016	2016.0				
+10	1	fb:cell_nomor_yang_dilaporkan.5974_0	5974.0	5974.0	5974.0	CD	NUMBER	5974.0	5974.0				
+10	2	fb:cell_nomor_tidak_berdasar.1201_0	1201.0	1201.0	1201.0	CD	NUMBER	1201.0	1201.0				
+10	3	fb:cell_persen_tidak_berdasar.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+10	4	fb:cell_nomor_didirikan.4773_0	4773.0	4773.0	4773.0	CD	NUMBER	4773.0	4773.0				
+10	5	fb:cell_tingkat_didirikan.630_2	630.2	630.2	630.2	CD	NUMBER	630.2	630.2				
+10	6	fb:cell_nomor_yang_dibersihkan.3229_0	3229.0	3229.0	3229.0	CD	NUMBER	3229.0	3229.0				
+10	7	fb:cell_persen_yang_telah_dibersihkan.67_7	67.7	67.7	67.7	CD	NUMBER	67.7	67.7				
+11	0	fb:cell_kharakteristik.brunswick_baru_2017	brunswick baru 2017	brunswick|baru|2017	brunswick|baru|2017	NNP|NNP|CD	O|O|DATE	||2017	2017.0				
+11	1	fb:cell_nomor_yang_dilaporkan.5969_0	5969.0	5969.0	5969.0	CD	NUMBER	5969.0	5969.0				
+11	2	fb:cell_nomor_tidak_berdasar.1032_0	1032.0	1032.0	1032.0	CD	NUMBER	1032.0	1032.0				
+11	3	fb:cell_persen_tidak_berdasar.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+11	4	fb:cell_nomor_didirikan.4937_0	4937.0	4937.0	4937.0	CD	NUMBER	4937.0	4937.0				
+11	5	fb:cell_tingkat_didirikan.649_9	649.9	649.9	649.9	CD	NUMBER	649.9	649.9				
+11	6	fb:cell_nomor_yang_dibersihkan.3132_0	3132.0	3132.0	3132.0	CD	NUMBER	3132.0	3132.0				
+11	7	fb:cell_persen_yang_telah_dibersihkan.63_4	63.4	63.4	63.4	CD	NUMBER	63.4	63.4				
+12	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+12	1	fb:cell_nomor_yang_dilaporkan.null											
+12	2	fb:cell_nomor_tidak_berdasar.null											
+12	3	fb:cell_persen_tidak_berdasar.null											
+12	4	fb:cell_nomor_didirikan.null											
+12	5	fb:cell_tingkat_didirikan.null											
+12	6	fb:cell_nomor_yang_dibersihkan.null											
+12	7	fb:cell_persen_yang_telah_dibersihkan.null											
+13	0	fb:cell_kharakteristik.quebec_2016	Quebec 2016	quebec|2016	Quebec|2016	NNP|CD	O|DATE	|2016	2016.0				
+13	1	fb:cell_nomor_yang_dilaporkan.44980_0	44980.0	44980.0	44980.0	CD	NUMBER	44980.0	44980.0				
+13	2	fb:cell_nomor_tidak_berdasar.1757_0	1757.0	1757.0	1757.0	CD	NUMBER	1757.0	1757.0				
+13	3	fb:cell_persen_tidak_berdasar.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+13	4	fb:cell_nomor_didirikan.43223_0	43223.0	43223.0	43223.0	CD	NUMBER	43223.0	43223.0				
+13	5	fb:cell_tingkat_didirikan.519_4	519.4	519.4	519.4	CD	NUMBER	519.4	519.4				
+13	6	fb:cell_nomor_yang_dibersihkan.35066_0	35066.0	35066.0	35066.0	CD	NUMBER	35066.0	35066.0				
+13	7	fb:cell_persen_yang_telah_dibersihkan.81_1	81.1	81.1	81.1	CD	NUMBER	81.1	81.1				
+14	0	fb:cell_kharakteristik.quebec_2017	Quebec 2017	quebec|2017	Quebec|2017	NNP|CD	O|DATE	|2017	2017.0				
+14	1	fb:cell_nomor_yang_dilaporkan.45808_0	45808.0	45808.0	45808.0	CD	NUMBER	45808.0	45808.0				
+14	2	fb:cell_nomor_tidak_berdasar.1544_0	1544.0	1544.0	1544.0	CD	NUMBER	1544.0	1544.0				
+14	3	fb:cell_persen_tidak_berdasar.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+14	4	fb:cell_nomor_didirikan.44264_0	44264.0	44264.0	44264.0	CD	NUMBER	44264.0	44264.0				
+14	5	fb:cell_tingkat_didirikan.527_3	527.3	527.3	527.3	CD	NUMBER	527.3	527.3				
+14	6	fb:cell_nomor_yang_dibersihkan.35773_0	35773.0	35773.0	35773.0	CD	NUMBER	35773.0	35773.0				
+14	7	fb:cell_persen_yang_telah_dibersihkan.80_8	80.8	80.8	80.8	CD	NUMBER	80.8	80.8				
+15	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+15	1	fb:cell_nomor_yang_dilaporkan.null											
+15	2	fb:cell_nomor_tidak_berdasar.null											
+15	3	fb:cell_persen_tidak_berdasar.null											
+15	4	fb:cell_nomor_didirikan.null											
+15	5	fb:cell_tingkat_didirikan.null											
+15	6	fb:cell_nomor_yang_dibersihkan.null											
+15	7	fb:cell_persen_yang_telah_dibersihkan.null											
+16	0	fb:cell_kharakteristik.ontario_2016	ontario 2016	ontario|2016	ontario|2016	NNP|CD	O|DATE	|2016	2016.0				
+16	1	fb:cell_nomor_yang_dilaporkan.65925_0	65925.0	65925.0	65925.0	CD	NUMBER	65925.0	65925.0				
+16	2	fb:cell_nomor_tidak_berdasar.6011_0	6011.0	6011.0	6011.0	CD	NUMBER	6011.0	6011.0				
+16	3	fb:cell_persen_tidak_berdasar.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+16	4	fb:cell_nomor_didirikan.59914_0	59914.0	59914.0	59914.0	CD	NUMBER	59914.0	59914.0				
+16	5	fb:cell_tingkat_didirikan.428_7	428.7	428.7	428.7	CD	NUMBER	428.7	428.7				
+16	6	fb:cell_nomor_yang_dibersihkan.46699_0	46699.0	46699.0	46699.0	CD	NUMBER	46699.0	46699.0				
+16	7	fb:cell_persen_yang_telah_dibersihkan.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+17	0	fb:cell_kharakteristik.ontario_2017	ontario 2017	ontario|2017	ontario|2017	NNP|CD	O|DATE	|2017	2017.0				
+17	1	fb:cell_nomor_yang_dilaporkan.67830_0	67830.0	67830.0	67830.0	CD	NUMBER	67830.0	67830.0				
+17	2	fb:cell_nomor_tidak_berdasar.5313_0	5313.0	5313.0	5313.0	CD	NUMBER	5313.0	5313.0				
+17	3	fb:cell_persen_tidak_berdasar.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+17	4	fb:cell_nomor_didirikan.62517_0	62517.0	62517.0	62517.0	CD	NUMBER	62517.0	62517.0				
+17	5	fb:cell_tingkat_didirikan.440_5	440.5	440.5	440.5	CD	NUMBER	440.5	440.5				
+17	6	fb:cell_nomor_yang_dibersihkan.47708_0	47708.0	47708.0	47708.0	CD	NUMBER	47708.0	47708.0				
+17	7	fb:cell_persen_yang_telah_dibersihkan.76_3	76.3	76.3	76.3	CD	NUMBER	76.3	76.3				
+18	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+18	1	fb:cell_nomor_yang_dilaporkan.null											
+18	2	fb:cell_nomor_tidak_berdasar.null											
+18	3	fb:cell_persen_tidak_berdasar.null											
+18	4	fb:cell_nomor_didirikan.null											
+18	5	fb:cell_tingkat_didirikan.null											
+18	6	fb:cell_nomor_yang_dibersihkan.null											
+18	7	fb:cell_persen_yang_telah_dibersihkan.null											
+19	0	fb:cell_kharakteristik.manitoba_2016	manitoba 2016	manitoba|2016	manitoba|2016	NNP|CD	LOCATION|DATE	|2016	2016.0				
+19	1	fb:cell_nomor_yang_dilaporkan.18697_0	18697.0	18697.0	18697.0	CD	NUMBER	18697.0	18697.0				
+19	2	fb:cell_nomor_tidak_berdasar.2710_0	2710.0	2710.0	2710.0	CD	NUMBER	2710.0	2710.0				
+19	3	fb:cell_persen_tidak_berdasar.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+19	4	fb:cell_nomor_didirikan.15987_0	15987.0	15987.0	15987.0	CD	NUMBER	15987.0	15987.0				
+19	5	fb:cell_tingkat_didirikan.1212_9	1212.9	1212.9	1212.9	CD	NUMBER	1212.9	1212.9				
+19	6	fb:cell_nomor_yang_dibersihkan.13266_0	13266.0	13266.0	13266.0	CD	NUMBER	13266.0	13266.0				
+19	7	fb:cell_persen_yang_telah_dibersihkan.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+20	0	fb:cell_kharakteristik.manitoba_2017	manitoba 2017	manitoba|2017	manitoba|2017	NNP|CD	LOCATION|DATE	|2017	2017.0				
+20	1	fb:cell_nomor_yang_dilaporkan.18535_0	18535.0	18535.0	18535.0	CD	NUMBER	18535.0	18535.0				
+20	2	fb:cell_nomor_tidak_berdasar.2037_0	2037.0	2037.0	2037.0	CD	NUMBER	2037.0	2037.0				
+20	3	fb:cell_persen_tidak_berdasar.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+20	4	fb:cell_nomor_didirikan.16498_0	16498.0	16498.0	16498.0	CD	NUMBER	16498.0	16498.0				
+20	5	fb:cell_tingkat_didirikan.1232_9	1232.9	1232.9	1232.9	CD	NUMBER	1232.9	1232.9				
+20	6	fb:cell_nomor_yang_dibersihkan.13644_0	13644.0	13644.0	13644.0	CD	NUMBER	13644.0	13644.0				
+20	7	fb:cell_persen_yang_telah_dibersihkan.82_7	82.7	82.7	82.7	CD	NUMBER	82.7	82.7				
+21	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+21	1	fb:cell_nomor_yang_dilaporkan.null											
+21	2	fb:cell_nomor_tidak_berdasar.null											
+21	3	fb:cell_persen_tidak_berdasar.null											
+21	4	fb:cell_nomor_didirikan.null											
+21	5	fb:cell_tingkat_didirikan.null											
+21	6	fb:cell_nomor_yang_dibersihkan.null											
+21	7	fb:cell_persen_yang_telah_dibersihkan.null											
+22	0	fb:cell_kharakteristik.saskatchewan_2016	saskatchewan 2016	saskatchewan|2016	saskatchewan|2016	NNP|CD	O|DATE	|2016	2016.0				
+22	1	fb:cell_nomor_yang_dilaporkan.17104_0	17104.0	17104.0	17104.0	CD	NUMBER	17104.0	17104.0				
+22	2	fb:cell_nomor_tidak_berdasar.2225_0	2225.0	2225.0	2225.0	CD	NUMBER	2225.0	2225.0				
+22	3	fb:cell_persen_tidak_berdasar.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+22	4	fb:cell_nomor_didirikan.14879_0	14879.0	14879.0	14879.0	CD	NUMBER	14879.0	14879.0				
+22	5	fb:cell_tingkat_didirikan.1295_4	1295.4	1295.4	1295.4	CD	NUMBER	1295.4	1295.4				
+22	6	fb:cell_nomor_yang_dibersihkan.11308_0	11308.0	11308.0	11308.0	CD	NUMBER	11308.0	11308.0				
+22	7	fb:cell_persen_yang_telah_dibersihkan.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+23	0	fb:cell_kharakteristik.saskatchewan_2017	saskatchewan 2017	saskatchewan|2017	saskatchewan|2017	NNP|CD	O|DATE	|2017	2017.0				
+23	1	fb:cell_nomor_yang_dilaporkan.16692_0	16692.0	16692.0	16692.0	CD	NUMBER	16692.0	16692.0				
+23	2	fb:cell_nomor_tidak_berdasar.1694_0	1694.0	1694.0	1694.0	CD	NUMBER	1694.0	1694.0				
+23	3	fb:cell_persen_tidak_berdasar.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+23	4	fb:cell_nomor_didirikan.14998_0	14998.0	14998.0	14998.0	CD	NUMBER	14998.0	14998.0				
+23	5	fb:cell_tingkat_didirikan.1288_6	1288.6	1288.6	1288.6	CD	NUMBER	1288.6	1288.6				
+23	6	fb:cell_nomor_yang_dibersihkan.11413_0	11413.0	11413.0	11413.0	CD	NUMBER	11413.0	11413.0				
+23	7	fb:cell_persen_yang_telah_dibersihkan.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+24	0	fb:cell_kharakteristik.alberta	alberta	alberta	alberta	NNP	O						
+24	1	fb:cell_nomor_yang_dilaporkan.null											
+24	2	fb:cell_nomor_tidak_berdasar.null											
+24	3	fb:cell_persen_tidak_berdasar.null											
+24	4	fb:cell_nomor_didirikan.null											
+24	5	fb:cell_tingkat_didirikan.null											
+24	6	fb:cell_nomor_yang_dibersihkan.null											
+24	7	fb:cell_persen_yang_telah_dibersihkan.null											
+25	0	fb:cell_kharakteristik.alberta_2016	alberta 2016	alberta|2016	alberta|2016	NNP|CD	O|DATE	|2016	2016.0				
+25	1	fb:cell_nomor_yang_dilaporkan.36958_0	36958.0	36958.0	36958.0	CD	NUMBER	36958.0	36958.0				
+25	2	fb:cell_nomor_tidak_berdasar.5749_0	5749.0	5749.0	5749.0	CD	NUMBER	5749.0	5749.0				
+25	3	fb:cell_persen_tidak_berdasar.15_6	15.6	15.6	15.6	CD	NUMBER	15.6	15.6				
+25	4	fb:cell_nomor_didirikan.31209_0	31209.0	31209.0	31209.0	CD	NUMBER	31209.0	31209.0				
+25	5	fb:cell_tingkat_didirikan.736_7	736.7	736.7	736.7	CD	NUMBER	736.7	736.7				
+25	6	fb:cell_nomor_yang_dibersihkan.23986_0	23986.0	23986.0	23986.0	CD	NUMBER	23986.0	23986.0				
+25	7	fb:cell_persen_yang_telah_dibersihkan.76_9	76.9	76.9	76.9	CD	NUMBER	76.9	76.9				
+26	0	fb:cell_kharakteristik.alberta_2017	alberta 2017	alberta|2017	alberta|2017	NNP|CD	O|DATE	|2017	2017.0				
+26	1	fb:cell_nomor_yang_dilaporkan.36390_0	36390.0	36390.0	36390.0	CD	NUMBER	36390.0	36390.0				
+26	2	fb:cell_nomor_tidak_berdasar.4511_0	4511.0	4511.0	4511.0	CD	NUMBER	4511.0	4511.0				
+26	3	fb:cell_persen_tidak_berdasar.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+26	4	fb:cell_nomor_didirikan.31879_0	31879.0	31879.0	31879.0	CD	NUMBER	31879.0	31879.0				
+26	5	fb:cell_tingkat_didirikan.743_8	743.8	743.8	743.8	CD	NUMBER	743.8	743.8				
+26	6	fb:cell_nomor_yang_dibersihkan.22954_0	22954.0	22954.0	22954.0	CD	NUMBER	22954.0	22954.0				
+26	7	fb:cell_persen_yang_telah_dibersihkan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+27	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+27	1	fb:cell_nomor_yang_dilaporkan.null											
+27	2	fb:cell_nomor_tidak_berdasar.null											
+27	3	fb:cell_persen_tidak_berdasar.null											
+27	4	fb:cell_nomor_didirikan.null											
+27	5	fb:cell_tingkat_didirikan.null											
+27	6	fb:cell_nomor_yang_dibersihkan.null											
+27	7	fb:cell_persen_yang_telah_dibersihkan.null											
+28	0	fb:cell_kharakteristik.columbia_inggris_2016	columbia inggris 2016	columbia|inggris|2016	columbia|inggris|2016	NNP|NNP|CD	O|O|DATE	||2016	2016.0				
+28	1	fb:cell_nomor_yang_dilaporkan.31420_0	31420.0	31420.0	31420.0	CD	NUMBER	31420.0	31420.0				
+28	2	fb:cell_nomor_tidak_berdasar.3343_0	3343.0	3343.0	3343.0	CD	NUMBER	3343.0	3343.0				
+28	3	fb:cell_persen_tidak_berdasar.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+28	4	fb:cell_nomor_didirikan.28077_0	28077.0	28077.0	28077.0	CD	NUMBER	28077.0	28077.0				
+28	5	fb:cell_tingkat_didirikan.590_1	590.1	590.1	590.1	CD	NUMBER	590.1	590.1				
+28	6	fb:cell_nomor_yang_dibersihkan.19663_0	19663.0	19663.0	19663.0	CD	NUMBER	19663.0	19663.0				
+28	7	fb:cell_persen_yang_telah_dibersihkan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+29	0	fb:cell_kharakteristik.columbia_inggris_2017	columbia inggris 2017	columbia|inggris|2017	columbia|inggris|2017	NNP|NNP|CD	O|O|DATE	||2017	2017.0				
+29	1	fb:cell_nomor_yang_dilaporkan.30617_0	30617.0	30617.0	30617.0	CD	NUMBER	30617.0	30617.0				
+29	2	fb:cell_nomor_tidak_berdasar.2929_0	2929.0	2929.0	2929.0	CD	NUMBER	2929.0	2929.0				
+29	3	fb:cell_persen_tidak_berdasar.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+29	4	fb:cell_nomor_didirikan.27688_0	27688.0	27688.0	27688.0	CD	NUMBER	27688.0	27688.0				
+29	5	fb:cell_tingkat_didirikan.574_8	574.8	574.8	574.8	CD	NUMBER	574.8	574.8				
+29	6	fb:cell_nomor_yang_dibersihkan.19086_0	19086.0	19086.0	19086.0	CD	NUMBER	19086.0	19086.0				
+29	7	fb:cell_persen_yang_telah_dibersihkan.68_9	68.9	68.9	68.9	CD	NUMBER	68.9	68.9				
+30	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+30	1	fb:cell_nomor_yang_dilaporkan.null											
+30	2	fb:cell_nomor_tidak_berdasar.null											
+30	3	fb:cell_persen_tidak_berdasar.null											
+30	4	fb:cell_nomor_didirikan.null											
+30	5	fb:cell_tingkat_didirikan.null											
+30	6	fb:cell_nomor_yang_dibersihkan.null											
+30	7	fb:cell_persen_yang_telah_dibersihkan.null											
+31	0	fb:cell_kharakteristik.yukon_2016	Yukon 2016	yukon|2016	Yukon|2016	NNP|CD	O|DATE	|2016	2016.0				
+31	1	fb:cell_nomor_yang_dilaporkan.1218_0	1218.0	1218.0	1218.0	CD	NUMBER	1218.0	1218.0				
+31	2	fb:cell_nomor_tidak_berdasar.237_0	237.0	237.0	237.0	CD	NUMBER	237.0	237.0				
+31	3	fb:cell_persen_tidak_berdasar.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+31	4	fb:cell_nomor_didirikan.981_0	981.0	981.0	981.0	CD	NUMBER	981.0	981.0				
+31	5	fb:cell_tingkat_didirikan.2575_7	2575.7	2575.7	2575.7	CD	NUMBER	2575.7	2575.7				
+31	6	fb:cell_nomor_yang_dibersihkan.776_0	776.0	776.0	776.0	CD	NUMBER	776.0	776.0				
+31	7	fb:cell_persen_yang_telah_dibersihkan.79_1	79.1	79.1	79.1	CD	NUMBER	79.1	79.1				
+32	0	fb:cell_kharakteristik.yukon_2017	Yukon 2017	yukon|2017	Yukon|2017	NNP|CD	O|DATE	|2017	2017.0				
+32	1	fb:cell_nomor_yang_dilaporkan.1085_0	1085.0	1085.0	1085.0	CD	NUMBER	1085.0	1085.0				
+32	2	fb:cell_nomor_tidak_berdasar.186_0	186.0	186.0	186.0	CD	NUMBER	186.0	186.0				
+32	3	fb:cell_persen_tidak_berdasar.17_1	17.1	17.1	17.1	CD	NUMBER	17.1	17.1				
+32	4	fb:cell_nomor_didirikan.899_0	899.0	899.0	899.0	CD	NUMBER	899.0	899.0				
+32	5	fb:cell_tingkat_didirikan.2337_6	2337.6	2337.6	2337.6	CD	NUMBER	2337.6	2337.6				
+32	6	fb:cell_nomor_yang_dibersihkan.732_0	732.0	732.0	732.0	CD	NUMBER	732.0	732.0				
+32	7	fb:cell_persen_yang_telah_dibersihkan.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+33	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+33	1	fb:cell_nomor_yang_dilaporkan.null											
+33	2	fb:cell_nomor_tidak_berdasar.null											
+33	3	fb:cell_persen_tidak_berdasar.null											
+33	4	fb:cell_nomor_didirikan.null											
+33	5	fb:cell_tingkat_didirikan.null											
+33	6	fb:cell_nomor_yang_dibersihkan.null											
+33	7	fb:cell_persen_yang_telah_dibersihkan.null											
+34	0	fb:cell_kharakteristik.wilayah_barat_laut_2016	wilayah barat laut 2016	wilayah|barat|laut|2016	wilayah|barat|laut|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016	2016.0				
+34	1	fb:cell_nomor_yang_dilaporkan.3228_0	3228.0	3228.0	3228.0	CD	NUMBER	3228.0	3228.0				
+34	2	fb:cell_nomor_tidak_berdasar.864_0	864.0	864.0	864.0	CD	NUMBER	864.0	864.0				
+34	3	fb:cell_persen_tidak_berdasar.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+34	4	fb:cell_nomor_didirikan.2364_0	2364.0	2364.0	2364.0	CD	NUMBER	2364.0	2364.0				
+34	5	fb:cell_tingkat_didirikan.5298_4	5298.4	5298.4	5298.4	CD	NUMBER	5298.4	5298.4				
+34	6	fb:cell_nomor_yang_dibersihkan.1921_0	1921.0	1921.0	1921.0	CD	NUMBER	1921.0	1921.0				
+34	7	fb:cell_persen_yang_telah_dibersihkan.81_3	81.3	81.3	81.3	CD	NUMBER	81.3	81.3				
+35	0	fb:cell_kharakteristik.wilayah_barat_laut_2017	wilayah barat laut 2017	wilayah|barat|laut|2017	wilayah|barat|laut|2017	NNP|NNP|NNP|CD	O|O|O|DATE	|||2017	2017.0				
+35	1	fb:cell_nomor_yang_dilaporkan.3159_0	3159.0	3159.0	3159.0	CD	NUMBER	3159.0	3159.0				
+35	2	fb:cell_nomor_tidak_berdasar.547_0	547.0	547.0	547.0	CD	NUMBER	547.0	547.0				
+35	3	fb:cell_persen_tidak_berdasar.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+35	4	fb:cell_nomor_didirikan.2612_0	2612.0	2612.0	2612.0	CD	NUMBER	2612.0	2612.0				
+35	5	fb:cell_tingkat_didirikan.5867_0	5867.0	5867.0	5867.0	CD	NUMBER	5867.0	5867.0				
+35	6	fb:cell_nomor_yang_dibersihkan.2140_0	2140.0	2140.0	2140.0	CD	NUMBER	2140.0	2140.0				
+35	7	fb:cell_persen_yang_telah_dibersihkan.81_9	81.9	81.9	81.9	CD	NUMBER	81.9	81.9				
+36	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+36	1	fb:cell_nomor_yang_dilaporkan.null											
+36	2	fb:cell_nomor_tidak_berdasar.null											
+36	3	fb:cell_persen_tidak_berdasar.null											
+36	4	fb:cell_nomor_didirikan.null											
+36	5	fb:cell_tingkat_didirikan.null											
+36	6	fb:cell_nomor_yang_dibersihkan.null											
+36	7	fb:cell_persen_yang_telah_dibersihkan.null											
+37	0	fb:cell_kharakteristik.nunavut_2016	nunavut 2016	nunavut|2016	nunavut|2016	NNP|CD	O|DATE	|2016	2016.0				
+37	1	fb:cell_nomor_yang_dilaporkan.2477_0	2477.0	2477.0	2477.0	CD	NUMBER	2477.0	2477.0				
+37	2	fb:cell_nomor_tidak_berdasar.490_0	490.0	490.0	490.0	CD	NUMBER	490.0	490.0				
+37	3	fb:cell_persen_tidak_berdasar.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+37	4	fb:cell_nomor_didirikan.1987_0	1987.0	1987.0	1987.0	CD	NUMBER	1987.0	1987.0				
+37	5	fb:cell_tingkat_didirikan.5344_7	5344.7	5344.7	5344.7	CD	NUMBER	5344.7	5344.7				
+37	6	fb:cell_nomor_yang_dibersihkan.1837_0	1837.0	1837.0	1837.0	CD	NUMBER	1837.0	1837.0				
+37	7	fb:cell_persen_yang_telah_dibersihkan.92_5	92.5	92.5	92.5	CD	NUMBER	92.5	92.5				
+38	0	fb:cell_kharakteristik.nunavut_2017	nunavut 2017	nunavut|2017	nunavut|2017	NNP|CD	O|DATE	|2017	2017.0				
+38	1	fb:cell_nomor_yang_dilaporkan.2482_0	2482.0	2482.0	2482.0	CD	NUMBER	2482.0	2482.0				
+38	2	fb:cell_nomor_tidak_berdasar.420_0	420.0	420.0	420.0	CD	NUMBER	420.0	420.0				
+38	3	fb:cell_persen_tidak_berdasar.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+38	4	fb:cell_nomor_didirikan.2062_0	2062.0	2062.0	2062.0	CD	NUMBER	2062.0	2062.0				
+38	5	fb:cell_tingkat_didirikan.5426_9	5426.9	5426.9	5426.9	CD	NUMBER	5426.9	5426.9				
+38	6	fb:cell_nomor_yang_dibersihkan.1835_0	1835.0	1835.0	1835.0	CD	NUMBER	1835.0	1835.0				
+38	7	fb:cell_persen_yang_telah_dibersihkan.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+39	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+39	1	fb:cell_nomor_yang_dilaporkan.null											
+39	2	fb:cell_nomor_tidak_berdasar.null											
+39	3	fb:cell_persen_tidak_berdasar.null											
+39	4	fb:cell_nomor_didirikan.null											
+39	5	fb:cell_tingkat_didirikan.null											
+39	6	fb:cell_nomor_yang_dibersihkan.null											
+39	7	fb:cell_persen_yang_telah_dibersihkan.null											
+40	0	fb:cell_kharakteristik.kanada_2016	Kanada 2016	kanada|2016	Kanada|2016	NNP|CD	O|DATE	|2016	2016.0				
+40	1	fb:cell_nomor_yang_dilaporkan.240597_0	240597.0	240597.0	240597.0	CD	NUMBER	240597.0	240597.0				
+40	2	fb:cell_nomor_tidak_berdasar.27594_0	27594.0	27594.0	27594.0	CD	NUMBER	27594.0	27594.0				
+40	3	fb:cell_persen_tidak_berdasar.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+40	4	fb:cell_nomor_didirikan.213003_0	213003.0	213003.0	213003.0	CD	NUMBER	213003.0	213003.0				
+40	5	fb:cell_tingkat_didirikan.587_4	587.4	587.4	587.4	CD	NUMBER	587.4	587.4				
+40	6	fb:cell_nomor_yang_dibersihkan.165068_0	165068.0	165068.0	165068.0	CD	NUMBER	165068.0	165068.0				
+40	7	fb:cell_persen_yang_telah_dibersihkan.77_5	77.5	77.5	77.5	CD	NUMBER	77.5	77.5				
+41	0	fb:cell_kharakteristik.kanada_2017	Kanada 2017	kanada|2017	Kanada|2017	NNP|CD	O|DATE	|2017	2017.0				
+41	1	fb:cell_nomor_yang_dilaporkan.240947_0	240947.0	240947.0	240947.0	CD	NUMBER	240947.0	240947.0				
+41	2	fb:cell_nomor_tidak_berdasar.22519_0	22519.0	22519.0	22519.0	CD	NUMBER	22519.0	22519.0				
+41	3	fb:cell_persen_tidak_berdasar.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+41	4	fb:cell_nomor_didirikan.218428_0	218428.0	218428.0	218428.0	CD	NUMBER	218428.0	218428.0				
+41	5	fb:cell_tingkat_didirikan.595_0	595.0	595.0	595.0	CD	NUMBER	595.0	595.0				
+41	6	fb:cell_nomor_yang_dibersihkan.165888_0	165888.0	165888.0	165888.0	CD	NUMBER	165888.0	165888.0				
+41	7	fb:cell_persen_yang_telah_dibersihkan.75_9	75.9	75.9	75.9	CD	NUMBER	75.9	75.9				

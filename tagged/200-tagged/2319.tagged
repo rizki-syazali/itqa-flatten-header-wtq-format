@@ -1,0 +1,163 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pekerja_nomor_1996	pekerja nomor 1996	pekerja|nomor|1996	pekerja|nomor|1996	NN|NN|CD	O|O|DATE	||1996					
+-1	2	fb:row.row.nomor_pekerja_2016	nomor pekerja 2016	nomor|pekerja|2016	nomor|pekerja|2016	NN|NN|CD	O|O|DATE	||2016					
+-1	3	fb:row.row.persen_perubahan_jumlah_pekerja_1996_ke_2016_persen	persen perubahan jumlah pekerja 1996 ke 2016 persen	persen|perubahan|jumlah|pekerja|1996|ke|2016|persen	persen|perubahan|jumlah|pekerja|1996|ke|2016|persen	NNP|NNP|NNP|NNP|CD|NNP|CD|NNP	O|O|O|O|DATE|O|DATE|O	||||1996||2016|					
+-1	4	fb:row.row.proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen	proporsi pekerja berusia 55 tahun ke atas pada tahun 1996 persen	proporsi|pekerja|berusia|55|tahun|ke|atas|pada|tahun|1996|persen	proporsi|pekerja|berusia|55|tahun|ke|atas|pada|tahun|1996|persen	NN|NN|NN|CD|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|NUMBER|O|O|O|O|O|DATE|O	|||55.0||||||1996|					
+-1	5	fb:row.row.proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen	proporsi pekerja berusia 55 tahun ke atas pada tahun 2016 persen	proporsi|pekerja|berusia|55|tahun|ke|atas|pada|tahun|2016|persen	proporsi|pekerja|berusia|55|tahun|ke|atas|pada|tahun|2016|persen	NN|NN|NN|CD|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|NUMBER|O|O|O|O|O|DATE|O	|||55.0||||||2016|					
+0	0	fb:cell_kharakteristik.pekerjaan	pekerjaan	pekerjaan	pekerjaan	NNP	O						
+0	1	fb:cell_pekerja_nomor_1996.null											
+0	2	fb:cell_nomor_pekerja_2016.null											
+0	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.null											
+0	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.null											
+0	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.null											
+1	0	fb:cell_kharakteristik.asisten_eksekutif_pekerjaan	asisten eksekutif pekerjaan	asisten|eksekutif|pekerjaan	asisten|eksekutif|pekerjaan	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_pekerja_nomor_1996.11300_0	11300.0	11300.0	11300.0	CD	NUMBER	11300.0	11300.0				
+1	2	fb:cell_nomor_pekerja_2016.43600_0	43600.0	43600.0	43600.0	CD	NUMBER	43600.0	43600.0				
+1	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.286_0	286.0	286.0	286.0	CD	NUMBER	286.0	286.0				
+1	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+1	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+2	0	fb:cell_kharakteristik.pekerjaan_ahli_kecantikan_ahli_elektrologi_dan_pekerjaan_terkait	pekerjaan ahli kecantikan, ahli elektrologi dan pekerjaan terkait	pekerjaan|ahli|kecantikan|,|ahli|elektrologi|dan|pekerjaan|terkait	pekerjaan|ahli|kecantikan|,|ahli|elektrologi|dan|pekerjaan|terkait	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|O|O|O|O|O|O	||||||||				pekerjaan ahli kecantikan|ahli elektrologi dan pekerjaan terkait	fb:part_kharakteristik.pekerjaan_ahli_kecantikan|fb:part_kharakteristik.ahli_elektrologi_dan_pekerjaan_terkait
+2	1	fb:cell_pekerja_nomor_1996.15100_0	15100.0	15100.0	15100.0	CD	NUMBER	15100.0	15100.0				
+2	2	fb:cell_nomor_pekerja_2016.57800_0	57800.0	57800.0	57800.0	CD	NUMBER	57800.0	57800.0				
+2	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.284_0	284.0	284.0	284.0	CD	NUMBER	284.0	284.0				
+2	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+2	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+3	0	fb:cell_kharakteristik.pekerjaan_pekerjaan_profesional_di_bidang_periklanan_pemasaran_dan_hubungan_masyarakat	pekerjaan pekerjaan profesional di bidang periklanan, pemasaran dan hubungan masyarakat	pekerjaan|pekerjaan|profesional|di|bidang|periklanan|,|pemasaran|dan|hubungan|masyarakat	pekerjaan|pekerjaan|profesional|di|bidang|periklanan|,|pemasaran|dan|hubungan|masyarakat	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				pekerjaan pekerjaan profesional di bidang periklanan|pemasaran dan hubungan masyarakat	fb:part_kharakteristik.pekerjaan_pekerjaan_profesional_di_bidang_periklanan|fb:part_kharakteristik.pemasaran_dan_hubungan_masyarakat
+3	1	fb:cell_pekerja_nomor_1996.25300_0	25300.0	25300.0	25300.0	CD	NUMBER	25300.0	25300.0				
+3	2	fb:cell_nomor_pekerja_2016.89900_0	89900.0	89900.0	89900.0	CD	NUMBER	89900.0	89900.0				
+3	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.256_0	256.0	256.0	256.0	CD	NUMBER	256.0	256.0				
+3	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+3	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+4	0	fb:cell_kharakteristik.pekerjaan_manajer_komputer_dan_sistem_informasi	pekerjaan manajer komputer dan sistem informasi	pekerjaan|manajer|komputer|dan|sistem|informasi	pekerjaan|manajer|komputer|dan|sistem|informasi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+4	1	fb:cell_pekerja_nomor_1996.20100_0	20100.0	20100.0	20100.0	CD	NUMBER	20100.0	20100.0				
+4	2	fb:cell_nomor_pekerja_2016.62200_0	62200.0	62200.0	62200.0	CD	NUMBER	62200.0	62200.0				
+4	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.209_0	209.0	209.0	209.0	CD	NUMBER	209.0	209.0				
+4	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.15_6	15.6	15.6	15.6	CD	NUMBER	15.6	15.6				
+5	0	fb:cell_kharakteristik.pengawas_pekerjaan_di_bidang_kesehatan_masyarakat_dan_lingkungan_serta_kesehatan_dan_keselamatan_kerja	pengawas pekerjaan di bidang kesehatan masyarakat dan lingkungan serta kesehatan dan keselamatan kerja	pengawas|pekerjaan|di|bidang|kesehatan|masyarakat|dan|lingkungan|serta|kesehatan|dan|keselamatan|kerja	pengawas|pekerjaan|di|bidang|kesehatan|masyarakat|dan|lingkungan|serta|kesehatan|dan|keselamatan|kerja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+5	1	fb:cell_pekerja_nomor_1996.10200_0	10200.0	10200.0	10200.0	CD	NUMBER	10200.0	10200.0				
+5	2	fb:cell_nomor_pekerja_2016.31300_0	31300.0	31300.0	31300.0	CD	NUMBER	31300.0	31300.0				
+5	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.207_0	207.0	207.0	207.0	CD	NUMBER	207.0	207.0				
+5	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+5	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+6	0	fb:cell_kharakteristik.pekerjaan_pekerja_sosial_dan_layanan_masyarakat	pekerjaan pekerja sosial dan layanan masyarakat	pekerjaan|pekerja|sosial|dan|layanan|masyarakat	pekerjaan|pekerja|sosial|dan|layanan|masyarakat	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+6	1	fb:cell_pekerja_nomor_1996.48200_0	48200.0	48200.0	48200.0	CD	NUMBER	48200.0	48200.0				
+6	2	fb:cell_nomor_pekerja_2016.139800_0	139800.0	139800.0	139800.0	CD	NUMBER	139800.0	139800.0				
+6	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.190_0	190.0	190.0	190.0	CD	NUMBER	190.0	190.0				
+6	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+6	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.17_9	17.9	17.9	17.9	CD	NUMBER	17.9	17.9				
+7	0	fb:cell_kharakteristik.pekerjaan_koki	pekerjaan koki	pekerjaan|koki	pekerjaan|koki	NNP|NNP	O|O	|					
+7	1	fb:cell_pekerja_nomor_1996.20500_0	20500.0	20500.0	20500.0	CD	NUMBER	20500.0	20500.0				
+7	2	fb:cell_nomor_pekerja_2016.59000_0	59000.0	59000.0	59000.0	CD	NUMBER	59000.0	59000.0				
+7	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.188_0	188.0	188.0	188.0	CD	NUMBER	188.0	188.0				
+7	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+7	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+8	0	fb:cell_kharakteristik.analis_keuangan_dan_investasi_pekerjaan	analis keuangan dan investasi pekerjaan	analis|keuangan|dan|investasi|pekerjaan	analis|keuangan|dan|investasi|pekerjaan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+8	1	fb:cell_pekerja_nomor_1996.18900_0	18900.0	18900.0	18900.0	CD	NUMBER	18900.0	18900.0				
+8	2	fb:cell_nomor_pekerja_2016.51600_0	51600.0	51600.0	51600.0	CD	NUMBER	51600.0	51600.0				
+8	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.173_0	173.0	173.0	173.0	CD	NUMBER	173.0	173.0				
+8	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+8	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+9	0	fb:cell_kharakteristik.pekerjaan_sumber_daya_manusia_yang_profesional	pekerjaan sumber daya manusia yang profesional	pekerjaan|sumber|daya|manusia|yang|profesional	pekerjaan|sumber|daya|manusia|yang|profesional	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+9	1	fb:cell_pekerja_nomor_1996.26800_0	26800.0	26800.0	26800.0	CD	NUMBER	26800.0	26800.0				
+9	2	fb:cell_nomor_pekerja_2016.72300_0	72300.0	72300.0	72300.0	CD	NUMBER	72300.0	72300.0				
+9	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.170_0	170.0	170.0	170.0	CD	NUMBER	170.0	170.0				
+9	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+9	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+10	0	fb:cell_kharakteristik.pekerjaan_pengawas_layanan_makanan	pekerjaan pengawas layanan makanan	pekerjaan|pengawas|layanan|makanan	pekerjaan|pengawas|layanan|makanan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_pekerja_nomor_1996.15300_0	15300.0	15300.0	15300.0	CD	NUMBER	15300.0	15300.0				
+10	2	fb:cell_nomor_pekerja_2016.40400_0	40400.0	40400.0	40400.0	CD	NUMBER	40400.0	40400.0				
+10	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.164_0	164.0	164.0	164.0	CD	NUMBER	164.0	164.0				
+10	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+10	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+11	0	fb:cell_kharakteristik.petugas_administrasi_pendudukan	petugas administrasi pendudukan	petugas|administrasi|pendudukan	petugas|administrasi|pendudukan	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_pekerja_nomor_1996.100100_0	100100.0	100100.0	100100.0	CD	NUMBER	100100.0	100100.0				
+11	2	fb:cell_nomor_pekerja_2016.260500_0	260500.0	260500.0	260500.0	CD	NUMBER	260500.0	260500.0				
+11	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.160_0	160.0	160.0	160.0	CD	NUMBER	160.0	160.0				
+11	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+11	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+12	0	fb:cell_kharakteristik.perwakilan_penjualan_keuangan_pekerjaan	perwakilan penjualan keuangan pekerjaan	perwakilan|penjualan|keuangan|pekerjaan	perwakilan|penjualan|keuangan|pekerjaan	JJ|NN|NN|NN	O|O|O|O	|||					
+12	1	fb:cell_pekerja_nomor_1996.24200_0	24200.0	24200.0	24200.0	CD	NUMBER	24200.0	24200.0				
+12	2	fb:cell_nomor_pekerja_2016.60500_0	60500.0	60500.0	60500.0	CD	NUMBER	60500.0	60500.0				
+12	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.151_0	151.0	151.0	151.0	CD	NUMBER	151.0	151.0				
+12	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+12	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+13	0	fb:cell_kharakteristik.pekerjaan_pasca_sekolah_menengah_dan_asisten_peneliti	pekerjaan pasca-sekolah menengah dan asisten peneliti	pekerjaan|pasca|sekolah|menengah|dan|asisten|peneliti	pekerjaan|pasca|sekolah|menengah|dan|asisten|peneliti	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+13	1	fb:cell_pekerja_nomor_1996.24900_0	24900.0	24900.0	24900.0	CD	NUMBER	24900.0	24900.0				
+13	2	fb:cell_nomor_pekerja_2016.62300_0	62300.0	62300.0	62300.0	CD	NUMBER	62300.0	62300.0				
+13	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.150_0	150.0	150.0	150.0	CD	NUMBER	150.0	150.0				
+13	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+13	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+14	0	fb:cell_kharakteristik.petugas_pengembangan_bisnis_pekerjaan_dan_peneliti_dan_konsultan_pemasaran	petugas pengembangan bisnis pekerjaan dan peneliti dan konsultan pemasaran	petugas|pengembangan|bisnis|pekerjaan|dan|peneliti|dan|konsultan|pemasaran	petugas|pengembangan|bisnis|pekerjaan|dan|peneliti|dan|konsultan|pemasaran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+14	1	fb:cell_pekerja_nomor_1996.25900_0	25900.0	25900.0	25900.0	CD	NUMBER	25900.0	25900.0				
+14	2	fb:cell_nomor_pekerja_2016.62900_0	62900.0	62900.0	62900.0	CD	NUMBER	62900.0	62900.0				
+14	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.143_0	143.0	143.0	143.0	CD	NUMBER	143.0	143.0				
+14	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+14	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.15_5	15.5	15.5	15.5	CD	NUMBER	15.5	15.5				
+15	0	fb:cell_kharakteristik.pekerjaan_pendidik_dan_asisten_anak_usia_dini	pekerjaan pendidik dan asisten anak usia dini	pekerjaan|pendidik|dan|asisten|anak|usia|dini	pekerjaan|pendidik|dan|asisten|anak|usia|dini	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|ORGANIZATION|O	||||||					
+15	1	fb:cell_pekerja_nomor_1996.79900_0	79900.0	79900.0	79900.0	CD	NUMBER	79900.0	79900.0				
+15	2	fb:cell_nomor_pekerja_2016.193600_0	193600.0	193600.0	193600.0	CD	NUMBER	193600.0	193600.0				
+15	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.142_0	142.0	142.0	142.0	CD	NUMBER	142.0	142.0				
+15	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+15	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+16	0	fb:cell_kharakteristik.agen_dan_petugas_pembelian_pekerjaan	agen dan petugas pembelian pekerjaan	agen|dan|petugas|pembelian|pekerjaan	agen|dan|petugas|pembelian|pekerjaan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+16	1	fb:cell_pekerja_nomor_1996.18500_0	18500.0	18500.0	18500.0	CD	NUMBER	18500.0	18500.0				
+16	2	fb:cell_nomor_pekerja_2016.44300_0	44300.0	44300.0	44300.0	CD	NUMBER	44300.0	44300.0				
+16	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.139_0	139.0	139.0	139.0	CD	NUMBER	139.0	139.0				
+16	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+16	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+17	0	fb:cell_kharakteristik.sumber_daya_manusia_pendudukan_dan_petugas_rekrutmen	sumber daya manusia pendudukan dan petugas rekrutmen	sumber|daya|manusia|pendudukan|dan|petugas|rekrutmen	sumber|daya|manusia|pendudukan|dan|petugas|rekrutmen	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+17	1	fb:cell_pekerja_nomor_1996.12900_0	12900.0	12900.0	12900.0	CD	NUMBER	12900.0	12900.0				
+17	2	fb:cell_nomor_pekerja_2016.30600_0	30600.0	30600.0	30600.0	CD	NUMBER	30600.0	30600.0				
+17	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.137_0	137.0	137.0	137.0	CD	NUMBER	137.0	137.0				
+17	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+17	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+18	0	fb:cell_kharakteristik.pekerjaan_ahli_kesehatan_gigi_dan_terapis_gigi	pekerjaan ahli kesehatan gigi dan terapis gigi	pekerjaan|ahli|kesehatan|gigi|dan|terapis|gigi	pekerjaan|ahli|kesehatan|gigi|dan|terapis|gigi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON|PERSON|PERSON	||||||					
+18	1	fb:cell_pekerja_nomor_1996.11100_0	11100.0	11100.0	11100.0	CD	NUMBER	11100.0	11100.0				
+18	2	fb:cell_nomor_pekerja_2016.26100_0	26100.0	26100.0	26100.0	CD	NUMBER	26100.0	26100.0				
+18	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.136_0	136.0	136.0	136.0	CD	NUMBER	136.0	136.0				
+18	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+18	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+19	0	fb:cell_kharakteristik.pekerjaan_pemasang_dan_penyedia_layanan_perumahan_dan_komersial	pekerjaan pemasang dan penyedia layanan perumahan dan komersial	pekerjaan|pemasang|dan|penyedia|layanan|perumahan|dan|komersial	pekerjaan|pemasang|dan|penyedia|layanan|perumahan|dan|komersial	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||					
+19	1	fb:cell_pekerja_nomor_1996.19800_0	19800.0	19800.0	19800.0	CD	NUMBER	19800.0	19800.0				
+19	2	fb:cell_nomor_pekerja_2016.46400_0	46400.0	46400.0	46400.0	CD	NUMBER	46400.0	46400.0				
+19	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.135_0	135.0	135.0	135.0	CD	NUMBER	135.0	135.0				
+19	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+19	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.18_1	18.1	18.1	18.1	CD	NUMBER	18.1	18.1				
+20	0	fb:cell_kharakteristik.pekerjaan_pekerjaan_profesional_dalam_konsultasi_manajemen_bisnis	pekerjaan pekerjaan profesional dalam konsultasi manajemen bisnis	pekerjaan|pekerjaan|profesional|dalam|konsultasi|manajemen|bisnis	pekerjaan|pekerjaan|profesional|dalam|konsultasi|manajemen|bisnis	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+20	1	fb:cell_pekerja_nomor_1996.35200_0	35200.0	35200.0	35200.0	CD	NUMBER	35200.0	35200.0				
+20	2	fb:cell_nomor_pekerja_2016.78300_0	78300.0	78300.0	78300.0	CD	NUMBER	78300.0	78300.0				
+20	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.123_0	123.0	123.0	123.0	CD	NUMBER	123.0	123.0				
+20	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+20	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+21	0	fb:cell_kharakteristik.pemimpin_program_pekerjaan_dan_instruktur_dalam_rekreasi_olahraga_dan_kebugaran	pemimpin program pekerjaan dan instruktur dalam rekreasi, olahraga dan kebugaran	pemimpin|program|pekerjaan|dan|instruktur|dalam|rekreasi|,|olahraga|dan|kebugaran	pemimpin|program|pekerjaan|dan|instruktur|dalam|rekreasi|,|olahraga|dan|kebugaran	NN|NN|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||				pemimpin program pekerjaan dan instruktur dalam rekreasi|olahraga dan kebugaran	fb:part_kharakteristik.pemimpin_program_pekerjaan_dan_instruktur_dalam_rekreasi|fb:part_kharakteristik.olahraga_dan_kebugaran
+21	1	fb:cell_pekerja_nomor_1996.47000_0	47000.0	47000.0	47000.0	CD	NUMBER	47000.0	47000.0				
+21	2	fb:cell_nomor_pekerja_2016.104700_0	104700.0	104700.0	104700.0	CD	NUMBER	104700.0	104700.0				
+21	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.123_0	123.0	123.0	123.0	CD	NUMBER	123.0	123.0				
+21	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+21	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+22	0	fb:cell_kharakteristik.pekerjaan_manajer_senior_keuangan_komunikasi_dan_layanan_bisnis_lainnya	pekerjaan manajer senior - keuangan, komunikasi dan layanan bisnis lainnya	pekerjaan|manajer|senior|-|keuangan|,|komunikasi|dan|layanan|bisnis|lainnya	pekerjaan|manajer|senior|-|keuangan|,|komunikasi|dan|layanan|bisnis|lainnya	NNP|NNP|JJ|:|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				pekerjaan manajer senior - keuangan|komunikasi dan layanan bisnis lainnya	fb:part_kharakteristik.pekerjaan_manajer_senior_keuangan|fb:part_kharakteristik.komunikasi_dan_layanan_bisnis_lainnya
+22	1	fb:cell_pekerja_nomor_1996.28700_0	28700.0	28700.0	28700.0	CD	NUMBER	28700.0	28700.0				
+22	2	fb:cell_nomor_pekerja_2016.61400_0	61400.0	61400.0	61400.0	CD	NUMBER	61400.0	61400.0				
+22	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.114_0	114.0	114.0	114.0	CD	NUMBER	114.0	114.0				
+22	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.20_2	20.2	20.2	20.2	CD	NUMBER	20.2	20.2				
+22	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.32_4	32.4	32.4	32.4	CD	NUMBER	32.4	32.4				
+23	0	fb:cell_kharakteristik.asisten_perawat_pekerjaan_perawat_dan_rekan_layanan_pasien	asisten perawat pekerjaan, perawat dan rekan layanan pasien	asisten|perawat|pekerjaan|,|perawat|dan|rekan|layanan|pasien	asisten|perawat|pekerjaan|,|perawat|dan|rekan|layanan|pasien	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||				asisten perawat pekerjaan|perawat dan rekan layanan pasien	fb:part_kharakteristik.asisten_perawat_pekerjaan|fb:part_kharakteristik.perawat_dan_rekan_layanan_pasien
+23	1	fb:cell_pekerja_nomor_1996.117500_0	117500.0	117500.0	117500.0	CD	NUMBER	117500.0	117500.0				
+23	2	fb:cell_nomor_pekerja_2016.245500_0	245500.0	245500.0	245500.0	CD	NUMBER	245500.0	245500.0				
+23	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.109_0	109.0	109.0	109.0	CD	NUMBER	109.0	109.0				
+23	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+23	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+24	0	fb:cell_kharakteristik.tukang_listrik_pekerjaan	tukang listrik pekerjaan	tukang|listrik|pekerjaan	tukang|listrik|pekerjaan	NNP|NNP|NNP	O|O|O	||					
+24	1	fb:cell_pekerja_nomor_1996.40100_0	40100.0	40100.0	40100.0	CD	NUMBER	40100.0	40100.0				
+24	2	fb:cell_nomor_pekerja_2016.83700_0	83700.0	83700.0	83700.0	CD	NUMBER	83700.0	83700.0				
+24	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.109_0	109.0	109.0	109.0	CD	NUMBER	109.0	109.0				
+24	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+24	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+25	0	fb:cell_kharakteristik.pekerjaan_asisten_guru_sekolah_dasar_dan_menengah	pekerjaan asisten guru sekolah dasar dan menengah	pekerjaan|asisten|guru|sekolah|dasar|dan|menengah	pekerjaan|asisten|guru|sekolah|dasar|dan|menengah	NNP|NNP|NN|NN|NN|NNP|NNP	O|O|O|O|O|O|O	||||||					
+25	1	fb:cell_pekerja_nomor_1996.57600_0	57600.0	57600.0	57600.0	CD	NUMBER	57600.0	57600.0				
+25	2	fb:cell_nomor_pekerja_2016.119900_0	119900.0	119900.0	119900.0	CD	NUMBER	119900.0	119900.0				
+25	3	fb:cell_persen_perubahan_jumlah_pekerja_1996_ke_2016_persen.108_0	108.0	108.0	108.0	CD	NUMBER	108.0	108.0				
+25	4	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_1996_persen.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+25	5	fb:cell_proporsi_pekerja_berusia_55_tahun_ke_atas_pada_tahun_2016_persen.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				

@@ -1,0 +1,91 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah	jumlah%	jumlah|%	jumlah|%	NNP|NN	O|O	|					
+-1	2	fb:row.row.total_batas_bawah_interval_kepercayaan_95	total batas bawah interval kepercayaan 95%.	total|batas|bawah|interval|kepercayaan|95|%|.	total|batas|bawah|interval|kepercayaan|95|%|.	JJ|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	3	fb:row.row.total_batas_atas_interval_kepercayaan_95	total batas atas interval kepercayaan 95%.	total|batas|atas|interval|kepercayaan|95|%|.	total|batas|atas|interval|kepercayaan|95|%|.	JJ|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|PERCENT|PERCENT|O	|||||%95.0|%95.0|					
+-1	4	fb:row.row.setiap_hari_atau_hampir_setiap_hari	setiap hari atau hampir setiap hari %	setiap|hari|atau|hampir|setiap|hari|%	setiap|hari|atau|hampir|setiap|hari|%	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+-1	5	fb:row.row.batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari	batas bawah interval kepercayaan 95% setiap hari atau hampir setiap hari	batas|bawah|interval|kepercayaan|95|%|setiap|hari|atau|hampir|setiap|hari	batas|bawah|interval|kepercayaan|95|%|setiap|hari|atau|hampir|setiap|hari	NNP|NNP|NN|NN|CD|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|PERCENT|PERCENT|O|O|O|O|O|O	||||%95.0|%95.0||||||					
+-1	6	fb:row.row.batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari	batas atas interval kepercayaan 95% setiap hari atau hampir setiap hari	batas|atas|interval|kepercayaan|95|%|setiap|hari|atau|hampir|setiap|hari	batas|atas|interval|kepercayaan|95|%|setiap|hari|atau|hampir|setiap|hari	NNP|NNP|NN|NN|CD|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|PERCENT|PERCENT|O|O|O|O|O|O	||||%95.0|%95.0||||||					
+-1	7	fb:row.row.tidak_setiap_hari_atau_hampir_setiap_hari	tidak setiap hari atau hampir setiap hari %	tidak|setiap|hari|atau|hampir|setiap|hari|%	tidak|setiap|hari|atau|hampir|setiap|hari|%	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||					
+-1	8	fb:row.row.tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95	tidak setiap hari atau hampir setiap hari batas bawah interval kepercayaan 95%.	tidak|setiap|hari|atau|hampir|setiap|hari|batas|bawah|interval|kepercayaan|95|%|.	tidak|setiap|hari|atau|hampir|setiap|hari|batas|bawah|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||||%95.0|%95.0|					
+-1	9	fb:row.row.tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95	tidak setiap hari atau hampir setiap hari batas atas interval kepercayaan 95%.	tidak|setiap|hari|atau|hampir|setiap|hari|batas|atas|interval|kepercayaan|95|%|.	tidak|setiap|hari|atau|hampir|setiap|hari|batas|atas|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.sejumlah_produk_ganja	sejumlah produk ganja	sejumlah|produk|ganja	sejumlah|produk|ganja	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_jumlah.null											
+0	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.null											
+0	3	fb:cell_total_batas_atas_interval_kepercayaan_95.null											
+0	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.null											
+0	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.null											
+0	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.null											
+0	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.null											
+0	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.null											
+0	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.null											
+1	0	fb:cell_kharakteristik.jumlah_produk_ganja_1	jumlah produk ganja 1	jumlah|produk|ganja|1	jumlah|produk|ganja|1	NNP|NNP|NNP|CD	O|O|O|NUMBER	|||1.0	1.0				
+1	1	fb:cell_jumlah.58_6	58.6	58.6	58.6	CD	NUMBER	58.6	58.6				
+1	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.53_4	53.4	53.4	53.4	CD	NUMBER	53.4	53.4				
+1	3	fb:cell_total_batas_atas_interval_kepercayaan_95.63_6	63.6	63.6	63.6	CD	NUMBER	63.6	63.6				
+1	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.44_6	44.6	44.6	44.6	CD	NUMBER	44.6	44.6				
+1	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.36_8	36.8	36.8	36.8	CD	NUMBER	36.8	36.8				
+1	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+1	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.66_2	66.2	66.2	66.2	CD	NUMBER	66.2	66.2				
+1	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.59_8	59.8	59.8	59.8	CD	NUMBER	59.8	59.8				
+1	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.72_1	72.1	72.1	72.1	CD	NUMBER	72.1	72.1				
+2	0	fb:cell_kharakteristik.jumlah_produk_ganja_2	jumlah produk ganja 2	jumlah|produk|ganja|2	jumlah|produk|ganja|2	NNP|NNP|NNP|CD	O|O|O|NUMBER	|||2.0	2.0				
+2	1	fb:cell_jumlah.20_2	20.2	20.2	20.2	CD	NUMBER	20.2	20.2				
+2	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+2	3	fb:cell_total_batas_atas_interval_kepercayaan_95.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+2	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+2	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				
+2	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.27_7	27.7	27.7	27.7	CD	NUMBER	27.7	27.7				
+2	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+2	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+2	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.25_7	25.7	25.7	25.7	CD	NUMBER	25.7	25.7				
+3	0	fb:cell_kharakteristik.jumlah_produk_ganja_3_atau_lebih	jumlah produk ganja 3 atau lebih	jumlah|produk|ganja|3|atau|lebih	jumlah|produk|ganja|3|atau|lebih	NNP|NNP|NNP|CD|NN|NN	O|O|O|NUMBER|O|O	|||3.0||	3.0				
+3	1	fb:cell_jumlah.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+3	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+3	3	fb:cell_total_batas_atas_interval_kepercayaan_95.25_9	25.9	25.9	25.9	CD	NUMBER	25.9	25.9				
+3	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.34_8	34.8	34.8	34.8	CD	NUMBER	34.8	34.8				
+3	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.26_8	26.8	26.8	26.8	CD	NUMBER	26.8	26.8				
+3	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+3	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+3	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+3	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+4	0	fb:cell_kharakteristik.jenis_produk_ganja	jenis produk ganja	jenis|produk|ganja	jenis|produk|ganja	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_jumlah.null											
+4	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.null											
+4	3	fb:cell_total_batas_atas_interval_kepercayaan_95.null											
+4	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.null											
+4	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.null											
+4	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.null											
+4	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.null											
+4	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.null											
+4	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.null											
+5	0	fb:cell_kharakteristik.jenis_produk_ganja_yang_dikeringkan_bunga_daun_saja	jenis produk ganja yang dikeringkan (bunga/daun) saja	jenis|produk|ganja|yang|dikeringkan|-lrb-|bunga/daun|-rrb-|saja	jenis|produk|ganja|yang|dikeringkan|-lrb-|bunga/daun|-rrb-|saja	NNP|NNP|NNP|NNP|NNP|-LRB-|NN|-RRB-|NN	O|O|O|O|O|O|O|O|O	||||||||				jenis produk ganja yang dikeringkan (bunga|daun) saja	fb:part_kharakteristik.jenis_produk_ganja_yang_dikeringkan_bunga|fb:part_kharakteristik.daun_saja
+5	1	fb:cell_jumlah.45_2	45.2	45.2	45.2	CD	NUMBER	45.2	45.2				
+5	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+5	3	fb:cell_total_batas_atas_interval_kepercayaan_95.50_3	50.3	50.3	50.3	CD	NUMBER	50.3	50.3				
+5	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.35_4	35.4	35.4	35.4	CD	NUMBER	35.4	35.4				
+5	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.28_3	28.3	28.3	28.3	CD	NUMBER	28.3	28.3				
+5	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.43_2	43.2	43.2	43.2	CD	NUMBER	43.2	43.2				
+5	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+5	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.44_2	44.2	44.2	44.2	CD	NUMBER	44.2	44.2				
+5	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+6	0	fb:cell_kharakteristik.jenis_produk_ganja_kering_bunga_daun_lainnya	jenis produk ganja kering (bunga/daun)+ lainnya	jenis|produk|ganja|kering|-lrb-|bunga/daun|-rrb-|+|lainnya	jenis|produk|ganja|kering|-lrb-|bunga/daun|-rrb-|+|lainnya	NNP|NNP|NNP|NNP|-LRB-|NN|-RRB-|CC|NN	O|O|O|O|O|O|O|O|O	||||||||				jenis produk ganja kering (bunga|daun)+ lainnya	fb:part_kharakteristik.jenis_produk_ganja_kering_bunga|fb:part_kharakteristik.daun_lainnya
+6	1	fb:cell_jumlah.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+6	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+6	3	fb:cell_total_batas_atas_interval_kepercayaan_95.44_2	44.2	44.2	44.2	CD	NUMBER	44.2	44.2				
+6	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.53_6	53.6	53.6	53.6	CD	NUMBER	53.6	53.6				
+6	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.45_5	45.5	45.5	45.5	CD	NUMBER	45.5	45.5				
+6	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.61_5	61.5	61.5	61.5	CD	NUMBER	61.5	61.5				
+6	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+6	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.25_2	25.2	25.2	25.2	CD	NUMBER	25.2	25.2				
+6	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+7	0	fb:cell_kharakteristik.jenis_produk_ganja_saja_lainnya	jenis produk ganja saja lainnya	jenis|produk|ganja|saja|lainnya	jenis|produk|ganja|saja|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+7	1	fb:cell_jumlah.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+7	2	fb:cell_total_batas_bawah_interval_kepercayaan_95.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+7	3	fb:cell_total_batas_atas_interval_kepercayaan_95.19_3	19.3	19.3	19.3	CD	NUMBER	19.3	19.3				
+7	4	fb:cell_setiap_hari_atau_hampir_setiap_hari.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+7	5	fb:cell_batas_bawah_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+7	6	fb:cell_batas_atas_interval_kepercayaan_95_setiap_hari_atau_hampir_setiap_hari.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+7	7	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+7	8	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_bawah_interval_kepercayaan_95.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+7	9	fb:cell_tidak_setiap_hari_atau_hampir_setiap_hari_batas_atas_interval_kepercayaan_95.23_3	23.3	23.3	23.3	CD	NUMBER	23.3	23.3				

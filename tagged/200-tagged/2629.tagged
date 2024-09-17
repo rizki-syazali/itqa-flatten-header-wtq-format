@@ -1,0 +1,204 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.mudah_didekati_dan_diajak_bicara	mudah didekati dan diajak bicara	mudah|didekati|dan|diajak|bicara	mudah|didekati|dan|diajak|bicara	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	2	fb:row.row.menjamin_keselamatan_warga_negara	menjamin keselamatan warga negara	menjamin|keselamatan|warga|negara	menjamin|keselamatan|warga|negara	JJ|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.segera_menanggapi_panggilan	segera menanggapi panggilan	segera|menanggapi|panggilan	segera|menanggapi|panggilan	NN|NN|NN	O|O|O	||					
+-1	4	fb:row.row.memperlakukan_orang_dengan_adil	memperlakukan orang dengan adil	memperlakukan|orang|dengan|adil	memperlakukan|orang|dengan|adil	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	5	fb:row.row.menegakkan_hukum	menegakkan hukum	menegakkan|hukum	menegakkan|hukum	NN|NN	O|O	|					
+-1	6	fb:row.row.memberikan_informasi_tentang_cara_cara_mencegah_kejahatan	memberikan informasi tentang cara-cara mencegah kejahatan	memberikan|informasi|tentang|cara|cara|mencegah|kejahatan	memberikan|informasi|tentang|cara|cara|mencegah|kejahatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.persen_korban_kejahatan	persen korban kejahatan	persen|korban|kejahatan	persen|korban|kejahatan	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_mudah_didekati_dan_diajak_bicara.null											
+0	2	fb:cell_menjamin_keselamatan_warga_negara.null											
+0	3	fb:cell_segera_menanggapi_panggilan.null											
+0	4	fb:cell_memperlakukan_orang_dengan_adil.null											
+0	5	fb:cell_menegakkan_hukum.null											
+0	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.null											
+1	0	fb:cell_kharakteristik.persen_korban_kejahatan_yang_bukan_korban_kejahatan_dalam_12_bulan_terakhir	persen korban kejahatan yang bukan korban kejahatan dalam 12 bulan terakhir	persen|korban|kejahatan|yang|bukan|korban|kejahatan|dalam|12|bulan|terakhir	persen|korban|kejahatan|yang|bukan|korban|kejahatan|dalam|12|bulan|terakhir	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	MISC|MISC|MISC|MISC|MISC|MISC|O|O|NUMBER|O|O	||||||||12.0||	12.0				
+1	1	fb:cell_mudah_didekati_dan_diajak_bicara.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+1	2	fb:cell_menjamin_keselamatan_warga_negara.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+1	3	fb:cell_segera_menanggapi_panggilan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+1	4	fb:cell_memperlakukan_orang_dengan_adil.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+1	5	fb:cell_menegakkan_hukum.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+1	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+2	0	fb:cell_kharakteristik.persen_korban_kejahatan_menjadi_korban_satu_kali	persen korban kejahatan menjadi korban satu kali	persen|korban|kejahatan|menjadi|korban|satu|kali	persen|korban|kejahatan|menjadi|korban|satu|kali	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|O|O	||||||					
+2	1	fb:cell_mudah_didekati_dan_diajak_bicara.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+2	2	fb:cell_menjamin_keselamatan_warga_negara.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+2	3	fb:cell_segera_menanggapi_panggilan.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+2	4	fb:cell_memperlakukan_orang_dengan_adil.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+2	5	fb:cell_menegakkan_hukum.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+2	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+3	0	fb:cell_kharakteristik.persen_korban_kejahatan_menjadi_korban_dua_kali	persen korban kejahatan menjadi korban dua kali	persen|korban|kejahatan|menjadi|korban|dua|kali	persen|korban|kejahatan|menjadi|korban|dua|kali	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|MISC|MISC	||||||					
+3	1	fb:cell_mudah_didekati_dan_diajak_bicara.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+3	2	fb:cell_menjamin_keselamatan_warga_negara.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+3	3	fb:cell_segera_menanggapi_panggilan.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+3	4	fb:cell_memperlakukan_orang_dengan_adil.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+3	5	fb:cell_menegakkan_hukum.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+3	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+4	0	fb:cell_kharakteristik.persen_korban_kejahatan_menjadi_korban_tiga_kali_atau_lebih	persen korban kejahatan menjadi korban tiga kali atau lebih	persen|korban|kejahatan|menjadi|korban|tiga|kali|atau|lebih	persen|korban|kejahatan|menjadi|korban|tiga|kali|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|O|O|O|O	||||||||					
+4	1	fb:cell_mudah_didekati_dan_diajak_bicara.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+4	2	fb:cell_menjamin_keselamatan_warga_negara.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+4	3	fb:cell_segera_menanggapi_panggilan.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+4	4	fb:cell_memperlakukan_orang_dengan_adil.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+4	5	fb:cell_menegakkan_hukum.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+4	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+5	0	fb:cell_kharakteristik.persen_kontak_dengan_polisi	persen kontak dengan polisi	persen|kontak|dengan|polisi	persen|kontak|dengan|polisi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_mudah_didekati_dan_diajak_bicara.null											
+5	2	fb:cell_menjamin_keselamatan_warga_negara.null											
+5	3	fb:cell_segera_menanggapi_panggilan.null											
+5	4	fb:cell_memperlakukan_orang_dengan_adil.null											
+5	5	fb:cell_menegakkan_hukum.null											
+5	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.null											
+6	0	fb:cell_kharakteristik.persen_kontak_dengan_polisi_kontak_dengan_polisi_dalam_12_bulan_terakhir	persen kontak dengan polisi Kontak dengan polisi dalam 12 bulan terakhir	persen|kontak|dengan|polisi|kontak|dengan|polisi|dalam|12|bulan|terakhir	persen|kontak|dengan|polisi|Kontak|dengan|polisi|dalam|12|bulan|terakhir	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|O|O|NUMBER|O|O	||||||||12.0||	12.0				
+6	1	fb:cell_mudah_didekati_dan_diajak_bicara.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+6	2	fb:cell_menjamin_keselamatan_warga_negara.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+6	3	fb:cell_segera_menanggapi_panggilan.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+6	4	fb:cell_memperlakukan_orang_dengan_adil.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+6	5	fb:cell_menegakkan_hukum.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+6	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+7	0	fb:cell_kharakteristik.persen_kontak_dengan_polisi_tidak_ada_kontak_dengan_polisi_dalam_12_bulan_terakhir	persen kontak dengan polisi tidak ada kontak dengan polisi dalam 12 bulan terakhir	persen|kontak|dengan|polisi|tidak|ada|kontak|dengan|polisi|dalam|12|bulan|terakhir	persen|kontak|dengan|polisi|tidak|ada|kontak|dengan|polisi|dalam|12|bulan|terakhir	NNP|NNP|NNP|NNP|NNP|NN|NN|NNP|NNP|NNP|CD|NNP|NNP	O|O|O|O|O|O|O|O|O|O|NUMBER|O|O	||||||||||12.0||	12.0				
+7	1	fb:cell_mudah_didekati_dan_diajak_bicara.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+7	2	fb:cell_menjamin_keselamatan_warga_negara.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+7	3	fb:cell_segera_menanggapi_panggilan.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+7	4	fb:cell_memperlakukan_orang_dengan_adil.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+7	5	fb:cell_menegakkan_hukum.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+7	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+8	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan	persen kepuasan terhadap keamanan pribadi dari kejahatan	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan	JJ|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+8	1	fb:cell_mudah_didekati_dan_diajak_bicara.null											
+8	2	fb:cell_menjamin_keselamatan_warga_negara.null											
+8	3	fb:cell_segera_menanggapi_panggilan.null											
+8	4	fb:cell_memperlakukan_orang_dengan_adil.null											
+8	5	fb:cell_menegakkan_hukum.null											
+8	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.null											
+9	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_diri_dari_kejahatan_sangat_puas	persen kepuasan terhadap keamanan diri dari kejahatan sangat puas	persen|kepuasan|terhadap|keamanan|diri|dari|kejahatan|sangat|puas	persen|kepuasan|terhadap|keamanan|diri|dari|kejahatan|sangat|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O	||||||||					
+9	1	fb:cell_mudah_didekati_dan_diajak_bicara.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+9	2	fb:cell_menjamin_keselamatan_warga_negara.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+9	3	fb:cell_segera_menanggapi_panggilan.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+9	4	fb:cell_memperlakukan_orang_dengan_adil.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+9	5	fb:cell_menegakkan_hukum.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+9	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+10	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_terpenuhi	persen kepuasan terhadap keamanan pribadi dari kejahatan terpenuhi	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|terpenuhi	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|terpenuhi	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+10	1	fb:cell_mudah_didekati_dan_diajak_bicara.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+10	2	fb:cell_menjamin_keselamatan_warga_negara.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+10	3	fb:cell_segera_menanggapi_panggilan.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+10	4	fb:cell_memperlakukan_orang_dengan_adil.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+10	5	fb:cell_menegakkan_hukum.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+10	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+11	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_tidak_puas_atau_tidak_puas	persen kepuasan terhadap keamanan pribadi dari kejahatan tidak puas atau tidak puas	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|tidak|puas|atau|tidak|puas	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|tidak|puas|atau|tidak|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+11	1	fb:cell_mudah_didekati_dan_diajak_bicara.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+11	2	fb:cell_menjamin_keselamatan_warga_negara.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+11	3	fb:cell_segera_menanggapi_panggilan.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+11	4	fb:cell_memperlakukan_orang_dengan_adil.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+11	5	fb:cell_menegakkan_hukum.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+11	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+12	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keselamatan_pribadi_dari_kejahatan_tidak_puas	persen kepuasan terhadap keselamatan pribadi dari kejahatan tidak puas	persen|kepuasan|terhadap|keselamatan|pribadi|dari|kejahatan|tidak|puas	persen|kepuasan|terhadap|keselamatan|pribadi|dari|kejahatan|tidak|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O	||||||||					
+12	1	fb:cell_mudah_didekati_dan_diajak_bicara.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+12	2	fb:cell_menjamin_keselamatan_warga_negara.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+12	3	fb:cell_segera_menanggapi_panggilan.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+12	4	fb:cell_memperlakukan_orang_dengan_adil.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+12	5	fb:cell_menegakkan_hukum.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+12	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+13	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_sangat_tidak_puas	persen kepuasan terhadap keamanan pribadi dari kejahatan sangat tidak puas	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|sangat|tidak|puas	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|sangat|tidak|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O	|||||||||					
+13	1	fb:cell_mudah_didekati_dan_diajak_bicara.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+13	2	fb:cell_menjamin_keselamatan_warga_negara.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+13	3	fb:cell_segera_menanggapi_panggilan.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+13	4	fb:cell_memperlakukan_orang_dengan_adil.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+13	5	fb:cell_menegakkan_hukum.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+13	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+14	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_dengan_lima_tahun_lalu	persen kejahatan lingkungan dibandingkan dengan lima tahun lalu	persen|kejahatan|lingkungan|dibandingkan|dengan|lima|tahun|lalu	persen|kejahatan|lingkungan|dibandingkan|dengan|lima|tahun|lalu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+14	1	fb:cell_mudah_didekati_dan_diajak_bicara.null											
+14	2	fb:cell_menjamin_keselamatan_warga_negara.null											
+14	3	fb:cell_segera_menanggapi_panggilan.null											
+14	4	fb:cell_memperlakukan_orang_dengan_adil.null											
+14	5	fb:cell_menegakkan_hukum.null											
+14	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.null											
+15	0	fb:cell_kharakteristik.persen_kejahatan_di_lingkungan_sekitar_dibandingkan_lima_tahun_lalu_meningkat	persen kejahatan di lingkungan sekitar dibandingkan lima tahun lalu meningkat	persen|kejahatan|di|lingkungan|sekitar|dibandingkan|lima|tahun|lalu|meningkat	persen|kejahatan|di|lingkungan|sekitar|dibandingkan|lima|tahun|lalu|meningkat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+15	1	fb:cell_mudah_didekati_dan_diajak_bicara.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+15	2	fb:cell_menjamin_keselamatan_warga_negara.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+15	3	fb:cell_segera_menanggapi_panggilan.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+15	4	fb:cell_memperlakukan_orang_dengan_adil.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+15	5	fb:cell_menegakkan_hukum.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+15	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+16	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_lima_tahun_lalu_menurun	persen kejahatan lingkungan dibandingkan lima tahun lalu menurun	persen|kejahatan|lingkungan|dibandingkan|lima|tahun|lalu|menurun	persen|kejahatan|lingkungan|dibandingkan|lima|tahun|lalu|menurun	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+16	1	fb:cell_mudah_didekati_dan_diajak_bicara.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+16	2	fb:cell_menjamin_keselamatan_warga_negara.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+16	3	fb:cell_segera_menanggapi_panggilan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+16	4	fb:cell_memperlakukan_orang_dengan_adil.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+16	5	fb:cell_menegakkan_hukum.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+16	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+17	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_dengan_lima_tahun_lalu_hampir_sama	persen kejahatan lingkungan dibandingkan dengan lima tahun lalu hampir sama	persen|kejahatan|lingkungan|dibandingkan|dengan|lima|tahun|lalu|hampir|sama	persen|kejahatan|lingkungan|dibandingkan|dengan|lima|tahun|lalu|hampir|sama	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+17	1	fb:cell_mudah_didekati_dan_diajak_bicara.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+17	2	fb:cell_menjamin_keselamatan_warga_negara.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+17	3	fb:cell_segera_menanggapi_panggilan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+17	4	fb:cell_memperlakukan_orang_dengan_adil.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+17	5	fb:cell_menegakkan_hukum.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+17	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+18	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_dengan_lingkungan_lain	persen kejahatan lingkungan dibandingkan dengan lingkungan lain	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+18	1	fb:cell_mudah_didekati_dan_diajak_bicara.null											
+18	2	fb:cell_menjamin_keselamatan_warga_negara.null											
+18	3	fb:cell_segera_menanggapi_panggilan.null											
+18	4	fb:cell_memperlakukan_orang_dengan_adil.null											
+18	5	fb:cell_menegakkan_hukum.null											
+18	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.null											
+19	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_dengan_lingkungan_lain_lebih_tinggi	persen kejahatan lingkungan dibandingkan dengan lingkungan lain lebih tinggi	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain|lebih|tinggi	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain|lebih|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+19	1	fb:cell_mudah_didekati_dan_diajak_bicara.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+19	2	fb:cell_menjamin_keselamatan_warga_negara.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+19	3	fb:cell_segera_menanggapi_panggilan.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+19	4	fb:cell_memperlakukan_orang_dengan_adil.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+19	5	fb:cell_menegakkan_hukum.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+19	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+20	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_dengan_lingkungan_lain_lebih_rendah	persen kejahatan lingkungan dibandingkan dengan lingkungan lain lebih rendah	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain|lebih|rendah	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain|lebih|rendah	JJ|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+20	1	fb:cell_mudah_didekati_dan_diajak_bicara.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+20	2	fb:cell_menjamin_keselamatan_warga_negara.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+20	3	fb:cell_segera_menanggapi_panggilan.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+20	4	fb:cell_memperlakukan_orang_dengan_adil.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+20	5	fb:cell_menegakkan_hukum.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+20	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+21	0	fb:cell_kharakteristik.persen_kejahatan_lingkungan_dibandingkan_dengan_lingkungan_lain_hampir_sama	persen kejahatan lingkungan dibandingkan dengan lingkungan lain hampir sama	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain|hampir|sama	persen|kejahatan|lingkungan|dibandingkan|dengan|lingkungan|lain|hampir|sama	JJ|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+21	1	fb:cell_mudah_didekati_dan_diajak_bicara.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+21	2	fb:cell_menjamin_keselamatan_warga_negara.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+21	3	fb:cell_segera_menanggapi_panggilan.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+21	4	fb:cell_memperlakukan_orang_dengan_adil.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+21	5	fb:cell_menegakkan_hukum.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+21	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+22	0	fb:cell_kharakteristik.persen_gangguan_lingkungan	persen gangguan lingkungan	persen|gangguan|lingkungan	persen|gangguan|lingkungan	NNP|NNP|NNP	O|O|O	||					
+22	1	fb:cell_mudah_didekati_dan_diajak_bicara.null											
+22	2	fb:cell_menjamin_keselamatan_warga_negara.null											
+22	3	fb:cell_segera_menanggapi_panggilan.null											
+22	4	fb:cell_memperlakukan_orang_dengan_adil.null											
+22	5	fb:cell_menegakkan_hukum.null											
+22	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.null											
+23	0	fb:cell_kharakteristik.persen_gangguan_lingkungan_satu_atau_lebih_masalah_besar	persen gangguan lingkungan satu atau lebih masalah besar	persen|gangguan|lingkungan|satu|atau|lebih|masalah|besar	persen|gangguan|lingkungan|satu|atau|lebih|masalah|besar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+23	1	fb:cell_mudah_didekati_dan_diajak_bicara.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+23	2	fb:cell_menjamin_keselamatan_warga_negara.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+23	3	fb:cell_segera_menanggapi_panggilan.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+23	4	fb:cell_memperlakukan_orang_dengan_adil.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+23	5	fb:cell_menegakkan_hukum.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+23	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+24	0	fb:cell_kharakteristik.persen_gangguan_lingkungan_satu_atau_lebih_masalah_sedang	persen gangguan lingkungan satu atau lebih masalah sedang	persen|gangguan|lingkungan|satu|atau|lebih|masalah|sedang	persen|gangguan|lingkungan|satu|atau|lebih|masalah|sedang	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+24	1	fb:cell_mudah_didekati_dan_diajak_bicara.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+24	2	fb:cell_menjamin_keselamatan_warga_negara.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+24	3	fb:cell_segera_menanggapi_panggilan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+24	4	fb:cell_memperlakukan_orang_dengan_adil.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+24	5	fb:cell_menegakkan_hukum.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+24	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+25	0	fb:cell_kharakteristik.persen_gangguan_lingkungan_satu_atau_lebih_masalah_kecil	persen gangguan lingkungan satu atau lebih masalah kecil	persen|gangguan|lingkungan|satu|atau|lebih|masalah|kecil	persen|gangguan|lingkungan|satu|atau|lebih|masalah|kecil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+25	1	fb:cell_mudah_didekati_dan_diajak_bicara.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+25	2	fb:cell_menjamin_keselamatan_warga_negara.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+25	3	fb:cell_segera_menanggapi_panggilan.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+25	4	fb:cell_memperlakukan_orang_dengan_adil.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+25	5	fb:cell_menegakkan_hukum.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+25	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+26	0	fb:cell_kharakteristik.persen_gangguan_lingkungan_tidak_ada_masalah_sama_sekali	persen gangguan lingkungan tidak ada masalah sama sekali	persen|gangguan|lingkungan|tidak|ada|masalah|sama|sekali	persen|gangguan|lingkungan|tidak|ada|masalah|sama|sekali	NNP|NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+26	1	fb:cell_mudah_didekati_dan_diajak_bicara.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+26	2	fb:cell_menjamin_keselamatan_warga_negara.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+26	3	fb:cell_segera_menanggapi_panggilan.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+26	4	fb:cell_memperlakukan_orang_dengan_adil.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+26	5	fb:cell_menegakkan_hukum.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+26	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+27	0	fb:cell_kharakteristik.persen_total_yakin_polisi_melakukan_tugasnya_dengan_baik	persen total - yakin polisi melakukan tugasnya dengan baik	persen|total|-|yakin|polisi|melakukan|tugasnya|dengan|baik	persen|total|-|yakin|polisi|melakukan|tugasnya|dengan|baik	NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+27	1	fb:cell_mudah_didekati_dan_diajak_bicara.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+27	2	fb:cell_menjamin_keselamatan_warga_negara.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+27	3	fb:cell_segera_menanggapi_panggilan.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+27	4	fb:cell_memperlakukan_orang_dengan_adil.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+27	5	fb:cell_menegakkan_hukum.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+27	6	fb:cell_memberikan_informasi_tentang_cara_cara_mencegah_kejahatan.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				

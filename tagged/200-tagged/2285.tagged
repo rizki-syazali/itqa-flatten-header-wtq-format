@@ -1,0 +1,82 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.10_hingga_24_nomor	10 hingga 24 nomor	10|hingga|24|nomor	10|hingga|24|nomor	CD|NN|CD|NN	NUMBER|O|NUMBER|O	10.0||24.0|					
+-1	2	fb:row.row.10_hingga_24	10 hingga 24%	10|hingga|24|%	10|hingga|24|%	CD|NN|CD|NN	NUMBER|O|PERCENT|PERCENT	10.0||%24.0|%24.0					
+-1	3	fb:row.row.nomor_10_sampai_14	nomor 10 sampai 14	nomor|10|sampai|14	nomor|10|sampai|14	NNP|CD|FW|CD	O|NUMBER|O|NUMBER	|10.0||14.0					
+-1	4	fb:row.row.10_hingga_14	10 hingga 14%	10|hingga|14|%	10|hingga|14|%	CD|NN|CD|NN	NUMBER|O|PERCENT|PERCENT	10.0||%14.0|%14.0					
+-1	5	fb:row.row.nomor_15_sampai_17	Nomor 15 sampai 17	nomor|15|sampai|17	Nomor|15|sampai|17	NNP|CD|FW|CD	O|NUMBER|O|NUMBER	|15.0||17.0					
+-1	6	fb:row.row.15_hingga_17	15 hingga 17%	15|hingga|17|%	15|hingga|17|%	CD|NN|CD|NN	NUMBER|O|PERCENT|PERCENT	15.0||%17.0|%17.0					
+-1	7	fb:row.row.nomor_18_hingga_24	Nomor 18 hingga 24	nomor|18|hingga|24	nomor|18|hingga|24	NN|CD|NN|CD	O|NUMBER|O|NUMBER	|18.0||24.0					
+-1	8	fb:row.row.18_hingga_24	18 hingga 24%	18|hingga|24|%	18|hingga|24|%	CD|NN|CD|NN	NUMBER|O|PERCENT|PERCENT	18.0||%24.0|%24.0					
+0	0	fb:cell_kharakteristik.kelainan_organik	kelainan organik	kelainan|organik	kelainan|organik	NNP|NNP	O|O	|					
+0	1	fb:cell_10_hingga_24_nomor.135_0	135.0	135.0	135.0	CD	NUMBER	135.0	135.0				
+0	2	fb:cell_10_hingga_24.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+0	3	fb:cell_nomor_10_sampai_14.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+0	4	fb:cell_10_hingga_14.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+0	5	fb:cell_nomor_15_sampai_17.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+0	6	fb:cell_15_hingga_17.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+0	7	fb:cell_nomor_18_hingga_24.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+0	8	fb:cell_18_hingga_24.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+1	0	fb:cell_kharakteristik.gangguan_yang_berhubungan_dengan_zat	gangguan yang berhubungan dengan zat	gangguan|yang|berhubungan|dengan|zat	gangguan|yang|berhubungan|dengan|zat	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_10_hingga_24_nomor.4391_0	4391.0	4391.0	4391.0	CD	NUMBER	4391.0	4391.0				
+1	2	fb:cell_10_hingga_24.13_1	13.1	13.1	13.1	CD	NUMBER	13.1	13.1				
+1	3	fb:cell_nomor_10_sampai_14.133_0	133.0	133.0	133.0	CD	NUMBER	133.0	133.0				
+1	4	fb:cell_10_hingga_14.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+1	5	fb:cell_nomor_15_sampai_17.743_0	743.0	743.0	743.0	CD	NUMBER	743.0	743.0				
+1	6	fb:cell_15_hingga_17.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+1	7	fb:cell_nomor_18_hingga_24.3515_0	3515.0	3515.0	3515.0	CD	NUMBER	3515.0	3515.0				
+1	8	fb:cell_18_hingga_24.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+2	0	fb:cell_kharakteristik.gangguan_skizofrenia_dan_psikotik	gangguan skizofrenia dan psikotik	gangguan|skizofrenia|dan|psikotik	gangguan|skizofrenia|dan|psikotik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_10_hingga_24_nomor.5077_0	5077.0	5077.0	5077.0	CD	NUMBER	5077.0	5077.0				
+2	2	fb:cell_10_hingga_24.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				
+2	3	fb:cell_nomor_10_sampai_14.126_0	126.0	126.0	126.0	CD	NUMBER	126.0	126.0				
+2	4	fb:cell_10_hingga_14.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+2	5	fb:cell_nomor_15_sampai_17.631_0	631.0	631.0	631.0	CD	NUMBER	631.0	631.0				
+2	6	fb:cell_15_hingga_17.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+2	7	fb:cell_nomor_18_hingga_24.4320_0	4320.0	4320.0	4320.0	CD	NUMBER	4320.0	4320.0				
+2	8	fb:cell_18_hingga_24.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+3	0	fb:cell_kharakteristik.gangguan_suasana_hati	gangguan suasana hati	gangguan|suasana|hati	gangguan|suasana|hati	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_10_hingga_24_nomor.10606_0	10606.0	10606.0	10606.0	CD	NUMBER	10606.0	10606.0				
+3	2	fb:cell_10_hingga_24.31_5	31.5	31.5	31.5	CD	NUMBER	31.5	31.5				
+3	3	fb:cell_nomor_10_sampai_14.1507_0	1507.0	1507.0	1507.0	CD	NUMBER	1507.0	1507.0				
+3	4	fb:cell_10_hingga_14.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+3	5	fb:cell_nomor_15_sampai_17.3710_0	3710.0	3710.0	3710.0	CD	NUMBER	3710.0	3710.0				
+3	6	fb:cell_15_hingga_17.37_8	37.8	37.8	37.8	CD	NUMBER	37.8	37.8				
+3	7	fb:cell_nomor_18_hingga_24.5389_0	5389.0	5389.0	5389.0	CD	NUMBER	5389.0	5389.0				
+3	8	fb:cell_18_hingga_24.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+4	0	fb:cell_kharakteristik.gangguan_kecemasan	gangguan kecemasan	gangguan|kecemasan	gangguan|kecemasan	NNP|NNP	O|O	|					
+4	1	fb:cell_10_hingga_24_nomor.2712_0	2712.0	2712.0	2712.0	CD	NUMBER	2712.0	2712.0				
+4	2	fb:cell_10_hingga_24.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+4	3	fb:cell_nomor_10_sampai_14.644_0	644.0	644.0	644.0	CD	NUMBER	644.0	644.0				
+4	4	fb:cell_10_hingga_14.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+4	5	fb:cell_nomor_15_sampai_17.1076_0	1076.0	1076.0	1076.0	CD	NUMBER	1076.0	1076.0				
+4	6	fb:cell_15_hingga_17.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+4	7	fb:cell_nomor_18_hingga_24.992_0	992.0	992.0	992.0	CD	NUMBER	992.0	992.0				
+4	8	fb:cell_18_hingga_24.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+5	0	fb:cell_kharakteristik.gangguan_kepribadian	gangguan kepribadian	gangguan|kepribadian	gangguan|kepribadian	NNP|NNP	O|O	|					
+5	1	fb:cell_10_hingga_24_nomor.1261_0	1261.0	1261.0	1261.0	CD	NUMBER	1261.0	1261.0				
+5	2	fb:cell_10_hingga_24.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+5	3	fb:cell_nomor_10_sampai_14.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+5	4	fb:cell_10_hingga_14.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+5	5	fb:cell_nomor_15_sampai_17.257_0	257.0	257.0	257.0	CD	NUMBER	257.0	257.0				
+5	6	fb:cell_15_hingga_17.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+5	7	fb:cell_nomor_18_hingga_24.932_0	932.0	932.0	932.0	CD	NUMBER	932.0	932.0				
+5	8	fb:cell_18_hingga_24.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+6	0	fb:cell_kharakteristik.gangguan_lainnya	gangguan lainnya	gangguan|lainnya	gangguan|lainnya	NNP|NNP	O|O	|					
+6	1	fb:cell_10_hingga_24_nomor.9459_0	9459.0	9459.0	9459.0	CD	NUMBER	9459.0	9459.0				
+6	2	fb:cell_10_hingga_24.28_1	28.1	28.1	28.1	CD	NUMBER	28.1	28.1				
+6	3	fb:cell_nomor_10_sampai_14.2701_0	2701.0	2701.0	2701.0	CD	NUMBER	2701.0	2701.0				
+6	4	fb:cell_10_hingga_14.51_8	51.8	51.8	51.8	CD	NUMBER	51.8	51.8				
+6	5	fb:cell_nomor_15_sampai_17.3365_0	3365.0	3365.0	3365.0	CD	NUMBER	3365.0	3365.0				
+6	6	fb:cell_15_hingga_17.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+6	7	fb:cell_nomor_18_hingga_24.3393_0	3393.0	3393.0	3393.0	CD	NUMBER	3393.0	3393.0				
+6	8	fb:cell_18_hingga_24.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+7	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+7	1	fb:cell_10_hingga_24_nomor.33641_0	33641.0	33641.0	33641.0	CD	NUMBER	33641.0	33641.0				
+7	2	fb:cell_10_hingga_24.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	3	fb:cell_nomor_10_sampai_14.5213_0	5213.0	5213.0	5213.0	CD	NUMBER	5213.0	5213.0				
+7	4	fb:cell_10_hingga_14.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	5	fb:cell_nomor_15_sampai_17.9807_0	9807.0	9807.0	9807.0	CD	NUMBER	9807.0	9807.0				
+7	6	fb:cell_15_hingga_17.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	7	fb:cell_nomor_18_hingga_24.18621_0	18621.0	18621.0	18621.0	CD	NUMBER	18621.0	18621.0				
+7	8	fb:cell_18_hingga_24.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

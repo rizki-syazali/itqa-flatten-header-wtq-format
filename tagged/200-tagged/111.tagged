@@ -1,0 +1,451 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.suplemen_tidak_menggunakan_suplemen_menggunakan_beta	suplemen tidak menggunakan suplemen menggunakan beta	suplemen|tidak|menggunakan|suplemen|menggunakan|beta	suplemen|tidak|menggunakan|suplemen|menggunakan|beta	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p	suplemen tidak menggunakan suplemen menggunakan nilai p	suplemen|tidak|menggunakan|suplemen|menggunakan|nilai|p	suplemen|tidak|menggunakan|suplemen|menggunakan|nilai|p	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.suplemen_menggunakan_pengguna_suplemen_beta	suplemen menggunakan pengguna suplemen beta	suplemen|menggunakan|pengguna|suplemen|beta	suplemen|menggunakan|pengguna|suplemen|beta	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	4	fb:row.row.penggunaan_suplemen_nilai_p_pengguna_suplemen	penggunaan suplemen nilai-p pengguna suplemen	penggunaan|suplemen|nilai|p|pengguna|suplemen	penggunaan|suplemen|nilai|p|pengguna|suplemen	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	5	fb:row.row.perokok_perokok_beta	perokok perokok beta	perokok|perokok|beta	perokok|perokok|beta	NNP|NNP|NN	O|O|O	||					
+-1	6	fb:row.row.nilai_p_perokok_merokok	nilai p perokok merokok	nilai|p|perokok|merokok	nilai|p|perokok|merokok	NNP|NN|NN|NN	O|O|O|O	|||					
+-1	7	fb:row.row.merokok_bukan_perokok_beta	merokok bukan perokok beta	merokok|bukan|perokok|beta	merokok|bukan|perokok|beta	NN|NN|NN|NN	O|O|O|O	|||					
+-1	8	fb:row.row.nilai_p_perokok_bukan_perokok	nilai p perokok bukan perokok	nilai|p|perokok|bukan|perokok	nilai|p|perokok|bukan|perokok	NNP|NN|NN|NN|NN	MISC|O|O|O|O	||||					
+-1	9	fb:row.row.indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta	indeks massa tubuh tidak kelebihan berat badan atau obesitas beta	indeks|massa|tubuh|tidak|kelebihan|berat|badan|atau|obesitas|beta	indeks|massa|tubuh|tidak|kelebihan|berat|badan|atau|obesitas|beta	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+-1	10	fb:row.row.indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas	indeks massa tubuh tidak memiliki nilai p kelebihan berat badan atau obesitas	indeks|massa|tubuh|tidak|memiliki|nilai|p|kelebihan|berat|badan|atau|obesitas	indeks|massa|tubuh|tidak|memiliki|nilai|p|kelebihan|berat|badan|atau|obesitas	NNP|NNP|NNP|NNP|NNP|NNP|NN|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+-1	11	fb:row.row.indeks_massa_tubuh_kelebihan_berat_badan_beta	indeks massa tubuh kelebihan berat badan beta	indeks|massa|tubuh|kelebihan|berat|badan|beta	indeks|massa|tubuh|kelebihan|berat|badan|beta	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+-1	12	fb:row.row.nilai_p_kelebihan_berat_badan_indeks_massa_tubuh	nilai p kelebihan berat badan indeks massa tubuh	nilai|p|kelebihan|berat|badan|indeks|massa|tubuh	nilai|p|kelebihan|berat|badan|indeks|massa|tubuh	NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP	MISC|O|O|O|O|O|O|O	|||||||					
+-1	13	fb:row.row.indeks_massa_tubuh_obesitas_beta	indeks massa tubuh obesitas beta	indeks|massa|tubuh|obesitas|beta	indeks|massa|tubuh|obesitas|beta	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+-1	14	fb:row.row.nilai_p_obesitas_indeks_massa_tubuh	nilai p obesitas indeks massa tubuh	nilai|p|obesitas|indeks|massa|tubuh	nilai|p|obesitas|indeks|massa|tubuh	NNP|NN|NNP|NNP|NNP|NNP	MISC|O|O|O|O|O	|||||					
+0	0	fb:cell_kharakteristik.r2	r2	r2	r2	NN	O		2.0				
+0	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.r2_0_2084	r2: 0.2084	r2|:|0.2084	r2|:|0.2084	NN|:|CD	O|O|NUMBER	||0.2084	2.0		0.2084		
+0	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.r2_0_2084	r2: 0.2084	r2|:|0.2084	r2|:|0.2084	NN|:|CD	O|O|NUMBER	||0.2084	2.0		0.2084		
+0	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.r2_0_1563	r2: 0.1563	r2|:|0.1563	r2|:|0.1563	NN|:|CD	O|O|NUMBER	||0.1563	2.0		0.1563		
+0	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.r2_0_1563	r2: 0.1563	r2|:|0.1563	r2|:|0.1563	NN|:|CD	O|O|NUMBER	||0.1563	2.0		0.1563		
+0	5	fb:cell_perokok_perokok_beta.r2_0_3865	r2: 0.3865	r2|:|0.3865	r2|:|0.3865	NN|:|CD	O|O|NUMBER	||0.3865	2.0		0.3865		
+0	6	fb:cell_nilai_p_perokok_merokok.r2_0_3865	r2: 0.3865	r2|:|0.3865	r2|:|0.3865	NN|:|CD	O|O|NUMBER	||0.3865	2.0		0.3865		
+0	7	fb:cell_merokok_bukan_perokok_beta.r2_0_2731	r2: 0.2731	r2|:|0.2731	r2|:|0.2731	NN|:|CD	O|O|NUMBER	||0.2731	2.0		0.2731		
+0	8	fb:cell_nilai_p_perokok_bukan_perokok.r2_0_2731	r2: 0.2731	r2|:|0.2731	r2|:|0.2731	NN|:|CD	O|O|NUMBER	||0.2731	2.0		0.2731		
+0	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.r2_0_3036	r2: 0.3036	r2|:|0.3036	r2|:|0.3036	NN|:|CD	O|O|NUMBER	||0.3036	2.0		0.3036		
+0	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.r2_0_3036	r2: 0.3036	r2|:|0.3036	r2|:|0.3036	NN|:|CD	O|O|NUMBER	||0.3036	2.0		0.3036		
+0	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.r2_0_2912	r2: 0.2912	r2|:|0.2912	r2|:|0.2912	NN|:|CD	O|O|NUMBER	||0.2912	2.0		0.2912		
+0	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.r2_0_2912	r2: 0.2912	r2|:|0.2912	r2|:|0.2912	NN|:|CD	O|O|NUMBER	||0.2912	2.0		0.2912		
+0	13	fb:cell_indeks_massa_tubuh_obesitas_beta.r2_0_2517	r2: 0.2517	r2|:|0.2517	r2|:|0.2517	NN|:|CD	O|O|NUMBER	||0.2517	2.0		0.2517		
+0	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.r2_0_2517	r2: 0.2517	r2|:|0.2517	r2|:|0.2517	NN|:|CD	O|O|NUMBER	||0.2517	2.0		0.2517		
+1	0	fb:cell_kharakteristik.mencegat	mencegat	mencegat	mencegat	NN	O						
+1	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.67_69	67.69	67.69	67.69	CD	NUMBER	67.69	67.69				
+1	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.83_5	83.5	83.5	83.5	CD	NUMBER	83.5	83.5				
+1	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	5	fb:cell_perokok_perokok_beta.70_26	70.26	70.26	70.26	CD	NUMBER	70.26	70.26				
+1	6	fb:cell_nilai_p_perokok_merokok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	7	fb:cell_merokok_bukan_perokok_beta.66_73	66.73	66.73	66.73	CD	NUMBER	66.73	66.73				
+1	8	fb:cell_nilai_p_perokok_bukan_perokok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.67_45	67.45	67.45	67.45	CD	NUMBER	67.45	67.45				
+1	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.61_57	61.57	61.57	61.57	CD	NUMBER	61.57	61.57				
+1	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	13	fb:cell_indeks_massa_tubuh_obesitas_beta.60_4	60.4	60.4	60.4	CD	NUMBER	60.4	60.4				
+1	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+2	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+2	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+2	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+2	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+2	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+2	5	fb:cell_perokok_perokok_beta.null											
+2	6	fb:cell_nilai_p_perokok_merokok.null											
+2	7	fb:cell_merokok_bukan_perokok_beta.null											
+2	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+2	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+2	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+2	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+2	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+2	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+2	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+3	0	fb:cell_kharakteristik.pria_seks	pria seks	pria|seks	pria|seks	NNP|NNP	O|O	|					
+3	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._8_38	-8.38	-8.38	-8.38	CD	NUMBER	-8.38	8.38				
+3	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+3	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._7_27	-7.27	-7.27	-7.27	CD	NUMBER	-7.27	7.27				
+3	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+3	5	fb:cell_perokok_perokok_beta._16_87	-16.87	-16.87	-16.87	CD	NUMBER	-16.87	16.87				
+3	6	fb:cell_nilai_p_perokok_merokok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	7	fb:cell_merokok_bukan_perokok_beta._6_12	-6.12	-6.12	-6.12	CD	NUMBER	-6.12	6.12				
+3	8	fb:cell_nilai_p_perokok_bukan_perokok.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+3	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._14_41	-14.41	-14.41	-14.41	CD	NUMBER	-14.41	14.41				
+3	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+3	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._3_06	-3.06	-3.06	-3.06	CD	NUMBER	-3.06	3.06				
+3	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+3	13	fb:cell_indeks_massa_tubuh_obesitas_beta._7_59	-7.59	-7.59	-7.59	CD	NUMBER	-7.59	7.59				
+3	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+4	0	fb:cell_kharakteristik.wanita_seks	wanita seks	wanita|seks	wanita|seks	NNP|NNP	PERSON|PERSON	|					
+4	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+4	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+4	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+4	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+4	5	fb:cell_perokok_perokok_beta.null											
+4	6	fb:cell_nilai_p_perokok_merokok.null											
+4	7	fb:cell_merokok_bukan_perokok_beta.null											
+4	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+4	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+4	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+4	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+4	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+4	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+4	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+5	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+5	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+5	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+5	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+5	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+5	5	fb:cell_perokok_perokok_beta.null											
+5	6	fb:cell_nilai_p_perokok_merokok.null											
+5	7	fb:cell_merokok_bukan_perokok_beta.null											
+5	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+5	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+5	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+5	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+5	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+5	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+5	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+6	0	fb:cell_kharakteristik.kelompok_usia_20_hingga_39_tahun	kelompok usia 20 hingga 39 tahun	kelompok|usia|20|hingga|39|tahun	kelompok|usia|20|hingga|39|tahun	NNP|NNP|CD|NN|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||20.0||39.0|	20.0		39.0		
+6	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._1_69	-1.69	-1.69	-1.69	CD	NUMBER	-1.69	1.69				
+6	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+6	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._6_28	-6.28	-6.28	-6.28	CD	NUMBER	-6.28	6.28				
+6	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+6	5	fb:cell_perokok_perokok_beta.3_26	3.26	3.26	3.26	CD	NUMBER	3.26	3.26				
+6	6	fb:cell_nilai_p_perokok_merokok.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+6	7	fb:cell_merokok_bukan_perokok_beta._4_77	-4.77	-4.77	-4.77	CD	NUMBER	-4.77	4.77				
+6	8	fb:cell_nilai_p_perokok_bukan_perokok.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+6	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._5_32	-5.32	-5.32	-5.32	CD	NUMBER	-5.32	5.32				
+6	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_18	0.18	0.18	0.18	CD	NUMBER	0.18	0.18				
+6	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._1_56	-1.56	-1.56	-1.56	CD	NUMBER	-1.56	1.56				
+6	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+6	13	fb:cell_indeks_massa_tubuh_obesitas_beta._3_32	-3.32	-3.32	-3.32	CD	NUMBER	-3.32	3.32				
+6	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+7	0	fb:cell_kharakteristik.kelompok_usia_40_hingga_59_tahun	kelompok usia 40 hingga 59 tahun	kelompok|usia|40|hingga|59|tahun	kelompok|usia|40|hingga|59|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||40.0||59.0|	40.0		59.0		
+7	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._3_54	-3.54	-3.54	-3.54	CD	NUMBER	-3.54	3.54				
+7	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_21	0.21	0.21	0.21	CD	NUMBER	0.21	0.21				
+7	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._0_06	-0.06	-0.06	-0.06	CD	NUMBER	-0.06	0.06				
+7	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_98	0.98	0.98	0.98	CD	NUMBER	0.98	0.98				
+7	5	fb:cell_perokok_perokok_beta._2_02	-2.02	-2.02	-2.02	CD	NUMBER	-2.02	2.02				
+7	6	fb:cell_nilai_p_perokok_merokok.0_74	0.74	0.74	0.74	CD	NUMBER	0.74	0.74				
+7	7	fb:cell_merokok_bukan_perokok_beta._3_49	-3.49	-3.49	-3.49	CD	NUMBER	-3.49	3.49				
+7	8	fb:cell_nilai_p_perokok_bukan_perokok.0_11	0.11	0.11	0.11	CD	NUMBER	0.11	0.11				
+7	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._5_21	-5.21	-5.21	-5.21	CD	NUMBER	-5.21	5.21				
+7	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+7	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._1_34	-1.34	-1.34	-1.34	CD	NUMBER	-1.34	1.34				
+7	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+7	13	fb:cell_indeks_massa_tubuh_obesitas_beta._5_74	-5.74	-5.74	-5.74	CD	NUMBER	-5.74	5.74				
+7	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_16	0.16	0.16	0.16	CD	NUMBER	0.16	0.16				
+8	0	fb:cell_kharakteristik.kelompok_usia_60_hingga_79_tahun	kelompok usia 60 hingga 79 tahun	kelompok|usia|60|hingga|79|tahun	kelompok|usia|60|hingga|79|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||60.0||79.0|	60.0		79.0		
+8	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+8	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+8	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+8	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+8	5	fb:cell_perokok_perokok_beta.null											
+8	6	fb:cell_nilai_p_perokok_merokok.null											
+8	7	fb:cell_merokok_bukan_perokok_beta.null											
+8	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+8	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+8	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+8	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+8	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+8	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+8	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+9	0	fb:cell_kharakteristik.pendidikan	pendidikan	pendidikan	pendidikan	NNP	O						
+9	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+9	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+9	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+9	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+9	5	fb:cell_perokok_perokok_beta.null											
+9	6	fb:cell_nilai_p_perokok_merokok.null											
+9	7	fb:cell_merokok_bukan_perokok_beta.null											
+9	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+9	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+9	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+9	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+9	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+9	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+9	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+10	0	fb:cell_kharakteristik.pendidikannya_kurang_dari_kelulusan_perguruan_tinggi_universitas	pendidikannya kurang dari kelulusan perguruan tinggi/universitas	pendidikannya|kurang|dari|kelulusan|perguruan|tinggi/universitas	pendidikannya|kurang|dari|kelulusan|perguruan|tinggi/universitas	NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||				pendidikannya kurang dari kelulusan perguruan tinggi|universitas	fb:part_kharakteristik.pendidikannya_kurang_dari_kelulusan_perguruan_tinggi|fb:part_kharakteristik.universitas
+10	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._5_56	-5.56	-5.56	-5.56	CD	NUMBER	-5.56	5.56				
+10	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._2_96	-2.96	-2.96	-2.96	CD	NUMBER	-2.96	2.96				
+10	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_41	0.41	0.41	0.41	CD	NUMBER	0.41	0.41				
+10	5	fb:cell_perokok_perokok_beta._0_83	-0.83	-0.83	-0.83	CD	NUMBER	-0.83	0.83				
+10	6	fb:cell_nilai_p_perokok_merokok.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+10	7	fb:cell_merokok_bukan_perokok_beta._6_43	-6.43	-6.43	-6.43	CD	NUMBER	-6.43	6.43				
+10	8	fb:cell_nilai_p_perokok_bukan_perokok.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+10	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._8_58	-8.58	-8.58	-8.58	CD	NUMBER	-8.58	8.58				
+10	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+10	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._3_71	-3.71	-3.71	-3.71	CD	NUMBER	-3.71	3.71				
+10	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+10	13	fb:cell_indeks_massa_tubuh_obesitas_beta._1_86	-1.86	-1.86	-1.86	CD	NUMBER	-1.86	1.86				
+10	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_48	0.48	0.48	0.48	CD	NUMBER	0.48	0.48				
+11	0	fb:cell_kharakteristik.kelulusan_perguruan_tinggi_universitas_pendidikan	kelulusan perguruan tinggi/universitas pendidikan	kelulusan|perguruan|tinggi/universitas|pendidikan	kelulusan|perguruan|tinggi/universitas|pendidikan	NNP|NNP|NNP|NNP	O|O|O|O	|||				kelulusan perguruan tinggi|universitas pendidikan	fb:part_kharakteristik.kelulusan_perguruan_tinggi|fb:part_kharakteristik.universitas_pendidikan
+11	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+11	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+11	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+11	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+11	5	fb:cell_perokok_perokok_beta.null											
+11	6	fb:cell_nilai_p_perokok_merokok.null											
+11	7	fb:cell_merokok_bukan_perokok_beta.null											
+11	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+11	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+11	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+11	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+11	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+11	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+11	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+12	0	fb:cell_kharakteristik.penggunaan_suplemen_yang_mengandung_vitamin_c	penggunaan suplemen yang mengandung vitamin c	penggunaan|suplemen|yang|mengandung|vitamin|c	penggunaan|suplemen|yang|mengandung|vitamin|c	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+12	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+12	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+12	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+12	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+12	5	fb:cell_perokok_perokok_beta.null											
+12	6	fb:cell_nilai_p_perokok_merokok.null											
+12	7	fb:cell_merokok_bukan_perokok_beta.null											
+12	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+12	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+12	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+12	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+12	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+12	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+12	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+13	0	fb:cell_kharakteristik.suplemen_yang_mengandung_vitamin_c_gunakan_no	suplemen yang mengandung vitamin c gunakan no	suplemen|yang|mengandung|vitamin|c|gunakan|no	suplemen|yang|mengandung|vitamin|c|gunakan|no	NNP|NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+13	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+13	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+13	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+13	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+13	5	fb:cell_perokok_perokok_beta.null											
+13	6	fb:cell_nilai_p_perokok_merokok.null											
+13	7	fb:cell_merokok_bukan_perokok_beta.null											
+13	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+13	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+13	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+13	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+13	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+13	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+13	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+14	0	fb:cell_kharakteristik.penggunaan_suplemen_yang_mengandung_vitamin_c_ya	penggunaan suplemen yang mengandung vitamin c ya	penggunaan|suplemen|yang|mengandung|vitamin|c|ya	penggunaan|suplemen|yang|mengandung|vitamin|c|ya	NNP|NNP|NNP|NNP|NN|NN|PRP	O|O|O|O|O|O|O	||||||					
+14	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+14	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+14	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+14	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+14	5	fb:cell_perokok_perokok_beta.21_54	21.54	21.54	21.54	CD	NUMBER	21.54	21.54				
+14	6	fb:cell_nilai_p_perokok_merokok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+14	7	fb:cell_merokok_bukan_perokok_beta.16_28	16.28	16.28	16.28	CD	NUMBER	16.28	16.28				
+14	8	fb:cell_nilai_p_perokok_bukan_perokok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+14	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+14	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+14	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.17_89	17.89	17.89	17.89	CD	NUMBER	17.89	17.89				
+14	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+14	13	fb:cell_indeks_massa_tubuh_obesitas_beta.13_28	13.28	13.28	13.28	CD	NUMBER	13.28	13.28				
+14	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	0	fb:cell_kharakteristik.merokok	merokok	merokok	merokok	NNP	O						
+15	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+15	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+15	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+15	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+15	5	fb:cell_perokok_perokok_beta.null											
+15	6	fb:cell_nilai_p_perokok_merokok.null											
+15	7	fb:cell_merokok_bukan_perokok_beta.null											
+15	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+15	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+15	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+15	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+15	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+15	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+15	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+16	0	fb:cell_kharakteristik.merokok_setiap_hari_sesekali	merokok setiap hari/sesekali	merokok|setiap|hari/sesekali	merokok|setiap|hari/sesekali	NNP|NNP|NNP	O|O|O	||				merokok setiap hari|sesekali	fb:part_kharakteristik.merokok_setiap_hari|fb:part_kharakteristik.sesekali
+16	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._7_32	-7.32	-7.32	-7.32	CD	NUMBER	-7.32	7.32				
+16	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+16	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._1_88	-1.88	-1.88	-1.88	CD	NUMBER	-1.88	1.88				
+16	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+16	5	fb:cell_perokok_perokok_beta.null											
+16	6	fb:cell_nilai_p_perokok_merokok.null											
+16	7	fb:cell_merokok_bukan_perokok_beta.null											
+16	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+16	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._5_14	-5.14	-5.14	-5.14	CD	NUMBER	-5.14	5.14				
+16	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+16	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._7_42	-7.42	-7.42	-7.42	CD	NUMBER	-7.42	7.42				
+16	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+16	13	fb:cell_indeks_massa_tubuh_obesitas_beta._1_35	-1.35	-1.35	-1.35	CD	NUMBER	-1.35	1.35				
+16	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+17	0	fb:cell_kharakteristik.merokok_bukan_perokok	merokok bukan perokok	merokok|bukan|perokok	merokok|bukan|perokok	NNP|NNP|NNP	O|O|O	||					
+17	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+17	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+17	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+17	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+17	5	fb:cell_perokok_perokok_beta.null											
+17	6	fb:cell_nilai_p_perokok_merokok.null											
+17	7	fb:cell_merokok_bukan_perokok_beta.null											
+17	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+17	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+17	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+17	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+17	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+17	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+17	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+18	0	fb:cell_kharakteristik.indeks_massa_tubuh	indeks massa tubuh	indeks|massa|tubuh	indeks|massa|tubuh	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+18	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+18	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+18	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+18	5	fb:cell_perokok_perokok_beta.null											
+18	6	fb:cell_nilai_p_perokok_merokok.null											
+18	7	fb:cell_merokok_bukan_perokok_beta.null											
+18	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+18	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+18	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+18	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+18	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+18	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+18	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+19	0	fb:cell_kharakteristik.indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas	indeks massa tubuh tidak kelebihan berat badan atau obesitas	indeks|massa|tubuh|tidak|kelebihan|berat|badan|atau|obesitas	indeks|massa|tubuh|tidak|kelebihan|berat|badan|atau|obesitas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O	||||||||					
+19	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+19	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+19	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+19	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+19	5	fb:cell_perokok_perokok_beta.null											
+19	6	fb:cell_nilai_p_perokok_merokok.null											
+19	7	fb:cell_merokok_bukan_perokok_beta.null											
+19	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+19	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+19	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+19	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+19	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+19	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+19	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+20	0	fb:cell_kharakteristik.indeks_massa_tubuh_kelebihan_berat_badan	indeks massa tubuh kelebihan berat badan	indeks|massa|tubuh|kelebihan|berat|badan	indeks|massa|tubuh|kelebihan|berat|badan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._3_42	-3.42	-3.42	-3.42	CD	NUMBER	-3.42	3.42				
+20	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+20	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._6_55	-6.55	-6.55	-6.55	CD	NUMBER	-6.55	6.55				
+20	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+20	5	fb:cell_perokok_perokok_beta._3_51	-3.51	-3.51	-3.51	CD	NUMBER	-3.51	3.51				
+20	6	fb:cell_nilai_p_perokok_merokok.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+20	7	fb:cell_merokok_bukan_perokok_beta._5_01	-5.01	-5.01	-5.01	CD	NUMBER	-5.01	5.01				
+20	8	fb:cell_nilai_p_perokok_bukan_perokok.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+20	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+20	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+20	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+20	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+20	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+20	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+21	0	fb:cell_kharakteristik.indeks_massa_tubuh_obesitas	indeks massa tubuh obesitas	indeks|massa|tubuh|obesitas	indeks|massa|tubuh|obesitas	NNP|NNP|NNP|NNPS	O|O|O|O	|||					
+21	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._9_87	-9.87	-9.87	-9.87	CD	NUMBER	-9.87	9.87				
+21	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+21	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+21	5	fb:cell_perokok_perokok_beta._5_66	-5.66	-5.66	-5.66	CD	NUMBER	-5.66	5.66				
+21	6	fb:cell_nilai_p_perokok_merokok.0_32	0.32	0.32	0.32	CD	NUMBER	0.32	0.32				
+21	7	fb:cell_merokok_bukan_perokok_beta._13_76	-13.76	-13.76	-13.76	CD	NUMBER	-13.76	13.76				
+21	8	fb:cell_nilai_p_perokok_bukan_perokok.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+21	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+21	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+21	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+21	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+21	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+22	0	fb:cell_kharakteristik.konsumsi_jus_buah	konsumsi jus buah	konsumsi|jus|buah	konsumsi|jus|buah	NNP|NNP|NNP	O|O|O	||					
+22	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+22	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+22	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+22	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+22	5	fb:cell_perokok_perokok_beta.null											
+22	6	fb:cell_nilai_p_perokok_merokok.null											
+22	7	fb:cell_merokok_bukan_perokok_beta.null											
+22	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+22	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+22	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+22	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+22	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+22	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+22	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+23	0	fb:cell_kharakteristik.konsumsi_jus_buah_setiap_hari	konsumsi jus buah setiap hari	konsumsi|jus|buah|setiap|hari	konsumsi|jus|buah|setiap|hari	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+23	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+23	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+23	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+23	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+23	5	fb:cell_perokok_perokok_beta.null											
+23	6	fb:cell_nilai_p_perokok_merokok.null											
+23	7	fb:cell_merokok_bukan_perokok_beta.null											
+23	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+23	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+23	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+23	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+23	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+23	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+23	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+24	0	fb:cell_kharakteristik.konsumsi_jus_buah_minimal_sebulan_sekali	konsumsi jus buah minimal sebulan sekali	konsumsi|jus|buah|minimal|sebulan|sekali	konsumsi|jus|buah|minimal|sebulan|sekali	NNP|NNP|NNP|JJ|NN|NN	O|O|O|O|O|O	|||||					
+24	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._1_22	-1.22	-1.22	-1.22	CD	NUMBER	-1.22	1.22				
+24	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_56	0.56	0.56	0.56	CD	NUMBER	0.56	0.56				
+24	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._1_51	-1.51	-1.51	-1.51	CD	NUMBER	-1.51	1.51				
+24	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+24	5	fb:cell_perokok_perokok_beta._9_8	-9.8	-9.8	-9.8	CD	NUMBER	-9.8	9.8				
+24	6	fb:cell_nilai_p_perokok_merokok.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+24	7	fb:cell_merokok_bukan_perokok_beta.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+24	8	fb:cell_nilai_p_perokok_bukan_perokok.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+24	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.2_09	2.09	2.09	2.09	CD	NUMBER	2.09	2.09				
+24	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_53	0.53	0.53	0.53	CD	NUMBER	0.53	0.53				
+24	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+24	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_32	0.32	0.32	0.32	CD	NUMBER	0.32	0.32				
+24	13	fb:cell_indeks_massa_tubuh_obesitas_beta._5_8	-5.8	-5.8	-5.8	CD	NUMBER	-5.8	5.8				
+24	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+25	0	fb:cell_kharakteristik.konsumsi_jus_buah_kurang_dari_sebulan_sekali_atau_tidak_sama_sekali	konsumsi jus buah kurang dari sebulan sekali atau tidak sama sekali	konsumsi|jus|buah|kurang|dari|sebulan|sekali|atau|tidak|sama|sekali	konsumsi|jus|buah|kurang|dari|sebulan|sekali|atau|tidak|sama|sekali	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+25	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._6_27	-6.27	-6.27	-6.27	CD	NUMBER	-6.27	6.27				
+25	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+25	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._0_89	-0.89	-0.89	-0.89	CD	NUMBER	-0.89	0.89				
+25	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+25	5	fb:cell_perokok_perokok_beta._17_59	-17.59	-17.59	-17.59	CD	NUMBER	-17.59	17.59				
+25	6	fb:cell_nilai_p_perokok_merokok.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+25	7	fb:cell_merokok_bukan_perokok_beta._3_42	-3.42	-3.42	-3.42	CD	NUMBER	-3.42	3.42				
+25	8	fb:cell_nilai_p_perokok_bukan_perokok.0_17	0.17	0.17	0.17	CD	NUMBER	0.17	0.17				
+25	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._3_31	-3.31	-3.31	-3.31	CD	NUMBER	-3.31	3.31				
+25	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_41	0.41	0.41	0.41	CD	NUMBER	0.41	0.41				
+25	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._5_4	-5.4	-5.4	-5.4	CD	NUMBER	-5.4	5.4				
+25	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+25	13	fb:cell_indeks_massa_tubuh_obesitas_beta._11_52	-11.52	-11.52	-11.52	CD	NUMBER	-11.52	11.52				
+25	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	0	fb:cell_kharakteristik.konsumsi_buah_jeruk	konsumsi buah jeruk	konsumsi|buah|jeruk	konsumsi|buah|jeruk	NNP|NNP|NNP	O|O|O	||					
+26	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+26	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+26	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+26	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+26	5	fb:cell_perokok_perokok_beta.null											
+26	6	fb:cell_nilai_p_perokok_merokok.null											
+26	7	fb:cell_merokok_bukan_perokok_beta.null											
+26	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+26	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+26	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+26	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+26	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+26	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+26	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+27	0	fb:cell_kharakteristik.konsumsi_buah_jeruk_minimal_seminggu_sekali	konsumsi buah jeruk minimal seminggu sekali	konsumsi|buah|jeruk|minimal|seminggu|sekali	konsumsi|buah|jeruk|minimal|seminggu|sekali	NNP|NNP|NNP|JJ|NN|NN	O|O|O|O|O|O	|||||					
+27	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta.null											
+27	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.null											
+27	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta.null											
+27	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.null											
+27	5	fb:cell_perokok_perokok_beta.null											
+27	6	fb:cell_nilai_p_perokok_merokok.null											
+27	7	fb:cell_merokok_bukan_perokok_beta.null											
+27	8	fb:cell_nilai_p_perokok_bukan_perokok.null											
+27	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta.null											
+27	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.null											
+27	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta.null											
+27	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.null											
+27	13	fb:cell_indeks_massa_tubuh_obesitas_beta.null											
+27	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.null											
+28	0	fb:cell_kharakteristik.konsumsi_buah_jeruk_kurang_dari_sekali_dalam_seminggu	konsumsi buah jeruk kurang dari sekali dalam seminggu	konsumsi|buah|jeruk|kurang|dari|sekali|dalam|seminggu	konsumsi|buah|jeruk|kurang|dari|sekali|dalam|seminggu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|O|O|O	|||||||					
+28	1	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_beta._8_01	-8.01	-8.01	-8.01	CD	NUMBER	-8.01	8.01				
+28	2	fb:cell_suplemen_tidak_menggunakan_suplemen_menggunakan_nilai_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	3	fb:cell_suplemen_menggunakan_pengguna_suplemen_beta._2_98	-2.98	-2.98	-2.98	CD	NUMBER	-2.98	2.98				
+28	4	fb:cell_penggunaan_suplemen_nilai_p_pengguna_suplemen.0_47	0.47	0.47	0.47	CD	NUMBER	0.47	0.47				
+28	5	fb:cell_perokok_perokok_beta._14_06	-14.06	-14.06	-14.06	CD	NUMBER	-14.06	14.06				
+28	6	fb:cell_nilai_p_perokok_merokok.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+28	7	fb:cell_merokok_bukan_perokok_beta._4_82	-4.82	-4.82	-4.82	CD	NUMBER	-4.82	4.82				
+28	8	fb:cell_nilai_p_perokok_bukan_perokok.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+28	9	fb:cell_indeks_massa_tubuh_tidak_kelebihan_berat_badan_atau_obesitas_beta._0_87	-0.87	-0.87	-0.87	CD	NUMBER	-0.87	0.87				
+28	10	fb:cell_indeks_massa_tubuh_tidak_memiliki_nilai_p_kelebihan_berat_badan_atau_obesitas.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+28	11	fb:cell_indeks_massa_tubuh_kelebihan_berat_badan_beta._12_24	-12.24	-12.24	-12.24	CD	NUMBER	-12.24	12.24				
+28	12	fb:cell_nilai_p_kelebihan_berat_badan_indeks_massa_tubuh.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	13	fb:cell_indeks_massa_tubuh_obesitas_beta._7_27	-7.27	-7.27	-7.27	CD	NUMBER	-7.27	7.27				
+28	14	fb:cell_nilai_p_obesitas_indeks_massa_tubuh.0_02	0.02	0.02	0.02	CD	NUMBER	0.02	0.02				

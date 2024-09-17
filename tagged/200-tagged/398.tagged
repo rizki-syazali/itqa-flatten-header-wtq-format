@@ -1,0 +1,64 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.model_literasi_1	model literasi 1	model|literasi|1	model|literasus|1	NN|NNS|CD	O|O|NUMBER	||1.0					
+-1	2	fb:row.row.model_literasi_2	model literasi 2	model|literasi|2	model|literasi|2	NN|NN|CD	O|O|NUMBER	||2.0					
+-1	3	fb:row.row.model_literasi_3	model literasi 3	model|literasi|3	model|literasi|3	NN|NNP|CD	O|O|NUMBER	||3.0					
+-1	4	fb:row.row.model_berhitung_1	model berhitung 1	model|berhitung|1	model|berhitung|1	NN|NNP|CD	O|O|NUMBER	||1.0					
+-1	5	fb:row.row.model_berhitung_2	model berhitung 2	model|berhitung|2	model|berhitung|2	NN|NN|CD	O|O|NUMBER	||2.0					
+-1	6	fb:row.row.model_berhitung_3	model berhitung 3	model|berhitung|3	model|berhitung|3	NN|NNP|CD	O|O|NUMBER	||3.0					
+0	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_tinggi	prediksi probabilitas tingkat keterampilan yang lebih tinggi	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_model_literasi_1.null											
+0	2	fb:cell_model_literasi_2.null											
+0	3	fb:cell_model_literasi_3.null											
+0	4	fb:cell_model_berhitung_1.null											
+0	5	fb:cell_model_berhitung_2.null											
+0	6	fb:cell_model_berhitung_3.null											
+1	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_tinggi_di_negara_negara_off_reserve_first	prediksi probabilitas tingkat keterampilan yang lebih tinggi di negara-negara off-reserve first	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi|di|negara|negara|off|reserve|first	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi|di|negara|negara|off|reserve|first	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|IN|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|ORDINAL	||||||||||||1.0					
+1	1	fb:cell_model_literasi_1.0_708	0.708	0.708	0.708	CD	NUMBER	0.708	0.708				
+1	2	fb:cell_model_literasi_2.0_707	0.707	0.707	0.707	CD	NUMBER	0.707	0.707				
+1	3	fb:cell_model_literasi_3.0_752	0.752	0.752	0.752	CD	NUMBER	0.752	0.752				
+1	4	fb:cell_model_berhitung_1.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+1	5	fb:cell_model_berhitung_2.0_744	0.744	0.744	0.744	CD	NUMBER	0.744	0.744				
+1	6	fb:cell_model_berhitung_3.0_767	0.767	0.767	0.767	CD	NUMBER	0.767	0.767				
+2	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_tinggi_metis	prediksi probabilitas tingkat keterampilan yang lebih tinggi metis	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi|metis	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi|metis	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_model_literasi_1.0_857	0.857	0.857	0.857	CD	NUMBER	0.857	0.857				
+2	2	fb:cell_model_literasi_2.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+2	3	fb:cell_model_literasi_3.0_869	0.869	0.869	0.869	CD	NUMBER	0.869	0.869				
+2	4	fb:cell_model_berhitung_1.0_863	0.863	0.863	0.863	CD	NUMBER	0.863	0.863				
+2	5	fb:cell_model_berhitung_2.0_864	0.864	0.864	0.864	CD	NUMBER	0.864	0.864				
+2	6	fb:cell_model_berhitung_3.0_861	0.861	0.861	0.861	CD	NUMBER	0.861	0.861				
+3	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_tinggi_non_aborigin	prediksi probabilitas tingkat keterampilan yang lebih tinggi non-aborigin	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi|non|aborigin	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|tinggi|non|aborigin	NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O|O	||||||||					
+3	1	fb:cell_model_literasi_1.0_907	0.907	0.907	0.907	CD	NUMBER	0.907	0.907				
+3	2	fb:cell_model_literasi_2.0_902	0.902	0.902	0.902	CD	NUMBER	0.902	0.902				
+3	3	fb:cell_model_literasi_3.0_912	0.912	0.912	0.912	CD	NUMBER	0.912	0.912				
+3	4	fb:cell_model_berhitung_1.0_921	0.921	0.921	0.921	CD	NUMBER	0.921	0.921				
+3	5	fb:cell_model_berhitung_2.0_915	0.915	0.915	0.915	CD	NUMBER	0.915	0.915				
+3	6	fb:cell_model_berhitung_3.0_921	0.921	0.921	0.921	CD	NUMBER	0.921	0.921				
+4	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_rendah	prediksi probabilitas tingkat keterampilan yang lebih rendah	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+4	1	fb:cell_model_literasi_1.null											
+4	2	fb:cell_model_literasi_2.null											
+4	3	fb:cell_model_literasi_3.null											
+4	4	fb:cell_model_berhitung_1.null											
+4	5	fb:cell_model_berhitung_2.null											
+4	6	fb:cell_model_berhitung_3.null											
+5	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_rendah_di_negara_negara_off_reserve_first	prediksi probabilitas tingkat keterampilan yang lebih rendah di negara-negara off-reserve first	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah|di|negara|negara|off|reserve|first	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah|di|negara|negara|off|reserve|first	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|IN|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|ORDINAL	||||||||||||1.0					
+5	1	fb:cell_model_literasi_1.0_563	0.563	0.563	0.563	CD	NUMBER	0.563	0.563				
+5	2	fb:cell_model_literasi_2.0_63	0.63	0.63	0.63	CD	NUMBER	0.63	0.63				
+5	3	fb:cell_model_literasi_3.0_699	0.699	0.699	0.699	CD	NUMBER	0.699	0.699				
+5	4	fb:cell_model_berhitung_1.0_572	0.572	0.572	0.572	CD	NUMBER	0.572	0.572				
+5	5	fb:cell_model_berhitung_2.0_626	0.626	0.626	0.626	CD	NUMBER	0.626	0.626				
+5	6	fb:cell_model_berhitung_3.0_697	0.697	0.697	0.697	CD	NUMBER	0.697	0.697				
+6	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_rendah_metis	prediksi probabilitas tingkat keterampilan yang lebih rendah metis	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah|metis	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah|metis	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+6	1	fb:cell_model_literasi_1.0_718	0.718	0.718	0.718	CD	NUMBER	0.718	0.718				
+6	2	fb:cell_model_literasi_2.0_769	0.769	0.769	0.769	CD	NUMBER	0.769	0.769				
+6	3	fb:cell_model_literasi_3.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+6	4	fb:cell_model_berhitung_1.0_735	0.735	0.735	0.735	CD	NUMBER	0.735	0.735				
+6	5	fb:cell_model_berhitung_2.0_775	0.775	0.775	0.775	CD	NUMBER	0.775	0.775				
+6	6	fb:cell_model_berhitung_3.0_813	0.813	0.813	0.813	CD	NUMBER	0.813	0.813				
+7	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_keterampilan_yang_lebih_rendah_non_aborigin	prediksi probabilitas tingkat keterampilan yang lebih rendah non-aborigin	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah|non|aborigin	prediksi|probabilitas|tingkat|keterampilan|yang|lebih|rendah|non|aborigin	NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O|O	||||||||					
+7	1	fb:cell_model_literasi_1.0_805	0.805	0.805	0.805	CD	NUMBER	0.805	0.805				
+7	2	fb:cell_model_literasi_2.0_836	0.836	0.836	0.836	CD	NUMBER	0.836	0.836				
+7	3	fb:cell_model_literasi_3.0_867	0.867	0.867	0.867	CD	NUMBER	0.867	0.867				
+7	4	fb:cell_model_berhitung_1.0_805	0.805	0.805	0.805	CD	NUMBER	0.805	0.805				
+7	5	fb:cell_model_berhitung_2.0_831	0.831	0.831	0.831	CD	NUMBER	0.831	0.831				
+7	6	fb:cell_model_berhitung_3.0_864	0.864	0.864	0.864	CD	NUMBER	0.864	0.864				

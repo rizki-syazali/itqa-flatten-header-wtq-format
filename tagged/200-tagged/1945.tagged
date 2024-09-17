@@ -1,0 +1,421 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_penduduk_tahun_2018	jumlah penduduk tahun 2018	jumlah|penduduk|tahun|2018	jumlah|penduduk|tahun|2018	NNP|NNP|NNP|CD	O|O|O|DATE	|||2018					
+-1	2	fb:row.row.jumlah_korban_tahun_2018	jumlah korban tahun 2018	jumlah|korban|tahun|2018	jumlah|korban|tahun|2018	NNP|NNP|NNP|CD	O|O|O|DATE	|||2018					
+-1	3	fb:row.row.tarif_tahun_2018	tarif tahun 2018	tarif|tahun|2018	tarif|tahun|2018	NNP|NNP|CD	O|O|DATE	||2018					
+-1	4	fb:row.row.jumlah_korban_tahun_2017	jumlah korban tahun 2017	jumlah|korban|tahun|2017	jumlah|korban|tahun|2017	NNP|NNP|NNP|CD	O|O|O|DATE	|||2017					
+-1	5	fb:row.row.tarif_tahun_2017	tarif tahun 2017	tarif|tahun|2017	tarif|tahun|2017	NNP|NNP|CD	O|O|DATE	||2017					
+-1	6	fb:row.row.selisih_dengan_jumlah_korban_pada_tahun_2017	selisih dengan jumlah korban pada tahun 2017	selisih|dengan|jumlah|korban|pada|tahun|2017	selisih|dengan|jumlah|korban|pada|tahun|2017	NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|DATE	||||||2017					
+-1	7	fb:row.row.perbedaan_dari_perubahan_tarif_tahun_2017_persen	perbedaan dari perubahan tarif tahun 2017 persen	perbedaan|dari|perubahan|tarif|tahun|2017|persen	perbedaan|dari|perubahan|tarif|tahun|2017|persen	NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|O|O|DATE|O	|||||2017|					
+-1	8	fb:row.row.rata_rata_jumlah_korban_tahun_2008_hingga_2017	rata-rata jumlah korban tahun 2008 hingga 2017	rata|rata|jumlah|korban|tahun|2008|hingga|2017	rata|rata|jumlah|korban|tahun|2008|hingga|2017	JJ|JJ|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|DATE|O|DATE	|||||2008||2017					
+-1	9	fb:row.row.rata_rata_tingkat_2008_hingga_2017	rata-rata tingkat 2008 hingga 2017	rata|rata|tingkat|2008|hingga|2017	rata|rata|tingkat|2008|hingga|2017	JJ|JJ|NNP|CD|NNP|CD	O|O|O|DATE|O|DATE	|||2008||2017					
+0	0	fb:cell_kharakteristik.500_000_ke_atas_populasi	500.000 ke atas populasi	500.000|ke|atas|populasi	500.000|ke|atas|populasi	CD|NNP|NNP|NNP	NUMBER|O|O|O	500.0|||	500.0				
+0	1	fb:cell_jumlah_penduduk_tahun_2018.null											
+0	2	fb:cell_jumlah_korban_tahun_2018.null											
+0	3	fb:cell_tarif_tahun_2018.null											
+0	4	fb:cell_jumlah_korban_tahun_2017.null											
+0	5	fb:cell_tarif_tahun_2017.null											
+0	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.null											
+0	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+0	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.null											
+0	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.null											
+1	0	fb:cell_kharakteristik.500_000_ke_atas_populasi_toronto	500.000 ke atas populasi toronto	500.000|ke|atas|populasi|toronto	500.000|ke|atas|populasi|toronto	CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|O	500.0||||	500.0				
+1	1	fb:cell_jumlah_penduduk_tahun_2018.6274077_0	6274077.0	6274077.0	6274077.0	CD	NUMBER	6274077.0	6274077.0				
+1	2	fb:cell_jumlah_korban_tahun_2018.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+1	3	fb:cell_tarif_tahun_2018.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+1	4	fb:cell_jumlah_korban_tahun_2017.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+1	5	fb:cell_tarif_tahun_2017.0_58	0.58	0.58	0.58	CD	NUMBER	0.58	0.58				
+1	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._1_8	-1.8	-1.8	-1.8	CD	NUMBER	-1.8	1.8				
+1	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+1	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+2	0	fb:cell_kharakteristik.500_000_ke_atas_populasi_montreal	500.000 ke atas populasi montreal	500.000|ke|atas|populasi|montreal	500.000|ke|atas|populasi|montreal	CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|O	500.0||||	500.0				
+2	1	fb:cell_jumlah_penduduk_tahun_2018.4239709_0	4239709.0	4239709.0	4239709.0	CD	NUMBER	4239709.0	4239709.0				
+2	2	fb:cell_jumlah_korban_tahun_2018.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+2	3	fb:cell_tarif_tahun_2018.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+2	4	fb:cell_jumlah_korban_tahun_2017.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+2	5	fb:cell_tarif_tahun_2017.0_36	0.36	0.36	0.36	CD	NUMBER	0.36	0.36				
+2	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+2	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.57_5	57.5	57.5	57.5	CD	NUMBER	57.5	57.5				
+2	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+2	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_41	0.41	0.41	0.41	CD	NUMBER	0.41	0.41				
+3	0	fb:cell_kharakteristik.500_000_dan_lebih_dari_populasi_vancouver	500.000 dan lebih dari populasi vancouver	500.000|dan|lebih|dari|populasi|vancouver	500.000|dan|lebih|dari|populasi|vancouver	CD|NNP|NNP|NNP|NNP|NNP	NUMBER|PERSON|PERSON|PERSON|PERSON|O	500.0|||||	500.0				
+3	1	fb:cell_jumlah_penduduk_tahun_2018.2650798_0	2650798.0	2650798.0	2650798.0	CD	NUMBER	2650798.0	2650798.0				
+3	2	fb:cell_jumlah_korban_tahun_2018.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+3	3	fb:cell_tarif_tahun_2018.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+3	4	fb:cell_jumlah_korban_tahun_2017.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+3	5	fb:cell_tarif_tahun_2017.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+3	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._1_5	-1.5	-1.5	-1.5	CD	NUMBER	-1.5	1.5				
+3	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+3	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_68	0.68	0.68	0.68	CD	NUMBER	0.68	0.68				
+4	0	fb:cell_kharakteristik.500_000_ke_atas_populasi_calgary	500.000 ke atas populasi calgary	500.000|ke|atas|populasi|calgary	500.000|ke|atas|populasi|calgary	CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|O	500.0||||	500.0				
+4	1	fb:cell_jumlah_penduduk_tahun_2018.1498941_0	1498941.0	1498941.0	1498941.0	CD	NUMBER	1498941.0	1498941.0				
+4	2	fb:cell_jumlah_korban_tahun_2018.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+4	3	fb:cell_tarif_tahun_2018.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+4	4	fb:cell_jumlah_korban_tahun_2017.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+4	5	fb:cell_tarif_tahun_2017.0_81	0.81	0.81	0.81	CD	NUMBER	0.81	0.81				
+4	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+4	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._67_2	-67.2	-67.2	-67.2	CD	NUMBER	-67.2	67.2				
+4	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+4	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_46	0.46	0.46	0.46	CD	NUMBER	0.46	0.46				
+5	0	fb:cell_kharakteristik.500_000_dan_lebih_dari_populasi_edmonton	500.000 dan lebih dari populasi Edmonton	500.000|dan|lebih|dari|populasi|edmonton	500.000|dan|lebih|dari|populasi|Edmonton	CD|NNP|NNP|NNP|NNP|NNP	NUMBER|PERSON|PERSON|PERSON|PERSON|PERSON	500.0|||||	500.0				
+5	1	fb:cell_jumlah_penduduk_tahun_2018.1425627_0	1425627.0	1425627.0	1425627.0	CD	NUMBER	1425627.0	1425627.0				
+5	2	fb:cell_jumlah_korban_tahun_2018.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+5	3	fb:cell_tarif_tahun_2018.0_98	0.98	0.98	0.98	CD	NUMBER	0.98	0.98				
+5	4	fb:cell_jumlah_korban_tahun_2017.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+5	5	fb:cell_tarif_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+5	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+5	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+6	0	fb:cell_kharakteristik.500_000_ke_atas_populasi_ottawa	500.000 ke atas populasi ottawa	500.000|ke|atas|populasi|ottawa	500.000|ke|atas|populasi|ottawa	CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|O	500.0||||	500.0				
+6	1	fb:cell_jumlah_penduduk_tahun_2018.1068569_0	1068569.0	1068569.0	1068569.0	CD	NUMBER	1068569.0	1068569.0				
+6	2	fb:cell_jumlah_korban_tahun_2018.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+6	3	fb:cell_tarif_tahun_2018.0_47	0.47	0.47	0.47	CD	NUMBER	0.47	0.47				
+6	4	fb:cell_jumlah_korban_tahun_2017.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+6	5	fb:cell_tarif_tahun_2017.0_38	0.38	0.38	0.38	CD	NUMBER	0.38	0.38				
+6	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.22_2	22.2	22.2	22.2	CD	NUMBER	22.2	22.2				
+6	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+6	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+7	0	fb:cell_kharakteristik.500_000_dan_lebih_dari_populasi_winnipeg	500.000 dan lebih dari populasi winnipeg	500.000|dan|lebih|dari|populasi|winnipeg	500.000|dan|lebih|dari|populasi|winnipeg	CD|NNP|NNP|NNP|NNP|NNP	NUMBER|PERSON|PERSON|PERSON|PERSON|PERSON	500.0|||||	500.0				
+7	1	fb:cell_jumlah_penduduk_tahun_2018.816741_0	816741.0	816741.0	816741.0	CD	NUMBER	816741.0	816741.0				
+7	2	fb:cell_jumlah_korban_tahun_2018.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+7	3	fb:cell_tarif_tahun_2018.0_49	0.49	0.49	0.49	CD	NUMBER	0.49	0.49				
+7	4	fb:cell_jumlah_korban_tahun_2017.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+7	5	fb:cell_tarif_tahun_2017.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+7	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+7	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._64_2	-64.2	-64.2	-64.2	CD	NUMBER	-64.2	64.2				
+7	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+7	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+8	0	fb:cell_kharakteristik.500_000_dan_lebih_dari_populasi_quebec	500.000 dan lebih dari populasi Quebec	500.000|dan|lebih|dari|populasi|quebec	500.000|dan|lebih|dari|populasi|Quebec	CD|NNP|NNP|NNP|NNP|NNP	NUMBER|PERSON|PERSON|PERSON|PERSON|O	500.0|||||	500.0				
+8	1	fb:cell_jumlah_penduduk_tahun_2018.808905_0	808905.0	808905.0	808905.0	CD	NUMBER	808905.0	808905.0				
+8	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+8	3	fb:cell_tarif_tahun_2018.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				
+8	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+8	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+8	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+9	0	fb:cell_kharakteristik.500_000_ke_atas_populasi_hamilton	500.000 ke atas populasi hamilton	500.000|ke|atas|populasi|hamilton	500.000|ke|atas|populasi|hamilton	CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|O	500.0||||	500.0				
+9	1	fb:cell_jumlah_penduduk_tahun_2018.770987_0	770987.0	770987.0	770987.0	CD	NUMBER	770987.0	770987.0				
+9	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+9	3	fb:cell_tarif_tahun_2018.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+9	4	fb:cell_jumlah_korban_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	5	fb:cell_tarif_tahun_2017.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+9	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.97_2	97.2	97.2	97.2	CD	NUMBER	97.2	97.2				
+9	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+9	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+10	0	fb:cell_kharakteristik.500_000_dan_lebih_dari_populasi_kitchener_cambridge_waterloo	500.000 dan lebih dari populasi kitchener-cambridge-waterloo	500.000|dan|lebih|dari|populasi|kitchener|cambridge|waterloo	500.000|dan|lebih|dari|populasi|kitchener|cambridge|waterloo	CD|NNP|NNP|NNP|NNP|NNP|NNP|NNP	NUMBER|PERSON|PERSON|PERSON|PERSON|O|O|O	500.0|||||||	500.0				
+10	1	fb:cell_jumlah_penduduk_tahun_2018.579145_0	579145.0	579145.0	579145.0	CD	NUMBER	579145.0	579145.0				
+10	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+10	3	fb:cell_tarif_tahun_2018.0_35	0.35	0.35	0.35	CD	NUMBER	0.35	0.35				
+10	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+10	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+10	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+11	0	fb:cell_kharakteristik.500_000_ke_atas_populasi_london	500.000 ke atas populasi London	500.000|ke|atas|populasi|london	500.000|ke|atas|populasi|London	CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|O	500.0||||	500.0				
+11	1	fb:cell_jumlah_penduduk_tahun_2018.534936_0	534936.0	534936.0	534936.0	CD	NUMBER	534936.0	534936.0				
+11	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+11	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+11	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+12	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk	100.000 hingga kurang dari 500.000 penduduk	100.000|hingga|kurang|dari|500.000|penduduk	100.000|hingga|kurang|dari|500.000|penduduk	CD|NN|NN|NNP|CD|NN	NUMBER|O|O|O|NUMBER|O	100.0||||500.0|	100.0		500.0		
+12	1	fb:cell_jumlah_penduduk_tahun_2018.null											
+12	2	fb:cell_jumlah_korban_tahun_2018.null											
+12	3	fb:cell_tarif_tahun_2018.null											
+12	4	fb:cell_jumlah_korban_tahun_2017.null											
+12	5	fb:cell_tarif_tahun_2017.null											
+12	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.null											
+12	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+12	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.null											
+12	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.null											
+13	0	fb:cell_kharakteristik.100_000_sampai_kurang_dari_500_000_penduduk_st_catharines_niagara	100.000 sampai kurang dari 500.000 penduduk st. catharines-niagara	100.000|sampai|kurang|dari|500.000|penduduk|st.|catharines|niagara	100.000|sampai|kurang|dari|500.000|penduduk|st.|catharines|niagara	CD|FW|FW|FW|CD|NN|NNP|NNP|NNP	NUMBER|MISC|MISC|MISC|NUMBER|O|O|O|O	100.0||||500.0||||	100.0		500.0		
+13	1	fb:cell_jumlah_penduduk_tahun_2018.472448_0	472448.0	472448.0	472448.0	CD	NUMBER	472448.0	472448.0				
+13	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+13	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+14	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_oshawa	100.000 hingga kurang dari 500.000 penduduk oshawa	100.000|hingga|kurang|dari|500.000|penduduk|oshawa	100.000|hingga|kurang|dari|500.000|penduduk|oshawa	CD|NN|NN|NNP|CD|NN|NN	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+14	1	fb:cell_jumlah_penduduk_tahun_2018.458016_0	458016.0	458016.0	458016.0	CD	NUMBER	458016.0	458016.0				
+14	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+14	3	fb:cell_tarif_tahun_2018.0_44	0.44	0.44	0.44	CD	NUMBER	0.44	0.44				
+14	4	fb:cell_jumlah_korban_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+14	5	fb:cell_tarif_tahun_2017.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+14	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+14	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.94_3	94.3	94.3	94.3	CD	NUMBER	94.3	94.3				
+14	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+14	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+15	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_halifax	100.000 hingga kurang dari 500.000 populasi halifax	100.000|hingga|kurang|dari|500.000|populasi|halifax	100.000|hingga|kurang|dari|500.000|populasi|halifax	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+15	1	fb:cell_jumlah_penduduk_tahun_2018.430505_0	430505.0	430505.0	430505.0	CD	NUMBER	430505.0	430505.0				
+15	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+15	3	fb:cell_tarif_tahun_2018.0_46	0.46	0.46	0.46	CD	NUMBER	0.46	0.46				
+15	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+15	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+15	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+15	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+15	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+16	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_victoria	100.000 hingga kurang dari 500.000 penduduk Victoria	100.000|hingga|kurang|dari|500.000|penduduk|victoria	100.000|hingga|kurang|dari|500.000|penduduk|Victoria	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+16	1	fb:cell_jumlah_penduduk_tahun_2018.395651_0	395651.0	395651.0	395651.0	CD	NUMBER	395651.0	395651.0				
+16	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+16	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+16	4	fb:cell_jumlah_korban_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+16	5	fb:cell_tarif_tahun_2017.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+16	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+16	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._100_0	-100.0	-100.0	-100.0	CD	NUMBER	-100.0	100.0				
+16	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+16	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+17	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_windsor	100.000 hingga kurang dari 500.000 penduduk Windsor	100.000|hingga|kurang|dari|500.000|penduduk|windsor	100.000|hingga|kurang|dari|500.000|penduduk|Windsor	CD|NN|NN|NNP|CD|NN|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+17	1	fb:cell_jumlah_penduduk_tahun_2018.349787_0	349787.0	349787.0	349787.0	CD	NUMBER	349787.0	349787.0				
+17	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+17	3	fb:cell_tarif_tahun_2018.0_57	0.57	0.57	0.57	CD	NUMBER	0.57	0.57				
+17	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+17	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+17	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+17	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+17	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+17	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_15	0.15	0.15	0.15	CD	NUMBER	0.15	0.15				
+18	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_gatineau	100.000 hingga kurang dari 500.000 penduduk gatineau	100.000|hingga|kurang|dari|500.000|penduduk|gatineau	100.000|hingga|kurang|dari|500.000|penduduk|gatineau	CD|NN|NN|NNP|CD|NN|NN	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+18	1	fb:cell_jumlah_penduduk_tahun_2018.333108_0	333108.0	333108.0	333108.0	CD	NUMBER	333108.0	333108.0				
+18	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+18	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+18	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+19	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_saskatoon	100.000 hingga kurang dari 500.000 penduduk Saskatoon	100.000|hingga|kurang|dari|500.000|penduduk|saskatoon	100.000|hingga|kurang|dari|500.000|penduduk|saskatoon	CD|NN|NN|NNP|CD|NN|NN	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+19	1	fb:cell_jumlah_penduduk_tahun_2018.328181_0	328181.0	328181.0	328181.0	CD	NUMBER	328181.0	328181.0				
+19	2	fb:cell_jumlah_korban_tahun_2018.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+19	3	fb:cell_tarif_tahun_2018.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+19	4	fb:cell_jumlah_korban_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+19	5	fb:cell_tarif_tahun_2017.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+19	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+19	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+19	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+19	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+20	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_regina	100.000 hingga kurang dari 500.000 populasi regina	100.000|hingga|kurang|dari|500.000|populasi|regina	100.000|hingga|kurang|dari|500.000|populasi|regina	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+20	1	fb:cell_jumlah_penduduk_tahun_2018.258386_0	258386.0	258386.0	258386.0	CD	NUMBER	258386.0	258386.0				
+20	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+20	3	fb:cell_tarif_tahun_2018.0_77	0.77	0.77	0.77	CD	NUMBER	0.77	0.77				
+20	4	fb:cell_jumlah_korban_tahun_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+20	5	fb:cell_tarif_tahun_2017.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+20	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+20	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+20	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+20	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+21	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi	100.000 hingga kurang dari 500.000 populasi	100.000|hingga|kurang|dari|500.000|populasi	100.000|hingga|kurang|dari|500.000|populasi	CD|NN|NN|NNP|CD|NN	NUMBER|O|O|O|NUMBER|O	100.0||||500.0|	100.0		500.0		
+21	1	fb:cell_jumlah_penduduk_tahun_2018.228602_0	228602.0	228602.0	228602.0	CD	NUMBER	228602.0	228602.0				
+21	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+21	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+22	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_kelowna	100.000 hingga kurang dari 500.000 penduduk kelowna	100.000|hingga|kurang|dari|500.000|penduduk|kelowna	100.000|hingga|kurang|dari|500.000|penduduk|kelowna	CD|NN|NN|NNP|CD|NN|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+22	1	fb:cell_jumlah_penduduk_tahun_2018.210961_0	210961.0	210961.0	210961.0	CD	NUMBER	210961.0	210961.0				
+22	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+22	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+22	4	fb:cell_jumlah_korban_tahun_2017.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+22	5	fb:cell_tarif_tahun_2017.1_45	1.45	1.45	1.45	CD	NUMBER	1.45	1.45				
+22	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+22	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._100_0	-100.0	-100.0	-100.0	CD	NUMBER	-100.0	100.0				
+22	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+22	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_53	0.53	0.53	0.53	CD	NUMBER	0.53	0.53				
+23	0	fb:cell_kharakteristik.100_000_sampai_kurang_dari_500_000_penduduk_st_milik_john	100.000 sampai kurang dari 500.000 penduduk st. milik John	100.000|sampai|kurang|dari|500.000|penduduk|st.|milik|john	100.000|sampai|kurang|dari|500.000|penduduk|st.|milik|John	CD|FW|FW|FW|CD|NN|NNP|NNP|NNP	NUMBER|MISC|MISC|MISC|NUMBER|O|O|O|O	100.0||||500.0||||	100.0		500.0		
+23	1	fb:cell_jumlah_penduduk_tahun_2018.208289_0	208289.0	208289.0	208289.0	CD	NUMBER	208289.0	208289.0				
+23	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+23	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+24	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_sherbrooke	100.000 hingga kurang dari 500.000 populasi sherbrooke	100.000|hingga|kurang|dari|500.000|populasi|sherbrooke	100.000|hingga|kurang|dari|500.000|populasi|sherbrooke	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+24	1	fb:cell_jumlah_penduduk_tahun_2018.202593_0	202593.0	202593.0	202593.0	CD	NUMBER	202593.0	202593.0				
+24	2	fb:cell_jumlah_korban_tahun_2018.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+24	3	fb:cell_tarif_tahun_2018.0_49	0.49	0.49	0.49	CD	NUMBER	0.49	0.49				
+24	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+24	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+24	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+24	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+24	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+24	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_misi_abbotsford	100.000 hingga kurang dari 500.000 populasi misi Abbotsford	100.000|hingga|kurang|dari|500.000|populasi|misi|abbotsford	100.000|hingga|kurang|dari|500.000|populasi|misi|Abbotsford	CD|NN|NN|NNP|CD|NNP|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O|O	100.0||||500.0|||	100.0		500.0		
+25	1	fb:cell_jumlah_penduduk_tahun_2018.195726_0	195726.0	195726.0	195726.0	CD	NUMBER	195726.0	195726.0				
+25	2	fb:cell_jumlah_korban_tahun_2018.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+25	3	fb:cell_tarif_tahun_2018.2_04	2.04	2.04	2.04	CD	NUMBER	2.04	2.04				
+25	4	fb:cell_jumlah_korban_tahun_2017.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+25	5	fb:cell_tarif_tahun_2017.3_11	3.11	3.11	3.11	CD	NUMBER	3.11	3.11				
+25	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+25	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._34_2	-34.2	-34.2	-34.2	CD	NUMBER	-34.2	34.2				
+25	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+25	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34				
+26	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_kingston	100.000 hingga kurang dari 500.000 populasi kingston	100.000|hingga|kurang|dari|500.000|populasi|kingston	100.000|hingga|kurang|dari|500.000|populasi|kingston	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+26	1	fb:cell_jumlah_penduduk_tahun_2018.171043_0	171043.0	171043.0	171043.0	CD	NUMBER	171043.0	171043.0				
+26	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+26	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_saguenay	100.000 hingga kurang dari 500.000 populasi saguenay	100.000|hingga|kurang|dari|500.000|populasi|saguenay	100.000|hingga|kurang|dari|500.000|populasi|saguenay	CD|NN|NN|NNP|CD|JJ|NN	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+27	1	fb:cell_jumlah_penduduk_tahun_2018.168743_0	168743.0	168743.0	168743.0	CD	NUMBER	168743.0	168743.0				
+27	2	fb:cell_jumlah_korban_tahun_2018.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	3	fb:cell_tarif_tahun_2018.0_59	0.59	0.59	0.59	CD	NUMBER	0.59	0.59				
+27	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+27	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+27	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+28	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_di_wilayah_sudbury	100.000 hingga kurang dari 500.000 populasi di wilayah Sudbury	100.000|hingga|kurang|dari|500.000|populasi|di|wilayah|sudbury	100.000|hingga|kurang|dari|500.000|populasi|di|wilayah|Sudbury	CD|NN|NN|NNP|CD|NNP|NNP|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O|O|O	100.0||||500.0||||	100.0		500.0		
+28	1	fb:cell_jumlah_penduduk_tahun_2018.168141_0	168141.0	168141.0	168141.0	CD	NUMBER	168141.0	168141.0				
+28	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+28	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_moncton	100.000 hingga kurang dari 500.000 populasi moncton	100.000|hingga|kurang|dari|500.000|populasi|moncton	100.000|hingga|kurang|dari|500.000|populasi|moncton	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+29	1	fb:cell_jumlah_penduduk_tahun_2018.161122_0	161122.0	161122.0	161122.0	CD	NUMBER	161122.0	161122.0				
+29	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+29	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_trois_rivieres	100.000 hingga kurang dari 500.000 populasi trois-rivieres	100.000|hingga|kurang|dari|500.000|populasi|trois|rivieres	100.000|hingga|kurang|dari|500.000|populasi|trois|rivieres	CD|NN|NN|NNP|CD|NN|FW|FW	NUMBER|O|O|O|NUMBER|O|O|O	100.0||||500.0|||	100.0		500.0		
+30	1	fb:cell_jumlah_penduduk_tahun_2018.157208_0	157208.0	157208.0	157208.0	CD	NUMBER	157208.0	157208.0				
+30	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+30	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+31	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_brantford	100.000 hingga kurang dari 500.000 penduduk Brantford	100.000|hingga|kurang|dari|500.000|penduduk|brantford	100.000|hingga|kurang|dari|500.000|penduduk|Brantford	CD|NN|NN|NNP|CD|NN|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+31	1	fb:cell_jumlah_penduduk_tahun_2018.148603_0	148603.0	148603.0	148603.0	CD	NUMBER	148603.0	148603.0				
+31	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+31	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+31	4	fb:cell_jumlah_korban_tahun_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+31	5	fb:cell_tarif_tahun_2017.0_68	0.68	0.68	0.68	CD	NUMBER	0.68	0.68				
+31	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+31	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._100_0	-100.0	-100.0	-100.0	CD	NUMBER	-100.0	100.0				
+31	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+31	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_07	0.07	0.07	0.07	CD	NUMBER	0.07	0.07				
+32	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_guelph	100.000 hingga kurang dari 500.000 penduduk guelph	100.000|hingga|kurang|dari|500.000|penduduk|guelph	100.000|hingga|kurang|dari|500.000|penduduk|guelph	CD|NN|NN|NNP|CD|NN|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+32	1	fb:cell_jumlah_penduduk_tahun_2018.140683_0	140683.0	140683.0	140683.0	CD	NUMBER	140683.0	140683.0				
+32	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+32	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+32	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+32	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+32	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+32	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+32	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+32	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+33	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_saint_john	100.000 hingga kurang dari 500.000 populasi saint john	100.000|hingga|kurang|dari|500.000|populasi|saint|john	100.000|hingga|kurang|dari|500.000|populasi|saint|john	CD|NN|NN|NNP|CD|NNP|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O|PERSON	100.0||||500.0|||	100.0		500.0		
+33	1	fb:cell_jumlah_penduduk_tahun_2018.129790_0	129790.0	129790.0	129790.0	CD	NUMBER	129790.0	129790.0				
+33	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+33	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+33	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+34	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_penduduk_peterborough	100.000 hingga kurang dari 500.000 penduduk peterborough	100.000|hingga|kurang|dari|500.000|penduduk|peterborough	100.000|hingga|kurang|dari|500.000|penduduk|peterborough	CD|NN|NN|NNP|CD|NN|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+34	1	fb:cell_jumlah_penduduk_tahun_2018.128932_0	128932.0	128932.0	128932.0	CD	NUMBER	128932.0	128932.0				
+34	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+34	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+34	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+34	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+34	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+34	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+34	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+34	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+35	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_teluk_guntur	100.000 hingga kurang dari 500.000 populasi teluk guntur	100.000|hingga|kurang|dari|500.000|populasi|teluk|guntur	100.000|hingga|kurang|dari|500.000|populasi|teluk|guntur	CD|NN|NN|NNP|CD|NNP|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O|O	100.0||||500.0|||	100.0		500.0		
+35	1	fb:cell_jumlah_penduduk_tahun_2018.125373_0	125373.0	125373.0	125373.0	CD	NUMBER	125373.0	125373.0				
+35	2	fb:cell_jumlah_korban_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+35	3	fb:cell_tarif_tahun_2018.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+35	4	fb:cell_jumlah_korban_tahun_2017.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+35	5	fb:cell_tarif_tahun_2017.2_44	2.44	2.44	2.44	CD	NUMBER	2.44	2.44				
+35	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+35	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._34_7	-34.7	-34.7	-34.7	CD	NUMBER	-34.7	34.7				
+35	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+35	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+36	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_lethbridge	100.000 hingga kurang dari 500.000 populasi lethbridge	100.000|hingga|kurang|dari|500.000|populasi|lethbridge	100.000|hingga|kurang|dari|500.000|populasi|lethbridge	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+36	1	fb:cell_jumlah_penduduk_tahun_2018.123335_0	123335.0	123335.0	123335.0	CD	NUMBER	123335.0	123335.0				
+36	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+36	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+36	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+36	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+36	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+36	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+36	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.null											
+36	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.null											
+37	0	fb:cell_kharakteristik.100_000_hingga_kurang_dari_500_000_populasi_belleville	100.000 hingga kurang dari 500.000 populasi belleville	100.000|hingga|kurang|dari|500.000|populasi|belleville	100.000|hingga|kurang|dari|500.000|populasi|belleville	CD|NN|NN|NNP|CD|NNP|NNP	NUMBER|O|O|O|NUMBER|O|O	100.0||||500.0||	100.0		500.0		
+37	1	fb:cell_jumlah_penduduk_tahun_2018.111584_0	111584.0	111584.0	111584.0	CD	NUMBER	111584.0	111584.0				
+37	2	fb:cell_jumlah_korban_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	3	fb:cell_tarif_tahun_2018.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	4	fb:cell_jumlah_korban_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	5	fb:cell_tarif_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen.null											
+37	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.null											
+37	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.null											
+38	0	fb:cell_kharakteristik.jumlah_cma	jumlah cma	jumlah|cma	jumlah|cma	NNP|NNP	O|O	|					
+38	1	fb:cell_jumlah_penduduk_tahun_2018.26475245_0	26475245.0	26475245.0	26475245.0	CD	NUMBER	2.6475245E7	2.6475245E7				
+38	2	fb:cell_jumlah_korban_tahun_2018.130_0	130.0	130.0	130.0	CD	NUMBER	130.0	130.0				
+38	3	fb:cell_tarif_tahun_2018.0_49	0.49	0.49	0.49	CD	NUMBER	0.49	0.49				
+38	4	fb:cell_jumlah_korban_tahun_2017.131_0	131.0	131.0	131.0	CD	NUMBER	131.0	131.0				
+38	5	fb:cell_tarif_tahun_2017.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+38	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+38	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._2_5	-2.5	-2.5	-2.5	CD	NUMBER	-2.5	2.5				
+38	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+38	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+39	0	fb:cell_kharakteristik.total_non_cma	total non-cma	total|non|cma	total|non|cma	JJ|JJ|NN	O|O|O	||					
+39	1	fb:cell_jumlah_penduduk_tahun_2018.10583611_0	10583611.0	10583611.0	10583611.0	CD	NUMBER	1.0583611E7	1.0583611E7				
+39	2	fb:cell_jumlah_korban_tahun_2018.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+39	3	fb:cell_tarif_tahun_2018.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+39	4	fb:cell_jumlah_korban_tahun_2017.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+39	5	fb:cell_tarif_tahun_2017.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+39	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+39	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._16_1	-16.1	-16.1	-16.1	CD	NUMBER	-16.1	16.1				
+39	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+39	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_21	0.21	0.21	0.21	CD	NUMBER	0.21	0.21				
+40	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+40	1	fb:cell_jumlah_penduduk_tahun_2018.37058856_0	37058856.0	37058856.0	37058856.0	CD	NUMBER	3.7058856E7	3.7058856E7				
+40	2	fb:cell_jumlah_korban_tahun_2018.157_0	157.0	157.0	157.0	CD	NUMBER	157.0	157.0				
+40	3	fb:cell_tarif_tahun_2018.0_42	0.42	0.42	0.42	CD	NUMBER	0.42	0.42				
+40	4	fb:cell_jumlah_korban_tahun_2017.163_0	163.0	163.0	163.0	CD	NUMBER	163.0	163.0				
+40	5	fb:cell_tarif_tahun_2017.0_45	0.45	0.45	0.45	CD	NUMBER	0.45	0.45				
+40	6	fb:cell_selisih_dengan_jumlah_korban_pada_tahun_2017._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+40	7	fb:cell_perbedaan_dari_perubahan_tarif_tahun_2017_persen._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+40	8	fb:cell_rata_rata_jumlah_korban_tahun_2008_hingga_2017.111_0	111.0	111.0	111.0	CD	NUMBER	111.0	111.0				
+40	9	fb:cell_rata_rata_tingkat_2008_hingga_2017.0_32	0.32	0.32	0.32	CD	NUMBER	0.32	0.32				

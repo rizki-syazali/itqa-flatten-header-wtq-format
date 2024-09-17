@@ -1,0 +1,82 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_65_tahun_ke_atas_wanita	total - 65 tahun ke atas wanita	total|-|65|tahun|ke|atas|wanita	total|-|65|tahun|ke|atas|wanita	JJ|:|CD|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O	||65.0||||					
+-1	2	fb:row.row.total_65_tahun_ke_atas_laki_laki	total - 65 tahun ke atas laki-laki	total|-|65|tahun|ke|atas|laki|laki	total|-|65|tahun|ke|atas|laki|laki	JJ|:|CD|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O	||65.0|||||					
+-1	3	fb:row.row.wanita_65_hingga_74_tahun	wanita 65 hingga 74 tahun	wanita|65|hingga|74|tahun	wanita|65|hingga|74|tahun	NNP|CD|NN|CD|NN	O|NUMBER|O|NUMBER|O	|65.0||74.0|					
+-1	4	fb:row.row.pria_berusia_65_hingga_74_tahun	pria berusia 65 hingga 74 tahun	pria|berusia|65|hingga|74|tahun	pria|berusia|65|hingga|74|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||65.0||74.0|					
+-1	5	fb:row.row.wanita_berusia_75_hingga_84_tahun	wanita berusia 75 hingga 84 tahun	wanita|berusia|75|hingga|84|tahun	wanita|berusia|75|hingga|84|tahun	NNP|NNP|CD|NN|CD|NN	PERSON|PERSON|NUMBER|O|NUMBER|O	||75.0||84.0|					
+-1	6	fb:row.row.pria_berusia_75_hingga_84_tahun	pria berusia 75 hingga 84 tahun	pria|berusia|75|hingga|84|tahun	pria|berusia|75|hingga|84|tahun	NN|NN|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||75.0||84.0|					
+-1	7	fb:row.row.wanita_berusia_85_tahun_ke_atas	wanita berusia 85 tahun ke atas	wanita|berusia|85|tahun|ke|atas	wanita|berusia|85|tahun|ke|atas	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||85.0|||					
+-1	8	fb:row.row.laki_laki_berusia_85_tahun_ke_atas	laki-laki berusia 85 tahun ke atas	laki|laki|berusia|85|tahun|ke|atas	laki|laki|berusia|85|tahun|ke|atas	NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|NUMBER|O|O|O	|||85.0|||					
+0	0	fb:cell_kharakteristik.persentase_positif	persentase positif	persentase|positif	persentase|positif	NN|NN	O|O	|					
+0	1	fb:cell_total_65_tahun_ke_atas_wanita.94_3	94.3	94.3	94.3	CD	NUMBER	94.3	94.3				
+0	2	fb:cell_total_65_tahun_ke_atas_laki_laki.94_3	94.3	94.3	94.3	CD	NUMBER	94.3	94.3				
+0	3	fb:cell_wanita_65_hingga_74_tahun.95_1	95.1	95.1	95.1	CD	NUMBER	95.1	95.1				
+0	4	fb:cell_pria_berusia_65_hingga_74_tahun.94_7	94.7	94.7	94.7	CD	NUMBER	94.7	94.7				
+0	5	fb:cell_wanita_berusia_75_hingga_84_tahun.93_1	93.1	93.1	93.1	CD	NUMBER	93.1	93.1				
+0	6	fb:cell_pria_berusia_75_hingga_84_tahun.94_5	94.5	94.5	94.5	CD	NUMBER	94.5	94.5				
+0	7	fb:cell_wanita_berusia_85_tahun_ke_atas.93_9	93.9	93.9	93.9	CD	NUMBER	93.9	93.9				
+0	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+1	0	fb:cell_kharakteristik.persentase_positif_sangat_baik	persentase positif sangat baik	persentase|positif|sangat|baik	persentase|positif|sangat|baik	NN|NN|NN|NN	O|O|O|O	|||					
+1	1	fb:cell_total_65_tahun_ke_atas_wanita.32_7	32.7	32.7	32.7	CD	NUMBER	32.7	32.7				
+1	2	fb:cell_total_65_tahun_ke_atas_laki_laki.34_4	34.4	34.4	34.4	CD	NUMBER	34.4	34.4				
+1	3	fb:cell_wanita_65_hingga_74_tahun.35_6	35.6	35.6	35.6	CD	NUMBER	35.6	35.6				
+1	4	fb:cell_pria_berusia_65_hingga_74_tahun.37_2	37.2	37.2	37.2	CD	NUMBER	37.2	37.2				
+1	5	fb:cell_wanita_berusia_75_hingga_84_tahun.29_7	29.7	29.7	29.7	CD	NUMBER	29.7	29.7				
+1	6	fb:cell_pria_berusia_75_hingga_84_tahun.30_4	30.4	30.4	30.4	CD	NUMBER	30.4	30.4				
+1	7	fb:cell_wanita_berusia_85_tahun_ke_atas.24_4	24.4	24.4	24.4	CD	NUMBER	24.4	24.4				
+1	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+2	0	fb:cell_kharakteristik.persentase_positif_sangat_baik	persentase positif sangat baik	persentase|positif|sangat|baik	persentase|positif|sangat|baik	NN|NN|NN|NN	O|O|O|O	|||					
+2	1	fb:cell_total_65_tahun_ke_atas_wanita.35_6	35.6	35.6	35.6	CD	NUMBER	35.6	35.6				
+2	2	fb:cell_total_65_tahun_ke_atas_laki_laki.34_6	34.6	34.6	34.6	CD	NUMBER	34.6	34.6				
+2	3	fb:cell_wanita_65_hingga_74_tahun.35_3	35.3	35.3	35.3	CD	NUMBER	35.3	35.3				
+2	4	fb:cell_pria_berusia_65_hingga_74_tahun.35_4	35.4	35.4	35.4	CD	NUMBER	35.4	35.4				
+2	5	fb:cell_wanita_berusia_75_hingga_84_tahun.36_1	36.1	36.1	36.1	CD	NUMBER	36.1	36.1				
+2	6	fb:cell_pria_berusia_75_hingga_84_tahun.34_1	34.1	34.1	34.1	CD	NUMBER	34.1	34.1				
+2	7	fb:cell_wanita_berusia_85_tahun_ke_atas.35_8	35.8	35.8	35.8	CD	NUMBER	35.8	35.8				
+2	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.28_8	28.8	28.8	28.8	CD	NUMBER	28.8	28.8				
+3	0	fb:cell_kharakteristik.persentase_positif_baik	persentase positif baik	persentase|positif|baik	persentase|positif|baik	NN|NN|NN	O|O|O	||					
+3	1	fb:cell_total_65_tahun_ke_atas_wanita.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+3	2	fb:cell_total_65_tahun_ke_atas_laki_laki.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+3	3	fb:cell_wanita_65_hingga_74_tahun.24_2	24.2	24.2	24.2	CD	NUMBER	24.2	24.2				
+3	4	fb:cell_pria_berusia_65_hingga_74_tahun.22_1	22.1	22.1	22.1	CD	NUMBER	22.1	22.1				
+3	5	fb:cell_wanita_berusia_75_hingga_84_tahun.27_3	27.3	27.3	27.3	CD	NUMBER	27.3	27.3				
+3	6	fb:cell_pria_berusia_75_hingga_84_tahun.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+3	7	fb:cell_wanita_berusia_85_tahun_ke_atas.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+3	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.36_3	36.3	36.3	36.3	CD	NUMBER	36.3	36.3				
+4	0	fb:cell_kharakteristik.persentase_negatif	persentase negatif	persentase|negatif	persentase|negatif	NN|NN	O|O	|					
+4	1	fb:cell_total_65_tahun_ke_atas_wanita.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+4	2	fb:cell_total_65_tahun_ke_atas_laki_laki.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+4	3	fb:cell_wanita_65_hingga_74_tahun.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+4	4	fb:cell_pria_berusia_65_hingga_74_tahun.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+4	5	fb:cell_wanita_berusia_75_hingga_84_tahun.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+4	6	fb:cell_pria_berusia_75_hingga_84_tahun.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+4	7	fb:cell_wanita_berusia_85_tahun_ke_atas.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+4	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+5	0	fb:cell_kharakteristik.persentase_negatif_adil	persentase negatif adil	persentase|negatif|adil	persentase|negatif|adil	NN|NN|NN	O|O|O	||					
+5	1	fb:cell_total_65_tahun_ke_atas_wanita.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+5	2	fb:cell_total_65_tahun_ke_atas_laki_laki.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+5	3	fb:cell_wanita_65_hingga_74_tahun.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+5	4	fb:cell_pria_berusia_65_hingga_74_tahun.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+5	5	fb:cell_wanita_berusia_75_hingga_84_tahun.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+5	6	fb:cell_pria_berusia_75_hingga_84_tahun.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+5	7	fb:cell_wanita_berusia_85_tahun_ke_atas.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+5	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+6	0	fb:cell_kharakteristik.persentase_negatif_miskin	persentase negatif miskin	persentase|negatif|miskin	persentase|negatif|miskin	NN|NN|NNP	O|O|O	||					
+6	1	fb:cell_total_65_tahun_ke_atas_wanita.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+6	2	fb:cell_total_65_tahun_ke_atas_laki_laki.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+6	3	fb:cell_wanita_65_hingga_74_tahun.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+6	4	fb:cell_pria_berusia_65_hingga_74_tahun.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+6	5	fb:cell_wanita_berusia_75_hingga_84_tahun.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+6	6	fb:cell_pria_berusia_75_hingga_84_tahun.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+6	7	fb:cell_wanita_berusia_85_tahun_ke_atas.null											
+6	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.null											
+7	0	fb:cell_kharakteristik.persentase_total	persentase total	persentase|total	persentase|total	NN|NN	O|O	|					
+7	1	fb:cell_total_65_tahun_ke_atas_wanita.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	2	fb:cell_total_65_tahun_ke_atas_laki_laki.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	3	fb:cell_wanita_65_hingga_74_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	4	fb:cell_pria_berusia_65_hingga_74_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	5	fb:cell_wanita_berusia_75_hingga_84_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	6	fb:cell_pria_berusia_75_hingga_84_tahun.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	7	fb:cell_wanita_berusia_85_tahun_ke_atas.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	8	fb:cell_laki_laki_berusia_85_tahun_ke_atas.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

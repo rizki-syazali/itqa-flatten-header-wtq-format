@@ -1,0 +1,381 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_total_perilaku_seksual_atau_diskriminatif	jumlah total perilaku seksual atau diskriminatif	jumlah|total|perilaku|seksual|atau|diskriminatif	jumlah|total|perilaku|seksual|atau|diskriminatif	NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.total_persentase_perilaku_seksual_atau_diskriminatif	total persentase perilaku seksual atau diskriminatif	total|persentase|perilaku|seksual|atau|diskriminatif	total|persentase|perilaku|seksual|atau|diskriminatif	JJ|NN|NN|JJ|NN|NN	O|O|O|O|O|O	|||||					
+-1	3	fb:row.row.perilaku_seksual_total_persen_perilaku_seksual	perilaku seksual total persen perilaku seksual	perilaku|seksual|total|persen|perilaku|seksual	perilaku|seksual|total|persen|perilaku|seksual	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas	perilaku seksual persen komunikasi verbal atau non-verbal yang tidak pantas	perilaku|seksual|persen|komunikasi|verbal|atau|non|verbal|yang|tidak|pantas	perilaku|seksual|persen|komunikasi|verbal|atau|non|verbal|yang|tidak|pantas	NNP|NNP|NNP|NNP|JJ|NN|JJ|JJ|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	5	fb:row.row.persentase_materi_seksual_eksplisit	persentase materi seksual eksplisit	persentase|materi|seksual|eksplisit	persentase|materi|seksual|eksplisit	NN|NN|JJ|NN	O|O|O|O	|||					
+-1	6	fb:row.row.perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan	perilaku seksual, kontak fisik, atau persen hubungan seksual yang disarankan	perilaku|seksual|,|kontak|fisik|,|atau|persen|hubungan|seksual|yang|disarankan	perilaku|seksual|,|kontak|fisik|,|atau|persen|hubungan|seksual|yang|disarankan	NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+-1	7	fb:row.row.perilaku_diskriminatif_total_persentase_perilaku_diskriminatif	perilaku diskriminatif total persentase perilaku diskriminatif	perilaku|diskriminatif|total|persentase|perilaku|diskriminatif	perilaku|diskriminatif|total|persentase|perilaku|diskriminatif	NNP|NNP|JJ|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	8	fb:row.row.perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin	perilaku diskriminatif diskriminasi berdasarkan persentase jenis kelamin	perilaku|diskriminatif|diskriminasi|berdasarkan|persentase|jenis|kelamin	perilaku|diskriminatif|diskriminasi|berdasarkan|persentase|jenis|kelamin	NNP|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+-1	9	fb:row.row.perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen	perilaku diskriminatif diskriminasi atas dasar orientasi seksual atau identitas gender persen	perilaku|diskriminatif|diskriminasi|atas|dasar|orientasi|seksual|atau|identitas|gender|persen	perilaku|diskriminatif|diskriminasi|atas|dasar|orientasi|seksual|atau|identitas|gender|persen	FW|FW|FW|FW|FW|FW|FW|FW|FW|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+0	0	fb:cell_kharakteristik.kelas_layanan	kelas layanan	kelas|layanan	kelas|layanan	NNP|NNP	O|O	|					
+0	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+0	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+0	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+0	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+0	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+0	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+0	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+0	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+0	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+1	0	fb:cell_kharakteristik.kelas_layanan_kelas_a_saja	kelas layanan kelas a saja	kelas|layanan|kelas|a|saja	kelas|layanan|kelas|a|saja	NNP|NNP|NNP|DT|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.4380_0	4380.0	4380.0	4380.0	CD	NUMBER	4380.0	4380.0				
+1	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+1	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+1	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+1	5	fb:cell_persentase_materi_seksual_eksplisit.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+1	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+1	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+1	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+1	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+2	0	fb:cell_kharakteristik.kelas_kelas_layanan_b_c_saja	kelas kelas layanan b/c saja	kelas|kelas|layanan|b/c|saja	kelas|kelas|layanan|b/c|saja	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||				kelas kelas layanan b|c saja	fb:part_kharakteristik.kelas_kelas_layanan_b|fb:part_kharakteristik.c_saja
+2	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.4860_0	4860.0	4860.0	4860.0	CD	NUMBER	4860.0	4860.0				
+2	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+2	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+2	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+2	5	fb:cell_persentase_materi_seksual_eksplisit.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+2	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+2	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+2	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+2	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+3	0	fb:cell_kharakteristik.kelas_layanan_campuran	kelas layanan campuran	kelas|layanan|campuran	kelas|layanan|campuran	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.10150_0	10150.0	10150.0	10150.0	CD	NUMBER	10150.0	10150.0				
+3	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+3	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+3	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+3	5	fb:cell_persentase_materi_seksual_eksplisit.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+3	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+3	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+3	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+3	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+4	0	fb:cell_kharakteristik.komando_lingkungan_hidup	komando lingkungan hidup	komando|lingkungan|hidup	komando|lingkungan|hidup	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+4	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+4	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+4	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+4	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+4	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+4	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+4	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+4	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+5	0	fb:cell_kharakteristik.komando_lingkungan_tentara_kanada	komando lingkungan tentara Kanada	komando|lingkungan|tentara|kanada	komando|lingkungan|tentara|Kanada	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||					
+5	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.14050_0	14050.0	14050.0	14050.0	CD	NUMBER	14050.0	14050.0				
+5	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+5	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+5	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+5	5	fb:cell_persentase_materi_seksual_eksplisit.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+5	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+5	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+5	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+5	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+6	0	fb:cell_kharakteristik.komando_lingkungan_angkatan_laut_kerajaan_kanada	komando lingkungan angkatan laut kerajaan Kanada	komando|lingkungan|angkatan|laut|kerajaan|kanada	komando|lingkungan|angkatan|laut|kerajaan|Kanada	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+6	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.2460_0	2460.0	2460.0	2460.0	CD	NUMBER	2460.0	2460.0				
+6	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+6	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+6	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+6	5	fb:cell_persentase_materi_seksual_eksplisit.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+6	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+6	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+6	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+6	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+7	0	fb:cell_kharakteristik.komando_lingkungan_angkatan_udara_kerajaan_kanada	Komando Lingkungan Angkatan Udara Kerajaan Kanada	komando|lingkungan|angkatan|udara|kerajaan|kanada	Komando|Lingkungan|Angkatan|Udara|Kerajaan|Kanada	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+7	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.1200_0	1200.0	1200.0	1200.0	CD	NUMBER	1200.0	1200.0				
+7	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+7	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+7	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+7	5	fb:cell_persentase_materi_seksual_eksplisit.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+7	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+7	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+7	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+7	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+8	0	fb:cell_kharakteristik.komando_personel_militer_komando_lingkungan_hidup	komando personel militer komando lingkungan hidup	komando|personel|militer|komando|lingkungan|hidup	komando|personel|militer|komando|lingkungan|hidup	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O	|||||					
+8	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.1350_0	1350.0	1350.0	1350.0	CD	NUMBER	1350.0	1350.0				
+8	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+8	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+8	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+8	5	fb:cell_persentase_materi_seksual_eksplisit.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+8	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+8	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+8	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+8	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+9	0	fb:cell_kharakteristik.perintah_lingkungan_lainnya	perintah lingkungan lainnya	perintah|lingkungan|lainnya	perintah|lingkungan|lainnya	JJ|NN|NN	O|O|O	||					
+9	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.480_0	480.0	480.0	480.0	CD	NUMBER	480.0	480.0				
+9	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+9	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+9	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+9	5	fb:cell_persentase_materi_seksual_eksplisit.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+9	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+9	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+9	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+9	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+10	0	fb:cell_kharakteristik.jenis_kelamin	jenis kelamin	jenis|kelamin	jenis|kelamin	NNP|NNP	O|O	|					
+10	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+10	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+10	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+10	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+10	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+10	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+10	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+10	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+10	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+11	0	fb:cell_kharakteristik.gender_perempuan	gender perempuan	gender|perempuan	gender|perempuan	NN|NN	O|O	|					
+11	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.3430_0	3430.0	3430.0	3430.0	CD	NUMBER	3430.0	3430.0				
+11	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+11	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+11	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+11	5	fb:cell_persentase_materi_seksual_eksplisit.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+11	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+11	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+11	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+11	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+12	0	fb:cell_kharakteristik.jenis_kelamin_laki_laki	jenis kelamin laki-laki	jenis|kelamin|laki|laki	jenis|kelamin|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.15990_0	15990.0	15990.0	15990.0	CD	NUMBER	15990.0	15990.0				
+12	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+12	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+12	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+12	5	fb:cell_persentase_materi_seksual_eksplisit.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+12	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+12	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+12	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+12	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+13	0	fb:cell_kharakteristik.gender_beragam_gender	gender beragam gender	gender|beragam|gender	gender|beragam|gender	NN|NN|NN	O|O|O	||					
+13	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+13	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+13	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+13	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+13	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+13	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+13	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+13	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+13	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+14	0	fb:cell_kharakteristik.identitas_pribumi	identitas pribumi	identitas|pribumi	identitas|pribumi	NNP|NNP	O|O	|					
+14	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+14	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+14	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+14	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+14	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+14	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+14	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+14	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+14	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+15	0	fb:cell_kharakteristik.identitas_pribumi_orang_pribumi_bangsa_pertama_metis_inuit	identitas pribumi orang pribumi (bangsa pertama, metis, inuit).	identitas|pribumi|orang|pribumi|-lrb-|bangsa|pertama|,|metis|,|inuit|-rrb-|.	identitas|pribumi|orang|pribumi|-lrb-|bangsa|pertama|,|metis|,|inuit|-rrb-|.	NNP|NNP|NNP|NNP|-LRB-|NNP|NNP|,|NNP|,|NNP|-RRB-|.	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				identitas pribumi orang pribumi (bangsa pertama|metis|inuit).	fb:part_kharakteristik.identitas_pribumi_orang_pribumi_bangsa_pertama|fb:part_kharakteristik.metis|fb:part_kharakteristik.inuit
+15	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.780_0	780.0	780.0	780.0	CD	NUMBER	780.0	780.0				
+15	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+15	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+15	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+15	5	fb:cell_persentase_materi_seksual_eksplisit.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+15	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+15	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+15	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+15	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+16	0	fb:cell_kharakteristik.identitas_pribumi_orang_yang_bukan_pribumi	identitas pribumi orang yang bukan pribumi	identitas|pribumi|orang|yang|bukan|pribumi	identitas|pribumi|orang|yang|bukan|pribumi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+16	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.18730_0	18730.0	18730.0	18730.0	CD	NUMBER	18730.0	18730.0				
+16	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+16	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+16	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+16	5	fb:cell_persentase_materi_seksual_eksplisit.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+16	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+16	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+16	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+16	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+17	0	fb:cell_kharakteristik.penyandang_disabilitas	penyandang disabilitas	penyandang|disabilitas	penyandang|disabilitas	NNP|NNPS	O|O	|					
+17	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+17	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+17	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+17	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+17	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+17	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+17	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+17	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+17	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+18	0	fb:cell_kharakteristik.penyandang_disabilitas_penyandang_disabilitas	penyandang disabilitas penyandang disabilitas	penyandang|disabilitas|penyandang|disabilitas	penyandang|disabilitas|penyandang|disabilitas	NNP|NNP|NNP|NNPS	O|O|O|O	|||					
+18	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.540_0	540.0	540.0	540.0	CD	NUMBER	540.0	540.0				
+18	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+18	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+18	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+18	5	fb:cell_persentase_materi_seksual_eksplisit.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+18	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+18	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+18	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+18	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+19	0	fb:cell_kharakteristik.penyandang_disabilitas_penyandang_disabilitas	penyandang disabilitas penyandang disabilitas	penyandang|disabilitas|penyandang|disabilitas	penyandang|disabilitas|penyandang|disabilitas	NNP|NNP|NNP|NNPS	O|O|O|O	|||					
+19	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.18970_0	18970.0	18970.0	18970.0	CD	NUMBER	18970.0	18970.0				
+19	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+19	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+19	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+19	5	fb:cell_persentase_materi_seksual_eksplisit.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+19	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+19	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+19	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+19	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+20	0	fb:cell_kharakteristik.minoritas_yang_terlihat	minoritas yang terlihat	minoritas|yang|terlihat	minoritas|yang|terlihat	NNP|NNP|NNP	O|O|O	||					
+20	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+20	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+20	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+20	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+20	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+20	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+20	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+20	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+20	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+21	0	fb:cell_kharakteristik.minoritas_yang_terlihat_minoritas_yang_terlihat	minoritas yang terlihat minoritas yang terlihat	minoritas|yang|terlihat|minoritas|yang|terlihat	minoritas|yang|terlihat|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+21	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.2800_0	2800.0	2800.0	2800.0	CD	NUMBER	2800.0	2800.0				
+21	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+21	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+21	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+21	5	fb:cell_persentase_materi_seksual_eksplisit.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+21	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+21	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+21	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+21	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+22	0	fb:cell_kharakteristik.minoritas_yang_terlihat_minoritas_yang_tidak_terlihat	minoritas yang terlihat, minoritas yang tidak terlihat	minoritas|yang|terlihat|,|minoritas|yang|tidak|terlihat	minoritas|yang|terlihat|,|minoritas|yang|tidak|terlihat	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				minoritas yang terlihat|minoritas yang tidak terlihat	fb:part_kharakteristik.minoritas_yang_terlihat|fb:part_kharakteristik.minoritas_yang_tidak_terlihat
+22	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.16720_0	16720.0	16720.0	16720.0	CD	NUMBER	16720.0	16720.0				
+22	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+22	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+22	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+22	5	fb:cell_persentase_materi_seksual_eksplisit.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+22	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+22	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+22	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+22	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+23	0	fb:cell_kharakteristik.pangkat	pangkat	pangkat	pangkat	NN	O						
+23	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+23	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+23	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+23	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+23	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+23	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+23	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+23	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+23	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+24	0	fb:cell_kharakteristik.peringkat_anggota_bintara_junior	peringkat anggota bintara junior	peringkat|anggota|bintara|junior	peringkat|anggota|bintara|junior	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+24	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.13250_0	13250.0	13250.0	13250.0	CD	NUMBER	13250.0	13250.0				
+24	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+24	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+24	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+24	5	fb:cell_persentase_materi_seksual_eksplisit.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+24	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+24	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+24	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+24	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+25	0	fb:cell_kharakteristik.peringkat_anggota_senior_yang_tidak_ditugaskan	peringkat anggota senior yang tidak ditugaskan	peringkat|anggota|senior|yang|tidak|ditugaskan	peringkat|anggota|senior|yang|tidak|ditugaskan	NN|NN|JJ|NN|NN|NN	O|O|O|O|O|O	|||||					
+25	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.3070_0	3070.0	3070.0	3070.0	CD	NUMBER	3070.0	3070.0				
+25	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+25	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+25	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+25	5	fb:cell_persentase_materi_seksual_eksplisit.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+25	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+25	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+25	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+25	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+26	0	fb:cell_kharakteristik.perwira_junior_berpangkat	perwira junior berpangkat	perwira|junior|berpangkat	perwira|junior|berpangkat	NNP|NNP|NNP	O|O|O	||					
+26	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.2370_0	2370.0	2370.0	2370.0	CD	NUMBER	2370.0	2370.0				
+26	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+26	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+26	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+26	5	fb:cell_persentase_materi_seksual_eksplisit.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+26	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+26	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+26	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+26	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+27	0	fb:cell_kharakteristik.perwira_senior_berpangkat	perwira senior berpangkat	perwira|senior|berpangkat	perwira|senior|berpangkat	NNP|NNP|NNP	O|O|O	||					
+27	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.870_0	870.0	870.0	870.0	CD	NUMBER	870.0	870.0				
+27	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+27	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+27	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+27	5	fb:cell_persentase_materi_seksual_eksplisit.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+27	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+27	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+27	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+27	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+28	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+28	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.null											
+28	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.null											
+28	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.null											
+28	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.null											
+28	5	fb:cell_persentase_materi_seksual_eksplisit.null											
+28	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.null											
+28	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.null											
+28	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.null											
+28	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.null											
+29	0	fb:cell_kharakteristik.kelompok_umur_24_tahun_ke_bawah	kelompok umur 24 tahun ke bawah	kelompok|umur|24|tahun|ke|bawah	kelompok|umur|24|tahun|ke|bawah	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||24.0|||	24.0				
+29	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.6850_0	6850.0	6850.0	6850.0	CD	NUMBER	6850.0	6850.0				
+29	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+29	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+29	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+29	5	fb:cell_persentase_materi_seksual_eksplisit.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+29	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+29	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+29	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+29	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+30	0	fb:cell_kharakteristik.kelompok_umur_25_hingga_29_tahun	kelompok umur 25 hingga 29 tahun	kelompok|umur|25|hingga|29|tahun	kelompok|umur|25|hingga|29|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||25.0||29.0|	25.0		29.0		
+30	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.4030_0	4030.0	4030.0	4030.0	CD	NUMBER	4030.0	4030.0				
+30	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+30	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+30	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+30	5	fb:cell_persentase_materi_seksual_eksplisit.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+30	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+30	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+30	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+30	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+31	0	fb:cell_kharakteristik.kelompok_umur_30_hingga_34_tahun	kelompok umur 30 hingga 34 tahun	kelompok|umur|30|hingga|34|tahun	kelompok|umur|30|hingga|34|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||30.0||34.0|	30.0		34.0		
+31	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.2730_0	2730.0	2730.0	2730.0	CD	NUMBER	2730.0	2730.0				
+31	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+31	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+31	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+31	5	fb:cell_persentase_materi_seksual_eksplisit.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+31	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+31	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+31	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+31	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+32	0	fb:cell_kharakteristik.kelompok_umur_35_sampai_39_tahun	kelompok umur 35 sampai 39 tahun	kelompok|umur|35|sampai|39|tahun	kelompok|umur|35|sampai|39|tahun	NNP|NNP|CD|FW|CD|NN	O|O|NUMBER|O|NUMBER|O	||35.0||39.0|	35.0		39.0		
+32	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.1730_0	1730.0	1730.0	1730.0	CD	NUMBER	1730.0	1730.0				
+32	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+32	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+32	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+32	5	fb:cell_persentase_materi_seksual_eksplisit.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+32	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+32	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+32	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+32	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+33	0	fb:cell_kharakteristik.kelompok_umur_40_hingga_44_tahun	kelompok umur 40 hingga 44 tahun	kelompok|umur|40|hingga|44|tahun	kelompok|umur|40|hingga|44|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||40.0||44.0|	40.0		44.0		
+33	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.1100_0	1100.0	1100.0	1100.0	CD	NUMBER	1100.0	1100.0				
+33	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+33	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+33	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+33	5	fb:cell_persentase_materi_seksual_eksplisit.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+33	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+33	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+33	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+33	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+34	0	fb:cell_kharakteristik.kelompok_umur_45_hingga_49_tahun	kelompok umur 45 hingga 49 tahun	kelompok|umur|45|hingga|49|tahun	kelompok|umur|45|hingga|49|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||45.0||49.0|	45.0		49.0		
+34	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.1180_0	1180.0	1180.0	1180.0	CD	NUMBER	1180.0	1180.0				
+34	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+34	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+34	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+34	5	fb:cell_persentase_materi_seksual_eksplisit.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+34	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+34	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+34	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+34	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+35	0	fb:cell_kharakteristik.kelompok_umur_50_tahun_ke_atas	kelompok umur 50 tahun ke atas	kelompok|umur|50|tahun|ke|atas	kelompok|umur|50|tahun|ke|atas	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||50.0|||	50.0				
+35	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.1950_0	1950.0	1950.0	1950.0	CD	NUMBER	1950.0	1950.0				
+35	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+35	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+35	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+35	5	fb:cell_persentase_materi_seksual_eksplisit.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+35	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+35	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+35	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+35	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+36	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+36	1	fb:cell_jumlah_total_perilaku_seksual_atau_diskriminatif.19570_0	19570.0	19570.0	19570.0	CD	NUMBER	19570.0	19570.0				
+36	2	fb:cell_total_persentase_perilaku_seksual_atau_diskriminatif.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+36	3	fb:cell_perilaku_seksual_total_persen_perilaku_seksual.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+36	4	fb:cell_perilaku_seksual_persen_komunikasi_verbal_atau_non_verbal_yang_tidak_pantas.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+36	5	fb:cell_persentase_materi_seksual_eksplisit.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+36	6	fb:cell_perilaku_seksual_kontak_fisik_atau_persen_hubungan_seksual_yang_disarankan.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+36	7	fb:cell_perilaku_diskriminatif_total_persentase_perilaku_diskriminatif.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+36	8	fb:cell_perilaku_diskriminatif_diskriminasi_berdasarkan_persentase_jenis_kelamin.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+36	9	fb:cell_perilaku_diskriminatif_diskriminasi_atas_dasar_orientasi_seksual_atau_identitas_gender_persen.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				

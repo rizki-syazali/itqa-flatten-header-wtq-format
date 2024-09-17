@@ -1,0 +1,49 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kelompok_identitas_2016_status_negara_pertama_orang_india	Kelompok identitas 2016 status negara pertama orang India	kelompok|identitas|2016|status|negara|pertama|orang|india	Kelompok|identitas|2016|status|negara|pertama|orang|India	NNP|NNP|CD|NN|NN|NN|NN|NNP	O|O|DATE|O|O|O|O|O	||2016|||||					
+-1	2	fb:row.row.kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india	Kelompok identitas 2016 adalah negara pertama yang bukan status orang India	kelompok|identitas|2016|adalah|negara|pertama|yang|bukan|status|orang|india	Kelompok|identitas|2016|adalah|negara|pertama|yang|bukan|status|orang|India	NNP|NNP|CD|NNP|NNP|NNP|NNP|NNP|NN|NN|NNP	O|O|DATE|O|O|O|O|O|O|O|O	||2016||||||||					
+-1	3	fb:row.row.pertemuan_kelompok_identitas_2016	Pertemuan kelompok identitas 2016	pertemuan|kelompok|identitas|2016	Pertemuan|kelompok|identitas|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016					
+-1	4	fb:row.row.inuit_grup_identitas_2016	inuit grup identitas 2016	inuit|grup|identitas|2016	inuit|grup|identitas|2016	NNP|NNP|NNP|CD	O|O|O|DATE	|||2016					
+-1	5	fb:row.row.grup_identitas_2016_lainnya	Grup identitas 2016 lainnya	grup|identitas|2016|lainnya	grup|identitas|2016|lainnya	NN|NNP|CD|NNP	O|O|DATE|O	||2016|					
+0	0	fb:cell_kharakteristik.persen_status_negara_pertama_orang_india	persen status negara pertama orang India	persen|status|negara|pertama|orang|india	persen|status|negara|pertama|orang|India	JJ|NN|NN|NN|NN|NNP	O|O|O|O|O|O	|||||					
+0	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.87_1	87.1	87.1	87.1	CD	NUMBER	87.1	87.1				
+0	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+0	3	fb:cell_pertemuan_kelompok_identitas_2016.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+0	4	fb:cell_inuit_grup_identitas_2016.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+0	5	fb:cell_grup_identitas_2016_lainnya.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+1	0	fb:cell_kharakteristik.persen_negara_pertama_yang_bukan_status_orang_india	persen negara pertama yang bukan status orang India	persen|negara|pertama|yang|bukan|status|orang|india	persen|negara|pertama|yang|bukan|status|orang|India	NNP|NNP|NNP|NNP|NNP|NN|NN|NNP	O|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+1	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+1	3	fb:cell_pertemuan_kelompok_identitas_2016.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+1	4	fb:cell_inuit_grup_identitas_2016.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+1	5	fb:cell_grup_identitas_2016_lainnya.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+2	0	fb:cell_kharakteristik.persen_metis	persen metis	persen|metis	persen|metis	NNP|NNP	O|O	|					
+2	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+2	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+2	3	fb:cell_pertemuan_kelompok_identitas_2016.53_3	53.3	53.3	53.3	CD	NUMBER	53.3	53.3				
+2	4	fb:cell_inuit_grup_identitas_2016.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+2	5	fb:cell_grup_identitas_2016_lainnya.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+3	0	fb:cell_kharakteristik.persen_orang_inuit	persen orang Inuit	persen|orang|inuit	persen|orang|Inuit	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+3	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+3	3	fb:cell_pertemuan_kelompok_identitas_2016.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+3	4	fb:cell_inuit_grup_identitas_2016.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+3	5	fb:cell_grup_identitas_2016_lainnya.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+4	0	fb:cell_kharakteristik.persen_lainnya	persen lainnya	persen|lainnya	persen|lainnya	NNP|NNP	O|O	|					
+4	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+4	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+4	3	fb:cell_pertemuan_kelompok_identitas_2016.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+4	4	fb:cell_inuit_grup_identitas_2016.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+4	5	fb:cell_grup_identitas_2016_lainnya.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+5	0	fb:cell_kharakteristik.persen_non_aborigin	persen non-aborigin	persen|non|aborigin	persen|non|aborigin	NNP|JJ|NN	O|O|O	||					
+5	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+5	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.52_4	52.4	52.4	52.4	CD	NUMBER	52.4	52.4				
+5	3	fb:cell_pertemuan_kelompok_identitas_2016.39_1	39.1	39.1	39.1	CD	NUMBER	39.1	39.1				
+5	4	fb:cell_inuit_grup_identitas_2016.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+5	5	fb:cell_grup_identitas_2016_lainnya.48_6	48.6	48.6	48.6	CD	NUMBER	48.6	48.6				
+6	0	fb:cell_kharakteristik.persen_totalnya	persen totalnya	persen|totalnya	persen|totalnya	NNP|NNP	O|O	|					
+6	1	fb:cell_kelompok_identitas_2016_status_negara_pertama_orang_india.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	2	fb:cell_kelompok_identitas_2016_adalah_negara_pertama_yang_bukan_status_orang_india.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	3	fb:cell_pertemuan_kelompok_identitas_2016.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	4	fb:cell_inuit_grup_identitas_2016.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	5	fb:cell_grup_identitas_2016_lainnya.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

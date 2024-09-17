@@ -1,0 +1,141 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_semua_situs_utama_memberi_tarif_per_100_000	total, semua situs utama memberi tarif per 100.000	total|,|semua|situs|utama|memberi|tarif|per|100.000	total|,|semua|situs|utama|memberi|tarif|per|100.000	NN|,|NNP|NNP|NNP|NNP|NNP|IN|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||100.0					
+-1	2	fb:row.row.total_semua_situs_utama_95_ci_dari	total, semua situs utama 95% ci dari	total|,|semua|situs|utama|95|%|ci|dari	total|,|semua|situs|utama|95|%|ci|dari	NN|,|NNP|NNP|NNP|CD|NN|NN|NNP	O|O|O|O|O|PERCENT|PERCENT|O|O	|||||%95.0|%95.0||					
+-1	3	fb:row.row.total_semua_situs_utama_95_ci_to	total, semua situs utama 95% ci to	total|,|semua|situs|utama|95|%|ci|to	total|,|semua|situs|utama|95|%|ci|to	NN|,|NNP|NNP|NNP|CD|NN|NN|TO	O|O|O|O|O|PERCENT|PERCENT|O|O	|||||%95.0|%95.0||					
+-1	4	fb:row.row.tingkat_ovarium_per_100_000	tingkat ovarium per 100.000	tingkat|ovarium|per|100.000	tingkat|ovarium|per|100.000	NNP|NNP|IN|CD	O|O|O|NUMBER	|||100.0					
+-1	5	fb:row.row.ovarium_95_ci_dari	ovarium 95% ci dari	ovarium|95|%|ci|dari	ovarium|95|%|ci|dari	NNP|CD|NN|NN|NNP	O|PERCENT|PERCENT|O|O	|%95.0|%95.0||					
+-1	6	fb:row.row.ovarium_95_ci_ke	ovarium 95% ci ke	ovarium|95|%|ci|ke	ovarium|95|%|ci|ke	NNP|CD|NN|NN|NNP	O|PERCENT|PERCENT|O|O	|%95.0|%95.0||					
+-1	7	fb:row.row.tingkat_serviks_per_100_000	tingkat serviks per 100.000	tingkat|serviks|per|100.000	tingkat|servik|per|100.000	NN|NNS|IN|CD	O|O|O|NUMBER	|||100.0					
+-1	8	fb:row.row.serviks_95_ci_dari	serviks 95% ci dari	serviks|95|%|ci|dari	servik|95|%|ci|dari	NNS|CD|NN|NN|NNP	O|PERCENT|PERCENT|O|O	|%95.0|%95.0||					
+-1	9	fb:row.row.serviks_95_ci_ke	serviks 95% ci ke	serviks|95|%|ci|ke	servik|95|%|ci|ke	NNS|CD|NN|NN|NNP	O|PERCENT|PERCENT|O|O	|%95.0|%95.0||					
+-1	10	fb:row.row.tingkat_rahim_per_100_000	tingkat rahim per 100.000	tingkat|rahim|per|100.000	tingkat|rahim|per|100.000	NNP|NNP|IN|CD	O|O|O|NUMBER	|||100.0					
+-1	11	fb:row.row.rahim_95_ci_dari	rahim 95% ci dari	rahim|95|%|ci|dari	rahim|95|%|ci|dari	NNP|CD|NN|NN|NNP	O|PERCENT|PERCENT|O|O	|%95.0|%95.0||					
+-1	12	fb:row.row.rahim_95_ci_ke	rahim 95% ci ke	rahim|95|%|ci|ke	rahim|95|%|ci|ke	NNP|CD|NN|NN|NNP	O|PERCENT|PERCENT|O|O	|%95.0|%95.0||					
+-1	13	fb:row.row.gabungan_bagian_dari_semua_kasus_kanker_situs_primer	gabungan bagian dari semua kasus kanker situs primer%	gabungan|bagian|dari|semua|kasus|kanker|situs|primer|%	gabungan|bagian|dari|semua|kasus|kanker|situs|primer|%	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN	MISC|MISC|MISC|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.20_hingga_24	20 hingga 24	20|hingga|24	20|hingga|24	CD|NN|CD	NUMBER|O|NUMBER	20.0||24.0	20.0		24.0		
+0	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.32_2	32.2	32.2	32.2	CD	NUMBER	32.2	32.2				
+0	2	fb:cell_total_semua_situs_utama_95_ci_dari.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+0	3	fb:cell_total_semua_situs_utama_95_ci_to.35_6	35.6	35.6	35.6	CD	NUMBER	35.6	35.6				
+0	4	fb:cell_tingkat_ovarium_per_100_000.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+0	5	fb:cell_ovarium_95_ci_dari.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+0	6	fb:cell_ovarium_95_ci_ke.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+0	7	fb:cell_tingkat_serviks_per_100_000.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+0	8	fb:cell_serviks_95_ci_dari.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+0	9	fb:cell_serviks_95_ci_ke.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+0	10	fb:cell_tingkat_rahim_per_100_000.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	11	fb:cell_rahim_95_ci_dari.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+0	12	fb:cell_rahim_95_ci_ke.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+0	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+1	0	fb:cell_kharakteristik.25_hingga_29	25 hingga 29	25|hingga|29	25|hingga|29	CD|NN|CD	NUMBER|O|NUMBER	25.0||29.0	25.0		29.0		
+1	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.64_4	64.4	64.4	64.4	CD	NUMBER	64.4	64.4				
+1	2	fb:cell_total_semua_situs_utama_95_ci_dari.59_9	59.9	59.9	59.9	CD	NUMBER	59.9	59.9				
+1	3	fb:cell_total_semua_situs_utama_95_ci_to.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+1	4	fb:cell_tingkat_ovarium_per_100_000.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+1	5	fb:cell_ovarium_95_ci_dari.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+1	6	fb:cell_ovarium_95_ci_ke.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+1	7	fb:cell_tingkat_serviks_per_100_000.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+1	8	fb:cell_serviks_95_ci_dari.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+1	9	fb:cell_serviks_95_ci_ke.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+1	10	fb:cell_tingkat_rahim_per_100_000.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+1	11	fb:cell_rahim_95_ci_dari.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+1	12	fb:cell_rahim_95_ci_ke.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+1	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+2	0	fb:cell_kharakteristik.30_hingga_34	30 hingga 34	30|hingga|34	30|hingga|34	CD|NN|CD	NUMBER|O|NUMBER	30.0||34.0	30.0		34.0		
+2	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.107_4	107.4	107.4	107.4	CD	NUMBER	107.4	107.4				
+2	2	fb:cell_total_semua_situs_utama_95_ci_dari.101_5	101.5	101.5	101.5	CD	NUMBER	101.5	101.5				
+2	3	fb:cell_total_semua_situs_utama_95_ci_to.113_4	113.4	113.4	113.4	CD	NUMBER	113.4	113.4				
+2	4	fb:cell_tingkat_ovarium_per_100_000.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+2	5	fb:cell_ovarium_95_ci_dari.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+2	6	fb:cell_ovarium_95_ci_ke.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+2	7	fb:cell_tingkat_serviks_per_100_000.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+2	8	fb:cell_serviks_95_ci_dari.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+2	9	fb:cell_serviks_95_ci_ke.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+2	10	fb:cell_tingkat_rahim_per_100_000.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+2	11	fb:cell_rahim_95_ci_dari.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+2	12	fb:cell_rahim_95_ci_ke.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+2	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+3	0	fb:cell_kharakteristik.35_hingga_39	35 hingga 39	35|hingga|39	35|hingga|39	CD|NN|CD	NUMBER|O|NUMBER	35.0||39.0	35.0		39.0		
+3	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.174_2	174.2	174.2	174.2	CD	NUMBER	174.2	174.2				
+3	2	fb:cell_total_semua_situs_utama_95_ci_dari.166_6	166.6	166.6	166.6	CD	NUMBER	166.6	166.6				
+3	3	fb:cell_total_semua_situs_utama_95_ci_to.182_0	182.0	182.0	182.0	CD	NUMBER	182.0	182.0				
+3	4	fb:cell_tingkat_ovarium_per_100_000.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+3	5	fb:cell_ovarium_95_ci_dari.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+3	6	fb:cell_ovarium_95_ci_ke.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+3	7	fb:cell_tingkat_serviks_per_100_000.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+3	8	fb:cell_serviks_95_ci_dari.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+3	9	fb:cell_serviks_95_ci_ke.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+3	10	fb:cell_tingkat_rahim_per_100_000.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+3	11	fb:cell_rahim_95_ci_dari.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+3	12	fb:cell_rahim_95_ci_ke.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+3	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+4	0	fb:cell_kharakteristik.40_hingga_44	40 hingga 44	40|hingga|44	40|hingga|44	CD|NN|CD	NUMBER|O|NUMBER	40.0||44.0	40.0		44.0		
+4	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.270_8	270.8	270.8	270.8	CD	NUMBER	270.8	270.8				
+4	2	fb:cell_total_semua_situs_utama_95_ci_dari.261_6	261.6	261.6	261.6	CD	NUMBER	261.6	261.6				
+4	3	fb:cell_total_semua_situs_utama_95_ci_to.280_3	280.3	280.3	280.3	CD	NUMBER	280.3	280.3				
+4	4	fb:cell_tingkat_ovarium_per_100_000.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+4	5	fb:cell_ovarium_95_ci_dari.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+4	6	fb:cell_ovarium_95_ci_ke.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+4	7	fb:cell_tingkat_serviks_per_100_000.17_1	17.1	17.1	17.1	CD	NUMBER	17.1	17.1				
+4	8	fb:cell_serviks_95_ci_dari.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+4	9	fb:cell_serviks_95_ci_ke.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+4	10	fb:cell_tingkat_rahim_per_100_000.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+4	11	fb:cell_rahim_95_ci_dari.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+4	12	fb:cell_rahim_95_ci_ke.15_2	15.2	15.2	15.2	CD	NUMBER	15.2	15.2				
+4	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+5	0	fb:cell_kharakteristik.45_hingga_49	45 hingga 49	45|hingga|49	45|hingga|49	CD|NN|CD	NUMBER|O|NUMBER	45.0||49.0	45.0		49.0		
+5	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.410_5	410.5	410.5	410.5	CD	NUMBER	410.5	410.5				
+5	2	fb:cell_total_semua_situs_utama_95_ci_dari.399_7	399.7	399.7	399.7	CD	NUMBER	399.7	399.7				
+5	3	fb:cell_total_semua_situs_utama_95_ci_to.421_5	421.5	421.5	421.5	CD	NUMBER	421.5	421.5				
+5	4	fb:cell_tingkat_ovarium_per_100_000.16_5	16.5	16.5	16.5	CD	NUMBER	16.5	16.5				
+5	5	fb:cell_ovarium_95_ci_dari.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+5	6	fb:cell_ovarium_95_ci_ke.18_8	18.8	18.8	18.8	CD	NUMBER	18.8	18.8				
+5	7	fb:cell_tingkat_serviks_per_100_000.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+5	8	fb:cell_serviks_95_ci_dari.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+5	9	fb:cell_serviks_95_ci_ke.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				
+5	10	fb:cell_tingkat_rahim_per_100_000.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+5	11	fb:cell_rahim_95_ci_dari.20_7	20.7	20.7	20.7	CD	NUMBER	20.7	20.7				
+5	12	fb:cell_rahim_95_ci_ke.25_9	25.9	25.9	25.9	CD	NUMBER	25.9	25.9				
+5	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+6	0	fb:cell_kharakteristik.50_hingga_54	50 hingga 54	50|hingga|54	50|hingga|54	CD|NN|CD	NUMBER|O|NUMBER	50.0||54.0	50.0		54.0		
+6	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.569_9	569.9	569.9	569.9	CD	NUMBER	569.9	569.9				
+6	2	fb:cell_total_semua_situs_utama_95_ci_dari.557_2	557.2	557.2	557.2	CD	NUMBER	557.2	557.2				
+6	3	fb:cell_total_semua_situs_utama_95_ci_to.582_7	582.7	582.7	582.7	CD	NUMBER	582.7	582.7				
+6	4	fb:cell_tingkat_ovarium_per_100_000.21_4	21.4	21.4	21.4	CD	NUMBER	21.4	21.4				
+6	5	fb:cell_ovarium_95_ci_dari.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+6	6	fb:cell_ovarium_95_ci_ke.24_1	24.1	24.1	24.1	CD	NUMBER	24.1	24.1				
+6	7	fb:cell_tingkat_serviks_per_100_000.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+6	8	fb:cell_serviks_95_ci_dari.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+6	9	fb:cell_serviks_95_ci_ke.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+6	10	fb:cell_tingkat_rahim_per_100_000.45_9	45.9	45.9	45.9	CD	NUMBER	45.9	45.9				
+6	11	fb:cell_rahim_95_ci_dari.42_3	42.3	42.3	42.3	CD	NUMBER	42.3	42.3				
+6	12	fb:cell_rahim_95_ci_ke.49_6	49.6	49.6	49.6	CD	NUMBER	49.6	49.6				
+6	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.13_4	13.4	13.4	13.4	CD	NUMBER	13.4	13.4				
+7	0	fb:cell_kharakteristik.55_hingga_59	55 hingga 59	55|hingga|59	55|hingga|59	CD|NN|CD	NUMBER|O|NUMBER	55.0||59.0	55.0		59.0		
+7	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.751_4	751.4	751.4	751.4	CD	NUMBER	751.4	751.4				
+7	2	fb:cell_total_semua_situs_utama_95_ci_dari.736_0	736.0	736.0	736.0	CD	NUMBER	736.0	736.0				
+7	3	fb:cell_total_semua_situs_utama_95_ci_to.767_0	767.0	767.0	767.0	CD	NUMBER	767.0	767.0				
+7	4	fb:cell_tingkat_ovarium_per_100_000.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+7	5	fb:cell_ovarium_95_ci_dari.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+7	6	fb:cell_ovarium_95_ci_ke.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+7	7	fb:cell_tingkat_serviks_per_100_000.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+7	8	fb:cell_serviks_95_ci_dari.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+7	9	fb:cell_serviks_95_ci_ke.12_8	12.8	12.8	12.8	CD	NUMBER	12.8	12.8				
+7	10	fb:cell_tingkat_rahim_per_100_000.75_1	75.1	75.1	75.1	CD	NUMBER	75.1	75.1				
+7	11	fb:cell_rahim_95_ci_dari.70_3	70.3	70.3	70.3	CD	NUMBER	70.3	70.3				
+7	12	fb:cell_rahim_95_ci_ke.80_2	80.2	80.2	80.2	CD	NUMBER	80.2	80.2				
+7	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+8	0	fb:cell_kharakteristik.60_hingga_64	60 hingga 64	60|hingga|64	60|hingga|64	CD|NN|CD	NUMBER|O|NUMBER	60.0||64.0	60.0		64.0		
+8	1	fb:cell_total_semua_situs_utama_memberi_tarif_per_100_000.1024_3	1024.3	1024.3	1024.3	CD	NUMBER	1024.3	1024.3				
+8	2	fb:cell_total_semua_situs_utama_95_ci_dari.1004_9	1004.9	1004.9	1004.9	CD	NUMBER	1004.9	1004.9				
+8	3	fb:cell_total_semua_situs_utama_95_ci_to.1044_0	1044.0	1044.0	1044.0	CD	NUMBER	1044.0	1044.0				
+8	4	fb:cell_tingkat_ovarium_per_100_000.28_9	28.9	28.9	28.9	CD	NUMBER	28.9	28.9				
+8	5	fb:cell_ovarium_95_ci_dari.25_7	25.7	25.7	25.7	CD	NUMBER	25.7	25.7				
+8	6	fb:cell_ovarium_95_ci_ke.32_3	32.3	32.3	32.3	CD	NUMBER	32.3	32.3				
+8	7	fb:cell_tingkat_serviks_per_100_000.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+8	8	fb:cell_serviks_95_ci_dari.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+8	9	fb:cell_serviks_95_ci_ke.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+8	10	fb:cell_tingkat_rahim_per_100_000.99_6	99.6	99.6	99.6	CD	NUMBER	99.6	99.6				
+8	11	fb:cell_rahim_95_ci_dari.93_7	93.7	93.7	93.7	CD	NUMBER	93.7	93.7				
+8	12	fb:cell_rahim_95_ci_ke.105_9	105.9	105.9	105.9	CD	NUMBER	105.9	105.9				
+8	13	fb:cell_gabungan_bagian_dari_semua_kasus_kanker_situs_primer.13_5	13.5	13.5	13.5	CD	NUMBER	13.5	13.5				

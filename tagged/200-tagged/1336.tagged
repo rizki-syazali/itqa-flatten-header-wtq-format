@@ -1,0 +1,414 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_2018	nomor 2018	nomor|2018	nomor|2018	NNP|CD	O|DATE	|2018					
+-1	2	fb:row.row.tarif_2018r	tarif 2018r	tarif|2018r	tarif|2018r	NNP|NNP	O|O	|					
+-1	3	fb:row.row.nomor_2019	nomor 2019	nomor|2019	nomor|2019	NNP|CD	O|DATE	|2019					
+-1	4	fb:row.row.tarif_tahun_2019	tarif tahun 2019	tarif|tahun|2019	tarif|tahun|2019	NNP|NNP|CD	O|O|DATE	||2019					
+-1	5	fb:row.row.perubahan_tarif_2018_menjadi_2019_persen	perubahan tarif 2018 menjadi 2019 persen	perubahan|tarif|2018|menjadi|2019|persen	perubahan|tarif|2018|menjadi|2019|persen	NNP|NNP|CD|NNP|CD|NNP	O|O|DATE|O|DATE|O	||2018||2019|					
+-1	6	fb:row.row.perubahan_tarif_2009_menjadi_2019_persen	perubahan tarif 2009 menjadi 2019 persen	perubahan|tarif|2009|menjadi|2019|persen	perubahan|tarif|2009|menjadi|2019|persen	NNP|NNP|CD|NNP|CD|NNP	O|O|DATE|O|DATE|O	||2009||2019|					
+0	0	fb:cell_kharakteristik.total_kode_kriminal_tidak_termasuk_lalu_lintas_tingkat_kejahatan	total kode kriminal (tidak termasuk lalu lintas) - "tingkat kejahatan"	total|kode|kriminal|-lrb-|tidak|termasuk|lalu|lintas|-rrb-|-|``|tingkat|kejahatan|''	total|kode|kriminal|-lrb-|tidak|termasuk|lalu|lintas|-rrb-|-|``|tingkat|kejahatan|''	JJ|NNP|NNP|-LRB-|NNP|NNP|NNP|NNP|-RRB-|:|``|NNP|NNP|''	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+0	1	fb:cell_nomor_2018.2043328	2043328	2043328	2043328	CD	NUMBER	2043328.0	2043328.0				
+0	2	fb:cell_tarif_2018r.5514_0	5514.0	5514.0	5514.0	CD	NUMBER	5514.0	5514.0				
+0	3	fb:cell_nomor_2019.2208076	2208076	2208076	2208076	CD	NUMBER	2208076.0	2208076.0				
+0	4	fb:cell_tarif_tahun_2019.5874_0	5874.0	5874.0	5874.0	CD	NUMBER	5874.0	5874.0				
+0	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+0	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+1	0	fb:cell_kharakteristik.kejahatan_kekerasan_total	kejahatan kekerasan total	kejahatan|kekerasan|total	kejahatan|kekerasan|total	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor_2018.426839	426839	426839	426839	CD	NUMBER	426839.0	426839.0				
+1	2	fb:cell_tarif_2018r.1152_0	1152.0	1152.0	1152.0	CD	NUMBER	1152.0	1152.0				
+1	3	fb:cell_nomor_2019.480004	480004	480004	480004	CD	NUMBER	480004.0	480004.0				
+1	4	fb:cell_tarif_tahun_2019.1277_0	1277.0	1277.0	1277.0	CD	NUMBER	1277.0	1277.0				
+1	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+1	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+2	0	fb:cell_kharakteristik.pembunuhan_kejahatan_kekerasan_total	pembunuhan kejahatan kekerasan total	pembunuhan|kejahatan|kekerasan|total	pembunuhan|kejahatan|kekerasan|total	NN|NN|NN|NN	O|O|O|O	|||					
+2	1	fb:cell_nomor_2018.658	658	658	658	CD	NUMBER	658.0	658.0				
+2	2	fb:cell_tarif_2018r.1_78	1.78	1.78	1.78	CD	NUMBER	1.78	1.78				
+2	3	fb:cell_nomor_2019.678	678	678	678	CD	NUMBER	678.0	678.0				
+2	4	fb:cell_tarif_tahun_2019.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+2	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+2	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+3	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_pelanggaran_lain_yang_menyebabkan_kematian	kejahatan kekerasan total pelanggaran lain yang menyebabkan kematian	kejahatan|kekerasan|total|pelanggaran|lain|yang|menyebabkan|kematian	kejahatan|kekerasan|total|pelanggaran|lain|yang|menyebabkan|kematian	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+3	1	fb:cell_nomor_2018.133	133	133	133	CD	NUMBER	133.0	133.0				
+3	2	fb:cell_tarif_2018r.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	3	fb:cell_nomor_2019.108	108	108	108	CD	NUMBER	108.0	108.0				
+3	4	fb:cell_tarif_tahun_2019.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._20_0	-20.0	-20.0	-20.0	CD	NUMBER	-20.0	20.0				
+3	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+4	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_percobaan_pembunuhan	kejahatan kekerasan total percobaan pembunuhan	kejahatan|kekerasan|total|percobaan|pembunuhan	kejahatan|kekerasan|total|percobaan|pembunuhan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_nomor_2018.821	821	821	821	CD	NUMBER	821.0	821.0				
+4	2	fb:cell_tarif_2018r.2_22	2.22	2.22	2.22	CD	NUMBER	2.22	2.22				
+4	3	fb:cell_nomor_2019.865	865	865	865	CD	NUMBER	865.0	865.0				
+4	4	fb:cell_tarif_tahun_2019.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+4	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+4	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+5	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_penyerangan_seksual_level_3_diperburuk	kejahatan kekerasan total, penyerangan seksual - level 3 - diperburuk	kejahatan|kekerasan|total|,|penyerangan|seksual|-|level|3|-|diperburuk	kejahatan|kekerasan|total|,|penyerangan|seksual|-|level|3|-|diperburuk	NNP|NNP|NNP|,|NNP|NNP|:|NN|CD|:|NN	O|O|O|O|O|O|O|O|NUMBER|O|O	||||||||3.0||	3.0			kejahatan kekerasan total|penyerangan seksual - level 3 - diperburuk	fb:part_kharakteristik.kejahatan_kekerasan_total|fb:part_kharakteristik.penyerangan_seksual_level_3_diperburuk
+5	1	fb:cell_nomor_2018.158	158	158	158	CD	NUMBER	158.0	158.0				
+5	2	fb:cell_tarif_2018r.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	3	fb:cell_nomor_2019.125	125	125	125	CD	NUMBER	125.0	125.0				
+5	4	fb:cell_tarif_tahun_2019.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._22_0	-22.0	-22.0	-22.0	CD	NUMBER	-22.0	22.0				
+5	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+6	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_penyerangan_seksual_level_2_senjata_atau_cedera_tubuh	kejahatan kekerasan total penyerangan seksual - level 2 - senjata atau cedera tubuh	kejahatan|kekerasan|total|penyerangan|seksual|-|level|2|-|senjata|atau|cedera|tubuh	kejahatan|kekerasan|total|penyerangan|seksual|-|level|2|-|senjata|atau|cedera|tubuh	NNP|NNP|NNP|NNP|NNP|:|NN|CD|:|JJ|NN|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O|O|O|O	|||||||2.0|||||	2.0				
+6	1	fb:cell_nomor_2018.490	490	490	490	CD	NUMBER	490.0	490.0				
+6	2	fb:cell_tarif_2018r.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	3	fb:cell_nomor_2019.525	525	525	525	CD	NUMBER	525.0	525.0				
+6	4	fb:cell_tarif_tahun_2019.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+6	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+7	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_penyerangan_seksual_level_1	kejahatan kekerasan total, penyerangan seksual - level 1	kejahatan|kekerasan|total|,|penyerangan|seksual|-|level|1	kejahatan|kekerasan|total|,|penyerangan|seksual|-|level|1	NNP|NNP|NNP|,|NNP|NNP|:|NN|CD	O|O|O|O|O|O|O|O|NUMBER	||||||||1.0	1.0			kejahatan kekerasan total|penyerangan seksual - level 1	fb:part_kharakteristik.kejahatan_kekerasan_total|fb:part_kharakteristik.penyerangan_seksual_level_1
+7	1	fb:cell_nomor_2018.27909	27909	27909	27909	CD	NUMBER	27909.0	27909.0				
+7	2	fb:cell_tarif_2018r.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+7	3	fb:cell_nomor_2019.30285	30285	30285	30285	CD	NUMBER	30285.0	30285.0				
+7	4	fb:cell_tarif_tahun_2019.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+7	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+7	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+8	0	fb:cell_kharakteristik.total_kejahatan_kekerasan_pelanggaran_seksual_yang_terjadi_sebelum_4_januari_1983	total kejahatan kekerasan pelanggaran seksual yang terjadi sebelum 4 Januari 1983	total|kejahatan|kekerasan|pelanggaran|seksual|yang|terjadi|sebelum|4|januari|1983	total|kejahatan|kekerasan|pelanggaran|seksual|yang|terjadi|sebelum|4|Januari|1983	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|O|NUMBER|O|DATE	||||||||4.0||1983	4.0		1983.0		
+8	1	fb:cell_nomor_2018.574	574	574	574	CD	NUMBER	574.0	574.0				
+8	2	fb:cell_tarif_2018r.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+8	3	fb:cell_nomor_2019.534	534	534	534	CD	NUMBER	534.0	534.0				
+8	4	fb:cell_tarif_tahun_2019.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+8	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+8	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+9	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_pelanggaran_seksual_terhadap_anak	kejahatan kekerasan total pelanggaran seksual terhadap anak	kejahatan|kekerasan|total|pelanggaran|seksual|terhadap|anak	kejahatan|kekerasan|total|pelanggaran|seksual|terhadap|anak	NNP|NNP|JJ|NN|JJ|NN|NN	O|O|O|O|O|O|O	||||||					
+9	1	fb:cell_nomor_2018.9075	9075	9075	9075	CD	NUMBER	9075.0	9075.0	9075-xx-xx			
+9	2	fb:cell_tarif_2018r.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+9	3	fb:cell_nomor_2019.10038	10038	10038	10038	CD	NUMBER	10038.0	10038.0				
+9	4	fb:cell_tarif_tahun_2019.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+9	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+9	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+10	0	fb:cell_kharakteristik.serangan_kejahatan_kekerasan_total_level_3_diperburuk	serangan kejahatan kekerasan total - level 3 - diperburuk	serangan|kejahatan|kekerasan|total|-|level|3|-|diperburuk	serangan|kejahatan|kekerasan|total|-|level|3|-|diperburuk	NNP|NNP|NNP|JJ|:|NN|CD|:|NN	O|O|O|O|O|O|NUMBER|O|O	||||||3.0||	3.0				
+10	1	fb:cell_nomor_2018.3584	3584	3584	3584	CD	NUMBER	3584.0	3584.0	3584-xx-xx			
+10	2	fb:cell_tarif_2018r.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+10	3	fb:cell_nomor_2019.3924	3924	3924	3924	CD	NUMBER	3924.0	3924.0	3924-xx-xx			
+10	4	fb:cell_tarif_tahun_2019.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+10	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+10	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+11	0	fb:cell_kharakteristik.serangan_kejahatan_kekerasan_total_level_2_senjata_atau_cedera_tubuh	serangan kejahatan kekerasan total - level 2 - senjata atau cedera tubuh	serangan|kejahatan|kekerasan|total|-|level|2|-|senjata|atau|cedera|tubuh	serangan|kejahatan|kekerasan|total|-|level|2|-|senjata|atau|cedera|tubuh	NNP|NNP|NNP|JJ|:|NN|CD|:|JJ|NN|NN|NN	O|O|O|O|O|O|NUMBER|O|O|O|O|O	||||||2.0|||||	2.0				
+11	1	fb:cell_nomor_2018.54218	54218	54218	54218	CD	NUMBER	54218.0	54218.0				
+11	2	fb:cell_tarif_2018r.146_0	146.0	146.0	146.0	CD	NUMBER	146.0	146.0				
+11	3	fb:cell_nomor_2019.59416	59416	59416	59416	CD	NUMBER	59416.0	59416.0				
+11	4	fb:cell_tarif_tahun_2019.158_0	158.0	158.0	158.0	CD	NUMBER	158.0	158.0				
+11	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+11	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	0	fb:cell_kharakteristik.serangan_kejahatan_kekerasan_total_level_1	serangan kejahatan kekerasan total - level 1	serangan|kejahatan|kekerasan|total|-|level|1	serangan|kejahatan|kekerasan|total|-|level|1	NNP|NNP|NNP|JJ|:|NN|CD	O|O|O|O|O|O|NUMBER	||||||1.0	1.0				
+12	1	fb:cell_nomor_2018.170138	170138	170138	170138	CD	NUMBER	170138.0	170138.0				
+12	2	fb:cell_tarif_2018r.459_0	459.0	459.0	459.0	CD	NUMBER	459.0	459.0				
+12	3	fb:cell_nomor_2019.187826	187826	187826	187826	CD	NUMBER	187826.0	187826.0				
+12	4	fb:cell_tarif_tahun_2019.500_0	500.0	500.0	500.0	CD	NUMBER	500.0	500.0				
+12	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+12	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+13	0	fb:cell_kharakteristik.serangan_kejahatan_kekerasan_total_terhadap_petugas_perdamaian	serangan kejahatan kekerasan total terhadap petugas perdamaian	serangan|kejahatan|kekerasan|total|terhadap|petugas|perdamaian	serangan|kejahatan|kekerasan|total|terhadap|petugas|perdamaian	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+13	1	fb:cell_nomor_2018.11751	11751	11751	11751	CD	NUMBER	11751.0	11751.0				
+13	2	fb:cell_tarif_2018r.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+13	3	fb:cell_nomor_2019.12132	12132	12132	12132	CD	NUMBER	12132.0	12132.0				
+13	4	fb:cell_tarif_tahun_2019.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+13	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+13	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._8_0	-8.0	-8.0	-8.0	CD	NUMBER	-8.0	8.0				
+14	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_penyerangan_lainnya	kejahatan kekerasan total penyerangan lainnya	kejahatan|kekerasan|total|penyerangan|lainnya	kejahatan|kekerasan|total|penyerangan|lainnya	NNP|NNP|JJ|NN|NN	O|O|O|O|O	||||					
+14	1	fb:cell_nomor_2018.2124	2124	2124	2124	CD	DATE	2124	2124.0	2124-xx-xx			
+14	2	fb:cell_tarif_2018r.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+14	3	fb:cell_nomor_2019.2226	2226	2226	2226	CD	DATE	2226	2226.0	2226-xx-xx			
+14	4	fb:cell_tarif_tahun_2019.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+14	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+14	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._42_0	-42.0	-42.0	-42.0	CD	NUMBER	-42.0	42.0				
+15	0	fb:cell_kharakteristik.senjata_api_kejahatan_kekerasan_total_penggunaan_pelepasan_penunjukan	senjata api kejahatan kekerasan total - penggunaan, pelepasan, penunjukan	senjata|api|kejahatan|kekerasan|total|-|penggunaan|,|pelepasan|,|penunjukan	senjata|api|kejahatan|kekerasan|total|-|penggunaan|,|pelepasan|,|penunjukan	NNP|NNP|NNP|NNP|JJ|:|NN|,|NN|,|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				senjata api kejahatan kekerasan total - penggunaan|pelepasan|penunjukan	fb:part_kharakteristik.senjata_api_kejahatan_kekerasan_total_penggunaan|fb:part_kharakteristik.pelepasan|fb:part_kharakteristik.penunjukan
+15	1	fb:cell_nomor_2018.2861	2861	2861	2861	CD	DATE	2861	2861.0	2861-xx-xx			
+15	2	fb:cell_tarif_2018r.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+15	3	fb:cell_nomor_2019.3503	3503	3503	3503	CD	NUMBER	3503.0	3503.0	3503-xx-xx			
+15	4	fb:cell_tarif_tahun_2019.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+15	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+15	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+16	0	fb:cell_kharakteristik.perampokan_kejahatan_kekerasan_total	perampokan kejahatan kekerasan total	perampokan|kejahatan|kekerasan|total	perampokan|kejahatan|kekerasan|total	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_nomor_2018.22550	22550	22550	22550	CD	NUMBER	22550.0	22550.0				
+16	2	fb:cell_tarif_2018r.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+16	3	fb:cell_nomor_2019.23296	23296	23296	23296	CD	NUMBER	23296.0	23296.0				
+16	4	fb:cell_tarif_tahun_2019.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+16	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+16	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+17	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_kurungan_paksa_atau_penculikan	kejahatan kekerasan total, kurungan paksa atau penculikan	kejahatan|kekerasan|total|,|kurungan|paksa|atau|penculikan	kejahatan|kekerasan|total|,|kurungan|paksa|atau|penculikan	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				kejahatan kekerasan total|kurungan paksa atau penculikan	fb:part_kharakteristik.kejahatan_kekerasan_total|fb:part_kharakteristik.kurungan_paksa_atau_penculikan
+17	1	fb:cell_nomor_2018.3490	3490	3490	3490	CD	NUMBER	3490.0	3490.0	3490-xx-xx			
+17	2	fb:cell_tarif_2018r.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+17	3	fb:cell_nomor_2019.3695	3695	3695	3695	CD	NUMBER	3695.0	3695.0	3695-xx-xx			
+17	4	fb:cell_tarif_tahun_2019.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+17	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+17	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._31_0	-31.0	-31.0	-31.0	CD	NUMBER	-31.0	31.0				
+18	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_perdagangan_orang	kejahatan kekerasan total perdagangan orang	kejahatan|kekerasan|total|perdagangan|orang	kejahatan|kekerasan|total|perdagangan|orang	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+18	1	fb:cell_nomor_2018.238	238	238	238	CD	NUMBER	238.0	238.0				
+18	2	fb:cell_tarif_2018r.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+18	3	fb:cell_nomor_2019.341	341	341	341	CD	NUMBER	341.0	341.0				
+18	4	fb:cell_tarif_tahun_2019.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+18	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+18	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+19	0	fb:cell_kharakteristik.pemerasan_kejahatan_kekerasan_total	pemerasan kejahatan kekerasan total	pemerasan|kejahatan|kekerasan|total	pemerasan|kejahatan|kekerasan|total	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+19	1	fb:cell_nomor_2018.4724	4724	4724	4724	CD	NUMBER	4724.0	4724.0	4724-xx-xx			
+19	2	fb:cell_tarif_2018r.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+19	3	fb:cell_nomor_2019.4174	4174	4174	4174	CD	NUMBER	4174.0	4174.0	4174-xx-xx			
+19	4	fb:cell_tarif_tahun_2019.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+19	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+19	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.117_0	117.0	117.0	117.0	CD	NUMBER	117.0	117.0				
+20	0	fb:cell_kharakteristik.pelecehan_kriminal_kejahatan_kekerasan_total	pelecehan kriminal kejahatan kekerasan total	pelecehan|kriminal|kejahatan|kekerasan|total	pelecehan|kriminal|kejahatan|kekerasan|total	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_nomor_2018.19691	19691	19691	19691	CD	NUMBER	19691.0	19691.0				
+20	2	fb:cell_tarif_2018r.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+20	3	fb:cell_nomor_2019.23325	23325	23325	23325	CD	NUMBER	23325.0	23325.0				
+20	4	fb:cell_tarif_tahun_2019.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+20	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+20	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+21	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_yang_mengucapkan_ancaman	kejahatan kekerasan total yang mengucapkan ancaman	kejahatan|kekerasan|total|yang|mengucapkan|ancaman	kejahatan|kekerasan|total|yang|mengucapkan|ancaman	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+21	1	fb:cell_nomor_2018.66806	66806	66806	66806	CD	NUMBER	66806.0	66806.0				
+21	2	fb:cell_tarif_2018r.180_0	180.0	180.0	180.0	CD	NUMBER	180.0	180.0				
+21	3	fb:cell_nomor_2019.81361	81361	81361	81361	CD	NUMBER	81361.0	81361.0				
+21	4	fb:cell_tarif_tahun_2019.216_0	216.0	216.0	216.0	CD	NUMBER	216.0	216.0				
+21	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+21	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+22	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_komunikasi_tidak_senonoh_atau_melecehkan	kejahatan kekerasan total komunikasi tidak senonoh atau melecehkan	kejahatan|kekerasan|total|komunikasi|tidak|senonoh|atau|melecehkan	kejahatan|kekerasan|total|komunikasus|tidak|senonoh|atau|melecehkan	NNP|NNP|JJ|NNS|VBP|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+22	1	fb:cell_nomor_2018.17772	17772	17772	17772	CD	NUMBER	17772.0	17772.0				
+22	2	fb:cell_tarif_2018r.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+22	3	fb:cell_nomor_2019.23289	23289	23289	23289	CD	NUMBER	23289.0	23289.0				
+22	4	fb:cell_tarif_tahun_2019.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+22	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+22	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+23	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_distribusi_gambar_gambar_intim_tanpa_persetujuan	kejahatan kekerasan total distribusi gambar-gambar intim tanpa persetujuan	kejahatan|kekerasan|total|distribusi|gambar|gambar|intim|tanpa|persetujuan	kejahatan|kekerasan|total|distribusi|gambar|gambar|intim|tanpa|persetujuan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+23	1	fb:cell_nomor_2018.1483	1483	1483	1483	CD	DATE	1483	1483.0	1483-xx-xx			
+23	2	fb:cell_tarif_2018r.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+23	3	fb:cell_nomor_2019.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx			
+23	4	fb:cell_tarif_tahun_2019.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+23	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+23	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+24	0	fb:cell_kharakteristik.tindak_pidana_kekerasan_total_yang_berkaitan_dengan_layanan_seksual	tindak pidana kekerasan total yang berkaitan dengan layanan seksual	tindak|pidana|kekerasan|total|yang|berkaitan|dengan|layanan|seksual	tindak|pidana|kekerasan|total|yang|berkaitan|dengan|layanan|seksual	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+24	1	fb:cell_nomor_2018.1044	1044	1044	1044	CD	DATE	1044	1044.0	1044-xx-xx			
+24	2	fb:cell_tarif_2018r.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+24	3	fb:cell_nomor_2019.1163	1163	1163	1163	CD	DATE	1163	1163.0	1163-xx-xx			
+24	4	fb:cell_tarif_tahun_2019.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+24	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+24	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+25	0	fb:cell_kharakteristik.kejahatan_kekerasan_total_pelanggaran_kuhp_kekerasan_lainnya	kejahatan kekerasan total pelanggaran KUHP kekerasan lainnya	kejahatan|kekerasan|total|pelanggaran|kuhp|kekerasan|lainnya	kejahatan|kekerasan|total|pelanggaran|kuhp|kekerasan|lainnya	NNP|NNP|JJ|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+25	1	fb:cell_nomor_2018.4547	4547	4547	4547	CD	NUMBER	4547.0	4547.0	4547-xx-xx			
+25	2	fb:cell_tarif_2018r.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+25	3	fb:cell_nomor_2019.5203	5203	5203	5203	CD	NUMBER	5203.0	5203.0	5203-xx-xx			
+25	4	fb:cell_tarif_tahun_2019.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+25	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+25	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+26	0	fb:cell_kharakteristik.kejahatan_properti_total	kejahatan properti total	kejahatan|properti|total	kejahatan|properti|total	NNP|NNP|NNP	O|O|O	||					
+26	1	fb:cell_nomor_2018.1241083	1241083	1241083	1241083	CD	NUMBER	1241083.0	1241083.0				
+26	2	fb:cell_tarif_2018r.3349_0	3349.0	3349.0	3349.0	CD	NUMBER	3349.0	3349.0				
+26	3	fb:cell_nomor_2019.1319562	1319562	1319562	1319562	CD	NUMBER	1319562.0	1319562.0				
+26	4	fb:cell_tarif_tahun_2019.3510_0	3510.0	3510.0	3510.0	CD	NUMBER	3510.0	3510.0				
+26	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+26	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+27	0	fb:cell_kharakteristik.total_kejahatan_properti_yang_membobol_dan_masuk	total kejahatan properti yang membobol dan masuk	total|kejahatan|properti|yang|membobol|dan|masuk	total|kejahatan|properti|yang|membobol|dan|masuk	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+27	1	fb:cell_nomor_2018.160329	160329	160329	160329	CD	NUMBER	160329.0	160329.0				
+27	2	fb:cell_tarif_2018r.433_0	433.0	433.0	433.0	CD	NUMBER	433.0	433.0				
+27	3	fb:cell_nomor_2019.161291	161291	161291	161291	CD	NUMBER	161291.0	161291.0				
+27	4	fb:cell_tarif_tahun_2019.429_0	429.0	429.0	429.0	CD	NUMBER	429.0	429.0				
+27	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+27	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._30_0	-30.0	-30.0	-30.0	CD	NUMBER	-30.0	30.0				
+28	0	fb:cell_kharakteristik.total_kejahatan_properti_memiliki_properti_curian	total kejahatan properti memiliki properti curian	total|kejahatan|properti|memiliki|properti|curian	total|kejahatan|properti|memiliki|properti|curian	JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+28	1	fb:cell_nomor_2018.24358	24358	24358	24358	CD	NUMBER	24358.0	24358.0				
+28	2	fb:cell_tarif_2018r.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+28	3	fb:cell_nomor_2019.25752	25752	25752	25752	CD	NUMBER	25752.0	25752.0				
+28	4	fb:cell_tarif_tahun_2019.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+28	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+28	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+29	0	fb:cell_kharakteristik.kejahatan_harta_benda_total_pencurian_kendaraan_bermotor	kejahatan harta benda total pencurian kendaraan bermotor	kejahatan|harta|benda|total|pencurian|kendaraan|bermotor	kejahatan|harta|benda|total|pencurian|kendaraan|bermotor	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+29	1	fb:cell_nomor_2018.86192	86192	86192	86192	CD	NUMBER	86192.0	86192.0				
+29	2	fb:cell_tarif_2018r.233_0	233.0	233.0	233.0	CD	NUMBER	233.0	233.0				
+29	3	fb:cell_nomor_2019.87066	87066	87066	87066	CD	NUMBER	87066.0	87066.0				
+29	4	fb:cell_tarif_tahun_2019.232_0	232.0	232.0	232.0	CD	NUMBER	232.0	232.0				
+29	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+30	0	fb:cell_kharakteristik.total_pencurian_kejahatan_properti_lebih_dari_5_000	total pencurian kejahatan properti lebih dari $5.000	total|pencurian|kejahatan|properti|lebih|dari|$|5.000	total|pencurian|kejahatan|properti|lebih|dari|$|5.000	JJ|JJ|NN|NN|NN|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY	||||||$5.0|$5.0	5.0				
+30	1	fb:cell_nomor_2018.20104	20104	20104	20104	CD	NUMBER	20104.0	20104.0				
+30	2	fb:cell_tarif_2018r.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+30	3	fb:cell_nomor_2019.21357	21357	21357	21357	CD	NUMBER	21357.0	21357.0				
+30	4	fb:cell_tarif_tahun_2019.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+30	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+30	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+31	0	fb:cell_kharakteristik.total_kejahatan_properti_mengutil_di_bawah_5_000	total kejahatan properti mengutil di bawah $5.000	total|kejahatan|properti|mengutil|di|bawah|$|5.000	total|kejahatan|properti|mengutil|di|bawah|$|5.000	JJ|NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|O|MONEY|MONEY	||||||$5.0|$5.0	5.0				
+31	1	fb:cell_nomor_2018.124896	124896	124896	124896	CD	NUMBER	124896.0	124896.0				
+31	2	fb:cell_tarif_2018r.337_0	337.0	337.0	337.0	CD	NUMBER	337.0	337.0				
+31	3	fb:cell_nomor_2019.140286	140286	140286	140286	CD	NUMBER	140286.0	140286.0				
+31	4	fb:cell_tarif_tahun_2019.373_0	373.0	373.0	373.0	CD	NUMBER	373.0	373.0				
+31	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+31	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+32	0	fb:cell_kharakteristik.total_pencurian_kejahatan_properti_sebesar_5_000_atau_kurang	total pencurian kejahatan properti sebesar $5.000 atau kurang	total|pencurian|kejahatan|properti|sebesar|$|5.000|atau|kurang	total|pencurian|kejahatan|properti|sebesar|$|5.000|atau|kurang	JJ|JJ|NN|NN|NN|$|CD|NN|NN	O|O|O|O|O|MONEY|MONEY|O|O	|||||$5.0|$5.0||	5.0				
+32	1	fb:cell_nomor_2018.407567	407567	407567	407567	CD	NUMBER	407567.0	407567.0				
+32	2	fb:cell_tarif_2018r.1100_0	1100.0	1100.0	1100.0	CD	NUMBER	1100.0	1100.0				
+32	3	fb:cell_nomor_2019.424439	424439	424439	424439	CD	NUMBER	424439.0	424439.0				
+32	4	fb:cell_tarif_tahun_2019.1129_0	1129.0	1129.0	1129.0	CD	NUMBER	1129.0	1129.0				
+32	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+32	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+33	0	fb:cell_kharakteristik.penipuan_kejahatan_properti_total	penipuan kejahatan properti total	penipuan|kejahatan|properti|total	penipuan|kejahatan|properti|total	NN|NN|NN|NN	O|O|O|O	|||					
+33	1	fb:cell_nomor_2018.130008	130008	130008	130008	CD	NUMBER	130008.0	130008.0				
+33	2	fb:cell_tarif_2018r.351_0	351.0	351.0	351.0	CD	NUMBER	351.0	351.0				
+33	3	fb:cell_nomor_2019.142140	142140	142140	142140	CD	NUMBER	142140.0	142140.0				
+33	4	fb:cell_tarif_tahun_2019.378_0	378.0	378.0	378.0	CD	NUMBER	378.0	378.0				
+33	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+33	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+34	0	fb:cell_kharakteristik.pencurian_identitas_kejahatan_properti_total	pencurian identitas kejahatan properti total	pencurian|identitas|kejahatan|properti|total	pencurian|identitas|kejahatan|properti|total	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+34	1	fb:cell_nomor_2018.3815	3815	3815	3815	CD	NUMBER	3815.0	3815.0	3815-xx-xx			
+34	2	fb:cell_tarif_2018r.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+34	3	fb:cell_nomor_2019.4683	4683	4683	4683	CD	NUMBER	4683.0	4683.0	4683-xx-xx			
+34	4	fb:cell_tarif_tahun_2019.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+34	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+34	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+35	0	fb:cell_kharakteristik.penipuan_identitas_kejahatan_properti_total	penipuan identitas kejahatan properti total	penipuan|identitas|kejahatan|properti|total	penipuan|identitas|kejahatan|properti|total	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+35	1	fb:cell_nomor_2018.15848	15848	15848	15848	CD	NUMBER	15848.0	15848.0				
+35	2	fb:cell_tarif_2018r.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+35	3	fb:cell_nomor_2019.19664	19664	19664	19664	CD	NUMBER	19664.0	19664.0				
+35	4	fb:cell_tarif_tahun_2019.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+35	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+35	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+36	0	fb:cell_kharakteristik.kejahatan_kejahatan_properti_total	kejahatan kejahatan properti total	kejahatan|kejahatan|properti|total	kejahatan|kejahatan|properti|total	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+36	1	fb:cell_nomor_2018.259917	259917	259917	259917	CD	NUMBER	259917.0	259917.0				
+36	2	fb:cell_tarif_2018r.701_0	701.0	701.0	701.0	CD	NUMBER	701.0	701.0				
+36	3	fb:cell_nomor_2019.284694	284694	284694	284694	CD	NUMBER	284694.0	284694.0				
+36	4	fb:cell_tarif_tahun_2019.757_0	757.0	757.0	757.0	CD	NUMBER	757.0	757.0				
+36	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+36	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._30_0	-30.0	-30.0	-30.0	CD	NUMBER	-30.0	30.0				
+37	0	fb:cell_kharakteristik.pembakaran_kejahatan_properti_total	pembakaran kejahatan properti total	pembakaran|kejahatan|properti|total	pembakaran|kejahatan|properti|total	NN|NN|NN|NN	O|O|O|O	|||					
+37	1	fb:cell_nomor_2018.8049	8049	8049	8049	CD	NUMBER	8049.0	8049.0	8049-xx-xx			
+37	2	fb:cell_tarif_2018r.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+37	3	fb:cell_nomor_2019.8190	8190	8190	8190	CD	NUMBER	8190.0	8190.0	8190-xx-xx			
+37	4	fb:cell_tarif_tahun_2019.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+37	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+37	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._45_0	-45.0	-45.0	-45.0	CD	NUMBER	-45.0	45.0				
+38	0	fb:cell_kharakteristik.total_pelanggaran_kuhp_lainnya	total pelanggaran KUHP lainnya	total|pelanggaran|kuhp|lainnya	total|pelanggaran|kuhp|lainnya	JJ|NN|NN|NN	O|O|O|O	|||					
+38	1	fb:cell_nomor_2018.375406	375406	375406	375406	CD	NUMBER	375406.0	375406.0				
+38	2	fb:cell_tarif_2018r.1013_0	1013.0	1013.0	1013.0	CD	NUMBER	1013.0	1013.0				
+38	3	fb:cell_nomor_2019.408510	408510	408510	408510	CD	NUMBER	408510.0	408510.0				
+38	4	fb:cell_tarif_tahun_2019.1087_0	1087.0	1087.0	1087.0	CD	NUMBER	1087.0	1087.0				
+38	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+38	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+39	0	fb:cell_kharakteristik.total_pelanggaran_kuhp_lainnya_pelanggaran_senjata	total pelanggaran KUHP lainnya pelanggaran senjata	total|pelanggaran|kuhp|lainnya|pelanggaran|senjata	total|pelanggaran|kuhp|lainnya|pelanggaran|senjata	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+39	1	fb:cell_nomor_2018.16589	16589	16589	16589	CD	NUMBER	16589.0	16589.0				
+39	2	fb:cell_tarif_2018r.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+39	3	fb:cell_nomor_2019.18622	18622	18622	18622	CD	NUMBER	18622.0	18622.0				
+39	4	fb:cell_tarif_tahun_2019.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+39	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+39	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+40	0	fb:cell_kharakteristik.total_tindak_pidana_kuhp_lainnya_pornografi_anak	total tindak pidana KUHP lainnya pornografi anak	total|tindak|pidana|kuhp|lainnya|pornografi|anak	total|tindak|pidana|kuhp|lainnya|pornografi|anak	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+40	1	fb:cell_nomor_2018.5934	5934	5934	5934	CD	NUMBER	5934.0	5934.0	5934-xx-xx			
+40	2	fb:cell_tarif_2018r.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+40	3	fb:cell_nomor_2019.8815	8815	8815	8815	CD	NUMBER	8815.0	8815.0	8815-xx-xx			
+40	4	fb:cell_tarif_tahun_2019.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+40	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+40	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.449_0	449.0	449.0	449.0	CD	NUMBER	449.0	449.0				
+41	0	fb:cell_kharakteristik.total_tindak_pidana_prostitusi_lainnya	total tindak pidana prostitusi lainnya	total|tindak|pidana|prostitusi|lainnya	total|tindak|pidana|prostitusi|lainnya	JJ|NN|NN|NN|NN	O|O|O|O|O	||||					
+41	1	fb:cell_nomor_2018.115	115	115	115	CD	NUMBER	115.0	115.0				
+41	2	fb:cell_tarif_2018r.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+41	3	fb:cell_nomor_2019.135	135	135	135	CD	NUMBER	135.0	135.0				
+41	4	fb:cell_tarif_tahun_2019.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+41	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+41	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+42	0	fb:cell_kharakteristik.total_tindak_pidana_kuhp_lainnya_terorisme	total tindak pidana KUHP lainnya terorisme	total|tindak|pidana|kuhp|lainnya|terorisme	total|tindak|pidana|kuhp|lainnya|terorisme	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+42	1	fb:cell_nomor_2018.108	108	108	108	CD	NUMBER	108.0	108.0				
+42	2	fb:cell_tarif_2018r.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+42	3	fb:cell_nomor_2019.85	85	85	85	CD	NUMBER	85.0	85.0				
+42	4	fb:cell_tarif_tahun_2019.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+42	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._22_0	-22.0	-22.0	-22.0	CD	NUMBER	-22.0	22.0				
+42	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+43	0	fb:cell_kharakteristik.total_pelanggaran_hukum_pidana_lainnya_mengganggu_ketenangan	total pelanggaran hukum pidana lainnya mengganggu ketenangan	total|pelanggaran|hukum|pidana|lainnya|mengganggu|ketenangan	total|pelanggaran|hukum|pidana|lainnya|mengganggu|ketenangan	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+43	1	fb:cell_nomor_2018.94379	94379	94379	94379	CD	NUMBER	94379.0	94379.0				
+43	2	fb:cell_tarif_2018r.255_0	255.0	255.0	255.0	CD	NUMBER	255.0	255.0				
+43	3	fb:cell_nomor_2019.110444	110444	110444	110444	CD	NUMBER	110444.0	110444.0				
+43	4	fb:cell_tarif_tahun_2019.294_0	294.0	294.0	294.0	CD	NUMBER	294.0	294.0				
+43	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+43	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+44	0	fb:cell_kharakteristik.jumlah_pelanggaran_kuhp_lainnya_pelanggaran_administrasi_peradilan	jumlah pelanggaran KUHP lainnya pelanggaran administrasi peradilan	jumlah|pelanggaran|kuhp|lainnya|pelanggaran|administrasi|peradilan	jumlah|pelanggaran|KUHP|lainnya|pelanggaran|administrasi|peradilan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+44	1	fb:cell_nomor_2018.229250	229250	229250	229250	CD	NUMBER	229250.0	229250.0				
+44	2	fb:cell_tarif_2018r.619_0	619.0	619.0	619.0	CD	NUMBER	619.0	619.0				
+44	3	fb:cell_nomor_2019.237346	237346	237346	237346	CD	NUMBER	237346.0	237346.0				
+44	4	fb:cell_tarif_tahun_2019.631_0	631.0	631.0	631.0	CD	NUMBER	631.0	631.0				
+44	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+44	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+45	0	fb:cell_kharakteristik.total_pelanggaran_kuhp_lainnya_pelanggaran_lainnya	total pelanggaran KUHP lainnya pelanggaran lainnya	total|pelanggaran|kuhp|lainnya|pelanggaran|lainnya	total|pelanggaran|kuhp|lainnya|pelanggaran|lainnya	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+45	1	fb:cell_nomor_2018.29031	29031	29031	29031	CD	NUMBER	29031.0	29031.0				
+45	2	fb:cell_tarif_2018r.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+45	3	fb:cell_nomor_2019.33063	33063	33063	33063	CD	NUMBER	33063.0	33063.0				
+45	4	fb:cell_tarif_tahun_2019.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+45	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+45	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+46	0	fb:cell_kharakteristik.total_pelanggaran_lalu_lintas_kuhp	total pelanggaran lalu lintas KUHP	total|pelanggaran|lalu|lintas|kuhp	total|pelanggaran|lalu|lintas|KUHP	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+46	1	fb:cell_nomor_2018.125890	125890	125890	125890	CD	NUMBER	125890.0	125890.0				
+46	2	fb:cell_tarif_2018r.340_0	340.0	340.0	340.0	CD	NUMBER	340.0	340.0				
+46	3	fb:cell_nomor_2019.136706	136706	136706	136706	CD	NUMBER	136706.0	136706.0				
+46	4	fb:cell_tarif_tahun_2019.364_0	364.0	364.0	364.0	CD	NUMBER	364.0	364.0				
+46	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+46	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+47	0	fb:cell_kharakteristik.total_kuhp_pelanggaran_lalu_lintas_mengemudi_dengan_gangguan_alkohol	total KUHP pelanggaran lalu lintas mengemudi dengan gangguan alkohol	total|kuhp|pelanggaran|lalu|lintas|mengemudi|dengan|gangguan|alkohol	total|kuhp|pelanggaran|lalu|lintas|mengemudi|dengan|gangguan|alkohol	JJ|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+47	1	fb:cell_nomor_2018.66008	66008	66008	66008	CD	NUMBER	66008.0	66008.0				
+47	2	fb:cell_tarif_2018r.178_0	178.0	178.0	178.0	CD	NUMBER	178.0	178.0				
+47	3	fb:cell_nomor_2019.72818	72818	72818	72818	CD	NUMBER	72818.0	72818.0				
+47	4	fb:cell_tarif_tahun_2019.194_0	194.0	194.0	194.0	CD	NUMBER	194.0	194.0				
+47	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+47	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._25_0	-25.0	-25.0	-25.0	CD	NUMBER	-25.0	25.0				
+48	0	fb:cell_kharakteristik.total_pelanggaran_lalu_lintas_hukum_pidana_mengemudi_dengan_gangguan_narkoba	total pelanggaran lalu lintas hukum pidana mengemudi dengan gangguan narkoba	total|pelanggaran|lalu|lintas|hukum|pidana|mengemudi|dengan|gangguan|narkoba	total|pelanggaran|lalu|lintas|hukum|pidana|mengemudi|dengan|gangguan|narkoba	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+48	1	fb:cell_nomor_2018.4444	4444	4444	4444	CD	NUMBER	4444.0	4444.0	4444-xx-xx			
+48	2	fb:cell_tarif_2018r.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+48	3	fb:cell_nomor_2019.6453	6453	6453	6453	CD	NUMBER	6453.0	6453.0	6453-xx-xx			
+48	4	fb:cell_tarif_tahun_2019.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+48	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+48	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.297_0	297.0	297.0	297.0	CD	NUMBER	297.0	297.0				
+49	0	fb:cell_kharakteristik.total_pelanggaran_lalu_lintas_hukum_pidana_mengemudi_dengan_gangguan_alkohol_dan_narkoba	total pelanggaran lalu lintas hukum pidana mengemudi dengan gangguan alkohol dan narkoba	total|pelanggaran|lalu|lintas|hukum|pidana|mengemudi|dengan|gangguan|alkohol|dan|narkoba	total|pelanggaran|lalu|lintas|hukum|pidana|mengemudi|dengan|gangguan|alkohol|dan|narkoba	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||||					
+49	1	fb:cell_nomor_2018.267	267	267	267	CD	NUMBER	267.0	267.0				
+49	2	fb:cell_tarif_2018r.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+49	3	fb:cell_nomor_2019.4618	4618	4618	4618	CD	NUMBER	4618.0	4618.0	4618-xx-xx			
+49	4	fb:cell_tarif_tahun_2019.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+49	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+49	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+50	0	fb:cell_kharakteristik.total_pelanggaran_lalu_lintas_kuhp_gangguan_mengemudi	total pelanggaran lalu lintas KUHP gangguan mengemudi	total|pelanggaran|lalu|lintas|kuhp|gangguan|mengemudi	total|pelanggaran|lalu|lintas|KUHP|gangguan|mengemudi	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+50	1	fb:cell_nomor_2018.113	113	113	113	CD	NUMBER	113.0	113.0				
+50	2	fb:cell_tarif_2018r.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+50	3	fb:cell_nomor_2019.1784	1784	1784	1784	CD	DATE	1784	1784.0	1784-xx-xx			
+50	4	fb:cell_tarif_tahun_2019.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+50	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.null											
+50	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+51	0	fb:cell_kharakteristik.total_pelanggaran_lalu_lintas_kuhp_pelanggaran_lalu_lintas_kuhp_lainnya	total pelanggaran lalu lintas KUHP pelanggaran lalu lintas KUHP lainnya	total|pelanggaran|lalu|lintas|kuhp|pelanggaran|lalu|lintas|kuhp|lainnya	total|pelanggaran|lalu|lintas|KUHP|pelanggaran|lalu|lintas|KUHP|lainnya	JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+51	1	fb:cell_nomor_2018.55058	55058	55058	55058	CD	NUMBER	55058.0	55058.0				
+51	2	fb:cell_tarif_2018r.149_0	149.0	149.0	149.0	CD	NUMBER	149.0	149.0				
+51	3	fb:cell_nomor_2019.51033	51033	51033	51033	CD	NUMBER	51033.0	51033.0				
+51	4	fb:cell_tarif_tahun_2019.136_0	136.0	136.0	136.0	CD	NUMBER	136.0	136.0				
+51	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+51	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+52	0	fb:cell_kharakteristik.total_pelanggaran_narkoba	total pelanggaran narkoba	total|pelanggaran|narkoba	total|pelanggaran|narkoba	JJ|NN|NN	O|O|O	||					
+52	1	fb:cell_nomor_2018.84927	84927	84927	84927	CD	NUMBER	84927.0	84927.0				
+52	2	fb:cell_tarif_2018r.229_0	229.0	229.0	229.0	CD	NUMBER	229.0	229.0				
+52	3	fb:cell_nomor_2019.70140	70140	70140	70140	CD	NUMBER	70140.0	70140.0				
+52	4	fb:cell_tarif_tahun_2019.187_0	187.0	187.0	187.0	CD	NUMBER	187.0	187.0				
+52	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+52	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._36_0	-36.0	-36.0	-36.0	CD	NUMBER	-36.0	36.0				
+53	0	fb:cell_kharakteristik.total_pelanggaran_undang_undang_federal_lainnya	total pelanggaran undang-undang federal lainnya	total|pelanggaran|undang|undang|federal|lainnya	total|pelanggaran|undang|undang|federal|lainnya	JJ|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+53	1	fb:cell_nomor_2018.26183	26183	26183	26183	CD	NUMBER	26183.0	26183.0				
+53	2	fb:cell_tarif_2018r.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+53	3	fb:cell_nomor_2019.23596	23596	23596	23596	CD	NUMBER	23596.0	23596.0				
+53	4	fb:cell_tarif_tahun_2019.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+53	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+53	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._33_0	-33.0	-33.0	-33.0	CD	NUMBER	-33.0	33.0				
+54	0	fb:cell_kharakteristik.total_pelanggaran_undang_undang_federal_lainnya_perdagangan_manusia_berdasarkan_undang_undang_imigrasi_dan_perlindungan_pengungsi	total pelanggaran undang-undang federal lainnya perdagangan manusia berdasarkan undang-undang imigrasi dan perlindungan pengungsi	total|pelanggaran|undang|undang|federal|lainnya|perdagangan|manusia|berdasarkan|undang|undang|imigrasi|dan|perlindungan|pengungsi	total|pelanggaran|undang|undang|federal|lainnya|perdagangan|manusia|berdasarkan|undang|undang|imigrasi|dan|perlindungan|pengungsi	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+54	1	fb:cell_nomor_2018.117	117	117	117	CD	NUMBER	117.0	117.0				
+54	2	fb:cell_tarif_2018r.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+54	3	fb:cell_nomor_2019.170	170	170	170	CD	NUMBER	170.0	170.0				
+54	4	fb:cell_tarif_tahun_2019.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+54	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+54	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen.null											
+55	0	fb:cell_kharakteristik.total_pelanggaran_undang_undang_federal_lainnya_tindakan_peradilan_pidana_remaja	total pelanggaran undang-undang federal lainnya tindakan peradilan pidana remaja	total|pelanggaran|undang|undang|federal|lainnya|tindakan|peradilan|pidana|remaja	total|pelanggaran|undang|undang|federal|lainnya|tindakan|peradilan|pidana|remaja	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+55	1	fb:cell_nomor_2018.4765	4765	4765	4765	CD	NUMBER	4765.0	4765.0	4765-xx-xx			
+55	2	fb:cell_tarif_2018r.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+55	3	fb:cell_nomor_2019.3815	3815	3815	3815	CD	NUMBER	3815.0	3815.0	3815-xx-xx			
+55	4	fb:cell_tarif_tahun_2019.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+55	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._21_0	-21.0	-21.0	-21.0	CD	NUMBER	-21.0	21.0				
+55	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._73_0	-73.0	-73.0	-73.0	CD	NUMBER	-73.0	73.0				
+56	0	fb:cell_kharakteristik.total_pelanggaran_undang_undang_federal_lainnya_terhadap_undang_undang_federal_lainnya	total pelanggaran undang-undang federal lainnya terhadap undang-undang federal lainnya	total|pelanggaran|undang|undang|federal|lainnya|terhadap|undang|undang|federal|lainnya	total|pelanggaran|undang|undang|federal|lainnya|terhadap|undang|undang|federal|lainnya	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+56	1	fb:cell_nomor_2018.21301	21301	21301	21301	CD	NUMBER	21301.0	21301.0				
+56	2	fb:cell_tarif_2018r.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+56	3	fb:cell_nomor_2019.19611	19611	19611	19611	CD	NUMBER	19611.0	19611.0				
+56	4	fb:cell_tarif_tahun_2019.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+56	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+56	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._9_0	-9.0	-9.0	-9.0	CD	NUMBER	-9.0	9.0				
+57	0	fb:cell_kharakteristik.total_semua_pelanggaran	total - semua pelanggaran	total|-|semua|pelanggaran	total|-|semua|pelanggaran	JJ|:|NN|NN	O|O|O|O	|||					
+57	1	fb:cell_nomor_2018.2280328	2280328	2280328	2280328	CD	NUMBER	2280328.0	2280328.0				
+57	2	fb:cell_tarif_2018r.6153_0	6153.0	6153.0	6153.0	CD	NUMBER	6153.0	6153.0				
+57	3	fb:cell_nomor_2019.2438518	2438518	2438518	2438518	CD	NUMBER	2438518.0	2438518.0				
+57	4	fb:cell_tarif_tahun_2019.6487_0	6487.0	6487.0	6487.0	CD	NUMBER	6487.0	6487.0				
+57	5	fb:cell_perubahan_tarif_2018_menjadi_2019_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+57	6	fb:cell_perubahan_tarif_2009_menjadi_2019_persen._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				

@@ -1,0 +1,145 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.perkiraan_revisi_perubahan_tahunan	perkiraan revisi perubahan % tahunan	perkiraan|revisi|perubahan|%|tahunan	perkiraan|revisi|perubahan|%|tahunan	NNP|NNP|NNP|NN|NN	O|O|O|O|O	||||					
+-1	2	fb:row.row.perkiraan_sebelumnya_perubahan_tahunan	perkiraan sebelumnya % perubahan tahunan	perkiraan|sebelumnya|%|perubahan|tahunan	perkiraan|sebelumnya|%|perubahan|tahunan	NNP|NNP|NN|NN|NN	O|O|O|O|O	||||					
+-1	3	fb:row.row.revisi_poin	revisi % poin	revisi|%|poin	revisi|%|poin	CD|NN|NN	PERCENT|PERCENT|O	%0.0|%0.0|					
+0	0	fb:cell_kharakteristik.angkutan	angkutan	angkutan	angkutan	NNP	O						
+0	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+0	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+0	3	fb:cell_revisi_poin.null											
+1	0	fb:cell_kharakteristik.transportasi_tahun_2012	transportasi tahun 2012	transportasi|tahun|2012	transportasi|tahun|2012	NN|NN|CD	O|O|DATE	||2012	2012.0				
+1	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+1	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	3	fb:cell_revisi_poin.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+2	0	fb:cell_kharakteristik.transportasi_tahun_2013	transportasi tahun 2013	transportasi|tahun|2013	transportasi|tahun|2013	NN|NN|CD	O|O|DATE	||2013	2013.0				
+2	1	fb:cell_perkiraan_revisi_perubahan_tahunan._0_7	-0.7	-0.7	-0.7	CD	NUMBER	-0.7	0.7				
+2	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+2	3	fb:cell_revisi_poin._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+3	0	fb:cell_kharakteristik.transportasi_tahun_2014	transportasi tahun 2014	transportasi|tahun|2014	transportasi|tahun|2014	NN|NN|CD	O|O|DATE	||2014	2014.0				
+3	1	fb:cell_perkiraan_revisi_perubahan_tahunan.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+3	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+3	3	fb:cell_revisi_poin._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+4	0	fb:cell_kharakteristik.transportasi_tahun_2015	transportasi tahun 2015	transportasi|tahun|2015	transportasi|tahun|2015	NN|NN|CD	O|O|DATE	||2015	2015.0				
+4	1	fb:cell_perkiraan_revisi_perubahan_tahunan.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+4	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+4	3	fb:cell_revisi_poin.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+5	0	fb:cell_kharakteristik.akomodasi	akomodasi	akomodasi	akomodasi	NNP	O						
+5	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+5	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+5	3	fb:cell_revisi_poin.null											
+6	0	fb:cell_kharakteristik.akomodasi_tahun_2012	akomodasi tahun 2012	akomodasi|tahun|2012	akomodasi|tahun|2012	NNP|NNP|CD	O|O|DATE	||2012	2012.0				
+6	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+6	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+6	3	fb:cell_revisi_poin.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+7	0	fb:cell_kharakteristik.akomodasi_tahun_2013	akomodasi tahun 2013	akomodasi|tahun|2013	akomodasi|tahun|2013	NNP|NNP|CD	O|O|DATE	||2013	2013.0				
+7	1	fb:cell_perkiraan_revisi_perubahan_tahunan._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+7	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+7	3	fb:cell_revisi_poin._1_4	-1.4	-1.4	-1.4	CD	NUMBER	-1.4	1.4				
+8	0	fb:cell_kharakteristik.akomodasi_tahun_2014	akomodasi tahun 2014	akomodasi|tahun|2014	akomodasi|tahun|2014	NNP|NNP|CD	O|O|DATE	||2014	2014.0				
+8	1	fb:cell_perkiraan_revisi_perubahan_tahunan.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+8	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+8	3	fb:cell_revisi_poin.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+9	0	fb:cell_kharakteristik.akomodasi_tahun_2015	akomodasi tahun 2015	akomodasi|tahun|2015	akomodasi|tahun|2015	NNP|NNP|CD	O|O|DATE	||2015	2015.0				
+9	1	fb:cell_perkiraan_revisi_perubahan_tahunan.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+9	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+9	3	fb:cell_revisi_poin._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+10	0	fb:cell_kharakteristik.layanan_makanan_dan_minuman	layanan makanan dan minuman	layanan|makanan|dan|minuman	layanan|makanan|dan|minuman	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+10	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+10	3	fb:cell_revisi_poin.null											
+11	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2012	jasa makanan dan minuman tahun 2012	jasa|makanan|dan|minuman|tahun|2012	jasa|makanan|dan|minuman|tahun|2012	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2012	2012.0				
+11	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+11	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+11	3	fb:cell_revisi_poin.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+12	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2013	jasa makanan dan minuman tahun 2013	jasa|makanan|dan|minuman|tahun|2013	jasa|makanan|dan|minuman|tahun|2013	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2013	2013.0				
+12	1	fb:cell_perkiraan_revisi_perubahan_tahunan.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+12	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+12	3	fb:cell_revisi_poin.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+13	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2014	jasa makanan dan minuman tahun 2014	jasa|makanan|dan|minuman|tahun|2014	jasa|makanan|dan|minuman|tahun|2014	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2014	2014.0				
+13	1	fb:cell_perkiraan_revisi_perubahan_tahunan.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+13	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+13	3	fb:cell_revisi_poin.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+14	0	fb:cell_kharakteristik.jasa_makanan_dan_minuman_tahun_2015	jasa makanan dan minuman tahun 2015	jasa|makanan|dan|minuman|tahun|2015	jasa|makanan|dan|minuman|tahun|2015	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2015	2015.0				
+14	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+14	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+14	3	fb:cell_revisi_poin.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+15	0	fb:cell_kharakteristik.industri_pariwisata_lainnya	industri pariwisata lainnya	industri|pariwisata|lainnya	industri|pariwisata|lainnya	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+15	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+15	3	fb:cell_revisi_poin.null											
+16	0	fb:cell_kharakteristik.industri_pariwisata_lainnya_2012	industri pariwisata lainnya 2012	industri|pariwisata|lainnya|2012	industri|pariwisata|lainnya|2012	NNP|NNP|NNP|CD	O|O|O|DATE	|||2012	2012.0				
+16	1	fb:cell_perkiraan_revisi_perubahan_tahunan.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+16	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+16	3	fb:cell_revisi_poin._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+17	0	fb:cell_kharakteristik.industri_pariwisata_lainnya_pada_tahun_2013	industri pariwisata lainnya pada tahun 2013	industri|pariwisata|lainnya|pada|tahun|2013	industri|pariwisata|lainnya|pada|tahun|2013	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2013	2013.0				
+17	1	fb:cell_perkiraan_revisi_perubahan_tahunan._2_9	-2.9	-2.9	-2.9	CD	NUMBER	-2.9	2.9				
+17	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+17	3	fb:cell_revisi_poin._3_3	-3.3	-3.3	-3.3	CD	NUMBER	-3.3	3.3				
+18	0	fb:cell_kharakteristik.industri_pariwisata_lainnya_pada_tahun_2014	industri pariwisata lainnya pada tahun 2014	industri|pariwisata|lainnya|pada|tahun|2014	industri|pariwisata|lainnya|pada|tahun|2014	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2014	2014.0				
+18	1	fb:cell_perkiraan_revisi_perubahan_tahunan.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+18	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+18	3	fb:cell_revisi_poin._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+19	0	fb:cell_kharakteristik.industri_pariwisata_lainnya_pada_tahun_2015	industri pariwisata lainnya pada tahun 2015	industri|pariwisata|lainnya|pada|tahun|2015	industri|pariwisata|lainnya|pada|tahun|2015	NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|DATE	|||||2015	2015.0				
+19	1	fb:cell_perkiraan_revisi_perubahan_tahunan.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+19	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+19	3	fb:cell_revisi_poin._0_1	-0.1	-0.1	-0.1	CD	NUMBER	-0.1	0.1				
+20	0	fb:cell_kharakteristik.total_industri_pariwisata	total industri pariwisata	total|industri|pariwisata	total|industri|pariwisata	JJ|NN|NN	O|O|O	||					
+20	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+20	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+20	3	fb:cell_revisi_poin.null											
+21	0	fb:cell_kharakteristik.total_industri_pariwisata_2012	total industri pariwisata 2012	total|industri|pariwisata|2012	total|industri|pariwisata|2012	JJ|NN|NNP|CD	O|O|O|DATE	|||2012	2012.0				
+21	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+21	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+21	3	fb:cell_revisi_poin.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+22	0	fb:cell_kharakteristik.total_industri_pariwisata_2013	total industri pariwisata 2013	total|industri|pariwisata|2013	total|industri|pariwisata|2013	JJ|NN|NNP|CD	O|O|O|DATE	|||2013	2013.0				
+22	1	fb:cell_perkiraan_revisi_perubahan_tahunan._0_4	-0.4	-0.4	-0.4	CD	NUMBER	-0.4	0.4				
+22	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+22	3	fb:cell_revisi_poin._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+23	0	fb:cell_kharakteristik.total_industri_pariwisata_2014	total industri pariwisata 2014	total|industri|pariwisata|2014	total|industri|pariwisata|2014	JJ|NN|NNP|CD	O|O|O|DATE	|||2014	2014.0				
+23	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+23	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+23	3	fb:cell_revisi_poin.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+24	0	fb:cell_kharakteristik.total_industri_pariwisata_2015	total industri pariwisata 2015	total|industri|pariwisata|2015	total|industri|pariwisata|2015	JJ|NN|NNP|CD	O|O|O|DATE	|||2015	2015.0				
+24	1	fb:cell_perkiraan_revisi_perubahan_tahunan.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+24	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+24	3	fb:cell_revisi_poin.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+25	0	fb:cell_kharakteristik.total_industri_lainnya	total industri lainnya	total|industri|lainnya	total|industri|lainnya	JJ|NN|NN	O|O|O	||					
+25	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+25	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+25	3	fb:cell_revisi_poin.null											
+26	0	fb:cell_kharakteristik.total_industri_lainnya_2012	total industri lainnya 2012	total|industri|lainnya|2012	total|industri|lainnya|2012	JJ|NN|NNP|CD	O|O|O|DATE	|||2012	2012.0				
+26	1	fb:cell_perkiraan_revisi_perubahan_tahunan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+26	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+26	3	fb:cell_revisi_poin.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	0	fb:cell_kharakteristik.total_industri_lainnya_tahun_2013	total industri lainnya tahun 2013	total|industri|lainnya|tahun|2013	total|industri|lainnya|tahun|2013	JJ|NN|NN|NN|CD	O|O|O|O|DATE	||||2013	2013.0				
+27	1	fb:cell_perkiraan_revisi_perubahan_tahunan.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+27	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+27	3	fb:cell_revisi_poin.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+28	0	fb:cell_kharakteristik.total_industri_lainnya_tahun_2014	total industri lainnya tahun 2014	total|industri|lainnya|tahun|2014	total|industri|lainnya|tahun|2014	JJ|NN|NN|NN|CD	O|O|O|O|DATE	||||2014	2014.0				
+28	1	fb:cell_perkiraan_revisi_perubahan_tahunan.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+28	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+28	3	fb:cell_revisi_poin.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+29	0	fb:cell_kharakteristik.total_industri_lainnya_tahun_2015	total industri lainnya tahun 2015	total|industri|lainnya|tahun|2015	total|industri|lainnya|tahun|2015	JJ|NN|NN|NN|CD	O|O|O|O|DATE	||||2015	2015.0				
+29	1	fb:cell_perkiraan_revisi_perubahan_tahunan.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+29	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+29	3	fb:cell_revisi_poin._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+30	0	fb:cell_kharakteristik.kegiatan_pariwisata	kegiatan pariwisata	kegiatan|pariwisata	kegiatan|pariwisata	NNP|NNP	O|O	|					
+30	1	fb:cell_perkiraan_revisi_perubahan_tahunan.null											
+30	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.null											
+30	3	fb:cell_revisi_poin.null											
+31	0	fb:cell_kharakteristik.kegiatan_pariwisata_tahun_2012	kegiatan pariwisata tahun 2012	kegiatan|pariwisata|tahun|2012	kegiatan|pariwisata|tahun|2012	NNP|NNP|NNP|CD	O|O|O|DATE	|||2012	2012.0				
+31	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+31	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+31	3	fb:cell_revisi_poin.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+32	0	fb:cell_kharakteristik.kegiatan_pariwisata_tahun_2013	kegiatan pariwisata tahun 2013	kegiatan|pariwisata|tahun|2013	kegiatan|pariwisata|tahun|2013	NNP|NNP|NNP|CD	O|O|O|DATE	|||2013	2013.0				
+32	1	fb:cell_perkiraan_revisi_perubahan_tahunan.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+32	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+32	3	fb:cell_revisi_poin._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+33	0	fb:cell_kharakteristik.kegiatan_pariwisata_tahun_2014	kegiatan pariwisata tahun 2014	kegiatan|pariwisata|tahun|2014	kegiatan|pariwisata|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014	2014.0				
+33	1	fb:cell_perkiraan_revisi_perubahan_tahunan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+33	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+33	3	fb:cell_revisi_poin.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+34	0	fb:cell_kharakteristik.kegiatan_pariwisata_tahun_2015	kegiatan pariwisata tahun 2015	kegiatan|pariwisata|tahun|2015	kegiatan|pariwisata|tahun|2015	NNP|NNP|NNP|CD	O|O|O|DATE	|||2015	2015.0				
+34	1	fb:cell_perkiraan_revisi_perubahan_tahunan.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+34	2	fb:cell_perkiraan_sebelumnya_perubahan_tahunan.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+34	3	fb:cell_revisi_poin._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				

@@ -1,0 +1,126 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persentase_pekerja_pertunjukan_laki_laki_persen	persentase pekerja pertunjukan laki-laki persen	persentase|pekerja|pertunjukan|laki|laki|persen	persentase|pekerja|pertunjukan|laki|laki|persen	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.persentase_pekerja_pertunjukan_perempuan_persen	persentase pekerja pertunjukan perempuan persen	persentase|pekerja|pertunjukan|perempuan|persen	persentase|pekerja|pertunjukan|perempuan|persen	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	3	fb:row.row.bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki	bagian dari seluruh pekerja yang dibagikan laki-laki	bagian|dari|seluruh|pekerja|yang|dibagikan|laki|laki	bagian|dari|seluruh|pekerja|yang|dibagikan|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan	bagian dari seluruh pekerja yang dibagikan oleh perempuan	bagian|dari|seluruh|pekerja|yang|dibagikan|oleh|perempuan	bagian|dari|seluruh|pekerja|yang|dibagikan|oleh|perempuan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.2016_malam	2016 malam	2016|malam	2016|malam	CD|NNP	DATE|O	2016|	2016.0				
+0	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.null											
+0	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.null											
+0	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.null											
+0	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.null											
+1	0	fb:cell_kharakteristik.noc_2016_tidak_diklasifikasikan_tidak_berfungsi	Noc 2016 tidak diklasifikasikan - tidak berfungsi	noc|2016|tidak|diklasifikasikan|-|tidak|berfungsi	Noc|2016|tidak|diklasifikasikan|-|tidak|berfungsi	NNP|CD|NNP|NNP|:|NNP|NNP	O|DATE|O|O|O|O|O	|2016|||||	2016.0				
+1	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+1	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+1	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+1	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+2	0	fb:cell_kharakteristik.2016_noc_0_pekerjaan_manajemen	2016 noc 0 - pekerjaan manajemen	2016|noc|0|-|pekerjaan|manajemen	2016|noc|0|-|pekerjaan|manajeman	CD|NNP|CD|:|JJ|NNS	DATE|O|NUMBER|O|O|O	2016||0.0|||	2016.0		0.0		
+2	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+2	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+2	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+2	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+3	0	fb:cell_kharakteristik.2016_noc_1_pekerjaan_bisnis_keuangan_dan_administrasi	2016 noc 1 - pekerjaan bisnis, keuangan dan administrasi	2016|noc|1|-|pekerjaan|bisnis|,|keuangan|dan|administrasi	2016|noc|1|-|pekerjaan|bisni|,|keuangan|dan|administrasi	CD|NNP|LS|:|JJ|NNS|,|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|O	2016||1.0|||||||	2016.0		1.0	2016 noc 1 - pekerjaan bisnis|keuangan dan administrasi	fb:part_kharakteristik.2016_noc_1_pekerjaan_bisnis|fb:part_kharakteristik.keuangan_dan_administrasi
+3	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+3	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+3	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+3	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+4	0	fb:cell_kharakteristik.2016_noc_2_ilmu_alam_dan_terapan_serta_pekerjaan_terkait	2016 noc 2 - ilmu alam dan terapan serta pekerjaan terkait	2016|noc|2|-|ilmu|alam|dan|terapan|serta|pekerjaan|terkait	2016|noc|2|-|ilmu|alam|dan|terapan|serta|pekerjaan|terkait	CD|NNP|LS|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|O|O	2016||2.0||||||||	2016.0		2.0		
+4	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+4	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+4	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+4	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+5	0	fb:cell_kharakteristik.2016_noc_3_pekerjaan_kesehatan	2016 noc 3 - pekerjaan kesehatan	2016|noc|3|-|pekerjaan|kesehatan	2016|noc|3|-|pekerjaan|kesehatan	CD|NNP|LS|:|JJ|NN	DATE|O|NUMBER|O|O|O	2016||3.0|||	2016.0		3.0		
+5	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+5	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+5	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+5	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+6	0	fb:cell_kharakteristik.2016_noc_4_pekerjaan_di_bidang_pendidikan_hukum_dan_sosial_pelayanan_masyarakat_dan_pemerintah	2016 noc 4 - pekerjaan di bidang pendidikan, hukum dan sosial, pelayanan masyarakat dan pemerintah	2016|noc|4|-|pekerjaan|di|bidang|pendidikan|,|hukum|dan|sosial|,|pelayanan|masyarakat|dan|pemerintah	2016|noc|4|-|pekerjaan|di|bidang|pendidikan|,|hukum|dan|sosial|,|pelayanan|masyarakat|dan|pemerintah	CD|NNP|LS|:|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	2016||4.0||||||||||||||	2016.0		4.0	2016 noc 4 - pekerjaan di bidang pendidikan|hukum dan sosial|pelayanan masyarakat dan pemerintah	fb:part_kharakteristik.2016_noc_4_pekerjaan_di_bidang_pendidikan|fb:part_kharakteristik.hukum_dan_sosial|fb:part_kharakteristik.pelayanan_masyarakat_dan_pemerintah
+6	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+6	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.20_3	20.3	20.3	20.3	CD	NUMBER	20.3	20.3				
+6	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+6	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+7	0	fb:cell_kharakteristik.2016_noc_5_pekerjaan_di_bidang_seni_budaya_rekreasi_dan_olahraga	2016 noc 5 - pekerjaan di bidang seni, budaya, rekreasi dan olahraga	2016|noc|5|-|pekerjaan|di|bidang|seni|,|budaya|,|rekreasi|dan|olahraga	2016|noc|5|-|pekerjaan|di|bidang|seni|,|budaya|,|rekreasi|dan|olahraga	CD|NNP|LS|:|NNP|NNP|NNP|NNP|,|NNP|,|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|LOCATION|O|O|PERSON|PERSON	2016||5.0|||||||||||	2016.0		5.0	2016 noc 5 - pekerjaan di bidang seni|budaya|rekreasi dan olahraga	fb:part_kharakteristik.2016_noc_5_pekerjaan_di_bidang_seni|fb:part_kharakteristik.budaya|fb:part_kharakteristik.rekreasi_dan_olahraga
+7	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+7	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+7	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.24_2	24.2	24.2	24.2	CD	NUMBER	24.2	24.2				
+7	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.26_6	26.6	26.6	26.6	CD	NUMBER	26.6	26.6				
+8	0	fb:cell_kharakteristik.2016_noc_6_pekerjaan_penjualan_dan_layanan	2016 noc 6 - pekerjaan penjualan dan layanan	2016|noc|6|-|pekerjaan|penjualan|dan|layanan	2016|noc|6|-|pekerjaan|penjualan|dan|layanan	CD|NNP|CD|:|JJ|NN|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O	2016||6.0|||||	2016.0		6.0		
+8	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				
+8	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.22_1	22.1	22.1	22.1	CD	NUMBER	22.1	22.1				
+8	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+8	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+9	0	fb:cell_kharakteristik.2016_noc_7_operator_perdagangan_transportasi_dan_peralatan_serta_pekerjaan_terkait	2016 noc 7 - operator perdagangan, transportasi dan peralatan serta pekerjaan terkait	2016|noc|7|-|operator|perdagangan|,|transportasi|dan|peralatan|serta|pekerjaan|terkait	2016|noc|7|-|operator|perdagangan|,|transportasi|dan|peralatan|serta|pekerjaan|terkait	CD|NNP|CD|:|NN|NN|,|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|O|O|O|O	2016||7.0||||||||||	2016.0		7.0	2016 noc 7 - operator perdagangan|transportasi dan peralatan serta pekerjaan terkait	fb:part_kharakteristik.2016_noc_7_operator_perdagangan|fb:part_kharakteristik.transportasi_dan_peralatan_serta_pekerjaan_terkait
+9	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+9	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+9	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+9	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+10	0	fb:cell_kharakteristik.2016_noc_8_sumber_daya_alam_pertanian_dan_pekerjaan_produksi_terkait	2016 noc 8 - sumber daya alam, pertanian dan pekerjaan produksi terkait	2016|noc|8|-|sumber|daya|alam|,|pertanian|dan|pekerjaan|produksi|terkait	2016|noc|8|-|sumber|daya|alam|,|pertanian|dan|pekerjaan|produksi|terkait	CD|NNP|CD|:|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|O|O|O|O	2016||8.0||||||||||	2016.0		8.0	2016 noc 8 - sumber daya alam|pertanian dan pekerjaan produksi terkait	fb:part_kharakteristik.2016_noc_8_sumber_daya_alam|fb:part_kharakteristik.pertanian_dan_pekerjaan_produksi_terkait
+10	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+10	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+10	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+10	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+11	0	fb:cell_kharakteristik.2016_noc_9_pekerjaan_di_bidang_manufaktur_dan_utilitas	2016 noc 9 - pekerjaan di bidang manufaktur dan utilitas	2016|noc|9|-|pekerjaan|di|bidang|manufaktur|dan|utilitas	2016|noc|9|-|pekerjaan|di|bidang|manufaktur|dan|utilitas	CD|NNP|CD|:|NNP|NNP|NNP|NNP|NNP|NNP	DATE|O|NUMBER|O|O|O|O|O|O|O	2016||9.0|||||||	2016.0		9.0		
+11	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+11	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+11	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+11	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+12	0	fb:cell_kharakteristik.klasifikasi_statistik_kanada	klasifikasi statistik kanada	klasifikasi|statistik|kanada	klasifikasus|statistik|kanada	NNS|NNP|NNP	O|O|O	||					
+12	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.null											
+12	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.null											
+12	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.null											
+12	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.null											
+13	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_tidak_diklasifikasikan	statistik kanada klasifikasi tidak diklasifikasikan	statistik|kanada|klasifikasi|tidak|diklasifikasikan	statistik|kanada|klasifikasi|tidak|diklasifikasikan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+13	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+13	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+13	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+14	0	fb:cell_kharakteristik.statistik_manajemen_klasifikasi_kanada	statistik manajemen klasifikasi kanada	statistik|manajemen|klasifikasi|kanada	statistik|manajemen|klasifikasi|kanada	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+14	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+14	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+14	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+14	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+15	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_profesional	statistik kanada klasifikasi profesional	statistik|kanada|klasifikasi|profesional	statistik|kanada|klasifikasi|profesional	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+15	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.24_4	24.4	24.4	24.4	CD	NUMBER	24.4	24.4				
+15	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+15	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+16	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_teknis_dan_paraprofesional	statistik kanada klasifikasi teknis dan paraprofesional	statistik|kanada|klasifikasi|teknis|dan|paraprofesional	statistik|kanada|klasifikasi|teknis|dan|paraprofesional	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+16	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+16	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				
+16	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+16	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+17	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_administrasi_dan_dukungan_administratif	statistik Kanada klasifikasi administrasi dan dukungan administratif	statistik|kanada|klasifikasi|administrasi|dan|dukungan|administratif	statistik|Kanada|klasifikasi|administrasi|dan|dukungan|administratif	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+17	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+17	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+17	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+17	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+18	0	fb:cell_kharakteristik.statistik_penjualan_klasifikasi_kanada	statistik penjualan klasifikasi kanada	statistik|penjualan|klasifikasi|kanada	statistik|penjualan|klasifikasi|kanada	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+18	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+18	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+18	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+18	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+19	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_layanan_informasi_pribadi_dan_pelanggan	statistik kanada klasifikasi layanan informasi pribadi dan pelanggan	statistik|kanada|klasifikasi|layanan|informasi|pribadi|dan|pelanggan	statistik|kanada|klasifikasi|layanan|informasi|pribadi|dan|pelanggan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||					
+19	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+19	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.22_8	22.8	22.8	22.8	CD	NUMBER	22.8	22.8				
+19	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+19	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+20	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_operasi_industri_konstruksi_dan_peralatan	statistik kanada klasifikasi operasi industri, konstruksi dan peralatan	statistik|kanada|klasifikasi|operasi|industri|,|konstruksi|dan|peralatan	statistik|kanada|klasifikasi|operasi|industri|,|konstruksi|dan|peralatan	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|MISC|MISC|MISC|MISC|O|PERSON|PERSON|PERSON	||||||||				statistik kanada klasifikasi operasi industri|konstruksi dan peralatan	fb:part_kharakteristik.statistik_kanada_klasifikasi_operasi_industri|fb:part_kharakteristik.konstruksi_dan_peralatan
+20	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+20	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+20	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+20	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+21	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_pekerja_dan_buruh	statistik kanada klasifikasi pekerja dan buruh	statistik|kanada|klasifikasi|pekerja|dan|buruh	statistik|kanada|klasifikasi|pekerja|dan|buruh	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+21	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+21	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+21	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+21	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+22	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_sumber_daya_alam_pertanian_dll	statistik kanada klasifikasi sumber daya alam, pertanian, dll	statistik|kanada|klasifikasi|sumber|daya|alam|,|pertanian|,|dll	statistik|kanada|klasifikasi|sumber|daya|alam|,|pertanian|,|dll	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|,|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				statistik kanada klasifikasi sumber daya alam|pertanian|dll	fb:part_kharakteristik.statistik_kanada_klasifikasi_sumber_daya_alam|fb:part_kharakteristik.pertanian|fb:part_kharakteristik.dll
+22	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+22	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+22	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+22	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+23	0	fb:cell_kharakteristik.statistik_kanada_klasifikasi_pekerjaan_di_bidang_manufaktur_dan_utilitas	statistik kanada klasifikasi pekerjaan di bidang manufaktur dan utilitas	statistik|kanada|klasifikasi|pekerjaan|di|bidang|manufaktur|dan|utilitas	statistik|kanada|klasifikasi|pekerjaan|di|bidang|manufaktur|dan|utilitas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+23	1	fb:cell_persentase_pekerja_pertunjukan_laki_laki_persen.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+23	2	fb:cell_persentase_pekerja_pertunjukan_perempuan_persen.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+23	3	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_laki_laki.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+23	4	fb:cell_bagian_dari_seluruh_pekerja_yang_dibagikan_oleh_perempuan.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				

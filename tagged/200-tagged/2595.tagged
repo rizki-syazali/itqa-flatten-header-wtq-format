@@ -1,0 +1,185 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.lamanya_masa_percobaan_3_bulan_atau_kurang	lamanya masa percobaan 3 bulan atau kurang	lamanya|masa|percobaan|3|bulan|atau|kurang	lamanya|masa|percobaan|3|bulan|atau|kurang	NN|NN|NNP|CD|NN|NN|NN	O|O|O|NUMBER|O|O|O	|||3.0|||					
+-1	2	fb:row.row.lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan	lamanya masa percobaan lebih dari 3 bulan sampai dengan 6 bulan	lamanya|masa|percobaan|lebih|dari|3|bulan|sampai|dengan|6|bulan	lamanya|masa|percobaan|lebih|dari|3|bulan|sampai|dengan|6|bulan	NN|NN|NN|NN|NNP|CD|NN|FW|FW|CD|NN	O|O|O|O|O|NUMBER|O|O|O|NUMBER|O	|||||3.0||||6.0|					
+-1	3	fb:row.row.lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan	lamanya masa percobaan lebih dari 6 bulan sampai dengan 12 bulan	lamanya|masa|percobaan|lebih|dari|6|bulan|sampai|dengan|12|bulan	lamanya|masa|percobaan|lebih|dari|6|bulan|sampai|dengan|12|bulan	NN|NN|NN|NN|NNP|CD|NN|FW|FW|CD|NN	MISC|MISC|MISC|MISC|O|NUMBER|O|O|O|NUMBER|O	|||||6.0||||12.0|					
+-1	4	fb:row.row.lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun	lamanya masa percobaan lebih dari 12 bulan sampai kurang dari 2 tahun	lamanya|masa|percobaan|lebih|dari|12|bulan|sampai|kurang|dari|2|tahun	lamanya|masa|percobaan|lebih|dari|12|bulan|sampai|kurang|dari|2|tahun	NN|NN|NN|NN|NNP|CD|NNP|NNP|NNP|NNP|CD|NN	MISC|MISC|MISC|MISC|O|NUMBER|O|O|O|O|NUMBER|O	|||||12.0|||||2.0|					
+-1	5	fb:row.row.lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun	lamanya masa percobaan lebih dari 2 tahun sampai dengan 3 tahun	lamanya|masa|percobaan|lebih|dari|2|tahun|sampai|dengan|3|tahun	lamanya|masa|percobaan|lebih|dari|2|tahun|sampai|dengan|3|tahun	NN|NN|NN|NN|NNP|CD|NN|FW|FW|CD|NN	MISC|MISC|MISC|MISC|O|NUMBER|O|O|O|NUMBER|O	|||||2.0||||3.0|					
+-1	6	fb:row.row.lamanya_masa_percobaan_tidak_diketahui	lamanya masa percobaan tidak diketahui	lamanya|masa|percobaan|tidak|diketahui	lamanya|masa|percobaan|tidak|diketahui	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	7	fb:row.row.lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan	lamanya masa percobaan total kasus yang dijatuhi hukuman percobaan	lamanya|masa|percobaan|total|kasus|yang|dijatuhi|hukuman|percobaan	lamanya|masa|percobaan|total|kasus|yang|dijatuhi|hukuman|percobaan	NN|NN|JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv	persen kasus kekerasan pasangan intim (ipv).	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|.	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|.	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|.	O|O|O|O|O|O|O|O|O	||||||||					
+0	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.null											
+0	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.null											
+0	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.null											
+0	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.null											
+0	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.null											
+0	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.null											
+0	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.null											
+1	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_penyerangan_umum	persen kasus kekerasan pasangan intim (ipv) penyerangan umum	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|penyerangan|umum	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|penyerangan|umum	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+1	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+1	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+1	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.66_9	66.9	66.9	66.9	CD	NUMBER	66.9	66.9				
+1	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+1	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+1	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+1	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_penyerangan_besar	persen kasus kekerasan pasangan intim (ipv) penyerangan besar	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|penyerangan|besar	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|penyerangan|besar	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+2	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+2	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+2	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.45_5	45.5	45.5	45.5	CD	NUMBER	45.5	45.5				
+2	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.38_4	38.4	38.4	38.4	CD	NUMBER	38.4	38.4				
+2	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+2	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+3	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_yang_mengucapkan_ancaman	persen kasus kekerasan pasangan intim (ipv) yang mengucapkan ancaman	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|yang|mengucapkan|ancaman	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|yang|mengucapkan|ancaman	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+3	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+3	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+3	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.54_9	54.9	54.9	54.9	CD	NUMBER	54.9	54.9				
+3	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.33_4	33.4	33.4	33.4	CD	NUMBER	33.4	33.4				
+3	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+3	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+3	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+4	0	fb:cell_kharakteristik.persen_kekerasan_pasangan_intim_ipv_kasus_pelecehan_kriminal	persen kekerasan pasangan intim (ipv) kasus pelecehan kriminal	persen|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kasus|pelecehan|kriminal	persen|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kasus|pelecehan|kriminal	NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+4	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+4	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+4	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.42_5	42.5	42.5	42.5	CD	NUMBER	42.5	42.5				
+4	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.46_1	46.1	46.1	46.1	CD	NUMBER	46.1	46.1				
+4	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+4	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+4	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+5	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_kenakalan	persen kasus kekerasan pasangan intim (ipv) kenakalan	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kenakalan	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kenakalan	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+5	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+5	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+5	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+5	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.26_4	26.4	26.4	26.4	CD	NUMBER	26.4	26.4				
+5	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+5	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_pelanggaran_masa_percobaan	persen kasus kekerasan pasangan intim (ipv) pelanggaran masa percobaan	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|pelanggaran|masa|percobaan	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+6	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+6	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+6	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.44_2	44.2	44.2	44.2	CD	NUMBER	44.2	44.2				
+6	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.35_7	35.7	35.7	35.7	CD	NUMBER	35.7	35.7				
+6	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+6	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+6	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_kegagalan_untuk_mematuhi_perintah_pengadilan	persen kasus kekerasan pasangan intim (ipv) kegagalan untuk mematuhi perintah pengadilan	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kegagalan|untuk|mematuhi|perintah|pengadilan	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kegagalan|untuk|mematuhi|perintah|pengadilan	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+7	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+7	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+7	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.48_1	48.1	48.1	48.1	CD	NUMBER	48.1	48.1				
+7	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.24_2	24.2	24.2	24.2	CD	NUMBER	24.2	24.2				
+7	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+7	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+8	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_kekerasan_seksual	persen kasus kekerasan pasangan intim (ipv) kekerasan seksual	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kekerasan|seksual	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|kekerasan|seksual	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+8	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.35_1	35.1	35.1	35.1	CD	NUMBER	35.1	35.1				
+8	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.51_9	51.9	51.9	51.9	CD	NUMBER	51.9	51.9				
+8	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+8	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+8	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+9	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_pelanggaran_lainnya	persen kasus kekerasan pasangan intim (ipv) pelanggaran lainnya	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|pelanggaran|lainnya	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|pelanggaran|lainnya	JJ|NN|NN|NN|NN|-LRB-|NN|-RRB-|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+9	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+9	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+9	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+9	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+9	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+9	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+9	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+10	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_intim_ipv_total_kasus_ipv_yang_bersalah	persen kasus kekerasan pasangan intim (ipv) total kasus ipv yang bersalah	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|total|kasus|ipv|yang|bersalah	persen|kasus|kekerasan|pasangan|intim|-lrb-|ipv|-rrb-|total|kasus|ipv|yang|bersalah	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||||					
+10	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+10	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+10	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+10	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.26_3	26.3	26.3	26.3	CD	NUMBER	26.3	26.3				
+10	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+10	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+10	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+11	0	fb:cell_kharakteristik.persen_kasus_kekerasan_bukan_pasangan_intim_non_ipv	persen kasus kekerasan bukan pasangan intim (non-ipv).	persen|kasus|kekerasan|bukan|pasangan|intim|-lrb-|non|ipv|-rrb-|.	persen|kasus|kekerasan|bukan|pasangan|intim|-lrb-|non|ipv|-rrb-|.	NNP|NNP|NNP|NNP|NNP|NNP|-LRB-|JJ|NN|-RRB-|.	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+11	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.null											
+11	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.null											
+11	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.null											
+11	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.null											
+11	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.null											
+11	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.null											
+11	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.null											
+12	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_penyerangan_umum	persen kasus kekerasan non-intim pasangan (non-ipv) penyerangan umum	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|penyerangan|umum	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|penyerangan|umum	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+12	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+12	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+12	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.64_9	64.9	64.9	64.9	CD	NUMBER	64.9	64.9				
+12	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+12	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+12	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+12	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+13	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_penyerangan_besar	persen kasus kekerasan non-intim pasangan (non-ipv) penyerangan besar	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|penyerangan|besar	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|penyerangan|besar	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+13	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+13	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+13	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.51_4	51.4	51.4	51.4	CD	NUMBER	51.4	51.4				
+13	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+13	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+13	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+13	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+14	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_yang_mengucapkan_ancaman	persen kasus kekerasan non-intim pasangan (non-ipv) yang mengucapkan ancaman	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|yang|mengucapkan|ancaman	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|yang|mengucapkan|ancaman	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+14	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+14	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+14	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+14	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+14	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+14	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+14	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+15	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_pelecehan_kriminal	persen kasus kekerasan non-intim pasangan (non-ipv) pelecehan kriminal	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|pelecehan|kriminal	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|pelecehan|kriminal	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+15	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+15	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+15	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.43_1	43.1	43.1	43.1	CD	NUMBER	43.1	43.1				
+15	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.44_2	44.2	44.2	44.2	CD	NUMBER	44.2	44.2				
+15	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+15	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+15	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+16	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_kenakalan	persen kasus kekerasan non-intim pasangan (non-ipv) kenakalan	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|kenakalan	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|kenakalan	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+16	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+16	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+16	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+16	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+16	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+16	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+16	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+17	0	fb:cell_kharakteristik.persen_kasus_pelanggaran_masa_percobaan	persen kasus pelanggaran masa percobaan	persen|kasus|pelanggaran|masa|percobaan	persen|kasus|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+17	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+17	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+17	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.50_1	50.1	50.1	50.1	CD	NUMBER	50.1	50.1				
+17	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.29_6	29.6	29.6	29.6	CD	NUMBER	29.6	29.6				
+17	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+17	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+17	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+18	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_non_intim_non_ipv_yang_tidak_mematuhi_perintah_pengadilan	persen kasus kekerasan pasangan non-intim (non-ipv) yang tidak mematuhi perintah pengadilan	persen|kasus|kekerasan|pasangan|non|intim|-lrb-|non|ipv|-rrb-|yang|tidak|mematuhi|perintah|pengadilan	persen|kasus|kekerasan|pasangan|non|intim|-lrb-|non|ipv|-rrb-|yang|tidak|mematuhi|perintah|pengadilan	NNP|NNP|NNP|NNP|JJ|NN|-LRB-|JJ|NN|-RRB-|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+18	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+18	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+18	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+18	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+18	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+18	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+18	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+19	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_kekerasan_seksual	persen kasus kekerasan non-intim pasangan (non-ipv) kekerasan seksual	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|kekerasan|seksual	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|kekerasan|seksual	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+19	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+19	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+19	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.34_7	34.7	34.7	34.7	CD	NUMBER	34.7	34.7				
+19	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.43_7	43.7	43.7	43.7	CD	NUMBER	43.7	43.7				
+19	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+19	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+19	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+20	0	fb:cell_kharakteristik.persen_kasus_kekerasan_non_intim_pasangan_non_ipv_pelanggaran_lainnya	persen kasus kekerasan non-intim pasangan (non-ipv) pelanggaran lainnya	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|pelanggaran|lainnya	persen|kasus|kekerasan|non|intim|pasangan|-lrb-|non|ipv|-rrb-|pelanggaran|lainnya	NNP|NNP|NNP|JJ|NN|NN|-LRB-|JJ|NN|-RRB-|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+20	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+20	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+20	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.49_5	49.5	49.5	49.5	CD	NUMBER	49.5	49.5				
+20	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.28_1	28.1	28.1	28.1	CD	NUMBER	28.1	28.1				
+20	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+20	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+20	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+21	0	fb:cell_kharakteristik.persen_kasus_kekerasan_pasangan_non_intim_non_ipv_total_kasus_bersalah_non_ipv	persen kasus kekerasan pasangan non-intim (non-ipv) total kasus bersalah non-ipv	persen|kasus|kekerasan|pasangan|non|intim|-lrb-|non|ipv|-rrb-|total|kasus|bersalah|non|ipv	persen|kasus|kekerasan|pasangan|non|intim|-lrb-|non|ipv|-rrb-|total|kasus|bersalah|non|ipv	NNP|NNP|NNP|NNP|JJ|NN|-LRB-|JJ|NN|-RRB-|JJ|NN|NN|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+21	1	fb:cell_lamanya_masa_percobaan_3_bulan_atau_kurang.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+21	2	fb:cell_lamanya_masa_percobaan_lebih_dari_3_bulan_sampai_dengan_6_bulan.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+21	3	fb:cell_lamanya_masa_percobaan_lebih_dari_6_bulan_sampai_dengan_12_bulan.57_3	57.3	57.3	57.3	CD	NUMBER	57.3	57.3				
+21	4	fb:cell_lamanya_masa_percobaan_lebih_dari_12_bulan_sampai_kurang_dari_2_tahun.23_7	23.7	23.7	23.7	CD	NUMBER	23.7	23.7				
+21	5	fb:cell_lamanya_masa_percobaan_lebih_dari_2_tahun_sampai_dengan_3_tahun.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+21	6	fb:cell_lamanya_masa_percobaan_tidak_diketahui.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+21	7	fb:cell_lamanya_masa_percobaan_total_kasus_yang_dijatuhi_hukuman_percobaan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

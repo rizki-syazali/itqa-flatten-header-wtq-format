@@ -1,0 +1,85 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kemungkinan_untuk_mengekspor_kolom_1	kemungkinan untuk mengekspor kolom 1	kemungkinan|untuk|mengekspor|kolom|1	kemungkinan|untuk|mengekspor|kolom|1	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||1.0					
+-1	2	fb:row.row.kemungkinan_untuk_mengekspor_kolom_2	kemungkinan untuk mengekspor kolom 2	kemungkinan|untuk|mengekspor|kolom|2	kemungkinan|untuk|mengekspor|kolom|2	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||2.0					
+-1	3	fb:row.row.jumlah_produk_kolom_3	jumlah produk kolom 3	jumlah|produk|kolom|3	jumlah|produk|kolom|3	NNP|NNP|NNP|CD	O|O|O|NUMBER	|||3.0					
+-1	4	fb:row.row.jumlah_produk_kolom_4	jumlah produk kolom 4	jumlah|produk|kolom|4	jumlah|produk|kolom|4	NNP|NNP|NNP|CD	O|O|O|NUMBER	|||4.0					
+-1	5	fb:row.row.nilai_rata_rata_per_produk_kolom_5	nilai rata-rata per produk kolom 5	nilai|rata|rata|per|produk|kolom|5	nilai|rata|rata|per|produk|kolom|5	NNP|JJ|JJ|IN|NN|NN|CD	O|O|O|O|O|O|NUMBER	||||||5.0					
+-1	6	fb:row.row.nilai_rata_rata_per_produk_kolom_6	nilai rata-rata per produk kolom 6	nilai|rata|rata|per|produk|kolom|6	nilai|rata|rata|per|produk|kolom|6	NNP|JJ|JJ|IN|NN|NN|CD	O|O|O|O|O|O|NUMBER	||||||6.0					
+0	0	fb:cell_kharakteristik.milik_imigran_di_t_1	milik imigran di t-1	milik|imigran|di|t-1	milik|imigran|di|t-1	NNP|NNP|NNP|NNP	O|O|O|O	|||	1.0				
+0	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+0	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.null											
+0	3	fb:cell_jumlah_produk_kolom_3.null											
+0	4	fb:cell_jumlah_produk_kolom_4.null											
+0	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+0	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.null											
+1	0	fb:cell_kharakteristik.milik_imigran_dalam_koefisien_t_1	milik imigran dalam koefisien t-1	milik|imigran|dalam|koefisien|t-1	milik|imigran|dalam|koefisien|t-1	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||	1.0				
+1	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+1	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2._0_004	-0.004	-0.004	-0.004	CD	NUMBER	-0.004	0.004				
+1	3	fb:cell_jumlah_produk_kolom_3._0_015	-0.015	-0.015	-0.015	CD	NUMBER	-0.015	0.015				
+1	4	fb:cell_jumlah_produk_kolom_4._0_034	-0.034	-0.034	-0.034	CD	NUMBER	-0.034	0.034				
+1	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.0_241	0.241	0.241	0.241	CD	NUMBER	0.241	0.241				
+1	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_212	0.212	0.212	0.212	CD	NUMBER	0.212	0.212				
+2	0	fb:cell_kharakteristik.milik_imigran_dalam_kesalahan_standar_t_1	milik imigran dalam kesalahan standar t-1	milik|imigran|dalam|kesalahan|standar|t-1	milik|imigran|dalam|kesalahan|standar|t-1	NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O	|||||	1.0				
+2	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.0_002	0.002	0.002	0.002	CD	NUMBER	0.002	0.002				
+2	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.0_002	0.002	0.002	0.002	CD	NUMBER	0.002	0.002				
+2	3	fb:cell_jumlah_produk_kolom_3.0_025	0.025	0.025	0.025	CD	NUMBER	0.025	0.025				
+2	4	fb:cell_jumlah_produk_kolom_4.0_025	0.025	0.025	0.025	CD	NUMBER	0.025	0.025				
+2	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.0_047	0.047	0.047	0.047	CD	NUMBER	0.047	0.047				
+2	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_049	0.049	0.049	0.049	CD	NUMBER	0.049	0.049				
+3	0	fb:cell_kharakteristik.ekspor_ke_daerah_kelahirannya	ekspor ke daerah kelahirannya	ekspor|ke|daerah|kelahirannya	ekspor|ke|daerah|kelahirannya	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+3	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.null											
+3	3	fb:cell_jumlah_produk_kolom_3.null											
+3	4	fb:cell_jumlah_produk_kolom_4.null											
+3	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+3	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.null											
+4	0	fb:cell_kharakteristik.ekspor_ke_wilayah_koefisien_kelahiran	ekspor ke wilayah koefisien kelahiran	ekspor|ke|wilayah|koefisien|kelahiran	ekspor|ke|wilayah|koefisien|kelahiran	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+4	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+4	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.0_025	0.025	0.025	0.025	CD	NUMBER	0.025	0.025				
+4	3	fb:cell_jumlah_produk_kolom_3.null											
+4	4	fb:cell_jumlah_produk_kolom_4.0_126	0.126	0.126	0.126	CD	NUMBER	0.126	0.126				
+4	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+4	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+5	0	fb:cell_kharakteristik.ekspor_ke_wilayah_kesalahan_standar_kelahiran	ekspor ke wilayah kesalahan standar kelahiran	ekspor|ke|wilayah|kesalahan|standar|kelahiran	ekspor|ke|wilayah|kesalahan|standar|kelahiran	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+5	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+5	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.0_002	0.002	0.002	0.002	CD	NUMBER	0.002	0.002				
+5	3	fb:cell_jumlah_produk_kolom_3.null											
+5	4	fb:cell_jumlah_produk_kolom_4.0_037	0.037	0.037	0.037	CD	NUMBER	0.037	0.037				
+5	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+5	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_088	0.088	0.088	0.088	CD	NUMBER	0.088	0.088				
+6	0	fb:cell_kharakteristik.efek_gabungan	efek gabungan	efek|gabungan	efek|gabungan	NN|NN	O|O	|					
+6	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+6	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.null											
+6	3	fb:cell_jumlah_produk_kolom_3.null											
+6	4	fb:cell_jumlah_produk_kolom_4.null											
+6	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+6	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.null											
+7	0	fb:cell_kharakteristik.koefisien_efek_gabungan	koefisien efek gabungan	koefisien|efek|gabungan	koefisien|efek|gabungan	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+7	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.0_022	0.022	0.022	0.022	CD	NUMBER	0.022	0.022				
+7	3	fb:cell_jumlah_produk_kolom_3.null											
+7	4	fb:cell_jumlah_produk_kolom_4.0_092	0.092	0.092	0.092	CD	NUMBER	0.092	0.092				
+7	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+7	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_412	0.412	0.412	0.412	CD	NUMBER	0.412	0.412				
+8	0	fb:cell_kharakteristik.kesalahan_standar_efek_gabungan	kesalahan standar efek gabungan	kesalahan|standar|efek|gabungan	kesalahan|standar|efek|gabungan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+8	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.null											
+8	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.0_003	0.003	0.003	0.003	CD	NUMBER	0.003	0.003				
+8	3	fb:cell_jumlah_produk_kolom_3.null											
+8	4	fb:cell_jumlah_produk_kolom_4.0_041	0.041	0.041	0.041	CD	NUMBER	0.041	0.041				
+8	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.null											
+8	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_089	0.089	0.089	0.089	CD	NUMBER	0.089	0.089				
+9	0	fb:cell_kharakteristik.jumlah_efek_gabungan_observasi	jumlah efek gabungan observasi	jumlah|efek|gabungan|observasi	jumlah|efek|gabungan|observasi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.585844_0	585844.0	585844.0	585844.0	CD	NUMBER	585844.0	585844.0				
+9	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.585844_0	585844.0	585844.0	585844.0	CD	NUMBER	585844.0	585844.0				
+9	3	fb:cell_jumlah_produk_kolom_3.35715_0	35715.0	35715.0	35715.0	CD	NUMBER	35715.0	35715.0				
+9	4	fb:cell_jumlah_produk_kolom_4.35715_0	35715.0	35715.0	35715.0	CD	NUMBER	35715.0	35715.0				
+9	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.35715_0	35715.0	35715.0	35715.0	CD	NUMBER	35715.0	35715.0				
+9	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.35715_0	35715.0	35715.0	35715.0	CD	NUMBER	35715.0	35715.0				
+10	0	fb:cell_kharakteristik.efek_gabungan_r_kuadrat	efek gabungan r-kuadrat	efek|gabungan|r|kuadrat	efek|gabungan|r|kuadrat	NN|NN|NN|NN	O|O|O|O	|||					
+10	1	fb:cell_kemungkinan_untuk_mengekspor_kolom_1.0_173	0.173	0.173	0.173	CD	NUMBER	0.173	0.173				
+10	2	fb:cell_kemungkinan_untuk_mengekspor_kolom_2.0_173	0.173	0.173	0.173	CD	NUMBER	0.173	0.173				
+10	3	fb:cell_jumlah_produk_kolom_3.0_193	0.193	0.193	0.193	CD	NUMBER	0.193	0.193				
+10	4	fb:cell_jumlah_produk_kolom_4.0_193	0.193	0.193	0.193	CD	NUMBER	0.193	0.193				
+10	5	fb:cell_nilai_rata_rata_per_produk_kolom_5.0_214	0.214	0.214	0.214	CD	NUMBER	0.214	0.214				
+10	6	fb:cell_nilai_rata_rata_per_produk_kolom_6.0_215	0.215	0.215	0.215	CD	NUMBER	0.215	0.215				

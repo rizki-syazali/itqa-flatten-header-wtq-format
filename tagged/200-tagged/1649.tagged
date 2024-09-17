@@ -1,0 +1,165 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_sampel	nomor sampel	nomor|sampel	nomor|sampel	NN|NN	O|O	|					
+-1	2	fb:row.row.jumlah_perkiraan_populasi	jumlah perkiraan populasi	jumlah|perkiraan|populasi	jumlah|perkiraan|populasi	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.perkiraan_populasi	perkiraan populasi%	perkiraan|populasi|%	perkiraan|populasi|%	NNP|NNP|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_nomor_sampel.26429_0	26429.0	26429.0	26429.0	CD	NUMBER	26429.0	26429.0				
+0	2	fb:cell_jumlah_perkiraan_populasi.5595_1	5595.1	5595.1	5595.1	CD	NUMBER	5595.1	5595.1				
+0	3	fb:cell_perkiraan_populasi.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.seks_total	seks total	seks|total	seks|total	NNP|NNP	O|O	|					
+1	1	fb:cell_nomor_sampel.null											
+1	2	fb:cell_jumlah_perkiraan_populasi.null											
+1	3	fb:cell_perkiraan_populasi.null											
+2	0	fb:cell_kharakteristik.total_seks_pria	total seks pria	total|seks|pria	total|sek|pria	JJ|NNS|NN	O|O|O	||					
+2	1	fb:cell_nomor_sampel.10165_0	10165.0	10165.0	10165.0	CD	NUMBER	10165.0	10165.0				
+2	2	fb:cell_jumlah_perkiraan_populasi.2427_7	2427.7	2427.7	2427.7	CD	NUMBER	2427.7	2427.7				
+2	3	fb:cell_perkiraan_populasi.43_4	43.4	43.4	43.4	CD	NUMBER	43.4	43.4				
+3	0	fb:cell_kharakteristik.total_seks_wanita	total seks wanita	total|seks|wanita	total|seks|wanita	JJ|NNP|NNP	O|O|O	||					
+3	1	fb:cell_nomor_sampel.16264_0	16264.0	16264.0	16264.0	CD	NUMBER	16264.0	16264.0				
+3	2	fb:cell_jumlah_perkiraan_populasi.3167_4	3167.4	3167.4	3167.4	CD	NUMBER	3167.4	3167.4				
+3	3	fb:cell_perkiraan_populasi.56_6	56.6	56.6	56.6	CD	NUMBER	56.6	56.6				
+4	0	fb:cell_kharakteristik.kelompok_umur_keseluruhan	kelompok umur keseluruhan	kelompok|umur|keseluruhan	kelompok|umur|keseluruhan	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_nomor_sampel.null											
+4	2	fb:cell_jumlah_perkiraan_populasi.null											
+4	3	fb:cell_perkiraan_populasi.null											
+5	0	fb:cell_kharakteristik.total_kelompok_usia_18_hingga_34_tahun	total kelompok usia 18 hingga 34 tahun	total|kelompok|usia|18|hingga|34|tahun	total|kelompok|usia|18|hingga|34|tahun	JJ|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||18.0||34.0|	18.0		34.0		
+5	1	fb:cell_nomor_sampel.3277_0	3277.0	3277.0	3277.0	CD	NUMBER	3277.0	3277.0				
+5	2	fb:cell_jumlah_perkiraan_populasi.973_8	973.8	973.8	973.8	CD	NUMBER	973.8	973.8				
+5	3	fb:cell_perkiraan_populasi.17_4	17.4	17.4	17.4	CD	NUMBER	17.4	17.4				
+6	0	fb:cell_kharakteristik.total_kelompok_usia_35_hingga_49_tahun	total kelompok usia 35 hingga 49 tahun	total|kelompok|usia|35|hingga|49|tahun	total|kelompok|usia|35|hingga|49|tahun	JJ|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||35.0||49.0|	35.0		49.0		
+6	1	fb:cell_nomor_sampel.4792_0	4792.0	4792.0	4792.0	CD	NUMBER	4792.0	4792.0				
+6	2	fb:cell_jumlah_perkiraan_populasi.1441_9	1441.9	1441.9	1441.9	CD	NUMBER	1441.9	1441.9				
+6	3	fb:cell_perkiraan_populasi.25_8	25.8	25.8	25.8	CD	NUMBER	25.8	25.8				
+7	0	fb:cell_kharakteristik.total_kelompok_usia_50_hingga_64_tahun	total kelompok usia 50 hingga 64 tahun	total|kelompok|usia|50|hingga|64|tahun	total|kelompok|usia|50|hingga|64|tahun	JJ|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||50.0||64.0|	50.0		64.0		
+7	1	fb:cell_nomor_sampel.9493_0	9493.0	9493.0	9493.0	CD	NUMBER	9493.0	9493.0				
+7	2	fb:cell_jumlah_perkiraan_populasi.1895_4	1895.4	1895.4	1895.4	CD	NUMBER	1895.4	1895.4				
+7	3	fb:cell_perkiraan_populasi.33_9	33.9	33.9	33.9	CD	NUMBER	33.9	33.9				
+8	0	fb:cell_kharakteristik.total_kelompok_usia_65_atau_lebih	total kelompok usia 65 atau lebih	total|kelompok|usia|65|atau|lebih	total|kelompok|usia|65|atau|lebih	JJ|NNP|NNP|CD|NN|NN	O|O|O|NUMBER|O|O	|||65.0||	65.0				
+8	1	fb:cell_nomor_sampel.8867_0	8867.0	8867.0	8867.0	CD	NUMBER	8867.0	8867.0				
+8	2	fb:cell_jumlah_perkiraan_populasi.1283_9	1283.9	1283.9	1283.9	CD	NUMBER	1283.9	1283.9				
+8	3	fb:cell_perkiraan_populasi.22_9	22.9	22.9	22.9	CD	NUMBER	22.9	22.9				
+9	0	fb:cell_kharakteristik.pendidikan_total	pendidikan total	pendidikan|total	pendidikan|total	NNP|NNP	O|O	|					
+9	1	fb:cell_nomor_sampel.null											
+9	2	fb:cell_jumlah_perkiraan_populasi.null											
+9	3	fb:cell_perkiraan_populasi.null											
+10	0	fb:cell_kharakteristik.total_pendidikan_kelulusan_pasca_sekolah_menengah	total pendidikan kelulusan pasca sekolah menengah	total|pendidikan|kelulusan|pasca|sekolah|menengah	total|pendidikan|kelulusan|pasca|sekolah|menengah	JJ|JJ|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_nomor_sampel.16365_0	16365.0	16365.0	16365.0	CD	NUMBER	16365.0	16365.0				
+10	2	fb:cell_jumlah_perkiraan_populasi.3793_3	3793.3	3793.3	3793.3	CD	NUMBER	3793.3	3793.3				
+10	3	fb:cell_perkiraan_populasi.73_4	73.4	73.4	73.4	CD	NUMBER	73.4	73.4				
+11	0	fb:cell_kharakteristik.total_pendidikan_kurang_dari_kelulusan_pasca_sekolah_menengah	total pendidikan kurang dari kelulusan pasca sekolah menengah	total|pendidikan|kurang|dari|kelulusan|pasca|sekolah|menengah	total|pendidikan|kurang|dari|kelulusan|pasca|sekolah|menengah	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+11	1	fb:cell_nomor_sampel.8355_0	8355.0	8355.0	8355.0	CD	NUMBER	8355.0	8355.0				
+11	2	fb:cell_jumlah_perkiraan_populasi.1375_0	1375.0	1375.0	1375.0	CD	NUMBER	1375.0	1375.0				
+11	3	fb:cell_perkiraan_populasi.26_6	26.6	26.6	26.6	CD	NUMBER	26.6	26.6				
+12	0	fb:cell_kharakteristik.status_perkawinan_keseluruhan	status perkawinan keseluruhan	status|perkawinan|keseluruhan	status|perkawinan|keseluruhan	NN|NN|NN	O|O|O	||					
+12	1	fb:cell_nomor_sampel.null											
+12	2	fb:cell_jumlah_perkiraan_populasi.null											
+12	3	fb:cell_perkiraan_populasi.null											
+13	0	fb:cell_kharakteristik.total_status_perkawinan_menikah_ipar	total status perkawinan menikah / ipar	total|status|perkawinan|menikah|/|ipar	total|status|perkawinan|menikah|/|ipar	JJ|NN|NN|NN|:|NN	O|O|O|O|O|O	|||||				total status perkawinan menikah|ipar	fb:part_kharakteristik.total_status_perkawinan_menikah|fb:part_kharakteristik.ipar
+13	1	fb:cell_nomor_sampel.14138_0	14138.0	14138.0	14138.0	CD	NUMBER	14138.0	14138.0				
+13	2	fb:cell_jumlah_perkiraan_populasi.3512_5	3512.5	3512.5	3512.5	CD	NUMBER	3512.5	3512.5				
+13	3	fb:cell_perkiraan_populasi.62_9	62.9	62.9	62.9	CD	NUMBER	62.9	62.9				
+14	0	fb:cell_kharakteristik.total_status_perkawinan_tidak_ada_pasangan	total status perkawinan tidak ada pasangan	total|status|perkawinan|tidak|ada|pasangan	total|status|perkawinan|tidak|ada|pasangan	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+14	1	fb:cell_nomor_sampel.12233_0	12233.0	12233.0	12233.0	CD	NUMBER	12233.0	12233.0				
+14	2	fb:cell_jumlah_perkiraan_populasi.2073_9	2073.9	2073.9	2073.9	CD	NUMBER	2073.9	2073.9				
+14	3	fb:cell_perkiraan_populasi.37_1	37.1	37.1	37.1	CD	NUMBER	37.1	37.1				
+15	0	fb:cell_kharakteristik.total_kuintil_pendapatan_rumah_tangga	total kuintil pendapatan rumah tangga	total|kuintil|pendapatan|rumah|tangga	total|kuintil|pendapatan|rumah|tangga	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_nomor_sampel.null											
+15	2	fb:cell_jumlah_perkiraan_populasi.null											
+15	3	fb:cell_perkiraan_populasi.null											
+16	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_kuintil_terendah	total pendapatan rumah tangga kuintil terendah	total|pendapatan|rumah|tangga|kuintil|terendah	total|pendapatan|rumah|tangga|kuintil|terendah	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+16	1	fb:cell_nomor_sampel.6432_0	6432.0	6432.0	6432.0	CD	NUMBER	6432.0	6432.0				
+16	2	fb:cell_jumlah_perkiraan_populasi.1378_2	1378.2	1378.2	1378.2	CD	NUMBER	1378.2	1378.2				
+16	3	fb:cell_perkiraan_populasi.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+17	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_kuintil_menengah_ke_bawah	total pendapatan rumah tangga kuintil menengah ke bawah	total|pendapatan|rumah|tangga|kuintil|menengah|ke|bawah	total|pendapatan|rumah|tangga|kuintil|menengah|ke|bawah	JJ|NN|NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+17	1	fb:cell_nomor_sampel.5773_0	5773.0	5773.0	5773.0	CD	NUMBER	5773.0	5773.0				
+17	2	fb:cell_jumlah_perkiraan_populasi.1213_9	1213.9	1213.9	1213.9	CD	NUMBER	1213.9	1213.9				
+17	3	fb:cell_perkiraan_populasi.21_7	21.7	21.7	21.7	CD	NUMBER	21.7	21.7				
+18	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_kuintil_menengah	total pendapatan rumah tangga kuintil menengah	total|pendapatan|rumah|tangga|kuintil|menengah	total|pendapatan|rumah|tangga|kuintil|menengah	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+18	1	fb:cell_nomor_sampel.5342_0	5342.0	5342.0	5342.0	CD	NUMBER	5342.0	5342.0				
+18	2	fb:cell_jumlah_perkiraan_populasi.1097_5	1097.5	1097.5	1097.5	CD	NUMBER	1097.5	1097.5				
+18	3	fb:cell_perkiraan_populasi.19_7	19.7	19.7	19.7	CD	NUMBER	19.7	19.7				
+19	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_kuintil_menengah_atas	total pendapatan rumah tangga kuintil menengah atas	total|pendapatan|rumah|tangga|kuintil|menengah|atas	total|pendapatan|rumah|tangga|kuintil|menengah|atas	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+19	1	fb:cell_nomor_sampel.4223_0	4223.0	4223.0	4223.0	CD	NUMBER	4223.0	4223.0				
+19	2	fb:cell_jumlah_perkiraan_populasi.977_4	977.4	977.4	977.4	CD	NUMBER	977.4	977.4				
+19	3	fb:cell_perkiraan_populasi.17_5	17.5	17.5	17.5	CD	NUMBER	17.5	17.5				
+20	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_kuintil_tertinggi	total pendapatan rumah tangga kuintil tertinggi	total|pendapatan|rumah|tangga|kuintil|tertinggi	total|pendapatan|rumah|tangga|kuintil|tertinggi	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+20	1	fb:cell_nomor_sampel.4144_0	4144.0	4144.0	4144.0	CD	NUMBER	4144.0	4144.0				
+20	2	fb:cell_jumlah_perkiraan_populasi.914_9	914.9	914.9	914.9	CD	NUMBER	914.9	914.9				
+20	3	fb:cell_perkiraan_populasi.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+21	0	fb:cell_kharakteristik.identitas_ras_budaya_total	identitas ras/budaya total	identitas|ras/budaya|total	identitas|ras/budaya|total	NNP|NNP|NNP	O|O|O	||				identitas ras|budaya total	fb:part_kharakteristik.identitas_ras|fb:part_kharakteristik.budaya_total
+21	1	fb:cell_nomor_sampel.null											
+21	2	fb:cell_jumlah_perkiraan_populasi.null											
+21	3	fb:cell_perkiraan_populasi.null											
+22	0	fb:cell_kharakteristik.total_ras_identitas_budaya_berkulit_putih	total ras/identitas budaya berkulit putih	total|ras/identitas|budaya|berkulit|putih	total|ras/identitas|budaya|berkulit|putih	JJ|NN|NNP|NNP|NNP	O|O|O|O|O	||||				total ras|identitas budaya berkulit putih	fb:part_kharakteristik.total_ras|fb:part_kharakteristik.identitas_budaya_berkulit_putih
+22	1	fb:cell_nomor_sampel.22709_0	22709.0	22709.0	22709.0	CD	NUMBER	22709.0	22709.0				
+22	2	fb:cell_jumlah_perkiraan_populasi.4420_6	4420.6	4420.6	4420.6	CD	NUMBER	4420.6	4420.6				
+22	3	fb:cell_perkiraan_populasi.84_6	84.6	84.6	84.6	CD	NUMBER	84.6	84.6				
+23	0	fb:cell_kharakteristik.total_ras_identitas_budaya_berkulit_hitam	total ras/identitas budaya berkulit hitam	total|ras/identitas|budaya|berkulit|hitam	total|ras/identitas|budaya|berkulit|hitam	JJ|NN|NNP|NNP|NNP	O|O|O|O|O	||||				total ras|identitas budaya berkulit hitam	fb:part_kharakteristik.total_ras|fb:part_kharakteristik.identitas_budaya_berkulit_hitam
+23	1	fb:cell_nomor_sampel.227_0	227.0	227.0	227.0	CD	NUMBER	227.0	227.0				
+23	2	fb:cell_jumlah_perkiraan_populasi.112_9	112.9	112.9	112.9	CD	NUMBER	112.9	112.9				
+23	3	fb:cell_perkiraan_populasi.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+24	0	fb:cell_kharakteristik.total_ras_identitas_budaya_lainnya	total ras/identitas budaya lainnya	total|ras/identitas|budaya|lainnya	total|ras/identitas|budaya|lainnya	JJ|NN|NNP|NNP	O|O|O|O	|||				total ras|identitas budaya lainnya	fb:part_kharakteristik.total_ras|fb:part_kharakteristik.identitas_budaya_lainnya
+24	1	fb:cell_nomor_sampel.1359_0	1359.0	1359.0	1359.0	CD	NUMBER	1359.0	1359.0				
+24	2	fb:cell_jumlah_perkiraan_populasi.691_2	691.2	691.2	691.2	CD	NUMBER	691.2	691.2				
+24	3	fb:cell_perkiraan_populasi.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+25	0	fb:cell_kharakteristik.intensitas_nyeri_total	intensitas nyeri total	intensitas|nyeri|total	intensitas|nyeri|total	NNP|NNP|NNP	O|O|O	||					
+25	1	fb:cell_nomor_sampel.null											
+25	2	fb:cell_jumlah_perkiraan_populasi.null											
+25	3	fb:cell_perkiraan_populasi.null											
+26	0	fb:cell_kharakteristik.intensitas_nyeri_total_ringan	intensitas nyeri total ringan	intensitas|nyeri|total|ringan	intensitas|nyeri|total|ringan	NNP|NNP|JJ|NN	O|O|O|O	|||					
+26	1	fb:cell_nomor_sampel.7792_0	7792.0	7792.0	7792.0	CD	NUMBER	7792.0	7792.0				
+26	2	fb:cell_jumlah_perkiraan_populasi.1851_5	1851.5	1851.5	1851.5	CD	NUMBER	1851.5	1851.5				
+26	3	fb:cell_perkiraan_populasi.33_2	33.2	33.2	33.2	CD	NUMBER	33.2	33.2				
+27	0	fb:cell_kharakteristik.intensitas_nyeri_total_sedang	intensitas nyeri total sedang	intensitas|nyeri|total|sedang	intensitas|nyeri|total|sedang	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+27	1	fb:cell_nomor_sampel.14024_0	14024.0	14024.0	14024.0	CD	NUMBER	14024.0	14024.0				
+27	2	fb:cell_jumlah_perkiraan_populasi.2864_1	2864.1	2864.1	2864.1	CD	NUMBER	2864.1	2864.1				
+27	3	fb:cell_perkiraan_populasi.51_4	51.4	51.4	51.4	CD	NUMBER	51.4	51.4				
+28	0	fb:cell_kharakteristik.intensitas_nyeri_total_parah	intensitas nyeri total parah	intensitas|nyeri|total|parah	intensitas|nyeri|total|parah	NNP|NNP|JJ|NN	O|O|O|O	|||					
+28	1	fb:cell_nomor_sampel.4417_0	4417.0	4417.0	4417.0	CD	NUMBER	4417.0	4417.0				
+28	2	fb:cell_jumlah_perkiraan_populasi.855_8	855.8	855.8	855.8	CD	NUMBER	855.8	855.8				
+28	3	fb:cell_perkiraan_populasi.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+29	0	fb:cell_kharakteristik.jumlah_total_aktivitas_yang_dicegah_oleh_rasa_sakit	jumlah total aktivitas yang dicegah oleh rasa sakit	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+29	1	fb:cell_nomor_sampel.null											
+29	2	fb:cell_jumlah_perkiraan_populasi.null											
+29	3	fb:cell_perkiraan_populasi.null											
+30	0	fb:cell_kharakteristik.jumlah_total_aktivitas_yang_dicegah_oleh_rasa_sakit_tidak_ada	jumlah total aktivitas yang dicegah oleh rasa sakit tidak ada	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit|tidak|ada	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit|tidak|ada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+30	1	fb:cell_nomor_sampel.7406_0	7406.0	7406.0	7406.0	CD	NUMBER	7406.0	7406.0				
+30	2	fb:cell_jumlah_perkiraan_populasi.1654_1	1654.1	1654.1	1654.1	CD	NUMBER	1654.1	1654.1				
+30	3	fb:cell_perkiraan_populasi.29_7	29.7	29.7	29.7	CD	NUMBER	29.7	29.7				
+31	0	fb:cell_kharakteristik.jumlah_total_aktivitas_yang_dicegah_oleh_rasa_sakit_sedikit	jumlah total aktivitas yang dicegah oleh rasa sakit sedikit	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit|sedikit	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit|sedikit	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+31	1	fb:cell_nomor_sampel.7354_0	7354.0	7354.0	7354.0	CD	NUMBER	7354.0	7354.0				
+31	2	fb:cell_jumlah_perkiraan_populasi.1661_6	1661.6	1661.6	1661.6	CD	NUMBER	1661.6	1661.6				
+31	3	fb:cell_perkiraan_populasi.29_8	29.8	29.8	29.8	CD	NUMBER	29.8	29.8				
+32	0	fb:cell_kharakteristik.jumlah_total_aktivitas_yang_dicegah_oleh_rasa_sakit_beberapa	jumlah total aktivitas yang dicegah oleh rasa sakit beberapa	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit|beberapa	jumlah|total|aktivitas|yang|dicegah|oleh|rasa|sakit|beberapa	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+32	1	fb:cell_nomor_sampel.6222_0	6222.0	6222.0	6222.0	CD	NUMBER	6222.0	6222.0				
+32	2	fb:cell_jumlah_perkiraan_populasi.1275_6	1275.6	1275.6	1275.6	CD	NUMBER	1275.6	1275.6				
+32	3	fb:cell_perkiraan_populasi.22_9	22.9	22.9	22.9	CD	NUMBER	22.9	22.9				
+33	0	fb:cell_kharakteristik.jumlah_total_aktivitas_yang_paling_banyak_dicegah_oleh_nyeri	jumlah total aktivitas yang paling banyak dicegah oleh nyeri	jumlah|total|aktivitas|yang|paling|banyak|dicegah|oleh|nyeri	jumlah|total|aktivitas|yang|pale|banyak|dicegah|oleh|nyeri	NNP|NNP|NNP|NNP|VBG|NN|NN|NN|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+33	1	fb:cell_nomor_sampel.5290_0	5290.0	5290.0	5290.0	CD	NUMBER	5290.0	5290.0				
+33	2	fb:cell_jumlah_perkiraan_populasi.980_1	980.1	980.1	980.1	CD	NUMBER	980.1	980.1				
+33	3	fb:cell_perkiraan_populasi.17_6	17.6	17.6	17.6	CD	NUMBER	17.6	17.6				
+34	0	fb:cell_kharakteristik.kesehatan_mental_yang_berkembang_secara_total	kesehatan mental yang berkembang secara total	kesehatan|mental|yang|berkembang|secara|total	kesehatan|mental|yang|berkembang|secara|total	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+34	1	fb:cell_nomor_sampel.18074_0	18074.0	18074.0	18074.0	CD	NUMBER	18074.0	18074.0				
+34	2	fb:cell_jumlah_perkiraan_populasi.3832_7	3832.7	3832.7	3832.7	CD	NUMBER	3832.7	3832.7				
+34	3	fb:cell_perkiraan_populasi.68_5	68.5	68.5	68.5	CD	NUMBER	68.5	68.5				
+35	0	fb:cell_kharakteristik.kondisi_fisik_kronis_total	kondisi fisik kronis total	kondisi|fisik|kronis|total	kondisi|fisik|kronis|total	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+35	1	fb:cell_nomor_sampel.null											
+35	2	fb:cell_jumlah_perkiraan_populasi.null											
+35	3	fb:cell_perkiraan_populasi.null											
+36	0	fb:cell_kharakteristik.total_kondisi_fisik_kronis_tidak_ada	total kondisi fisik kronis tidak ada	total|kondisi|fisik|kronis|tidak|ada	total|kondisi|fisik|kronis|tidak|ada	JJ|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O	|||||					
+36	1	fb:cell_nomor_sampel.3404_0	3404.0	3404.0	3404.0	CD	NUMBER	3404.0	3404.0				
+36	2	fb:cell_jumlah_perkiraan_populasi.954_8	954.8	954.8	954.8	CD	NUMBER	954.8	954.8				
+36	3	fb:cell_perkiraan_populasi.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+37	0	fb:cell_kharakteristik.total_kondisi_fisik_kronis_satu	total kondisi fisik kronis satu	total|kondisi|fisik|kronis|satu	total|kondisi|fisik|kronis|satu	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+37	1	fb:cell_nomor_sampel.5890_0	5890.0	5890.0	5890.0	CD	NUMBER	5890.0	5890.0				
+37	2	fb:cell_jumlah_perkiraan_populasi.1487_8	1487.8	1487.8	1487.8	CD	NUMBER	1487.8	1487.8				
+37	3	fb:cell_perkiraan_populasi.26_9	26.9	26.9	26.9	CD	NUMBER	26.9	26.9				
+38	0	fb:cell_kharakteristik.total_kondisi_fisik_kronis_dua	total kondisi fisik kronis dua	total|kondisi|fisik|kronis|dua	total|kondisi|fisik|kronis|dua	JJ|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+38	1	fb:cell_nomor_sampel.6091_0	6091.0	6091.0	6091.0	CD	NUMBER	6091.0	6091.0				
+38	2	fb:cell_jumlah_perkiraan_populasi.1278_1	1278.1	1278.1	1278.1	CD	NUMBER	1278.1	1278.1				
+38	3	fb:cell_perkiraan_populasi.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+39	0	fb:cell_kharakteristik.total_kondisi_fisik_kronis_tiga_atau_lebih	total kondisi fisik kronis tiga atau lebih	total|kondisi|fisik|kronis|tiga|atau|lebih	total|kondisi|fisik|kronis|tiga|atau|lebih	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+39	1	fb:cell_nomor_sampel.10700_0	10700.0	10700.0	10700.0	CD	NUMBER	10700.0	10700.0				
+39	2	fb:cell_jumlah_perkiraan_populasi.1812_2	1812.2	1812.2	1812.2	CD	NUMBER	1812.2	1812.2				
+39	3	fb:cell_perkiraan_populasi.32_8	32.8	32.8	32.8	CD	NUMBER	32.8	32.8				

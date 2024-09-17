@@ -1,0 +1,316 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_populasi	jumlah populasi	jumlah|populasi	jumlah|populasi	NNP|NNP	O|O	|					
+-1	2	fb:row.row.indeks_indeks_keparahan_kejahatan_total	indeks indeks keparahan kejahatan total	indeks|indeks|keparahan|kejahatan|total	indeks|indeks|keparahan|kejahatan|total	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	3	fb:row.row.persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015	persentase perubahan indeks keparahan kejahatan total tahun 2014 hingga 2015	persentase|perubahan|indeks|keparahan|kejahatan|total|tahun|2014|hingga|2015	persentase|perubahan|indek|keparahan|kejahatan|total|tahun|2014|hingga|2015	NN|NN|VBZ|NN|NN|JJ|NN|CD|NNP|CD	O|O|O|O|O|O|O|DATE|O|DATE	|||||||2014||2015					
+-1	4	fb:row.row.persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015	persentase perubahan indeks keparahan kejahatan total dari tahun 2005 hingga 2015	persentase|perubahan|indeks|keparahan|kejahatan|total|dari|tahun|2005|hingga|2015	persentase|perubahan|indek|keparahan|kejahatan|total|dari|tahun|2005|hingga|2015	NN|NN|VBZ|NN|NN|JJ|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|O|DATE|O|DATE	||||||||2005||2015					
+-1	5	fb:row.row.indeks_indeks_keparahan_kejahatan_kekerasan	indeks indeks keparahan kejahatan kekerasan	indeks|indeks|keparahan|kejahatan|kekerasan	indeks|indeks|keparahan|kejahatan|kekerasan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	6	fb:row.row.persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015	persentase perubahan indeks keparahan kejahatan kekerasan tahun 2014 hingga 2015	persentase|perubahan|indeks|keparahan|kejahatan|kekerasan|tahun|2014|hingga|2015	persentase|perubahan|indek|keparahan|kejahatan|kekerasan|tahun|2014|hingga|2015	NN|NN|VBZ|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|DATE|O|DATE	|||||||2014||2015					
+-1	7	fb:row.row.indeks_indeks_keparahan_kejahatan_tanpa_kekerasan	indeks indeks keparahan kejahatan tanpa kekerasan	indeks|indeks|keparahan|kejahatan|tanpa|kekerasan	indeks|indeks|keparahan|kejahatan|tanpa|kekerasan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	8	fb:row.row.persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015	persentase perubahan indeks keparahan kejahatan tanpa kekerasan dari tahun 2014 hingga 2015	persentase|perubahan|indeks|keparahan|kejahatan|tanpa|kekerasan|dari|tahun|2014|hingga|2015	persentase|perubahan|indek|keparahan|kejahatan|tanpa|kekerasan|dari|tahun|2014|hingga|2015	NN|NN|VBZ|NN|NN|NN|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|O|O|O|DATE|O|DATE	|||||||||2014||2015					
+0	0	fb:cell_kharakteristik.st_milik_john	st. milik John	st.|milik|john	st.|milik|John	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_jumlah_populasi.205776	205776	205776	205776	CD	NUMBER	205776.0	205776.0				
+0	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.74_1	74.1	74.1	74.1	CD	NUMBER	74.1	74.1				
+0	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+0	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._24_0	-24.0	-24.0	-24.0	CD	NUMBER	-24.0	24.0				
+0	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.79_6	79.6	79.6	79.6	CD	NUMBER	79.6	79.6				
+0	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.19	19	19	19	CD	NUMBER	19.0	19.0				
+0	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.71_9	71.9	71.9	71.9	CD	NUMBER	71.9	71.9				
+0	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+1	0	fb:cell_kharakteristik.halifax	halifax	halifax	halifax	NNP	O						
+1	1	fb:cell_jumlah_populasi.417868	417868	417868	417868	CD	NUMBER	417868.0	417868.0				
+1	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.62_8	62.8	62.8	62.8	CD	NUMBER	62.8	62.8				
+1	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+1	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._51_0	-51.0	-51.0	-51.0	CD	NUMBER	-51.0	51.0				
+1	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+1	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.7	7	7	7	CD	NUMBER	7.0	7.0				
+1	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.56_8	56.8	56.8	56.8	CD	NUMBER	56.8	56.8				
+1	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._9	-9	-9	-9	CD	NUMBER	-9.0	9.0				
+2	0	fb:cell_kharakteristik.monton	monton	monton	monton	NNP	O						
+2	1	fb:cell_jumlah_populasi.156163	156163	156163	156163	CD	NUMBER	156163.0	156163.0				
+2	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.78_5	78.5	78.5	78.5	CD	NUMBER	78.5	78.5				
+2	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.20	20	20	20	CD	NUMBER	20.0	20.0				
+2	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015.null											
+2	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.75_6	75.6	75.6	75.6	CD	NUMBER	75.6	75.6				
+2	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+2	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.79_5	79.5	79.5	79.5	CD	NUMBER	79.5	79.5				
+2	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.29	29	29	29	CD	NUMBER	29.0	29.0				
+3	0	fb:cell_kharakteristik.santo_john	santo john	santo|john	santo|john	NNP|NNP	PERSON|PERSON	|					
+3	1	fb:cell_jumlah_populasi.127249	127249	127249	127249	CD	NUMBER	127249.0	127249.0				
+3	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.56_3	56.3	56.3	56.3	CD	NUMBER	56.3	56.3				
+3	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+3	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015.null											
+3	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+3	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.7	7	7	7	CD	NUMBER	7.0	7.0				
+3	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+3	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+4	0	fb:cell_kharakteristik.saguenay	saguenay	saguenay	saguenay	NNP	O						
+4	1	fb:cell_jumlah_populasi.167507	167507	167507	167507	CD	NUMBER	167507.0	167507.0				
+4	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.53_8	53.8	53.8	53.8	CD	NUMBER	53.8	53.8				
+4	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+4	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+4	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.61_3	61.3	61.3	61.3	CD	NUMBER	61.3	61.3				
+4	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.3	3	3	3	CD	NUMBER	3.0	3.0				
+4	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.50_9	50.9	50.9	50.9	CD	NUMBER	50.9	50.9				
+4	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+5	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+5	1	fb:cell_jumlah_populasi.799963	799963	799963	799963	CD	NUMBER	799963.0	799963.0				
+5	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.41_8	41.8	41.8	41.8	CD	NUMBER	41.8	41.8				
+5	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+5	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._42_0	-42.0	-42.0	-42.0	CD	NUMBER	-42.0	42.0				
+5	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.43_1	43.1	43.1	43.1	CD	NUMBER	43.1	43.1				
+5	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._8	-8	-8	-8	CD	NUMBER	-8.0	8.0				
+5	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.41_2	41.2	41.2	41.2	CD	NUMBER	41.2	41.2				
+5	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+6	0	fb:cell_kharakteristik.sherbrooke	sherbrooke	sherbrooke	sherbrooke	NNP	O						
+6	1	fb:cell_jumlah_populasi.198881	198881	198881	198881	CD	NUMBER	198881.0	198881.0				
+6	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.49_2	49.2	49.2	49.2	CD	NUMBER	49.2	49.2				
+6	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+6	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._35_0	-35.0	-35.0	-35.0	CD	NUMBER	-35.0	35.0				
+6	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.44_1	44.1	44.1	44.1	CD	NUMBER	44.1	44.1				
+6	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._14	-14	-14	-14	CD	NUMBER	-14.0	14.0				
+6	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.50_9	50.9	50.9	50.9	CD	NUMBER	50.9	50.9				
+6	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+7	0	fb:cell_kharakteristik.trois_rivieres	trois-rivieres	trois|rivieres	trois|rivieres	FW|FW	O|O	|					
+7	1	fb:cell_jumlah_populasi.155534	155534	155534	155534	CD	NUMBER	155534.0	155534.0				
+7	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.56_7	56.7	56.7	56.7	CD	NUMBER	56.7	56.7				
+7	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+7	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._22_0	-22.0	-22.0	-22.0	CD	NUMBER	-22.0	22.0				
+7	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.59_9	59.9	59.9	59.9	CD	NUMBER	59.9	59.9				
+7	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+7	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.55_4	55.4	55.4	55.4	CD	NUMBER	55.4	55.4				
+7	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._6	-6	-6	-6	CD	NUMBER	-6.0	6.0				
+8	0	fb:cell_kharakteristik.montreal	montreal	montreal	montreal	NNP	O						
+8	1	fb:cell_jumlah_populasi.4065823	4065823	4065823	4065823	CD	NUMBER	4065823.0	4065823.0				
+8	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.59_1	59.1	59.1	59.1	CD	NUMBER	59.1	59.1				
+8	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+8	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._43_0	-43.0	-43.0	-43.0	CD	NUMBER	-43.0	43.0				
+8	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+8	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+8	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+8	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+9	0	fb:cell_kharakteristik.gatineau	gatineau	gatineau	gatineau	NNP	LOCATION						
+9	1	fb:cell_jumlah_populasi.328101	328101	328101	328101	CD	NUMBER	328101.0	328101.0				
+9	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.53_6	53.6	53.6	53.6	CD	NUMBER	53.6	53.6				
+9	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+9	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._40_0	-40.0	-40.0	-40.0	CD	NUMBER	-40.0	40.0				
+9	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.55_9	55.9	55.9	55.9	CD	NUMBER	55.9	55.9				
+9	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+9	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+9	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+10	0	fb:cell_kharakteristik.ottawa	ottawa	ottawa	ottawa	NNP	O						
+10	1	fb:cell_jumlah_populasi.996621	996621	996621	996621	CD	NUMBER	996621.0	996621.0				
+10	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.46_5	46.5	46.5	46.5	CD	NUMBER	46.5	46.5				
+10	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+10	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._44_0	-44.0	-44.0	-44.0	CD	NUMBER	-44.0	44.0				
+10	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.53_7	53.7	53.7	53.7	CD	NUMBER	53.7	53.7				
+10	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+10	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+10	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+11	0	fb:cell_kharakteristik.kingston	kingston	kingston	kingston	NNP	LOCATION						
+11	1	fb:cell_jumlah_populasi.166348	166348	166348	166348	CD	NUMBER	166348.0	166348.0				
+11	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.56_5	56.5	56.5	56.5	CD	NUMBER	56.5	56.5				
+11	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+11	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._32_0	-32.0	-32.0	-32.0	CD	NUMBER	-32.0	32.0				
+11	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+11	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.22	22	22	22	CD	NUMBER	22.0	22.0				
+11	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.57_2	57.2	57.2	57.2	CD	NUMBER	57.2	57.2				
+11	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+12	0	fb:cell_kharakteristik.peterborough	peterborough	peterborough	peterborough	NNP	O						
+12	1	fb:cell_jumlah_populasi.122304	122304	122304	122304	CD	NUMBER	122304.0	122304.0				
+12	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+12	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.3	3	3	3	CD	NUMBER	3.0	3.0				
+12	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._31_0	-31.0	-31.0	-31.0	CD	NUMBER	-31.0	31.0				
+12	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.56_9	56.9	56.9	56.9	CD	NUMBER	56.9	56.9				
+12	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.11	11	11	11	CD	NUMBER	11.0	11.0				
+12	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.54_2	54.2	54.2	54.2	CD	NUMBER	54.2	54.2				
+12	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+13	0	fb:cell_kharakteristik.toronto	toronto	toronto	toronto	NNP	O						
+13	1	fb:cell_jumlah_populasi.6059112	6059112	6059112	6059112	CD	NUMBER	6059112.0	6059112.0				
+13	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.45_7	45.7	45.7	45.7	CD	NUMBER	45.7	45.7				
+13	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+13	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._37_0	-37.0	-37.0	-37.0	CD	NUMBER	-37.0	37.0				
+13	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.64_6	64.6	64.6	64.6	CD	NUMBER	64.6	64.6				
+13	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+13	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.38_7	38.7	38.7	38.7	CD	NUMBER	38.7	38.7				
+13	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+14	0	fb:cell_kharakteristik.hamilton	hamilton	hamilton	hamilton	NNP	PERSON						
+14	1	fb:cell_jumlah_populasi.752088	752088	752088	752088	CD	NUMBER	752088.0	752088.0				
+14	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.50_5	50.5	50.5	50.5	CD	NUMBER	50.5	50.5				
+14	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+14	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._40_0	-40.0	-40.0	-40.0	CD	NUMBER	-40.0	40.0				
+14	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.54_6	54.6	54.6	54.6	CD	NUMBER	54.6	54.6				
+14	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+14	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.49_0	49.0	49.0	49.0	CD	NUMBER	49.0	49.0				
+14	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+15	0	fb:cell_kharakteristik.st_catharines_niagara	st. catharines-niagara	st.|catharines|niagara	st.|catharines|niagara	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||					
+15	1	fb:cell_jumlah_populasi.449098	449098	449098	449098	CD	NUMBER	449098.0	449098.0				
+15	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.52_2	52.2	52.2	52.2	CD	NUMBER	52.2	52.2				
+15	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+15	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._37_0	-37.0	-37.0	-37.0	CD	NUMBER	-37.0	37.0				
+15	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.42_2	42.2	42.2	42.2	CD	NUMBER	42.2	42.2				
+15	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+15	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.55_8	55.8	55.8	55.8	CD	NUMBER	55.8	55.8				
+15	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+16	0	fb:cell_kharakteristik.tukang_dapur_cambridge_waterloo	tukang dapur-cambridge-waterloo	tukang|dapur|cambridge|waterloo	tukang|dapur|cambridge|waterloo	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_jumlah_populasi.542511	542511	542511	542511	CD	NUMBER	542511.0	542511.0				
+16	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.59_8	59.8	59.8	59.8	CD	NUMBER	59.8	59.8				
+16	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.7	7	7	7	CD	NUMBER	7.0	7.0				
+16	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._24_0	-24.0	-24.0	-24.0	CD	NUMBER	-24.0	24.0				
+16	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+16	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.6	6	6	6	CD	NUMBER	6.0	6.0				
+16	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+16	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+17	0	fb:cell_kharakteristik.brantford	Brantford	brantford	Brantford	NNP	O						
+17	1	fb:cell_jumlah_populasi.144640	144640	144640	144640	CD	NUMBER	144640.0	144640.0				
+17	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+17	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.3	3	3	3	CD	NUMBER	3.0	3.0				
+17	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._33_0	-33.0	-33.0	-33.0	CD	NUMBER	-33.0	33.0				
+17	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+17	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+17	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.79_5	79.5	79.5	79.5	CD	NUMBER	79.5	79.5				
+17	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.3	3	3	3	CD	NUMBER	3.0	3.0				
+18	0	fb:cell_kharakteristik.guelph	guelph	guelph	guelph	NNP	O						
+18	1	fb:cell_jumlah_populasi.130440	130440	130440	130440	CD	NUMBER	130440.0	130440.0				
+18	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.48_4	48.4	48.4	48.4	CD	NUMBER	48.4	48.4				
+18	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+18	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+18	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.47_3	47.3	47.3	47.3	CD	NUMBER	47.3	47.3				
+18	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+18	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.48_7	48.7	48.7	48.7	CD	NUMBER	48.7	48.7				
+18	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+19	0	fb:cell_kharakteristik.london	London	london	London	NNP	O						
+19	1	fb:cell_jumlah_populasi.508639	508639	508639	508639	CD	NUMBER	508639.0	508639.0				
+19	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.65_4	65.4	65.4	65.4	CD	NUMBER	65.4	65.4				
+19	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+19	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._30_0	-30.0	-30.0	-30.0	CD	NUMBER	-30.0	30.0				
+19	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.56_7	56.7	56.7	56.7	CD	NUMBER	56.7	56.7				
+19	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.21	21	21	21	CD	NUMBER	21.0	21.0				
+19	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.68_4	68.4	68.4	68.4	CD	NUMBER	68.4	68.4				
+19	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._5	-5	-5	-5	CD	NUMBER	-5.0	5.0				
+20	0	fb:cell_kharakteristik.windsor	Windsor	windsor	Windsor	NNP	O						
+20	1	fb:cell_jumlah_populasi.331318	331318	331318	331318	CD	NUMBER	331318.0	331318.0				
+20	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+20	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+20	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._29_0	-29.0	-29.0	-29.0	CD	NUMBER	-29.0	29.0				
+20	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.67_7	67.7	67.7	67.7	CD	NUMBER	67.7	67.7				
+20	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.18	18	18	18	CD	NUMBER	18.0	18.0				
+20	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.59_7	59.7	59.7	59.7	CD	NUMBER	59.7	59.7				
+20	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.4	4	4	4	CD	NUMBER	4.0	4.0				
+21	0	fb:cell_kharakteristik.barrie	barrie	barrie	barrie	NNP	O						
+21	1	fb:cell_jumlah_populasi.213323	213323	213323	213323	CD	NUMBER	213323.0	213323.0				
+21	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.43_3	43.3	43.3	43.3	CD	NUMBER	43.3	43.3				
+21	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+21	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._44_0	-44.0	-44.0	-44.0	CD	NUMBER	-44.0	44.0				
+21	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+21	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.3	3	3	3	CD	NUMBER	3.0	3.0				
+21	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+21	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._2	-2	-2	-2	CD	NUMBER	-2.0	2.0				
+22	0	fb:cell_kharakteristik.sudbury_yang_lebih_besar	sudbury yang lebih besar	sudbury|yang|lebih|besar	sudbury|yang|lebih|besar	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+22	1	fb:cell_jumlah_populasi.164266	164266	164266	164266	CD	NUMBER	164266.0	164266.0				
+22	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.59_4	59.4	59.4	59.4	CD	NUMBER	59.4	59.4				
+22	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+22	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+22	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.63_9	63.9	63.9	63.9	CD	NUMBER	63.9	63.9				
+22	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.0	0	0	0	CD	NUMBER	0.0	0.0				
+22	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+22	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+23	0	fb:cell_kharakteristik.teluk_guntur	teluk guntur	teluk|guntur	teluk|guntur	NNP|NNP	O|O	|					
+23	1	fb:cell_jumlah_populasi.121117	121117	121117	121117	CD	NUMBER	121117.0	121117.0				
+23	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.80_1	80.1	80.1	80.1	CD	NUMBER	80.1	80.1				
+23	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015._11	-11	-11	-11	CD	NUMBER	-11.0	11.0				
+23	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._27_0	-27.0	-27.0	-27.0	CD	NUMBER	-27.0	27.0				
+23	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.119_2	119.2	119.2	119.2	CD	NUMBER	119.2	119.2				
+23	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._14	-14	-14	-14	CD	NUMBER	-14.0	14.0				
+23	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+23	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._9	-9	-9	-9	CD	NUMBER	-9.0	9.0				
+24	0	fb:cell_kharakteristik.winnipeg	winnipeg	winnipeg	winnipeg	NNP	O						
+24	1	fb:cell_jumlah_populasi.808028	808028	808028	808028	CD	NUMBER	808028.0	808028.0				
+24	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.87_2	87.2	87.2	87.2	CD	NUMBER	87.2	87.2				
+24	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+24	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._47_0	-47.0	-47.0	-47.0	CD	NUMBER	-47.0	47.0				
+24	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.122_1	122.1	122.1	122.1	CD	NUMBER	122.1	122.1				
+24	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+24	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.74_4	74.4	74.4	74.4	CD	NUMBER	74.4	74.4				
+24	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.9	9	9	9	CD	NUMBER	9.0	9.0				
+25	0	fb:cell_kharakteristik.regina	regina	regina	regina	NNP	PERSON						
+25	1	fb:cell_jumlah_populasi.242714	242714	242714	242714	CD	NUMBER	242714.0	242714.0				
+25	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.107_6	107.6	107.6	107.6	CD	NUMBER	107.6	107.6				
+25	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+25	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._48_0	-48.0	-48.0	-48.0	CD	NUMBER	-48.0	48.0				
+25	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.107_9	107.9	107.9	107.9	CD	NUMBER	107.9	107.9				
+25	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+25	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.107_3	107.3	107.3	107.3	CD	NUMBER	107.3	107.3				
+25	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+26	0	fb:cell_kharakteristik.saskatoon	saskatoon	saskatoon	saskatoon	NNP	O						
+26	1	fb:cell_jumlah_populasi.310892	310892	310892	310892	CD	NUMBER	310892.0	310892.0				
+26	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.112_5	112.5	112.5	112.5	CD	NUMBER	112.5	112.5				
+26	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.2	2	2	2	CD	NUMBER	2.0	2.0				
+26	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._39_0	-39.0	-39.0	-39.0	CD	NUMBER	-39.0	39.0				
+26	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.113_5	113.5	113.5	113.5	CD	NUMBER	113.5	113.5				
+26	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015._7	-7	-7	-7	CD	NUMBER	-7.0	7.0				
+26	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.112_0	112.0	112.0	112.0	CD	NUMBER	112.0	112.0				
+26	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.6	6	6	6	CD	NUMBER	6.0	6.0				
+27	0	fb:cell_kharakteristik.calgary	calgary	calgary	calgary	NNP	O						
+27	1	fb:cell_jumlah_populasi.1445521	1445521	1445521	1445521	CD	NUMBER	1445521.0	1445521.0				
+27	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.78_3	78.3	78.3	78.3	CD	NUMBER	78.3	78.3				
+27	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.29	29	29	29	CD	NUMBER	29.0	29.0				
+27	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._19_0	-19.0	-19.0	-19.0	CD	NUMBER	-19.0	19.0				
+27	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.72_1	72.1	72.1	72.1	CD	NUMBER	72.1	72.1				
+27	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.13	13	13	13	CD	NUMBER	13.0	13.0				
+27	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.80_4	80.4	80.4	80.4	CD	NUMBER	80.4	80.4				
+27	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.36	36	36	36	CD	NUMBER	36.0	36.0				
+28	0	fb:cell_kharakteristik.edmonton	edmonton	edmonton	edmonton	NNP	LOCATION						
+28	1	fb:cell_jumlah_populasi.1360356	1360356	1360356	1360356	CD	NUMBER	1360356.0	1360356.0				
+28	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.101_6	101.6	101.6	101.6	CD	NUMBER	101.6	101.6				
+28	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.16	16	16	16	CD	NUMBER	16.0	16.0				
+28	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._28_0	-28.0	-28.0	-28.0	CD	NUMBER	-28.0	28.0				
+28	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.103_9	103.9	103.9	103.9	CD	NUMBER	103.9	103.9				
+28	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.11	11	11	11	CD	NUMBER	11.0	11.0				
+28	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.100_5	100.5	100.5	100.5	CD	NUMBER	100.5	100.5				
+28	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.18	18	18	18	CD	NUMBER	18.0	18.0				
+29	0	fb:cell_kharakteristik.kelowna	kelowna	kelowna	kelowna	NNP	LOCATION						
+29	1	fb:cell_jumlah_populasi.196026	196026	196026	196026	CD	NUMBER	196026.0	196026.0				
+29	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.98_0	98.0	98.0	98.0	CD	NUMBER	98.0	98.0				
+29	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.9	9	9	9	CD	NUMBER	9.0	9.0				
+29	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._31_0	-31.0	-31.0	-31.0	CD	NUMBER	-31.0	31.0				
+29	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.69_8	69.8	69.8	69.8	CD	NUMBER	69.8	69.8				
+29	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.16	16	16	16	CD	NUMBER	16.0	16.0				
+29	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.108_1	108.1	108.1	108.1	CD	NUMBER	108.1	108.1				
+29	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+30	0	fb:cell_kharakteristik.misi_abbotsford	misi Abbotsford	misi|abbotsford	misi|Abbotsford	NNP|NNP	O|O	|					
+30	1	fb:cell_jumlah_populasi.184352	184352	184352	184352	CD	NUMBER	184352.0	184352.0				
+30	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.96_6	96.6	96.6	96.6	CD	NUMBER	96.6	96.6				
+30	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.14	14	14	14	CD	NUMBER	14.0	14.0				
+30	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._37_0	-37.0	-37.0	-37.0	CD	NUMBER	-37.0	37.0				
+30	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.90_4	90.4	90.4	90.4	CD	NUMBER	90.4	90.4				
+30	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.14	14	14	14	CD	NUMBER	14.0	14.0				
+30	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.98_6	98.6	98.6	98.6	CD	NUMBER	98.6	98.6				
+30	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.15	15	15	15	CD	NUMBER	15.0	15.0				
+31	0	fb:cell_kharakteristik.vancouver	vancouver	vancouver	vancouver	NNP	O						
+31	1	fb:cell_jumlah_populasi.2505033	2505033	2505033	2505033	CD	NUMBER	2505033.0	2505033.0				
+31	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.96_2	96.2	96.2	96.2	CD	NUMBER	96.2	96.2				
+31	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.1	1	1	1	CD	NUMBER	1.0	1.0				
+31	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._35_0	-35.0	-35.0	-35.0	CD	NUMBER	-35.0	35.0				
+31	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+31	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.8	8	8	8	CD	NUMBER	8.0	8.0				
+31	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.100_1	100.1	100.1	100.1	CD	NUMBER	100.1	100.1				
+31	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+32	0	fb:cell_kharakteristik.victoria	Victoria	victoria	Victoria	NNP	O						
+32	1	fb:cell_jumlah_populasi.365226	365226	365226	365226	CD	NUMBER	365226.0	365226.0				
+32	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.72_6	72.6	72.6	72.6	CD	NUMBER	72.6	72.6				
+32	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.16	16	16	16	CD	NUMBER	16.0	16.0				
+32	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._33_0	-33.0	-33.0	-33.0	CD	NUMBER	-33.0	33.0				
+32	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+32	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.18	18	18	18	CD	NUMBER	18.0	18.0				
+32	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.73_7	73.7	73.7	73.7	CD	NUMBER	73.7	73.7				
+32	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.16	16	16	16	CD	NUMBER	16.0	16.0				
+33	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+33	1	fb:cell_jumlah_populasi.35851774	35851774	35851774	35851774	CD	NUMBER	3.5851774E7	3.5851774E7				
+33	2	fb:cell_indeks_indeks_keparahan_kejahatan_total.69_7	69.7	69.7	69.7	CD	NUMBER	69.7	69.7				
+33	3	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_tahun_2014_hingga_2015.5	5	5	5	CD	NUMBER	5.0	5.0				
+33	4	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_total_dari_tahun_2005_hingga_2015._31_0	-31.0	-31.0	-31.0	CD	NUMBER	-31.0	31.0				
+33	5	fb:cell_indeks_indeks_keparahan_kejahatan_kekerasan.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+33	6	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_kekerasan_tahun_2014_hingga_2015.6	6	6	6	CD	NUMBER	6.0	6.0				
+33	7	fb:cell_indeks_indeks_keparahan_kejahatan_tanpa_kekerasan.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+33	8	fb:cell_persentase_perubahan_indeks_keparahan_kejahatan_tanpa_kekerasan_dari_tahun_2014_hingga_2015.4	4	4	4	CD	NUMBER	4.0	4.0				

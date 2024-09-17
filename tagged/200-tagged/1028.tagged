@@ -1,0 +1,166 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_tahanan	nomor tahanan	nomor|tahanan	nomor|tahanan	NNP|NNP	O|O	|					
+-1	2	fb:row.row.tingkat_hak_asuh	tingkat hak asuh	tingkat|hak|asuh	tingkat|hak|asuh	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014	persen perubahan tingkat penahanan dari 2012/2013 ke 2013/2014	persen|perubahan|tingkat|penahanan|dari|2012/2013|ke|2013/2014	persen|perubahan|tingkat|penahanan|dari|2012/2013|ke|2013/2014	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	4	fb:row.row.nomor_pengawasan_masyarakat	nomor pengawasan masyarakat	nomor|pengawasan|masyarakat	nomor|pengawasan|masyarakat	NN|NN|NN	O|O|O	||					
+-1	5	fb:row.row.tingkat_pengawasan_masyarakat	tingkat pengawasan masyarakat	tingkat|pengawasan|masyarakat	tingkat|pengawasan|masyarakat	NN|NN|NN	O|O|O	||					
+-1	6	fb:row.row.persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014	persen perubahan tingkat pengawasan masyarakat dari tahun 2012/2013 ke tahun 2013/2014	persen|perubahan|tingkat|pengawasan|masyarakat|dari|tahun|2012/2013|ke|tahun|2013/2014	persen|perubahan|tingkat|pengawasan|masyarakat|dari|tahun|2012/2013|ke|tahun|2013/2014	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|O|NUMBER	||||||||||					
+-1	7	fb:row.row.jumlah_total_layanan_pemasyarakatan	jumlah total layanan pemasyarakatan	jumlah|total|layanan|pemasyarakatan	jumlah|total|layanan|pemasyarakatan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	8	fb:row.row.total_tarif_layanan_pemasyarakatan	total tarif layanan pemasyarakatan	total|tarif|layanan|pemasyarakatan	total|tarif|layanan|pemasyarakatan	JJ|NNP|NNP|NNP	O|O|O|O	|||					
+-1	9	fb:row.row.persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014	persen perubahan tarif total dari tahun 2012/2013 ke tahun 2013/2014	persen|perubahan|tarif|total|dari|tahun|2012/2013|ke|tahun|2013/2014	persen|perubahan|tarif|total|dari|tahun|2012/2013|ke|tahun|2013/2014	NNP|NNP|NNP|JJ|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|O|O|NUMBER	|||||||||					
+-1	10	fb:row.row.persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014	persen perubahan tarif total dari 2009/2010 ke 2013/2014	persen|perubahan|tarif|total|dari|2009/2010|ke|2013/2014	persen|perubahan|tarif|total|dari|2009/2010|ke|2013/2014	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.newfoundland_dan_labrador	newfoundland dan labrador	newfoundland|dan|labrador	newfoundland|dan|labrador	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	1	fb:cell_nomor_tahanan.286	286	286	286	CD	NUMBER	286.0	286.0				
+0	2	fb:cell_tingkat_hak_asuh.66	66	66	66	CD	NUMBER	66.0	66.0				
+0	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.3	3	3	3	CD	NUMBER	3.0	3.0				
+0	4	fb:cell_nomor_pengawasan_masyarakat.1736_0	1736.0	1736.0	1736.0	CD	NUMBER	1736.0	1736.0				
+0	5	fb:cell_tingkat_pengawasan_masyarakat.400_0	400.0	400.0	400.0	CD	NUMBER	400.0	400.0				
+0	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._6_0	-6.0	-6.0	-6.0	CD	NUMBER	-6.0	6.0				
+0	7	fb:cell_jumlah_total_layanan_pemasyarakatan.2022_0	2022.0	2022.0	2022.0	CD	NUMBER	2022.0	2022.0				
+0	8	fb:cell_total_tarif_layanan_pemasyarakatan.467_0	467.0	467.0	467.0	CD	NUMBER	467.0	467.0				
+0	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+0	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.null											
+1	0	fb:cell_kharakteristik.pulau_pangeran_edward	pulau pangeran Edward	pulau|pangeran|edward	pulau|pangeran|Edward	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_nomor_tahanan.118	118	118	118	CD	NUMBER	118.0	118.0				
+1	2	fb:cell_tingkat_hak_asuh.101	101	101	101	CD	NUMBER	101.0	101.0				
+1	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.5	5	5	5	CD	NUMBER	5.0	5.0				
+1	4	fb:cell_nomor_pengawasan_masyarakat.884_0	884.0	884.0	884.0	CD	NUMBER	884.0	884.0				
+1	5	fb:cell_tingkat_pengawasan_masyarakat.757_0	757.0	757.0	757.0	CD	NUMBER	757.0	757.0				
+1	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+1	7	fb:cell_jumlah_total_layanan_pemasyarakatan.1002_0	1002.0	1002.0	1002.0	CD	NUMBER	1002.0	1002.0				
+1	8	fb:cell_total_tarif_layanan_pemasyarakatan.858_0	858.0	858.0	858.0	CD	NUMBER	858.0	858.0				
+1	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+1	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+2	0	fb:cell_kharakteristik.nova_scotia	Nova Scotia	nova|scotia	Nova|Scotia	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor_tahanan.524	524	524	524	CD	NUMBER	524.0	524.0				
+2	2	fb:cell_tingkat_hak_asuh.68	68	68	68	CD	NUMBER	68.0	68.0				
+2	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.7	7	7	7	CD	NUMBER	7.0	7.0				
+2	4	fb:cell_nomor_pengawasan_masyarakat.null											
+2	5	fb:cell_tingkat_pengawasan_masyarakat.null											
+2	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014.null											
+2	7	fb:cell_jumlah_total_layanan_pemasyarakatan.null											
+2	8	fb:cell_total_tarif_layanan_pemasyarakatan.null											
+2	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014.null											
+2	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.null											
+3	0	fb:cell_kharakteristik.brunswick_baru	brunswick baru	brunswick|baru	brunswick|baru	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor_tahanan.419	419	419	419	CD	NUMBER	419.0	419.0				
+3	2	fb:cell_tingkat_hak_asuh.68	68	68	68	CD	NUMBER	68.0	68.0				
+3	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014._1	-1	-1	-1	CD	NUMBER	-1.0	1.0				
+3	4	fb:cell_nomor_pengawasan_masyarakat.null											
+3	5	fb:cell_tingkat_pengawasan_masyarakat.null											
+3	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014.null											
+3	7	fb:cell_jumlah_total_layanan_pemasyarakatan.null											
+3	8	fb:cell_total_tarif_layanan_pemasyarakatan.null											
+3	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014.null											
+3	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.null											
+4	0	fb:cell_kharakteristik.quebec	Quebec	quebec	Quebec	NNP	O						
+4	1	fb:cell_nomor_tahanan.5180	5180	5180	5180	CD	NUMBER	5180.0	5180.0	5180-xx-xx			
+4	2	fb:cell_tingkat_hak_asuh.78	78	78	78	CD	NUMBER	78.0	78.0				
+4	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.2	2	2	2	CD	NUMBER	2.0	2.0				
+4	4	fb:cell_nomor_pengawasan_masyarakat.14107_0	14107.0	14107.0	14107.0	CD	NUMBER	14107.0	14107.0				
+4	5	fb:cell_tingkat_pengawasan_masyarakat.213_0	213.0	213.0	213.0	CD	NUMBER	213.0	213.0				
+4	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+4	7	fb:cell_jumlah_total_layanan_pemasyarakatan.19287_0	19287.0	19287.0	19287.0	CD	NUMBER	19287.0	19287.0				
+4	8	fb:cell_total_tarif_layanan_pemasyarakatan.291_0	291.0	291.0	291.0	CD	NUMBER	291.0	291.0				
+4	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._1_0	-1.0	-1.0	-1.0	CD	NUMBER	-1.0	1.0				
+4	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+5	0	fb:cell_kharakteristik.ontario	ontario	ontario	ontario	NNP	O						
+5	1	fb:cell_nomor_tahanan.8253	8253	8253	8253	CD	NUMBER	8253.0	8253.0	8253-xx-xx			
+5	2	fb:cell_tingkat_hak_asuh.76	76	76	76	CD	NUMBER	76.0	76.0				
+5	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014._8	-8	-8	-8	CD	NUMBER	-8.0	8.0				
+5	4	fb:cell_nomor_pengawasan_masyarakat.51073_0	51073.0	51073.0	51073.0	CD	NUMBER	51073.0	51073.0				
+5	5	fb:cell_tingkat_pengawasan_masyarakat.471_0	471.0	471.0	471.0	CD	NUMBER	471.0	471.0				
+5	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+5	7	fb:cell_jumlah_total_layanan_pemasyarakatan.59326_0	59326.0	59326.0	59326.0	CD	NUMBER	59326.0	59326.0				
+5	8	fb:cell_total_tarif_layanan_pemasyarakatan.547_0	547.0	547.0	547.0	CD	NUMBER	547.0	547.0				
+5	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+5	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._17_0	-17.0	-17.0	-17.0	CD	NUMBER	-17.0	17.0				
+6	0	fb:cell_kharakteristik.manitoba	manitoba	manitoba	manitoba	NNP	LOCATION						
+6	1	fb:cell_nomor_tahanan.2370	2370	2370	2370	CD	DATE	2370	2370.0	2370-xx-xx			
+6	2	fb:cell_tingkat_hak_asuh.242	242	242	242	CD	NUMBER	242.0	242.0				
+6	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+6	4	fb:cell_nomor_pengawasan_masyarakat.7816_0	7816.0	7816.0	7816.0	CD	NUMBER	7816.0	7816.0				
+6	5	fb:cell_tingkat_pengawasan_masyarakat.800_0	800.0	800.0	800.0	CD	NUMBER	800.0	800.0				
+6	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	7	fb:cell_jumlah_total_layanan_pemasyarakatan.10187_0	10187.0	10187.0	10187.0	CD	NUMBER	10187.0	10187.0				
+6	8	fb:cell_total_tarif_layanan_pemasyarakatan.1042_0	1042.0	1042.0	1042.0	CD	NUMBER	1042.0	1042.0				
+6	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+7	0	fb:cell_kharakteristik.saskatchewan	saskatchewan	saskatchewan	saskatchewan	NNP	O						
+7	1	fb:cell_nomor_tahanan.1672	1672	1672	1672	CD	DATE	1672	1672.0	1672-xx-xx			
+7	2	fb:cell_tingkat_hak_asuh.195	195	195	195	CD	NUMBER	195.0	195.0				
+7	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.1	1	1	1	CD	NUMBER	1.0	1.0				
+7	4	fb:cell_nomor_pengawasan_masyarakat.5327_0	5327.0	5327.0	5327.0	CD	NUMBER	5327.0	5327.0				
+7	5	fb:cell_tingkat_pengawasan_masyarakat.621_0	621.0	621.0	621.0	CD	NUMBER	621.0	621.0				
+7	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+7	7	fb:cell_jumlah_total_layanan_pemasyarakatan.6999_0	6999.0	6999.0	6999.0	CD	NUMBER	6999.0	6999.0				
+7	8	fb:cell_total_tarif_layanan_pemasyarakatan.816_0	816.0	816.0	816.0	CD	NUMBER	816.0	816.0				
+7	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._2_0	-2.0	-2.0	-2.0	CD	NUMBER	-2.0	2.0				
+7	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+8	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+8	1	fb:cell_nomor_tahanan.2428	2428	2428	2428	CD	DATE	2428	2428.0	2428-xx-xx			
+8	2	fb:cell_tingkat_hak_asuh.65	65	65	65	CD	NUMBER	65.0	65.0				
+8	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014._4	-4	-4	-4	CD	NUMBER	-4.0	4.0				
+8	4	fb:cell_nomor_pengawasan_masyarakat.13036_0	13036.0	13036.0	13036.0	CD	NUMBER	13036.0	13036.0				
+8	5	fb:cell_tingkat_pengawasan_masyarakat.348_0	348.0	348.0	348.0	CD	NUMBER	348.0	348.0				
+8	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+8	7	fb:cell_jumlah_total_layanan_pemasyarakatan.15464_0	15464.0	15464.0	15464.0	CD	NUMBER	15464.0	15464.0				
+8	8	fb:cell_total_tarif_layanan_pemasyarakatan.413_0	413.0	413.0	413.0	CD	NUMBER	413.0	413.0				
+8	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+8	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._15_0	-15.0	-15.0	-15.0	CD	NUMBER	-15.0	15.0				
+9	0	fb:cell_kharakteristik.yukon	yukon	yukon	yukon	NNP	O						
+9	1	fb:cell_nomor_tahanan.81	81	81	81	CD	NUMBER	81.0	81.0				
+9	2	fb:cell_tingkat_hak_asuh.278	278	278	278	CD	NUMBER	278.0	278.0				
+9	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014._21	-21	-21	-21	CD	NUMBER	-21.0	21.0				
+9	4	fb:cell_nomor_pengawasan_masyarakat.355_0	355.0	355.0	355.0	CD	NUMBER	355.0	355.0				
+9	5	fb:cell_tingkat_pengawasan_masyarakat.1213_0	1213.0	1213.0	1213.0	CD	NUMBER	1213.0	1213.0				
+9	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+9	7	fb:cell_jumlah_total_layanan_pemasyarakatan.436_0	436.0	436.0	436.0	CD	NUMBER	436.0	436.0				
+9	8	fb:cell_total_tarif_layanan_pemasyarakatan.1491_0	1491.0	1491.0	1491.0	CD	NUMBER	1491.0	1491.0				
+9	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+9	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+10	0	fb:cell_kharakteristik.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_nomor_tahanan.245	245	245	245	CD	NUMBER	245.0	245.0				
+10	2	fb:cell_tingkat_hak_asuh.755	755	755	755	CD	NUMBER	755.0	755.0				
+10	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.5	5	5	5	CD	NUMBER	5.0	5.0				
+10	4	fb:cell_nomor_pengawasan_masyarakat.411_0	411.0	411.0	411.0	CD	NUMBER	411.0	411.0				
+10	5	fb:cell_tingkat_pengawasan_masyarakat.1265_0	1265.0	1265.0	1265.0	CD	NUMBER	1265.0	1265.0				
+10	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._16_0	-16.0	-16.0	-16.0	CD	NUMBER	-16.0	16.0				
+10	7	fb:cell_jumlah_total_layanan_pemasyarakatan.656_0	656.0	656.0	656.0	CD	NUMBER	656.0	656.0				
+10	8	fb:cell_total_tarif_layanan_pemasyarakatan.2019_0	2019.0	2019.0	2019.0	CD	NUMBER	2019.0	2019.0				
+10	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._10_0	-10.0	-10.0	-10.0	CD	NUMBER	-10.0	10.0				
+10	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._11_0	-11.0	-11.0	-11.0	CD	NUMBER	-11.0	11.0				
+11	0	fb:cell_kharakteristik.nunavut	nunavut	nunavut	nunavut	NNP	O						
+11	1	fb:cell_nomor_tahanan.128	128	128	128	CD	NUMBER	128.0	128.0				
+11	2	fb:cell_tingkat_hak_asuh.563	563	563	563	CD	NUMBER	563.0	563.0				
+11	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.6	6	6	6	CD	NUMBER	6.0	6.0				
+11	4	fb:cell_nomor_pengawasan_masyarakat.934_0	934.0	934.0	934.0	CD	NUMBER	934.0	934.0				
+11	5	fb:cell_tingkat_pengawasan_masyarakat.4115_0	4115.0	4115.0	4115.0	CD	NUMBER	4115.0	4115.0				
+11	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._7_0	-7.0	-7.0	-7.0	CD	NUMBER	-7.0	7.0				
+11	7	fb:cell_jumlah_total_layanan_pemasyarakatan.1062_0	1062.0	1062.0	1062.0	CD	NUMBER	1062.0	1062.0				
+11	8	fb:cell_total_tarif_layanan_pemasyarakatan.4677_0	4677.0	4677.0	4677.0	CD	NUMBER	4677.0	4677.0				
+11	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+11	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._18_0	-18.0	-18.0	-18.0	CD	NUMBER	-18.0	18.0				
+12	0	fb:cell_kharakteristik.provinsi_dan_wilayah_total	provinsi dan wilayah - total	provinsi|dan|wilayah|-|total	provinsi|dan|wilayah|-|total	NNP|NNP|NNP|:|JJ	O|O|O|O|O	||||					
+12	1	fb:cell_nomor_tahanan.21704	21704	21704	21704	CD	NUMBER	21704.0	21704.0				
+12	2	fb:cell_tingkat_hak_asuh.87	87	87	87	CD	NUMBER	87.0	87.0				
+12	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014._3	-3	-3	-3	CD	NUMBER	-3.0	3.0				
+12	4	fb:cell_nomor_pengawasan_masyarakat.95680_0	95680.0	95680.0	95680.0	CD	NUMBER	95680.0	95680.0				
+12	5	fb:cell_tingkat_pengawasan_masyarakat.404_0	404.0	404.0	404.0	CD	NUMBER	404.0	404.0				
+12	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._5_0	-5.0	-5.0	-5.0	CD	NUMBER	-5.0	5.0				
+12	7	fb:cell_jumlah_total_layanan_pemasyarakatan.116442_0	116442.0	116442.0	116442.0	CD	NUMBER	116442.0	116442.0				
+12	8	fb:cell_total_tarif_layanan_pemasyarakatan.492_0	492.0	492.0	492.0	CD	NUMBER	492.0	492.0				
+12	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+12	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014._12_0	-12.0	-12.0	-12.0	CD	NUMBER	-12.0	12.0				
+13	0	fb:cell_kharakteristik.federal	federal	federal	federal	NNP	O						
+13	1	fb:cell_nomor_tahanan.15141	15141	15141	15141	CD	NUMBER	15141.0	15141.0				
+13	2	fb:cell_tingkat_hak_asuh.54	54	54	54	CD	NUMBER	54.0	54.0				
+13	3	fb:cell_persen_perubahan_tingkat_penahanan_dari_2012_2013_ke_2013_2014.3	3	3	3	CD	NUMBER	3.0	3.0				
+13	4	fb:cell_nomor_pengawasan_masyarakat.7754_0	7754.0	7754.0	7754.0	CD	NUMBER	7754.0	7754.0				
+13	5	fb:cell_tingkat_pengawasan_masyarakat.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+13	6	fb:cell_persen_perubahan_tingkat_pengawasan_masyarakat_dari_tahun_2012_2013_ke_tahun_2013_2014._13_0	-13.0	-13.0	-13.0	CD	NUMBER	-13.0	13.0				
+13	7	fb:cell_jumlah_total_layanan_pemasyarakatan.22895_0	22895.0	22895.0	22895.0	CD	NUMBER	22895.0	22895.0				
+13	8	fb:cell_total_tarif_layanan_pemasyarakatan.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+13	9	fb:cell_persen_perubahan_tarif_total_dari_tahun_2012_2013_ke_tahun_2013_2014._3_0	-3.0	-3.0	-3.0	CD	NUMBER	-3.0	3.0				
+13	10	fb:cell_persen_perubahan_tarif_total_dari_2009_2010_ke_2013_2014.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				

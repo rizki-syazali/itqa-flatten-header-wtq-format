@@ -1,0 +1,19 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.cewek_cewek	cewek-cewek	cewek|cewek	cewek|cewek	NN|NN	O|O	|					
+-1	2	fb:row.row.anak_laki_laki	anak laki-laki	anak|laki|laki	anak|laki|laki	NNP|NNP|NNP	O|PERSON|PERSON	||					
+0	0	fb:cell_kharakteristik.skor_sains_rata_rata_2000	skor sains rata-rata 2000	skor|sains|rata|rata|2000	skor|sains|rata|rata|2000	NNP|NNP|JJ|JJ|CD	O|O|O|O|DATE	||||2000	2000.0				
+0	1	fb:cell_cewek_cewek.531	531	531	531	CD	NUMBER	531.0	531.0				
+0	2	fb:cell_anak_laki_laki.529	529	529	529	CD	NUMBER	529.0	529.0				
+1	0	fb:cell_kharakteristik.skor_sains_rata_rata_tahun_2003	skor sains rata-rata tahun 2003	skor|sains|rata|rata|tahun|2003	skor|sains|rata|rata|tahun|2003	NNP|NNP|JJ|JJ|NNP|CD	O|O|O|O|O|DATE	|||||2003	2003.0				
+1	1	fb:cell_cewek_cewek.516	516	516	516	CD	NUMBER	516.0	516.0				
+1	2	fb:cell_anak_laki_laki.527	527	527	527	CD	NUMBER	527.0	527.0				
+2	0	fb:cell_kharakteristik.skor_sains_rata_rata_2006	skor sains rata-rata 2006	skor|sains|rata|rata|2006	skor|sains|rata|rata|2006	NNP|NNP|JJ|JJ|CD	O|O|O|O|DATE	||||2006	2006.0				
+2	1	fb:cell_cewek_cewek.532	532	532	532	CD	NUMBER	532.0	532.0				
+2	2	fb:cell_anak_laki_laki.536	536	536	536	CD	NUMBER	536.0	536.0				
+3	0	fb:cell_kharakteristik.skor_sains_rata_rata_2009	skor sains rata-rata 2009	skor|sains|rata|rata|2009	skor|sains|rata|rata|2009	NNP|NNP|JJ|JJ|CD	O|O|O|O|DATE	||||2009	2009.0				
+3	1	fb:cell_cewek_cewek.526	526	526	526	CD	NUMBER	526.0	526.0				
+3	2	fb:cell_anak_laki_laki.531	531	531	531	CD	NUMBER	531.0	531.0				
+4	0	fb:cell_kharakteristik.nilai_rata_rata_sains_2012	nilai rata-rata sains 2012	nilai|rata|rata|sains|2012	nilai|rata|rata|sains|2012	NNP|JJ|JJ|NNP|CD	O|O|O|O|DATE	||||2012	2012.0				
+4	1	fb:cell_cewek_cewek.524	524	524	524	CD	NUMBER	524.0	524.0				
+4	2	fb:cell_anak_laki_laki.527	527	527	527	CD	NUMBER	527.0	527.0				

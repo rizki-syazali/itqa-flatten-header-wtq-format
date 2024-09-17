@@ -1,0 +1,56 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_total_biaya	jumlah total biaya	jumlah|total|biaya	jumlah|total|biaya	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.total_biaya_persen_berubah_dari_tahun_sebelumnya	total biaya persen berubah dari tahun sebelumnya	total|biaya|persen|berubah|dari|tahun|sebelumnya	total|biaya|persen|berubah|dari|tahun|sebelumnya	JJ|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.jumlah_total_kasus	jumlah total kasus	jumlah|total|kasus	jumlah|total|kasus	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.total_kasus_persen_berubah_dari_tahun_sebelumnya	total kasus persen berubah dari tahun sebelumnya	total|kasus|persen|berubah|dari|tahun|sebelumnya	total|kasus|persen|berubah|dari|tahun|sebelumnya	JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.2005_2006	2005/2006	2005/2006	2005/2006	CD	NUMBER		2005.0		2006.0	2005|2006	fb:part_kharakteristik.2005|fb:part_kharakteristik.2006
+0	1	fb:cell_jumlah_total_biaya.1094431	1094431	1094431	1094431	CD	NUMBER	1094431.0	1094431.0				
+0	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya.null											
+0	3	fb:cell_jumlah_total_kasus.382322	382322	382322	382322	CD	NUMBER	382322.0	382322.0				
+0	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya.null											
+1	0	fb:cell_kharakteristik.2006_2007	2006/2007	2006/2007	2006/2007	CD	NUMBER		2006.0		2007.0	2006|2007	fb:part_kharakteristik.2006|fb:part_kharakteristik.2007
+1	1	fb:cell_jumlah_total_biaya.1109587	1109587	1109587	1109587	CD	NUMBER	1109587.0	1109587.0				
+1	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+1	3	fb:cell_jumlah_total_kasus.380537	380537	380537	380537	CD	NUMBER	380537.0	380537.0				
+1	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya._0_5	-0.5	-0.5	-0.5	CD	NUMBER	-0.5	0.5				
+2	0	fb:cell_kharakteristik.2007_2008	2007/2008	2007/2008	2007/2008	CD	NUMBER		2007.0		2008.0	2007|2008	fb:part_kharakteristik.2007|fb:part_kharakteristik.2008
+2	1	fb:cell_jumlah_total_biaya.1151509	1151509	1151509	1151509	CD	NUMBER	1151509.0	1151509.0				
+2	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+2	3	fb:cell_jumlah_total_kasus.393193	393193	393193	393193	CD	NUMBER	393193.0	393193.0				
+2	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+3	0	fb:cell_kharakteristik.2008_2009	2008/2009	2008/2009	2008/2009	CD	NUMBER		2008.0		2009.0	2008|2009	fb:part_kharakteristik.2008|fb:part_kharakteristik.2009
+3	1	fb:cell_jumlah_total_biaya.1187324	1187324	1187324	1187324	CD	NUMBER	1187324.0	1187324.0				
+3	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+3	3	fb:cell_jumlah_total_kasus.398697	398697	398697	398697	CD	NUMBER	398697.0	398697.0				
+3	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+4	0	fb:cell_kharakteristik.2009_2010	2009/2010	2009/2010	2009/2010	CD	NUMBER		2009.0		2010.0	2009|2010	fb:part_kharakteristik.2009|fb:part_kharakteristik.2010
+4	1	fb:cell_jumlah_total_biaya.1224191	1224191	1224191	1224191	CD	NUMBER	1224191.0	1224191.0				
+4	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+4	3	fb:cell_jumlah_total_kasus.410051	410051	410051	410051	CD	NUMBER	410051.0	410051.0				
+4	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+5	0	fb:cell_kharakteristik.2010_2011	2010/2011	2010/2011	2010/2011	CD	NUMBER		2010.0		2011.0	2010|2011	fb:part_kharakteristik.2010|fb:part_kharakteristik.2011
+5	1	fb:cell_jumlah_total_biaya.1224787	1224787	1224787	1224787	CD	NUMBER	1224787.0	1224787.0				
+5	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	3	fb:cell_jumlah_total_kasus.409957	409957	409957	409957	CD	NUMBER	409957.0	409957.0				
+5	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	0	fb:cell_kharakteristik.2011_2012	2011/2012	2011/2012	2011/2012	CD	NUMBER		2011.0		2012.0	2011|2012	fb:part_kharakteristik.2011|fb:part_kharakteristik.2012
+6	1	fb:cell_jumlah_total_biaya.1196169	1196169	1196169	1196169	CD	NUMBER	1196169.0	1196169.0				
+6	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya._2_3	-2.3	-2.3	-2.3	CD	NUMBER	-2.3	2.3				
+6	3	fb:cell_jumlah_total_kasus.394116	394116	394116	394116	CD	NUMBER	394116.0	394116.0				
+6	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya._3_9	-3.9	-3.9	-3.9	CD	NUMBER	-3.9	3.9				
+7	0	fb:cell_kharakteristik.2012_2013	2012/2013	2012/2013	2012/2013	CD	NUMBER		2012.0		2013.0	2012|2013	fb:part_kharakteristik.2012|fb:part_kharakteristik.2013
+7	1	fb:cell_jumlah_total_biaya.1182345	1182345	1182345	1182345	CD	NUMBER	1182345.0	1182345.0				
+7	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya._1_2	-1.2	-1.2	-1.2	CD	NUMBER	-1.2	1.2				
+7	3	fb:cell_jumlah_total_kasus.387614	387614	387614	387614	CD	NUMBER	387614.0	387614.0				
+7	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya._1_6	-1.6	-1.6	-1.6	CD	NUMBER	-1.6	1.6				
+8	0	fb:cell_kharakteristik.2013_2014	2013/2014	2013/2014	2013/2014	CD	NUMBER		2013.0		2014.0	2013|2014	fb:part_kharakteristik.2013|fb:part_kharakteristik.2014
+8	1	fb:cell_jumlah_total_biaya.1134483	1134483	1134483	1134483	CD	NUMBER	1134483.0	1134483.0				
+8	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya._4_0	-4.0	-4.0	-4.0	CD	NUMBER	-4.0	4.0				
+8	3	fb:cell_jumlah_total_kasus.379058	379058	379058	379058	CD	NUMBER	379058.0	379058.0				
+8	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya._2_2	-2.2	-2.2	-2.2	CD	NUMBER	-2.2	2.2				
+9	0	fb:cell_kharakteristik.2014_2015	2014/2015	2014/2015	2014/2015	CD	NUMBER		2014.0		2015.0	2014|2015	fb:part_kharakteristik.2014|fb:part_kharakteristik.2015
+9	1	fb:cell_jumlah_total_biaya.992635	992635	992635	992635	CD	NUMBER	992635.0	992635.0				
+9	2	fb:cell_total_biaya_persen_berubah_dari_tahun_sebelumnya._12_5	-12.5	-12.5	-12.5	CD	NUMBER	-12.5	12.5				
+9	3	fb:cell_jumlah_total_kasus.328028	328028	328028	328028	CD	NUMBER	328028.0	328028.0				
+9	4	fb:cell_total_kasus_persen_berubah_dari_tahun_sebelumnya._13_5	-13.5	-13.5	-13.5	CD	NUMBER	-13.5	13.5				

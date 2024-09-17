@@ -1,0 +1,106 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.wilayah_pertanian_1_pekerja_berbahasa_perancis	wilayah pertanian 1 pekerja berbahasa perancis	wilayah|pertanian|1|pekerja|berbahasa|perancis	wilayah|pertanian|1|pekerja|berbahasa|perancis	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||1.0|||					
+-1	2	fb:row.row.wilayah_pertanian_1_pekerja_berbahasa_inggris	wilayah pertanian 1 pekerja berbahasa inggris	wilayah|pertanian|1|pekerja|berbahasa|inggris	wilayah|pertanian|1|pekerja|berbahasa|inggris	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||1.0|||					
+-1	3	fb:row.row.wilayah_pertanian_3_pekerja_berbahasa_perancis	wilayah pertanian 3 pekerja berbahasa Perancis	wilayah|pertanian|3|pekerja|berbahasa|perancis	wilayah|pertanian|3|pekerja|berbahasa|perancis	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||3.0|||					
+-1	4	fb:row.row.wilayah_pertanian_3_pekerja_berbahasa_inggris	wilayah pertanian 3 pekerja berbahasa inggris	wilayah|pertanian|3|pekerja|berbahasa|inggris	wilayah|pertanian|3|pekerja|berbahasa|inggris	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||3.0|||					
+-1	5	fb:row.row.wilayah_pertanian_4_pekerja_berbahasa_perancis	wilayah pertanian 4 pekerja berbahasa Perancis	wilayah|pertanian|4|pekerja|berbahasa|perancis	wilayah|pertanian|4|pekerja|berbahasa|perancis	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||4.0|||					
+-1	6	fb:row.row.wilayah_pertanian_4_pekerja_berbahasa_inggris	wilayah pertanian 4 pekerja berbahasa inggris	wilayah|pertanian|4|pekerja|berbahasa|inggris	wilayah|pertanian|4|pekerja|berbahasa|inggris	NNP|NNP|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||4.0|||					
+0	0	fb:cell_kharakteristik.persen_tempat_lahir	persen tempat lahir	persen|tempat|lahir	persen|tempat|lahir	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.null											
+0	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.null											
+0	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.null											
+0	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.null											
+0	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.null											
+0	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.null											
+1	0	fb:cell_kharakteristik.persen_tempat_lahir_lahir_di_provinsi_tempat_tinggal	persen tempat lahir lahir di provinsi tempat tinggal	persen|tempat|lahir|lahir|di|provinsi|tempat|tinggal	persen|tempat|lahir|lahir|di|provinsi|tempat|tinggal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.86_1	86.1	86.1	86.1	CD	NUMBER	86.1	86.1				
+1	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.84_6	84.6	84.6	84.6	CD	NUMBER	84.6	84.6				
+1	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.82_1	82.1	82.1	82.1	CD	NUMBER	82.1	82.1				
+1	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.78_3	78.3	78.3	78.3	CD	NUMBER	78.3	78.3				
+1	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.92_8	92.8	92.8	92.8	CD	NUMBER	92.8	92.8				
+1	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.76_6	76.6	76.6	76.6	CD	NUMBER	76.6	76.6				
+2	0	fb:cell_kharakteristik.persen_tempat_lahir_lahir_di_provinsi_lain	persen tempat lahir lahir di provinsi lain	persen|tempat|lahir|lahir|di|provinsi|lain	persen|tempat|lahir|lahir|di|provinsi|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+2	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+2	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+2	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+2	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+2	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+2	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.23_4	23.4	23.4	23.4	CD	NUMBER	23.4	23.4				
+3	0	fb:cell_kharakteristik.persen_tempat_lahir_lahir_di_luar_kanada	persen tempat lahir lahir di luar Kanada	persen|tempat|lahir|lahir|di|luar|kanada	persen|tempat|lahir|lahir|di|luar|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+3	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+3	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+3	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+4	0	fb:cell_kharakteristik.persen_agama	persen agama	persen|agama	persen|agama	NNP|NNP	O|O	|					
+4	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.null											
+4	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.null											
+4	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.null											
+4	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.null											
+4	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.null											
+4	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.null											
+5	0	fb:cell_kharakteristik.persen_agama_anglikan	persen agama Anglikan	persen|agama|anglikan	persen|agama|Anglikan	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+5	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+5	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	0	fb:cell_kharakteristik.persen_agama_katolik	persen agama Katolik	persen|agama|katolik	persen|agama|Katolik	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.93_6	93.6	93.6	93.6	CD	NUMBER	93.6	93.6				
+6	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+6	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.92_5	92.5	92.5	92.5	CD	NUMBER	92.5	92.5				
+6	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+6	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.96_4	96.4	96.4	96.4	CD	NUMBER	96.4	96.4				
+6	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.59_4	59.4	59.4	59.4	CD	NUMBER	59.4	59.4				
+7	0	fb:cell_kharakteristik.persen_agama_pantekosta	persen agama pantekosta	persen|agama|pantekosta	persen|agama|pantekosta	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+7	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+7	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+7	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+7	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+7	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	0	fb:cell_kharakteristik.persen_agama_presbiterian	persen agama presbiterian	persen|agama|presbiterian	persen|agama|presbiterian	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+8	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+9	0	fb:cell_kharakteristik.persen_agama_menyatukan_gereja	persen agama menyatukan gereja	persen|agama|menyatukan|gereja	persen|agama|menyatukan|gereja	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+9	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+9	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+9	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.25_5	25.5	25.5	25.5	CD	NUMBER	25.5	25.5				
+9	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+9	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+10	0	fb:cell_kharakteristik.persen_agama_lainnya_kristen	persen agama lainnya Kristen	persen|agama|lainnya|kristen	persen|agama|lainnya|Kristen	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+10	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.25_5	25.5	25.5	25.5	CD	NUMBER	25.5	25.5				
+10	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+10	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	0	fb:cell_kharakteristik.persen_agama_budha_hindu_yahudi_muslim_dan_sikh	persen agama budha, hindu, yahudi, muslim dan sikh	persen|agama|budha|,|hindu|,|yahudi|,|muslim|dan|sikh	persen|agama|budha|,|hindu|,|yahudi|,|muslim|dan|sikh	NNP|NNP|NNP|,|NNP|,|NNP|,|JJ|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				persen agama budha|hindu|yahudi|muslim dan sikh	fb:part_kharakteristik.persen_agama_budha|fb:part_kharakteristik.hindu|fb:part_kharakteristik.yahudi|fb:part_kharakteristik.muslim_dan_sikh
+11	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+11	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	0	fb:cell_kharakteristik.persen_agama_agama_lain	persen agama agama lain	persen|agama|agama|lain	persen|agama|agama|lain	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+12	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	0	fb:cell_kharakteristik.persen_agama_tidak_ada_afiliasi_agama	persen agama tidak ada afiliasi agama	persen|agama|tidak|ada|afiliasi|agama	persen|agama|tidak|ada|afiliasus|agama	NNP|NNP|NNP|NN|NNS|NN	O|O|O|O|O|O	|||||					
+13	1	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_perancis.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+13	2	fb:cell_wilayah_pertanian_1_pekerja_berbahasa_inggris.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+13	3	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	4	fb:cell_wilayah_pertanian_3_pekerja_berbahasa_inggris.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+13	5	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_perancis.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+13	6	fb:cell_wilayah_pertanian_4_pekerja_berbahasa_inggris.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				

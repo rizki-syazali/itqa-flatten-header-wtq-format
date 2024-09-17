@@ -1,0 +1,33 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.periode_1981_hingga_2000	periode 1981 hingga 2000	periode|1981|hingga|2000	periode|1981|hingga|2000	NNP|CD|NNP|CD	O|DATE|O|DATE	|1981||2000					
+-1	2	fb:row.row.periode_2000_hingga_2008	periode 2000 hingga 2008	periode|2000|hingga|2008	periode|2000|hingga|2008	NNP|CD|NNP|CD	O|DATE|O|DATE	|2000||2008					
+-1	3	fb:row.row.periode_1981_hingga_2009	periode 1981 hingga 2009	periode|1981|hingga|2009	periode|1981|hingga|2009	NNP|CD|NNP|CD	O|DATE|O|DATE	|1981||2009					
+0	0	fb:cell_kharakteristik.persen_pertumbuhan_nilai_tambah_log_rata_rata_tahunan	persen pertumbuhan nilai tambah (log), rata-rata tahunan	persen|pertumbuhan|nilai|tambah|-lrb-|log|-rrb-|,|rata|rata|tahunan	persen|pertumbuhan|nilai|tambah|-lrb-|log|-rrb-|,|rata|rata|tahunan	NNP|NNP|NNP|NNP|-LRB-|NN|-RRB-|,|JJ|JJ|NNP	MISC|MISC|MISC|MISC|O|O|O|O|O|O|O	||||||||||				persen pertumbuhan nilai tambah (log)|rata-rata tahunan	fb:part_kharakteristik.persen_pertumbuhan_nilai_tambah_log|fb:part_kharakteristik.rata_rata_tahunan
+0	1	fb:cell_periode_1981_hingga_2000.3_22	3.22	3.22	3.22	CD	NUMBER	3.22	3.22				
+0	2	fb:cell_periode_2000_hingga_2008.0_39	0.39	0.39	0.39	CD	NUMBER	0.39	0.39				
+0	3	fb:cell_periode_1981_hingga_2009.2_31	2.31	2.31	2.31	CD	NUMBER	2.31	2.31				
+1	0	fb:cell_kharakteristik.kontribusi_poin_persentase	kontribusi poin persentase	kontribusi|poin|persentase	kontribusi|poin|persentase	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_periode_1981_hingga_2000.null											
+1	2	fb:cell_periode_2000_hingga_2008.null											
+1	3	fb:cell_periode_1981_hingga_2009.null											
+2	0	fb:cell_kharakteristik.poin_persentase_kontribusi_input_tenaga_kerja	poin persentase kontribusi input tenaga kerja	poin|persentase|kontribusi|input|tenaga|kerja	poin|persentase|kontribusi|input|tenaga|kerja	NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_periode_1981_hingga_2000.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+2	2	fb:cell_periode_2000_hingga_2008.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+2	3	fb:cell_periode_1981_hingga_2009.0_32	0.32	0.32	0.32	CD	NUMBER	0.32	0.32				
+3	0	fb:cell_kharakteristik.poin_persentase_kontribusi_yang_dihasilkan_input_modal	poin persentase kontribusi yang dihasilkan input modal	poin|persentase|kontribusi|yang|dihasilkan|input|modal	poin|persentase|kontribusi|yang|dihasilkan|input|modal	NN|NN|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_periode_1981_hingga_2000.2_45	2.45	2.45	2.45	CD	NUMBER	2.45	2.45				
+3	2	fb:cell_periode_2000_hingga_2008.4_64	4.64	4.64	4.64	CD	NUMBER	4.64	4.64				
+3	3	fb:cell_periode_1981_hingga_2009.3_16	3.16	3.16	3.16	CD	NUMBER	3.16	3.16				
+4	0	fb:cell_kharakteristik.poin_persentase_kontribusi_masukan_modal_alam	poin persentase kontribusi masukan modal alam	poin|persentase|kontribusi|masukan|modal|alam	poin|persentase|kontribusi|masukan|modal|alam	NN|NN|NN|NN|JJ|NN	O|O|O|O|O|O	|||||					
+4	1	fb:cell_periode_1981_hingga_2000.0_43	0.43	0.43	0.43	CD	NUMBER	0.43	0.43				
+4	2	fb:cell_periode_2000_hingga_2008.0_16	0.16	0.16	0.16	CD	NUMBER	0.16	0.16				
+4	3	fb:cell_periode_1981_hingga_2009.0_34	0.34	0.34	0.34	CD	NUMBER	0.34	0.34				
+5	0	fb:cell_kharakteristik.poin_persentase_kontribusi_produktivitas_multifaktor	poin persentase kontribusi produktivitas multifaktor	poin|persentase|kontribusi|produktivitas|multifaktor	poin|persentase|kontribusi|produktivitas|multifaktor	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+5	1	fb:cell_periode_1981_hingga_2000.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+5	2	fb:cell_periode_2000_hingga_2008._5_25	-5.25	-5.25	-5.25	CD	NUMBER	-5.25	5.25				
+5	3	fb:cell_periode_1981_hingga_2009._1_51	-1.51	-1.51	-1.51	CD	NUMBER	-1.51	1.51				
+6	0	fb:cell_kharakteristik.persen_pertumbuhan_produktivitas_multifaktor_log_rata_rata_tahunan_sebelum_penambahan_modal_alam	persen pertumbuhan produktivitas multifaktor (log), rata-rata tahunan sebelum penambahan modal alam	persen|pertumbuhan|produktivitas|multifaktor|-lrb-|log|-rrb-|,|rata|rata|tahunan|sebelum|penambahan|modal|alam	persen|pertumbuhan|produktivitas|multifaktor|-lrb-|log|-rrb-|,|rata|rata|tahunan|sebelum|penambahan|modal|alam	JJ|NN|NN|NN|-LRB-|NN|-RRB-|,|JJ|JJ|NNP|NN|NN|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||				persen pertumbuhan produktivitas multifaktor (log)|rata-rata tahunan sebelum penambahan modal alam	fb:part_kharakteristik.persen_pertumbuhan_produktivitas_multifaktor_log|fb:part_kharakteristik.rata_rata_tahunan_sebelum_penambahan_modal_alam
+6	1	fb:cell_periode_1981_hingga_2000._0_04	-0.04	-0.04	-0.04	CD	NUMBER	-0.04	0.04				
+6	2	fb:cell_periode_2000_hingga_2008._6_96	-6.96	-6.96	-6.96	CD	NUMBER	-6.96	6.96				
+6	3	fb:cell_periode_1981_hingga_2009._2_27	-2.27	-2.27	-2.27	CD	NUMBER	-2.27	2.27				

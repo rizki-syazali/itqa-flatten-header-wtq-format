@@ -1,0 +1,201 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.total_populasi_perempuan_identitas_penduduk_asli	total populasi perempuan identitas penduduk asli	total|populasi|perempuan|identitas|penduduk|asli	total|populasi|perempuan|identitas|penduduk|asli	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.total_identitas_tunggal_negara_pertama	total identitas tunggal negara pertama	total|identitas|tunggal|negara|pertama	total|identita|tunggal|negara|pertama	JJ|NNS|JJ|NN|NN	O|O|O|O|O	||||					
+-1	3	fb:row.row.identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india	identitas tunggal negara pertama yang terdaftar atau perjanjian India	identitas|tunggal|negara|pertama|yang|terdaftar|atau|perjanjian|india	identitas|tunggal|negara|pertama|yang|terdaftar|atau|perjanjian|India	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	4	fb:row.row.identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian	identitas tunggal negara pertama bukan orang India yang terdaftar atau perjanjian	identitas|tunggal|negara|pertama|bukan|orang|india|yang|terdaftar|atau|perjanjian	identitas|tunggal|negara|pertama|bukan|orang|India|yang|terdaftar|atau|perjanjian	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+-1	5	fb:row.row.identitas_tunggal_metis	identitas tunggal metis	identitas|tunggal|metis	identitas|tunggal|metis	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.identitas_tunggal_inuit	identitas tunggal inuit	identitas|tunggal|inuit	identitas|tunggal|inuit	NNP|NNP|NNP	O|O|O	||					
+-1	7	fb:row.row.populasi_perempuan_identitas_non_aborigin	populasi perempuan identitas non-aborigin	populasi|perempuan|identitas|non|aborigin	populasi|perempuan|identitas|non|aborigin	NNP|NNP|NNP|JJ|NN	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+0	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+0	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+0	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+0	5	fb:cell_identitas_tunggal_metis.null											
+0	6	fb:cell_identitas_tunggal_inuit.null											
+0	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+1	0	fb:cell_kharakteristik.tingkat_lapangan_kerja_total	tingkat lapangan kerja total	tingkat|lapangan|kerja|total	tingkat|lapangan|kerja|total	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.60_1	60.1	60.1	60.1	CD	NUMBER	60.1	60.1				
+1	2	fb:cell_total_identitas_tunggal_negara_pertama.55_2	55.2	55.2	55.2	CD	NUMBER	55.2	55.2				
+1	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.51_9	51.9	51.9	51.9	CD	NUMBER	51.9	51.9				
+1	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.64_6	64.6	64.6	64.6	CD	NUMBER	64.6	64.6				
+1	5	fb:cell_identitas_tunggal_metis.67_9	67.9	67.9	67.9	CD	NUMBER	67.9	67.9				
+1	6	fb:cell_identitas_tunggal_inuit.58_8	58.8	58.8	58.8	CD	NUMBER	58.8	58.8				
+1	7	fb:cell_populasi_perempuan_identitas_non_aborigin.71_4	71.4	71.4	71.4	CD	NUMBER	71.4	71.4				
+2	0	fb:cell_kharakteristik.tingkat_pengangguran_total	tingkat pengangguran total	tingkat|pengangguran|total	tingkat|pengangguran|total	NN|NN|NN	O|O|O	||					
+2	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+2	2	fb:cell_total_identitas_tunggal_negara_pertama.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+2	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+2	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+2	5	fb:cell_identitas_tunggal_metis.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+2	6	fb:cell_identitas_tunggal_inuit.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+2	7	fb:cell_populasi_perempuan_identitas_non_aborigin.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+3	0	fb:cell_kharakteristik.tidak_ada_sertifikat_diploma_atau_gelar	tidak ada sertifikat, diploma atau gelar	tidak|ada|sertifikat|,|diploma|atau|gelar	tidak|ada|sertifikat|,|diploma|atau|gelar	NNP|NN|NN|,|NN|NN|NN	O|O|O|O|O|O|O	||||||				tidak ada sertifikat|diploma atau gelar	fb:part_kharakteristik.tidak_ada_sertifikat|fb:part_kharakteristik.diploma_atau_gelar
+3	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+3	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+3	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+3	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+3	5	fb:cell_identitas_tunggal_metis.null											
+3	6	fb:cell_identitas_tunggal_inuit.null											
+3	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+4	0	fb:cell_kharakteristik.tidak_ada_sertifikat_diploma_atau_gelar_tingkat_pekerjaan	tidak ada sertifikat, diploma atau gelar tingkat pekerjaan	tidak|ada|sertifikat|,|diploma|atau|gelar|tingkat|pekerjaan	tidak|ada|sertifikat|,|diploma|atau|gelar|tingkat|pekerjaan	NNP|NN|NN|,|NN|NN|JJ|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				tidak ada sertifikat|diploma atau gelar tingkat pekerjaan	fb:part_kharakteristik.tidak_ada_sertifikat|fb:part_kharakteristik.diploma_atau_gelar_tingkat_pekerjaan
+4	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.35_5	35.5	35.5	35.5	CD	NUMBER	35.5	35.5				
+4	2	fb:cell_total_identitas_tunggal_negara_pertama.31_5	31.5	31.5	31.5	CD	NUMBER	31.5	31.5				
+4	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.30_4	30.4	30.4	30.4	CD	NUMBER	30.4	30.4				
+4	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.36_8	36.8	36.8	36.8	CD	NUMBER	36.8	36.8				
+4	5	fb:cell_identitas_tunggal_metis.43_8	43.8	43.8	43.8	CD	NUMBER	43.8	43.8				
+4	6	fb:cell_identitas_tunggal_inuit.44_9	44.9	44.9	44.9	CD	NUMBER	44.9	44.9				
+4	7	fb:cell_populasi_perempuan_identitas_non_aborigin.46_9	46.9	46.9	46.9	CD	NUMBER	46.9	46.9				
+5	0	fb:cell_kharakteristik.tidak_ada_sertifikat_diploma_atau_gelar_tingkat_pengangguran	tidak ada sertifikat, diploma atau gelar tingkat pengangguran	tidak|ada|sertifikat|,|diploma|atau|gelar|tingkat|pengangguran	tidak|ada|sertifikat|,|diploma|atau|gelar|tingkat|pengangguran	NNP|NN|NN|,|NN|NN|JJ|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				tidak ada sertifikat|diploma atau gelar tingkat pengangguran	fb:part_kharakteristik.tidak_ada_sertifikat|fb:part_kharakteristik.diploma_atau_gelar_tingkat_pengangguran
+5	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+5	2	fb:cell_total_identitas_tunggal_negara_pertama.22_6	22.6	22.6	22.6	CD	NUMBER	22.6	22.6				
+5	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+5	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+5	5	fb:cell_identitas_tunggal_metis.13_3	13.3	13.3	13.3	CD	NUMBER	13.3	13.3				
+5	6	fb:cell_identitas_tunggal_inuit.19_7	19.7	19.7	19.7	CD	NUMBER	19.7	19.7				
+5	7	fb:cell_populasi_perempuan_identitas_non_aborigin.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+6	0	fb:cell_kharakteristik.ijazah_sma_atau_sederajat	ijazah SMA atau sederajat	ijazah|sma|atau|sederajat	ijazah|SMA|atau|sederajat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+6	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+6	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+6	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+6	5	fb:cell_identitas_tunggal_metis.null											
+6	6	fb:cell_identitas_tunggal_inuit.null											
+6	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+7	0	fb:cell_kharakteristik.ijazah_sekolah_menengah_atas_atau_tingkat_pekerjaan_yang_setara	ijazah sekolah menengah atas atau tingkat pekerjaan yang setara	ijazah|sekolah|menengah|atas|atau|tingkat|pekerjaan|yang|setara	ijazah|sekolah|menengah|atas|atau|tingkat|pekerjaan|yang|setara	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+7	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.59_2	59.2	59.2	59.2	CD	NUMBER	59.2	59.2				
+7	2	fb:cell_total_identitas_tunggal_negara_pertama.54_4	54.4	54.4	54.4	CD	NUMBER	54.4	54.4				
+7	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.50_6	50.6	50.6	50.6	CD	NUMBER	50.6	50.6				
+7	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.63_2	63.2	63.2	63.2	CD	NUMBER	63.2	63.2				
+7	5	fb:cell_identitas_tunggal_metis.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+7	6	fb:cell_identitas_tunggal_inuit.66_9	66.9	66.9	66.9	CD	NUMBER	66.9	66.9				
+7	7	fb:cell_populasi_perempuan_identitas_non_aborigin.65_6	65.6	65.6	65.6	CD	NUMBER	65.6	65.6				
+8	0	fb:cell_kharakteristik.ijazah_sekolah_menengah_atas_atau_tingkat_pengangguran_yang_setara	ijazah sekolah menengah atas atau tingkat pengangguran yang setara	ijazah|sekolah|menengah|atas|atau|tingkat|pengangguran|yang|setara	ijazah|sekolah|menengah|atas|atau|tingkat|pengangguran|yang|setara	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+8	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+8	2	fb:cell_total_identitas_tunggal_negara_pertama.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+8	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+8	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+8	5	fb:cell_identitas_tunggal_metis.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+8	6	fb:cell_identitas_tunggal_inuit.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+8	7	fb:cell_populasi_perempuan_identitas_non_aborigin.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+9	0	fb:cell_kharakteristik.sertifikat_pasca_sekolah_menengah_diploma_atau_gelar	sertifikat pasca sekolah menengah, diploma atau gelar	sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	NNP|NNP|NNP|NNP|,|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||				sertifikat pasca sekolah menengah|diploma atau gelar	fb:part_kharakteristik.sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar
+9	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+9	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+9	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+9	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+9	5	fb:cell_identitas_tunggal_metis.null											
+9	6	fb:cell_identitas_tunggal_inuit.null											
+9	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+10	0	fb:cell_kharakteristik.tingkat_pekerjaan_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar	tingkat pekerjaan sertifikat pasca sekolah menengah, diploma atau gelar	tingkat|pekerjaan|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	tingkat|pekerjaan|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	NNP|NNP|NNP|NNP|NNP|NNP|,|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||				tingkat pekerjaan sertifikat pasca sekolah menengah|diploma atau gelar	fb:part_kharakteristik.tingkat_pekerjaan_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar
+10	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.73_1	73.1	73.1	73.1	CD	NUMBER	73.1	73.1				
+10	2	fb:cell_total_identitas_tunggal_negara_pertama.70_6	70.6	70.6	70.6	CD	NUMBER	70.6	70.6				
+10	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+10	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.75_6	75.6	75.6	75.6	CD	NUMBER	75.6	75.6				
+10	5	fb:cell_identitas_tunggal_metis.76_6	76.6	76.6	76.6	CD	NUMBER	76.6	76.6				
+10	6	fb:cell_identitas_tunggal_inuit.73_4	73.4	73.4	73.4	CD	NUMBER	73.4	73.4				
+10	7	fb:cell_populasi_perempuan_identitas_non_aborigin.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+11	0	fb:cell_kharakteristik.tingkat_pengangguran_sertifikat_pasca_sekolah_menengah_diploma_atau_gelar	tingkat pengangguran sertifikat pasca sekolah menengah, diploma atau gelar	tingkat|pengangguran|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	tingkat|pengangguran|sertifikat|pasca|sekolah|menengah|,|diploma|atau|gelar	NNP|NNP|NNP|NNP|NNP|NNP|,|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||				tingkat pengangguran sertifikat pasca sekolah menengah|diploma atau gelar	fb:part_kharakteristik.tingkat_pengangguran_sertifikat_pasca_sekolah_menengah|fb:part_kharakteristik.diploma_atau_gelar
+11	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+11	2	fb:cell_total_identitas_tunggal_negara_pertama.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+11	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+11	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+11	5	fb:cell_identitas_tunggal_metis.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+11	6	fb:cell_identitas_tunggal_inuit.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+11	7	fb:cell_populasi_perempuan_identitas_non_aborigin.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+12	0	fb:cell_kharakteristik.sertifikat_atau_diploma_magang_atau_perdagangan	sertifikat atau diploma magang atau perdagangan	sertifikat|atau|diploma|magang|atau|perdagangan	sertifikat|atau|diploma|magang|atau|perdagangan	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+12	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+12	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+12	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+12	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+12	5	fb:cell_identitas_tunggal_metis.null											
+12	6	fb:cell_identitas_tunggal_inuit.null											
+12	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+13	0	fb:cell_kharakteristik.tingkat_kerja_magang_atau_sertifikat_perdagangan_atau_diploma	tingkat kerja magang atau sertifikat perdagangan atau diploma	tingkat|kerja|magang|atau|sertifikat|perdagangan|atau|diploma	tingkat|kerja|magang|atau|sertifikat|perdagangan|atau|diploma	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||					
+13	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.64_9	64.9	64.9	64.9	CD	NUMBER	64.9	64.9				
+13	2	fb:cell_total_identitas_tunggal_negara_pertama.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+13	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+13	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.67_5	67.5	67.5	67.5	CD	NUMBER	67.5	67.5				
+13	5	fb:cell_identitas_tunggal_metis.68_8	68.8	68.8	68.8	CD	NUMBER	68.8	68.8				
+13	6	fb:cell_identitas_tunggal_inuit.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+13	7	fb:cell_populasi_perempuan_identitas_non_aborigin.72_7	72.7	72.7	72.7	CD	NUMBER	72.7	72.7				
+14	0	fb:cell_kharakteristik.tingkat_pengangguran_magang_atau_sertifikat_perdagangan_atau_diploma	tingkat pengangguran magang atau sertifikat perdagangan atau diploma	tingkat|pengangguran|magang|atau|sertifikat|perdagangan|atau|diploma	tingkat|pengangguran|magang|atau|sertifikat|perdagangan|atau|diploma	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||					
+14	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+14	2	fb:cell_total_identitas_tunggal_negara_pertama.13_4	13.4	13.4	13.4	CD	NUMBER	13.4	13.4				
+14	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+14	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+14	5	fb:cell_identitas_tunggal_metis.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+14	6	fb:cell_identitas_tunggal_inuit.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+14	7	fb:cell_populasi_perempuan_identitas_non_aborigin.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+15	0	fb:cell_kharakteristik.perguruan_tinggi_cegep_atau_sertifikat_atau_diploma_non_universitas_lainnya	perguruan tinggi, cegep atau sertifikat atau diploma non-universitas lainnya	perguruan|tinggi|,|cegep|atau|sertifikat|atau|diploma|non|universitas|lainnya	perguruan|tinggi|,|cegep|atau|sertifikat|atau|diploma|non|universitas|lainnya	NNP|NNP|,|NNP|NNP|NNP|NNP|NN|JJ|JJ|NN	MISC|MISC|O|O|O|O|O|O|O|O|O	||||||||||				perguruan tinggi|cegep atau sertifikat atau diploma non-universitas lainnya	fb:part_kharakteristik.perguruan_tinggi|fb:part_kharakteristik.cegep_atau_sertifikat_atau_diploma_non_universitas_lainnya
+15	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+15	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+15	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+15	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+15	5	fb:cell_identitas_tunggal_metis.null											
+15	6	fb:cell_identitas_tunggal_inuit.null											
+15	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+16	0	fb:cell_kharakteristik.tingkat_pekerjaan_perguruan_tinggi_cegep_atau_sertifikat_atau_diploma_non_universitas_lainnya	tingkat pekerjaan perguruan tinggi, cegep atau sertifikat atau diploma non-universitas lainnya	tingkat|pekerjaan|perguruan|tinggi|,|cegep|atau|sertifikat|atau|diploma|non|universitas|lainnya	tingkat|pekerjaan|perguruan|tinggi|,|cegep|atau|sertifikat|atau|diploma|non|universitas|lainnya	NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NN|JJ|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				tingkat pekerjaan perguruan tinggi|cegep atau sertifikat atau diploma non-universitas lainnya	fb:part_kharakteristik.tingkat_pekerjaan_perguruan_tinggi|fb:part_kharakteristik.cegep_atau_sertifikat_atau_diploma_non_universitas_lainnya
+16	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+16	2	fb:cell_total_identitas_tunggal_negara_pertama.69_4	69.4	69.4	69.4	CD	NUMBER	69.4	69.4				
+16	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.67_3	67.3	67.3	67.3	CD	NUMBER	67.3	67.3				
+16	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.74_4	74.4	74.4	74.4	CD	NUMBER	74.4	74.4				
+16	5	fb:cell_identitas_tunggal_metis.76_3	76.3	76.3	76.3	CD	NUMBER	76.3	76.3				
+16	6	fb:cell_identitas_tunggal_inuit.71_7	71.7	71.7	71.7	CD	NUMBER	71.7	71.7				
+16	7	fb:cell_populasi_perempuan_identitas_non_aborigin.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+17	0	fb:cell_kharakteristik.tingkat_pengangguran_perguruan_tinggi_cegep_atau_non_universitas_lainnya	tingkat pengangguran perguruan tinggi, cegep atau non-universitas lainnya	tingkat|pengangguran|perguruan|tinggi|,|cegep|atau|non|universitas|lainnya	tingkat|pengangguran|perguruan|tinggi|,|cegep|atau|non|universita|lainnya	NNP|NNP|NNP|NNP|,|NNP|NNP|JJ|NNS|NN	O|O|O|O|O|O|O|O|O|O	|||||||||				tingkat pengangguran perguruan tinggi|cegep atau non-universitas lainnya	fb:part_kharakteristik.tingkat_pengangguran_perguruan_tinggi|fb:part_kharakteristik.cegep_atau_non_universitas_lainnya
+17	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+17	2	fb:cell_total_identitas_tunggal_negara_pertama.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+17	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+17	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+17	5	fb:cell_identitas_tunggal_metis.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+17	6	fb:cell_identitas_tunggal_inuit.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+17	7	fb:cell_populasi_perempuan_identitas_non_aborigin.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+18	0	fb:cell_kharakteristik.sertifikat_universitas_atau_diploma_di_bawah_tingkat_sarjana	sertifikat universitas atau diploma di bawah tingkat sarjana	sertifikat|universitas|atau|diploma|di|bawah|tingkat|sarjana	sertifikat|universitas|atau|diploma|di|bawah|tingkat|sarjana	NNP|NNPS|NNP|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+18	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+18	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+18	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+18	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+18	5	fb:cell_identitas_tunggal_metis.null											
+18	6	fb:cell_identitas_tunggal_inuit.null											
+18	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+19	0	fb:cell_kharakteristik.sertifikat_universitas_atau_diploma_di_bawah_tingkat_pekerjaan_tingkat_sarjana	sertifikat universitas atau diploma di bawah tingkat pekerjaan tingkat sarjana	sertifikat|universitas|atau|diploma|di|bawah|tingkat|pekerjaan|tingkat|sarjana	sertifikat|universitas|atau|diploma|di|bawah|tingkat|pekerjaan|tingkat|sarjana	NNP|NNPS|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+19	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+19	2	fb:cell_total_identitas_tunggal_negara_pertama.69_8	69.8	69.8	69.8	CD	NUMBER	69.8	69.8				
+19	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+19	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.73_8	73.8	73.8	73.8	CD	NUMBER	73.8	73.8				
+19	5	fb:cell_identitas_tunggal_metis.76_2	76.2	76.2	76.2	CD	NUMBER	76.2	76.2				
+19	6	fb:cell_identitas_tunggal_inuit.72_9	72.9	72.9	72.9	CD	NUMBER	72.9	72.9				
+19	7	fb:cell_populasi_perempuan_identitas_non_aborigin.74_6	74.6	74.6	74.6	CD	NUMBER	74.6	74.6				
+20	0	fb:cell_kharakteristik.sertifikat_universitas_atau_diploma_di_bawah_tingkat_pengangguran_tingkat_sarjana	sertifikat universitas atau diploma di bawah tingkat pengangguran tingkat sarjana	sertifikat|universitas|atau|diploma|di|bawah|tingkat|pengangguran|tingkat|sarjana	sertifikat|universitas|atau|diploma|di|bawah|tingkat|pengangguran|tingkat|sarjana	NNP|NNPS|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+20	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+20	2	fb:cell_total_identitas_tunggal_negara_pertama.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+20	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+20	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+20	5	fb:cell_identitas_tunggal_metis.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+20	6	fb:cell_identitas_tunggal_inuit.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+20	7	fb:cell_populasi_perempuan_identitas_non_aborigin.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+21	0	fb:cell_kharakteristik.sertifikat_universitas_diploma_atau_gelar_di_tingkat_sarjana_atau_lebih_tinggi	sertifikat universitas, diploma atau gelar di tingkat sarjana atau lebih tinggi	sertifikat|universitas|,|diploma|atau|gelar|di|tingkat|sarjana|atau|lebih|tinggi	sertifikat|universita|,|diploma|atau|gelar|di|tingkat|sarjana|atau|lebih|tinggi	NN|NNS|,|NN|NN|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				sertifikat universitas|diploma atau gelar di tingkat sarjana atau lebih tinggi	fb:part_kharakteristik.sertifikat_universitas|fb:part_kharakteristik.diploma_atau_gelar_di_tingkat_sarjana_atau_lebih_tinggi
+21	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.null											
+21	2	fb:cell_total_identitas_tunggal_negara_pertama.null											
+21	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.null											
+21	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.null											
+21	5	fb:cell_identitas_tunggal_metis.null											
+21	6	fb:cell_identitas_tunggal_inuit.null											
+21	7	fb:cell_populasi_perempuan_identitas_non_aborigin.null											
+22	0	fb:cell_kharakteristik.sertifikat_universitas_diploma_atau_gelar_di_tingkat_sarjana_atau_di_atas_tingkat_pekerjaan	sertifikat universitas, diploma atau gelar di tingkat sarjana atau di atas tingkat pekerjaan	sertifikat|universitas|,|diploma|atau|gelar|di|tingkat|sarjana|atau|di|atas|tingkat|pekerjaan	sertifikat|universita|,|diploma|atau|gelar|di|tingkat|sarjana|atau|di|atas|tingkat|pekerjaan	NN|NNS|,|NN|NN|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				sertifikat universitas|diploma atau gelar di tingkat sarjana atau di atas tingkat pekerjaan	fb:part_kharakteristik.sertifikat_universitas|fb:part_kharakteristik.diploma_atau_gelar_di_tingkat_sarjana_atau_di_atas_tingkat_pekerjaan
+22	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.81_8	81.8	81.8	81.8	CD	NUMBER	81.8	81.8				
+22	2	fb:cell_total_identitas_tunggal_negara_pertama.80_9	80.9	80.9	80.9	CD	NUMBER	80.9	80.9				
+22	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+22	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.85_5	85.5	85.5	85.5	CD	NUMBER	85.5	85.5				
+22	5	fb:cell_identitas_tunggal_metis.83_3	83.3	83.3	83.3	CD	NUMBER	83.3	83.3				
+22	6	fb:cell_identitas_tunggal_inuit.86_1	86.1	86.1	86.1	CD	NUMBER	86.1	86.1				
+22	7	fb:cell_populasi_perempuan_identitas_non_aborigin.79_5	79.5	79.5	79.5	CD	NUMBER	79.5	79.5				
+23	0	fb:cell_kharakteristik.sertifikat_universitas_diploma_atau_gelar_pada_tingkat_sarjana_atau_di_atas_tingkat_pengangguran	sertifikat universitas, diploma atau gelar pada tingkat sarjana atau di atas tingkat pengangguran	sertifikat|universitas|,|diploma|atau|gelar|pada|tingkat|sarjana|atau|di|atas|tingkat|pengangguran	sertifikat|universita|,|diploma|atau|gelar|pada|tingkat|sarjana|atau|di|atas|tingkat|pengangguran	NN|NNS|,|NN|NN|JJ|NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				sertifikat universitas|diploma atau gelar pada tingkat sarjana atau di atas tingkat pengangguran	fb:part_kharakteristik.sertifikat_universitas|fb:part_kharakteristik.diploma_atau_gelar_pada_tingkat_sarjana_atau_di_atas_tingkat_pengangguran
+23	1	fb:cell_total_populasi_perempuan_identitas_penduduk_asli.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+23	2	fb:cell_total_identitas_tunggal_negara_pertama.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+23	3	fb:cell_identitas_tunggal_negara_pertama_yang_terdaftar_atau_perjanjian_india.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+23	4	fb:cell_identitas_tunggal_negara_pertama_bukan_orang_india_yang_terdaftar_atau_perjanjian.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+23	5	fb:cell_identitas_tunggal_metis.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+23	6	fb:cell_identitas_tunggal_inuit.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+23	7	fb:cell_populasi_perempuan_identitas_non_aborigin.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				

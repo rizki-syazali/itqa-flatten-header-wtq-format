@@ -1,0 +1,73 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_pengungsi_suriah	jumlah pengungsi Suriah	jumlah|pengungsi|suriah	jumlah|pengungsi|Suriah	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.jumlah_pengungsi_dari_negara_lain_jumlahnya	jumlah pengungsi dari negara lain jumlahnya	jumlah|pengungsi|dari|negara|lain|jumlahnya	jumlah|pengungsi|dari|negara|lain|jumlahnya	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	3	fb:row.row.sebaran_pengungsi_suriah_persen	sebaran pengungsi Suriah persen	sebaran|pengungsi|suriah|persen	sebaran|pengungsi|Suriah|persen	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.distribusi_pengungsi_dari_negara_lain_persen	distribusi pengungsi dari negara lain persen	distribusi|pengungsi|dari|negara|lain|persen	distribusi|pengungsi|dari|negara|lain|persen	NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	5	fb:row.row.proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen	proporsi pengungsi Suriah dalam total populasi pengungsi persen	proporsi|pengungsi|suriah|dalam|total|populasi|pengungsi|persen	proporsi|pengungsi|suriah|dalam|total|populasi|pengungsi|persen	NN|NN|NN|NN|JJ|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+-1	6	fb:row.row.proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen	proporsi pengungsi Suriah yang merupakan pengungsi bantuan pemerintah persen	proporsi|pengungsi|suriah|yang|merupakan|pengungsi|bantuan|pemerintah|persen	proporsi|pengungsi|Suriah|yang|merupakan|pengungsi|bantuan|pemerintah|persen	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+-1	7	fb:row.row.proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen	proporsi pengungsi Suriah yang diterima pada tahun 2015 persen	proporsi|pengungsi|suriah|yang|diterima|pada|tahun|2015|persen	proporsi|pengungsi|Suriah|yang|diterima|pada|tahun|2015|persen	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP	O|O|O|O|O|O|O|DATE|O	|||||||2015|					
+0	0	fb:cell_kharakteristik.provinsi_atlantik	provinsi Atlantik	provinsi|atlantik	provinsi|Atlantik	NNP|NNP	O|O	|					
+0	1	fb:cell_jumlah_pengungsi_suriah.2670_0	2670.0	2670.0	2670.0	CD	NUMBER	2670.0	2670.0				
+0	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.765_0	765.0	765.0	765.0	CD	NUMBER	765.0	765.0				
+0	3	fb:cell_sebaran_pengungsi_suriah_persen.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+0	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+0	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+0	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.85_8	85.8	85.8	85.8	CD	NUMBER	85.8	85.8				
+0	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+1	0	fb:cell_kharakteristik.wilayah_metropolitan_sensus_montreal	wilayah metropolitan sensus montreal	wilayah|metropolitan|sensus|montreal	wilayah|metropolitan|sensus|montreal	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_jumlah_pengungsi_suriah.4265_0	4265.0	4265.0	4265.0	CD	NUMBER	4265.0	4265.0				
+1	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.1195_0	1195.0	1195.0	1195.0	CD	NUMBER	1195.0	1195.0				
+1	3	fb:cell_sebaran_pengungsi_suriah_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+1	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+1	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+1	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+1	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.46_5	46.5	46.5	46.5	CD	NUMBER	46.5	46.5				
+2	0	fb:cell_kharakteristik.sisa_quebec	sisa Quebec	sisa|quebec	sisa|Quebec	NNP|NNP	O|O	|					
+2	1	fb:cell_jumlah_pengungsi_suriah.1030_0	1030.0	1030.0	1030.0	CD	NUMBER	1030.0	1030.0				
+2	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.1970_0	1970.0	1970.0	1970.0	CD	NUMBER	1970.0	1970.0				
+2	3	fb:cell_sebaran_pengungsi_suriah_persen.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+2	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+2	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+2	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+2	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+3	0	fb:cell_kharakteristik.wilayah_metropolitan_sensus_toronto	wilayah metropolitan sensus toronto	wilayah|metropolitan|sensus|toronto	wilayah|metropolitan|sensus|toronto	NNP|NNP|NNP|NNP	O|O|O|LOCATION	|||					
+3	1	fb:cell_jumlah_pengungsi_suriah.4035_0	4035.0	4035.0	4035.0	CD	NUMBER	4035.0	4035.0				
+3	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.3285_0	3285.0	3285.0	3285.0	CD	NUMBER	3285.0	3285.0				
+3	3	fb:cell_sebaran_pengungsi_suriah_persen.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+3	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+3	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.55_1	55.1	55.1	55.1	CD	NUMBER	55.1	55.1				
+3	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+3	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.37_4	37.4	37.4	37.4	CD	NUMBER	37.4	37.4				
+4	0	fb:cell_kharakteristik.sisa_ontario	sisa ontario	sisa|ontario	sisa|ontario	NNP|NNP	ORGANIZATION|O	|					
+4	1	fb:cell_jumlah_pengungsi_suriah.6175_0	6175.0	6175.0	6175.0	CD	NUMBER	6175.0	6175.0				
+4	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.2910_0	2910.0	2910.0	2910.0	CD	NUMBER	2910.0	2910.0				
+4	3	fb:cell_sebaran_pengungsi_suriah_persen.24_6	24.6	24.6	24.6	CD	NUMBER	24.6	24.6				
+4	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+4	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+4	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+4	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.27_5	27.5	27.5	27.5	CD	NUMBER	27.5	27.5				
+5	0	fb:cell_kharakteristik.padang_rumput	padang rumput	padang|rumput	padang|rumput	NNP|NNP	O|O	|					
+5	1	fb:cell_jumlah_pengungsi_suriah.4735_0	4735.0	4735.0	4735.0	CD	NUMBER	4735.0	4735.0				
+5	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.4055_0	4055.0	4055.0	4055.0	CD	NUMBER	4055.0	4055.0				
+5	3	fb:cell_sebaran_pengungsi_suriah_persen.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+5	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+5	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.53_9	53.9	53.9	53.9	CD	NUMBER	53.9	53.9				
+5	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.64_8	64.8	64.8	64.8	CD	NUMBER	64.8	64.8				
+5	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+6	0	fb:cell_kharakteristik.columbia_inggris	columbia inggris	columbia|inggris	columbia|inggris	NNP|NNP	O|O	|					
+6	1	fb:cell_jumlah_pengungsi_suriah.2125_0	2125.0	2125.0	2125.0	CD	NUMBER	2125.0	2125.0				
+6	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.1410_0	1410.0	1410.0	1410.0	CD	NUMBER	1410.0	1410.0				
+6	3	fb:cell_sebaran_pengungsi_suriah_persen.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+6	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+6	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.60_1	60.1	60.1	60.1	CD	NUMBER	60.1	60.1				
+6	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.73_6	73.6	73.6	73.6	CD	NUMBER	73.6	73.6				
+6	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.29_4	29.4	29.4	29.4	CD	NUMBER	29.4	29.4				
+7	0	fb:cell_kharakteristik.kanada	Kanada	kanada	Kanada	NNP	PERSON						
+7	1	fb:cell_jumlah_pengungsi_suriah.25035_0	25035.0	25035.0	25035.0	CD	NUMBER	25035.0	25035.0				
+7	2	fb:cell_jumlah_pengungsi_dari_negara_lain_jumlahnya.15580_0	15580.0	15580.0	15580.0	CD	NUMBER	15580.0	15580.0				
+7	3	fb:cell_sebaran_pengungsi_suriah_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	4	fb:cell_distribusi_pengungsi_dari_negara_lain_persen.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	5	fb:cell_proporsi_pengungsi_suriah_dalam_total_populasi_pengungsi_persen.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+7	6	fb:cell_proporsi_pengungsi_suriah_yang_merupakan_pengungsi_bantuan_pemerintah_persen.52_8	52.8	52.8	52.8	CD	NUMBER	52.8	52.8				
+7	7	fb:cell_proporsi_pengungsi_suriah_yang_diterima_pada_tahun_2015_persen.28_7	28.7	28.7	28.7	CD	NUMBER	28.7	28.7				

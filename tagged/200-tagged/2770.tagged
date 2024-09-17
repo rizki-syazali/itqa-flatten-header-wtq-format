@@ -1,0 +1,337 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.yukon	yukon	yukon	yukon	NNP	O						
+-1	2	fb:row.row.wilayah_barat_laut	wilayah barat laut	wilayah|barat|laut	wilayah|barat|laut	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.nunavut	nunavut	nunavut	nunavut	NNP	O						
+-1	4	fb:row.row.semua_wilayah_laki_laki	semua wilayah laki-laki	semua|wilayah|laki|laki	semua|wilayah|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	5	fb:row.row.semua_wilayah_perempuan	semua wilayah perempuan	semua|wilayah|perempuan	semua|wilayah|perempuan	NN|NN|NN	O|O|O	||					
+-1	6	fb:row.row.total_semua_wilayah	total semua wilayah	total|semua|wilayah	total|semua|wilayah	JJ|NN|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan	persen kepuasan terhadap keamanan pribadi dari kejahatan	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan	JJ|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_yukon.null											
+0	2	fb:cell_wilayah_barat_laut.null											
+0	3	fb:cell_nunavut.null											
+0	4	fb:cell_semua_wilayah_laki_laki.null											
+0	5	fb:cell_semua_wilayah_perempuan.null											
+0	6	fb:cell_total_semua_wilayah.null											
+1	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_diri_dari_kejahatan_sangat_puas	persen kepuasan terhadap keamanan diri dari kejahatan sangat puas	persen|kepuasan|terhadap|keamanan|diri|dari|kejahatan|sangat|puas	persen|kepuasan|terhadap|keamanan|diri|dari|kejahatan|sangat|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_yukon.38_0	38.0	38.0	38.0	CD	NUMBER	38.0	38.0				
+1	2	fb:cell_wilayah_barat_laut.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+1	3	fb:cell_nunavut.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+1	4	fb:cell_semua_wilayah_laki_laki.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+1	5	fb:cell_semua_wilayah_perempuan.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+1	6	fb:cell_total_semua_wilayah.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+2	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_terpenuhi	persen kepuasan terhadap keamanan pribadi dari kejahatan terpenuhi	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|terpenuhi	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|terpenuhi	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_yukon.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+2	2	fb:cell_wilayah_barat_laut.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+2	3	fb:cell_nunavut.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+2	4	fb:cell_semua_wilayah_laki_laki.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+2	5	fb:cell_semua_wilayah_perempuan.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+2	6	fb:cell_total_semua_wilayah.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+3	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_tidak_puas_atau_tidak_puas	persen kepuasan terhadap keamanan pribadi dari kejahatan tidak puas atau tidak puas	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|tidak|puas|atau|tidak|puas	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|tidak|puas|atau|tidak|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+3	1	fb:cell_yukon.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	2	fb:cell_wilayah_barat_laut.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+3	3	fb:cell_nunavut.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	4	fb:cell_semua_wilayah_laki_laki.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+3	5	fb:cell_semua_wilayah_perempuan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+3	6	fb:cell_total_semua_wilayah.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+4	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keselamatan_pribadi_dari_kejahatan_tidak_puas_atau_sangat_tidak_puas	persen kepuasan terhadap keselamatan pribadi dari kejahatan tidak puas atau sangat tidak puas	persen|kepuasan|terhadap|keselamatan|pribadi|dari|kejahatan|tidak|puas|atau|sangat|tidak|puas	persen|kepuasan|terhadap|keselamatan|pribadi|dari|kejahatan|tidak|puas|atau|sangat|tidak|puas	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+4	1	fb:cell_yukon.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+4	2	fb:cell_wilayah_barat_laut.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	3	fb:cell_nunavut.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+4	4	fb:cell_semua_wilayah_laki_laki.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+4	5	fb:cell_semua_wilayah_perempuan.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	6	fb:cell_total_semua_wilayah.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+5	0	fb:cell_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_tidak_ada_pendapat_tidak_tahu_penolakan	persen kepuasan terhadap keamanan pribadi dari kejahatan tidak ada pendapat/tidak tahu/penolakan	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|tidak|ada|pendapat/tidak|tahu/penolakan	persen|kepuasan|terhadap|keamanan|pribadi|dari|kejahatan|tidak|ada|pendapat/tidak|tahu/penolakan	JJ|NN|NN|NNP|NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				persen kepuasan terhadap keamanan pribadi dari kejahatan tidak ada pendapat|tidak tahu|penolakan	fb:part_kharakteristik.persen_kepuasan_terhadap_keamanan_pribadi_dari_kejahatan_tidak_ada_pendapat|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.penolakan
+5	1	fb:cell_yukon.null											
+5	2	fb:cell_wilayah_barat_laut.null											
+5	3	fb:cell_nunavut.null											
+5	4	fb:cell_semua_wilayah_laki_laki.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	5	fb:cell_semua_wilayah_perempuan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	6	fb:cell_total_semua_wilayah.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	0	fb:cell_kharakteristik.persen_dibandingkan_dengan_daerah_lain_di_kanada_menurut_anda_apakah_kejahatan_di_lingkungan_anda_adalah	persen dibandingkan dengan daerah lain di Kanada, menurut Anda apakah kejahatan di lingkungan Anda adalah..	persen|dibandingkan|dengan|daerah|lain|di|kanada|,|menurut|anda|apakah|kejahatan|di|lingkungan|anda|adalah|.|.	persen|dibandingkan|dengan|daerah|lain|di|Kanada|,|menurut|Anda|apakah|kejahatan|di|lingkungan|Anda|adalah|.|.	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||				persen dibandingkan dengan daerah lain di Kanada|menurut Anda apakah kejahatan di lingkungan Anda adalah..	fb:part_kharakteristik.persen_dibandingkan_dengan_daerah_lain_di_kanada|fb:part_kharakteristik.menurut_anda_apakah_kejahatan_di_lingkungan_anda_adalah
+6	1	fb:cell_yukon.null											
+6	2	fb:cell_wilayah_barat_laut.null											
+6	3	fb:cell_nunavut.null											
+6	4	fb:cell_semua_wilayah_laki_laki.null											
+6	5	fb:cell_semua_wilayah_perempuan.null											
+6	6	fb:cell_total_semua_wilayah.null											
+7	0	fb:cell_kharakteristik.persen_dibandingkan_dengan_wilayah_lain_di_kanada_menurut_anda_apakah_kejahatan_di_lingkungan_anda_lebih_tinggi	persen dibandingkan dengan wilayah lain di Kanada, menurut Anda apakah kejahatan di lingkungan Anda.. ... lebih tinggi?	persen|dibandingkan|dengan|wilayah|lain|di|kanada|,|menurut|anda|apakah|kejahatan|di|lingkungan|anda|.|.|...|lebih|tinggi|?	persen|dibandingkan|dengan|wilayah|lain|di|Kanada|,|menurut|Anda|apakah|kejahatan|di|lingkungan|Anda|.|.|...|lebih|tinggi|?	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NNP|NNP|.	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||				persen dibandingkan dengan wilayah lain di Kanada|menurut Anda apakah kejahatan di lingkungan Anda.. ... lebih tinggi?	fb:part_kharakteristik.persen_dibandingkan_dengan_wilayah_lain_di_kanada|fb:part_kharakteristik.menurut_anda_apakah_kejahatan_di_lingkungan_anda_lebih_tinggi
+7	1	fb:cell_yukon.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+7	2	fb:cell_wilayah_barat_laut.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+7	3	fb:cell_nunavut.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+7	4	fb:cell_semua_wilayah_laki_laki.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+7	5	fb:cell_semua_wilayah_perempuan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+7	6	fb:cell_total_semua_wilayah.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+8	0	fb:cell_kharakteristik.persen_dibandingkan_daerah_lain_di_kanada_apakah_menurut_anda_kejahatan_di_lingkungan_anda_hampir_sama	persen dibandingkan daerah lain di Kanada, apakah menurut Anda kejahatan di lingkungan Anda.. ...hampir sama?	persen|dibandingkan|daerah|lain|di|kanada|,|apakah|menurut|anda|kejahatan|di|lingkungan|anda|.|.|...|hampir|sama|?	persen|dibandingkan|daerah|lain|di|Kanada|,|apakah|menurut|Anda|kejahatan|di|lingkungan|Anda|.|.|...|hampir|sama|?	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NNP|NNP|.	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				persen dibandingkan daerah lain di Kanada|apakah menurut Anda kejahatan di lingkungan Anda.. ...hampir sama?	fb:part_kharakteristik.persen_dibandingkan_daerah_lain_di_kanada|fb:part_kharakteristik.apakah_menurut_anda_kejahatan_di_lingkungan_anda_hampir_sama
+8	1	fb:cell_yukon.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+8	2	fb:cell_wilayah_barat_laut.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+8	3	fb:cell_nunavut.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+8	4	fb:cell_semua_wilayah_laki_laki.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+8	5	fb:cell_semua_wilayah_perempuan.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+8	6	fb:cell_total_semua_wilayah.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+9	0	fb:cell_kharakteristik.persen_dibandingkan_dengan_wilayah_lain_di_kanada_menurut_anda_apakah_kejahatan_di_lingkungan_anda_lebih_rendah	persen dibandingkan dengan wilayah lain di Kanada, menurut Anda apakah kejahatan di lingkungan Anda.. ... lebih rendah	persen|dibandingkan|dengan|wilayah|lain|di|kanada|,|menurut|anda|apakah|kejahatan|di|lingkungan|anda|.|.|...|lebih|rendah	persen|dibandingkan|dengan|wilayah|lain|di|Kanada|,|menurut|Anda|apakah|kejahatan|di|lingkungan|Anda|.|.|...|lebih|rendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				persen dibandingkan dengan wilayah lain di Kanada|menurut Anda apakah kejahatan di lingkungan Anda.. ... lebih rendah	fb:part_kharakteristik.persen_dibandingkan_dengan_wilayah_lain_di_kanada|fb:part_kharakteristik.menurut_anda_apakah_kejahatan_di_lingkungan_anda_lebih_rendah
+9	1	fb:cell_yukon.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+9	2	fb:cell_wilayah_barat_laut.64_0	64.0	64.0	64.0	CD	NUMBER	64.0	64.0				
+9	3	fb:cell_nunavut.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+9	4	fb:cell_semua_wilayah_laki_laki.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+9	5	fb:cell_semua_wilayah_perempuan.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+9	6	fb:cell_total_semua_wilayah.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+10	0	fb:cell_kharakteristik.persen_dibandingkan_daerah_lain_di_kanada_menurut_anda_kejahatan_di_lingkungan_anda_adalah_tidak_tahu_penolakan	persen dibandingkan daerah lain di kanada, menurut anda kejahatan di lingkungan anda adalah.. ...tidak tahu/penolakan	persen|dibandingkan|daerah|lain|di|kanada|,|menurut|anda|kejahatan|di|lingkungan|anda|adalah|.|.|...|tidak|tahu/penolakan	persen|dibandingkan|daerah|lain|di|kanada|,|menurut|anda|kejahatan|di|lingkungan|anda|adalah|.|.|...|tidak|tahu/penolakan	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||				persen dibandingkan daerah lain di kanada|menurut anda kejahatan di lingkungan anda adalah.. ...tidak tahu|penolakan	fb:part_kharakteristik.persen_dibandingkan_daerah_lain_di_kanada|fb:part_kharakteristik.menurut_anda_kejahatan_di_lingkungan_anda_adalah_tidak_tahu|fb:part_kharakteristik.penolakan
+10	1	fb:cell_yukon.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+10	2	fb:cell_wilayah_barat_laut.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+10	3	fb:cell_nunavut.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+10	4	fb:cell_semua_wilayah_laki_laki.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+10	5	fb:cell_semua_wilayah_perempuan.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+10	6	fb:cell_total_semua_wilayah.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+11	0	fb:cell_kharakteristik.persen_selama_5_tahun_terakhir_menurut_anda_apakah_kejahatan_di_lingkungan_anda_telah_meningkat	persen selama 5 tahun terakhir, menurut Anda apakah kejahatan di lingkungan Anda telah meningkat..	persen|selama|5|tahun|terakhir|,|menurut|anda|apakah|kejahatan|di|lingkungan|anda|telah|meningkat|.|.	persen|selama|5|tahun|terakhir|,|menurut|anda|apakah|kejahatan|di|lingkungan|Anda|telah|meningkat|.|.	NNP|NNP|CD|NN|NN|,|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|.|.	O|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||5.0||||||||||||||	5.0			persen selama 5 tahun terakhir|menurut Anda apakah kejahatan di lingkungan Anda telah meningkat..	fb:part_kharakteristik.persen_selama_5_tahun_terakhir|fb:part_kharakteristik.menurut_anda_apakah_kejahatan_di_lingkungan_anda_telah_meningkat
+11	1	fb:cell_yukon.null											
+11	2	fb:cell_wilayah_barat_laut.null											
+11	3	fb:cell_nunavut.null											
+11	4	fb:cell_semua_wilayah_laki_laki.null											
+11	5	fb:cell_semua_wilayah_perempuan.null											
+11	6	fb:cell_total_semua_wilayah.null											
+12	0	fb:cell_kharakteristik.persen_selama_5_tahun_terakhir_apakah_menurut_anda_kejahatan_di_lingkungan_anda_telah_meningkat	persen selama 5 tahun terakhir, apakah menurut Anda kejahatan di lingkungan Anda telah.. ...meningkat?	persen|selama|5|tahun|terakhir|,|apakah|menurut|anda|kejahatan|di|lingkungan|anda|telah|.|.|...|meningkat|?	persen|selama|5|tahun|terakhir|,|apakah|menurut|Anda|kejahatan|di|lingkungan|Anda|telah|.|.|...|meningkat|?	NNP|NNP|CD|NN|NN|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NN|.	O|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||5.0||||||||||||||||	5.0			persen selama 5 tahun terakhir|apakah menurut Anda kejahatan di lingkungan Anda telah.. ...meningkat?	fb:part_kharakteristik.persen_selama_5_tahun_terakhir|fb:part_kharakteristik.apakah_menurut_anda_kejahatan_di_lingkungan_anda_telah_meningkat
+12	1	fb:cell_yukon.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+12	2	fb:cell_wilayah_barat_laut.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+12	3	fb:cell_nunavut.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+12	4	fb:cell_semua_wilayah_laki_laki.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+12	5	fb:cell_semua_wilayah_perempuan.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+12	6	fb:cell_total_semua_wilayah.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+13	0	fb:cell_kharakteristik.persen_selama_5_tahun_terakhir_apakah_menurut_anda_kejahatan_di_lingkungan_tempat_tinggal_anda_telah_berkurang	persen selama 5 tahun terakhir, apakah menurut Anda kejahatan di lingkungan tempat tinggal Anda telah.. ...berkurang?	persen|selama|5|tahun|terakhir|,|apakah|menurut|anda|kejahatan|di|lingkungan|tempat|tinggal|anda|telah|.|.|...|berkurang|?	persen|selama|5|tahun|terakhir|,|apakah|menurut|Anda|kejahatan|di|lingkungan|tempat|tinggal|Anda|telah|.|.|...|berkurang|?	NNP|NNP|CD|NN|NN|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NNP|.	O|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||5.0||||||||||||||||||	5.0			persen selama 5 tahun terakhir|apakah menurut Anda kejahatan di lingkungan tempat tinggal Anda telah.. ...berkurang?	fb:part_kharakteristik.persen_selama_5_tahun_terakhir|fb:part_kharakteristik.apakah_menurut_anda_kejahatan_di_lingkungan_tempat_tinggal_anda_telah_berkurang
+13	1	fb:cell_yukon.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+13	2	fb:cell_wilayah_barat_laut.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+13	3	fb:cell_nunavut.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+13	4	fb:cell_semua_wilayah_laki_laki.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+13	5	fb:cell_semua_wilayah_perempuan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+13	6	fb:cell_total_semua_wilayah.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+14	0	fb:cell_kharakteristik.persen_selama_5_tahun_terakhir_apakah_menurut_anda_kejahatan_di_lingkungan_anda_tetap_sama	persen selama 5 tahun terakhir, apakah menurut Anda kejahatan di lingkungan Anda... ... tetap sama	persen|selama|5|tahun|terakhir|,|apakah|menurut|anda|kejahatan|di|lingkungan|anda|...|...|tetap|sama	persen|selama|5|tahun|terakhir|,|apakah|menurut|Anda|kejahatan|di|lingkungan|Anda|...|...|tetap|sama	NNP|NNP|CD|NN|NN|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|:|JJ|NN	O|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||5.0||||||||||||||	5.0			persen selama 5 tahun terakhir|apakah menurut Anda kejahatan di lingkungan Anda... ... tetap sama	fb:part_kharakteristik.persen_selama_5_tahun_terakhir|fb:part_kharakteristik.apakah_menurut_anda_kejahatan_di_lingkungan_anda_tetap_sama
+14	1	fb:cell_yukon.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+14	2	fb:cell_wilayah_barat_laut.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+14	3	fb:cell_nunavut.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+14	4	fb:cell_semua_wilayah_laki_laki.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+14	5	fb:cell_semua_wilayah_perempuan.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+14	6	fb:cell_total_semua_wilayah.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+15	0	fb:cell_kharakteristik.persen_selama_5_tahun_terakhir_apakah_menurut_anda_kejahatan_di_lingkungan_anda_telah_baru_saja_pindah_tidak_cukup_lama_tinggal_di_lingkungan_tersebut_menolak	persen selama 5 tahun terakhir, apakah menurut anda kejahatan di lingkungan anda telah.. ... baru saja pindah/tidak cukup lama tinggal di lingkungan tersebut/menolak	persen|selama|5|tahun|terakhir|,|apakah|menurut|anda|kejahatan|di|lingkungan|anda|telah|.|.|...|baru|saja|pindah/tidak|cukup|lama|tinggal|di|lingkungan|tersebut/menolak	persen|selama|5|tahun|terakhir|,|apakah|menurut|anda|kejahatan|di|lingkungan|anda|telah|.|.|...|baru|saja|pindah/tidak|cukup|lama|tinggal|di|lingkungan|tersebut/menolak	NNP|NNP|CD|NN|NN|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|.|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||5.0|||||||||||||||||||||||	5.0			persen selama 5 tahun terakhir|apakah menurut anda kejahatan di lingkungan anda telah.. ... baru saja pindah|tidak cukup lama tinggal di lingkungan tersebut|menolak	fb:part_kharakteristik.persen_selama_5_tahun_terakhir|fb:part_kharakteristik.apakah_menurut_anda_kejahatan_di_lingkungan_anda_telah_baru_saja_pindah|fb:part_kharakteristik.tidak_cukup_lama_tinggal_di_lingkungan_tersebut|fb:part_kharakteristik.menolak
+15	1	fb:cell_yukon.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+15	2	fb:cell_wilayah_barat_laut.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+15	3	fb:cell_nunavut.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+15	4	fb:cell_semua_wilayah_laki_laki.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+15	5	fb:cell_semua_wilayah_perempuan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+15	6	fb:cell_total_semua_wilayah.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+16	0	fb:cell_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar	persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+16	1	fb:cell_yukon.null											
+16	2	fb:cell_wilayah_barat_laut.null											
+16	3	fb:cell_nunavut.null											
+16	4	fb:cell_semua_wilayah_laki_laki.null											
+16	5	fb:cell_semua_wilayah_perempuan.null											
+16	6	fb:cell_total_semua_wilayah.null											
+17	0	fb:cell_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar_sangat_aman	persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar sangat aman	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|sangat|aman	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|sangat|aman	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+17	1	fb:cell_yukon.54_0	54.0	54.0	54.0	CD	NUMBER	54.0	54.0				
+17	2	fb:cell_wilayah_barat_laut.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+17	3	fb:cell_nunavut.51_0	51.0	51.0	51.0	CD	NUMBER	51.0	51.0				
+17	4	fb:cell_semua_wilayah_laki_laki.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+17	5	fb:cell_semua_wilayah_perempuan.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+17	6	fb:cell_total_semua_wilayah.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+18	0	fb:cell_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar_cukup_aman	persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar cukup aman	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|cukup|aman	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|cukup|aman	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+18	1	fb:cell_yukon.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+18	2	fb:cell_wilayah_barat_laut.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+18	3	fb:cell_nunavut.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+18	4	fb:cell_semua_wilayah_laki_laki.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+18	5	fb:cell_semua_wilayah_perempuan.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+18	6	fb:cell_total_semua_wilayah.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+19	0	fb:cell_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar_agak_tidak_aman_atau_sangat_tidak_aman	persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar agak tidak aman atau sangat tidak aman	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|agak|tidak|aman|atau|sangat|tidak|aman	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|agak|tidak|aman|atau|sangat|tidak|aman	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||					
+19	1	fb:cell_yukon.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+19	2	fb:cell_wilayah_barat_laut.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+19	3	fb:cell_nunavut.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+19	4	fb:cell_semua_wilayah_laki_laki.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+19	5	fb:cell_semua_wilayah_perempuan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+19	6	fb:cell_total_semua_wilayah.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+20	0	fb:cell_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar_tidak_berjalan_sendirian	persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar tidak berjalan sendirian	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|tidak|berjalan|sendirian	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|tidak|berjalan|sendirian	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+20	1	fb:cell_yukon.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+20	2	fb:cell_wilayah_barat_laut.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+20	3	fb:cell_nunavut.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+20	4	fb:cell_semua_wilayah_laki_laki.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+20	5	fb:cell_semua_wilayah_perempuan.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+20	6	fb:cell_total_semua_wilayah.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+21	0	fb:cell_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar_tidak_mengetahui_menolak	persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar tidak mengetahui/menolak	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|tidak|mengetahui/menolak	persen|rasa|aman|saat|berjalan|sendirian|pada|malam|hari|di|lingkungan|sekitar|tidak|mengetahui/menolak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				persen rasa aman saat berjalan sendirian pada malam hari di lingkungan sekitar tidak mengetahui|menolak	fb:part_kharakteristik.persen_rasa_aman_saat_berjalan_sendirian_pada_malam_hari_di_lingkungan_sekitar_tidak_mengetahui|fb:part_kharakteristik.menolak
+21	1	fb:cell_yukon.null											
+21	2	fb:cell_wilayah_barat_laut.null											
+21	3	fb:cell_nunavut.null											
+21	4	fb:cell_semua_wilayah_laki_laki.null											
+21	5	fb:cell_semua_wilayah_perempuan.null											
+21	6	fb:cell_total_semua_wilayah.null											
+22	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar:	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+22	1	fb:cell_yukon.null											
+22	2	fb:cell_wilayah_barat_laut.null											
+22	3	fb:cell_nunavut.null											
+22	4	fb:cell_semua_wilayah_laki_laki.null											
+22	5	fb:cell_semua_wilayah_perempuan.null											
+22	6	fb:cell_total_semua_wilayah.null											
+23	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_tetangga_yang_berisik_atau_pesta_yang_berisik	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: tetangga yang berisik atau pesta yang berisik	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|tetangga|yang|berisik|atau|pesta|yang|berisik	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|tetangga|yang|berisik|atau|pesta|yang|berisik	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+23	1	fb:cell_yukon.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+23	2	fb:cell_wilayah_barat_laut.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+23	3	fb:cell_nunavut.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+23	4	fb:cell_semua_wilayah_laki_laki.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+23	5	fb:cell_semua_wilayah_perempuan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+23	6	fb:cell_total_semua_wilayah.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+24	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_orang_orang_berkeliaran_di_jalanan	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: orang-orang berkeliaran di jalanan	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|orang|berkeliaran|di|jalanan	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|orang|berkeliaran|di|jalanan	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||					
+24	1	fb:cell_yukon.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+24	2	fb:cell_wilayah_barat_laut.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+24	3	fb:cell_nunavut.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+24	4	fb:cell_semua_wilayah_laki_laki.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+24	5	fb:cell_semua_wilayah_perempuan.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+24	6	fb:cell_total_semua_wilayah.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+25	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_sampah_atau_sampah_berserakan	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: sampah atau sampah berserakan	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|sampah|atau|sampah|berserakan	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|sampah|atau|sampah|berserakan	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||					
+25	1	fb:cell_yukon.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+25	2	fb:cell_wilayah_barat_laut.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+25	3	fb:cell_nunavut.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+25	4	fb:cell_semua_wilayah_laki_laki.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+25	5	fb:cell_semua_wilayah_perempuan.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+25	6	fb:cell_total_semua_wilayah.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+26	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_vandalisme_grafiti	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: vandalisme, grafiti	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|vandalisme|,|grafiti	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|vandalisme|,|grafiti	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|,|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||				persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: vandalisme|grafiti	fb:part_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_vandalisme|fb:part_kharakteristik.grafiti
+26	1	fb:cell_yukon.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+26	2	fb:cell_wilayah_barat_laut.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+26	3	fb:cell_nunavut.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+26	4	fb:cell_semua_wilayah_laki_laki.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+26	5	fb:cell_semua_wilayah_perempuan.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+26	6	fb:cell_total_semua_wilayah.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+27	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_orang_diserang_atau_dilecehkan_karena_asal_etnis_atau_agamanya	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: orang diserang atau dilecehkan karena asal etnis atau agamanya	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|diserang|atau|dilecehkan|karena|asal|etnis|atau|agamanya	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|diserang|atau|dilecehkan|karena|asal|etnis|atau|agamanya	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|FW|FW|FW	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||					
+27	1	fb:cell_yukon.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+27	2	fb:cell_wilayah_barat_laut.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+27	3	fb:cell_nunavut.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+27	4	fb:cell_semua_wilayah_laki_laki.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+27	5	fb:cell_semua_wilayah_perempuan.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+27	6	fb:cell_total_semua_wilayah.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+28	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_orang_yang_menggunakan_atau_mengedarkan_narkoba	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: orang yang menggunakan atau mengedarkan narkoba	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|yang|menggunakan|atau|mengedarkan|narkoba	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|yang|menggunakan|atau|mengedarkan|narkoba	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||					
+28	1	fb:cell_yukon.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+28	2	fb:cell_wilayah_barat_laut.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+28	3	fb:cell_nunavut.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+28	4	fb:cell_semua_wilayah_laki_laki.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+28	5	fb:cell_semua_wilayah_perempuan.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+28	6	fb:cell_total_semua_wilayah.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+29	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_orang_mabuk_atau_gaduh_di_tempat_umum	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: orang mabuk atau gaduh di tempat umum	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|mabuk|atau|gaduh|di|tempat|umum	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|orang|mabuk|atau|gaduh|di|tempat|umum	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+29	1	fb:cell_yukon.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+29	2	fb:cell_wilayah_barat_laut.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+29	3	fb:cell_nunavut.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+29	4	fb:cell_semua_wilayah_laki_laki.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+29	5	fb:cell_semua_wilayah_perempuan.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+29	6	fb:cell_total_semua_wilayah.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+30	0	fb:cell_kharakteristik.persen_gangguan_sosial_situasi_berikut_mewakili_masalah_besar_atau_sedang_di_lingkungan_sekitar_setidaknya_satu_dari_situasi_di_atas	persen gangguan sosial - situasi berikut mewakili masalah besar atau sedang di lingkungan sekitar: setidaknya satu dari situasi di atas	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|setidaknya|satu|dari|situasi|di|atas	persen|gangguan|sosial|-|situasi|berikut|mewakili|masalah|besar|atau|sedang|di|lingkungan|sekitar|:|setidaknya|satu|dari|situasi|di|atas	NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||					
+30	1	fb:cell_yukon.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+30	2	fb:cell_wilayah_barat_laut.46_0	46.0	46.0	46.0	CD	NUMBER	46.0	46.0				
+30	3	fb:cell_nunavut.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+30	4	fb:cell_semua_wilayah_laki_laki.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+30	5	fb:cell_semua_wilayah_perempuan.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+30	6	fb:cell_total_semua_wilayah.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+31	0	fb:cell_kharakteristik.persen_mempercayai_orang_orang_di_lingkungan_sekitar	persen mempercayai orang-orang di lingkungan sekitar	persen|mempercayai|orang|orang|di|lingkungan|sekitar	persen|mempercayai|orang|orang|di|lingkungan|sekitar	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+31	1	fb:cell_yukon.null											
+31	2	fb:cell_wilayah_barat_laut.null											
+31	3	fb:cell_nunavut.null											
+31	4	fb:cell_semua_wilayah_laki_laki.null											
+31	5	fb:cell_semua_wilayah_perempuan.null											
+31	6	fb:cell_total_semua_wilayah.null											
+32	0	fb:cell_kharakteristik.persen_kepercayaan_orang_orang_di_lingkungan_sekitar_tidak_dapat_dipercaya	persen kepercayaan orang-orang di lingkungan sekitar tidak dapat dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|tidak|dapat|dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|tidak|dapat|dipercaya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+32	1	fb:cell_yukon.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+32	2	fb:cell_wilayah_barat_laut.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+32	3	fb:cell_nunavut.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+32	4	fb:cell_semua_wilayah_laki_laki.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+32	5	fb:cell_semua_wilayah_perempuan.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+32	6	fb:cell_total_semua_wilayah.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+33	0	fb:cell_kharakteristik.persen_kepercayaan_orang_orang_di_lingkungan_sekitar_bisa_dipercaya	persen kepercayaan orang-orang di lingkungan sekitar bisa dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|bisa|dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|bisa|dipercaya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+33	1	fb:cell_yukon.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+33	2	fb:cell_wilayah_barat_laut.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+33	3	fb:cell_nunavut.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+33	4	fb:cell_semua_wilayah_laki_laki.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+33	5	fb:cell_semua_wilayah_perempuan.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+33	6	fb:cell_total_semua_wilayah.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+34	0	fb:cell_kharakteristik.persen_kepercayaan_orang_orang_di_lingkungan_sekitar_dapat_dipercaya	persen kepercayaan orang-orang di lingkungan sekitar dapat dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|dapat|dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|dapat|dipercaya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+34	1	fb:cell_yukon.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+34	2	fb:cell_wilayah_barat_laut.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+34	3	fb:cell_nunavut.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+34	4	fb:cell_semua_wilayah_laki_laki.34_0	34.0	34.0	34.0	CD	NUMBER	34.0	34.0				
+34	5	fb:cell_semua_wilayah_perempuan.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+34	6	fb:cell_total_semua_wilayah.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+35	0	fb:cell_kharakteristik.persen_kepercayaan_orang_orang_di_lingkungan_sekitar_bisa_sangat_dipercaya	persen kepercayaan orang-orang di lingkungan sekitar bisa sangat dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|bisa|sangat|dipercaya	persen|kepercayaan|orang|orang|di|lingkungan|sekitar|bisa|sangat|dipercaya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+35	1	fb:cell_yukon.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+35	2	fb:cell_wilayah_barat_laut.21_0	21.0	21.0	21.0	CD	NUMBER	21.0	21.0				
+35	3	fb:cell_nunavut.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+35	4	fb:cell_semua_wilayah_laki_laki.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+35	5	fb:cell_semua_wilayah_perempuan.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+35	6	fb:cell_total_semua_wilayah.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+36	0	fb:cell_kharakteristik.persen_percaya_masyarakat_sekitar_tidak_berpendapat_tidak_tahu_menolak	persen percaya masyarakat sekitar tidak berpendapat/tidak tahu/menolak	persen|percaya|masyarakat|sekitar|tidak|berpendapat/tidak|tahu/menolak	persen|percaya|masyarakat|sekitar|tidak|berpendapat/tidak|tahu/menolak	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||				persen percaya masyarakat sekitar tidak berpendapat|tidak tahu|menolak	fb:part_kharakteristik.persen_percaya_masyarakat_sekitar_tidak_berpendapat|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.menolak
+36	1	fb:cell_yukon.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+36	2	fb:cell_wilayah_barat_laut.null											
+36	3	fb:cell_nunavut.null											
+36	4	fb:cell_semua_wilayah_laki_laki.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+36	5	fb:cell_semua_wilayah_perempuan.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+36	6	fb:cell_total_semua_wilayah.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+37	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal	persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+37	1	fb:cell_yukon.null											
+37	2	fb:cell_wilayah_barat_laut.null											
+37	3	fb:cell_nunavut.null											
+37	4	fb:cell_semua_wilayah_laki_laki.null											
+37	5	fb:cell_semua_wilayah_perempuan.null											
+37	6	fb:cell_total_semua_wilayah.null											
+38	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal	persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+38	1	fb:cell_yukon.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+38	2	fb:cell_wilayah_barat_laut.61_0	61.0	61.0	61.0	CD	NUMBER	61.0	61.0				
+38	3	fb:cell_nunavut.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+38	4	fb:cell_semua_wilayah_laki_laki.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+38	5	fb:cell_semua_wilayah_perempuan.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+38	6	fb:cell_total_semua_wilayah.56_0	56.0	56.0	56.0	CD	NUMBER	56.0	56.0				
+39	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampaknya_merupakan_perilaku_kriminal	persen kemungkinan tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampaknya merupakan perilaku kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampaknya|merupakan|perilaku|kriminal	persen|kemungkinan|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampaknya|merupakan|perilaku|kriminal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+39	1	fb:cell_yukon.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+39	2	fb:cell_wilayah_barat_laut.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+39	3	fb:cell_nunavut.35_0	35.0	35.0	35.0	CD	NUMBER	35.0	35.0				
+39	4	fb:cell_semua_wilayah_laki_laki.29_0	29.0	29.0	29.0	CD	NUMBER	29.0	29.0				
+39	5	fb:cell_semua_wilayah_perempuan.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+39	6	fb:cell_total_semua_wilayah.28_0	28.0	28.0	28.0	CD	NUMBER	28.0	28.0				
+40	0	fb:cell_kharakteristik.persen_kemungkinan_bahwa_tetangga_akan_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_perilaku_kriminal_yang_agak_tidak_mungkin_atau_tidak_mungkin_terjadi	persen kemungkinan bahwa tetangga akan memanggil polisi jika menyaksikan sesuatu yang tampak seperti perilaku kriminal yang agak tidak mungkin atau tidak mungkin terjadi	persen|kemungkinan|bahwa|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal|yang|agak|tidak|mungkin|atau|tidak|mungkin|terjadi	persen|kemungkinan|bahwa|tetangga|akan|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|perilaku|kriminal|yang|agak|tidak|mungkin|atau|tidak|mungkin|terjadi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+40	1	fb:cell_yukon.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+40	2	fb:cell_wilayah_barat_laut.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+40	3	fb:cell_nunavut.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+40	4	fb:cell_semua_wilayah_laki_laki.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+40	5	fb:cell_semua_wilayah_perempuan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+40	6	fb:cell_total_semua_wilayah.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+41	0	fb:cell_kharakteristik.persen_kemungkinan_tetangga_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_tindakan_kriminal_tidak_ada_pendapat_tidak_tahu_penolakan	persen kemungkinan tetangga memanggil polisi jika menyaksikan sesuatu yang tampak seperti tindakan kriminal tidak ada pendapat/tidak tahu/penolakan	persen|kemungkinan|tetangga|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|tindakan|kriminal|tidak|ada|pendapat/tidak|tahu/penolakan	persen|kemungkinan|tetangga|memanggil|polisi|jika|menyaksikan|sesuatu|yang|tampak|seperti|tindakan|kriminal|tidak|ada|pendapat/tidak|tahu/penolakan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||				persen kemungkinan tetangga memanggil polisi jika menyaksikan sesuatu yang tampak seperti tindakan kriminal tidak ada pendapat|tidak tahu|penolakan	fb:part_kharakteristik.persen_kemungkinan_tetangga_memanggil_polisi_jika_menyaksikan_sesuatu_yang_tampak_seperti_tindakan_kriminal_tidak_ada_pendapat|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.penolakan
+41	1	fb:cell_yukon.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+41	2	fb:cell_wilayah_barat_laut.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+41	3	fb:cell_nunavut.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+41	4	fb:cell_semua_wilayah_laki_laki.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+41	5	fb:cell_semua_wilayah_perempuan.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+41	6	fb:cell_total_semua_wilayah.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+42	0	fb:cell_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_setempat	persen rasa memiliki terhadap masyarakat setempat	persen|rasa|memiliki|terhadap|masyarakat|setempat	persen|rasa|memiliki|terhadap|masyarakat|setempat	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+42	1	fb:cell_yukon.null											
+42	2	fb:cell_wilayah_barat_laut.null											
+42	3	fb:cell_nunavut.null											
+42	4	fb:cell_semua_wilayah_laki_laki.null											
+42	5	fb:cell_semua_wilayah_perempuan.null											
+42	6	fb:cell_total_semua_wilayah.null											
+43	0	fb:cell_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_setempat_sangat_kuat	persen rasa memiliki terhadap masyarakat setempat sangat kuat	persen|rasa|memiliki|terhadap|masyarakat|setempat|sangat|kuat	persen|rasa|memiliki|terhadap|masyarakat|setempat|sangat|kuat	JJ|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+43	1	fb:cell_yukon.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+43	2	fb:cell_wilayah_barat_laut.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+43	3	fb:cell_nunavut.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+43	4	fb:cell_semua_wilayah_laki_laki.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+43	5	fb:cell_semua_wilayah_perempuan.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+43	6	fb:cell_total_semua_wilayah.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+44	0	fb:cell_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_lokal_agak_kuat	persen rasa memiliki terhadap masyarakat lokal agak kuat	persen|rasa|memiliki|terhadap|masyarakat|lokal|agak|kuat	persen|rasa|memiliki|terhadap|masyarakat|lokal|agak|kuat	JJ|NN|NN|NN|NN|JJ|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+44	1	fb:cell_yukon.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+44	2	fb:cell_wilayah_barat_laut.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+44	3	fb:cell_nunavut.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+44	4	fb:cell_semua_wilayah_laki_laki.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+44	5	fb:cell_semua_wilayah_perempuan.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+44	6	fb:cell_total_semua_wilayah.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+45	0	fb:cell_kharakteristik.persen_rasa_memiliki_masyarakat_lokal_agak_lemah_atau_sangat_lemah	persen rasa memiliki masyarakat lokal agak lemah atau sangat lemah	persen|rasa|memiliki|masyarakat|lokal|agak|lemah|atau|sangat|lemah	persen|rasa|memiliki|masyarakat|lokal|agak|lemah|atau|sangat|lemah	JJ|NN|NN|NN|JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+45	1	fb:cell_yukon.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+45	2	fb:cell_wilayah_barat_laut.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+45	3	fb:cell_nunavut.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+45	4	fb:cell_semua_wilayah_laki_laki.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+45	5	fb:cell_semua_wilayah_perempuan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+45	6	fb:cell_total_semua_wilayah.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+46	0	fb:cell_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_setempat_tidak_ada_pendapat_tidak_tahu_penolakan	persen rasa memiliki terhadap masyarakat setempat tidak ada pendapat/tidak tahu/penolakan	persen|rasa|memiliki|terhadap|masyarakat|setempat|tidak|ada|pendapat/tidak|tahu/penolakan	persen|rasa|memiliki|terhadap|masyarakat|setempat|tidak|ada|pendapat/tidak|tahu/penolakan	JJ|NN|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O	|||||||||				persen rasa memiliki terhadap masyarakat setempat tidak ada pendapat|tidak tahu|penolakan	fb:part_kharakteristik.persen_rasa_memiliki_terhadap_masyarakat_setempat_tidak_ada_pendapat|fb:part_kharakteristik.tidak_tahu|fb:part_kharakteristik.penolakan
+46	1	fb:cell_yukon.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+46	2	fb:cell_wilayah_barat_laut.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+46	3	fb:cell_nunavut.null											
+46	4	fb:cell_semua_wilayah_laki_laki.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+46	5	fb:cell_semua_wilayah_perempuan.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+46	6	fb:cell_total_semua_wilayah.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				

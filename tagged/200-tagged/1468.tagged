@@ -1,0 +1,57 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_tanggapan_tunggal	nomor tanggapan tunggal	nomor|tanggapan|tunggal	nomor|tanggapan|tunggal	NN|NN|NN	O|O|O	||					
+-1	2	fb:row.row.persentase_tanggapan_tunggal	persentase tanggapan tunggal	persentase|tanggapan|tunggal	persentase|tanggapan|tunggal	NN|NN|NN	O|O|O	||					
+-1	3	fb:row.row.beberapa_nomor_tanggapan	beberapa nomor tanggapan	beberapa|nomor|tanggapan	beberapa|nomor|tanggapan	NN|NN|NN	O|O|O	||					
+-1	4	fb:row.row.persentase_tanggapan_ganda	persentase tanggapan ganda	persentase|tanggapan|ganda	persentase|tanggapan|ganda	NN|NN|NNP	O|O|O	||					
+-1	5	fb:row.row.jumlah_total	jumlah total	jumlah|total	jumlah|total	NNP|NNP	O|O	|					
+-1	6	fb:row.row.persentase_total	persentase total	persentase|total	persentase|total	NN|NN	O|O	|					
+0	0	fb:cell_kharakteristik.bahasa_resmi	bahasa resmi	bahasa|resmi	bahasa|resmi	NNP|NNP	O|O	|					
+0	1	fb:cell_nomor_tanggapan_tunggal.26627555_0	26627555.0	26627555.0	26627555.0	CD	NUMBER	2.6627555E7	2.6627555E7				
+0	2	fb:cell_persentase_tanggapan_tunggal.97_0	97.0	97.0	97.0	CD	NUMBER	97.0	97.0				
+0	3	fb:cell_beberapa_nomor_tanggapan.818635_0	818635.0	818635.0	818635.0	CD	NUMBER	818635.0	818635.0				
+0	4	fb:cell_persentase_tanggapan_ganda.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+0	5	fb:cell_jumlah_total.27446190_0	27446190.0	27446190.0	27446190.0	CD	NUMBER	2.744619E7	2.744619E7				
+0	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.bahasa_resmi_bahasa_inggris	bahasa resmi bahasa inggris	bahasa|resmi|bahasa|inggris	bahasa|resmi|bahasa|inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_nomor_tanggapan_tunggal.19460850_0	19460850.0	19460850.0	19460850.0	CD	NUMBER	1.946085E7	1.946085E7				
+1	2	fb:cell_persentase_tanggapan_tunggal.96_4	96.4	96.4	96.4	CD	NUMBER	96.4	96.4				
+1	3	fb:cell_beberapa_nomor_tanggapan.732485_0	732485.0	732485.0	732485.0	CD	NUMBER	732485.0	732485.0				
+1	4	fb:cell_persentase_tanggapan_ganda.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+1	5	fb:cell_jumlah_total.20193335_0	20193335.0	20193335.0	20193335.0	CD	NUMBER	2.0193335E7	2.0193335E7				
+1	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	0	fb:cell_kharakteristik.bahasa_resmi_perancis	bahasa resmi perancis	bahasa|resmi|perancis	bahasa|resmi|perancis	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_nomor_tanggapan_tunggal.7166705_0	7166705.0	7166705.0	7166705.0	CD	NUMBER	7166705.0	7166705.0				
+2	2	fb:cell_persentase_tanggapan_tunggal.96_2	96.2	96.2	96.2	CD	NUMBER	96.2	96.2				
+2	3	fb:cell_beberapa_nomor_tanggapan.285375_0	285375.0	285375.0	285375.0	CD	NUMBER	285375.0	285375.0				
+2	4	fb:cell_persentase_tanggapan_ganda.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+2	5	fb:cell_jumlah_total.7452075_0	7452075.0	7452075.0	7452075.0	CD	NUMBER	7452075.0	7452075.0				
+2	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+3	0	fb:cell_kharakteristik.bahasa_non_resmi	bahasa non-resmi	bahasa|non|resmi	bahasa|non|resmi	NNP|JJ|NN	O|O|O	||					
+3	1	fb:cell_nomor_tanggapan_tunggal.7321065_0	7321065.0	7321065.0	7321065.0	CD	NUMBER	7321065.0	7321065.0				
+3	2	fb:cell_persentase_tanggapan_tunggal.91_8	91.8	91.8	91.8	CD	NUMBER	91.8	91.8				
+3	3	fb:cell_beberapa_nomor_tanggapan.653310_0	653310.0	653310.0	653310.0	CD	NUMBER	653310.0	653310.0				
+3	4	fb:cell_persentase_tanggapan_ganda.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+3	5	fb:cell_jumlah_total.7974375_0	7974375.0	7974375.0	7974375.0	CD	NUMBER	7974375.0	7974375.0				
+3	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+4	0	fb:cell_kharakteristik.bahasa_non_resmi_bahasa_daerah	bahasa non-resmi bahasa daerah	bahasa|non|resmi|bahasa|daerah	bahasa|non|resmi|bahasa|daerah	NNP|JJ|NN|NN|VBP	O|O|O|O|O	||||					
+4	1	fb:cell_nomor_tanggapan_tunggal.195700_0	195700.0	195700.0	195700.0	CD	NUMBER	195700.0	195700.0				
+4	2	fb:cell_persentase_tanggapan_tunggal.91_8	91.8	91.8	91.8	CD	NUMBER	91.8	91.8				
+4	3	fb:cell_beberapa_nomor_tanggapan.17530_0	17530.0	17530.0	17530.0	CD	NUMBER	17530.0	17530.0				
+4	4	fb:cell_persentase_tanggapan_ganda.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+4	5	fb:cell_jumlah_total.213230_0	213230.0	213230.0	213230.0	CD	NUMBER	213230.0	213230.0				
+4	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+5	0	fb:cell_kharakteristik.bahasa_non_resmi_bahasa_non_pribumi	bahasa non-resmi bahasa non-pribumi	bahasa|non|resmi|bahasa|non|pribumi	bahasa|non|resmi|bahasa|non|pribumi	NNP|JJ|NN|NN|JJ|NN	O|O|O|O|O|O	|||||					
+5	1	fb:cell_nomor_tanggapan_tunggal.7125365_0	7125365.0	7125365.0	7125365.0	CD	NUMBER	7125365.0	7125365.0				
+5	2	fb:cell_persentase_tanggapan_tunggal.91_8	91.8	91.8	91.8	CD	NUMBER	91.8	91.8				
+5	3	fb:cell_beberapa_nomor_tanggapan.635785_0	635785.0	635785.0	635785.0	CD	NUMBER	635785.0	635785.0				
+5	4	fb:cell_persentase_tanggapan_ganda.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+5	5	fb:cell_jumlah_total.7761150_0	7761150.0	7761150.0	7761150.0	CD	NUMBER	7761150.0	7761150.0				
+5	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+6	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+6	1	fb:cell_nomor_tanggapan_tunggal.33948620_0	33948620.0	33948620.0	33948620.0	CD	NUMBER	3.394862E7	3.394862E7				
+6	2	fb:cell_persentase_tanggapan_tunggal.97_6	97.6	97.6	97.6	CD	NUMBER	97.6	97.6				
+6	3	fb:cell_beberapa_nomor_tanggapan.818635_0	818635.0	818635.0	818635.0	CD	NUMBER	818635.0	818635.0				
+6	4	fb:cell_persentase_tanggapan_ganda.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+6	5	fb:cell_jumlah_total.34767250_0	34767250.0	34767250.0	34767250.0	CD	NUMBER	3.476725E7	3.476725E7				
+6	6	fb:cell_persentase_total.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

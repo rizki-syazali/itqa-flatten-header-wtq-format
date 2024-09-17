@@ -1,0 +1,141 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.000	000'	000|'	000|'	CD|''	NUMBER|O	0.0|					
+-1	2	fb:row.row.null	%	%	%	NN	O						
+-1	3	fb:row.row.interval_kepercayaan_95_dari	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	4	fb:row.row.interval_kepercayaan_95_sampai	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.total_berusia_15_hingga_24_tahun	total, berusia 15 hingga 24 tahun	total|,|berusia|15|hingga|24|tahun	total|,|berusia|15|hingga|24|tahun	NN|,|NNP|CD|NNP|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||15.0||24.0|	15.0		24.0	total|berusia 15 hingga 24 tahun	fb:part_kharakteristik.total|fb:part_kharakteristik.berusia_15_hingga_24_tahun
+0	1	fb:cell_000.110_6	110.6	110.6	110.6	CD	NUMBER	110.6	110.6				
+0	2	fb:cell_null.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+0	3	fb:cell_interval_kepercayaan_95_dari.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+0	4	fb:cell_interval_kepercayaan_95_sampai.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+1	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+1	1	fb:cell_000.null											
+1	2	fb:cell_null.null											
+1	3	fb:cell_interval_kepercayaan_95_dari.null											
+1	4	fb:cell_interval_kepercayaan_95_sampai.null											
+2	0	fb:cell_kharakteristik.kelompok_umur_15_hingga_17_tahun	kelompok umur 15 hingga 17 tahun	kelompok|umur|15|hingga|17|tahun	kelompok|umur|15|hingga|17|tahun	NNP|NNP|CD|NNP|CD|NN	O|O|NUMBER|O|NUMBER|O	||15.0||17.0|	15.0		17.0		
+2	1	fb:cell_000.12_6	12.6	12.6	12.6	CD	NUMBER	12.6	12.6				
+2	2	fb:cell_null.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+2	3	fb:cell_interval_kepercayaan_95_dari.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+2	4	fb:cell_interval_kepercayaan_95_sampai.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+3	0	fb:cell_kharakteristik.kelompok_usia_18_hingga_19_tahun	kelompok usia 18 hingga 19 tahun	kelompok|usia|18|hingga|19|tahun	kelompok|usia|18|hingga|19|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||18.0||19.0|	18.0		19.0		
+3	1	fb:cell_000.27_2	27.2	27.2	27.2	CD	NUMBER	27.2	27.2				
+3	2	fb:cell_null.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+3	3	fb:cell_interval_kepercayaan_95_dari.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+3	4	fb:cell_interval_kepercayaan_95_sampai.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+4	0	fb:cell_kharakteristik.kelompok_usia_20_hingga_24_tahun	kelompok usia 20 hingga 24 tahun	kelompok|usia|20|hingga|24|tahun	kelompok|usia|20|hingga|24|tahun	NNP|NNP|CD|NN|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||20.0||24.0|	20.0		24.0		
+4	1	fb:cell_000.70_8	70.8	70.8	70.8	CD	NUMBER	70.8	70.8				
+4	2	fb:cell_null.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+4	3	fb:cell_interval_kepercayaan_95_dari.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+4	4	fb:cell_interval_kepercayaan_95_sampai.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+5	0	fb:cell_kharakteristik.provinsi_atau_wilayah	provinsi atau wilayah	provinsi|atau|wilayah	provinsi|atau|wilayah	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_000.null											
+5	2	fb:cell_null.null											
+5	3	fb:cell_interval_kepercayaan_95_dari.null											
+5	4	fb:cell_interval_kepercayaan_95_sampai.null											
+6	0	fb:cell_kharakteristik.provinsi_atau_wilayah_newfoundland_dan_labrador	provinsi atau wilayah newfoundland dan labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+6	1	fb:cell_000.null											
+6	2	fb:cell_null.null											
+6	3	fb:cell_interval_kepercayaan_95_dari.null											
+6	4	fb:cell_interval_kepercayaan_95_sampai.null											
+7	0	fb:cell_kharakteristik.provinsi_atau_wilayah_pulau_pangeran_edward	provinsi atau wilayah pulau pangeran edward	provinsi|atau|wilayah|pulau|pangeran|edward	provinsi|atau|wilayah|pulau|pangeran|edward	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+7	1	fb:cell_000.null											
+7	2	fb:cell_null.null											
+7	3	fb:cell_interval_kepercayaan_95_dari.null											
+7	4	fb:cell_interval_kepercayaan_95_sampai.null											
+8	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nova_scotia	provinsi atau wilayah nova scotia	provinsi|atau|wilayah|nova|scotia	provinsi|atau|wilayah|nova|scotia	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+8	1	fb:cell_000.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+8	2	fb:cell_null.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+8	3	fb:cell_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+8	4	fb:cell_interval_kepercayaan_95_sampai.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+9	0	fb:cell_kharakteristik.provinsi_atau_wilayah_brunswick_baru	provinsi atau wilayah brunswick baru	provinsi|atau|wilayah|brunswick|baru	provinsi|atau|wilayah|brunswick|baru	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+9	1	fb:cell_000.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+9	2	fb:cell_null.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+9	3	fb:cell_interval_kepercayaan_95_dari.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+9	4	fb:cell_interval_kepercayaan_95_sampai.27_5	27.5	27.5	27.5	CD	NUMBER	27.5	27.5				
+10	0	fb:cell_kharakteristik.provinsi_atau_wilayah_quebec	provinsi atau wilayah quebec	provinsi|atau|wilayah|quebec	provinsi|atau|wilayah|quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+10	1	fb:cell_000.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+10	2	fb:cell_null.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+10	3	fb:cell_interval_kepercayaan_95_dari.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+10	4	fb:cell_interval_kepercayaan_95_sampai.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+11	0	fb:cell_kharakteristik.provinsi_atau_wilayah_ontario	provinsi atau wilayah ontario	provinsi|atau|wilayah|ontario	provinsi|atau|wilayah|ontario	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_000.43_5	43.5	43.5	43.5	CD	NUMBER	43.5	43.5				
+11	2	fb:cell_null.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+11	3	fb:cell_interval_kepercayaan_95_dari.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+11	4	fb:cell_interval_kepercayaan_95_sampai.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+12	0	fb:cell_kharakteristik.provinsi_atau_wilayah_manitoba	provinsi atau wilayah manitoba	provinsi|atau|wilayah|manitoba	provinsi|atau|wilayah|manitoba	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_000.null											
+12	2	fb:cell_null.null											
+12	3	fb:cell_interval_kepercayaan_95_dari.null											
+12	4	fb:cell_interval_kepercayaan_95_sampai.null											
+13	0	fb:cell_kharakteristik.provinsi_atau_wilayah_saskatchewan	provinsi atau wilayah saskatchewan	provinsi|atau|wilayah|saskatchewan	provinsi|atau|wilayah|saskatchewan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+13	1	fb:cell_000.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+13	2	fb:cell_null.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+13	3	fb:cell_interval_kepercayaan_95_dari.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+13	4	fb:cell_interval_kepercayaan_95_sampai.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+14	0	fb:cell_kharakteristik.provinsi_atau_wilayah_alberta	provinsi atau wilayah alberta	provinsi|atau|wilayah|alberta	provinsi|atau|wilayah|alberta	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+14	1	fb:cell_000.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+14	2	fb:cell_null.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+14	3	fb:cell_interval_kepercayaan_95_dari.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+14	4	fb:cell_interval_kepercayaan_95_sampai.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+15	0	fb:cell_kharakteristik.provinsi_atau_wilayah_columbia_inggris	provinsi atau wilayah columbia inggris	provinsi|atau|wilayah|columbia|inggris	provinsi|atau|wilayah|columbia|inggris	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_000.14_4	14.4	14.4	14.4	CD	NUMBER	14.4	14.4				
+15	2	fb:cell_null.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+15	3	fb:cell_interval_kepercayaan_95_dari.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+15	4	fb:cell_interval_kepercayaan_95_sampai.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+16	0	fb:cell_kharakteristik.provinsi_atau_wilayah_yukon	provinsi atau wilayah yukon	provinsi|atau|wilayah|yukon	provinsi|atau|wilayah|yukon	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_000.null											
+16	2	fb:cell_null.null											
+16	3	fb:cell_interval_kepercayaan_95_dari.null											
+16	4	fb:cell_interval_kepercayaan_95_sampai.null											
+17	0	fb:cell_kharakteristik.provinsi_atau_wilayah_wilayah_barat_laut	provinsi atau wilayah wilayah barat laut	provinsi|atau|wilayah|wilayah|barat|laut	provinsi|atau|wilayah|wilayah|barat|laut	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+17	1	fb:cell_000.null											
+17	2	fb:cell_null.null											
+17	3	fb:cell_interval_kepercayaan_95_dari.null											
+17	4	fb:cell_interval_kepercayaan_95_sampai.null											
+18	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nunavut	provinsi atau wilayah nunavut	provinsi|atau|wilayah|nunavut	provinsi|atau|wilayah|nunavut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+18	1	fb:cell_000.null											
+18	2	fb:cell_null.null											
+18	3	fb:cell_interval_kepercayaan_95_dari.null											
+18	4	fb:cell_interval_kepercayaan_95_sampai.null											
+19	0	fb:cell_kharakteristik.jumlah_mitra_pada_tahun_lalu	jumlah mitra pada tahun lalu	jumlah|mitra|pada|tahun|lalu	jumlah|mitra|pada|tahun|lalu	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+19	1	fb:cell_000.null											
+19	2	fb:cell_null.null											
+19	3	fb:cell_interval_kepercayaan_95_dari.null											
+19	4	fb:cell_interval_kepercayaan_95_sampai.null											
+20	0	fb:cell_kharakteristik.jumlah_mitra_dalam_satu_tahun_terakhir	jumlah mitra dalam satu tahun terakhir	jumlah|mitra|dalam|satu|tahun|terakhir	jumlah|mitra|dalam|satu|tahun|terakhir	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_000.58_5	58.5	58.5	58.5	CD	NUMBER	58.5	58.5				
+20	2	fb:cell_null.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+20	3	fb:cell_interval_kepercayaan_95_dari.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+20	4	fb:cell_interval_kepercayaan_95_sampai.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+21	0	fb:cell_kharakteristik.jumlah_mitra_dalam_beberapa_tahun_terakhir	jumlah mitra dalam beberapa tahun terakhir	jumlah|mitra|dalam|beberapa|tahun|terakhir	jumlah|mitra|dalam|beberapa|tahun|terakhir	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+21	1	fb:cell_000.51_5	51.5	51.5	51.5	CD	NUMBER	51.5	51.5				
+21	2	fb:cell_null.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+21	3	fb:cell_interval_kepercayaan_95_dari.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+21	4	fb:cell_interval_kepercayaan_95_sampai.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+22	0	fb:cell_kharakteristik.menggunakan_beberapa_metode_kontrasepsi_atau_kondom_terakhir_kali_mereka_berhubungan_seks	menggunakan beberapa metode kontrasepsi atau kondom terakhir kali mereka berhubungan seks	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks	NN|NN|NN|NN|NN|NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+22	1	fb:cell_000.null											
+22	2	fb:cell_null.null											
+22	3	fb:cell_interval_kepercayaan_95_dari.null											
+22	4	fb:cell_interval_kepercayaan_95_sampai.null											
+23	0	fb:cell_kharakteristik.menggunakan_beberapa_metode_kontrasepsi_atau_kondom_terakhir_kali_mereka_berhubungan_seks_dengan_penggunaan_ganda	menggunakan beberapa metode kontrasepsi atau kondom terakhir kali mereka berhubungan seks dengan penggunaan ganda	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks|dengan|penggunaan|ganda	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks|dengan|penggunaan|ganda	NN|NN|NN|NN|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+23	1	fb:cell_000.28_4	28.4	28.4	28.4	CD	NUMBER	28.4	28.4				
+23	2	fb:cell_null.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+23	3	fb:cell_interval_kepercayaan_95_dari.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+23	4	fb:cell_interval_kepercayaan_95_sampai.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+24	0	fb:cell_kharakteristik.menggunakan_beberapa_metode_kontrasepsi_atau_kondom_terakhir_kali_mereka_berhubungan_seks_hanya_dengan_kondom	menggunakan beberapa metode kontrasepsi atau kondom terakhir kali mereka berhubungan seks hanya dengan kondom	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks|hanya|dengan|kondom	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks|hanya|dengan|kondom	NN|NN|NN|NN|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+24	1	fb:cell_000.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+24	2	fb:cell_null.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+24	3	fb:cell_interval_kepercayaan_95_dari.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+24	4	fb:cell_interval_kepercayaan_95_sampai.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				
+25	0	fb:cell_kharakteristik.menggunakan_beberapa_metode_kontrasepsi_atau_kondom_saat_terakhir_kali_mereka_berhubungan_seks_dengan_metode_lain	menggunakan beberapa metode kontrasepsi atau kondom saat terakhir kali mereka berhubungan seks dengan metode lain	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|saat|terakhir|kali|mereka|berhubungan|seks|dengan|metode|lain	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|saat|terakhir|kali|mereka|berhubungan|seks|dengan|metode|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+25	1	fb:cell_000.40_3	40.3	40.3	40.3	CD	NUMBER	40.3	40.3				
+25	2	fb:cell_null.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+25	3	fb:cell_interval_kepercayaan_95_dari.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+25	4	fb:cell_interval_kepercayaan_95_sampai.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+26	0	fb:cell_kharakteristik.menggunakan_beberapa_metode_kontrasepsi_atau_kondom_terakhir_kali_mereka_berhubungan_seks_tanpa_kontrasepsi_atau_kondom	menggunakan beberapa metode kontrasepsi atau kondom terakhir kali mereka berhubungan seks tanpa kontrasepsi atau kondom	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks|tanpa|kontrasepsi|atau|kondom	menggunakan|beberapa|metode|kontrasepsi|atau|kondom|terakhir|kali|mereka|berhubungan|seks|tanpa|kontrasepsi|atau|kondom	NN|NN|NN|NN|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+26	1	fb:cell_000.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+26	2	fb:cell_null.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+26	3	fb:cell_interval_kepercayaan_95_dari.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+26	4	fb:cell_interval_kepercayaan_95_sampai.14_3	14.3	14.3	14.3	CD	NUMBER	14.3	14.3				

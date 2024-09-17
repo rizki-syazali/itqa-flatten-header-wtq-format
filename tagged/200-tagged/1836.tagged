@@ -1,0 +1,45 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persen_kanada	persen Kanada	persen|kanada	persen|Kanada	NNP|NNP	O|O	|					
+-1	2	fb:row.row.persen_amerika_serikat	persen Amerika Serikat	persen|amerika|serikat	persen|Amerika|Serikat	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.poin_persentase_perbedaan_amerika_serikat_dan_kanada	poin persentase perbedaan Amerika Serikat dan Kanada	poin|persentase|perbedaan|amerika|serikat|dan|kanada	poin|persentase|perbedaan|Amerika|Serikat|dan|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|PERSON|PERSON	||||||					
+0	0	fb:cell_kharakteristik.laki_laki	laki-laki	laki|laki	laki|laki	NNP|NNP	PERSON|PERSON	|					
+0	1	fb:cell_persen_kanada.null											
+0	2	fb:cell_persen_amerika_serikat.null											
+0	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada.null											
+1	0	fb:cell_kharakteristik.laki_laki_berpendidikan_sekolah_menengah_atas_atau_kurang	laki-laki berpendidikan sekolah menengah atas atau kurang	laki|laki|berpendidikan|sekolah|menengah|atas|atau|kurang	laki|laki|berpendidikan|sekolah|menengah|atas|atau|kurang	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_persen_kanada.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+1	2	fb:cell_persen_amerika_serikat._6_4	-6.4	-6.4	-6.4	CD	NUMBER	-6.4	6.4				
+1	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._7_1	-7.1	-7.1	-7.1	CD	NUMBER	-7.1	7.1				
+2	0	fb:cell_kharakteristik.laki_laki_yang_berpendidikan_pasca_sekolah_menengah_di_bawah_gelar_sarjana	laki-laki yang berpendidikan pasca sekolah menengah di bawah gelar sarjana	laki|laki|yang|berpendidikan|pasca|sekolah|menengah|di|bawah|gelar|sarjana	laki|laki|yang|berpendidikan|pasca|sekolah|menengah|di|bawah|gelar|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|O|O|O|O|O|O|O	||||||||||					
+2	1	fb:cell_persen_kanada.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+2	2	fb:cell_persen_amerika_serikat._9_4	-9.4	-9.4	-9.4	CD	NUMBER	-9.4	9.4				
+2	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._15_2	-15.2	-15.2	-15.2	CD	NUMBER	-15.2	15.2				
+3	0	fb:cell_kharakteristik.gelar_sarjana_pria	gelar sarjana pria	gelar|sarjana|pria	gelar|sarjana|pria	JJ|NN|NN	O|O|O	||					
+3	1	fb:cell_persen_kanada.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+3	2	fb:cell_persen_amerika_serikat.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+3	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._1_5	-1.5	-1.5	-1.5	CD	NUMBER	-1.5	1.5				
+4	0	fb:cell_kharakteristik.laki_laki_semua_tingkat_pendidikan	laki-laki semua tingkat pendidikan	laki|laki|semua|tingkat|pendidikan	laki|laki|semua|tingkat|pendidikan	NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O	||||					
+4	1	fb:cell_persen_kanada.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+4	2	fb:cell_persen_amerika_serikat._1_7	-1.7	-1.7	-1.7	CD	NUMBER	-1.7	1.7				
+4	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._9_1	-9.1	-9.1	-9.1	CD	NUMBER	-9.1	9.1				
+5	0	fb:cell_kharakteristik.wanita	wanita	wanita	wanita	NNP	PERSON						
+5	1	fb:cell_persen_kanada.null											
+5	2	fb:cell_persen_amerika_serikat.null											
+5	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada.null											
+6	0	fb:cell_kharakteristik.perempuan_berpendidikan_sekolah_menengah_atas_atau_kurang	perempuan berpendidikan sekolah menengah atas atau kurang	perempuan|berpendidikan|sekolah|menengah|atas|atau|kurang	perempuan|berpendidikan|sekolah|menengah|atas|atau|kurang	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_persen_kanada.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+6	2	fb:cell_persen_amerika_serikat._0_7	-0.7	-0.7	-0.7	CD	NUMBER	-0.7	0.7				
+6	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._7_5	-7.5	-7.5	-7.5	CD	NUMBER	-7.5	7.5				
+7	0	fb:cell_kharakteristik.perempuan_yang_berpendidikan_pasca_sekolah_menengah_di_bawah_gelar_sarjana	perempuan yang berpendidikan pasca sekolah menengah di bawah gelar sarjana	perempuan|yang|berpendidikan|pasca|sekolah|menengah|di|bawah|gelar|sarjana	perempuan|yang|berpendidikan|pasca|sekolah|menengah|di|bawah|gelar|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+7	1	fb:cell_persen_kanada.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+7	2	fb:cell_persen_amerika_serikat._7_1	-7.1	-7.1	-7.1	CD	NUMBER	-7.1	7.1				
+7	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._14_3	-14.3	-14.3	-14.3	CD	NUMBER	-14.3	14.3				
+8	0	fb:cell_kharakteristik.gelar_sarjana_wanita	gelar sarjana wanita	gelar|sarjana|wanita	gelar|sarjana|wanita	JJ|NNP|NNP	O|O|O	||					
+8	1	fb:cell_persen_kanada.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+8	2	fb:cell_persen_amerika_serikat._0_1	-0.1	-0.1	-0.1	CD	NUMBER	-0.1	0.1				
+8	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._7_6	-7.6	-7.6	-7.6	CD	NUMBER	-7.6	7.6				
+9	0	fb:cell_kharakteristik.perempuan_di_semua_tingkat_pendidikan	perempuan di semua tingkat pendidikan	perempuan|di|semua|tingkat|pendidikan	perempuan|di|semua|tingkat|pendidikan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+9	1	fb:cell_persen_kanada.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+9	2	fb:cell_persen_amerika_serikat.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+9	3	fb:cell_poin_persentase_perbedaan_amerika_serikat_dan_kanada._8_5	-8.5	-8.5	-8.5	CD	NUMBER	-8.5	8.5				

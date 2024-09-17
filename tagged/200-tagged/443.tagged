@@ -1,0 +1,36 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kuartal_pertama	kuartal pertama	kuartal|pertama	kuartal|pertama	JJ|NN	O|O	|					
+-1	2	fb:row.row.kuartal_kedua	kuartal kedua	kuartal|kedua	kuartal|kedua	NNP|NNP	O|O	|					
+-1	3	fb:row.row.kuartal_ketiga	kuartal ketiga	kuartal|ketiga	kuartal|ketiga	JJ|NN	O|O	|					
+-1	4	fb:row.row.kuartal_keempat	kuartal keempat	kuartal|keempat	kuartal|keempat	JJ|NN	O|O	|					
+0	0	fb:cell_kharakteristik.jutaan_dolar_produk_domestik_bruto_dengan_harga_pasar	jutaan dolar produk domestik bruto dengan harga pasar	jutaan|dolar|produk|domestik|bruto|dengan|harga|pasar	jutaan|dolar|produk|domestik|bruto|dengan|harga|pasar	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	1	fb:cell_kuartal_pertama.2194432_0	2194432.0	2194432.0	2194432.0	CD	NUMBER	2194432.0	2194432.0				
+0	2	fb:cell_kuartal_kedua.2214392_0	2214392.0	2214392.0	2214392.0	CD	NUMBER	2214392.0	2214392.0				
+0	3	fb:cell_kuartal_ketiga.2238188_0	2238188.0	2238188.0	2238188.0	CD	NUMBER	2238188.0	2238188.0				
+0	4	fb:cell_kuartal_keempat.2223144_0	2223144.0	2223144.0	2223144.0	CD	NUMBER	2223144.0	2223144.0				
+1	0	fb:cell_kharakteristik.jutaan_dolar_produk_domestik_bruto_dengan_harga_pasar_yang_terkait_dengan_ganja	jutaan dolar produk domestik bruto dengan harga pasar yang: terkait dengan ganja	jutaan|dolar|produk|domestik|bruto|dengan|harga|pasar|yang|:|terkait|dengan|ganja	jutaan|dolar|produk|domestik|bruto|dengan|harga|pasar|yang|:|terkait|dengan|ganja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+1	1	fb:cell_kuartal_pertama.6620_0	6620.0	6620.0	6620.0	CD	NUMBER	6620.0	6620.0				
+1	2	fb:cell_kuartal_kedua.7139_0	7139.0	7139.0	7139.0	CD	NUMBER	7139.0	7139.0				
+1	3	fb:cell_kuartal_ketiga.7692_0	7692.0	7692.0	7692.0	CD	NUMBER	7692.0	7692.0				
+1	4	fb:cell_kuartal_keempat.8636_0	8636.0	8636.0	8636.0	CD	NUMBER	8636.0	8636.0				
+2	0	fb:cell_kharakteristik.jutaan_dolar_produk_domestik_bruto_dengan_harga_pasar_yang_lainnya	jutaan dolar produk domestik bruto dengan harga pasar yang: lainnya	jutaan|dolar|produk|domestik|bruto|dengan|harga|pasar|yang|:|lainnya	jutaan|dolar|produk|domestik|bruto|dengan|harga|pasar|yang|:|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+2	1	fb:cell_kuartal_pertama.2187812_0	2187812.0	2187812.0	2187812.0	CD	NUMBER	2187812.0	2187812.0				
+2	2	fb:cell_kuartal_kedua.2207253_0	2207253.0	2207253.0	2207253.0	CD	NUMBER	2207253.0	2207253.0				
+2	3	fb:cell_kuartal_ketiga.2230496_0	2230496.0	2230496.0	2230496.0	CD	NUMBER	2230496.0	2230496.0				
+2	4	fb:cell_kuartal_keempat.2214314_0	2214314.0	2214314.0	2214314.0	CD	NUMBER	2214314.0	2214314.0				
+3	0	fb:cell_kharakteristik.persentase_perubahan_produk_domestik_bruto_dengan_harga_pasar	persentase perubahan produk domestik bruto dengan harga pasar	persentase|perubahan|produk|domestik|bruto|dengan|harga|pasar	persentase|perubahan|produk|domestik|bruto|dengan|harga|pasar	NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+3	1	fb:cell_kuartal_pertama.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+3	2	fb:cell_kuartal_kedua.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+3	3	fb:cell_kuartal_ketiga.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+3	4	fb:cell_kuartal_keempat.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+4	0	fb:cell_kharakteristik.persentase_perubahan_produk_domestik_bruto_dengan_harga_pasar_yang_terkait_dengan_ganja	persentase perubahan produk domestik bruto dengan harga pasar yang: terkait dengan ganja	persentase|perubahan|produk|domestik|bruto|dengan|harga|pasar|yang|:|terkait|dengan|ganja	persentase|perubahan|produk|domestik|bruto|dengan|harga|pasar|yang|:|terkait|dengan|ganja	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+4	1	fb:cell_kuartal_pertama.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+4	2	fb:cell_kuartal_kedua.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+4	3	fb:cell_kuartal_ketiga.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+4	4	fb:cell_kuartal_keempat.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+5	0	fb:cell_kharakteristik.persentase_perubahan_produk_domestik_bruto_dengan_harga_pasar_yang_mana_lainnya	persentase perubahan produk domestik bruto dengan harga pasar yang mana: lainnya	persentase|perubahan|produk|domestik|bruto|dengan|harga|pasar|yang|mana|:|lainnya	persentase|perubahan|produk|domestik|bruto|dengan|harga|pasar|yang|mana|:|lainnya	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+5	1	fb:cell_kuartal_pertama.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+5	2	fb:cell_kuartal_kedua.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+5	3	fb:cell_kuartal_ketiga.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+5	4	fb:cell_kuartal_keempat.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				

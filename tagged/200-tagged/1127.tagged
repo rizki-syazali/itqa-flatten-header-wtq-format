@@ -1,0 +1,31 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.dibersihkan_berdasarkan_nomor_tagihan	dibersihkan berdasarkan nomor tagihan	dibersihkan|berdasarkan|nomor|tagihan	dibersihkan|berdasarkan|nomor|tagihan	JJ|NN|NN|NN	O|O|O|O	|||					
+-1	2	fb:row.row.dibersihkan_jika_tidak_nomor	dibersihkan jika tidak nomor	dibersihkan|jika|tidak|nomor	dibersihkan|jika|tidak|nomor	JJ|NN|NN|NN	O|O|O|O	|||					
+-1	3	fb:row.row.jumlah_total_yang_dibersihkan	jumlah total yang dibersihkan	jumlah|total|yang|dibersihkan	jumlah|total|yang|dibersihkan	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+-1	4	fb:row.row.dibersihkan_dengan_persentase_biaya	dibersihkan dengan persentase biaya	dibersihkan|dengan|persentase|biaya	dibersihkan|dengan|persentase|biaya	JJ|NN|NN|NN	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.tidak_ada_pelanggaran_administrasi_keadilan_dalam_insiden_tersebut	tidak ada pelanggaran administrasi keadilan dalam insiden tersebut	tidak|ada|pelanggaran|administrasi|keadilan|dalam|insiden|tersebut	tidak|ada|pelanggaran|administrasi|keadilan|dalam|insiden|tersebut	NNP|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+0	1	fb:cell_dibersihkan_berdasarkan_nomor_tagihan.247282_0	247282.0	247282.0	247282.0	CD	NUMBER	247282.0	247282.0				
+0	2	fb:cell_dibersihkan_jika_tidak_nomor.252464_0	252464.0	252464.0	252464.0	CD	NUMBER	252464.0	252464.0				
+0	3	fb:cell_jumlah_total_yang_dibersihkan.499746_0	499746.0	499746.0	499746.0	CD	NUMBER	499746.0	499746.0				
+0	4	fb:cell_dibersihkan_dengan_persentase_biaya.49_5	49.5	49.5	49.5	CD	NUMBER	49.5	49.5				
+1	0	fb:cell_kharakteristik.termasuk_pelanggaran_undang_undang_peradilan_pidana_remaja	termasuk pelanggaran undang-undang peradilan pidana remaja	termasuk|pelanggaran|undang|undang|peradilan|pidana|remaja	termasuk|pelanggaran|undang|undang|peradilan|pidana|remaja	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+1	1	fb:cell_dibersihkan_berdasarkan_nomor_tagihan.7970_0	7970.0	7970.0	7970.0	CD	NUMBER	7970.0	7970.0				
+1	2	fb:cell_dibersihkan_jika_tidak_nomor.791_0	791.0	791.0	791.0	CD	NUMBER	791.0	791.0				
+1	3	fb:cell_jumlah_total_yang_dibersihkan.8761_0	8761.0	8761.0	8761.0	CD	NUMBER	8761.0	8761.0				
+1	4	fb:cell_dibersihkan_dengan_persentase_biaya.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+2	0	fb:cell_kharakteristik.insiden_tersebut_termasuk_pelanggaran_terhadap_administrasi_peradilan	insiden tersebut termasuk pelanggaran terhadap administrasi peradilan	insiden|tersebut|termasuk|pelanggaran|terhadap|administrasi|peradilan	insiden|tersebut|termasuk|pelanggaran|terhadap|administrasi|peradilan	JJ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+2	1	fb:cell_dibersihkan_berdasarkan_nomor_tagihan.187993_0	187993.0	187993.0	187993.0	CD	NUMBER	187993.0	187993.0				
+2	2	fb:cell_dibersihkan_jika_tidak_nomor.17704_0	17704.0	17704.0	17704.0	CD	NUMBER	17704.0	17704.0				
+2	3	fb:cell_jumlah_total_yang_dibersihkan.205697_0	205697.0	205697.0	205697.0	CD	NUMBER	205697.0	205697.0				
+2	4	fb:cell_dibersihkan_dengan_persentase_biaya.91_4	91.4	91.4	91.4	CD	NUMBER	91.4	91.4				
+3	0	fb:cell_kharakteristik.peristiwa_tersebut_meliputi_pelanggaran_terhadap_penyelenggaraan_peradilan_dan_pelanggaran_terhadap_undang_undang_peradilan_pidana_remaja	Peristiwa tersebut meliputi pelanggaran terhadap penyelenggaraan peradilan dan pelanggaran terhadap undang-undang peradilan pidana remaja	peristiwa|tersebut|meliputi|pelanggaran|terhadap|penyelenggaraan|peradilan|dan|pelanggaran|terhadap|undang|undang|peradilan|pidana|remaja	Peristiwa|tersebut|meliputi|pelanggaran|terhadap|penyelenggaraan|peradilan|dan|pelanggaran|terhadap|undang|undang|peradilan|pidana|remaja	NNP|NNP|NNP|NNP|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+3	1	fb:cell_dibersihkan_berdasarkan_nomor_tagihan.2849_0	2849.0	2849.0	2849.0	CD	NUMBER	2849.0	2849.0				
+3	2	fb:cell_dibersihkan_jika_tidak_nomor.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+3	3	fb:cell_jumlah_total_yang_dibersihkan.2891_0	2891.0	2891.0	2891.0	CD	NUMBER	2891.0	2891.0				
+3	4	fb:cell_dibersihkan_dengan_persentase_biaya.98_5	98.5	98.5	98.5	CD	NUMBER	98.5	98.5				
+4	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+4	1	fb:cell_dibersihkan_berdasarkan_nomor_tagihan.446094_0	446094.0	446094.0	446094.0	CD	NUMBER	446094.0	446094.0				
+4	2	fb:cell_dibersihkan_jika_tidak_nomor.271001_0	271001.0	271001.0	271001.0	CD	NUMBER	271001.0	271001.0				
+4	3	fb:cell_jumlah_total_yang_dibersihkan.717095_0	717095.0	717095.0	717095.0	CD	NUMBER	717095.0	717095.0				
+4	4	fb:cell_dibersihkan_dengan_persentase_biaya.62_2	62.2	62.2	62.2	CD	NUMBER	62.2	62.2				

@@ -1,0 +1,22 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.fase_1	fase 1	fase|1	fase|1	NN|CD	O|NUMBER	|1.0					
+-1	2	fb:row.row.fase_2	fase 2	fase|2	fase|2	NN|CD	O|NUMBER	|2.0					
+0	0	fb:cell_kharakteristik.jumlah_pasangan_kota	jumlah pasangan kota	jumlah|pasangan|kota	jumlah|pasangan|kota	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_fase_1.53	53	53	53	CD	NUMBER	53.0	53.0				
+0	2	fb:cell_fase_2.180_0	180.0	180.0	180.0	CD	NUMBER	180.0	180.0				
+1	0	fb:cell_kharakteristik.jumlah_kelambatan_pemesanan	jumlah kelambatan pemesanan	jumlah|kelambatan|pemesanan	jumlah|kelambatan|pemesanan	NNP|NNP|NNP	O|O|O	||					
+1	1	fb:cell_fase_1.2	2	2	2	CD	NUMBER	2.0	2.0				
+1	2	fb:cell_fase_2.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	0	fb:cell_kharakteristik.frekuensi_pengumpulan_per_bulan	frekuensi pengumpulan per bulan	frekuensi|pengumpulan|per|bulan	frekuensi|pengumpulan|per|bulan	NNP|NNP|IN|NNP	O|O|O|O	|||					
+2	1	fb:cell_fase_1.3	3	3	3	CD	NUMBER	3.0	3.0				
+2	2	fb:cell_fase_2.daily	daily	daily	daily	RB	SET						
+3	0	fb:cell_kharakteristik.harga_per_koleksi	harga per koleksi	harga|per|koleksi	harga|per|koleksi	NNP|IN|NNP	O|O|O	||					
+3	1	fb:cell_fase_1.2	2	2	2	CD	NUMBER	2.0	2.0				
+3	2	fb:cell_fase_2.up_to_15	up to 15	up|to|15	up|to|15	IN|TO|CD	O|O|NUMBER	||<=15.0	15.0				
+4	0	fb:cell_kharakteristik.sejumlah_maskapai_penerbangan	sejumlah maskapai penerbangan	sejumlah|maskapai|penerbangan	sejumlah|maskapai|penerbangan	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_fase_1.4	4	4	4	CD	NUMBER	4.0	4.0				
+4	2	fb:cell_fase_2.all_airlines_serving_the_canadian_market	all airlines serving the canadian market	all|airlines|serving|the|canadian|market	all|airline|serve|the|canadian|market	DT|NNS|VBG|DT|JJ|NN	O|O|O|O|MISC|O	|||||					
+5	0	fb:cell_kharakteristik.total_harga_yang_digunakan_per_bulan	total harga yang digunakan per bulan	total|harga|yang|digunakan|per|bulan	total|harga|yang|digunakan|per|bulan	JJ|NNP|NNP|NNP|IN|NNP	O|O|O|O|O|O	|||||					
+5	1	fb:cell_fase_1.636	636	636	636	CD	NUMBER	636.0	636.0				
+5	2	fb:cell_fase_2.over_300_000_per_api	over 300,000 per api	over|300,000|per|api	over|300,000|per|api	IN|CD|IN|NN	O|NUMBER|O|O	|>300000.0||	300000.0				

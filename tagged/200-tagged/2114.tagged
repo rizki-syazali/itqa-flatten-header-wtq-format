@@ -1,0 +1,136 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kejahatan_total_tingkat_kejahatan_pribumi	kejahatan total - "tingkat kejahatan" pribumi	kejahatan|total|-|``|tingkat|kejahatan|''|pribumi	kejahatan|total|-|``|tingkat|kejahatan|''|pribumi	NNP|NNP|:|``|NNP|NNP|''|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.kejahatan_total_tingkat_kejahatan_non_pribumi	kejahatan total - "tingkat kejahatan" non-pribumi	kejahatan|total|-|``|tingkat|kejahatan|''|non|pribumi	kejahatan|total|-|``|tingkat|kejahatan|''|non|pribumi	NNP|NNP|:|``|NNP|NNP|''|JJ|NN	O|O|O|O|O|O|O|O|O	||||||||					
+-1	3	fb:row.row.kejahatan_kekerasan_pribumi	kejahatan kekerasan pribumi	kejahatan|kekerasan|pribumi	kejahatan|kekerasan|pribumi	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.kejahatan_kekerasan_non_pribumi	kejahatan kekerasan non-pribumi	kejahatan|kekerasan|non|pribumi	kejahatan|kekerasan|non|pribumi	NNP|NNP|JJ|NN	O|O|O|O	|||					
+-1	5	fb:row.row.kejahatan_properti_pribumi	kejahatan properti pribumi	kejahatan|properti|pribumi	kejahatan|properti|pribumi	NNP|NNP|NNP	O|O|O	||					
+-1	6	fb:row.row.kejahatan_properti_non_pribumi	kejahatan properti non-pribumi	kejahatan|properti|non|pribumi	kejahatan|properti|non|pribumi	NNP|NNP|JJ|NN	O|O|O|O	|||					
+-1	7	fb:row.row.pelanggaran_hukum_pidana_lainnya_pribumi	pelanggaran hukum pidana lainnya pribumi	pelanggaran|hukum|pidana|lainnya|pribumi	pelanggaran|hukum|pidana|lainnya|pribumi	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	8	fb:row.row.tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi	tindak pidana KUHP lainnya yang bukan merupakan pribumi	tindak|pidana|kuhp|lainnya|yang|bukan|merupakan|pribumi	tindak|pidana|KUHP|lainnya|yang|bukan|merupakan|pribumi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.menilai_newfoundland_dan_labrador	menilai newfoundland dan labrador	menilai|newfoundland|dan|labrador	menilai|newfoundland|dan|labrador	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+0	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.42407_0	42407.0	42407.0	42407.0	CD	NUMBER	42407.0	42407.0				
+0	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.4993_0	4993.0	4993.0	4993.0	CD	NUMBER	4993.0	4993.0				
+0	3	fb:cell_kejahatan_kekerasan_pribumi.8996_0	8996.0	8996.0	8996.0	CD	NUMBER	8996.0	8996.0				
+0	4	fb:cell_kejahatan_kekerasan_non_pribumi.1228_0	1228.0	1228.0	1228.0	CD	NUMBER	1228.0	1228.0				
+0	5	fb:cell_kejahatan_properti_pribumi.23407_0	23407.0	23407.0	23407.0	CD	NUMBER	23407.0	23407.0				
+0	6	fb:cell_kejahatan_properti_non_pribumi.2664_0	2664.0	2664.0	2664.0	CD	NUMBER	2664.0	2664.0				
+0	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.10004_0	10004.0	10004.0	10004.0	CD	NUMBER	10004.0	10004.0				
+0	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.1102_0	1102.0	1102.0	1102.0	CD	NUMBER	1102.0	1102.0				
+1	0	fb:cell_kharakteristik.menilai_pulau_pangeran_edward	menilai pulau pangeran Edward	menilai|pulau|pangeran|edward	menilai|pulau|pangeran|Edward	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.null											
+1	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.4678_0	4678.0	4678.0	4678.0	CD	NUMBER	4678.0	4678.0				
+1	3	fb:cell_kejahatan_kekerasan_pribumi.null											
+1	4	fb:cell_kejahatan_kekerasan_non_pribumi.1005_0	1005.0	1005.0	1005.0	CD	NUMBER	1005.0	1005.0				
+1	5	fb:cell_kejahatan_properti_pribumi.null											
+1	6	fb:cell_kejahatan_properti_non_pribumi.2967_0	2967.0	2967.0	2967.0	CD	NUMBER	2967.0	2967.0				
+1	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.null											
+1	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.706_0	706.0	706.0	706.0	CD	NUMBER	706.0	706.0				
+2	0	fb:cell_kharakteristik.menilai_nova_scotia	menilai nova scotia	menilai|nova|scotia	menilai|nova|scotia	NNP|NNP|NNP	O|O|O	||					
+2	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.21058_0	21058.0	21058.0	21058.0	CD	NUMBER	21058.0	21058.0				
+2	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.4981_0	4981.0	4981.0	4981.0	CD	NUMBER	4981.0	4981.0				
+2	3	fb:cell_kejahatan_kekerasan_pribumi.5433_0	5433.0	5433.0	5433.0	CD	NUMBER	5433.0	5433.0				
+2	4	fb:cell_kejahatan_kekerasan_non_pribumi.1243_0	1243.0	1243.0	1243.0	CD	NUMBER	1243.0	1243.0				
+2	5	fb:cell_kejahatan_properti_pribumi.10458_0	10458.0	10458.0	10458.0	CD	NUMBER	10458.0	10458.0				
+2	6	fb:cell_kejahatan_properti_non_pribumi.2819_0	2819.0	2819.0	2819.0	CD	NUMBER	2819.0	2819.0				
+2	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.5167_0	5167.0	5167.0	5167.0	CD	NUMBER	5167.0	5167.0				
+2	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.919_0	919.0	919.0	919.0	CD	NUMBER	919.0	919.0				
+3	0	fb:cell_kharakteristik.menilai_brunswick_baru	menilai brunswick baru	menilai|brunswick|baru	menilai|brunswick|baru	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.24174_0	24174.0	24174.0	24174.0	CD	NUMBER	24174.0	24174.0				
+3	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.5226_0	5226.0	5226.0	5226.0	CD	NUMBER	5226.0	5226.0				
+3	3	fb:cell_kejahatan_kekerasan_pribumi.8766_0	8766.0	8766.0	8766.0	CD	NUMBER	8766.0	8766.0				
+3	4	fb:cell_kejahatan_kekerasan_non_pribumi.1296_0	1296.0	1296.0	1296.0	CD	NUMBER	1296.0	1296.0				
+3	5	fb:cell_kejahatan_properti_pribumi.10013_0	10013.0	10013.0	10013.0	CD	NUMBER	10013.0	10013.0				
+3	6	fb:cell_kejahatan_properti_non_pribumi.3012_0	3012.0	3012.0	3012.0	CD	NUMBER	3012.0	3012.0				
+3	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.5394_0	5394.0	5394.0	5394.0	CD	NUMBER	5394.0	5394.0				
+3	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.918_0	918.0	918.0	918.0	CD	NUMBER	918.0	918.0				
+4	0	fb:cell_kharakteristik.menilai_quebec	menilai Quebec	menilai|quebec	menilai|Quebec	NNP|NNP	O|O	|					
+4	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.21138_0	21138.0	21138.0	21138.0	CD	NUMBER	21138.0	21138.0				
+4	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.3167_0	3167.0	3167.0	3167.0	CD	NUMBER	3167.0	3167.0				
+4	3	fb:cell_kejahatan_kekerasan_pribumi.13279_0	13279.0	13279.0	13279.0	CD	NUMBER	13279.0	13279.0				
+4	4	fb:cell_kejahatan_kekerasan_non_pribumi.983_0	983.0	983.0	983.0	CD	NUMBER	983.0	983.0				
+4	5	fb:cell_kejahatan_properti_pribumi.3722_0	3722.0	3722.0	3722.0	CD	NUMBER	3722.0	3722.0				
+4	6	fb:cell_kejahatan_properti_non_pribumi.1759_0	1759.0	1759.0	1759.0	CD	NUMBER	1759.0	1759.0				
+4	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.4137_0	4137.0	4137.0	4137.0	CD	NUMBER	4137.0	4137.0				
+4	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.425_0	425.0	425.0	425.0	CD	NUMBER	425.0	425.0				
+5	0	fb:cell_kharakteristik.menilai_ontario	menilai ontario	menilai|ontario	menilai|ontario	NNP|NNP	O|O	|					
+5	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.16593_0	16593.0	16593.0	16593.0	CD	NUMBER	16593.0	16593.0				
+5	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.4054_0	4054.0	4054.0	4054.0	CD	NUMBER	4054.0	4054.0				
+5	3	fb:cell_kejahatan_kekerasan_pribumi.6049_0	6049.0	6049.0	6049.0	CD	NUMBER	6049.0	6049.0				
+5	4	fb:cell_kejahatan_kekerasan_non_pribumi.874_0	874.0	874.0	874.0	CD	NUMBER	874.0	874.0				
+5	5	fb:cell_kejahatan_properti_pribumi.6793_0	6793.0	6793.0	6793.0	CD	NUMBER	6793.0	6793.0				
+5	6	fb:cell_kejahatan_properti_non_pribumi.2602_0	2602.0	2602.0	2602.0	CD	NUMBER	2602.0	2602.0				
+5	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.3751_0	3751.0	3751.0	3751.0	CD	NUMBER	3751.0	3751.0				
+5	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.578_0	578.0	578.0	578.0	CD	NUMBER	578.0	578.0				
+6	0	fb:cell_kharakteristik.menilai_manitoba	menilai manitoba	menilai|manitoba	menilai|manitoba	NNP|NNP	O|O	|					
+6	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.29892_0	29892.0	29892.0	29892.0	CD	NUMBER	29892.0	29892.0				
+6	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.8026_0	8026.0	8026.0	8026.0	CD	NUMBER	8026.0	8026.0				
+6	3	fb:cell_kejahatan_kekerasan_pribumi.9825_0	9825.0	9825.0	9825.0	CD	NUMBER	9825.0	9825.0				
+6	4	fb:cell_kejahatan_kekerasan_non_pribumi.1475_0	1475.0	1475.0	1475.0	CD	NUMBER	1475.0	1475.0				
+6	5	fb:cell_kejahatan_properti_pribumi.12166_0	12166.0	12166.0	12166.0	CD	NUMBER	12166.0	12166.0				
+6	6	fb:cell_kejahatan_properti_non_pribumi.5151_0	5151.0	5151.0	5151.0	CD	NUMBER	5151.0	5151.0				
+6	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.7900_0	7900.0	7900.0	7900.0	CD	NUMBER	7900.0	7900.0				
+6	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.1400_0	1400.0	1400.0	1400.0	CD	NUMBER	1400.0	1400.0				
+7	0	fb:cell_kharakteristik.menilai_saskatchewan	menilai saskatchewan	menilai|saskatchewan	menilai|saskatchewan	NNP|NNP	O|O	|					
+7	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.50258_0	50258.0	50258.0	50258.0	CD	NUMBER	50258.0	50258.0				
+7	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.9578_0	9578.0	9578.0	9578.0	CD	NUMBER	9578.0	9578.0				
+7	3	fb:cell_kejahatan_kekerasan_pribumi.11540_0	11540.0	11540.0	11540.0	CD	NUMBER	11540.0	11540.0				
+7	4	fb:cell_kejahatan_kekerasan_non_pribumi.1502_0	1502.0	1502.0	1502.0	CD	NUMBER	1502.0	1502.0				
+7	5	fb:cell_kejahatan_properti_pribumi.25134_0	25134.0	25134.0	25134.0	CD	NUMBER	25134.0	25134.0				
+7	6	fb:cell_kejahatan_properti_non_pribumi.5539_0	5539.0	5539.0	5539.0	CD	NUMBER	5539.0	5539.0				
+7	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.13584_0	13584.0	13584.0	13584.0	CD	NUMBER	13584.0	13584.0				
+7	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.2537_0	2537.0	2537.0	2537.0	CD	NUMBER	2537.0	2537.0				
+8	0	fb:cell_kharakteristik.menilai_alberta	menilai alberta	menilai|alberta	menilai|alberta	NNP|NNP	O|O	|					
+8	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.34359_0	34359.0	34359.0	34359.0	CD	NUMBER	34359.0	34359.0				
+8	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.8281_0	8281.0	8281.0	8281.0	CD	NUMBER	8281.0	8281.0				
+8	3	fb:cell_kejahatan_kekerasan_pribumi.7921_0	7921.0	7921.0	7921.0	CD	NUMBER	7921.0	7921.0				
+8	4	fb:cell_kejahatan_kekerasan_non_pribumi.1238_0	1238.0	1238.0	1238.0	CD	NUMBER	1238.0	1238.0				
+8	5	fb:cell_kejahatan_properti_pribumi.16918_0	16918.0	16918.0	16918.0	CD	NUMBER	16918.0	16918.0				
+8	6	fb:cell_kejahatan_properti_non_pribumi.5285_0	5285.0	5285.0	5285.0	CD	NUMBER	5285.0	5285.0				
+8	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.9520_0	9520.0	9520.0	9520.0	CD	NUMBER	9520.0	9520.0				
+8	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.1758_0	1758.0	1758.0	1758.0	CD	NUMBER	1758.0	1758.0				
+9	0	fb:cell_kharakteristik.menilai_british_columbia	menilai british columbia	menilai|british|columbia	menilai|british|columbia	NNP|NNP|NNP	O|MISC|O	||					
+9	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.10534_0	10534.0	10534.0	10534.0	CD	NUMBER	10534.0	10534.0				
+9	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.7378_0	7378.0	7378.0	7378.0	CD	NUMBER	7378.0	7378.0				
+9	3	fb:cell_kejahatan_kekerasan_pribumi.3202_0	3202.0	3202.0	3202.0	CD	NUMBER	3202.0	3202.0				
+9	4	fb:cell_kejahatan_kekerasan_non_pribumi.1150_0	1150.0	1150.0	1150.0	CD	NUMBER	1150.0	1150.0				
+9	5	fb:cell_kejahatan_properti_pribumi.4177_0	4177.0	4177.0	4177.0	CD	NUMBER	4177.0	4177.0				
+9	6	fb:cell_kejahatan_properti_non_pribumi.4775_0	4775.0	4775.0	4775.0	CD	NUMBER	4775.0	4775.0				
+9	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.3156_0	3156.0	3156.0	3156.0	CD	NUMBER	3156.0	3156.0				
+9	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.1453_0	1453.0	1453.0	1453.0	CD	NUMBER	1453.0	1453.0				
+10	0	fb:cell_kharakteristik.menilai_yukon	menilai yukon	menilai|yukon	menilai|yukon	NNP|NNP	O|O	|					
+10	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.43028_0	43028.0	43028.0	43028.0	CD	NUMBER	43028.0	43028.0				
+10	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.17795_0	17795.0	17795.0	17795.0	CD	NUMBER	17795.0	17795.0				
+10	3	fb:cell_kejahatan_kekerasan_pribumi.10355_0	10355.0	10355.0	10355.0	CD	NUMBER	10355.0	10355.0				
+10	4	fb:cell_kejahatan_kekerasan_non_pribumi.3356_0	3356.0	3356.0	3356.0	CD	NUMBER	3356.0	3356.0				
+10	5	fb:cell_kejahatan_properti_pribumi.19822_0	19822.0	19822.0	19822.0	CD	NUMBER	19822.0	19822.0				
+10	6	fb:cell_kejahatan_properti_non_pribumi.8700_0	8700.0	8700.0	8700.0	CD	NUMBER	8700.0	8700.0				
+10	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.12850_0	12850.0	12850.0	12850.0	CD	NUMBER	12850.0	12850.0				
+10	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.5739_0	5739.0	5739.0	5739.0	CD	NUMBER	5739.0	5739.0				
+11	0	fb:cell_kharakteristik.menilai_wilayah_barat_laut	menilai wilayah barat laut	menilai|wilayah|barat|laut	menilai|wilayah|barat|laut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.56844_0	56844.0	56844.0	56844.0	CD	NUMBER	56844.0	56844.0				
+11	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.27792_0	27792.0	27792.0	27792.0	CD	NUMBER	27792.0	27792.0				
+11	3	fb:cell_kejahatan_kekerasan_pribumi.13265_0	13265.0	13265.0	13265.0	CD	NUMBER	13265.0	13265.0				
+11	4	fb:cell_kejahatan_kekerasan_non_pribumi.4086_0	4086.0	4086.0	4086.0	CD	NUMBER	4086.0	4086.0				
+11	5	fb:cell_kejahatan_properti_pribumi.27824_0	27824.0	27824.0	27824.0	CD	NUMBER	27824.0	27824.0				
+11	6	fb:cell_kejahatan_properti_non_pribumi.13788_0	13788.0	13788.0	13788.0	CD	NUMBER	13788.0	13788.0				
+11	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.15755_0	15755.0	15755.0	15755.0	CD	NUMBER	15755.0	15755.0				
+11	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.9917_0	9917.0	9917.0	9917.0	CD	NUMBER	9917.0	9917.0				
+12	0	fb:cell_kharakteristik.menilai_nunavut	menilai nunavut	menilai|nunavut	menilai|nunavut	NNP|NNP	O|O	|					
+12	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.38119_0	38119.0	38119.0	38119.0	CD	NUMBER	38119.0	38119.0				
+12	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.null											
+12	3	fb:cell_kejahatan_kekerasan_pribumi.8722_0	8722.0	8722.0	8722.0	CD	NUMBER	8722.0	8722.0				
+12	4	fb:cell_kejahatan_kekerasan_non_pribumi.null											
+12	5	fb:cell_kejahatan_properti_pribumi.16473_0	16473.0	16473.0	16473.0	CD	NUMBER	16473.0	16473.0				
+12	6	fb:cell_kejahatan_properti_non_pribumi.null											
+12	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.12923_0	12923.0	12923.0	12923.0	CD	NUMBER	12923.0	12923.0				
+12	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.null											
+13	0	fb:cell_kharakteristik.menilai_kanada	menilai Kanada	menilai|kanada	menilai|Kanada	NNP|NNP	PERSON|PERSON	|					
+13	1	fb:cell_kejahatan_total_tingkat_kejahatan_pribumi.30333_0	30333.0	30333.0	30333.0	CD	NUMBER	30333.0	30333.0				
+13	2	fb:cell_kejahatan_total_tingkat_kejahatan_non_pribumi.5191_0	5191.0	5191.0	5191.0	CD	NUMBER	5191.0	5191.0				
+13	3	fb:cell_kejahatan_kekerasan_pribumi.9220_0	9220.0	9220.0	9220.0	CD	NUMBER	9220.0	9220.0				
+13	4	fb:cell_kejahatan_kekerasan_non_pribumi.1047_0	1047.0	1047.0	1047.0	CD	NUMBER	1047.0	1047.0				
+13	5	fb:cell_kejahatan_properti_pribumi.13029_0	13029.0	13029.0	13029.0	CD	NUMBER	13029.0	13029.0				
+13	6	fb:cell_kejahatan_properti_non_pribumi.3223_0	3223.0	3223.0	3223.0	CD	NUMBER	3223.0	3223.0				
+13	7	fb:cell_pelanggaran_hukum_pidana_lainnya_pribumi.8084_0	8084.0	8084.0	8084.0	CD	NUMBER	8084.0	8084.0				
+13	8	fb:cell_tindak_pidana_kuhp_lainnya_yang_bukan_merupakan_pribumi.921_0	921.0	921.0	921.0	CD	NUMBER	921.0	921.0				

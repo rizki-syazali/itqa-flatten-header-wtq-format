@@ -1,0 +1,245 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor	nomor	nomor	nomor	NNP	O						
+-1	2	fb:row.row._tertimbang	% tertimbang	%|tertimbang	%|tertimbang	NN|NN	O|O	|					
+-1	3	fb:row.row._orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman	% orang yang tidak menerima vaksinasi terhadap influenza musiman	%|orang|yang|tidak|menerima|vaksinasi|terhadap|influenza|musiman	%|orang|yang|tidak|menerima|vaksinasi|terhadap|influenza|musiman	NN|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_nomor.108700_0	108700.0	108700.0	108700.0	CD	NUMBER	108700.0	108700.0				
+0	2	fb:cell__tertimbang.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.68_2	68.2	68.2	68.2	CD	NUMBER	68.2	68.2				
+1	0	fb:cell_kharakteristik.usia	usia	usia	usia	NNP	ORGANIZATION						
+1	1	fb:cell_nomor.null											
+1	2	fb:cell__tertimbang.null											
+1	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+2	0	fb:cell_kharakteristik.usia_18_hingga_24_tahun	usia 18 hingga 24 tahun	usia|18|hingga|24|tahun	usia|18|hingga|24|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|18.0||24.0|	18.0		24.0		
+2	1	fb:cell_nomor.9180_0	9180.0	9180.0	9180.0	CD	NUMBER	9180.0	9180.0				
+2	2	fb:cell__tertimbang.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+2	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.86_1	86.1	86.1	86.1	CD	NUMBER	86.1	86.1				
+3	0	fb:cell_kharakteristik.usia_25_hingga_44_tahun	usia 25 hingga 44 tahun	usia|25|hingga|44|tahun	usia|25|hingga|44|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|25.0||44.0|	25.0		44.0		
+3	1	fb:cell_nomor.27590_0	27590.0	27590.0	27590.0	CD	NUMBER	27590.0	27590.0				
+3	2	fb:cell__tertimbang.34_4	34.4	34.4	34.4	CD	NUMBER	34.4	34.4				
+3	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+4	0	fb:cell_kharakteristik.usia_45_hingga_64_tahun	usia 45 hingga 64 tahun	usia|45|hingga|64|tahun	usia|45|hingga|64|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|45.0||64.0|	45.0		64.0		
+4	1	fb:cell_nomor.38265_0	38265.0	38265.0	38265.0	CD	NUMBER	38265.0	38265.0				
+4	2	fb:cell__tertimbang.35_9	35.9	35.9	35.9	CD	NUMBER	35.9	35.9				
+4	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+5	0	fb:cell_kharakteristik.usia_65_hingga_74_tahun	usia 65 hingga 74 tahun	usia|65|hingga|74|tahun	usia|65|hingga|74|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|65.0||74.0|	65.0		74.0		
+5	1	fb:cell_nomor.19550_0	19550.0	19550.0	19550.0	CD	NUMBER	19550.0	19550.0				
+5	2	fb:cell__tertimbang.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+5	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.41_2	41.2	41.2	41.2	CD	NUMBER	41.2	41.2				
+6	0	fb:cell_kharakteristik.usia_75_tahun_ke_atas	usia 75 tahun ke atas	usia|75|tahun|ke|atas	usia|75|tahun|ke|atas	NNP|CD|NNP|NNP|NNP	ORGANIZATION|NUMBER|O|O|O	|75.0|||	75.0				
+6	1	fb:cell_nomor.14115_0	14115.0	14115.0	14115.0	CD	NUMBER	14115.0	14115.0				
+6	2	fb:cell__tertimbang.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+6	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.27_8	27.8	27.8	27.8	CD	NUMBER	27.8	27.8				
+7	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+7	1	fb:cell_nomor.null											
+7	2	fb:cell__tertimbang.null											
+7	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+8	0	fb:cell_kharakteristik.pria_seks	pria seks	pria|seks	pria|seks	NNP|NNP	O|O	|					
+8	1	fb:cell_nomor.47680_0	47680.0	47680.0	47680.0	CD	NUMBER	47680.0	47680.0				
+8	2	fb:cell__tertimbang.48_9	48.9	48.9	48.9	CD	NUMBER	48.9	48.9				
+8	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+9	0	fb:cell_kharakteristik.wanita_seks	wanita seks	wanita|seks	wanita|seks	NNP|NNP	PERSON|PERSON	|					
+9	1	fb:cell_nomor.61025_0	61025.0	61025.0	61025.0	CD	NUMBER	61025.0	61025.0				
+9	2	fb:cell__tertimbang.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+9	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.64_6	64.6	64.6	64.6	CD	NUMBER	64.6	64.6				
+10	0	fb:cell_kharakteristik.provinsi_atau_wilayah	provinsi atau wilayah	provinsi|atau|wilayah	provinsi|atau|wilayah	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_nomor.null											
+10	2	fb:cell__tertimbang.null											
+10	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+11	0	fb:cell_kharakteristik.provinsi_atau_wilayah_newfoundland_dan_labrador	provinsi atau wilayah newfoundland dan labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+11	1	fb:cell_nomor.3320_0	3320.0	3320.0	3320.0	CD	NUMBER	3320.0	3320.0				
+11	2	fb:cell__tertimbang.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+11	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.72_4	72.4	72.4	72.4	CD	NUMBER	72.4	72.4				
+12	0	fb:cell_kharakteristik.provinsi_atau_wilayah_pulau_pangeran_edward	provinsi atau wilayah pulau pangeran edward	provinsi|atau|wilayah|pulau|pangeran|edward	provinsi|atau|wilayah|pulau|pangeran|edward	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+12	1	fb:cell_nomor.1675_0	1675.0	1675.0	1675.0	CD	NUMBER	1675.0	1675.0				
+12	2	fb:cell__tertimbang.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+12	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.65_4	65.4	65.4	65.4	CD	NUMBER	65.4	65.4				
+13	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nova_scotia	provinsi atau wilayah nova scotia	provinsi|atau|wilayah|nova|scotia	provinsi|atau|wilayah|nova|scotia	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_nomor.4515_0	4515.0	4515.0	4515.0	CD	NUMBER	4515.0	4515.0				
+13	2	fb:cell__tertimbang.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+13	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.52_1	52.1	52.1	52.1	CD	NUMBER	52.1	52.1				
+14	0	fb:cell_kharakteristik.provinsi_atau_wilayah_brunswick_baru	provinsi atau wilayah brunswick baru	provinsi|atau|wilayah|brunswick|baru	provinsi|atau|wilayah|brunswick|baru	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+14	1	fb:cell_nomor.4195_0	4195.0	4195.0	4195.0	CD	NUMBER	4195.0	4195.0				
+14	2	fb:cell__tertimbang.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+14	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.62_0	62.0	62.0	62.0	CD	NUMBER	62.0	62.0				
+15	0	fb:cell_kharakteristik.provinsi_atau_wilayah_quebec	provinsi atau wilayah quebec	provinsi|atau|wilayah|quebec	provinsi|atau|wilayah|quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_nomor.20870_0	20870.0	20870.0	20870.0	CD	NUMBER	20870.0	20870.0				
+15	2	fb:cell__tertimbang.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+15	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.74_8	74.8	74.8	74.8	CD	NUMBER	74.8	74.8				
+16	0	fb:cell_kharakteristik.provinsi_atau_wilayah_ontario	provinsi atau wilayah ontario	provinsi|atau|wilayah|ontario	provinsi|atau|wilayah|ontario	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_nomor.35880_0	35880.0	35880.0	35880.0	CD	NUMBER	35880.0	35880.0				
+16	2	fb:cell__tertimbang.38_8	38.8	38.8	38.8	CD	NUMBER	38.8	38.8				
+16	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.65_9	65.9	65.9	65.9	CD	NUMBER	65.9	65.9				
+17	0	fb:cell_kharakteristik.provinsi_atau_wilayah_manitoba	provinsi atau wilayah manitoba	provinsi|atau|wilayah|manitoba	provinsi|atau|wilayah|manitoba	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+17	1	fb:cell_nomor.6265_0	6265.0	6265.0	6265.0	CD	NUMBER	6265.0	6265.0				
+17	2	fb:cell__tertimbang.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+17	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.69_8	69.8	69.8	69.8	CD	NUMBER	69.8	69.8				
+18	0	fb:cell_kharakteristik.provinsi_atau_wilayah_saskatchewan	provinsi atau wilayah saskatchewan	provinsi|atau|wilayah|saskatchewan	provinsi|atau|wilayah|saskatchewan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+18	1	fb:cell_nomor.6235_0	6235.0	6235.0	6235.0	CD	NUMBER	6235.0	6235.0				
+18	2	fb:cell__tertimbang.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+18	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+19	0	fb:cell_kharakteristik.provinsi_atau_wilayah_alberta	provinsi atau wilayah alberta	provinsi|atau|wilayah|alberta	provinsi|atau|wilayah|alberta	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+19	1	fb:cell_nomor.10270_0	10270.0	10270.0	10270.0	CD	NUMBER	10270.0	10270.0				
+19	2	fb:cell__tertimbang.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+19	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.68_3	68.3	68.3	68.3	CD	NUMBER	68.3	68.3				
+20	0	fb:cell_kharakteristik.provinsi_atau_wilayah_columbia_inggris	provinsi atau wilayah columbia inggris	provinsi|atau|wilayah|columbia|inggris	provinsi|atau|wilayah|columbia|inggris	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_nomor.12825_0	12825.0	12825.0	12825.0	CD	NUMBER	12825.0	12825.0				
+20	2	fb:cell__tertimbang.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+20	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.66_7	66.7	66.7	66.7	CD	NUMBER	66.7	66.7				
+21	0	fb:cell_kharakteristik.provinsi_atau_wilayah_yukon	provinsi atau wilayah yukon	provinsi|atau|wilayah|yukon	provinsi|atau|wilayah|yukon	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+21	1	fb:cell_nomor.1070_0	1070.0	1070.0	1070.0	CD	NUMBER	1070.0	1070.0				
+21	2	fb:cell__tertimbang.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+21	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+22	0	fb:cell_kharakteristik.provinsi_atau_wilayah_wilayah_barat_laut	provinsi atau wilayah wilayah barat laut	provinsi|atau|wilayah|wilayah|barat|laut	provinsi|atau|wilayah|wilayah|barat|laut	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+22	1	fb:cell_nomor.1030_0	1030.0	1030.0	1030.0	CD	NUMBER	1030.0	1030.0				
+22	2	fb:cell__tertimbang.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+22	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.64_7	64.7	64.7	64.7	CD	NUMBER	64.7	64.7				
+23	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nunavut	provinsi atau wilayah nunavut	provinsi|atau|wilayah|nunavut	provinsi|atau|wilayah|nunavut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+23	1	fb:cell_nomor.555_0	555.0	555.0	555.0	CD	NUMBER	555.0	555.0				
+23	2	fb:cell__tertimbang.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+23	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+24	0	fb:cell_kharakteristik.pendidikan	pendidikan	pendidikan	pendidikan	NNP	O						
+24	1	fb:cell_nomor.null											
+24	2	fb:cell__tertimbang.null											
+24	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+25	0	fb:cell_kharakteristik.pendidikan_sekolah_menengah_atas_atau_kurang	pendidikan sekolah menengah atas atau kurang	pendidikan|sekolah|menengah|atas|atau|kurang	pendidikan|sekolah|menengah|atas|atau|kurang	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+25	1	fb:cell_nomor.40970_0	40970.0	40970.0	40970.0	CD	NUMBER	40970.0	40970.0				
+25	2	fb:cell__tertimbang.32_6	32.6	32.6	32.6	CD	NUMBER	32.6	32.6				
+25	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.66_9	66.9	66.9	66.9	CD	NUMBER	66.9	66.9				
+26	0	fb:cell_kharakteristik.pendidikan_pasca_sekolah_menengah_di_bawah_tingkat_sarjana	pendidikan pasca sekolah menengah di bawah tingkat sarjana	pendidikan|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	pendidikan|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+26	1	fb:cell_nomor.44040_0	44040.0	44040.0	44040.0	CD	NUMBER	44040.0	44040.0				
+26	2	fb:cell__tertimbang.40_4	40.4	40.4	40.4	CD	NUMBER	40.4	40.4				
+26	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+27	0	fb:cell_kharakteristik.gelar_universitas_pendidikan	gelar universitas pendidikan	gelar|universitas|pendidikan	gelar|universita|pendidikan	JJ|NNS|NN	O|O|O	||					
+27	1	fb:cell_nomor.21950_0	21950.0	21950.0	21950.0	CD	NUMBER	21950.0	21950.0				
+27	2	fb:cell__tertimbang.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+27	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+28	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga	total pendapatan rumah tangga	total|pendapatan|rumah|tangga	total|pendapatan|rumah|tangga	JJ|NN|NN|NN	O|O|O|O	|||					
+28	1	fb:cell_nomor.null											
+28	2	fb:cell__tertimbang.null											
+28	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+29	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_0_hingga_29_999	total pendapatan rumah tangga $0 hingga $29,999	total|pendapatan|rumah|tangga|$|0|hingga|$|29,999	total|pendapatan|rumah|tangga|$|0|hingga|$|29,999	JJ|NN|NN|NN|$|CD|NN|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$0.0|$0.0||$29999.0|$29999.0	0.0		29999.0		
+29	1	fb:cell_nomor.23985_0	23985.0	23985.0	23985.0	CD	NUMBER	23985.0	23985.0				
+29	2	fb:cell__tertimbang.16_3	16.3	16.3	16.3	CD	NUMBER	16.3	16.3				
+29	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.64_5	64.5	64.5	64.5	CD	NUMBER	64.5	64.5				
+30	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_30_000_hingga_59_999	total pendapatan rumah tangga $30.000 hingga $59.999	total|pendapatan|rumah|tangga|$|30.000|hingga|$|59.999	total|pendapatan|rumah|tangga|$|30.000|hingga|$|59.999	JJ|NN|NN|NN|$|CD|NN|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$30.0|$30.0||$59.999|$59.999	30.0		59.999		
+30	1	fb:cell_nomor.31500_0	31500.0	31500.0	31500.0	CD	NUMBER	31500.0	31500.0				
+30	2	fb:cell__tertimbang.26_3	26.3	26.3	26.3	CD	NUMBER	26.3	26.3				
+30	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.66_2	66.2	66.2	66.2	CD	NUMBER	66.2	66.2				
+31	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_60_000_hingga_89_999	total pendapatan rumah tangga $60.000 hingga $89.999	total|pendapatan|rumah|tangga|$|60.000|hingga|$|89.999	total|pendapatan|rumah|tangga|$|60.000|hingga|$|89.999	JJ|NN|NN|NN|$|CD|NN|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$60.0|$60.0||$89.999|$89.999	60.0		89.999		
+31	1	fb:cell_nomor.21970_0	21970.0	21970.0	21970.0	CD	NUMBER	21970.0	21970.0				
+31	2	fb:cell__tertimbang.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+31	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+32	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_90_000_atau_lebih	total pendapatan rumah tangga $90.000 atau lebih	total|pendapatan|rumah|tangga|$|90.000|atau|lebih	total|pendapatan|rumah|tangga|$|90.000|atau|lebih	JJ|NN|NN|NN|$|CD|NN|NN	O|O|O|O|MONEY|MONEY|O|O	||||$90.0|$90.0||	90.0				
+32	1	fb:cell_nomor.31245_0	31245.0	31245.0	31245.0	CD	NUMBER	31245.0	31245.0				
+32	2	fb:cell__tertimbang.36_2	36.2	36.2	36.2	CD	NUMBER	36.2	36.2				
+32	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.70_4	70.4	70.4	70.4	CD	NUMBER	70.4	70.4				
+33	0	fb:cell_kharakteristik.negara_kelahiran	negara kelahiran	negara|kelahiran	negara|kelahiran	NNP|NNP	O|O	|					
+33	1	fb:cell_nomor.null											
+33	2	fb:cell__tertimbang.null											
+33	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+34	0	fb:cell_kharakteristik.negara_kelahiran_lainnya	negara kelahiran lainnya	negara|kelahiran|lainnya	negara|kelahiran|lainnya	NNP|NNP|NNP	O|O|O	||					
+34	1	fb:cell_nomor.16200_0	16200.0	16200.0	16200.0	CD	NUMBER	16200.0	16200.0				
+34	2	fb:cell__tertimbang.25_3	25.3	25.3	25.3	CD	NUMBER	25.3	25.3				
+34	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+35	0	fb:cell_kharakteristik.negara_kelahiran_kanada	negara kelahiran Kanada	negara|kelahiran|kanada	negara|kelahiran|Kanada	NNP|NNP|NNP	O|O|O	||					
+35	1	fb:cell_nomor.90125_0	90125.0	90125.0	90125.0	CD	NUMBER	90125.0	90125.0				
+35	2	fb:cell__tertimbang.71_6	71.6	71.6	71.6	CD	NUMBER	71.6	71.6				
+35	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.68_4	68.4	68.4	68.4	CD	NUMBER	68.4	68.4				
+36	0	fb:cell_kharakteristik.identitas_penduduk_asli	identitas penduduk asli	identitas|penduduk|asli	identitas|penduduk|asli	NNP|NNP|NNP	O|O|O	||					
+36	1	fb:cell_nomor.null											
+36	2	fb:cell__tertimbang.null											
+36	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+37	0	fb:cell_kharakteristik.identitas_penduduk_asli_tidak_ada	identitas penduduk asli tidak ada	identitas|penduduk|asli|tidak|ada	identitas|penduduk|asli|tidak|ada	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+37	1	fb:cell_nomor.100280_0	100280.0	100280.0	100280.0	CD	NUMBER	100280.0	100280.0				
+37	2	fb:cell__tertimbang.93_3	93.3	93.3	93.3	CD	NUMBER	93.3	93.3				
+37	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.68_1	68.1	68.1	68.1	CD	NUMBER	68.1	68.1				
+38	0	fb:cell_kharakteristik.identitas_penduduk_asli_bangsa_pertama	identitas penduduk asli bangsa pertama	identitas|penduduk|asli|bangsa|pertama	identitas|penduduk|asli|bangsa|pertama	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+38	1	fb:cell_nomor.2630_0	2630.0	2630.0	2630.0	CD	NUMBER	2630.0	2630.0				
+38	2	fb:cell__tertimbang.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+38	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+39	0	fb:cell_kharakteristik.identitas_asli_metis	identitas asli metis	identitas|asli|metis	identitas|asli|metis	NNP|NNP|NNP	O|O|O	||					
+39	1	fb:cell_nomor.2280_0	2280.0	2280.0	2280.0	CD	NUMBER	2280.0	2280.0				
+39	2	fb:cell__tertimbang.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+39	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.70_9	70.9	70.9	70.9	CD	NUMBER	70.9	70.9				
+40	0	fb:cell_kharakteristik.identitas_penduduk_asli_inuk_atau_inuit	identitas penduduk asli inuk atau inuit	identitas|penduduk|asli|inuk|atau|inuit	identitas|penduduk|asli|inuk|atau|inuit	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+40	1	fb:cell_nomor.560_0	560.0	560.0	560.0	CD	NUMBER	560.0	560.0				
+40	2	fb:cell__tertimbang.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+40	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.71_8	71.8	71.8	71.8	CD	NUMBER	71.8	71.8				
+41	0	fb:cell_kharakteristik.bahasa_ibu	bahasa ibu	bahasa|ibu	bahasa|ibu	NNP|NNP	O|O	|					
+41	1	fb:cell_nomor.null											
+41	2	fb:cell__tertimbang.null											
+41	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+42	0	fb:cell_kharakteristik.bahasa_ibu_bahasa_inggris	bahasa ibu bahasa inggris	bahasa|ibu|bahasa|inggris	bahasa|ibu|bahasa|inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+42	1	fb:cell_nomor.68035_0	68035.0	68035.0	68035.0	CD	NUMBER	68035.0	68035.0				
+42	2	fb:cell__tertimbang.53_1	53.1	53.1	53.1	CD	NUMBER	53.1	53.1				
+42	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.65_8	65.8	65.8	65.8	CD	NUMBER	65.8	65.8				
+43	0	fb:cell_kharakteristik.bahasa_ibu_perancis	bahasa ibu Perancis	bahasa|ibu|perancis	bahasa|ibu|Perancis	NNP|NNP|NNP	O|O|O	||					
+43	1	fb:cell_nomor.22690_0	22690.0	22690.0	22690.0	CD	NUMBER	22690.0	22690.0				
+43	2	fb:cell__tertimbang.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+43	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+44	0	fb:cell_kharakteristik.bahasa_ibu_lainnya	bahasa ibu lainnya	bahasa|ibu|lainnya	bahasa|ibu|lainnya	NNP|NNP|NNP	O|O|O	||					
+44	1	fb:cell_nomor.15820_0	15820.0	15820.0	15820.0	CD	NUMBER	15820.0	15820.0				
+44	2	fb:cell__tertimbang.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+44	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.70_4	70.4	70.4	70.4	CD	NUMBER	70.4	70.4				
+45	0	fb:cell_kharakteristik.wilayah_tempat_tinggal	wilayah tempat tinggal	wilayah|tempat|tinggal	wilayah|tempat|tinggal	JJ|NN|NN	O|O|O	||					
+45	1	fb:cell_nomor.null											
+45	2	fb:cell__tertimbang.null											
+45	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+46	0	fb:cell_kharakteristik.daerah_tempat_tinggal_perkotaan	daerah tempat tinggal perkotaan	daerah|tempat|tinggal|perkotaan	daerah|tempat|tinggal|perkotaan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+46	1	fb:cell_nomor.78485_0	78485.0	78485.0	78485.0	CD	NUMBER	78485.0	78485.0				
+46	2	fb:cell__tertimbang.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+46	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+47	0	fb:cell_kharakteristik.daerah_tempat_tinggal_pedesaan	daerah tempat tinggal pedesaan	daerah|tempat|tinggal|pedesaan	daerah|tempat|tinggal|pedesaan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+47	1	fb:cell_nomor.30215_0	30215.0	30215.0	30215.0	CD	NUMBER	30215.0	30215.0				
+47	2	fb:cell__tertimbang.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+47	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.69_3	69.3	69.3	69.3	CD	NUMBER	69.3	69.3				
+48	0	fb:cell_kharakteristik.mempunyai_dokter_keluarga	mempunyai dokter keluarga	mempunyai|dokter|keluarga	mempunyai|dokter|keluarga	NNP|NNP|NNP	O|O|O	||					
+48	1	fb:cell_nomor.null											
+48	2	fb:cell__tertimbang.null											
+48	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+49	0	fb:cell_kharakteristik.memiliki_dokter_keluarga_no	memiliki dokter keluarga no	memiliki|dokter|keluarga|no	memiliki|dokter|keluarga|no	NNP|NNP|NNP|DT	O|O|O|O	|||					
+49	1	fb:cell_nomor.13995_0	13995.0	13995.0	13995.0	CD	NUMBER	13995.0	13995.0				
+49	2	fb:cell__tertimbang.15_6	15.6	15.6	15.6	CD	NUMBER	15.6	15.6				
+49	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+50	0	fb:cell_kharakteristik.punya_dokter_keluarga_ya	punya dokter keluarga ya	punya|dokter|keluarga|ya	punya|dokter|keluarga|ya	NN|NN|NNP|PRP	O|O|O|O	|||					
+50	1	fb:cell_nomor.94625_0	94625.0	94625.0	94625.0	CD	NUMBER	94625.0	94625.0				
+50	2	fb:cell__tertimbang.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+50	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.64_8	64.8	64.8	64.8	CD	NUMBER	64.8	64.8				
+51	0	fb:cell_kharakteristik.memiliki_cmc	memiliki cmc	memiliki|cmc	memiliki|cmc	NNP|NNP	O|O	|					
+51	1	fb:cell_nomor.null											
+51	2	fb:cell__tertimbang.null											
+51	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+52	0	fb:cell_kharakteristik.memiliki_nomor_cmc	memiliki nomor cmc	memiliki|nomor|cmc	memiliki|nomor|cmc	NNP|NNP|NNP	O|O|O	||					
+52	1	fb:cell_nomor.80475_0	80475.0	80475.0	80475.0	CD	NUMBER	80475.0	80475.0				
+52	2	fb:cell__tertimbang.79_5	79.5	79.5	79.5	CD	NUMBER	79.5	79.5				
+52	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+53	0	fb:cell_kharakteristik.punya_cmc_ya	punya cmc ya	punya|cmc|ya	punya|cmc|ya	NNP|NNP|PRP	O|O|O	||					
+53	1	fb:cell_nomor.28230_0	28230.0	28230.0	28230.0	CD	NUMBER	28230.0	28230.0				
+53	2	fb:cell__tertimbang.20_5	20.5	20.5	20.5	CD	NUMBER	20.5	20.5				
+53	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.49_9	49.9	49.9	49.9	CD	NUMBER	49.9	49.9				
+54	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sendiri	kesehatan yang dirasakan sendiri	kesehatan|yang|dirasakan|sendiri	kesehatan|yang|dirasakan|sendiri	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+54	1	fb:cell_nomor.null											
+54	2	fb:cell__tertimbang.null											
+54	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.null											
+55	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sendiri_sangat_baik	kesehatan yang dirasakan sendiri sangat baik	kesehatan|yang|dirasakan|sendiri|sangat|baik	kesehatan|yang|dirasakan|sendiri|sangat|baik	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+55	1	fb:cell_nomor.19995_0	19995.0	19995.0	19995.0	CD	NUMBER	19995.0	19995.0				
+55	2	fb:cell__tertimbang.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+55	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+56	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sendiri_sangat_baik	kesehatan yang dirasakan sendiri sangat baik	kesehatan|yang|dirasakan|sendiri|sangat|baik	kesehatan|yang|dirasakan|sendiri|sangat|baik	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+56	1	fb:cell_nomor.40400_0	40400.0	40400.0	40400.0	CD	NUMBER	40400.0	40400.0				
+56	2	fb:cell__tertimbang.38_4	38.4	38.4	38.4	CD	NUMBER	38.4	38.4				
+56	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+57	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sendiri_baik	kesehatan yang dirasakan sendiri baik	kesehatan|yang|dirasakan|sendiri|baik	kesehatan|yang|dirasakan|sendiri|baik	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+57	1	fb:cell_nomor.33070_0	33070.0	33070.0	33070.0	CD	NUMBER	33070.0	33070.0				
+57	2	fb:cell__tertimbang.29_6	29.6	29.6	29.6	CD	NUMBER	29.6	29.6				
+57	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+58	0	fb:cell_kharakteristik.pameran_kesehatan_yang_dirasakan_sendiri	pameran kesehatan yang dirasakan sendiri	pameran|kesehatan|yang|dirasakan|sendiri	pameran|kesehatan|yang|dirasakan|sendiri	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+58	1	fb:cell_nomor.11270_0	11270.0	11270.0	11270.0	CD	NUMBER	11270.0	11270.0				
+58	2	fb:cell__tertimbang.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+58	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.57_1	57.1	57.1	57.1	CD	NUMBER	57.1	57.1				
+59	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sendiri_buruk	kesehatan yang dirasakan sendiri buruk	kesehatan|yang|dirasakan|sendiri|buruk	kesehatan|yang|dirasakan|sendiri|buruk	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+59	1	fb:cell_nomor.3820_0	3820.0	3820.0	3820.0	CD	NUMBER	3820.0	3820.0				
+59	2	fb:cell__tertimbang.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+59	3	fb:cell__orang_yang_tidak_menerima_vaksinasi_terhadap_influenza_musiman.51_3	51.3	51.3	51.3	CD	NUMBER	51.3	51.3				

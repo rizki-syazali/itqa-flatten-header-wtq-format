@@ -1,0 +1,211 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1999_2012_dolar_konstan	1999 2012 dolar konstan	1999|2012|dolar|konstan	1999|2012|dolar|konstan	CD|CD|NNP|NNP	DATE|DATE|O|O	1999|2012||					
+-1	2	fb:row.row.2012_2012_dolar_konstan	2012 2012 dolar konstan	2012|2012|dolar|konstan	2012|2012|dolar|konstan	CD|CD|NNP|NNP	DATE|DATE|O|O	2012|2012||					
+-1	3	fb:row.row.perubahan_dolar_1999_ke_2012	perubahan, dolar 1999 ke 2012	perubahan|,|dolar|1999|ke|2012	perubahan|,|dolar|1999|ke|2012	NNP|,|NNP|CD|NNP|CD	O|O|O|DATE|O|DATE	|||1999||2012					
+-1	4	fb:row.row.perubahan_persentase_1999_hingga_2012	perubahan, persentase 1999 hingga 2012	perubahan|,|persentase|1999|hingga|2012	perubahan|,|persentase|1999|hingga|2012	NNP|,|NN|CD|NNP|CD	O|O|O|DATE|O|DATE	|||1999||2012					
+0	0	fb:cell_kharakteristik.semua	semua	semua	semua	NN	O						
+0	1	fb:cell_1999_2012_dolar_konstan.131100_0	131100.0	131100.0	131100.0	CD	NUMBER	131100.0	131100.0				
+0	2	fb:cell_2012_2012_dolar_konstan.248000_0	248000.0	248000.0	248000.0	CD	NUMBER	248000.0	248000.0				
+0	3	fb:cell_perubahan_dolar_1999_ke_2012.116900_0	116900.0	116900.0	116900.0	CD	NUMBER	116900.0	116900.0				
+0	4	fb:cell_perubahan_persentase_1999_hingga_2012.89_2	89.2	89.2	89.2	CD	NUMBER	89.2	89.2				
+1	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama	usia pencari nafkah utama	usia|pencari|nafkah|utama	usia|pencari|nafkah|utama	NNP|NNP|NNP|NNP	ORGANIZATION|O|O|O	|||					
+1	1	fb:cell_1999_2012_dolar_konstan.null											
+1	2	fb:cell_2012_2012_dolar_konstan.null											
+1	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+1	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+2	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_15_hingga_34	usia pencari nafkah utama 15 hingga 34	usia|pencari|nafkah|utama|15|hingga|34	usia|pencari|nafkah|utama|15|hingga|34	NNP|NNP|NNP|NNP|CD|NNP|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||15.0||34.0	15.0		34.0		
+2	1	fb:cell_1999_2012_dolar_konstan.34100_0	34100.0	34100.0	34100.0	CD	NUMBER	34100.0	34100.0				
+2	2	fb:cell_2012_2012_dolar_konstan.42200_0	42200.0	42200.0	42200.0	CD	NUMBER	42200.0	42200.0				
+2	3	fb:cell_perubahan_dolar_1999_ke_2012.8100_0	8100.0	8100.0	8100.0	CD	NUMBER	8100.0	8100.0				
+2	4	fb:cell_perubahan_persentase_1999_hingga_2012.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+3	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_35_hingga_44	usia pencari nafkah utama 35 hingga 44	usia|pencari|nafkah|utama|35|hingga|44	usia|pencari|nafkah|utama|35|hingga|44	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||35.0||44.0	35.0		44.0		
+3	1	fb:cell_1999_2012_dolar_konstan.141500_0	141500.0	141500.0	141500.0	CD	NUMBER	141500.0	141500.0				
+3	2	fb:cell_2012_2012_dolar_konstan.218000_0	218000.0	218000.0	218000.0	CD	NUMBER	218000.0	218000.0				
+3	3	fb:cell_perubahan_dolar_1999_ke_2012.76500_0	76500.0	76500.0	76500.0	CD	NUMBER	76500.0	76500.0				
+3	4	fb:cell_perubahan_persentase_1999_hingga_2012.54_1	54.1	54.1	54.1	CD	NUMBER	54.1	54.1				
+4	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_45_hingga_54	usia pencari nafkah utama 45 hingga 54	usia|pencari|nafkah|utama|45|hingga|54	usia|pencari|nafkah|utama|45|hingga|54	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||45.0||54.0	45.0		54.0		
+4	1	fb:cell_1999_2012_dolar_konstan.253100_0	253100.0	253100.0	253100.0	CD	NUMBER	253100.0	253100.0				
+4	2	fb:cell_2012_2012_dolar_konstan.402600_0	402600.0	402600.0	402600.0	CD	NUMBER	402600.0	402600.0				
+4	3	fb:cell_perubahan_dolar_1999_ke_2012.149500_0	149500.0	149500.0	149500.0	CD	NUMBER	149500.0	149500.0				
+4	4	fb:cell_perubahan_persentase_1999_hingga_2012.59_1	59.1	59.1	59.1	CD	NUMBER	59.1	59.1				
+5	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_55_hingga_64	usia pencari nafkah utama 55 hingga 64	usia|pencari|nafkah|utama|55|hingga|64	usia|pencari|nafkah|utama|55|hingga|64	NNP|NNP|NNP|NNP|CD|NNP|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||55.0||64.0	55.0		64.0		
+5	1	fb:cell_1999_2012_dolar_konstan.349100_0	349100.0	349100.0	349100.0	CD	NUMBER	349100.0	349100.0				
+5	2	fb:cell_2012_2012_dolar_konstan.539400_0	539400.0	539400.0	539400.0	CD	NUMBER	539400.0	539400.0				
+5	3	fb:cell_perubahan_dolar_1999_ke_2012.190300_0	190300.0	190300.0	190300.0	CD	NUMBER	190300.0	190300.0				
+5	4	fb:cell_perubahan_persentase_1999_hingga_2012.54_5	54.5	54.5	54.5	CD	NUMBER	54.5	54.5				
+6	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_65_tahun_ke_atas	usia pencari nafkah utama 65 tahun ke atas	usia|pencari|nafkah|utama|65|tahun|ke|atas	usia|pencari|nafkah|utama|65|tahun|ke|atas	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	ORGANIZATION|O|O|O|NUMBER|O|O|O	||||65.0|||	65.0				
+6	1	fb:cell_1999_2012_dolar_konstan.283400_0	283400.0	283400.0	283400.0	CD	NUMBER	283400.0	283400.0				
+6	2	fb:cell_2012_2012_dolar_konstan.447400_0	447400.0	447400.0	447400.0	CD	NUMBER	447400.0	447400.0				
+6	3	fb:cell_perubahan_dolar_1999_ke_2012.164000_0	164000.0	164000.0	164000.0	CD	NUMBER	164000.0	164000.0				
+6	4	fb:cell_perubahan_persentase_1999_hingga_2012.57_9	57.9	57.9	57.9	CD	NUMBER	57.9	57.9				
+7	0	fb:cell_kharakteristik.pendidikan_mereka_yang_berpenghasilan_besar	pendidikan mereka yang berpenghasilan besar	pendidikan|mereka|yang|berpenghasilan|besar	pendidikan|mereka|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+7	1	fb:cell_1999_2012_dolar_konstan.null											
+7	2	fb:cell_2012_2012_dolar_konstan.null											
+7	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+7	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+8	0	fb:cell_kharakteristik.pendidikan_bagi_mereka_yang_berpenghasilan_utama_kurang_dari_sekolah_menengah_atas	pendidikan bagi mereka yang berpenghasilan utama kurang dari sekolah menengah atas	pendidikan|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	pendidikan|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+8	1	fb:cell_1999_2012_dolar_konstan.95600_0	95600.0	95600.0	95600.0	CD	NUMBER	95600.0	95600.0				
+8	2	fb:cell_2012_2012_dolar_konstan.114600_0	114600.0	114600.0	114600.0	CD	NUMBER	114600.0	114600.0				
+8	3	fb:cell_perubahan_dolar_1999_ke_2012.19000_0	19000.0	19000.0	19000.0	CD	NUMBER	19000.0	19000.0				
+8	4	fb:cell_perubahan_persentase_1999_hingga_2012.19_9	19.9	19.9	19.9	CD	NUMBER	19.9	19.9				
+9	0	fb:cell_kharakteristik.pendidikan_sekolah_menengah_yang_berpenghasilan_besar	pendidikan sekolah menengah yang berpenghasilan besar	pendidikan|sekolah|menengah|yang|berpenghasilan|besar	pendidikan|sekolah|menengah|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+9	1	fb:cell_1999_2012_dolar_konstan.118200_0	118200.0	118200.0	118200.0	CD	NUMBER	118200.0	118200.0				
+9	2	fb:cell_2012_2012_dolar_konstan.190000_0	190000.0	190000.0	190000.0	CD	NUMBER	190000.0	190000.0				
+9	3	fb:cell_perubahan_dolar_1999_ke_2012.71800_0	71800.0	71800.0	71800.0	CD	NUMBER	71800.0	71800.0				
+9	4	fb:cell_perubahan_persentase_1999_hingga_2012.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+10	0	fb:cell_kharakteristik.pendidikan_perguruan_tinggi_perdagangan_yang_berpenghasilan_besar	pendidikan perguruan tinggi/perdagangan yang berpenghasilan besar	pendidikan|perguruan|tinggi/perdagangan|yang|berpenghasilan|besar	pendidikan|perguruan|tinggi/perdagangan|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||				pendidikan perguruan tinggi|perdagangan yang berpenghasilan besar	fb:part_kharakteristik.pendidikan_perguruan_tinggi|fb:part_kharakteristik.perdagangan_yang_berpenghasilan_besar
+10	1	fb:cell_1999_2012_dolar_konstan.124700_0	124700.0	124700.0	124700.0	CD	NUMBER	124700.0	124700.0				
+10	2	fb:cell_2012_2012_dolar_konstan.220000_0	220000.0	220000.0	220000.0	CD	NUMBER	220000.0	220000.0				
+10	3	fb:cell_perubahan_dolar_1999_ke_2012.95300_0	95300.0	95300.0	95300.0	CD	NUMBER	95300.0	95300.0				
+10	4	fb:cell_perubahan_persentase_1999_hingga_2012.76_4	76.4	76.4	76.4	CD	NUMBER	76.4	76.4				
+11	0	fb:cell_kharakteristik.pendidikan_gelar_universitas_dengan_pendapatan_utama	pendidikan gelar universitas dengan pendapatan utama	pendidikan|gelar|universitas|dengan|pendapatan|utama	pendidikan|gelar|universitas|dengan|pendapatan|utama	NNP|NNP|NNPS|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_1999_2012_dolar_konstan.231600_0	231600.0	231600.0	231600.0	CD	NUMBER	231600.0	231600.0				
+11	2	fb:cell_2012_2012_dolar_konstan.430100_0	430100.0	430100.0	430100.0	CD	NUMBER	430100.0	430100.0				
+11	3	fb:cell_perubahan_dolar_1999_ke_2012.198500_0	198500.0	198500.0	198500.0	CD	NUMBER	198500.0	198500.0				
+11	4	fb:cell_perubahan_persentase_1999_hingga_2012.85_7	85.7	85.7	85.7	CD	NUMBER	85.7	85.7				
+12	0	fb:cell_kharakteristik.struktur_keluarga	struktur keluarga	struktur|keluarga	struktur|keluarga	NN|NN	O|O	|					
+12	1	fb:cell_1999_2012_dolar_konstan.null											
+12	2	fb:cell_2012_2012_dolar_konstan.null											
+12	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+12	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+13	0	fb:cell_kharakteristik.struktur_keluarga_non_senior	struktur keluarga non-senior	struktur|keluarga|non|senior	struktur|keluarga|non|senior	NN|NN|JJ|JJ	O|O|O|O	|||					
+13	1	fb:cell_1999_2012_dolar_konstan.null											
+13	2	fb:cell_2012_2012_dolar_konstan.null											
+13	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+13	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+14	0	fb:cell_kharakteristik.struktur_keluarga_lajang_non_senior	struktur keluarga lajang non-senior	struktur|keluarga|lajang|non|senior	struktur|keluarga|lajang|non|senior	NN|NN|NN|JJ|JJ	O|O|O|O|O	||||					
+14	1	fb:cell_1999_2012_dolar_konstan.26000_0	26000.0	26000.0	26000.0	CD	NUMBER	26000.0	26000.0				
+14	2	fb:cell_2012_2012_dolar_konstan.36500_0	36500.0	36500.0	36500.0	CD	NUMBER	36500.0	36500.0				
+14	3	fb:cell_perubahan_dolar_1999_ke_2012.10500_0	10500.0	10500.0	10500.0	CD	NUMBER	10500.0	10500.0				
+14	4	fb:cell_perubahan_persentase_1999_hingga_2012.40_4	40.4	40.4	40.4	CD	NUMBER	40.4	40.4				
+15	0	fb:cell_kharakteristik.struktur_keluarga_pasangan_non_senior_tanpa_anak_atau_dengan_anak_berusia_18_tahun_ke_atas	struktur keluarga pasangan non-senior tanpa anak atau dengan anak berusia 18 tahun ke atas	struktur|keluarga|pasangan|non|senior|tanpa|anak|atau|dengan|anak|berusia|18|tahun|ke|atas	struktur|keluarga|pasangan|non|senior|tanpa|anak|atau|dengan|anak|berusia|18|tahun|ke|atas	NN|NN|NN|JJ|JJ|NN|NN|NN|NN|NN|NN|CD|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||||||18.0|||	18.0				
+15	1	fb:cell_1999_2012_dolar_konstan.223600_0	223600.0	223600.0	223600.0	CD	NUMBER	223600.0	223600.0				
+15	2	fb:cell_2012_2012_dolar_konstan.408600_0	408600.0	408600.0	408600.0	CD	NUMBER	408600.0	408600.0				
+15	3	fb:cell_perubahan_dolar_1999_ke_2012.185000_0	185000.0	185000.0	185000.0	CD	NUMBER	185000.0	185000.0				
+15	4	fb:cell_perubahan_persentase_1999_hingga_2012.82_7	82.7	82.7	82.7	CD	NUMBER	82.7	82.7				
+16	0	fb:cell_kharakteristik.struktur_keluarga_pasangan_non_senior_dengan_anak_di_bawah_18_tahun	struktur keluarga pasangan non-senior dengan anak di bawah 18 tahun	struktur|keluarga|pasangan|non|senior|dengan|anak|di|bawah|18|tahun	struktur|keluarga|pasangan|non|senior|dengan|anak|di|bawah|18|tahun	NN|NN|NN|JJ|JJ|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|O|O|O|NUMBER|O	|||||||||18.0|	18.0				
+16	1	fb:cell_1999_2012_dolar_konstan.165800_0	165800.0	165800.0	165800.0	CD	NUMBER	165800.0	165800.0				
+16	2	fb:cell_2012_2012_dolar_konstan.303000_0	303000.0	303000.0	303000.0	CD	NUMBER	303000.0	303000.0				
+16	3	fb:cell_perubahan_dolar_1999_ke_2012.137200_0	137200.0	137200.0	137200.0	CD	NUMBER	137200.0	137200.0				
+16	4	fb:cell_perubahan_persentase_1999_hingga_2012.82_8	82.8	82.8	82.8	CD	NUMBER	82.8	82.8				
+17	0	fb:cell_kharakteristik.struktur_keluarga_orang_tua_tunggal_non_senior	struktur keluarga orang tua tunggal non-senior	struktur|keluarga|orang|tua|tunggal|non|senior	struktur|keluarga|orang|tua|tunggal|non|senior	NN|NN|NNP|NNP|NNP|JJ|JJ	O|O|O|O|O|O|O	||||||					
+17	1	fb:cell_1999_2012_dolar_konstan.30700_0	30700.0	30700.0	30700.0	CD	NUMBER	30700.0	30700.0				
+17	2	fb:cell_2012_2012_dolar_konstan.47300_0	47300.0	47300.0	47300.0	CD	NUMBER	47300.0	47300.0				
+17	3	fb:cell_perubahan_dolar_1999_ke_2012.16600_0	16600.0	16600.0	16600.0	CD	NUMBER	16600.0	16600.0				
+17	4	fb:cell_perubahan_persentase_1999_hingga_2012.54_1	54.1	54.1	54.1	CD	NUMBER	54.1	54.1				
+18	0	fb:cell_kharakteristik.struktur_keluarga_non_senior_lainnya	struktur keluarga non-senior lainnya	struktur|keluarga|non|senior|lainnya	struktur|keluarga|non|senior|lainnya	NN|NN|JJ|JJ|NN	O|O|O|O|O	||||					
+18	1	fb:cell_1999_2012_dolar_konstan.171800_0	171800.0	171800.0	171800.0	CD	NUMBER	171800.0	171800.0				
+18	2	fb:cell_2012_2012_dolar_konstan.304500_0	304500.0	304500.0	304500.0	CD	NUMBER	304500.0	304500.0				
+18	3	fb:cell_perubahan_dolar_1999_ke_2012.132700_0	132700.0	132700.0	132700.0	CD	NUMBER	132700.0	132700.0				
+18	4	fb:cell_perubahan_persentase_1999_hingga_2012.77_2	77.2	77.2	77.2	CD	NUMBER	77.2	77.2				
+19	0	fb:cell_kharakteristik.struktur_keluarga_senior	struktur keluarga senior	struktur|keluarga|senior	struktur|keluarga|senior	NN|NN|JJ	O|O|O	||					
+19	1	fb:cell_1999_2012_dolar_konstan.283400_0	283400.0	283400.0	283400.0	CD	NUMBER	283400.0	283400.0				
+19	2	fb:cell_2012_2012_dolar_konstan.447400_0	447400.0	447400.0	447400.0	CD	NUMBER	447400.0	447400.0				
+19	3	fb:cell_perubahan_dolar_1999_ke_2012.164000_0	164000.0	164000.0	164000.0	CD	NUMBER	164000.0	164000.0				
+19	4	fb:cell_perubahan_persentase_1999_hingga_2012.57_9	57.9	57.9	57.9	CD	NUMBER	57.9	57.9				
+20	0	fb:cell_kharakteristik.status_imigran_yang_berpenghasilan_besar	status imigran yang berpenghasilan besar	status|imigran|yang|berpenghasilan|besar	status|imigran|yang|berpenghasilan|besar	NN|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_1999_2012_dolar_konstan.null											
+20	2	fb:cell_2012_2012_dolar_konstan.null											
+20	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+20	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+21	0	fb:cell_kharakteristik.status_imigran_berpenghasilan_besar_yang_berimigrasi_dalam_10_tahun_terakhir	status imigran berpenghasilan besar yang berimigrasi dalam 10 tahun terakhir	status|imigran|berpenghasilan|besar|yang|berimigrasi|dalam|10|tahun|terakhir	status|imigran|berpenghasilan|besar|yang|berimigrasi|dalam|10|tahun|terakhir	NN|NN|NNP|NNP|NNP|NNP|NNP|CD|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O	|||||||10.0||	10.0				
+21	1	fb:cell_1999_2012_dolar_konstan.47300_0	47300.0	47300.0	47300.0	CD	NUMBER	47300.0	47300.0				
+21	2	fb:cell_2012_2012_dolar_konstan.74400_0	74400.0	74400.0	74400.0	CD	NUMBER	74400.0	74400.0				
+21	3	fb:cell_perubahan_dolar_1999_ke_2012.27100_0	27100.0	27100.0	27100.0	CD	NUMBER	27100.0	27100.0				
+21	4	fb:cell_perubahan_persentase_1999_hingga_2012.57_3	57.3	57.3	57.3	CD	NUMBER	57.3	57.3				
+22	0	fb:cell_kharakteristik.status_imigran_yang_berpenghasilan_besar_lebih_dari_10_tahun_sejak_imigrasi	status imigran yang berpenghasilan besar lebih dari 10 tahun sejak imigrasi	status|imigran|yang|berpenghasilan|besar|lebih|dari|10|tahun|sejak|imigrasi	status|imigran|yang|berpenghasilan|besar|lebih|dari|10|tahun|sejak|imigrasi	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||10.0|||	10.0				
+22	1	fb:cell_1999_2012_dolar_konstan.216400_0	216400.0	216400.0	216400.0	CD	NUMBER	216400.0	216400.0				
+22	2	fb:cell_2012_2012_dolar_konstan.346300_0	346300.0	346300.0	346300.0	CD	NUMBER	346300.0	346300.0				
+22	3	fb:cell_perubahan_dolar_1999_ke_2012.129900_0	129900.0	129900.0	129900.0	CD	NUMBER	129900.0	129900.0				
+22	4	fb:cell_perubahan_persentase_1999_hingga_2012.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+23	0	fb:cell_kharakteristik.status_imigran_pencari_nafkah_utama_kelahiran_kanada	status imigran pencari nafkah utama kelahiran Kanada	status|imigran|pencari|nafkah|utama|kelahiran|kanada	status|imigran|pencari|nafkah|utama|kelahiran|Kanada	NN|NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O|O	||||||					
+23	1	fb:cell_1999_2012_dolar_konstan.125400_0	125400.0	125400.0	125400.0	CD	NUMBER	125400.0	125400.0				
+23	2	fb:cell_2012_2012_dolar_konstan.240900_0	240900.0	240900.0	240900.0	CD	NUMBER	240900.0	240900.0				
+23	3	fb:cell_perubahan_dolar_1999_ke_2012.115500_0	115500.0	115500.0	115500.0	CD	NUMBER	115500.0	115500.0				
+23	4	fb:cell_perubahan_persentase_1999_hingga_2012.92_1	92.1	92.1	92.1	CD	NUMBER	92.1	92.1				
+24	0	fb:cell_kharakteristik.wilayah	wilayah	wilayah	wilayah	NNP	O						
+24	1	fb:cell_1999_2012_dolar_konstan.null											
+24	2	fb:cell_2012_2012_dolar_konstan.null											
+24	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+24	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+25	0	fb:cell_kharakteristik.wilayah_atlantik	wilayah Atlantik	wilayah|atlantik	wilayah|Atlantik	NNP|NNP	O|O	|					
+25	1	fb:cell_1999_2012_dolar_konstan.113000_0	113000.0	113000.0	113000.0	CD	NUMBER	113000.0	113000.0				
+25	2	fb:cell_2012_2012_dolar_konstan.179500_0	179500.0	179500.0	179500.0	CD	NUMBER	179500.0	179500.0				
+25	3	fb:cell_perubahan_dolar_1999_ke_2012.66500_0	66500.0	66500.0	66500.0	CD	NUMBER	66500.0	66500.0				
+25	4	fb:cell_perubahan_persentase_1999_hingga_2012.58_8	58.8	58.8	58.8	CD	NUMBER	58.8	58.8				
+26	0	fb:cell_kharakteristik.wilayah_quebec	wilayah Quebec	wilayah|quebec	wilayah|Quebec	NNP|NNP	O|O	|					
+26	1	fb:cell_1999_2012_dolar_konstan.104200_0	104200.0	104200.0	104200.0	CD	NUMBER	104200.0	104200.0				
+26	2	fb:cell_2012_2012_dolar_konstan.217600_0	217600.0	217600.0	217600.0	CD	NUMBER	217600.0	217600.0				
+26	3	fb:cell_perubahan_dolar_1999_ke_2012.113400_0	113400.0	113400.0	113400.0	CD	NUMBER	113400.0	113400.0				
+26	4	fb:cell_perubahan_persentase_1999_hingga_2012.108_8	108.8	108.8	108.8	CD	NUMBER	108.8	108.8				
+27	0	fb:cell_kharakteristik.wilayah_ontario	wilayah ontario	wilayah|ontario	wilayah|ontario	NNP|NNP	O|O	|					
+27	1	fb:cell_1999_2012_dolar_konstan.155100_0	155100.0	155100.0	155100.0	CD	NUMBER	155100.0	155100.0				
+27	2	fb:cell_2012_2012_dolar_konstan.272900_0	272900.0	272900.0	272900.0	CD	NUMBER	272900.0	272900.0				
+27	3	fb:cell_perubahan_dolar_1999_ke_2012.117800_0	117800.0	117800.0	117800.0	CD	NUMBER	117800.0	117800.0				
+27	4	fb:cell_perubahan_persentase_1999_hingga_2012.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+28	0	fb:cell_kharakteristik.wilayah_manitoba_dan_saskatchewan	wilayah manitoba dan saskatchewan	wilayah|manitoba|dan|saskatchewan	wilayah|manitoba|dan|saskatchewan	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+28	1	fb:cell_1999_2012_dolar_konstan.135900_0	135900.0	135900.0	135900.0	CD	NUMBER	135900.0	135900.0				
+28	2	fb:cell_2012_2012_dolar_konstan.240200_0	240200.0	240200.0	240200.0	CD	NUMBER	240200.0	240200.0				
+28	3	fb:cell_perubahan_dolar_1999_ke_2012.104300_0	104300.0	104300.0	104300.0	CD	NUMBER	104300.0	104300.0				
+28	4	fb:cell_perubahan_persentase_1999_hingga_2012.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+29	0	fb:cell_kharakteristik.wilayah_alberta	wilayah alberta	wilayah|alberta	wilayah|alberta	NNP|NNP	O|O	|					
+29	1	fb:cell_1999_2012_dolar_konstan.142000_0	142000.0	142000.0	142000.0	CD	NUMBER	142000.0	142000.0				
+29	2	fb:cell_2012_2012_dolar_konstan.260000_0	260000.0	260000.0	260000.0	CD	NUMBER	260000.0	260000.0				
+29	3	fb:cell_perubahan_dolar_1999_ke_2012.118000_0	118000.0	118000.0	118000.0	CD	NUMBER	118000.0	118000.0				
+29	4	fb:cell_perubahan_persentase_1999_hingga_2012.83_1	83.1	83.1	83.1	CD	NUMBER	83.1	83.1				
+30	0	fb:cell_kharakteristik.wilayah_columbia_inggris	wilayah columbia inggris	wilayah|columbia|inggris	wilayah|columbia|inggris	NNP|NNP|NNP	O|O|O	||					
+30	1	fb:cell_1999_2012_dolar_konstan.144000_0	144000.0	144000.0	144000.0	CD	NUMBER	144000.0	144000.0				
+30	2	fb:cell_2012_2012_dolar_konstan.316900_0	316900.0	316900.0	316900.0	CD	NUMBER	316900.0	316900.0				
+30	3	fb:cell_perubahan_dolar_1999_ke_2012.172900_0	172900.0	172900.0	172900.0	CD	NUMBER	172900.0	172900.0				
+30	4	fb:cell_perubahan_persentase_1999_hingga_2012.120_1	120.1	120.1	120.1	CD	NUMBER	120.1	120.1				
+31	0	fb:cell_kharakteristik.status_kepemilikan_rumah	status kepemilikan rumah	status|kepemilikan|rumah	status|kepemilikan|rumah	NN|NN|NN	O|O|O	||					
+31	1	fb:cell_1999_2012_dolar_konstan.null											
+31	2	fb:cell_2012_2012_dolar_konstan.null											
+31	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+31	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+32	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dengan_hipotek	pemilik status kepemilikan rumah dengan hipotek	pemilik|status|kepemilikan|rumah|dengan|hipotek	pemilik|status|kepemilikan|rumah|dengan|hipotek	NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+32	1	fb:cell_1999_2012_dolar_konstan.190900_0	190900.0	190900.0	190900.0	CD	NUMBER	190900.0	190900.0				
+32	2	fb:cell_2012_2012_dolar_konstan.331900_0	331900.0	331900.0	331900.0	CD	NUMBER	331900.0	331900.0				
+32	3	fb:cell_perubahan_dolar_1999_ke_2012.141000_0	141000.0	141000.0	141000.0	CD	NUMBER	141000.0	141000.0				
+32	4	fb:cell_perubahan_persentase_1999_hingga_2012.73_9	73.9	73.9	73.9	CD	NUMBER	73.9	73.9				
+33	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_tanpa_hipotek	pemilik status kepemilikan rumah tanpa hipotek	pemilik|status|kepemilikan|rumah|tanpa|hipotek	pemilik|status|kepemilikan|rumah|tanpa|hipotek	NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+33	1	fb:cell_1999_2012_dolar_konstan.427400_0	427400.0	427400.0	427400.0	CD	NUMBER	427400.0	427400.0				
+33	2	fb:cell_2012_2012_dolar_konstan.784800_0	784800.0	784800.0	784800.0	CD	NUMBER	784800.0	784800.0				
+33	3	fb:cell_perubahan_dolar_1999_ke_2012.357400_0	357400.0	357400.0	357400.0	CD	NUMBER	357400.0	357400.0				
+33	4	fb:cell_perubahan_persentase_1999_hingga_2012.83_6	83.6	83.6	83.6	CD	NUMBER	83.6	83.6				
+34	0	fb:cell_kharakteristik.status_kepemilikan_rumah_bukan_pemilik	status kepemilikan rumah bukan pemilik	status|kepemilikan|rumah|bukan|pemilik	status|kepemilikan|rumah|bukan|pemilik	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+34	1	fb:cell_1999_2012_dolar_konstan.12300_0	12300.0	12300.0	12300.0	CD	NUMBER	12300.0	12300.0				
+34	2	fb:cell_2012_2012_dolar_konstan.10100_0	10100.0	10100.0	10100.0	CD	NUMBER	10100.0	10100.0				
+34	3	fb:cell_perubahan_dolar_1999_ke_2012._2200_0	-2200.0	-2200.0	-2200.0	CD	NUMBER	-2200.0	2200.0				
+34	4	fb:cell_perubahan_persentase_1999_hingga_2012._17_9	-17.9	-17.9	-17.9	CD	NUMBER	-17.9	17.9				
+35	0	fb:cell_kharakteristik.kuintil_pendapatan	kuintil pendapatan	kuintil|pendapatan	kuintil|pendapatan	NNP|NNP	O|O	|					
+35	1	fb:cell_1999_2012_dolar_konstan.null											
+35	2	fb:cell_2012_2012_dolar_konstan.null											
+35	3	fb:cell_perubahan_dolar_1999_ke_2012.null											
+35	4	fb:cell_perubahan_persentase_1999_hingga_2012.null											
+36	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_terbawah	kuintil pendapatan kuintil terbawah	kuintil|pendapatan|kuintil|terbawah	kuintil|pendapatan|kuintil|terbawah	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+36	1	fb:cell_1999_2012_dolar_konstan.11300_0	11300.0	11300.0	11300.0	CD	NUMBER	11300.0	11300.0				
+36	2	fb:cell_2012_2012_dolar_konstan.13500_0	13500.0	13500.0	13500.0	CD	NUMBER	13500.0	13500.0				
+36	3	fb:cell_perubahan_dolar_1999_ke_2012.2200_0	2200.0	2200.0	2200.0	CD	NUMBER	2200.0	2200.0				
+36	4	fb:cell_perubahan_persentase_1999_hingga_2012.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+37	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_kedua	kuintil pendapatan kuintil kedua	kuintil|pendapatan|kuintil|kedua	kuintil|pendapatan|kuintil|kedua	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+37	1	fb:cell_1999_2012_dolar_konstan.81500_0	81500.0	81500.0	81500.0	CD	NUMBER	81500.0	81500.0				
+37	2	fb:cell_2012_2012_dolar_konstan.126200_0	126200.0	126200.0	126200.0	CD	NUMBER	126200.0	126200.0				
+37	3	fb:cell_perubahan_dolar_1999_ke_2012.44700_0	44700.0	44700.0	44700.0	CD	NUMBER	44700.0	44700.0				
+37	4	fb:cell_perubahan_persentase_1999_hingga_2012.54_8	54.8	54.8	54.8	CD	NUMBER	54.8	54.8				
+38	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_menengah	kuintil pendapatan kuintil menengah	kuintil|pendapatan|kuintil|menengah	kuintil|pendapatan|kuintil|menengah	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+38	1	fb:cell_1999_2012_dolar_konstan.137700_0	137700.0	137700.0	137700.0	CD	NUMBER	137700.0	137700.0				
+38	2	fb:cell_2012_2012_dolar_konstan.234800_0	234800.0	234800.0	234800.0	CD	NUMBER	234800.0	234800.0				
+38	3	fb:cell_perubahan_dolar_1999_ke_2012.97100_0	97100.0	97100.0	97100.0	CD	NUMBER	97100.0	97100.0				
+38	4	fb:cell_perubahan_persentase_1999_hingga_2012.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+39	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_keempat	kuintil pendapatan kuintil keempat	kuintil|pendapatan|kuintil|keempat	kuintil|pendapatan|kuintil|keempat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+39	1	fb:cell_1999_2012_dolar_konstan.196600_0	196600.0	196600.0	196600.0	CD	NUMBER	196600.0	196600.0				
+39	2	fb:cell_2012_2012_dolar_konstan.419900_0	419900.0	419900.0	419900.0	CD	NUMBER	419900.0	419900.0				
+39	3	fb:cell_perubahan_dolar_1999_ke_2012.223300_0	223300.0	223300.0	223300.0	CD	NUMBER	223300.0	223300.0				
+39	4	fb:cell_perubahan_persentase_1999_hingga_2012.113_6	113.6	113.6	113.6	CD	NUMBER	113.6	113.6				
+40	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_teratas	kuintil pendapatan kuintil teratas	kuintil|pendapatan|kuintil|teratas	kuintil|pendapatan|kuintil|teratas	NNP|NNP|NNP|NNPS	O|O|O|O	|||					
+40	1	fb:cell_1999_2012_dolar_konstan.366300_0	366300.0	366300.0	366300.0	CD	NUMBER	366300.0	366300.0				
+40	2	fb:cell_2012_2012_dolar_konstan.839000_0	839000.0	839000.0	839000.0	CD	NUMBER	839000.0	839000.0				
+40	3	fb:cell_perubahan_dolar_1999_ke_2012.472700_0	472700.0	472700.0	472700.0	CD	NUMBER	472700.0	472700.0				
+40	4	fb:cell_perubahan_persentase_1999_hingga_2012.129_0	129.0	129.0	129.0	CD	NUMBER	129.0	129.0				

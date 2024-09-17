@@ -1,0 +1,121 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.jumlah_total_pekerjaan	jumlah total pekerjaan	jumlah|total|pekerjaan	jumlah|total|pekerjaan	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.nomor_wirausaha_tidak_berhubungan	nomor wirausaha tidak berhubungan	nomor|wirausaha|tidak|berhubungan	nomor|wirausaha|tidak|berhubungan	NN|NN|NN|NN	O|O|O|O	|||					
+-1	3	fb:row.row.persen_tingkat_wirausaha_yang_tidak_berhubungan	persen tingkat wirausaha yang tidak berhubungan	persen|tingkat|wirausaha|yang|tidak|berhubungan	persen|tingkat|wirausaha|yang|tidak|berhubungan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.persen_tingkat_pengangguran	persen tingkat pengangguran	persen|tingkat|pengangguran	persen|tingkat|pengangguran	JJ|NN|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx			
+0	1	fb:cell_jumlah_total_pekerjaan.14886342_0	14886342.0	14886342.0	14886342.0	CD	NUMBER	1.4886342E7	1.4886342E7				
+0	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1253251_0	1253251.0	1253251.0	1253251.0	CD	NUMBER	1253251.0	1253251.0				
+0	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+0	4	fb:cell_persen_tingkat_pengangguran.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+1	0	fb:cell_kharakteristik.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx			
+1	1	fb:cell_jumlah_total_pekerjaan.15107991_0	15107991.0	15107991.0	15107991.0	CD	NUMBER	1.5107991E7	1.5107991E7				
+1	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1275997_0	1275997.0	1275997.0	1275997.0	CD	NUMBER	1275997.0	1275997.0				
+1	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+1	4	fb:cell_persen_tingkat_pengangguran.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+2	0	fb:cell_kharakteristik.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx			
+2	1	fb:cell_jumlah_total_pekerjaan.15230934_0	15230934.0	15230934.0	15230934.0	CD	NUMBER	1.5230934E7	1.5230934E7				
+2	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1289131_0	1289131.0	1289131.0	1289131.0	CD	NUMBER	1289131.0	1289131.0				
+2	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+2	4	fb:cell_persen_tingkat_pengangguran.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+3	0	fb:cell_kharakteristik.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx			
+3	1	fb:cell_jumlah_total_pekerjaan.14811621_0	14811621.0	14811621.0	14811621.0	CD	NUMBER	1.4811621E7	1.4811621E7				
+3	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1354724_0	1354724.0	1354724.0	1354724.0	CD	NUMBER	1354724.0	1354724.0				
+3	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+3	4	fb:cell_persen_tingkat_pengangguran.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+4	0	fb:cell_kharakteristik.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx			
+4	1	fb:cell_jumlah_total_pekerjaan.14778081_0	14778081.0	14778081.0	14778081.0	CD	NUMBER	1.4778081E7	1.4778081E7				
+4	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1429147_0	1429147.0	1429147.0	1429147.0	CD	NUMBER	1429147.0	1429147.0				
+4	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+4	4	fb:cell_persen_tingkat_pengangguran.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+5	0	fb:cell_kharakteristik.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx			
+5	1	fb:cell_jumlah_total_pekerjaan.14975552_0	14975552.0	14975552.0	14975552.0	CD	NUMBER	1.4975552E7	1.4975552E7				
+5	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1523023_0	1523023.0	1523023.0	1523023.0	CD	NUMBER	1523023.0	1523023.0				
+5	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+5	4	fb:cell_persen_tingkat_pengangguran.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+6	0	fb:cell_kharakteristik.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx			
+6	1	fb:cell_jumlah_total_pekerjaan.15200903_0	15200903.0	15200903.0	15200903.0	CD	NUMBER	1.5200903E7	1.5200903E7				
+6	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1584271_0	1584271.0	1584271.0	1584271.0	CD	NUMBER	1584271.0	1584271.0				
+6	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+6	4	fb:cell_persen_tingkat_pengangguran.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+7	0	fb:cell_kharakteristik.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx			
+7	1	fb:cell_jumlah_total_pekerjaan.15444650_0	15444650.0	15444650.0	15444650.0	CD	NUMBER	1.544465E7	1.544465E7				
+7	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1661205_0	1661205.0	1661205.0	1661205.0	CD	NUMBER	1661205.0	1661205.0				
+7	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+7	4	fb:cell_persen_tingkat_pengangguran.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+8	0	fb:cell_kharakteristik.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx			
+8	1	fb:cell_jumlah_total_pekerjaan.15944935_0	15944935.0	15944935.0	15944935.0	CD	NUMBER	1.5944935E7	1.5944935E7				
+8	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1742560_0	1742560.0	1742560.0	1742560.0	CD	NUMBER	1742560.0	1742560.0				
+8	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+8	4	fb:cell_persen_tingkat_pengangguran.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+9	0	fb:cell_kharakteristik.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx			
+9	1	fb:cell_jumlah_total_pekerjaan.16389524_0	16389524.0	16389524.0	16389524.0	CD	NUMBER	1.6389524E7	1.6389524E7				
+9	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1787556_0	1787556.0	1787556.0	1787556.0	CD	NUMBER	1787556.0	1787556.0				
+9	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+9	4	fb:cell_persen_tingkat_pengangguran.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+10	0	fb:cell_kharakteristik.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx			
+10	1	fb:cell_jumlah_total_pekerjaan.16965259_0	16965259.0	16965259.0	16965259.0	CD	NUMBER	1.6965259E7	1.6965259E7				
+10	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1812484_0	1812484.0	1812484.0	1812484.0	CD	NUMBER	1812484.0	1812484.0				
+10	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+10	4	fb:cell_persen_tingkat_pengangguran.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+11	0	fb:cell_kharakteristik.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx			
+11	1	fb:cell_jumlah_total_pekerjaan.17534623_0	17534623.0	17534623.0	17534623.0	CD	NUMBER	1.7534623E7	1.7534623E7				
+11	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1818757_0	1818757.0	1818757.0	1818757.0	CD	NUMBER	1818757.0	1818757.0				
+11	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+11	4	fb:cell_persen_tingkat_pengangguran.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+12	0	fb:cell_kharakteristik.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx			
+12	1	fb:cell_jumlah_total_pekerjaan.17876523_0	17876523.0	17876523.0	17876523.0	CD	NUMBER	1.7876523E7	1.7876523E7				
+12	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1834968_0	1834968.0	1834968.0	1834968.0	CD	NUMBER	1834968.0	1834968.0				
+12	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+12	4	fb:cell_persen_tingkat_pengangguran.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+13	0	fb:cell_kharakteristik.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx			
+13	1	fb:cell_jumlah_total_pekerjaan.18020742_0	18020742.0	18020742.0	18020742.0	CD	NUMBER	1.8020742E7	1.8020742E7				
+13	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1844769_0	1844769.0	1844769.0	1844769.0	CD	NUMBER	1844769.0	1844769.0				
+13	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+13	4	fb:cell_persen_tingkat_pengangguran.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+14	0	fb:cell_kharakteristik.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx			
+14	1	fb:cell_jumlah_total_pekerjaan.18478410_0	18478410.0	18478410.0	18478410.0	CD	NUMBER	1.847841E7	1.847841E7				
+14	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1873082_0	1873082.0	1873082.0	1873082.0	CD	NUMBER	1873082.0	1873082.0				
+14	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+14	4	fb:cell_persen_tingkat_pengangguran.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+15	0	fb:cell_kharakteristik.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx			
+15	1	fb:cell_jumlah_total_pekerjaan.18689067_0	18689067.0	18689067.0	18689067.0	CD	NUMBER	1.8689067E7	1.8689067E7				
+15	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1880239_0	1880239.0	1880239.0	1880239.0	CD	NUMBER	1880239.0	1880239.0				
+15	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+15	4	fb:cell_persen_tingkat_pengangguran.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+16	0	fb:cell_kharakteristik.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx			
+16	1	fb:cell_jumlah_total_pekerjaan.18889743_0	18889743.0	18889743.0	18889743.0	CD	NUMBER	1.8889743E7	1.8889743E7				
+16	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1917719_0	1917719.0	1917719.0	1917719.0	CD	NUMBER	1917719.0	1917719.0				
+16	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+16	4	fb:cell_persen_tingkat_pengangguran.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+17	0	fb:cell_kharakteristik.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx			
+17	1	fb:cell_jumlah_total_pekerjaan.19021639_0	19021639.0	19021639.0	19021639.0	CD	NUMBER	1.9021639E7	1.9021639E7				
+17	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1921756_0	1921756.0	1921756.0	1921756.0	CD	NUMBER	1921756.0	1921756.0				
+17	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+17	4	fb:cell_persen_tingkat_pengangguran.6_3	6.3	6.3	6.3	CD	NUMBER	6.3	6.3				
+18	0	fb:cell_kharakteristik.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx			
+18	1	fb:cell_jumlah_total_pekerjaan.19465433_0	19465433.0	19465433.0	19465433.0	CD	NUMBER	1.9465433E7	1.9465433E7				
+18	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1972510_0	1972510.0	1972510.0	1972510.0	CD	NUMBER	1972510.0	1972510.0				
+18	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+18	4	fb:cell_persen_tingkat_pengangguran.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+19	0	fb:cell_kharakteristik.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx			
+19	1	fb:cell_jumlah_total_pekerjaan.19726554_0	19726554.0	19726554.0	19726554.0	CD	NUMBER	1.9726554E7	1.9726554E7				
+19	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1977448_0	1977448.0	1977448.0	1977448.0	CD	NUMBER	1977448.0	1977448.0				
+19	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+19	4	fb:cell_persen_tingkat_pengangguran.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+20	0	fb:cell_kharakteristik.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx			
+20	1	fb:cell_jumlah_total_pekerjaan.19475125_0	19475125.0	19475125.0	19475125.0	CD	NUMBER	1.9475125E7	1.9475125E7				
+20	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1971929_0	1971929.0	1971929.0	1971929.0	CD	NUMBER	1971929.0	1971929.0				
+20	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+20	4	fb:cell_persen_tingkat_pengangguran.8_3	8.3	8.3	8.3	CD	NUMBER	8.3	8.3				
+21	0	fb:cell_kharakteristik.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx			
+21	1	fb:cell_jumlah_total_pekerjaan.19598520_0	19598520.0	19598520.0	19598520.0	CD	NUMBER	1.959852E7	1.959852E7				
+21	2	fb:cell_nomor_wirausaha_tidak_berhubungan.2014098_0	2014098.0	2014098.0	2014098.0	CD	NUMBER	2014098.0	2014098.0				
+21	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+21	4	fb:cell_persen_tingkat_pengangguran.8_1	8.1	8.1	8.1	CD	NUMBER	8.1	8.1				
+22	0	fb:cell_kharakteristik.rata_rata_tahunan	rata-rata tahunan	rata|rata|tahunan	rata|rata|tahunan	JJ|JJ|NNP	O|O|O	||					
+22	1	fb:cell_jumlah_total_pekerjaan.17114190_0	17114190.0	17114190.0	17114190.0	CD	NUMBER	1.711419E7	1.711419E7				
+22	2	fb:cell_nomor_wirausaha_tidak_berhubungan.1715483_0	1715483.0	1715483.0	1715483.0	CD	NUMBER	1715483.0	1715483.0				
+22	3	fb:cell_persen_tingkat_wirausaha_yang_tidak_berhubungan.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+22	4	fb:cell_persen_tingkat_pengangguran.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				

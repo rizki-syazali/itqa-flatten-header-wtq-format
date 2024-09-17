@@ -1,0 +1,91 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_laki_laki_tahun_2004	tingkat laki-laki tahun 2004	tingkat|laki|laki|tahun|2004	tingkat|laki|laki|tahun|2004	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2004					
+-1	2	fb:row.row.tingkat_perempuan_tahun_2004	tingkat perempuan tahun 2004	tingkat|perempuan|tahun|2004	tingkat|perempuan|tahun|2004	NNP|NNP|NNP|CD	O|O|O|DATE	|||2004					
+-1	3	fb:row.row.tarif_total_tahun_2004	tarif total tahun 2004	tarif|total|tahun|2004	tarif|total|tahun|2004	NNP|NNP|NNP|CD	O|O|O|DATE	|||2004					
+-1	4	fb:row.row.tingkat_laki_laki_tahun_2014	tingkat laki-laki tahun 2014	tingkat|laki|laki|tahun|2014	tingkat|laki|laki|tahun|2014	NNP|NNP|NNP|NNP|CD	O|O|O|O|DATE	||||2014					
+-1	5	fb:row.row.tingkat_perempuan_tahun_2014	tingkat perempuan tahun 2014	tingkat|perempuan|tahun|2014	tingkat|perempuan|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014					
+-1	6	fb:row.row.tarif_total_tahun_2014	tarif total tahun 2014	tarif|total|tahun|2014	tarif|total|tahun|2014	NNP|NNP|NNP|CD	O|O|O|DATE	|||2014					
+-1	7	fb:row.row.persen_perubahan_angka_2004_ke_2014_persen_laki_laki	persen perubahan angka 2004 ke 2014 persen laki-laki	persen|perubahan|angka|2004|ke|2014|persen|laki|laki	persen|perubahan|angka|2004|ke|2014|persen|laki|laki	NNP|NNP|NNP|CD|NNP|CD|NNP|NNP|NNP	O|O|O|DATE|O|DATE|O|O|O	|||2004||2014|||					
+-1	8	fb:row.row.persen_perubahan_angka_2004_ke_2014_perempuan_persen	persen perubahan angka 2004 ke 2014 perempuan persen	persen|perubahan|angka|2004|ke|2014|perempuan|persen	persen|perubahan|angka|2004|ke|2014|perempuan|persen	NNP|NNP|NNP|CD|NNP|CD|NNP|NNP	O|O|O|DATE|O|DATE|O|O	|||2004||2014||					
+-1	9	fb:row.row.persen_perubahan_tarif_2004_ke_2014_total_persen	persen perubahan tarif 2004 ke 2014 total persen	persen|perubahan|tarif|2004|ke|2014|total|persen	persen|perubahan|tarif|2004|ke|2014|total|persen	NNP|NNP|NNP|CD|NNP|CD|JJ|NN	O|O|O|DATE|O|DATE|O|O	|||2004||2014||					
+0	0	fb:cell_kharakteristik.total_biaya	total biaya	total|biaya	total|biaya	JJ|NN	O|O	|					
+0	1	fb:cell_tingkat_laki_laki_tahun_2004.2913_0	2913.0	2913.0	2913.0	CD	NUMBER	2913.0	2913.0				
+0	2	fb:cell_tingkat_perempuan_tahun_2004.669_0	669.0	669.0	669.0	CD	NUMBER	669.0	669.0				
+0	3	fb:cell_tarif_total_tahun_2004.1775_0	1775.0	1775.0	1775.0	CD	NUMBER	1775.0	1775.0				
+0	4	fb:cell_tingkat_laki_laki_tahun_2014.2252_0	2252.0	2252.0	2252.0	CD	NUMBER	2252.0	2252.0				
+0	5	fb:cell_tingkat_perempuan_tahun_2014.619_0	619.0	619.0	619.0	CD	NUMBER	619.0	619.0				
+0	6	fb:cell_tarif_total_tahun_2014.1425_0	1425.0	1425.0	1425.0	CD	NUMBER	1425.0	1425.0				
+0	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki._22_7	-22.7	-22.7	-22.7	CD	NUMBER	-22.7	22.7				
+0	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen._7_5	-7.5	-7.5	-7.5	CD	NUMBER	-7.5	7.5				
+0	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen._19_7	-19.7	-19.7	-19.7	CD	NUMBER	-19.7	19.7				
+1	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan	pelanggaran terhadap administrasi peradilan	pelanggaran|terhadap|administrasi|peradilan	pelanggaran|terhadap|administrasi|peradilan	NN|NN|NN|NN	O|O|O|O	|||					
+1	1	fb:cell_tingkat_laki_laki_tahun_2004.654_0	654.0	654.0	654.0	CD	NUMBER	654.0	654.0				
+1	2	fb:cell_tingkat_perempuan_tahun_2004.151_0	151.0	151.0	151.0	CD	NUMBER	151.0	151.0				
+1	3	fb:cell_tarif_total_tahun_2004.399_0	399.0	399.0	399.0	CD	NUMBER	399.0	399.0				
+1	4	fb:cell_tingkat_laki_laki_tahun_2014.683_0	683.0	683.0	683.0	CD	NUMBER	683.0	683.0				
+1	5	fb:cell_tingkat_perempuan_tahun_2014.182_0	182.0	182.0	182.0	CD	NUMBER	182.0	182.0				
+1	6	fb:cell_tarif_total_tahun_2014.429_0	429.0	429.0	429.0	CD	NUMBER	429.0	429.0				
+1	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+1	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen.20_7	20.7	20.7	20.7	CD	NUMBER	20.7	20.7				
+1	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+2	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_kegagalan_untuk_mematuhi_kondisi	pelanggaran terhadap administrasi peradilan kegagalan untuk mematuhi kondisi	pelanggaran|terhadap|administrasi|peradilan|kegagalan|untuk|mematuhi|kondisi	pelanggaran|terhadap|administrasi|peradilan|kegagalan|untuk|mematuhi|kondisi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_tingkat_laki_laki_tahun_2004.379_0	379.0	379.0	379.0	CD	NUMBER	379.0	379.0				
+2	2	fb:cell_tingkat_perempuan_tahun_2004.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+2	3	fb:cell_tarif_total_tahun_2004.230_0	230.0	230.0	230.0	CD	NUMBER	230.0	230.0				
+2	4	fb:cell_tingkat_laki_laki_tahun_2014.391_0	391.0	391.0	391.0	CD	NUMBER	391.0	391.0				
+2	5	fb:cell_tingkat_perempuan_tahun_2014.103_0	103.0	103.0	103.0	CD	NUMBER	103.0	103.0				
+2	6	fb:cell_tarif_total_tahun_2014.245_0	245.0	245.0	245.0	CD	NUMBER	245.0	245.0				
+2	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+2	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen.21_4	21.4	21.4	21.4	CD	NUMBER	21.4	21.4				
+2	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+3	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_lolos_dari_tahanan	pelanggaran terhadap administrasi peradilan lolos dari tahanan	pelanggaran|terhadap|administrasi|peradilan|lolos|dari|tahanan	pelanggaran|terhadap|administrasi|peradilan|lolos|dari|tahanan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_tingkat_laki_laki_tahun_2004.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+3	2	fb:cell_tingkat_perempuan_tahun_2004.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	3	fb:cell_tarif_total_tahun_2004.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+3	4	fb:cell_tingkat_laki_laki_tahun_2014.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	5	fb:cell_tingkat_perempuan_tahun_2014.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+3	6	fb:cell_tarif_total_tahun_2014.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+3	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki._61_7	-61.7	-61.7	-61.7	CD	NUMBER	-61.7	61.7				
+3	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen._57_5	-57.5	-57.5	-57.5	CD	NUMBER	-57.5	57.5				
+3	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen._61_2	-61.2	-61.2	-61.2	CD	NUMBER	-61.2	61.2				
+4	0	fb:cell_kharakteristik.pelanggaran_terhadap_penyelenggaraan_peradilan_tahanan_yang_buron_secara_tidak_sah	pelanggaran terhadap penyelenggaraan peradilan tahanan yang buron secara tidak sah	pelanggaran|terhadap|penyelenggaraan|peradilan|tahanan|yang|buron|secara|tidak|sah	pelanggaran|terhadap|penyelenggaraan|peradilan|tahanan|yang|buron|secara|tidak|sah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+4	1	fb:cell_tingkat_laki_laki_tahun_2004.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+4	2	fb:cell_tingkat_perempuan_tahun_2004.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+4	3	fb:cell_tarif_total_tahun_2004.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+4	4	fb:cell_tingkat_laki_laki_tahun_2014.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+4	5	fb:cell_tingkat_perempuan_tahun_2014.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+4	6	fb:cell_tarif_total_tahun_2014.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+4	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+4	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen._11_1	-11.1	-11.1	-11.1	CD	NUMBER	-11.1	11.1				
+4	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen.8_6	8.6	8.6	8.6	CD	NUMBER	8.6	8.6				
+5	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_kegagalan_menghadiri_pengadilan	pelanggaran terhadap administrasi peradilan kegagalan menghadiri pengadilan	pelanggaran|terhadap|administrasi|peradilan|kegagalan|menghadiri|pengadilan	pelanggaran|terhadap|administrasi|peradilan|kegagalan|menghadiri|pengadilan	NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_tingkat_laki_laki_tahun_2004.103_0	103.0	103.0	103.0	CD	NUMBER	103.0	103.0				
+5	2	fb:cell_tingkat_perempuan_tahun_2004.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+5	3	fb:cell_tarif_total_tahun_2004.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+5	4	fb:cell_tingkat_laki_laki_tahun_2014.103_0	103.0	103.0	103.0	CD	NUMBER	103.0	103.0				
+5	5	fb:cell_tingkat_perempuan_tahun_2014.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+5	6	fb:cell_tarif_total_tahun_2014.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+5	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki._0_8	-0.8	-0.8	-0.8	CD	NUMBER	-0.8	0.8				
+5	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen.26_3	26.3	26.3	26.3	CD	NUMBER	26.3	26.3				
+5	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+6	0	fb:cell_kharakteristik.pelanggaran_terhadap_administrasi_peradilan_pelanggaran_masa_percobaan	pelanggaran terhadap administrasi peradilan pelanggaran masa percobaan	pelanggaran|terhadap|administrasi|peradilan|pelanggaran|masa|percobaan	pelanggaran|terhadap|administrasi|peradilan|pelanggaran|masa|percobaan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_tingkat_laki_laki_tahun_2004.134_0	134.0	134.0	134.0	CD	NUMBER	134.0	134.0				
+6	2	fb:cell_tingkat_perempuan_tahun_2004.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+6	3	fb:cell_tarif_total_tahun_2004.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+6	4	fb:cell_tingkat_laki_laki_tahun_2014.155_0	155.0	155.0	155.0	CD	NUMBER	155.0	155.0				
+6	5	fb:cell_tingkat_perempuan_tahun_2014.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+6	6	fb:cell_tarif_total_tahun_2014.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+6	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki.15_8	15.8	15.8	15.8	CD	NUMBER	15.8	15.8				
+6	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen.19_4	19.4	19.4	19.4	CD	NUMBER	19.4	19.4				
+6	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen.16_5	16.5	16.5	16.5	CD	NUMBER	16.5	16.5				
+7	0	fb:cell_kharakteristik.pelanggaran_terhadap_penyelenggaraan_peradilan_pelanggaran_lain_terhadap_penyelenggaraan_hukum_dan_peradilan	pelanggaran terhadap penyelenggaraan peradilan pelanggaran lain terhadap penyelenggaraan hukum dan peradilan	pelanggaran|terhadap|penyelenggaraan|peradilan|pelanggaran|lain|terhadap|penyelenggaraan|hukum|dan|peradilan	pelanggaran|terhadap|penyelenggaraan|peradilan|pelanggaran|lain|terhadap|penyelenggaraan|hukum|dan|peradilan	NN|NN|NN|NN|NN|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+7	1	fb:cell_tingkat_laki_laki_tahun_2004.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+7	2	fb:cell_tingkat_perempuan_tahun_2004.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+7	3	fb:cell_tarif_total_tahun_2004.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+7	4	fb:cell_tingkat_laki_laki_tahun_2014.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+7	5	fb:cell_tingkat_perempuan_tahun_2014.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+7	6	fb:cell_tarif_total_tahun_2014.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+7	7	fb:cell_persen_perubahan_angka_2004_ke_2014_persen_laki_laki.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+7	8	fb:cell_persen_perubahan_angka_2004_ke_2014_perempuan_persen.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+7	9	fb:cell_persen_perubahan_tarif_2004_ke_2014_total_persen.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				

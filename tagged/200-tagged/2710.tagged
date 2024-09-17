@@ -1,0 +1,22 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.instalasi_pengolahan_air_limbah	instalasi pengolahan air limbah	instalasi|pengolahan|air|limbah	instalasi|pengolahan|air|limbah	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.penduduk_tahun_2018	penduduk tahun 2018	penduduk|tahun|2018	penduduk|tahun|2018	NN|NN|CD	O|O|DATE	||2018					
+0	0	fb:cell_kharakteristik.halifax_pusat	halifax pusat	halifax|pusat	halifax|pusat	NNP|NNP	LOCATION|O	|					
+0	1	fb:cell_instalasi_pengolahan_air_limbah.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+0	2	fb:cell_penduduk_tahun_2018.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+1	0	fb:cell_kharakteristik.pulau_montreal	pulau Montreal	pulau|montreal	pulau|Montreal	NNP|NNP	O|O	|					
+1	1	fb:cell_instalasi_pengolahan_air_limbah.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	2	fb:cell_penduduk_tahun_2018.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+2	0	fb:cell_kharakteristik.kota_toronto	kota toronto	kota|toronto	kota|toronto	NNP|NNP	O|O	|					
+2	1	fb:cell_instalasi_pengolahan_air_limbah.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	2	fb:cell_penduduk_tahun_2018.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+3	0	fb:cell_kharakteristik.kota_edmonton	kota Edmonton	kota|edmonton	kota|Edmonton	NNP|NNP	PERSON|PERSON	|					
+3	1	fb:cell_instalasi_pengolahan_air_limbah.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	2	fb:cell_penduduk_tahun_2018.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+4	0	fb:cell_kharakteristik.wilayah_metro_vancouver	wilayah metro vancouver	wilayah|metro|vancouver	wilayah|metro|vancouver	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_instalasi_pengolahan_air_limbah.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	2	fb:cell_penduduk_tahun_2018.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+5	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+5	1	fb:cell_instalasi_pengolahan_air_limbah.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+5	2	fb:cell_penduduk_tahun_2018.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				

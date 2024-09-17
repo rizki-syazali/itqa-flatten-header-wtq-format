@@ -1,0 +1,26 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.proporsi_keinginan_formal	proporsi keinginan formal	proporsi|keinginan|formal	proporsi|keinginan|formal	NN|NN|JJ	O|O|O	||					
+-1	2	fb:row.row.proporsi_subkelompok_formal	proporsi subkelompok formal	proporsi|subkelompok|formal	proporsi|subkelompok|formal	NN|NN|JJ	O|O|O	||					
+-1	3	fb:row.row.proporsi_keinginan_informal	proporsi keinginan informal	proporsi|keinginan|informal	proporsi|keinginan|informal	NN|NN|JJ	O|O|O	||					
+-1	4	fb:row.row.proporsi_subkelompok_informal	proporsi subkelompok informal	proporsi|subkelompok|informal	proporsi|subkelompok|informal	NN|NN|JJ	O|O|O	||					
+0	0	fb:cell_kharakteristik.persen_kredit_akademik_secara_eksklusif	persen kredit akademik secara eksklusif	persen|kredit|akademik|secara|eksklusif	persen|kredit|akademik|secara|eksklusif	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_proporsi_keinginan_formal.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+0	2	fb:cell_proporsi_subkelompok_formal.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+0	3	fb:cell_proporsi_keinginan_informal.null											
+0	4	fb:cell_proporsi_subkelompok_informal.null											
+1	0	fb:cell_kharakteristik.pembayaran_persen_secara_eksklusif	pembayaran persen secara eksklusif	pembayaran|persen|secara|eksklusif	pembayaran|persen|secara|eksklusif	NN|NN|NN|NN	O|O|O|O	|||					
+1	1	fb:cell_proporsi_keinginan_formal.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+1	2	fb:cell_proporsi_subkelompok_formal.30_6	30.6	30.6	30.6	CD	NUMBER	30.6	30.6				
+1	3	fb:cell_proporsi_keinginan_informal.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+1	4	fb:cell_proporsi_subkelompok_informal.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	0	fb:cell_kharakteristik.persen_baik_kredit_akademik_maupun_pembayaran	persen baik kredit akademik maupun pembayaran	persen|baik|kredit|akademik|maupun|pembayaran	persen|baik|kredit|akademik|maupun|pembayaran	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_proporsi_keinginan_formal.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+2	2	fb:cell_proporsi_subkelompok_formal.52_6	52.6	52.6	52.6	CD	NUMBER	52.6	52.6				
+2	3	fb:cell_proporsi_keinginan_informal.null											
+2	4	fb:cell_proporsi_subkelompok_informal.null											
+3	0	fb:cell_kharakteristik.persen_total	persen total	persen|total	persen|total	NNP|NNP	O|O	|					
+3	1	fb:cell_proporsi_keinginan_formal.34_3	34.3	34.3	34.3	CD	NUMBER	34.3	34.3				
+3	2	fb:cell_proporsi_subkelompok_formal.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+3	3	fb:cell_proporsi_keinginan_informal.65_7	65.7	65.7	65.7	CD	NUMBER	65.7	65.7				
+3	4	fb:cell_proporsi_subkelompok_informal.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				

@@ -1,0 +1,166 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.berarti	berarti	berarti	berarti	NNP	O						
+-1	2	fb:row.row.deviasi_standar	deviasi standar	deviasi|standar	deviasi|standar	JJ|NN	O|O	|					
+-1	3	fb:row.row.hal5	hal5	hal5	hal5	NN	O						
+-1	4	fb:row.row.hal95	hal95	hal95	hal95	NN	O						
+0	0	fb:cell_kharakteristik.perubahan_sepuluh_tahun	perubahan sepuluh tahun	perubahan|sepuluh|tahun	perubahan|sepuluh|tahun	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_berarti.null											
+0	2	fb:cell_deviasi_standar.null											
+0	3	fb:cell_hal5.null											
+0	4	fb:cell_hal95.null											
+1	0	fb:cell_kharakteristik.perubahan_sepuluh_tahun_mencatat_pertumbuhan_produktivitas_tenaga_kerja_yang_bernilai_tambah	perubahan sepuluh tahun mencatat pertumbuhan produktivitas tenaga kerja yang bernilai tambah	perubahan|sepuluh|tahun|mencatat|pertumbuhan|produktivitas|tenaga|kerja|yang|bernilai|tambah	perubahan|sepuluh|tahun|mencatat|pertumbuhan|produktivitas|tenaga|kerja|yang|bernilai|tambah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+1	1	fb:cell_berarti.0_11	0.11	0.11	0.11	CD	NUMBER	0.11	0.11				
+1	2	fb:cell_deviasi_standar.0_49	0.49	0.49	0.49	CD	NUMBER	0.49	0.49				
+1	3	fb:cell_hal5._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+1	4	fb:cell_hal95.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+2	0	fb:cell_kharakteristik.perubahan_log_pertumbuhan_sepuluh_tahun_dalam_rasio_modal_tenaga_kerja	perubahan log pertumbuhan sepuluh tahun dalam rasio modal/tenaga kerja	perubahan|log|pertumbuhan|sepuluh|tahun|dalam|rasio|modal/tenaga|kerja	perubahan|log|pertumbuhan|sepuluh|tahun|dalam|rasio|modal/tenaga|kerja	NNP|NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||				perubahan log pertumbuhan sepuluh tahun dalam rasio modal|tenaga kerja	fb:part_kharakteristik.perubahan_log_pertumbuhan_sepuluh_tahun_dalam_rasio_modal|fb:part_kharakteristik.tenaga_kerja
+2	1	fb:cell_berarti.0_32	0.32	0.32	0.32	CD	NUMBER	0.32	0.32				
+2	2	fb:cell_deviasi_standar.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+2	3	fb:cell_hal5._1_61	-1.61	-1.61	-1.61	CD	NUMBER	-1.61	1.61				
+2	4	fb:cell_hal95.2_36	2.36	2.36	2.36	CD	NUMBER	2.36	2.36				
+3	0	fb:cell_kharakteristik.pertumbuhan_log_perubahan_sepuluh_tahun_dalam_lapangan_kerja	pertumbuhan log perubahan sepuluh tahun dalam lapangan kerja	pertumbuhan|log|perubahan|sepuluh|tahun|dalam|lapangan|kerja	pertumbuhan|log|perubahan|sepuluh|tahun|dalam|lapangan|kerja	NNP|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+3	1	fb:cell_berarti.0_11	0.11	0.11	0.11	CD	NUMBER	0.11	0.11				
+3	2	fb:cell_deviasi_standar.0_54	0.54	0.54	0.54	CD	NUMBER	0.54	0.54				
+3	3	fb:cell_hal5._0_71	-0.71	-0.71	-0.71	CD	NUMBER	-0.71	0.71				
+3	4	fb:cell_hal95.0_99	0.99	0.99	0.99	CD	NUMBER	0.99	0.99				
+4	0	fb:cell_kharakteristik.perubahan_sepuluh_tahun	perubahan sepuluh tahun	perubahan|sepuluh|tahun	perubahan|sepuluh|tahun	NNP|NNP|NNP	O|O|O	||					
+4	1	fb:cell_berarti.null											
+4	2	fb:cell_deviasi_standar.null											
+4	3	fb:cell_hal5.null											
+4	4	fb:cell_hal95.null											
+5	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_imigran	bagian perubahan sepuluh tahun imigran	bagian|perubahan|sepuluh|tahun|imigran	bagian|perubahan|sepuluh|tahun|imigran	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_berarti.0_58	0.58	0.58	0.58	CD	NUMBER	0.58	0.58				
+5	2	fb:cell_deviasi_standar.9_36	9.36	9.36	9.36	CD	NUMBER	9.36	9.36				
+5	3	fb:cell_hal5._15_11	-15.11	-15.11	-15.11	CD	NUMBER	-15.11	15.11				
+5	4	fb:cell_hal95.14_71	14.71	14.71	14.71	CD	NUMBER	14.71	14.71				
+6	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_baru	bagian perubahan sepuluh tahun dari imigran baru	bagian|perubahan|sepuluh|tahun|dari|imigran|baru	bagian|perubahan|sepuluh|tahun|dari|imigran|baru	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_berarti._0_28	-0.28	-0.28	-0.28	CD	NUMBER	-0.28	0.28				
+6	2	fb:cell_deviasi_standar.8_71	8.71	8.71	8.71	CD	NUMBER	8.71	8.71				
+6	3	fb:cell_hal5._15_15	-15.15	-15.15	-15.15	CD	NUMBER	-15.15	15.15				
+6	4	fb:cell_hal95.11_11	11.11	11.11	11.11	CD	NUMBER	11.11	11.11				
+7	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_mapan	bagian perubahan sepuluh tahun dari imigran mapan	bagian|perubahan|sepuluh|tahun|dari|imigran|mapan	bagian|perubahan|sepuluh|tahun|dari|imigran|mapan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+7	1	fb:cell_berarti.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+7	2	fb:cell_deviasi_standar.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+7	3	fb:cell_hal5._7_02	-7.02	-7.02	-7.02	CD	NUMBER	-7.02	7.02				
+7	4	fb:cell_hal95.10_53	10.53	10.53	10.53	CD	NUMBER	10.53	10.53				
+8	0	fb:cell_kharakteristik.persentase_perubahan_sepuluh_tahun_dari_imigran_bahasa_resmi	persentase perubahan sepuluh tahun dari imigran bahasa resmi	persentase|perubahan|sepuluh|tahun|dari|imigran|bahasa|resmi	persentase|perubahan|sepuluh|tahun|dari|imigran|bahasa|resmi	NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+8	1	fb:cell_berarti.1_07	1.07	1.07	1.07	CD	NUMBER	1.07	1.07				
+8	2	fb:cell_deviasi_standar.6_73	6.73	6.73	6.73	CD	NUMBER	6.73	6.73				
+8	3	fb:cell_hal5._8_85	-8.85	-8.85	-8.85	CD	NUMBER	-8.85	8.85				
+8	4	fb:cell_hal95.12_07	12.07	12.07	12.07	CD	NUMBER	12.07	12.07				
+9	0	fb:cell_kharakteristik.persentase_perubahan_sepuluh_tahun_dari_imigran_yang_menggunakan_bahasa_non_resmi	persentase perubahan sepuluh tahun dari imigran yang menggunakan bahasa non-resmi	persentase|perubahan|sepuluh|tahun|dari|imigran|yang|menggunakan|bahasa|non|resmi	persentase|perubahan|sepuluh|tahun|dari|imigran|yang|menggunakan|bahasa|non|resmi	NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+9	1	fb:cell_berarti._0_49	-0.49	-0.49	-0.49	CD	NUMBER	-0.49	0.49				
+9	2	fb:cell_deviasi_standar.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+9	3	fb:cell_hal5._8_86	-8.86	-8.86	-8.86	CD	NUMBER	-8.86	8.86				
+9	4	fb:cell_hal95.5_33	5.33	5.33	5.33	CD	NUMBER	5.33	5.33				
+10	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_utama_yang_terampil	bagian perubahan sepuluh tahun dari imigran utama yang terampil	bagian|perubahan|sepuluh|tahun|dari|imigran|utama|yang|terampil	bagian|perubahan|sepuluh|tahun|dari|imigran|utama|yang|terampil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+10	1	fb:cell_berarti.0_38	0.38	0.38	0.38	CD	NUMBER	0.38	0.38				
+10	2	fb:cell_deviasi_standar.3_85	3.85	3.85	3.85	CD	NUMBER	3.85	3.85				
+10	3	fb:cell_hal5._4_9	-4.9	-4.9	-4.9	CD	NUMBER	-4.9	4.9				
+10	4	fb:cell_hal95.6_21	6.21	6.21	6.21	CD	NUMBER	6.21	6.21				
+11	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_imigran_di_kelas_lain	bagian perubahan sepuluh tahun imigran di kelas lain	bagian|perubahan|sepuluh|tahun|imigran|di|kelas|lain	bagian|perubahan|sepuluh|tahun|imigran|di|kelas|lain	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+11	1	fb:cell_berarti.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+11	2	fb:cell_deviasi_standar.7_47	7.47	7.47	7.47	CD	NUMBER	7.47	7.47				
+11	3	fb:cell_hal5._12_26	-12.26	-12.26	-12.26	CD	NUMBER	-12.26	12.26				
+11	4	fb:cell_hal95.10_97	10.97	10.97	10.97	CD	NUMBER	10.97	10.97				
+12	0	fb:cell_kharakteristik.persentase_perubahan_sepuluh_tahun_dari_imigran_berketerampilan_tinggi	persentase perubahan sepuluh tahun dari imigran berketerampilan tinggi	persentase|perubahan|sepuluh|tahun|dari|imigran|berketerampilan|tinggi	persentase|perubahan|sepuluh|tahun|dari|imigran|berketerampilan|tinggi	NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+12	1	fb:cell_berarti.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+12	2	fb:cell_deviasi_standar.3_81	3.81	3.81	3.81	CD	NUMBER	3.81	3.81				
+12	3	fb:cell_hal5._5_67	-5.67	-5.67	-5.67	CD	NUMBER	-5.67	5.67				
+12	4	fb:cell_hal95.5_49	5.49	5.49	5.49	CD	NUMBER	5.49	5.49				
+13	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_yang_tidak_berketerampilan_tinggi	bagian perubahan sepuluh tahun dari imigran yang tidak berketerampilan tinggi	bagian|perubahan|sepuluh|tahun|dari|imigran|yang|tidak|berketerampilan|tinggi	bagian|perubahan|sepuluh|tahun|dari|imigran|yang|tidak|berketerampilan|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+13	1	fb:cell_berarti.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+13	2	fb:cell_deviasi_standar.7_46	7.46	7.46	7.46	CD	NUMBER	7.46	7.46				
+13	3	fb:cell_hal5._11_52	-11.52	-11.52	-11.52	CD	NUMBER	-11.52	11.52				
+13	4	fb:cell_hal95.11_5	11.5	11.5	11.5	CD	NUMBER	11.5	11.5				
+14	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_asal	bagian perubahan sepuluh tahun dari imigran asal	bagian|perubahan|sepuluh|tahun|dari|imigran|asal	bagian|perubahan|sepuluh|tahun|dari|imigran|asal	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+14	1	fb:cell_berarti.0_06	0.06	0.06	0.06	CD	NUMBER	0.06	0.06				
+14	2	fb:cell_deviasi_standar.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+14	3	fb:cell_hal5._2_33	-2.33	-2.33	-2.33	CD	NUMBER	-2.33	2.33				
+14	4	fb:cell_hal95.2_52	2.52	2.52	2.52	CD	NUMBER	2.52	2.52				
+15	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_non_stem	bagian perubahan sepuluh tahun dari imigran non-stem	bagian|perubahan|sepuluh|tahun|dari|imigran|non|stem	bagian|perubahan|sepuluh|tahun|dari|imigran|non|stem	NNP|NNP|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O	|||||||					
+15	1	fb:cell_berarti.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+15	2	fb:cell_deviasi_standar.8_79	8.79	8.79	8.79	CD	NUMBER	8.79	8.79				
+15	3	fb:cell_hal5._14_02	-14.02	-14.02	-14.02	CD	NUMBER	-14.02	14.02				
+15	4	fb:cell_hal95.13_58	13.58	13.58	13.58	CD	NUMBER	13.58	13.58				
+16	0	fb:cell_kharakteristik.bagian_perubahan_sepuluh_tahun_dari_imigran_yang_berpendidikan_universitas	bagian perubahan sepuluh tahun dari imigran yang berpendidikan universitas	bagian|perubahan|sepuluh|tahun|dari|imigran|yang|berpendidikan|universitas	bagian|perubahan|sepuluh|tahun|dari|imigran|yang|berpendidikan|universitas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O	||||||||					
+16	1	fb:cell_berarti.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+16	2	fb:cell_deviasi_standar.3_96	3.96	3.96	3.96	CD	NUMBER	3.96	3.96				
+16	3	fb:cell_hal5._3_61	-3.61	-3.61	-3.61	CD	NUMBER	-3.61	3.61				
+16	4	fb:cell_hal95.7_41	7.41	7.41	7.41	CD	NUMBER	7.41	7.41				
+17	0	fb:cell_kharakteristik.persentase_perubahan_sepuluh_tahun_dari_imigran_dengan_pendidikan_rendah	persentase perubahan sepuluh tahun dari imigran dengan pendidikan rendah	persentase|perubahan|sepuluh|tahun|dari|imigran|dengan|pendidikan|rendah	persentase|perubahan|sepuluh|tahun|dari|imigran|dengan|pendidikan|rendah	NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+17	1	fb:cell_berarti._0_32	-0.32	-0.32	-0.32	CD	NUMBER	-0.32	0.32				
+17	2	fb:cell_deviasi_standar.7_52	7.52	7.52	7.52	CD	NUMBER	7.52	7.52				
+17	3	fb:cell_hal5._13_6	-13.6	-13.6	-13.6	CD	NUMBER	-13.6	13.6				
+17	4	fb:cell_hal95.9_89	9.89	9.89	9.89	CD	NUMBER	9.89	9.89				
+18	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel	rata-rata selama periode sampel	rata|rata|selama|periode|sampel	rata|rata|selama|periode|sampel	JJ|JJ|NNP|NNP|NNP	O|O|O|O|O	||||					
+18	1	fb:cell_berarti.null											
+18	2	fb:cell_deviasi_standar.null											
+18	3	fb:cell_hal5.null											
+18	4	fb:cell_hal95.null											
+19	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_jumlah_imigran	rata-rata selama periode sampel jumlah imigran	rata|rata|selama|periode|sampel|jumlah|imigran	rata|rata|selama|periode|sampel|jumlah|imigran	JJ|JJ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+19	1	fb:cell_berarti.13_5	13.5	13.5	13.5	CD	NUMBER	13.5	13.5				
+19	2	fb:cell_deviasi_standar.28_99	28.99	28.99	28.99	CD	NUMBER	28.99	28.99				
+19	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+19	4	fb:cell_hal95.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+20	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_imigran_baru	rata-rata selama periode sampel bagian imigran baru	rata|rata|selama|periode|sampel|bagian|imigran|baru	rata|rata|selama|periode|sampel|bagian|imigran|baru	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+20	1	fb:cell_berarti.7_75	7.75	7.75	7.75	CD	NUMBER	7.75	7.75				
+20	2	fb:cell_deviasi_standar.21_86	21.86	21.86	21.86	CD	NUMBER	21.86	21.86				
+20	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+20	4	fb:cell_hal95.58_33	58.33	58.33	58.33	CD	NUMBER	58.33	58.33				
+21	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_imigran_mapan	rata-rata selama periode sampel bagian imigran mapan	rata|rata|selama|periode|sampel|bagian|imigran|mapan	rata|rata|selama|periode|sampel|bagian|imigran|mapan	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+21	1	fb:cell_berarti.5_75	5.75	5.75	5.75	CD	NUMBER	5.75	5.75				
+21	2	fb:cell_deviasi_standar.18_44	18.44	18.44	18.44	CD	NUMBER	18.44	18.44				
+21	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	4	fb:cell_hal95.40_0	40.0	40.0	40.0	CD	NUMBER	40.0	40.0				
+22	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_jumlah_imigran_berbahasa_resmi	rata-rata selama periode sampel jumlah imigran berbahasa resmi	rata|rata|selama|periode|sampel|jumlah|imigran|berbahasa|resmi	rata|rata|selama|periode|sampel|jumlah|imigran|berbahasa|resmi	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+22	1	fb:cell_berarti.8_82	8.82	8.82	8.82	CD	NUMBER	8.82	8.82				
+22	2	fb:cell_deviasi_standar.22_88	22.88	22.88	22.88	CD	NUMBER	22.88	22.88				
+22	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+22	4	fb:cell_hal95.66_67	66.67	66.67	66.67	CD	NUMBER	66.67	66.67				
+23	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_jumlah_imigran_yang_tidak_berbahasa_resmi	rata-rata selama periode sampel jumlah imigran yang tidak berbahasa resmi	rata|rata|selama|periode|sampel|jumlah|imigran|yang|tidak|berbahasa|resmi	rata|rata|selama|periode|sampel|jumlah|imigran|yang|tidak|berbahasa|resmi	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+23	1	fb:cell_berarti.4_68	4.68	4.68	4.68	CD	NUMBER	4.68	4.68				
+23	2	fb:cell_deviasi_standar.16_37	16.37	16.37	16.37	CD	NUMBER	16.37	16.37				
+23	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+23	4	fb:cell_hal95.33_33	33.33	33.33	33.33	CD	NUMBER	33.33	33.33				
+24	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_dari_imigran_utama_yang_terampil	rata-rata selama periode sampel bagian dari imigran utama yang terampil	rata|rata|selama|periode|sampel|bagian|dari|imigran|utama|yang|terampil	rata|rata|selama|periode|sampel|bagian|dari|imigran|utama|yang|terampil	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+24	1	fb:cell_berarti.3_67	3.67	3.67	3.67	CD	NUMBER	3.67	3.67				
+24	2	fb:cell_deviasi_standar.14_27	14.27	14.27	14.27	CD	NUMBER	14.27	14.27				
+24	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+24	4	fb:cell_hal95.23_08	23.08	23.08	23.08	CD	NUMBER	23.08	23.08				
+25	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_imigran_di_kelas_lain	rata-rata selama periode sampel bagian imigran di kelas lain	rata|rata|selama|periode|sampel|bagian|imigran|di|kelas|lain	rata|rata|selama|periode|sampel|bagian|imigran|di|kelas|lain	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+25	1	fb:cell_berarti.9_83	9.83	9.83	9.83	CD	NUMBER	9.83	9.83				
+25	2	fb:cell_deviasi_standar.23_97	23.97	23.97	23.97	CD	NUMBER	23.97	23.97				
+25	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+25	4	fb:cell_hal95.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+26	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_jumlah_imigran_berketerampilan_tinggi	rata-rata selama periode sampel jumlah imigran berketerampilan tinggi	rata|rata|selama|periode|sampel|jumlah|imigran|berketerampilan|tinggi	rata|rata|selama|periode|sampel|jumlah|imigran|berketerampilan|tinggi	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+26	1	fb:cell_berarti.3_22	3.22	3.22	3.22	CD	NUMBER	3.22	3.22				
+26	2	fb:cell_deviasi_standar.13_29	13.29	13.29	13.29	CD	NUMBER	13.29	13.29				
+26	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+26	4	fb:cell_hal95.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+27	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_jumlah_imigran_yang_tidak_berketerampilan_tinggi	rata-rata selama periode sampel jumlah imigran yang tidak berketerampilan tinggi	rata|rata|selama|periode|sampel|jumlah|imigran|yang|tidak|berketerampilan|tinggi	rata|rata|selama|periode|sampel|jumlah|imigran|yang|tidak|berketerampilan|tinggi	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+27	1	fb:cell_berarti.10_28	10.28	10.28	10.28	CD	NUMBER	10.28	10.28				
+27	2	fb:cell_deviasi_standar.24_48	24.48	24.48	24.48	CD	NUMBER	24.48	24.48				
+27	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+27	4	fb:cell_hal95.75_56	75.56	75.56	75.56	CD	NUMBER	75.56	75.56				
+28	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_imigran_asal	rata-rata selama periode sampel bagian imigran asal	rata|rata|selama|periode|sampel|bagian|imigran|asal	rata|rata|selama|periode|sampel|bagian|imigran|asal	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+28	1	fb:cell_berarti.0_99	0.99	0.99	0.99	CD	NUMBER	0.99	0.99				
+28	2	fb:cell_deviasi_standar.7_43	7.43	7.43	7.43	CD	NUMBER	7.43	7.43				
+28	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+28	4	fb:cell_hal95.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+29	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_imigran_non_stem	rata-rata selama periode sampel bagian imigran non-stem	rata|rata|selama|periode|sampel|bagian|imigran|non|stem	rata|rata|selama|periode|sampel|bagian|imigran|non|stem	JJ|JJ|NNP|NNP|NNP|NNP|NNP|JJ|NN	O|O|O|O|O|O|O|O|O	||||||||					
+29	1	fb:cell_berarti.12_51	12.51	12.51	12.51	CD	NUMBER	12.51	12.51				
+29	2	fb:cell_deviasi_standar.27_67	27.67	27.67	27.67	CD	NUMBER	27.67	27.67				
+29	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+29	4	fb:cell_hal95.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+30	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_bagian_imigran_yang_berpendidikan_universitas	rata-rata selama periode sampel bagian imigran yang berpendidikan universitas	rata|rata|selama|periode|sampel|bagian|imigran|yang|berpendidikan|universitas	rata|rata|selama|periode|sampel|bagian|imigran|yang|berpendidikan|universitas	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O	|||||||||					
+30	1	fb:cell_berarti.4_13	4.13	4.13	4.13	CD	NUMBER	4.13	4.13				
+30	2	fb:cell_deviasi_standar.16_09	16.09	16.09	16.09	CD	NUMBER	16.09	16.09				
+30	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+30	4	fb:cell_hal95.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+31	0	fb:cell_kharakteristik.rata_rata_selama_periode_sampel_jumlah_imigran_dengan_pendidikan_rendah	rata-rata selama periode sampel jumlah imigran dengan pendidikan rendah	rata|rata|selama|periode|sampel|jumlah|imigran|dengan|pendidikan|rendah	rata|rata|selama|periode|sampel|jumlah|imigran|dengan|pendidikan|rendah	JJ|JJ|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+31	1	fb:cell_berarti.9_37	9.37	9.37	9.37	CD	NUMBER	9.37	9.37				
+31	2	fb:cell_deviasi_standar.23_38	23.38	23.38	23.38	CD	NUMBER	23.38	23.38				
+31	3	fb:cell_hal5.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+31	4	fb:cell_hal95.66_67	66.67	66.67	66.67	CD	NUMBER	66.67	66.67				

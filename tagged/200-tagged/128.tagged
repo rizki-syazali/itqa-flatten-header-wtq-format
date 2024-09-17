@@ -1,0 +1,22 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.persentase_bisnis_yang_melaporkan_peningkatan_pendapatan	persentase bisnis yang melaporkan peningkatan pendapatan	persentase|bisnis|yang|melaporkan|peningkatan|pendapatan	persentase|bisnis|yang|melaporkan|peningkatan|pendapatan	NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.persentase_bisnis_yang_melaporkan_tidak_ada_perubahan_pendapatan	persentase bisnis yang melaporkan tidak ada perubahan pendapatan	persentase|bisnis|yang|melaporkan|tidak|ada|perubahan|pendapatan	persentase|bisnis|yang|melaporkan|tidak|ada|perubahan|pendapatan	NN|NNP|NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_1_hingga_kurang_dari_20	persentase bisnis yang melaporkan penurunan pendapatan sebesar 1% hingga kurang dari 20%.	persentase|bisnis|yang|melaporkan|penurunan|pendapatan|sebesar|1|%|hingga|kurang|dari|20|%|.	persentase|bisnis|yang|melaporkan|penurunan|pendapatan|sebesar|1|%|hingga|kurang|dari|20|%|.	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NNP|NNP|CD|NN|.	O|O|O|O|O|O|O|PERCENT|PERCENT|O|O|O|PERCENT|PERCENT|O	|||||||%1.0|%1.0||||%20.0|%20.0|					
+-1	4	fb:row.row.persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_20_hingga_kurang_dari_40	persentase bisnis yang melaporkan penurunan pendapatan sebesar 20% hingga kurang dari 40%.	persentase|bisnis|yang|melaporkan|penurunan|pendapatan|sebesar|20|%|hingga|kurang|dari|40|%|.	persentase|bisnis|yang|melaporkan|penurunan|pendapatan|sebesar|20|%|hingga|kurang|dari|40|%|.	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NNP|NNP|CD|NN|.	O|O|O|O|O|O|O|PERCENT|PERCENT|O|O|O|PERCENT|PERCENT|O	|||||||%20.0|%20.0||||%40.0|%40.0|					
+-1	5	fb:row.row.persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_40_atau_lebih	persentase bisnis yang melaporkan penurunan pendapatan sebesar 40% atau lebih	persentase|bisnis|yang|melaporkan|penurunan|pendapatan|sebesar|40|%|atau|lebih	persentase|bisnis|yang|melaporkan|penurunan|pendapatan|sebesar|40|%|atau|lebih	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|O|O|PERCENT|PERCENT|O|O	|||||||%40.0|%40.0||					
+-1	6	fb:row.row.tidak_berlaku	tidak berlaku	tidak|berlaku	tidak|berlaku	NNP|NNP	O|O	|					
+0	0	fb:cell_kharakteristik.semua_bisnis	semua bisnis	semua|bisnis	semua|bisnis	NNP|NNP	O|O	|					
+0	1	fb:cell_persentase_bisnis_yang_melaporkan_peningkatan_pendapatan.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+0	2	fb:cell_persentase_bisnis_yang_melaporkan_tidak_ada_perubahan_pendapatan.25_5	25.5	25.5	25.5	CD	NUMBER	25.5	25.5				
+0	3	fb:cell_persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_1_hingga_kurang_dari_20.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+0	4	fb:cell_persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_20_hingga_kurang_dari_40.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+0	5	fb:cell_persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_40_atau_lebih.21_1	21.1	21.1	21.1	CD	NUMBER	21.1	21.1				
+0	6	fb:cell_tidak_berlaku.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+1	0	fb:cell_kharakteristik.semua_bisnis_bisnis_mayoritas_dimiliki_oleh_minoritas_yang_terlihat	semua bisnis bisnis mayoritas dimiliki oleh minoritas yang terlihat	semua|bisnis|bisnis|mayoritas|dimiliki|oleh|minoritas|yang|terlihat	semua|bisnis|bisnis|mayoritas|dimiliki|oleh|minoritas|yang|terlihat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_persentase_bisnis_yang_melaporkan_peningkatan_pendapatan.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+1	2	fb:cell_persentase_bisnis_yang_melaporkan_tidak_ada_perubahan_pendapatan.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+1	3	fb:cell_persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_1_hingga_kurang_dari_20.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+1	4	fb:cell_persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_20_hingga_kurang_dari_40.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+1	5	fb:cell_persentase_bisnis_yang_melaporkan_penurunan_pendapatan_sebesar_40_atau_lebih.24_7	24.7	24.7	24.7	CD	NUMBER	24.7	24.7				
+1	6	fb:cell_tidak_berlaku.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				

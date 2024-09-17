@@ -1,0 +1,19 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.kuartil_terendah	kuartil terendah	kuartil|terendah	kuartil|terendah	NNP|NNP	O|O	|					
+-1	2	fb:row.row.kuartil_kedua	kuartil kedua	kuartil|kedua	kuartil|kedua	NNP|NNP	O|O	|					
+-1	3	fb:row.row.kuartil_ketiga	kuartil ketiga	kuartil|ketiga	kuartil|ketiga	NNP|NNP	O|O	|					
+-1	4	fb:row.row.kuartil_tertinggi	kuartil tertinggi	kuartil|tertinggi	kuartil|tertinggi	NNP|NNP	O|O	|					
+-1	5	fb:row.row.total	total	total	total	NN	O						
+0	0	fb:cell_kharakteristik.persen_kurang_dari_satu_perangkat_per_anggota_rumah_tangga	persen kurang dari satu perangkat per anggota rumah tangga	persen|kurang|dari|satu|perangkat|per|anggota|rumah|tangga	persen|kurang|dari|satu|perangkat|per|anggota|rumah|tangga	NNP|NNP|NNP|NNP|NNP|IN|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+0	1	fb:cell_kuartil_terendah.63_0	63.0	63.0	63.0	CD	NUMBER	63.0	63.0				
+0	2	fb:cell_kuartil_kedua.60_7	60.7	60.7	60.7	CD	NUMBER	60.7	60.7				
+0	3	fb:cell_kuartil_ketiga.56_9	56.9	56.9	56.9	CD	NUMBER	56.9	56.9				
+0	4	fb:cell_kuartil_tertinggi.56_2	56.2	56.2	56.2	CD	NUMBER	56.2	56.2				
+0	5	fb:cell_total.58_4	58.4	58.4	58.4	CD	NUMBER	58.4	58.4				
+1	0	fb:cell_kharakteristik.persen_setidaknya_satu_perangkat_per_anggota_rumah_tangga	persen setidaknya satu perangkat per anggota rumah tangga	persen|setidaknya|satu|perangkat|per|anggota|rumah|tangga	persen|setidaknya|satu|perangkat|per|anggota|rumah|tangga	NNP|NNP|NNP|NNP|IN|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_kuartil_terendah.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+1	2	fb:cell_kuartil_kedua.39_3	39.3	39.3	39.3	CD	NUMBER	39.3	39.3				
+1	3	fb:cell_kuartil_ketiga.43_1	43.1	43.1	43.1	CD	NUMBER	43.1	43.1				
+1	4	fb:cell_kuartil_tertinggi.43_9	43.9	43.9	43.9	CD	NUMBER	43.9	43.9				
+1	5	fb:cell_total.41_6	41.6	41.6	41.6	CD	NUMBER	41.6	41.6				

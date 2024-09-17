@@ -1,0 +1,88 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1990	1990	1990	1990	CD	DATE	1990					
+-1	2	fb:row.row.2016	2016	2016	2016	CD	DATE	2016					
+0	0	fb:cell_kharakteristik.persen_laki_laki	persen laki-laki	persen|laki|laki	persen|laki|laki	NNP|NNP|NNP	O|O|O	||					
+0	1	fb:cell_1990.null											
+0	2	fb:cell_2016.null											
+1	0	fb:cell_kharakteristik.persen_laki_laki_pembantu_dan_buruh_perdagangan_konstruksi	persen laki-laki pembantu dan buruh perdagangan konstruksi	persen|laki|laki|pembantu|dan|buruh|perdagangan|konstruksi	persen|laki|laki|pembantu|dan|buruh|perdagangan|konstruksi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+1	1	fb:cell_1990.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+1	2	fb:cell_2016.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+2	0	fb:cell_kharakteristik.persen_laki_laki_mengangkut_pengemudi_truk	persen laki-laki mengangkut pengemudi truk	persen|laki|laki|mengangkut|pengemudi|truk	persen|laki|laki|mengangkut|pengemudi|truk	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+2	1	fb:cell_1990.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+2	2	fb:cell_2016.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+3	0	fb:cell_kharakteristik.persen_laki_laki_yang_menangani_material	persen laki-laki yang menangani material	persen|laki|laki|yang|menangani|material	persen|laki|laki|yang|menangani|material	NNP|NNP|NNP|NNP|NNP|NN	O|O|PERSON|PERSON|PERSON|O	|||||					
+3	1	fb:cell_1990.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+3	2	fb:cell_2016.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+4	0	fb:cell_kharakteristik.persen_laki_laki_petugas_kebersihan_penjaga_dan_pengawas_bangunan	persen laki-laki petugas kebersihan, penjaga dan pengawas bangunan	persen|laki|laki|petugas|kebersihan|,|penjaga|dan|pengawas|bangunan	persen|laki|laki|petugas|kebersihan|,|penjaga|dan|pengawas|bangunan	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				persen laki-laki petugas kebersihan|penjaga dan pengawas bangunan	fb:part_kharakteristik.persen_laki_laki_petugas_kebersihan|fb:part_kharakteristik.penjaga_dan_pengawas_bangunan
+4	1	fb:cell_1990.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+4	2	fb:cell_2016.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+5	0	fb:cell_kharakteristik.persen_laki_laki_memasak	persen laki-laki memasak	persen|laki|laki|memasak	persen|laki|laki|memasak	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_1990.null											
+5	2	fb:cell_2016.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+6	0	fb:cell_kharakteristik.persen_laki_laki_tukang_kayu	persen laki-laki tukang kayu	persen|laki|laki|tukang|kayu	persen|laki|laki|tukang|kayu	NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||					
+6	1	fb:cell_1990.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+6	2	fb:cell_2016.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+7	0	fb:cell_kharakteristik.persen_laki_laki_teknisi_servis_otomotif_mekanik_truk_dan_bus_serta_tukang_reparasi_mekanik	persen laki-laki teknisi servis otomotif, mekanik truk dan bus, serta tukang reparasi mekanik	persen|laki|laki|teknisi|servis|otomotif|,|mekanik|truk|dan|bus|,|serta|tukang|reparasi|mekanik	persen|laki|laki|teknisi|servis|otomotif|,|mekanik|truk|dan|bus|,|serta|tukang|reparasi|mekanik	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||				persen laki-laki teknisi servis otomotif|mekanik truk dan bus|serta tukang reparasi mekanik	fb:part_kharakteristik.persen_laki_laki_teknisi_servis_otomotif|fb:part_kharakteristik.mekanik_truk_dan_bus|fb:part_kharakteristik.serta_tukang_reparasi_mekanik
+7	1	fb:cell_1990.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+7	2	fb:cell_2016.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+8	0	fb:cell_kharakteristik.persen_laki_laki_pekerja_pertanian_umum	persen laki-laki pekerja pertanian umum	persen|laki|laki|pekerja|pertanian|umum	persen|laki|laki|pekerja|pertanian|umum	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+8	1	fb:cell_1990.null											
+8	2	fb:cell_2016.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+9	0	fb:cell_kharakteristik.persen_laki_laki_yang_bekerja_sebagai_pekerja_pertamanan_dan_pemeliharaan_lahan	persen laki-laki yang bekerja sebagai pekerja pertamanan dan pemeliharaan lahan	persen|laki|laki|yang|bekerja|sebagai|pekerja|pertamanan|dan|pemeliharaan|lahan	persen|laki|laki|yang|bekerja|sebagai|pekerja|pertamanan|dan|pemeliharaan|lahan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON	||||||||||					
+9	1	fb:cell_1990.null											
+9	2	fb:cell_2016.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+10	0	fb:cell_kharakteristik.persen_laki_laki_operator_alat_berat	persen laki-laki operator alat berat	persen|laki|laki|operator|alat|berat	persen|laki|laki|operator|alat|berat	NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|O	|||||					
+10	1	fb:cell_1990.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+10	2	fb:cell_2016.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+11	0	fb:cell_kharakteristik.persen_manajer_laki_laki_di_bidang_pertanian	persen manajer laki-laki di bidang pertanian	persen|manajer|laki|laki|di|bidang|pertanian	persen|manajer|laki|laki|di|bidang|pertanian	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+11	1	fb:cell_1990.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+11	2	fb:cell_2016.null											
+12	0	fb:cell_kharakteristik.persen_pria_pengantar_barang_dan_jasa_kurir	persen pria pengantar barang dan jasa kurir	persen|pria|pengantar|barang|dan|jasa|kurir	persen|pria|pengantar|barang|dan|jasa|kurir	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+12	1	fb:cell_1990.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+12	2	fb:cell_2016.null											
+13	0	fb:cell_kharakteristik.persen_laki_laki_adalah_pekerja_lain_di_bidang_pengolahan_manufaktur_dan_utilitas	persen laki-laki adalah pekerja lain di bidang pengolahan, manufaktur, dan utilitas	persen|laki|laki|adalah|pekerja|lain|di|bidang|pengolahan|,|manufaktur|,|dan|utilitas	persen|laki|laki|adalah|pekerja|lain|di|bidang|pengolahan|,|manufaktur|,|dan|utilitas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NN|,|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||||||				persen laki-laki adalah pekerja lain di bidang pengolahan|manufaktur|dan utilitas	fb:part_kharakteristik.persen_laki_laki_adalah_pekerja_lain_di_bidang_pengolahan|fb:part_kharakteristik.manufaktur|fb:part_kharakteristik.dan_utilitas
+13	1	fb:cell_1990.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+13	2	fb:cell_2016.null											
+14	0	fb:cell_kharakteristik.persen_perempuan	persen perempuan	persen|perempuan	persen|perempuan	NNP|NNP	O|O	|					
+14	1	fb:cell_1990.null											
+14	2	fb:cell_2016.null											
+15	0	fb:cell_kharakteristik.persen_wanita_pembersih_tugas_ringan	persen wanita pembersih tugas ringan	persen|wanita|pembersih|tugas|ringan	persen|wanita|pembersih|tugas|ringan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_1990.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+15	2	fb:cell_2016.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+16	0	fb:cell_kharakteristik.persen_kasir_perempuan	persen kasir perempuan	persen|kasir|perempuan	persen|kasir|perempuan	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_1990.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+16	2	fb:cell_2016.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+17	0	fb:cell_kharakteristik.persen_wanita_yang_menjadi_pelayan_makanan_dan_minuman	persen wanita yang menjadi pelayan makanan dan minuman	persen|wanita|yang|menjadi|pelayan|makanan|dan|minuman	persen|wanita|yang|menjadi|pelayan|makanan|dan|minuman	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+17	1	fb:cell_1990.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+17	2	fb:cell_2016.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+18	0	fb:cell_kharakteristik.persen_perempuan_yang_menjadi_petugas_konter_makanan_pembantu_dapur_dan_pekerjaan_pendukung_lainnya	persen perempuan yang menjadi petugas konter makanan, pembantu dapur dan pekerjaan pendukung lainnya	persen|perempuan|yang|menjadi|petugas|konter|makanan|,|pembantu|dapur|dan|pekerjaan|pendukung|lainnya	persen|perempuan|yang|menjadi|petugas|konter|makanan|,|pembantu|dapur|dan|pekerjaan|pendukung|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				persen perempuan yang menjadi petugas konter makanan|pembantu dapur dan pekerjaan pendukung lainnya	fb:part_kharakteristik.persen_perempuan_yang_menjadi_petugas_konter_makanan|fb:part_kharakteristik.pembantu_dapur_dan_pekerjaan_pendukung_lainnya
+18	1	fb:cell_1990.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+18	2	fb:cell_2016.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+19	0	fb:cell_kharakteristik.persen_wanita_penjual_ritel	persen wanita penjual ritel	persen|wanita|penjual|ritel	persen|wanita|penjual|ritel	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+19	1	fb:cell_1990.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+19	2	fb:cell_2016.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+20	0	fb:cell_kharakteristik.persen_wanita_pengawas_penjualan_ritel	persen wanita pengawas penjualan ritel	persen|wanita|pengawas|penjualan|ritel	persen|wanita|pengawas|penjualan|ritel	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_1990.null											
+20	2	fb:cell_2016.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+21	0	fb:cell_kharakteristik.persen_perempuan_sebagai_pendidik_dan_asisten_anak_usia_dini	persen perempuan sebagai pendidik dan asisten anak usia dini	persen|perempuan|sebagai|pendidik|dan|asisten|anak|usia|dini	persen|perempuan|sebagai|pendidik|dan|asisten|anak|usia|dini	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|ORGANIZATION|O	||||||||					
+21	1	fb:cell_1990.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+21	2	fb:cell_2016.3_1	3.1	3.1	3.1	CD	NUMBER	3.1	3.1				
+22	0	fb:cell_kharakteristik.persen_wanita_yang_menjadi_asisten_perawat_perawat_dan_rekan_layanan_pasien	persen wanita yang menjadi asisten perawat, perawat, dan rekan layanan pasien	persen|wanita|yang|menjadi|asisten|perawat|,|perawat|,|dan|rekan|layanan|pasien	persen|wanita|yang|menjadi|asisten|perawat|,|perawat|,|dan|rekan|layanan|pasien	NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				persen wanita yang menjadi asisten perawat|perawat|dan rekan layanan pasien	fb:part_kharakteristik.persen_wanita_yang_menjadi_asisten_perawat|fb:part_kharakteristik.perawat|fb:part_kharakteristik.dan_rekan_layanan_pasien
+22	1	fb:cell_1990.null											
+22	2	fb:cell_2016.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+23	0	fb:cell_kharakteristik.persen_perempuan_yang_memasak	persen perempuan yang memasak	persen|perempuan|yang|memasak	persen|perempuan|yang|memasak	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+23	1	fb:cell_1990.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+23	2	fb:cell_2016.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+24	0	fb:cell_kharakteristik.persen_wanita_ahli_kecantikan_ahli_elektrologi_dan_pekerjaan_terkait	persen wanita ahli kecantikan, ahli elektrologi, dan pekerjaan terkait	persen|wanita|ahli|kecantikan|,|ahli|elektrologi|,|dan|pekerjaan|terkait	persen|wanita|ahli|kecantikan|,|ahli|elektrologi|,|dan|pekerjaan|terkait	NNP|NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				persen wanita ahli kecantikan|ahli elektrologi|dan pekerjaan terkait	fb:part_kharakteristik.persen_wanita_ahli_kecantikan|fb:part_kharakteristik.ahli_elektrologi|fb:part_kharakteristik.dan_pekerjaan_terkait
+24	1	fb:cell_1990.null											
+24	2	fb:cell_2016.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+25	0	fb:cell_kharakteristik.persen_perempuan_operator_mesin_jahit_industri	persen perempuan operator mesin jahit industri	persen|perempuan|operator|mesin|jahit|industri	persen|perempuan|operator|mesin|jahit|industri	NNP|NNP|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+25	1	fb:cell_1990.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+25	2	fb:cell_2016.null											
+26	0	fb:cell_kharakteristik.persen_pekerja_perempuan_lainnya_di_bidang_pengolahan_manufaktur_dan_utilitas	persen pekerja perempuan lainnya di bidang pengolahan, manufaktur dan utilitas	persen|pekerja|perempuan|lainnya|di|bidang|pengolahan|,|manufaktur|dan|utilitas	persen|pekerja|perempuan|lainnya|di|bidang|pengolahan|,|manufaktur|dan|utilitas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				persen pekerja perempuan lainnya di bidang pengolahan|manufaktur dan utilitas	fb:part_kharakteristik.persen_pekerja_perempuan_lainnya_di_bidang_pengolahan|fb:part_kharakteristik.manufaktur_dan_utilitas
+26	1	fb:cell_1990.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+26	2	fb:cell_2016.null											
+27	0	fb:cell_kharakteristik.persen_pekerja_pendukung_kantor_umum_perempuan	persen pekerja pendukung kantor umum perempuan	persen|pekerja|pendukung|kantor|umum|perempuan	persen|pekerja|pendukung|kantor|umum|perempuan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+27	1	fb:cell_1990.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+27	2	fb:cell_2016.null											

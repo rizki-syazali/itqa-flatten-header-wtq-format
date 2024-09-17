@@ -1,0 +1,321 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.rata_rata_total	rata-rata total%	rata|rata|total|%	rata|rata|total|%	JJ|JJ|JJ|NN	O|O|O|O	|||					
+-1	2	fb:row.row.total_interval_kepercayaan_95_dari	total interval kepercayaan 95% dari	total|interval|kepercayaan|95|%|dari	total|interval|kepercayaan|95|%|dari	JJ|NN|NN|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	3	fb:row.row.total_interval_kepercayaan_95_menjadi	total interval kepercayaan 95% menjadi	total|interval|kepercayaan|95|%|menjadi	total|interval|kepercayaan|95|%|menjadi	JJ|NN|NN|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	4	fb:row.row.maksud_laki_laki	maksud laki-laki %	maksud|laki|laki|%	maksud|laki|laki|%	NNP|NNP|NNP|NN	O|O|O|O	|||					
+-1	5	fb:row.row.pria_interval_kepercayaan_95_dari	pria interval kepercayaan 95% dari	pria|interval|kepercayaan|95|%|dari	pria|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	6	fb:row.row.pria_interval_kepercayaan_95_hingga	pria interval kepercayaan 95% hingga	pria|interval|kepercayaan|95|%|hingga	pria|interval|kepercayaan|95|%|hingga	NNP|NNP|NNP|CD|NN|NN	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	7	fb:row.row.arti_wanita	arti wanita %	arti|wanita|%	arti|wanita|%	NNP|NNP|NN	O|O|O	||					
+-1	8	fb:row.row.wanita_interval_kepercayaan_95_dari	wanita interval kepercayaan 95% dari	wanita|interval|kepercayaan|95|%|dari	wanita|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|CD|NN|NNP	O|O|O|PERCENT|PERCENT|O	|||%95.0|%95.0|					
+-1	9	fb:row.row.wanita_dengan_interval_kepercayaan_95_hingga	wanita dengan interval kepercayaan 95% hingga	wanita|dengan|interval|kepercayaan|95|%|hingga	wanita|dengan|interval|kepercayaan|95|%|hingga	NNP|NNP|NN|NN|CD|NN|NN	O|O|O|O|PERCENT|PERCENT|O	||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_rata_rata_total.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+0	2	fb:cell_total_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+0	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+0	4	fb:cell_maksud_laki_laki.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+0	5	fb:cell_pria_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+0	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+0	7	fb:cell_arti_wanita.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+0	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+0	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+1	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+1	1	fb:cell_rata_rata_total.null											
+1	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+1	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+1	4	fb:cell_maksud_laki_laki.null											
+1	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+1	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+1	7	fb:cell_arti_wanita.null											
+1	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+1	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+2	0	fb:cell_kharakteristik.kelompok_usia_20_hingga_39_tahun	kelompok usia 20 hingga 39 tahun	kelompok|usia|20|hingga|39|tahun	kelompok|usia|20|hingga|39|tahun	NNP|NNP|CD|NN|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||20.0||39.0|	20.0		39.0		
+2	1	fb:cell_rata_rata_total.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+2	2	fb:cell_total_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+2	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+2	4	fb:cell_maksud_laki_laki.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+2	5	fb:cell_pria_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+2	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+2	7	fb:cell_arti_wanita.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+2	8	fb:cell_wanita_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+2	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+3	0	fb:cell_kharakteristik.kelompok_usia_40_hingga_59_tahun	kelompok usia 40 hingga 59 tahun	kelompok|usia|40|hingga|59|tahun	kelompok|usia|40|hingga|59|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||40.0||59.0|	40.0		59.0		
+3	1	fb:cell_rata_rata_total.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+3	2	fb:cell_total_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+3	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+3	4	fb:cell_maksud_laki_laki.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+3	5	fb:cell_pria_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+3	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+3	7	fb:cell_arti_wanita.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+3	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+3	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	0	fb:cell_kharakteristik.kelompok_usia_60_hingga_79_tahun	kelompok usia 60 hingga 79 tahun	kelompok|usia|60|hingga|79|tahun	kelompok|usia|60|hingga|79|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||60.0||79.0|	60.0		79.0		
+4	1	fb:cell_rata_rata_total.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+4	2	fb:cell_total_interval_kepercayaan_95_dari.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+4	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+4	4	fb:cell_maksud_laki_laki.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+4	5	fb:cell_pria_interval_kepercayaan_95_dari.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+4	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+4	7	fb:cell_arti_wanita.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+4	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+4	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+5	0	fb:cell_kharakteristik.balapan	balapan	balapan	balapan	NNP	O						
+5	1	fb:cell_rata_rata_total.null											
+5	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+5	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+5	4	fb:cell_maksud_laki_laki.null											
+5	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+5	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+5	7	fb:cell_arti_wanita.null											
+5	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+5	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+6	0	fb:cell_kharakteristik.ras_kulit_putih	ras kulit putih	ras|kulit|putih	ras|kulit|putih	NN|NNP|NNP	PERSON|PERSON|PERSON	||					
+6	1	fb:cell_rata_rata_total.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+6	2	fb:cell_total_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+6	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+6	4	fb:cell_maksud_laki_laki.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+6	5	fb:cell_pria_interval_kepercayaan_95_dari.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+6	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+6	7	fb:cell_arti_wanita.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+6	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+6	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+7	0	fb:cell_kharakteristik.ras_asia	ras Asia	ras|asia	ras|Asia	NN|NNP	PERSON|PERSON	|					
+7	1	fb:cell_rata_rata_total.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+7	2	fb:cell_total_interval_kepercayaan_95_dari.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+7	3	fb:cell_total_interval_kepercayaan_95_menjadi.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+7	4	fb:cell_maksud_laki_laki.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+7	5	fb:cell_pria_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+7	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+7	7	fb:cell_arti_wanita.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+7	8	fb:cell_wanita_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+7	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+8	0	fb:cell_kharakteristik.balapan_lainnya	balapan lainnya	balapan|lainnya	balapan|lainnya	NNP|NNP	O|O	|					
+8	1	fb:cell_rata_rata_total.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+8	2	fb:cell_total_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+8	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+8	4	fb:cell_maksud_laki_laki.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+8	5	fb:cell_pria_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+8	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+8	7	fb:cell_arti_wanita.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+8	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+8	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+9	0	fb:cell_kharakteristik.pendapatan_rumah_tangga	pendapatan rumah tangga	pendapatan|rumah|tangga	pendapatan|rumah|tangga	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_rata_rata_total.null											
+9	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+9	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+9	4	fb:cell_maksud_laki_laki.null											
+9	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+9	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+9	7	fb:cell_arti_wanita.null											
+9	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+9	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+10	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_kurang_dari_70_000	pendapatan rumah tangga kurang dari $70.000	pendapatan|rumah|tangga|kurang|dari|$|70.000	pendapatan|rumah|tangga|kurang|dari|$|70.000	NNP|NNP|NNP|NNP|NNP|$|CD	O|O|O|O|O|MONEY|MONEY	|||||$70.0|$70.0	70.0				
+10	1	fb:cell_rata_rata_total.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+10	2	fb:cell_total_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+10	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+10	4	fb:cell_maksud_laki_laki.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+10	5	fb:cell_pria_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+10	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+10	7	fb:cell_arti_wanita.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+10	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+10	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+11	0	fb:cell_kharakteristik.pendapatan_rumah_tangga_70_000_atau_lebih	pendapatan rumah tangga $70,000 atau lebih	pendapatan|rumah|tangga|$|70,000|atau|lebih	pendapatan|rumah|tangga|$|70,000|atau|lebih	NNP|NNP|NNP|$|CD|NN|NN	O|O|O|MONEY|MONEY|O|O	|||$70000.0|$70000.0||	70000.0				
+11	1	fb:cell_rata_rata_total.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+11	2	fb:cell_total_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+11	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+11	4	fb:cell_maksud_laki_laki.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+11	5	fb:cell_pria_interval_kepercayaan_95_dari.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+11	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+11	7	fb:cell_arti_wanita.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+11	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+11	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+12	0	fb:cell_kharakteristik.pendidikan	pendidikan	pendidikan	pendidikan	NNP	O						
+12	1	fb:cell_rata_rata_total.null											
+12	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+12	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+12	4	fb:cell_maksud_laki_laki.null											
+12	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+12	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+12	7	fb:cell_arti_wanita.null											
+12	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+12	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+13	0	fb:cell_kharakteristik.pendidikan_kurang_dari_ijazah_perguruan_tinggi_gelar_universitas	pendidikan kurang dari ijazah perguruan tinggi/gelar universitas	pendidikan|kurang|dari|ijazah|perguruan|tinggi/gelar|universitas	pendidikan|kurang|dari|ijazah|perguruan|tinggi/gelar|universitas	NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O	||||||				pendidikan kurang dari ijazah perguruan tinggi|gelar universitas	fb:part_kharakteristik.pendidikan_kurang_dari_ijazah_perguruan_tinggi|fb:part_kharakteristik.gelar_universitas
+13	1	fb:cell_rata_rata_total.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+13	2	fb:cell_total_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+13	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+13	4	fb:cell_maksud_laki_laki.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+13	5	fb:cell_pria_interval_kepercayaan_95_dari.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+13	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+13	7	fb:cell_arti_wanita.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+13	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+13	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+14	0	fb:cell_kharakteristik.pendidikan_ijazah_perguruan_tinggi_gelar_universitas	pendidikan ijazah perguruan tinggi/gelar universitas	pendidikan|ijazah|perguruan|tinggi/gelar|universitas	pendidikan|ijazah|perguruan|tinggi/gelar|universitas	NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O	||||				pendidikan ijazah perguruan tinggi|gelar universitas	fb:part_kharakteristik.pendidikan_ijazah_perguruan_tinggi|fb:part_kharakteristik.gelar_universitas
+14	1	fb:cell_rata_rata_total.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+14	2	fb:cell_total_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+14	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+14	4	fb:cell_maksud_laki_laki.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+14	5	fb:cell_pria_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+14	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+14	7	fb:cell_arti_wanita.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+14	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+14	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+15	0	fb:cell_kharakteristik.penggunaan_suplemen	penggunaan suplemen	penggunaan|suplemen	penggunaan|suplemen	NN|NN	O|O	|					
+15	1	fb:cell_rata_rata_total.null											
+15	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+15	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+15	4	fb:cell_maksud_laki_laki.null											
+15	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+15	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+15	7	fb:cell_arti_wanita.null											
+15	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+15	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+16	0	fb:cell_kharakteristik.penggunaan_suplemen_no	penggunaan suplemen no	penggunaan|suplemen|no	penggunaan|supleman|no	NN|NNS|DT	O|O|O	||					
+16	1	fb:cell_rata_rata_total.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+16	2	fb:cell_total_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+16	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+16	4	fb:cell_maksud_laki_laki.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+16	5	fb:cell_pria_interval_kepercayaan_95_dari.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+16	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+16	7	fb:cell_arti_wanita.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+16	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+16	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+17	0	fb:cell_kharakteristik.penggunaan_suplemen_ya	penggunaan suplemen ya	penggunaan|suplemen|ya	penggunaan|suplemen|ya	NNP|NNP|PRP	O|O|O	||					
+17	1	fb:cell_rata_rata_total.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+17	2	fb:cell_total_interval_kepercayaan_95_dari.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+17	3	fb:cell_total_interval_kepercayaan_95_menjadi.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+17	4	fb:cell_maksud_laki_laki.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+17	5	fb:cell_pria_interval_kepercayaan_95_dari.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+17	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+17	7	fb:cell_arti_wanita.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+17	8	fb:cell_wanita_interval_kepercayaan_95_dari.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+17	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+18	0	fb:cell_kharakteristik.konsumsi_ikan	konsumsi ikan	konsumsi|ikan	konsumsi|ikan	NNP|NNP	O|O	|					
+18	1	fb:cell_rata_rata_total.null											
+18	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+18	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+18	4	fb:cell_maksud_laki_laki.null											
+18	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+18	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+18	7	fb:cell_arti_wanita.null											
+18	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+18	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+19	0	fb:cell_kharakteristik.konsumsi_ikan_kurang_dari_dua_kali_seminggu	konsumsi ikan kurang dari dua kali seminggu	konsumsi|ikan|kurang|dari|dua|kali|seminggu	konsumsi|ikan|kurang|dari|dua|kali|seminggu	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|MISC|O	||||||					
+19	1	fb:cell_rata_rata_total.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+19	2	fb:cell_total_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+19	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+19	4	fb:cell_maksud_laki_laki.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+19	5	fb:cell_pria_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+19	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+19	7	fb:cell_arti_wanita.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+19	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+19	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+20	0	fb:cell_kharakteristik.konsumsi_ikan_minimal_dua_kali_seminggu	konsumsi ikan minimal dua kali seminggu	konsumsi|ikan|minimal|dua|kali|seminggu	konsumsi|ikan|minimal|dua|kali|seminggu	NNP|NNP|JJ|NN|NN|NN	O|O|O|O|O|O	|||||					
+20	1	fb:cell_rata_rata_total.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+20	2	fb:cell_total_interval_kepercayaan_95_dari.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+20	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+20	4	fb:cell_maksud_laki_laki.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+20	5	fb:cell_pria_interval_kepercayaan_95_dari.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+20	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+20	7	fb:cell_arti_wanita.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+20	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+20	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.6_2	6.2	6.2	6.2	CD	NUMBER	6.2	6.2				
+21	0	fb:cell_kharakteristik.konsumsi_ikan_kurang_dari_satu_porsi_ikan_berminyak_dalam_seminggu	konsumsi ikan kurang dari satu porsi ikan berminyak dalam seminggu	konsumsi|ikan|kurang|dari|satu|porsi|ikan|berminyak|dalam|seminggu	konsumsi|ikan|kurang|dari|satu|porsi|ikan|berminyak|dalam|seminggu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|O|O|O|O|O|O	|||||||||					
+21	1	fb:cell_rata_rata_total.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+21	2	fb:cell_total_interval_kepercayaan_95_dari.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+21	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+21	4	fb:cell_maksud_laki_laki.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+21	5	fb:cell_pria_interval_kepercayaan_95_dari.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+21	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+21	7	fb:cell_arti_wanita.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+21	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+21	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+22	0	fb:cell_kharakteristik.konsumsi_ikan_minimal_satu_porsi_ikan_berminyak_dalam_seminggu	konsumsi ikan minimal satu porsi ikan berminyak dalam seminggu	konsumsi|ikan|minimal|satu|porsi|ikan|berminyak|dalam|seminggu	konsumsi|ikan|minimal|satu|porsi|ikan|berminyak|dalam|seminggu	NNP|NNP|JJ|FW|FW|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+22	1	fb:cell_rata_rata_total.5_7	5.7	5.7	5.7	CD	NUMBER	5.7	5.7				
+22	2	fb:cell_total_interval_kepercayaan_95_dari.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+22	3	fb:cell_total_interval_kepercayaan_95_menjadi.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+22	4	fb:cell_maksud_laki_laki.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+22	5	fb:cell_pria_interval_kepercayaan_95_dari.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+22	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+22	7	fb:cell_arti_wanita.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+22	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+22	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+23	0	fb:cell_kharakteristik.konsumsi_ikan_kurang_dari_dua_kali_seminggu	konsumsi ikan kurang dari dua kali seminggu	konsumsi|ikan|kurang|dari|dua|kali|seminggu	konsumsi|ikan|kurang|dari|dua|kali|seminggu	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|MISC|O	||||||					
+23	1	fb:cell_rata_rata_total.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+23	2	fb:cell_total_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+23	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+23	4	fb:cell_maksud_laki_laki.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+23	5	fb:cell_pria_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+23	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+23	7	fb:cell_arti_wanita.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+23	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+23	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+24	0	fb:cell_kharakteristik.konsumsi_ikan_minimal_dua_kali_seminggu	konsumsi ikan minimal dua kali seminggu	konsumsi|ikan|minimal|dua|kali|seminggu	konsumsi|ikan|minimal|dua|kali|seminggu	NNP|NNP|JJ|NN|NN|NN	O|O|O|O|O|O	|||||					
+24	1	fb:cell_rata_rata_total.5_8	5.8	5.8	5.8	CD	NUMBER	5.8	5.8				
+24	2	fb:cell_total_interval_kepercayaan_95_dari.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+24	3	fb:cell_total_interval_kepercayaan_95_menjadi.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+24	4	fb:cell_maksud_laki_laki.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+24	5	fb:cell_pria_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+24	6	fb:cell_pria_interval_kepercayaan_95_hingga.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+24	7	fb:cell_arti_wanita.6_1	6.1	6.1	6.1	CD	NUMBER	6.1	6.1				
+24	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+24	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+25	0	fb:cell_kharakteristik.status_merokok	status merokok	status|merokok	status|merokok	NN|NN	O|O	|					
+25	1	fb:cell_rata_rata_total.null											
+25	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+25	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+25	4	fb:cell_maksud_laki_laki.null											
+25	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+25	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+25	7	fb:cell_arti_wanita.null											
+25	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+25	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+26	0	fb:cell_kharakteristik.status_merokok_setiap_hari_atau_sesekali	status merokok setiap hari atau sesekali	status|merokok|setiap|hari|atau|sesekali	status|merokok|setiap|hari|atau|sesekali	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+26	1	fb:cell_rata_rata_total.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+26	2	fb:cell_total_interval_kepercayaan_95_dari.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+26	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+26	4	fb:cell_maksud_laki_laki.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+26	5	fb:cell_pria_interval_kepercayaan_95_dari.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+26	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+26	7	fb:cell_arti_wanita.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+26	8	fb:cell_wanita_interval_kepercayaan_95_dari.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+26	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+27	0	fb:cell_kharakteristik.status_merokok_bukan_perokok	status merokok bukan perokok	status|merokok|bukan|perokok	status|merokok|bukan|perokok	NN|NN|NN|NN	O|O|O|O	|||					
+27	1	fb:cell_rata_rata_total.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+27	2	fb:cell_total_interval_kepercayaan_95_dari.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+27	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+27	4	fb:cell_maksud_laki_laki.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+27	5	fb:cell_pria_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+27	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+27	7	fb:cell_arti_wanita.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+27	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+27	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+28	0	fb:cell_kharakteristik.kegemukan	kegemukan	kegemukan	kegemukan	NNP	O						
+28	1	fb:cell_rata_rata_total.null											
+28	2	fb:cell_total_interval_kepercayaan_95_dari.null											
+28	3	fb:cell_total_interval_kepercayaan_95_menjadi.null											
+28	4	fb:cell_maksud_laki_laki.null											
+28	5	fb:cell_pria_interval_kepercayaan_95_dari.null											
+28	6	fb:cell_pria_interval_kepercayaan_95_hingga.null											
+28	7	fb:cell_arti_wanita.null											
+28	8	fb:cell_wanita_interval_kepercayaan_95_dari.null											
+28	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.null											
+29	0	fb:cell_kharakteristik.obesitas_no	obesitas no	obesitas|no	obesitas|no	NNP|DT	O|O	|					
+29	1	fb:cell_rata_rata_total.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+29	2	fb:cell_total_interval_kepercayaan_95_dari.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+29	3	fb:cell_total_interval_kepercayaan_95_menjadi.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+29	4	fb:cell_maksud_laki_laki.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+29	5	fb:cell_pria_interval_kepercayaan_95_dari.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+29	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+29	7	fb:cell_arti_wanita.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+29	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+29	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+30	0	fb:cell_kharakteristik.obesitas_ya	obesitas ya	obesitas|ya	obesitas|ya	NNP|PRP	O|O	|					
+30	1	fb:cell_rata_rata_total.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+30	2	fb:cell_total_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+30	3	fb:cell_total_interval_kepercayaan_95_menjadi.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+30	4	fb:cell_maksud_laki_laki.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+30	5	fb:cell_pria_interval_kepercayaan_95_dari.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+30	6	fb:cell_pria_interval_kepercayaan_95_hingga.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+30	7	fb:cell_arti_wanita.4_3	4.3	4.3	4.3	CD	NUMBER	4.3	4.3				
+30	8	fb:cell_wanita_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+30	9	fb:cell_wanita_dengan_interval_kepercayaan_95_hingga.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				

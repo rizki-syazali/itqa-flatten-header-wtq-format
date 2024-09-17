@@ -1,0 +1,211 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999	Rasio utang terhadap pendapatan rata-rata tahun 1999	rasio|utang|terhadap|pendapatan|rata|rata|tahun|1999	Rasio|utang|terhadap|pendapatan|rata|rata|tahun|1999	NNP|NNP|NNP|NNP|JJ|JJ|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||1999					
+-1	2	fb:row.row.rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012	Rasio utang terhadap pendapatan rata-rata tahun 2012	rasio|utang|terhadap|pendapatan|rata|rata|tahun|2012	Rasio|utang|terhadap|pendapatan|rata|rata|tahun|2012	NNP|NNP|NNP|NNP|JJ|JJ|NNP|CD	O|O|O|O|O|O|O|DATE	|||||||2012					
+-1	3	fb:row.row.rasio_utang_terhadap_aset_median_tahun_1999	Rasio utang terhadap aset median tahun 1999	rasio|utang|terhadap|aset|median|tahun|1999	Rasio|utang|terhadap|aset|median|tahun|1999	NNP|NNP|NNP|NNP|JJ|NN|CD	O|O|O|O|O|O|DATE	||||||1999					
+-1	4	fb:row.row.rasio_utang_terhadap_aset_median_tahun_2012	Rasio utang terhadap aset median tahun 2012	rasio|utang|terhadap|aset|median|tahun|2012	Rasio|utang|terhadap|aset|median|tahun|2012	NNP|NNP|NNP|NNP|JJ|NN|CD	O|O|O|O|O|O|DATE	||||||2012					
+0	0	fb:cell_kharakteristik.semua	semua	semua	semua	NN	O						
+0	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_78	0.78	0.78	0.78	CD	NUMBER	0.78	0.78				
+0	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+0	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+0	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				
+1	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama	usia pencari nafkah utama	usia|pencari|nafkah|utama	usia|pencari|nafkah|utama	NNP|NNP|NNP|NNP	ORGANIZATION|O|O|O	|||					
+1	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+1	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+1	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+1	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+2	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_15_hingga_34	usia pencari nafkah utama 15 hingga 34	usia|pencari|nafkah|utama|15|hingga|34	usia|pencari|nafkah|utama|15|hingga|34	NNP|NNP|NNP|NNP|CD|NNP|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||15.0||34.0	15.0		34.0		
+2	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+2	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+2	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+2	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_53	0.53	0.53	0.53	CD	NUMBER	0.53	0.53				
+3	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_35_hingga_44	usia pencari nafkah utama 35 hingga 44	usia|pencari|nafkah|utama|35|hingga|44	usia|pencari|nafkah|utama|35|hingga|44	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||35.0||44.0	35.0		44.0		
+3	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.1_15	1.15	1.15	1.15	CD	NUMBER	1.15	1.15				
+3	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_93	1.93	1.93	1.93	CD	NUMBER	1.93	1.93				
+3	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+3	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_39	0.39	0.39	0.39	CD	NUMBER	0.39	0.39				
+4	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_45_hingga_54	usia pencari nafkah utama 45 hingga 54	usia|pencari|nafkah|utama|45|hingga|54	usia|pencari|nafkah|utama|45|hingga|54	NNP|NNP|NNP|NNP|CD|NN|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||45.0||54.0	45.0		54.0		
+4	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+4	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_16	1.16	1.16	1.16	CD	NUMBER	1.16	1.16				
+4	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_18	0.18	0.18	0.18	CD	NUMBER	0.18	0.18				
+4	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+5	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_55_hingga_64	usia pencari nafkah utama 55 hingga 64	usia|pencari|nafkah|utama|55|hingga|64	usia|pencari|nafkah|utama|55|hingga|64	NNP|NNP|NNP|NNP|CD|NNP|CD	ORGANIZATION|O|O|O|NUMBER|O|NUMBER	||||55.0||64.0	55.0		64.0		
+5	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_48	0.48	0.48	0.48	CD	NUMBER	0.48	0.48				
+5	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_84	0.84	0.84	0.84	CD	NUMBER	0.84	0.84				
+5	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_08	0.08	0.08	0.08	CD	NUMBER	0.08	0.08				
+5	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_11	0.11	0.11	0.11	CD	NUMBER	0.11	0.11				
+6	0	fb:cell_kharakteristik.usia_pencari_nafkah_utama_65_tahun_ke_atas	usia pencari nafkah utama 65 tahun ke atas	usia|pencari|nafkah|utama|65|tahun|ke|atas	usia|pencari|nafkah|utama|65|tahun|ke|atas	NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	ORGANIZATION|O|O|O|NUMBER|O|O|O	||||65.0|||	65.0				
+6	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+6	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_42	0.42	0.42	0.42	CD	NUMBER	0.42	0.42				
+6	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+6	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+7	0	fb:cell_kharakteristik.pendidikan_mereka_yang_berpenghasilan_besar	pendidikan mereka yang berpenghasilan besar	pendidikan|mereka|yang|berpenghasilan|besar	pendidikan|mereka|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+7	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+7	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+7	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+7	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+8	0	fb:cell_kharakteristik.pendidikan_bagi_mereka_yang_berpenghasilan_utama_kurang_dari_sekolah_menengah_atas	pendidikan bagi mereka yang berpenghasilan utama kurang dari sekolah menengah atas	pendidikan|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	pendidikan|bagi|mereka|yang|berpenghasilan|utama|kurang|dari|sekolah|menengah|atas	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+8	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_44	0.44	0.44	0.44	CD	NUMBER	0.44	0.44				
+8	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+8	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+8	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+9	0	fb:cell_kharakteristik.pendidikan_sekolah_menengah_yang_berpenghasilan_besar	pendidikan sekolah menengah yang berpenghasilan besar	pendidikan|sekolah|menengah|yang|berpenghasilan|besar	pendidikan|sekolah|menengah|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+9	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_83	0.83	0.83	0.83	CD	NUMBER	0.83	0.83				
+9	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_94	0.94	0.94	0.94	CD	NUMBER	0.94	0.94				
+9	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_29	0.29	0.29	0.29	CD	NUMBER	0.29	0.29				
+9	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+10	0	fb:cell_kharakteristik.pendidikan_perguruan_tinggi_perdagangan_yang_berpenghasilan_besar	pendidikan perguruan tinggi/perdagangan yang berpenghasilan besar	pendidikan|perguruan|tinggi/perdagangan|yang|berpenghasilan|besar	pendidikan|perguruan|tinggi/perdagangan|yang|berpenghasilan|besar	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||				pendidikan perguruan tinggi|perdagangan yang berpenghasilan besar	fb:part_kharakteristik.pendidikan_perguruan_tinggi|fb:part_kharakteristik.perdagangan_yang_berpenghasilan_besar
+10	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_93	0.93	0.93	0.93	CD	NUMBER	0.93	0.93				
+10	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_26	1.26	1.26	1.26	CD	NUMBER	1.26	1.26				
+10	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+10	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_28	0.28	0.28	0.28	CD	NUMBER	0.28	0.28				
+11	0	fb:cell_kharakteristik.pendidikan_gelar_universitas_dengan_pendapatan_utama	pendidikan gelar universitas dengan pendapatan utama	pendidikan|gelar|universitas|dengan|pendapatan|utama	pendidikan|gelar|universitas|dengan|pendapatan|utama	NNP|NNP|NNPS|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_96	0.96	0.96	0.96	CD	NUMBER	0.96	0.96				
+11	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_43	1.43	1.43	1.43	CD	NUMBER	1.43	1.43				
+11	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+11	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				
+12	0	fb:cell_kharakteristik.struktur_keluarga	struktur keluarga	struktur|keluarga	struktur|keluarga	NN|NN	O|O	|					
+12	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+12	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+12	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+12	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+13	0	fb:cell_kharakteristik.struktur_keluarga_non_senior	struktur keluarga non-senior	struktur|keluarga|non|senior	struktur|keluarga|non|senior	NN|NN|JJ|JJ	O|O|O|O	|||					
+13	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+13	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+13	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+13	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+14	0	fb:cell_kharakteristik.struktur_keluarga_lajang_non_senior	struktur keluarga lajang non-senior	struktur|keluarga|lajang|non|senior	struktur|keluarga|lajang|non|senior	NN|NN|NN|JJ|JJ	O|O|O|O|O	||||					
+14	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_55	0.55	0.55	0.55	CD	NUMBER	0.55	0.55				
+14	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_82	0.82	0.82	0.82	CD	NUMBER	0.82	0.82				
+14	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+14	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+15	0	fb:cell_kharakteristik.struktur_keluarga_pasangan_non_senior_tanpa_anak_atau_dengan_anak_berusia_18_tahun_ke_atas	struktur keluarga pasangan non-senior tanpa anak atau dengan anak berusia 18 tahun ke atas	struktur|keluarga|pasangan|non|senior|tanpa|anak|atau|dengan|anak|berusia|18|tahun|ke|atas	struktur|keluarga|pasangan|non|senior|tanpa|anak|atau|dengan|anak|berusia|18|tahun|ke|atas	NN|NN|NN|JJ|JJ|NN|NN|NN|NN|NN|NN|CD|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||||||18.0|||	18.0				
+15	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+15	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+15	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+15	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+16	0	fb:cell_kharakteristik.struktur_keluarga_pasangan_non_senior_dengan_anak_di_bawah_18_tahun	struktur keluarga pasangan non-senior dengan anak di bawah 18 tahun	struktur|keluarga|pasangan|non|senior|dengan|anak|di|bawah|18|tahun	struktur|keluarga|pasangan|non|senior|dengan|anak|di|bawah|18|tahun	NN|NN|NN|JJ|JJ|NNP|NNP|NNP|NNP|CD|NN	O|O|O|O|O|O|O|O|O|NUMBER|O	|||||||||18.0|	18.0				
+16	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.1_24	1.24	1.24	1.24	CD	NUMBER	1.24	1.24				
+16	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_94	1.94	1.94	1.94	CD	NUMBER	1.94	1.94				
+16	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_33	0.33	0.33	0.33	CD	NUMBER	0.33	0.33				
+16	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_34	0.34	0.34	0.34	CD	NUMBER	0.34	0.34				
+17	0	fb:cell_kharakteristik.struktur_keluarga_orang_tua_tunggal_non_senior	struktur keluarga orang tua tunggal non-senior	struktur|keluarga|orang|tua|tunggal|non|senior	struktur|keluarga|orang|tua|tunggal|non|senior	NN|NN|NNP|NNP|NNP|JJ|JJ	O|O|O|O|O|O|O	||||||					
+17	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_62	0.62	0.62	0.62	CD	NUMBER	0.62	0.62				
+17	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_62	0.62	0.62	0.62	CD	NUMBER	0.62	0.62				
+17	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_42	0.42	0.42	0.42	CD	NUMBER	0.42	0.42				
+17	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+18	0	fb:cell_kharakteristik.struktur_keluarga_non_senior_lainnya	struktur keluarga non-senior lainnya	struktur|keluarga|non|senior|lainnya	struktur|keluarga|non|senior|lainnya	NN|NN|JJ|JJ|NN	O|O|O|O|O	||||					
+18	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_48	0.48	0.48	0.48	CD	NUMBER	0.48	0.48				
+18	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+18	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_17	0.17	0.17	0.17	CD	NUMBER	0.17	0.17				
+18	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_21	0.21	0.21	0.21	CD	NUMBER	0.21	0.21				
+19	0	fb:cell_kharakteristik.struktur_keluarga_senior	struktur keluarga senior	struktur|keluarga|senior	struktur|keluarga|senior	NN|NN|JJ	O|O|O	||					
+19	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+19	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_42	0.42	0.42	0.42	CD	NUMBER	0.42	0.42				
+19	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+19	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_05	0.05	0.05	0.05	CD	NUMBER	0.05	0.05				
+20	0	fb:cell_kharakteristik.status_imigran_yang_berpenghasilan_besar	status imigran yang berpenghasilan besar	status|imigran|yang|berpenghasilan|besar	status|imigran|yang|berpenghasilan|besar	NN|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+20	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+20	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+20	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+20	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+21	0	fb:cell_kharakteristik.status_imigran_berpenghasilan_besar_yang_berimigrasi_dalam_10_tahun_terakhir	status imigran berpenghasilan besar yang berimigrasi dalam 10 tahun terakhir	status|imigran|berpenghasilan|besar|yang|berimigrasi|dalam|10|tahun|terakhir	status|imigran|berpenghasilan|besar|yang|berimigrasi|dalam|10|tahun|terakhir	NN|NN|NNP|NNP|NNP|NNP|NNP|CD|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O	|||||||10.0||	10.0				
+21	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_89	0.89	0.89	0.89	CD	NUMBER	0.89	0.89				
+21	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_66	1.66	1.66	1.66	CD	NUMBER	1.66	1.66				
+21	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_52	0.52	0.52	0.52	CD	NUMBER	0.52	0.52				
+21	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_45	0.45	0.45	0.45	CD	NUMBER	0.45	0.45				
+22	0	fb:cell_kharakteristik.status_imigran_yang_berpenghasilan_besar_lebih_dari_10_tahun_sejak_imigrasi	status imigran yang berpenghasilan besar lebih dari 10 tahun sejak imigrasi	status|imigran|yang|berpenghasilan|besar|lebih|dari|10|tahun|sejak|imigrasi	status|imigran|yang|berpenghasilan|besar|lebih|dari|10|tahun|sejak|imigrasi	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||10.0|||	10.0				
+22	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+22	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+22	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				
+22	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+23	0	fb:cell_kharakteristik.status_imigran_pencari_nafkah_utama_kelahiran_kanada	status imigran pencari nafkah utama kelahiran Kanada	status|imigran|pencari|nafkah|utama|kelahiran|kanada	status|imigran|pencari|nafkah|utama|kelahiran|Kanada	NN|NN|NN|NN|NN|NNP|NNP	O|O|O|O|O|O|O	||||||					
+23	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_76	0.76	0.76	0.76	CD	NUMBER	0.76	0.76				
+23	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_03	1.03	1.03	1.03	CD	NUMBER	1.03	1.03				
+23	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_26	0.26	0.26	0.26	CD	NUMBER	0.26	0.26				
+23	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+24	0	fb:cell_kharakteristik.wilayah	wilayah	wilayah	wilayah	NNP	O						
+24	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+24	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+24	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+24	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+25	0	fb:cell_kharakteristik.wilayah_atlantik	wilayah Atlantik	wilayah|atlantik	wilayah|Atlantik	NNP|NNP	O|O	|					
+25	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_56	0.56	0.56	0.56	CD	NUMBER	0.56	0.56				
+25	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+25	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+25	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+26	0	fb:cell_kharakteristik.wilayah_quebec	wilayah Quebec	wilayah|quebec	wilayah|Quebec	NNP|NNP	O|O	|					
+26	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_66	0.66	0.66	0.66	CD	NUMBER	0.66	0.66				
+26	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+26	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+26	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+27	0	fb:cell_kharakteristik.wilayah_ontario	wilayah ontario	wilayah|ontario	wilayah|ontario	NNP|NNP	O|O	|					
+27	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_92	0.92	0.92	0.92	CD	NUMBER	0.92	0.92				
+27	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_18	1.18	1.18	1.18	CD	NUMBER	1.18	1.18				
+27	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_29	0.29	0.29	0.29	CD	NUMBER	0.29	0.29				
+27	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+28	0	fb:cell_kharakteristik.wilayah_manitoba_dan_saskatchewan	wilayah manitoba dan saskatchewan	wilayah|manitoba|dan|saskatchewan	wilayah|manitoba|dan|saskatchewan	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||					
+28	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_72	0.72	0.72	0.72	CD	NUMBER	0.72	0.72				
+28	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_99	0.99	0.99	0.99	CD	NUMBER	0.99	0.99				
+28	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+28	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_23	0.23	0.23	0.23	CD	NUMBER	0.23	0.23				
+29	0	fb:cell_kharakteristik.wilayah_alberta	wilayah alberta	wilayah|alberta	wilayah|alberta	NNP|NNP	O|O	|					
+29	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_92	0.92	0.92	0.92	CD	NUMBER	0.92	0.92				
+29	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+29	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+29	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+30	0	fb:cell_kharakteristik.wilayah_columbia_inggris	wilayah columbia inggris	wilayah|columbia|inggris	wilayah|columbia|inggris	NNP|NNP|NNP	O|O|O	||					
+30	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_98	0.98	0.98	0.98	CD	NUMBER	0.98	0.98				
+30	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_43	1.43	1.43	1.43	CD	NUMBER	1.43	1.43				
+30	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+30	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+31	0	fb:cell_kharakteristik.status_kepemilikan_rumah	status kepemilikan rumah	status|kepemilikan|rumah	status|kepemilikan|rumah	NN|NN|NN	O|O|O	||					
+31	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+31	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+31	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+31	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+32	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_dengan_hipotek	pemilik status kepemilikan rumah dengan hipotek	pemilik|status|kepemilikan|rumah|dengan|hipotek	pemilik|status|kepemilikan|rumah|dengan|hipotek	NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+32	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.1_72	1.72	1.72	1.72	CD	NUMBER	1.72	1.72				
+32	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.2_46	2.46	2.46	2.46	CD	NUMBER	2.46	2.46				
+32	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_35	0.35	0.35	0.35	CD	NUMBER	0.35	0.35				
+32	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_35	0.35	0.35	0.35	CD	NUMBER	0.35	0.35				
+33	0	fb:cell_kharakteristik.pemilik_status_kepemilikan_rumah_tanpa_hipotek	pemilik status kepemilikan rumah tanpa hipotek	pemilik|status|kepemilikan|rumah|tanpa|hipotek	pemilik|status|kepemilikan|rumah|tanpa|hipotek	NNP|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+33	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				
+33	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_38	0.38	0.38	0.38	CD	NUMBER	0.38	0.38				
+33	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+33	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+34	0	fb:cell_kharakteristik.status_kepemilikan_rumah_bukan_pemilik	status kepemilikan rumah bukan pemilik	status|kepemilikan|rumah|bukan|pemilik	status|kepemilikan|rumah|bukan|pemilik	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+34	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+34	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+34	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_34	0.34	0.34	0.34	CD	NUMBER	0.34	0.34				
+34	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_37	0.37	0.37	0.37	CD	NUMBER	0.37	0.37				
+35	0	fb:cell_kharakteristik.kuintil_pendapatan	kuintil pendapatan	kuintil|pendapatan	kuintil|pendapatan	NNP|NNP	O|O	|					
+35	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.null											
+35	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.null											
+35	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.null											
+35	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.null											
+36	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_terbawah	kuintil pendapatan kuintil terbawah	kuintil|pendapatan|kuintil|terbawah	kuintil|pendapatan|kuintil|terbawah	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+36	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_62	0.62	0.62	0.62	CD	NUMBER	0.62	0.62				
+36	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_76	0.76	0.76	0.76	CD	NUMBER	0.76	0.76				
+36	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_45	0.45	0.45	0.45	CD	NUMBER	0.45	0.45				
+36	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+37	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_kedua	kuintil pendapatan kuintil kedua	kuintil|pendapatan|kuintil|kedua	kuintil|pendapatan|kuintil|kedua	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+37	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_64	0.64	0.64	0.64	CD	NUMBER	0.64	0.64				
+37	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+37	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_28	0.28	0.28	0.28	CD	NUMBER	0.28	0.28				
+37	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_28	0.28	0.28	0.28	CD	NUMBER	0.28	0.28				
+38	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_menengah	kuintil pendapatan kuintil menengah	kuintil|pendapatan|kuintil|menengah	kuintil|pendapatan|kuintil|menengah	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+38	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+38	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36				
+38	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_28	0.28	0.28	0.28	CD	NUMBER	0.28	0.28				
+38	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+39	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_keempat	kuintil pendapatan kuintil keempat	kuintil|pendapatan|kuintil|keempat	kuintil|pendapatan|kuintil|keempat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+39	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_91	0.91	0.91	0.91	CD	NUMBER	0.91	0.91				
+39	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34				
+39	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+39	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_21	0.21	0.21	0.21	CD	NUMBER	0.21	0.21				
+40	0	fb:cell_kharakteristik.kuintil_pendapatan_kuintil_teratas	kuintil pendapatan kuintil teratas	kuintil|pendapatan|kuintil|teratas	kuintil|pendapatan|kuintil|teratas	NNP|NNP|NNP|NNPS	O|O|O|O	|||					
+40	1	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_1999.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+40	2	fb:cell_rasio_utang_terhadap_pendapatan_rata_rata_tahun_2012.1_24	1.24	1.24	1.24	CD	NUMBER	1.24	1.24				
+40	3	fb:cell_rasio_utang_terhadap_aset_median_tahun_1999.0_18	0.18	0.18	0.18	CD	NUMBER	0.18	0.18				
+40	4	fb:cell_rasio_utang_terhadap_aset_median_tahun_2012.0_16	0.16	0.16	0.16	CD	NUMBER	0.16	0.16				

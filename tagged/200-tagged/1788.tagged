@@ -1,0 +1,100 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.orang_orang_aborigin	orang-orang Aborigin	orang|orang|aborigin	orang|orang|Aborigin	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.orang_orang_non_aborigin	orang-orang non-aborigin	orang|orang|non|aborigin	orang|orang|non|aborigin	NNP|NNP|JJ|NN	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.persen_jumlah_pelanggar	persen jumlah pelanggar	persen|jumlah|pelanggar	persen|jumlah|pelanggar	JJ|NN|NN	O|O|O	||					
+0	1	fb:cell_orang_orang_aborigin.null											
+0	2	fb:cell_orang_orang_non_aborigin.null											
+1	0	fb:cell_kharakteristik.persen_jumlah_pelanggar_satu	persen jumlah pelanggar satu	persen|jumlah|pelanggar|satu	persen|jumlah|pelanggar|satu	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_orang_orang_aborigin.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+1	2	fb:cell_orang_orang_non_aborigin.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+2	0	fb:cell_kharakteristik.persen_jumlah_pelanggar_dua	persen jumlah pelanggar dua	persen|jumlah|pelanggar|dua	persen|jumlah|pelanggar|dua	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+2	1	fb:cell_orang_orang_aborigin.null											
+2	2	fb:cell_orang_orang_non_aborigin.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	0	fb:cell_kharakteristik.persen_jumlah_pelanggar_tiga_atau_lebih	persen jumlah pelanggar tiga atau lebih	persen|jumlah|pelanggar|tiga|atau|lebih	persen|jumlah|pelanggar|tiga|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_orang_orang_aborigin.null											
+3	2	fb:cell_orang_orang_non_aborigin.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+4	0	fb:cell_kharakteristik.persen_jumlah_pelanggar_tidak_tahu_tidak_disebutkan	persen jumlah pelanggar tidak tahu/tidak disebutkan	persen|jumlah|pelanggar|tidak|tahu/tidak|disebutkan	persen|jumlah|pelanggar|tidak|tahu/tidak|disebutkan	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				persen jumlah pelanggar tidak tahu|tidak disebutkan	fb:part_kharakteristik.persen_jumlah_pelanggar_tidak_tahu|fb:part_kharakteristik.tidak_disebutkan
+4	1	fb:cell_orang_orang_aborigin.null											
+4	2	fb:cell_orang_orang_non_aborigin.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+5	0	fb:cell_kharakteristik.persen_jenis_kelamin_pelaku	persen jenis kelamin pelaku	persen|jenis|kelamin|pelaku	persen|jenis|kelamin|pelaku	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_orang_orang_aborigin.null											
+5	2	fb:cell_orang_orang_non_aborigin.null											
+6	0	fb:cell_kharakteristik.persen_jenis_kelamin_pelaku_laki_laki	persen jenis kelamin pelaku laki-laki	persen|jenis|kelamin|pelaku|laki|laki	persen|jenis|kelamin|pelaku|laki|laki	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+6	1	fb:cell_orang_orang_aborigin.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+6	2	fb:cell_orang_orang_non_aborigin.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+7	0	fb:cell_kharakteristik.persen_jenis_kelamin_pelaku_perempuan	persen jenis kelamin pelaku perempuan	persen|jenis|kelamin|pelaku|perempuan	persen|jenis|kelamin|pelaku|perempuan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+7	1	fb:cell_orang_orang_aborigin.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+7	2	fb:cell_orang_orang_non_aborigin.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+8	0	fb:cell_kharakteristik.persen_usia_pelaku	persen usia pelaku	persen|usia|pelaku	persen|usia|pelaku	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_orang_orang_aborigin.null											
+8	2	fb:cell_orang_orang_non_aborigin.null											
+9	0	fb:cell_kharakteristik.persen_usia_pelaku_kurang_dari_25_tahun	persen usia pelaku kurang dari 25 tahun	persen|usia|pelaku|kurang|dari|25|tahun	persen|usia|pelaku|kurang|dari|25|tahun	NNP|NNP|NNP|NNP|NNP|CD|NN	O|MISC|MISC|MISC|O|NUMBER|O	|||||25.0|	25.0				
+9	1	fb:cell_orang_orang_aborigin.47_0	47.0	47.0	47.0	CD	NUMBER	47.0	47.0				
+9	2	fb:cell_orang_orang_non_aborigin.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+10	0	fb:cell_kharakteristik.persen_usia_pelaku_25_hingga_44_tahun	persen usia pelaku 25 hingga 44 tahun	persen|usia|pelaku|25|hingga|44|tahun	persen|usia|pelaku|25|hingga|44|tahun	NNP|NNP|NNP|CD|NN|CD|NN	O|O|O|NUMBER|O|NUMBER|O	|||25.0||44.0|	25.0		44.0		
+10	1	fb:cell_orang_orang_aborigin.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+10	2	fb:cell_orang_orang_non_aborigin.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+11	0	fb:cell_kharakteristik.persen_usia_pelaku_45_tahun_ke_atas	persen usia pelaku 45 tahun ke atas	persen|usia|pelaku|45|tahun|ke|atas	persen|usia|pelaku|45|tahun|ke|atas	NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|NUMBER|O|O|O	|||45.0|||	45.0				
+11	1	fb:cell_orang_orang_aborigin.null											
+11	2	fb:cell_orang_orang_non_aborigin.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+12	0	fb:cell_kharakteristik.persen_hubungan_pelaku_dengan_korban	persen hubungan pelaku dengan korban	persen|hubungan|pelaku|dengan|korban	persen|hubungan|pelaku|dengan|korban	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+12	1	fb:cell_orang_orang_aborigin.null											
+12	2	fb:cell_orang_orang_non_aborigin.null											
+13	0	fb:cell_kharakteristik.persen_hubungan_pelaku_dengan_korban_orang_yang_dikenal_korban	persen hubungan pelaku dengan korban orang yang dikenal korban	persen|hubungan|pelaku|dengan|korban|orang|yang|dikenal|korban	persen|hubungan|pelaku|dengan|korban|orang|yang|dikenal|korban	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+13	1	fb:cell_orang_orang_aborigin.55_0	55.0	55.0	55.0	CD	NUMBER	55.0	55.0				
+13	2	fb:cell_orang_orang_non_aborigin.43_0	43.0	43.0	43.0	CD	NUMBER	43.0	43.0				
+14	0	fb:cell_kharakteristik.persen_hubungan_pelaku_dengan_korban_asing	persen hubungan pelaku dengan korban asing	persen|hubungan|pelaku|dengan|korban|asing	persen|hubungan|pelaku|dengan|korban|asing	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+14	1	fb:cell_orang_orang_aborigin.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+14	2	fb:cell_orang_orang_non_aborigin.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+15	0	fb:cell_kharakteristik.persen_hubungan_pelaku_dengan_korban_lainnya	persen hubungan pelaku dengan korban lainnya	persen|hubungan|pelaku|dengan|korban|lainnya	persen|hubungan|pelaku|dengan|korban|lainnya	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_orang_orang_aborigin.null											
+15	2	fb:cell_orang_orang_non_aborigin.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+16	0	fb:cell_kharakteristik.persen_lokasi_kejadian	persen lokasi kejadian	persen|lokasi|kejadian	persen|lokasi|kejadian	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_orang_orang_aborigin.null											
+16	2	fb:cell_orang_orang_non_aborigin.null											
+17	0	fb:cell_kharakteristik.persen_lokasi_kejadian_tempat_tinggal_pribadi_korban_atau_tempat_tinggal_pribadi_lainnya	persen lokasi kejadian tempat tinggal pribadi korban atau tempat tinggal pribadi lainnya	persen|lokasi|kejadian|tempat|tinggal|pribadi|korban|atau|tempat|tinggal|pribadi|lainnya	persen|lokasi|kejadian|tempat|tinggal|pribadi|korban|atau|tempat|tinggal|pribadi|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+17	1	fb:cell_orang_orang_aborigin.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+17	2	fb:cell_orang_orang_non_aborigin.33_0	33.0	33.0	33.0	CD	NUMBER	33.0	33.0				
+18	0	fb:cell_kharakteristik.persen_lokasi_kejadian_pendirian_komersial_atau_institusi	persen lokasi kejadian pendirian komersial atau institusi	persen|lokasi|kejadian|pendirian|komersial|atau|institusi	persen|lokasi|kejadian|pendirian|komersial|atau|institusi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+18	1	fb:cell_orang_orang_aborigin.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+18	2	fb:cell_orang_orang_non_aborigin.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+19	0	fb:cell_kharakteristik.persen_lokasi_jalan_kejadian_atau_tempat_umum_lainnya	persen lokasi jalan kejadian atau tempat umum lainnya	persen|lokasi|jalan|kejadian|atau|tempat|umum|lainnya	persen|lokasi|jalan|kejadian|atau|tempat|umum|lainnya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+19	1	fb:cell_orang_orang_aborigin.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+19	2	fb:cell_orang_orang_non_aborigin.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+20	0	fb:cell_kharakteristik.persen_lokasi_kejadian_lainnya	persen lokasi kejadian lainnya	persen|lokasi|kejadian|lainnya	persen|lokasi|kejadian|lainnya	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+20	1	fb:cell_orang_orang_aborigin.null											
+20	2	fb:cell_orang_orang_non_aborigin.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+21	0	fb:cell_kharakteristik.persen_kehadiran_senjata	persen kehadiran senjata	persen|kehadiran|senjata	persen|kehadiran|senjata	NNP|NNP|NNP	O|O|O	||					
+21	1	fb:cell_orang_orang_aborigin.null											
+21	2	fb:cell_orang_orang_non_aborigin.null											
+22	0	fb:cell_kharakteristik.persen_kehadiran_senjata_ya	persen kehadiran senjata ya	persen|kehadiran|senjata|ya	persen|kehadiran|senjata|ya	NNP|NNP|NNP|PRP	O|O|O|O	|||					
+22	1	fb:cell_orang_orang_aborigin.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+22	2	fb:cell_orang_orang_non_aborigin.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+23	0	fb:cell_kharakteristik.persen_kehadiran_senjata_no	persen kehadiran senjata no	persen|kehadiran|senjata|no	persen|kehadiran|senjata|no	NNP|NNP|NNP|DT	O|O|O|O	|||					
+23	1	fb:cell_orang_orang_aborigin.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+23	2	fb:cell_orang_orang_non_aborigin.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+24	0	fb:cell_kharakteristik.persen_keberadaan_senjata_tidak_diketahui_tidak_disebutkan	persen keberadaan senjata tidak diketahui/tidak disebutkan	persen|keberadaan|senjata|tidak|diketahui/tidak|disebutkan	persen|keberadaan|senjata|tidak|diketahui/tidak|disebutkan	JJ|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				persen keberadaan senjata tidak diketahui|tidak disebutkan	fb:part_kharakteristik.persen_keberadaan_senjata_tidak_diketahui|fb:part_kharakteristik.tidak_disebutkan
+24	1	fb:cell_orang_orang_aborigin.null											
+24	2	fb:cell_orang_orang_non_aborigin.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+25	0	fb:cell_kharakteristik.persen_insiden_terkait_dengan_penggunaan_alkohol_atau_narkoba_oleh_pelaku	persen insiden terkait dengan penggunaan alkohol atau narkoba oleh pelaku	persen|insiden|terkait|dengan|penggunaan|alkohol|atau|narkoba|oleh|pelaku	persen|insiden|terkait|dengan|penggunaan|alkohol|atau|narkoba|oleh|pelaku	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+25	1	fb:cell_orang_orang_aborigin.null											
+25	2	fb:cell_orang_orang_non_aborigin.null											
+26	0	fb:cell_kharakteristik.persen_kejadian_terkait_dengan_penggunaan_alkohol_atau_narkoba_oleh_pelaku_ya	persen kejadian terkait dengan penggunaan alkohol atau narkoba oleh pelaku ya	persen|kejadian|terkait|dengan|penggunaan|alkohol|atau|narkoba|oleh|pelaku|ya	persen|kejadian|terkait|dengan|penggunaan|alkohol|atau|narkoba|oleh|pelaku|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+26	1	fb:cell_orang_orang_aborigin.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+26	2	fb:cell_orang_orang_non_aborigin.52_0	52.0	52.0	52.0	CD	NUMBER	52.0	52.0				
+27	0	fb:cell_kharakteristik.persen_insiden_terkait_dengan_penggunaan_alkohol_atau_narkoba_oleh_pelaku_no	persen insiden terkait dengan penggunaan alkohol atau narkoba oleh pelaku no	persen|insiden|terkait|dengan|penggunaan|alkohol|atau|narkoba|oleh|pelaku|no	persen|insiden|terkait|dengan|penggunaan|alkohol|atau|narkoba|oleh|pelaku|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+27	1	fb:cell_orang_orang_aborigin.26_0	26.0	26.0	26.0	CD	NUMBER	26.0	26.0				
+27	2	fb:cell_orang_orang_non_aborigin.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+28	0	fb:cell_kharakteristik.persen_kejadian_yang_berkaitan_dengan_penggunaan_alkohol_atau_narkoba_yang_dilakukan_pelaku_tidak_diketahui_tidak_disebutkan	persen kejadian yang berkaitan dengan penggunaan alkohol atau narkoba yang dilakukan pelaku tidak diketahui/tidak disebutkan	persen|kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|narkoba|yang|dilakukan|pelaku|tidak|diketahui/tidak|disebutkan	persen|kejadian|yang|berkaitan|dengan|penggunaan|alkohol|atau|narkoba|yang|dilakukan|pelaku|tidak|diketahui/tidak|disebutkan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||				persen kejadian yang berkaitan dengan penggunaan alkohol atau narkoba yang dilakukan pelaku tidak diketahui|tidak disebutkan	fb:part_kharakteristik.persen_kejadian_yang_berkaitan_dengan_penggunaan_alkohol_atau_narkoba_yang_dilakukan_pelaku_tidak_diketahui|fb:part_kharakteristik.tidak_disebutkan
+28	1	fb:cell_orang_orang_aborigin.null											
+28	2	fb:cell_orang_orang_non_aborigin.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+29	0	fb:cell_kharakteristik.persen_menyebabkan_cedera_fisik	persen menyebabkan cedera fisik	persen|menyebabkan|cedera|fisik	persen|menyebabkan|cedera|fisik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+29	1	fb:cell_orang_orang_aborigin.null											
+29	2	fb:cell_orang_orang_non_aborigin.null											
+30	0	fb:cell_kharakteristik.persen_menyebabkan_cedera_fisik_ya	persen menyebabkan cedera fisik ya	persen|menyebabkan|cedera|fisik|ya	persen|menyebabkan|cedera|fisik|ya	NNP|NNP|NNP|NNP|PRP	O|O|O|O|O	||||					
+30	1	fb:cell_orang_orang_aborigin.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+30	2	fb:cell_orang_orang_non_aborigin.20_0	20.0	20.0	20.0	CD	NUMBER	20.0	20.0				
+31	0	fb:cell_kharakteristik.persen_menyebabkan_luka_fisik_no	persen menyebabkan luka fisik no	persen|menyebabkan|luka|fisik|no	persen|menyebabkan|luka|fisik|no	NNP|NNP|NNP|NNP|DT	O|O|O|O|O	||||					
+31	1	fb:cell_orang_orang_aborigin.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+31	2	fb:cell_orang_orang_non_aborigin.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				

@@ -1,0 +1,201 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_metis	nomor metis	nomor|metis	nomor|metis	NNP|NNP	O|O	|					
+-1	2	fb:row.row.cukup	cukup %	cukup|%	cukup|%	CD|NN	PERCENT|PERCENT	%0.0|%0.0					
+-1	3	fb:row.row.nomor_non_aborigin	nomor non-aborigin	nomor|non|aborigin	nomor|non|aborigin	NNP|JJ|NN	O|O|O	||					
+-1	4	fb:row.row.non_aborigin	non-aborigin %	non|aborigin|%	non|aborigin|%	JJ|NN|NN	O|O|O	||					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_nomor_metis.36700_0	36700.0	36700.0	36700.0	CD	NUMBER	36700.0	36700.0				
+0	2	fb:cell_cukup.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+0	3	fb:cell_nomor_non_aborigin.2827600_0	2827600.0	2827600.0	2827600.0	CD	NUMBER	2827600.0	2827600.0				
+0	4	fb:cell_non_aborigin.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+1	0	fb:cell_kharakteristik.dirawat_di_rumah_sakit_karena_kondisi_sensitif_perawatan_rawat_jalan	dirawat di rumah sakit karena kondisi sensitif perawatan rawat jalan	dirawat|di|rumah|sakit|karena|kondisi|sensitif|perawatan|rawat|jalan	dirawat|di|rumah|sakit|karena|kondisi|sensitif|perawatan|rawat|jalan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+1	1	fb:cell_nomor_metis.400_0	400.0	400.0	400.0	CD	NUMBER	400.0	400.0				
+1	2	fb:cell_cukup.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	3	fb:cell_nomor_non_aborigin.20300_0	20300.0	20300.0	20300.0	CD	NUMBER	20300.0	20300.0				
+1	4	fb:cell_non_aborigin.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+2	0	fb:cell_kharakteristik.kelompok_umur	kelompok umur	kelompok|umur	kelompok|umur	NNP|NNP	O|O	|					
+2	1	fb:cell_nomor_metis.null											
+2	2	fb:cell_cukup.null											
+2	3	fb:cell_nomor_non_aborigin.null											
+2	4	fb:cell_non_aborigin.null											
+3	0	fb:cell_kharakteristik.kelompok_usia_18_hingga_20_tahun	kelompok usia 18 hingga 20 tahun	kelompok|usia|18|hingga|20|tahun	kelompok|usia|18|hingga|20|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||18.0||20.0|	18.0		20.0		
+3	1	fb:cell_nomor_metis.2900_0	2900.0	2900.0	2900.0	CD	NUMBER	2900.0	2900.0				
+3	2	fb:cell_cukup.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+3	3	fb:cell_nomor_non_aborigin.155800_0	155800.0	155800.0	155800.0	CD	NUMBER	155800.0	155800.0				
+3	4	fb:cell_non_aborigin.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+4	0	fb:cell_kharakteristik.kelompok_usia_21_hingga_40_tahun	kelompok usia 21 hingga 40 tahun	kelompok|usia|21|hingga|40|tahun	kelompok|usia|21|hingga|40|tahun	NNP|NNP|CD|NNP|CD|NN	O|ORGANIZATION|NUMBER|O|NUMBER|O	||21.0||40.0|	21.0		40.0		
+4	1	fb:cell_nomor_metis.16200_0	16200.0	16200.0	16200.0	CD	NUMBER	16200.0	16200.0				
+4	2	fb:cell_cukup.44_0	44.0	44.0	44.0	CD	NUMBER	44.0	44.0				
+4	3	fb:cell_nomor_non_aborigin.1042100_0	1042100.0	1042100.0	1042100.0	CD	NUMBER	1042100.0	1042100.0				
+4	4	fb:cell_non_aborigin.36_9	36.9	36.9	36.9	CD	NUMBER	36.9	36.9				
+5	0	fb:cell_kharakteristik.kelompok_usia_41_hingga_74_tahun	kelompok usia 41 hingga 74 tahun	kelompok|usia|41|hingga|74|tahun	kelompok|usia|41|hingga|74|tahun	NNP|NNP|CD|NN|CD|NN	O|O|NUMBER|O|NUMBER|O	||41.0||74.0|	41.0		74.0		
+5	1	fb:cell_nomor_metis.17600_0	17600.0	17600.0	17600.0	CD	NUMBER	17600.0	17600.0				
+5	2	fb:cell_cukup.48_0	48.0	48.0	48.0	CD	NUMBER	48.0	48.0				
+5	3	fb:cell_nomor_non_aborigin.1629800_0	1629800.0	1629800.0	1629800.0	CD	NUMBER	1629800.0	1629800.0				
+5	4	fb:cell_non_aborigin.57_6	57.6	57.6	57.6	CD	NUMBER	57.6	57.6				
+6	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+6	1	fb:cell_nomor_metis.null											
+6	2	fb:cell_cukup.null											
+6	3	fb:cell_nomor_non_aborigin.null											
+6	4	fb:cell_non_aborigin.null											
+7	0	fb:cell_kharakteristik.pria_seks	pria seks	pria|seks	pria|seks	NNP|NNP	O|O	|					
+7	1	fb:cell_nomor_metis.18900_0	18900.0	18900.0	18900.0	CD	NUMBER	18900.0	18900.0				
+7	2	fb:cell_cukup.51_4	51.4	51.4	51.4	CD	NUMBER	51.4	51.4				
+7	3	fb:cell_nomor_non_aborigin.1444800_0	1444800.0	1444800.0	1444800.0	CD	NUMBER	1444800.0	1444800.0				
+7	4	fb:cell_non_aborigin.51_1	51.1	51.1	51.1	CD	NUMBER	51.1	51.1				
+8	0	fb:cell_kharakteristik.wanita_seks	wanita seks	wanita|seks	wanita|seks	NNP|NNP	PERSON|PERSON	|					
+8	1	fb:cell_nomor_metis.17900_0	17900.0	17900.0	17900.0	CD	NUMBER	17900.0	17900.0				
+8	2	fb:cell_cukup.48_6	48.6	48.6	48.6	CD	NUMBER	48.6	48.6				
+8	3	fb:cell_nomor_non_aborigin.1382900_0	1382900.0	1382900.0	1382900.0	CD	NUMBER	1382900.0	1382900.0				
+8	4	fb:cell_non_aborigin.48_9	48.9	48.9	48.9	CD	NUMBER	48.9	48.9				
+9	0	fb:cell_kharakteristik.provinsi_wilayah	provinsi/wilayah	provinsi/wilayah	provinsi/wilayah	NNP	O					provinsi|wilayah	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah
+9	1	fb:cell_nomor_metis.null											
+9	2	fb:cell_cukup.null											
+9	3	fb:cell_nomor_non_aborigin.null											
+9	4	fb:cell_non_aborigin.null											
+10	0	fb:cell_kharakteristik.provinsi_wilayah_atlantik	provinsi/wilayah Atlantik	provinsi/wilayah|atlantik	provinsi/wilayah|Atlantik	NNP|NNP	O|O	|				provinsi|wilayah Atlantik	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah_atlantik
+10	1	fb:cell_nomor_metis.1100_0	1100.0	1100.0	1100.0	CD	NUMBER	1100.0	1100.0				
+10	2	fb:cell_cukup.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+10	3	fb:cell_nomor_non_aborigin.236300_0	236300.0	236300.0	236300.0	CD	NUMBER	236300.0	236300.0				
+10	4	fb:cell_non_aborigin.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+11	0	fb:cell_kharakteristik.provinsi_wilayah_ontario	provinsi/wilayah ontario	provinsi/wilayah|ontario	provinsi/wilayah|ontario	NNP|NNP	O|O	|				provinsi|wilayah ontario	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah_ontario
+11	1	fb:cell_nomor_metis.9000_0	9000.0	9000.0	9000.0	CD	NUMBER	9000.0	9000.0				
+11	2	fb:cell_cukup.24_5	24.5	24.5	24.5	CD	NUMBER	24.5	24.5				
+11	3	fb:cell_nomor_non_aborigin.1533100_0	1533100.0	1533100.0	1533100.0	CD	NUMBER	1533100.0	1533100.0				
+11	4	fb:cell_non_aborigin.54_2	54.2	54.2	54.2	CD	NUMBER	54.2	54.2				
+12	0	fb:cell_kharakteristik.provinsi_wilayah_manitoba	provinsi/wilayah manitoba	provinsi/wilayah|manitoba	provinsi/wilayah|manitoba	NNP|NNP	O|O	|				provinsi|wilayah manitoba	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah_manitoba
+12	1	fb:cell_nomor_metis.7300_0	7300.0	7300.0	7300.0	CD	NUMBER	7300.0	7300.0				
+12	2	fb:cell_cukup.19_9	19.9	19.9	19.9	CD	NUMBER	19.9	19.9				
+12	3	fb:cell_nomor_non_aborigin.111200_0	111200.0	111200.0	111200.0	CD	NUMBER	111200.0	111200.0				
+12	4	fb:cell_non_aborigin.3_9	3.9	3.9	3.9	CD	NUMBER	3.9	3.9				
+13	0	fb:cell_kharakteristik.provinsi_wilayah_saskatchewan	provinsi/wilayah saskatchewan	provinsi/wilayah|saskatchewan	provinsi/wilayah|saskatchewan	NNP|NNP	O|O	|				provinsi|wilayah saskatchewan	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah_saskatchewan
+13	1	fb:cell_nomor_metis.3900_0	3900.0	3900.0	3900.0	CD	NUMBER	3900.0	3900.0				
+13	2	fb:cell_cukup.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+13	3	fb:cell_nomor_non_aborigin.81300_0	81300.0	81300.0	81300.0	CD	NUMBER	81300.0	81300.0				
+13	4	fb:cell_non_aborigin.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+14	0	fb:cell_kharakteristik.provinsi_wilayah_alberta	provinsi/wilayah alberta	provinsi/wilayah|alberta	provinsi/wilayah|alberta	NNP|NNP	O|O	|				provinsi|wilayah alberta	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah_alberta
+14	1	fb:cell_nomor_metis.8800_0	8800.0	8800.0	8800.0	CD	NUMBER	8800.0	8800.0				
+14	2	fb:cell_cukup.23_9	23.9	23.9	23.9	CD	NUMBER	23.9	23.9				
+14	3	fb:cell_nomor_non_aborigin.373000_0	373000.0	373000.0	373000.0	CD	NUMBER	373000.0	373000.0				
+14	4	fb:cell_non_aborigin.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+15	0	fb:cell_kharakteristik.provinsi_wilayah_columbia_inggris	provinsi/wilayah columbia inggris	provinsi/wilayah|columbia|inggris	provinsi/wilayah|columbia|inggris	NNP|NNP|NNP	O|O|O	||				provinsi|wilayah columbia inggris	fb:part_kharakteristik.provinsi|fb:part_kharakteristik.wilayah_columbia_inggris
+15	1	fb:cell_nomor_metis.6400_0	6400.0	6400.0	6400.0	CD	NUMBER	6400.0	6400.0				
+15	2	fb:cell_cukup.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+15	3	fb:cell_nomor_non_aborigin.486700_0	486700.0	486700.0	486700.0	CD	NUMBER	486700.0	486700.0				
+15	4	fb:cell_non_aborigin.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+16	0	fb:cell_kharakteristik.wilayah_provinsi_wilayah	wilayah provinsi/wilayah	wilayah|provinsi/wilayah	wilayah|provinsi/wilayah	JJ|NN	O|O	|				wilayah provinsi|wilayah	fb:part_kharakteristik.wilayah_provinsi|fb:part_kharakteristik.wilayah
+16	1	fb:cell_nomor_metis.300_0	300.0	300.0	300.0	CD	NUMBER	300.0	300.0				
+16	2	fb:cell_cukup.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+16	3	fb:cell_nomor_non_aborigin.6000_0	6000.0	6000.0	6000.0	CD	NUMBER	6000.0	6000.0				
+16	4	fb:cell_non_aborigin.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+17	0	fb:cell_kharakteristik.jenis_klasifikasi_wilayah_statistik	jenis klasifikasi wilayah statistik	jenis|klasifikasi|wilayah|statistik	jenis|klasifikasi|wilayah|statistik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+17	1	fb:cell_nomor_metis.null											
+17	2	fb:cell_cukup.null											
+17	3	fb:cell_nomor_non_aborigin.null											
+17	4	fb:cell_non_aborigin.null											
+18	0	fb:cell_kharakteristik.klasifikasi_wilayah_statistik_tipe_sensus_wilayah_metropolitan	klasifikasi wilayah statistik tipe sensus wilayah metropolitan	klasifikasi|wilayah|statistik|tipe|sensus|wilayah|metropolitan	klasifikasi|wilayah|statistik|tipe|sensus|wilayah|metropolitan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+18	1	fb:cell_nomor_metis.20700_0	20700.0	20700.0	20700.0	CD	NUMBER	20700.0	20700.0				
+18	2	fb:cell_cukup.56_4	56.4	56.4	56.4	CD	NUMBER	56.4	56.4				
+18	3	fb:cell_nomor_non_aborigin.2123400_0	2123400.0	2123400.0	2123400.0	CD	NUMBER	2123400.0	2123400.0				
+18	4	fb:cell_non_aborigin.75_1	75.1	75.1	75.1	CD	NUMBER	75.1	75.1				
+19	0	fb:cell_kharakteristik.aglomerasi_sensus_jenis_klasifikasi_wilayah_statistik	aglomerasi sensus jenis klasifikasi wilayah statistik	aglomerasi|sensus|jenis|klasifikasi|wilayah|statistik	aglomerasi|sensus|jenis|klasifikasi|wilayah|statistik	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+19	1	fb:cell_nomor_metis.2500_0	2500.0	2500.0	2500.0	CD	NUMBER	2500.0	2500.0				
+19	2	fb:cell_cukup.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+19	3	fb:cell_nomor_non_aborigin.125800_0	125800.0	125800.0	125800.0	CD	NUMBER	125800.0	125800.0				
+19	4	fb:cell_non_aborigin.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+20	0	fb:cell_kharakteristik.aglomerasi_sensus_jenis_klasifikasi_wilayah_statistik	aglomerasi sensus jenis klasifikasi wilayah statistik	aglomerasi|sensus|jenis|klasifikasi|wilayah|statistik	aglomerasi|sensus|jenis|klasifikasi|wilayah|statistik	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_nomor_metis.6600_0	6600.0	6600.0	6600.0	CD	NUMBER	6600.0	6600.0				
+20	2	fb:cell_cukup.18_1	18.1	18.1	18.1	CD	NUMBER	18.1	18.1				
+20	3	fb:cell_nomor_non_aborigin.272700_0	272700.0	272700.0	272700.0	CD	NUMBER	272700.0	272700.0				
+20	4	fb:cell_non_aborigin.9_6	9.6	9.6	9.6	CD	NUMBER	9.6	9.6				
+21	0	fb:cell_kharakteristik.klasifikasi_wilayah_statistik_tipe_zona_pengaruh_metropolitan_yang_kuat	klasifikasi wilayah statistik tipe zona pengaruh metropolitan yang kuat	klasifikasi|wilayah|statistik|tipe|zona|pengaruh|metropolitan|yang|kuat	klasifikasi|wilayah|statistik|tipe|zona|pengaruh|metropolitan|yang|kuat	NNP|NNP|NNP|NNP|NN|NN|JJ|NNP|NNP	O|O|O|O|O|O|O|PERSON|PERSON	||||||||					
+21	1	fb:cell_nomor_metis.1700_0	1700.0	1700.0	1700.0	CD	NUMBER	1700.0	1700.0				
+21	2	fb:cell_cukup.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+21	3	fb:cell_nomor_non_aborigin.119500_0	119500.0	119500.0	119500.0	CD	NUMBER	119500.0	119500.0				
+21	4	fb:cell_non_aborigin.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+22	0	fb:cell_kharakteristik.klasifikasi_wilayah_statistik_tipe_zona_yang_dipengaruhi_metropolitan_sedang	klasifikasi wilayah statistik tipe zona yang dipengaruhi metropolitan sedang	klasifikasi|wilayah|statistik|tipe|zona|yang|dipengaruhi|metropolitan|sedang	klasifikasi|wilayah|statistik|tipe|zona|yang|dipengaruhi|metropolitan|sedang	NNP|NNP|NNP|NNP|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+22	1	fb:cell_nomor_metis.5200_0	5200.0	5200.0	5200.0	CD	NUMBER	5200.0	5200.0				
+22	2	fb:cell_cukup.14_1	14.1	14.1	14.1	CD	NUMBER	14.1	14.1				
+22	3	fb:cell_nomor_non_aborigin.186300_0	186300.0	186300.0	186300.0	CD	NUMBER	186300.0	186300.0				
+22	4	fb:cell_non_aborigin.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+23	0	fb:cell_kharakteristik.kuintil_pendapatan_rumah_tangga	kuintil pendapatan rumah tangga	kuintil|pendapatan|rumah|tangga	kuintil|pendapatan|rumah|tangga	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+23	1	fb:cell_nomor_metis.null											
+23	2	fb:cell_cukup.null											
+23	3	fb:cell_nomor_non_aborigin.null											
+23	4	fb:cell_non_aborigin.null											
+24	0	fb:cell_kharakteristik.kuintil_pendapatan_rumah_tangga_1	kuintil pendapatan rumah tangga 1	kuintil|pendapatan|rumah|tangga|1	kuintil|pendapatan|rumah|tangga|1	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||1.0	1.0				
+24	1	fb:cell_nomor_metis.5100_0	5100.0	5100.0	5100.0	CD	NUMBER	5100.0	5100.0				
+24	2	fb:cell_cukup.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+24	3	fb:cell_nomor_non_aborigin.259400_0	259400.0	259400.0	259400.0	CD	NUMBER	259400.0	259400.0				
+24	4	fb:cell_non_aborigin.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+25	0	fb:cell_kharakteristik.kuintil_pendapatan_rumah_tangga_2	kuintil pendapatan rumah tangga 2	kuintil|pendapatan|rumah|tangga|2	kuintil|pendapatan|rumah|tangga|2	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||2.0	2.0				
+25	1	fb:cell_nomor_metis.4500_0	4500.0	4500.0	4500.0	CD	NUMBER	4500.0	4500.0				
+25	2	fb:cell_cukup.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+25	3	fb:cell_nomor_non_aborigin.237500_0	237500.0	237500.0	237500.0	CD	NUMBER	237500.0	237500.0				
+25	4	fb:cell_non_aborigin.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+26	0	fb:cell_kharakteristik.kuintil_pendapatan_rumah_tangga_3	kuintil pendapatan rumah tangga 3	kuintil|pendapatan|rumah|tangga|3	kuintil|pendapatan|rumah|tangga|3	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||3.0	3.0				
+26	1	fb:cell_nomor_metis.7000_0	7000.0	7000.0	7000.0	CD	NUMBER	7000.0	7000.0				
+26	2	fb:cell_cukup.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+26	3	fb:cell_nomor_non_aborigin.463200_0	463200.0	463200.0	463200.0	CD	NUMBER	463200.0	463200.0				
+26	4	fb:cell_non_aborigin.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+27	0	fb:cell_kharakteristik.kuintil_pendapatan_rumah_tangga_4	kuintil pendapatan rumah tangga 4	kuintil|pendapatan|rumah|tangga|4	kuintil|pendapatan|rumah|tangga|4	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||4.0	4.0				
+27	1	fb:cell_nomor_metis.11400_0	11400.0	11400.0	11400.0	CD	NUMBER	11400.0	11400.0				
+27	2	fb:cell_cukup.31_0	31.0	31.0	31.0	CD	NUMBER	31.0	31.0				
+27	3	fb:cell_nomor_non_aborigin.904000_0	904000.0	904000.0	904000.0	CD	NUMBER	904000.0	904000.0				
+27	4	fb:cell_non_aborigin.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+28	0	fb:cell_kharakteristik.kuintil_pendapatan_rumah_tangga_5	kuintil pendapatan rumah tangga 5	kuintil|pendapatan|rumah|tangga|5	kuintil|pendapatan|rumah|tangga|5	NNP|NNP|NNP|NNP|CD	O|O|O|O|NUMBER	||||5.0	5.0				
+28	1	fb:cell_nomor_metis.8700_0	8700.0	8700.0	8700.0	CD	NUMBER	8700.0	8700.0				
+28	2	fb:cell_cukup.23_8	23.8	23.8	23.8	CD	NUMBER	23.8	23.8				
+28	3	fb:cell_nomor_non_aborigin.963500_0	963500.0	963500.0	963500.0	CD	NUMBER	963500.0	963500.0				
+28	4	fb:cell_non_aborigin.34_1	34.1	34.1	34.1	CD	NUMBER	34.1	34.1				
+29	0	fb:cell_kharakteristik.pencapaian_pendidikan	pencapaian pendidikan	pencapaian|pendidikan	pencapaian|pendidikan	NNP|NNP	O|O	|					
+29	1	fb:cell_nomor_metis.null											
+29	2	fb:cell_cukup.null											
+29	3	fb:cell_nomor_non_aborigin.null											
+29	4	fb:cell_non_aborigin.null											
+30	0	fb:cell_kharakteristik.pencapaian_pendidikan_kurang_dari_kelulusan_menengah	pencapaian pendidikan kurang dari kelulusan menengah	pencapaian|pendidikan|kurang|dari|kelulusan|menengah	pencapaian|pendidikan|kurang|dari|kelulusan|menengah	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+30	1	fb:cell_nomor_metis.9900_0	9900.0	9900.0	9900.0	CD	NUMBER	9900.0	9900.0				
+30	2	fb:cell_cukup.26_9	26.9	26.9	26.9	CD	NUMBER	26.9	26.9				
+30	3	fb:cell_nomor_non_aborigin.455300_0	455300.0	455300.0	455300.0	CD	NUMBER	455300.0	455300.0				
+30	4	fb:cell_non_aborigin.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+31	0	fb:cell_kharakteristik.pencapaian_pendidikan_kelulusan_menengah_atau_lebih	pencapaian pendidikan kelulusan menengah atau lebih	pencapaian|pendidikan|kelulusan|menengah|atau|lebih	pencapaian|pendidikan|kelulusan|menengah|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+31	1	fb:cell_nomor_metis.26800_0	26800.0	26800.0	26800.0	CD	NUMBER	26800.0	26800.0				
+31	2	fb:cell_cukup.73_1	73.1	73.1	73.1	CD	NUMBER	73.1	73.1				
+31	3	fb:cell_nomor_non_aborigin.2372300_0	2372300.0	2372300.0	2372300.0	CD	NUMBER	2372300.0	2372300.0				
+31	4	fb:cell_non_aborigin.83_9	83.9	83.9	83.9	CD	NUMBER	83.9	83.9				
+32	0	fb:cell_kharakteristik.pengaturan_tempat_tinggal	pengaturan tempat tinggal	pengaturan|tempat|tinggal	pengaturan|tempat|tinggal	NN|NN|NN	O|O|O	||					
+32	1	fb:cell_nomor_metis.null											
+32	2	fb:cell_cukup.null											
+32	3	fb:cell_nomor_non_aborigin.null											
+32	4	fb:cell_non_aborigin.null											
+33	0	fb:cell_kharakteristik.pengaturan_hidup_saja	pengaturan hidup saja	pengaturan|hidup|saja	pengaturan|hidup|saja	NN|NN|NN	O|O|O	||					
+33	1	fb:cell_nomor_metis.4300_0	4300.0	4300.0	4300.0	CD	NUMBER	4300.0	4300.0				
+33	2	fb:cell_cukup.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+33	3	fb:cell_nomor_non_aborigin.298900_0	298900.0	298900.0	298900.0	CD	NUMBER	298900.0	298900.0				
+33	4	fb:cell_non_aborigin.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+34	0	fb:cell_kharakteristik.pengaturan_hidup_dengan_orang_lain	pengaturan hidup dengan orang lain	pengaturan|hidup|dengan|orang|lain	pengaturan|hidup|dengan|orang|lain	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+34	1	fb:cell_nomor_metis.32500_0	32500.0	32500.0	32500.0	CD	NUMBER	32500.0	32500.0				
+34	2	fb:cell_cukup.88_4	88.4	88.4	88.4	CD	NUMBER	88.4	88.4				
+34	3	fb:cell_nomor_non_aborigin.2528700_0	2528700.0	2528700.0	2528700.0	CD	NUMBER	2528700.0	2528700.0				
+34	4	fb:cell_non_aborigin.89_4	89.4	89.4	89.4	CD	NUMBER	89.4	89.4				
+35	0	fb:cell_kharakteristik.status_angkatan_kerja	status angkatan kerja	status|angkatan|kerja	status|angkatan|kerja	NN|NN|NN	O|O|O	||					
+35	1	fb:cell_nomor_metis.null											
+35	2	fb:cell_cukup.null											
+35	3	fb:cell_nomor_non_aborigin.null											
+35	4	fb:cell_non_aborigin.null											
+36	0	fb:cell_kharakteristik.status_angkatan_kerja_tidak_bekerja	status angkatan kerja tidak bekerja	status|angkatan|kerja|tidak|bekerja	status|angkatan|kerja|tidak|bekerja	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+36	1	fb:cell_nomor_metis.2400_0	2400.0	2400.0	2400.0	CD	NUMBER	2400.0	2400.0				
+36	2	fb:cell_cukup.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+36	3	fb:cell_nomor_non_aborigin.119100_0	119100.0	119100.0	119100.0	CD	NUMBER	119100.0	119100.0				
+36	4	fb:cell_non_aborigin.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+37	0	fb:cell_kharakteristik.status_angkatan_kerja_bukan_angkatan_kerja	status angkatan kerja bukan angkatan kerja	status|angkatan|kerja|bukan|angkatan|kerja	status|angkatan|kerja|bukan|angkatan|kerja	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||					
+37	1	fb:cell_nomor_metis.9100_0	9100.0	9100.0	9100.0	CD	NUMBER	9100.0	9100.0				
+37	2	fb:cell_cukup.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+37	3	fb:cell_nomor_non_aborigin.725500_0	725500.0	725500.0	725500.0	CD	NUMBER	725500.0	725500.0				
+37	4	fb:cell_non_aborigin.25_7	25.7	25.7	25.7	CD	NUMBER	25.7	25.7				
+38	0	fb:cell_kharakteristik.status_angkatan_kerja_bekerja	status angkatan kerja bekerja	status|angkatan|kerja|bekerja	status|angkatan|kerja|bekerja	NN|NN|NN|NN	O|O|O|O	|||					
+38	1	fb:cell_nomor_metis.25200_0	25200.0	25200.0	25200.0	CD	NUMBER	25200.0	25200.0				
+38	2	fb:cell_cukup.68_6	68.6	68.6	68.6	CD	NUMBER	68.6	68.6				
+38	3	fb:cell_nomor_non_aborigin.1983000_0	1983000.0	1983000.0	1983000.0	CD	NUMBER	1983000.0	1983000.0				
+38	4	fb:cell_non_aborigin.70_1	70.1	70.1	70.1	CD	NUMBER	70.1	70.1				

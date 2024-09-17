@@ -1,0 +1,64 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_perempuan	nomor perempuan	nomor|perempuan	nomor|perempuan	NNP|NNP	O|O	|					
+-1	2	fb:row.row.tingkat_perempuan	tingkat perempuan	tingkat|perempuan	tingkat|perempuan	NNP|NNP	O|O	|					
+-1	3	fb:row.row.nomor_laki_laki	nomor laki-laki	nomor|laki|laki	nomor|laki|laki	NNP|NNP|NNP	O|O|O	||					
+-1	4	fb:row.row.tingkat_laki_laki	tingkat laki-laki	tingkat|laki|laki	tingkat|laki|laki	NNP|NNP|NNP	O|O|O	||					
+-1	5	fb:row.row.jumlah_total	jumlah total	jumlah|total	jumlah|total	NNP|NNP	O|O	|					
+-1	6	fb:row.row.tarif_total	tarif total	tarif|total	tarif|total	NNP|NNP	O|O	|					
+0	0	fb:cell_kharakteristik.12_hingga_17	12 hingga 17	12|hingga|17	12|hingga|17	CD|NN|CD	NUMBER|O|NUMBER	12.0||17.0	12.0		17.0		
+0	1	fb:cell_nomor_perempuan.60_0	60.0	60.0	60.0	CD	NUMBER	60.0	60.0				
+0	2	fb:cell_tingkat_perempuan.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+0	3	fb:cell_nomor_laki_laki.482_0	482.0	482.0	482.0	CD	NUMBER	482.0	482.0				
+0	4	fb:cell_tingkat_laki_laki.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+0	5	fb:cell_jumlah_total.542_0	542.0	542.0	542.0	CD	NUMBER	542.0	542.0				
+0	6	fb:cell_tarif_total.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+1	0	fb:cell_kharakteristik.18_hingga_24	18 hingga 24	18|hingga|24	18|hingga|24	CD|NN|CD	NUMBER|O|NUMBER	18.0||24.0	18.0		24.0		
+1	1	fb:cell_nomor_perempuan.153_0	153.0	153.0	153.0	CD	NUMBER	153.0	153.0				
+1	2	fb:cell_tingkat_perempuan.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+1	3	fb:cell_nomor_laki_laki.1809_0	1809.0	1809.0	1809.0	CD	NUMBER	1809.0	1809.0				
+1	4	fb:cell_tingkat_laki_laki.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+1	5	fb:cell_jumlah_total.1962_0	1962.0	1962.0	1962.0	CD	NUMBER	1962.0	1962.0				
+1	6	fb:cell_tarif_total.5_4	5.4	5.4	5.4	CD	NUMBER	5.4	5.4				
+2	0	fb:cell_kharakteristik.25_hingga_34	25 hingga 34	25|hingga|34	25|hingga|34	CD|NN|CD	NUMBER|O|NUMBER	25.0||34.0	25.0		34.0		
+2	1	fb:cell_nomor_perempuan.226_0	226.0	226.0	226.0	CD	NUMBER	226.0	226.0				
+2	2	fb:cell_tingkat_perempuan.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+2	3	fb:cell_nomor_laki_laki.1542_0	1542.0	1542.0	1542.0	CD	NUMBER	1542.0	1542.0				
+2	4	fb:cell_tingkat_laki_laki.5_9	5.9	5.9	5.9	CD	NUMBER	5.9	5.9				
+2	5	fb:cell_jumlah_total.1768_0	1768.0	1768.0	1768.0	CD	NUMBER	1768.0	1768.0				
+2	6	fb:cell_tarif_total.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+3	0	fb:cell_kharakteristik.35_hingga_44	35 hingga 44	35|hingga|44	35|hingga|44	CD|NN|CD	NUMBER|O|NUMBER	35.0||44.0	35.0		44.0		
+3	1	fb:cell_nomor_perempuan.139_0	139.0	139.0	139.0	CD	NUMBER	139.0	139.0				
+3	2	fb:cell_tingkat_perempuan.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+3	3	fb:cell_nomor_laki_laki.729_0	729.0	729.0	729.0	CD	NUMBER	729.0	729.0				
+3	4	fb:cell_tingkat_laki_laki.2_8	2.8	2.8	2.8	CD	NUMBER	2.8	2.8				
+3	5	fb:cell_jumlah_total.868_0	868.0	868.0	868.0	CD	NUMBER	868.0	868.0				
+3	6	fb:cell_tarif_total.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+4	0	fb:cell_kharakteristik.45_hingga_54	45 hingga 54	45|hingga|54	45|hingga|54	CD|NN|CD	NUMBER|O|NUMBER	45.0||54.0	45.0		54.0		
+4	1	fb:cell_nomor_perempuan.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+4	2	fb:cell_tingkat_perempuan.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+4	3	fb:cell_nomor_laki_laki.509_0	509.0	509.0	509.0	CD	NUMBER	509.0	509.0				
+4	4	fb:cell_tingkat_laki_laki.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+4	5	fb:cell_jumlah_total.581_0	581.0	581.0	581.0	CD	NUMBER	581.0	581.0				
+4	6	fb:cell_tarif_total.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	0	fb:cell_kharakteristik.55_hingga_64	55 hingga 64	55|hingga|64	55|hingga|64	CD|NN|CD	NUMBER|O|NUMBER	55.0||64.0	55.0		64.0		
+5	1	fb:cell_nomor_perempuan.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+5	2	fb:cell_tingkat_perempuan.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+5	3	fb:cell_nomor_laki_laki.198_0	198.0	198.0	198.0	CD	NUMBER	198.0	198.0				
+5	4	fb:cell_tingkat_laki_laki.0_8	0.8	0.8	0.8	CD	NUMBER	0.8	0.8				
+5	5	fb:cell_jumlah_total.220_0	220.0	220.0	220.0	CD	NUMBER	220.0	220.0				
+5	6	fb:cell_tarif_total.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+6	0	fb:cell_kharakteristik.65_dan_lebih_tua	65 dan lebih tua	65|dan|lebih|tua	65|dan|lebih|tua	CD|NNP|NNP|NNP	NUMBER|PERSON|PERSON|PERSON	65.0|||	65.0				
+6	1	fb:cell_nomor_perempuan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+6	2	fb:cell_tingkat_perempuan.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+6	3	fb:cell_nomor_laki_laki.141_0	141.0	141.0	141.0	CD	NUMBER	141.0	141.0				
+6	4	fb:cell_tingkat_laki_laki.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+6	5	fb:cell_jumlah_total.148_0	148.0	148.0	148.0	CD	NUMBER	148.0	148.0				
+6	6	fb:cell_tarif_total.0_3	0.3	0.3	0.3	CD	NUMBER	0.3	0.3				
+7	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+7	1	fb:cell_nomor_perempuan.679_0	679.0	679.0	679.0	CD	NUMBER	679.0	679.0				
+7	2	fb:cell_tingkat_perempuan.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+7	3	fb:cell_nomor_laki_laki.5410_0	5410.0	5410.0	5410.0	CD	NUMBER	5410.0	5410.0				
+7	4	fb:cell_tingkat_laki_laki.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+7	5	fb:cell_jumlah_total.6089_0	6089.0	6089.0	6089.0	CD	NUMBER	6089.0	6089.0				
+7	6	fb:cell_tarif_total.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				

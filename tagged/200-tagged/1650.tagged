@@ -1,0 +1,165 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.null	%	%	%	NN	O						
+-1	2	fb:row.row.interval_kepercayaan_95_dari	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	3	fb:row.row.interval_kepercayaan_95_sampai	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_null.76_6	76.6	76.6	76.6	CD	NUMBER	76.6	76.6				
+0	2	fb:cell_interval_kepercayaan_95_dari.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+0	3	fb:cell_interval_kepercayaan_95_sampai.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+1	0	fb:cell_kharakteristik.nyeri_kronis	nyeri kronis	nyeri|kronis	nyeri|kronis	NNP|NNP	O|O	|					
+1	1	fb:cell_null.null											
+1	2	fb:cell_interval_kepercayaan_95_dari.null											
+1	3	fb:cell_interval_kepercayaan_95_sampai.null											
+2	0	fb:cell_kharakteristik.sakit_kronis_ya	sakit kronis ya	sakit|kronis|ya	sakit|kronis|ya	NNP|NNP|PRP	PERSON|PERSON|PERSON	||					
+2	1	fb:cell_null.68_5	68.5	68.5	68.5	CD	NUMBER	68.5	68.5				
+2	2	fb:cell_interval_kepercayaan_95_dari.67_4	67.4	67.4	67.4	CD	NUMBER	67.4	67.4				
+2	3	fb:cell_interval_kepercayaan_95_sampai.69_6	69.6	69.6	69.6	CD	NUMBER	69.6	69.6				
+3	0	fb:cell_kharakteristik.sakit_kronis_tidak	sakit kronis tidak	sakit|kronis|tidak	sakit|kronis|tidak	NNP|NNP|NNP	O|O|O	||					
+3	1	fb:cell_null.78_8	78.8	78.8	78.8	CD	NUMBER	78.8	78.8				
+3	2	fb:cell_interval_kepercayaan_95_dari.78_2	78.2	78.2	78.2	CD	NUMBER	78.2	78.2				
+3	3	fb:cell_interval_kepercayaan_95_sampai.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+4	0	fb:cell_kharakteristik.karakteristik_sosio_demografis	karakteristik sosio-demografis	karakteristik|sosio|demografis	karakteristik|sosio|demografis	NNP|NNP|NNPS	O|O|O	||					
+4	1	fb:cell_null.null											
+4	2	fb:cell_interval_kepercayaan_95_dari.null											
+4	3	fb:cell_interval_kepercayaan_95_sampai.null											
+5	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_jenis_kelamin	karakteristik sosio-demografis jenis kelamin	karakteristik|sosio|demografis|jenis|kelamin	karakteristik|sosio|demografi|jenis|kelamin	NNP|NNP|VBZ|NNP|NNP	O|O|O|O|O	||||					
+5	1	fb:cell_null.null											
+5	2	fb:cell_interval_kepercayaan_95_dari.null											
+5	3	fb:cell_interval_kepercayaan_95_sampai.null											
+6	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_jenis_kelamin_laki_laki	karakteristik sosio-demografis jenis kelamin laki-laki	karakteristik|sosio|demografis|jenis|kelamin|laki|laki	karakteristik|sosio|demografi|jenis|kelamin|laki|laki	NNP|NNP|VBZ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+6	1	fb:cell_null.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+6	2	fb:cell_interval_kepercayaan_95_dari.75_8	75.8	75.8	75.8	CD	NUMBER	75.8	75.8				
+6	3	fb:cell_interval_kepercayaan_95_sampai.77_2	77.2	77.2	77.2	CD	NUMBER	77.2	77.2				
+7	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_jenis_kelamin_perempuan	karakteristik sosio-demografis jenis kelamin perempuan	karakteristik|sosio|demografis|jenis|kelamin|perempuan	karakteristik|sosio|demografi|jenis|kelamin|perempuan	NNP|NNP|VBZ|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+7	1	fb:cell_null.76_6	76.6	76.6	76.6	CD	NUMBER	76.6	76.6				
+7	2	fb:cell_interval_kepercayaan_95_dari.75_9	75.9	75.9	75.9	CD	NUMBER	75.9	75.9				
+7	3	fb:cell_interval_kepercayaan_95_sampai.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+8	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kelompok_umur	karakteristik sosio-demografis kelompok umur	karakteristik|sosio|demografis|kelompok|umur	karakteristik|sosio|demografi|kelompok|umur	NNP|NNP|VBZ|NN|NN	O|O|O|O|O	||||					
+8	1	fb:cell_null.null											
+8	2	fb:cell_interval_kepercayaan_95_dari.null											
+8	3	fb:cell_interval_kepercayaan_95_sampai.null											
+9	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kelompok_usia_18_hingga_34_tahun	karakteristik sosio-demografis kelompok usia 18 hingga 34 tahun	karakteristik|sosio|demografis|kelompok|usia|18|hingga|34|tahun	karakteristik|sosio|demografi|kelompok|usia|18|hingga|34|tahun	NNP|NNP|VBZ|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||18.0||34.0|	18.0		34.0		
+9	1	fb:cell_null.75_7	75.7	75.7	75.7	CD	NUMBER	75.7	75.7				
+9	2	fb:cell_interval_kepercayaan_95_dari.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+9	3	fb:cell_interval_kepercayaan_95_sampai.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+10	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kelompok_usia_35_hingga_49_tahun	karakteristik sosio-demografis kelompok usia 35 hingga 49 tahun	karakteristik|sosio|demografis|kelompok|usia|35|hingga|49|tahun	karakteristik|sosio|demografi|kelompok|usia|35|hingga|49|tahun	NNP|NNP|VBZ|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||35.0||49.0|	35.0		49.0		
+10	1	fb:cell_null.76_3	76.3	76.3	76.3	CD	NUMBER	76.3	76.3				
+10	2	fb:cell_interval_kepercayaan_95_dari.75_3	75.3	75.3	75.3	CD	NUMBER	75.3	75.3				
+10	3	fb:cell_interval_kepercayaan_95_sampai.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+11	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kelompok_usia_50_hingga_64_tahun	karakteristik sosio-demografis kelompok usia 50 hingga 64 tahun	karakteristik|sosio|demografis|kelompok|usia|50|hingga|64|tahun	karakteristik|sosio|demografi|kelompok|usia|50|hingga|64|tahun	NNP|NNP|VBZ|NNP|NNP|CD|NN|CD|NN	O|O|O|O|O|NUMBER|O|NUMBER|O	|||||50.0||64.0|	50.0		64.0		
+11	1	fb:cell_null.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+11	2	fb:cell_interval_kepercayaan_95_dari.76_2	76.2	76.2	76.2	CD	NUMBER	76.2	76.2				
+11	3	fb:cell_interval_kepercayaan_95_sampai.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+12	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kelompok_usia_65_tahun_ke_atas	karakteristik sosio-demografis kelompok usia 65 tahun ke atas	karakteristik|sosio|demografis|kelompok|usia|65|tahun|ke|atas	karakteristik|sosio|demografi|kelompok|usia|65|tahun|ke|atas	NNP|NNP|VBZ|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|O|NUMBER|O|O|O	|||||65.0|||	65.0				
+12	1	fb:cell_null.77_5	77.5	77.5	77.5	CD	NUMBER	77.5	77.5				
+12	2	fb:cell_interval_kepercayaan_95_dari.76_6	76.6	76.6	76.6	CD	NUMBER	76.6	76.6				
+12	3	fb:cell_interval_kepercayaan_95_sampai.78_3	78.3	78.3	78.3	CD	NUMBER	78.3	78.3				
+13	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_pendidikan	karakteristik sosio-demografis pendidikan	karakteristik|sosio|demografis|pendidikan	karakteristik|sosio|demografi|pendidikan	NNP|NNP|VBZ|NN	O|O|O|O	|||					
+13	1	fb:cell_null.null											
+13	2	fb:cell_interval_kepercayaan_95_dari.null											
+13	3	fb:cell_interval_kepercayaan_95_sampai.null											
+14	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_pendidikan_kelulusan_pasca_sekolah_menengah	karakteristik sosio-demografis pendidikan kelulusan pasca sekolah menengah	karakteristik|sosio|demografis|pendidikan|kelulusan|pasca|sekolah|menengah	karakteristik|sosio|demografis|pendidikan|kelulusan|pasca|sekolah|menengah	NNP|NNP|NNPS|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+14	1	fb:cell_null.78_2	78.2	78.2	78.2	CD	NUMBER	78.2	78.2				
+14	2	fb:cell_interval_kepercayaan_95_dari.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+14	3	fb:cell_interval_kepercayaan_95_sampai.78_8	78.8	78.8	78.8	CD	NUMBER	78.8	78.8				
+15	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_pendidikan_kurang_dari_kelulusan_pasca_sekolah_menengah	karakteristik sosio-demografis pendidikan kurang dari kelulusan pasca sekolah menengah	karakteristik|sosio|demografis|pendidikan|kurang|dari|kelulusan|pasca|sekolah|menengah	karakteristik|sosio|demografis|pendidikan|kurang|dari|kelulusan|pasca|sekolah|menengah	NNP|NNP|NNPS|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+15	1	fb:cell_null.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+15	2	fb:cell_interval_kepercayaan_95_dari.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+15	3	fb:cell_interval_kepercayaan_95_sampai.70_4	70.4	70.4	70.4	CD	NUMBER	70.4	70.4				
+16	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_status_perkawinan	karakteristik sosio-demografis status perkawinan	karakteristik|sosio|demografis|status|perkawinan	karakteristik|sosio|demografi|status|perkawinan	NNP|NNP|VBZ|NN|NN	O|O|O|O|O	||||					
+16	1	fb:cell_null.null											
+16	2	fb:cell_interval_kepercayaan_95_dari.null											
+16	3	fb:cell_interval_kepercayaan_95_sampai.null											
+17	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_status_perkawinan_menikah_hukum_adat	karakteristik sosio-demografis status perkawinan menikah/hukum adat	karakteristik|sosio|demografis|status|perkawinan|menikah/hukum|adat	karakteristik|sosio|demografi|status|perkawinan|menikah/hukum|adat	NNP|NNP|VBZ|NN|JJ|NN|NN	O|O|O|O|O|O|O	||||||				karakteristik sosio-demografis status perkawinan menikah|hukum adat	fb:part_kharakteristik.karakteristik_sosio_demografis_status_perkawinan_menikah|fb:part_kharakteristik.hukum_adat
+17	1	fb:cell_null.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+17	2	fb:cell_interval_kepercayaan_95_dari.78_8	78.8	78.8	78.8	CD	NUMBER	78.8	78.8				
+17	3	fb:cell_interval_kepercayaan_95_sampai.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+18	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_status_perkawinan_tidak_ada_pasangan	karakteristik sosio-demografis status perkawinan tidak ada pasangan	karakteristik|sosio|demografis|status|perkawinan|tidak|ada|pasangan	karakteristik|sosio|demografi|status|perkawinan|tidak|ada|pasangan	NNP|NNP|VBZ|NN|JJ|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+18	1	fb:cell_null.78_4	78.4	78.4	78.4	CD	NUMBER	78.4	78.4				
+18	2	fb:cell_interval_kepercayaan_95_dari.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+18	3	fb:cell_interval_kepercayaan_95_sampai.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+19	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kuintil_pendapatan_rumah_tangga	karakteristik sosio-demografis kuintil pendapatan rumah tangga	karakteristik|sosio|demografis|kuintil|pendapatan|rumah|tangga	karakteristik|sosio|demografi|kuintil|pendapatan|rumah|tangga	NNP|NNP|VBZ|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+19	1	fb:cell_null.null											
+19	2	fb:cell_interval_kepercayaan_95_dari.null											
+19	3	fb:cell_interval_kepercayaan_95_sampai.null											
+20	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kuintil_pendapatan_rumah_tangga_terendah	karakteristik sosio-demografis kuintil pendapatan rumah tangga terendah	karakteristik|sosio|demografis|kuintil|pendapatan|rumah|tangga|terendah	karakteristik|sosio|demografi|kuintil|pendapatan|rumah|tangga|terendah	NNP|NNP|VBZ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+20	1	fb:cell_null.69_1	69.1	69.1	69.1	CD	NUMBER	69.1	69.1				
+20	2	fb:cell_interval_kepercayaan_95_dari.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+20	3	fb:cell_interval_kepercayaan_95_sampai.70_4	70.4	70.4	70.4	CD	NUMBER	70.4	70.4				
+21	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_pendapatan_rumah_tangga_kuintil_menengah_ke_bawah	karakteristik sosio-demografis pendapatan rumah tangga kuintil menengah ke bawah	karakteristik|sosio|demografis|pendapatan|rumah|tangga|kuintil|menengah|ke|bawah	karakteristik|sosio|demografis|pendapatan|rumah|tangga|kuintil|menengah|ke|bawah	NNP|NNP|NNPS|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+21	1	fb:cell_null.75_2	75.2	75.2	75.2	CD	NUMBER	75.2	75.2				
+21	2	fb:cell_interval_kepercayaan_95_dari.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+21	3	fb:cell_interval_kepercayaan_95_sampai.76_3	76.3	76.3	76.3	CD	NUMBER	76.3	76.3				
+22	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_pendapatan_rumah_tangga_kuintil_menengah	karakteristik sosio-demografis pendapatan rumah tangga kuintil menengah	karakteristik|sosio|demografis|pendapatan|rumah|tangga|kuintil|menengah	karakteristik|sosio|demografi|pendapatan|rumah|tangga|kuintil|menengah	NNP|NNP|VBZ|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+22	1	fb:cell_null.77_2	77.2	77.2	77.2	CD	NUMBER	77.2	77.2				
+22	2	fb:cell_interval_kepercayaan_95_dari.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+22	3	fb:cell_interval_kepercayaan_95_sampai.78_2	78.2	78.2	78.2	CD	NUMBER	78.2	78.2				
+23	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_pendapatan_rumah_tangga_kuintil_menengah_atas	karakteristik sosio-demografis pendapatan rumah tangga kuintil menengah atas	karakteristik|sosio|demografis|pendapatan|rumah|tangga|kuintil|menengah|atas	karakteristik|sosio|demografi|pendapatan|rumah|tangga|kuintil|menengah|atas	NNP|NNP|VBZ|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+23	1	fb:cell_null.78_4	78.4	78.4	78.4	CD	NUMBER	78.4	78.4				
+23	2	fb:cell_interval_kepercayaan_95_dari.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+23	3	fb:cell_interval_kepercayaan_95_sampai.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+24	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_kuintil_pendapatan_rumah_tangga_tertinggi	karakteristik sosio-demografis kuintil pendapatan rumah tangga tertinggi	karakteristik|sosio|demografis|kuintil|pendapatan|rumah|tangga|tertinggi	karakteristik|sosio|demografi|kuintil|pendapatan|rumah|tangga|tertinggi	NNP|NNP|VBZ|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+24	1	fb:cell_null.82_1	82.1	82.1	82.1	CD	NUMBER	82.1	82.1				
+24	2	fb:cell_interval_kepercayaan_95_dari.81_1	81.1	81.1	81.1	CD	NUMBER	81.1	81.1				
+24	3	fb:cell_interval_kepercayaan_95_sampai.83_1	83.1	83.1	83.1	CD	NUMBER	83.1	83.1				
+25	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_ras_identitas_budaya	karakteristik sosio-demografis ras/identitas budaya	karakteristik|sosio|demografis|ras/identitas|budaya	karakteristik|sosio|demografi|ras/identitas|budaya	NNP|NNP|VBZ|NN|NNP	O|O|O|O|O	||||				karakteristik sosio-demografis ras|identitas budaya	fb:part_kharakteristik.karakteristik_sosio_demografis_ras|fb:part_kharakteristik.identitas_budaya
+25	1	fb:cell_null.null											
+25	2	fb:cell_interval_kepercayaan_95_dari.null											
+25	3	fb:cell_interval_kepercayaan_95_sampai.null											
+26	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_ras_identitas_budaya_kulit_putih	karakteristik sosio-demografis ras/identitas budaya kulit putih	karakteristik|sosio|demografis|ras/identitas|budaya|kulit|putih	karakteristik|sosio|demografi|ras/identitas|budaya|kulit|putih	NNP|NNP|VBZ|NN|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				karakteristik sosio-demografis ras|identitas budaya kulit putih	fb:part_kharakteristik.karakteristik_sosio_demografis_ras|fb:part_kharakteristik.identitas_budaya_kulit_putih
+26	1	fb:cell_null.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+26	2	fb:cell_interval_kepercayaan_95_dari.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+26	3	fb:cell_interval_kepercayaan_95_sampai.77_8	77.8	77.8	77.8	CD	NUMBER	77.8	77.8				
+27	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_ras_identitas_budaya_kulit_hitam	karakteristik sosio-demografis ras/identitas budaya kulit hitam	karakteristik|sosio|demografis|ras/identitas|budaya|kulit|hitam	karakteristik|sosio|demografi|ras/identitas|budaya|kulit|hitam	NNP|NNP|VBZ|NN|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				karakteristik sosio-demografis ras|identitas budaya kulit hitam	fb:part_kharakteristik.karakteristik_sosio_demografis_ras|fb:part_kharakteristik.identitas_budaya_kulit_hitam
+27	1	fb:cell_null.78_6	78.6	78.6	78.6	CD	NUMBER	78.6	78.6				
+27	2	fb:cell_interval_kepercayaan_95_dari.74_3	74.3	74.3	74.3	CD	NUMBER	74.3	74.3				
+27	3	fb:cell_interval_kepercayaan_95_sampai.82_3	82.3	82.3	82.3	CD	NUMBER	82.3	82.3				
+28	0	fb:cell_kharakteristik.karakteristik_sosio_demografis_ras_identitas_budaya_lainnya	karakteristik sosio-demografis ras/identitas budaya lainnya	karakteristik|sosio|demografis|ras/identitas|budaya|lainnya	karakteristik|sosio|demografi|ras/identitas|budaya|lainnya	NNP|NNP|VBZ|NN|NNP|NNP	O|O|O|O|O|O	|||||				karakteristik sosio-demografis ras|identitas budaya lainnya	fb:part_kharakteristik.karakteristik_sosio_demografis_ras|fb:part_kharakteristik.identitas_budaya_lainnya
+28	1	fb:cell_null.74_9	74.9	74.9	74.9	CD	NUMBER	74.9	74.9				
+28	2	fb:cell_interval_kepercayaan_95_dari.73_2	73.2	73.2	73.2	CD	NUMBER	73.2	73.2				
+28	3	fb:cell_interval_kepercayaan_95_sampai.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+29	0	fb:cell_kharakteristik.karakteristik_kesehatan	karakteristik kesehatan	karakteristik|kesehatan	karakteristik|kesehatan	NNP|NNP	O|O	|					
+29	1	fb:cell_null.null											
+29	2	fb:cell_interval_kepercayaan_95_dari.null											
+29	3	fb:cell_interval_kepercayaan_95_sampai.null											
+30	0	fb:cell_kharakteristik.karakteristik_kesehatan_perilaku_kesehatan_yang_positif	karakteristik kesehatan perilaku kesehatan yang positif	karakteristik|kesehatan|perilaku|kesehatan|yang|positif	karakteristik|kesehatan|perilaku|kesehatan|yang|positif	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+30	1	fb:cell_null.null											
+30	2	fb:cell_interval_kepercayaan_95_dari.null											
+30	3	fb:cell_interval_kepercayaan_95_sampai.null											
+31	0	fb:cell_kharakteristik.karakteristik_kesehatan_perilaku_kesehatan_yang_positif_tidak_ada	karakteristik kesehatan perilaku kesehatan yang positif tidak ada	karakteristik|kesehatan|perilaku|kesehatan|yang|positif|tidak|ada	karakteristik|kesehatan|perilaku|kesehatan|yang|positif|tidak|ada	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O	|||||||					
+31	1	fb:cell_null.67_1	67.1	67.1	67.1	CD	NUMBER	67.1	67.1				
+31	2	fb:cell_interval_kepercayaan_95_dari.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+31	3	fb:cell_interval_kepercayaan_95_sampai.68_9	68.9	68.9	68.9	CD	NUMBER	68.9	68.9				
+32	0	fb:cell_kharakteristik.ciri_ciri_kesehatan_perilaku_kesehatan_yang_positif_satu	ciri-ciri kesehatan perilaku kesehatan yang positif satu	ciri|ciri|kesehatan|perilaku|kesehatan|yang|positif|satu	ciri|ciri|kesehatan|perilaku|kesehatan|yang|positif|satu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+32	1	fb:cell_null.73_2	73.2	73.2	73.2	CD	NUMBER	73.2	73.2				
+32	2	fb:cell_interval_kepercayaan_95_dari.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+32	3	fb:cell_interval_kepercayaan_95_sampai.74_2	74.2	74.2	74.2	CD	NUMBER	74.2	74.2				
+33	0	fb:cell_kharakteristik.karakteristik_kesehatan_perilaku_kesehatan_positif_dua	karakteristik kesehatan perilaku kesehatan positif dua	karakteristik|kesehatan|perilaku|kesehatan|positif|dua	karakteristik|kesehatan|perilaku|kesehatan|positif|dua	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+33	1	fb:cell_null.78_6	78.6	78.6	78.6	CD	NUMBER	78.6	78.6				
+33	2	fb:cell_interval_kepercayaan_95_dari.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+33	3	fb:cell_interval_kepercayaan_95_sampai.79_3	79.3	79.3	79.3	CD	NUMBER	79.3	79.3				
+34	0	fb:cell_kharakteristik.karakteristik_kesehatan_perilaku_kesehatan_positif_tiga	karakteristik kesehatan perilaku kesehatan positif tiga	karakteristik|kesehatan|perilaku|kesehatan|positif|tiga	karakteristik|kesehatan|perilaku|kesehatan|positif|tiga	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+34	1	fb:cell_null.81_5	81.5	81.5	81.5	CD	NUMBER	81.5	81.5				
+34	2	fb:cell_interval_kepercayaan_95_dari.80_5	80.5	80.5	80.5	CD	NUMBER	80.5	80.5				
+34	3	fb:cell_interval_kepercayaan_95_sampai.82_5	82.5	82.5	82.5	CD	NUMBER	82.5	82.5				
+35	0	fb:cell_kharakteristik.karakteristik_kesehatan_kondisi_fisik_kronis	karakteristik kesehatan kondisi fisik kronis	karakteristik|kesehatan|kondisi|fisik|kronis	karakteristik|kesehatan|kondisi|fisik|kronis	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+35	1	fb:cell_null.null											
+35	2	fb:cell_interval_kepercayaan_95_dari.null											
+35	3	fb:cell_interval_kepercayaan_95_sampai.null											
+36	0	fb:cell_kharakteristik.karakteristik_kesehatan_kondisi_fisik_kronis_tidak_ada	karakteristik kesehatan kondisi fisik kronis tidak ada	karakteristik|kesehatan|kondisi|fisik|kronis|tidak|ada	karakteristik|kesehatan|kondisi|fisik|kronis|tidak|ada	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+36	1	fb:cell_null.79_3	79.3	79.3	79.3	CD	NUMBER	79.3	79.3				
+36	2	fb:cell_interval_kepercayaan_95_dari.78_5	78.5	78.5	78.5	CD	NUMBER	78.5	78.5				
+36	3	fb:cell_interval_kepercayaan_95_sampai.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+37	0	fb:cell_kharakteristik.ciri_ciri_kesehatan_kondisi_fisik_kronis_satu	ciri-ciri kesehatan kondisi fisik kronis satu	ciri|ciri|kesehatan|kondisi|fisik|kronis|satu	ciri|ciri|kesehatan|kondisi|fisik|kronis|satu	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+37	1	fb:cell_null.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+37	2	fb:cell_interval_kepercayaan_95_dari.75_8	75.8	75.8	75.8	CD	NUMBER	75.8	75.8				
+37	3	fb:cell_interval_kepercayaan_95_sampai.77_6	77.6	77.6	77.6	CD	NUMBER	77.6	77.6				
+38	0	fb:cell_kharakteristik.ciri_ciri_kesehatan_kondisi_fisik_kronis_dua	ciri-ciri kesehatan kondisi fisik kronis dua	ciri|ciri|kesehatan|kondisi|fisik|kronis|dua	ciri|ciri|kesehatan|kondisi|fisik|kronis|dua	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+38	1	fb:cell_null.74_2	74.2	74.2	74.2	CD	NUMBER	74.2	74.2				
+38	2	fb:cell_interval_kepercayaan_95_dari.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+38	3	fb:cell_interval_kepercayaan_95_sampai.75_5	75.5	75.5	75.5	CD	NUMBER	75.5	75.5				
+39	0	fb:cell_kharakteristik.karakteristik_kesehatan_kondisi_fisik_kronis_tiga_atau_lebih	karakteristik kesehatan kondisi fisik kronis tiga atau lebih	karakteristik|kesehatan|kondisi|fisik|kronis|tiga|atau|lebih	karakteristik|kesehatan|kondisi|fisik|kronis|tiga|atau|lebih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+39	1	fb:cell_null.70_0	70.0	70.0	70.0	CD	NUMBER	70.0	70.0				
+39	2	fb:cell_interval_kepercayaan_95_dari.68_8	68.8	68.8	68.8	CD	NUMBER	68.8	68.8				
+39	3	fb:cell_interval_kepercayaan_95_sampai.71_1	71.1	71.1	71.1	CD	NUMBER	71.1	71.1				

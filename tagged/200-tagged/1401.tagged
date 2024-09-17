@@ -1,0 +1,508 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.mengalami_kekerasan_seksual_persen	mengalami kekerasan seksual persen	mengalami|kekerasan|seksual|persen	mengalami|kekerasan|seksual|persen	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari	mengalami kekerasan seksual dengan interval kepercayaan 95% dari	mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|dari	mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|PERCENT|PERCENT|O	||||||%95.0|%95.0|					
+-1	3	fb:row.row.mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95	mengalami kekerasan seksual dengan interval kepercayaan 95%.	mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|.	mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|PERCENT|PERCENT|O	||||||%95.0|%95.0|					
+-1	4	fb:row.row.tidak_mengalami_kekerasan_seksual_persen	tidak mengalami kekerasan seksual persen	tidak|mengalami|kekerasan|seksual|persen	tidak|mengalami|kekerasan|seksual|persen	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+-1	5	fb:row.row.tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95	tidak mengalami kekerasan seksual dengan interval kepercayaan 95%.	tidak|mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|.	tidak|mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	6	fb:row.row.tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2	tidak mengalami kekerasan seksual dengan interval kepercayaan 95%.	tidak|mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|.	tidak|mengalami|kekerasan|seksual|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||%95.0|%95.0|					
+-1	7	fb:row.row.mengalami_perilaku_seksual_yang_tidak_diinginkan_persen	mengalami perilaku seksual yang tidak diinginkan persen	mengalami|perilaku|seksual|yang|tidak|diinginkan|persen	mengalami|perilaku|seksual|yang|tidak|diinginkan|persen	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	8	fb:row.row.mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari	mengalami perilaku seksual yang tidak diinginkan dengan interval kepercayaan 95% dari	mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|dari	mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||%95.0|%95.0|					
+-1	9	fb:row.row.mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95	mengalami perilaku seksual yang tidak diinginkan dengan interval kepercayaan 95%.	mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|.	mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	|||||||||%95.0|%95.0|					
+-1	10	fb:row.row.tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan	tidak mengalami persen perilaku seksual yang tidak diinginkan	tidak|mengalami|persen|perilaku|seksual|yang|tidak|diinginkan	tidak|mengalami|persen|perilaku|seksual|yang|tidak|diinginkan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	11	fb:row.row.tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari	tidak mengalami perilaku seksual yang tidak diinginkan dengan interval kepercayaan 95% dari	tidak|mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|dari	tidak|mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|dari	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|NNP	O|O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	||||||||||%95.0|%95.0|					
+-1	12	fb:row.row.tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95	tidak mengalami perilaku seksual yang tidak diinginkan dengan interval kepercayaan 95%.	tidak|mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|.	tidak|mengalami|perilaku|seksual|yang|tidak|diinginkan|dengan|interval|kepercayaan|95|%|.	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN|CD|NN|.	O|O|O|O|O|O|O|O|O|O|PERCENT|PERCENT|O	||||||||||%95.0|%95.0|					
+0	0	fb:cell_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang	sudahkah anda menerima informasi dari sekolah anda tentang:	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:	O|O|O|O|O|O|O|O|O	||||||||					
+0	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+0	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+0	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+0	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+0	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+0	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+0	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+0	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+0	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+0	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+0	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+0	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+1	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_kebijakan_sekolah_tentang_pelecehan_dan_kekerasan_seksual	pernahkah Anda menerima informasi dari sekolah Anda tentang: kebijakan sekolah tentang pelecehan dan kekerasan seksual	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+1	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+1	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+1	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+1	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+1	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+1	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+1	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+1	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+1	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+1	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+1	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+1	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+2	0	fb:cell_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_kebijakan_sekolah_tentang_pelecehan_dan_kekerasan_seksual_ya	sudahkah Anda menerima informasi dari sekolah Anda tentang: kebijakan sekolah tentang pelecehan dan kekerasan seksual ya	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual|ya	sudahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+2	1	fb:cell_mengalami_kekerasan_seksual_persen.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+2	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+2	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+2	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+2	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+2	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+2	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.92_0	92.0	92.0	92.0	CD	NUMBER	92.0	92.0				
+2	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+2	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.94_0	94.0	94.0	94.0	CD	NUMBER	94.0	94.0				
+2	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+2	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+2	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+3	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_mengenai_kebijakan_sekolah_tentang_pelecehan_dan_kekerasan_seksual_no	pernahkah anda menerima informasi dari sekolah anda mengenai: kebijakan sekolah tentang pelecehan dan kekerasan seksual no	pernahkah|anda|menerima|informasi|dari|sekolah|anda|mengenai|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual|no	pernahkah|anda|menerima|informasi|dari|sekolah|anda|mengenai|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+3	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+3	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+3	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+3	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+3	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+3	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+3	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+3	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+3	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+3	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+3	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+3	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+4	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_kebijakan_sekolah_tentang_pelecehan_dan_kekerasan_seksual_tidak_tahu	pernahkah Anda menerima informasi dari sekolah Anda tentang: kebijakan sekolah tentang pelecehan dan kekerasan seksual tidak tahu	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual|tidak|tahu	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|kebijakan|sekolah|tentang|pelecehan|dan|kekerasan|seksual|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||					
+4	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+4	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+4	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+4	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+4	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+4	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+4	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+4	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+4	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+4	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+4	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+4	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+5	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_kekerasan_seksual_dan_bagaimana_mengenalinya	pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu kekerasan seksual dan bagaimana mengenalinya	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|apa|itu|kekerasan|seksual|dan|bagaimana|mengenalinya	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|apa|itu|kekerasan|seksual|dan|bagaimana|mengenalinya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+5	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+5	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+5	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+5	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+5	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+5	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+5	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+5	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+5	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+5	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+5	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+5	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+6	0	fb:cell_kharakteristik.pernahkah_anda_mendapat_informasi_dari_sekolah_anda_tentang_apa_itu_kekerasan_seksual_dan_bagaimana_cara_mengenalinya_ya	pernahkah anda mendapat informasi dari sekolah anda tentang: apa itu kekerasan seksual dan bagaimana cara mengenalinya ya	pernahkah|anda|mendapat|informasi|dari|sekolah|anda|tentang|:|apa|itu|kekerasan|seksual|dan|bagaimana|cara|mengenalinya|ya	pernahkah|anda|mendapat|informasi|dari|sekolah|anda|tentang|:|apa|itu|kekerasan|seksual|dan|bagaimana|cara|mengenalinya|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||					
+6	1	fb:cell_mengalami_kekerasan_seksual_persen.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+6	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.67_0	67.0	67.0	67.0	CD	NUMBER	67.0	67.0				
+6	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+6	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+6	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+6	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+6	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+6	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+6	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.94_0	94.0	94.0	94.0	CD	NUMBER	94.0	94.0				
+6	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+6	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+6	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+7	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_pelecehan_seksual_dan_bagaimana_mengenalinya_tidak	pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu pelecehan seksual dan bagaimana mengenalinya tidak	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|apa|itu|pelecehan|seksual|dan|bagaimana|mengenalinya|tidak	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|apa|itu|pelecehan|seksual|dan|bagaimana|mengenalinya|tidak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+7	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+7	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+7	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+7	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+7	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+7	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+7	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+7	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+7	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+7	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+7	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+7	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+8	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_kekerasan_seksual_dan_bagaimana_mengenalinya_anda_tidak_tahu	pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu kekerasan seksual dan bagaimana mengenalinya, Anda tidak tahu	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|apa|itu|kekerasan|seksual|dan|bagaimana|mengenalinya|,|anda|tidak|tahu	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|apa|itu|kekerasan|seksual|dan|bagaimana|mengenalinya|,|Anda|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu kekerasan seksual dan bagaimana mengenalinya|Anda tidak tahu	fb:part_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_kekerasan_seksual_dan_bagaimana_mengenalinya|fb:part_kharakteristik.anda_tidak_tahu
+8	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+8	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+8	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+8	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+8	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+8	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+8	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+8	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+8	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+8	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+8	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+8	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+9	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_pelecehan_dan_bagaimana_cara_mengenalinya	pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu pelecehan dan bagaimana cara mengenalinya	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|cara|mengenalinya	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|cara|mengenalinya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+9	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+9	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+9	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+9	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+9	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+9	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+9	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+9	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+9	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+9	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+9	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+9	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+10	0	fb:cell_kharakteristik.sudahkah_anda_mendapat_informasi_dari_sekolah_anda_tentang_apa_itu_pelecehan_dan_bagaimana_cara_mengenalinya_ya	sudahkah anda mendapat informasi dari sekolah anda tentang: apa itu pelecehan dan bagaimana cara mengenalinya ya	sudahkah|anda|mendapat|informasi|dari|sekolah|anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|cara|mengenalinya|ya	sudahkah|anda|mendapat|informasi|dari|sekolah|anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|cara|mengenalinya|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+10	1	fb:cell_mengalami_kekerasan_seksual_persen.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+10	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+10	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+10	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+10	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+10	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.91_0	91.0	91.0	91.0	CD	NUMBER	91.0	91.0				
+10	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+10	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+10	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.95_0	95.0	95.0	95.0	CD	NUMBER	95.0	95.0				
+10	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+10	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+10	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+11	0	fb:cell_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_pelecehan_dan_bagaimana_mengenalinya_tidak	sudahkah Anda menerima informasi dari sekolah Anda tentang: apa itu pelecehan dan bagaimana mengenalinya tidak	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|mengenalinya|tidak	sudahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|mengenalinya|tidak	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||					
+11	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+11	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+11	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+11	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+11	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+11	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+11	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+11	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+11	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+11	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+11	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+11	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+12	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_pelecehan_dan_bagaimana_cara_mengenalinya_anda_tidak_tahu	pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu pelecehan dan bagaimana cara mengenalinya, Anda tidak tahu	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|cara|mengenalinya|,|anda|tidak|tahu	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|apa|itu|pelecehan|dan|bagaimana|cara|mengenalinya|,|Anda|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				pernahkah Anda menerima informasi dari sekolah Anda tentang: apa itu pelecehan dan bagaimana cara mengenalinya|Anda tidak tahu	fb:part_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_apa_itu_pelecehan_dan_bagaimana_cara_mengenalinya|fb:part_kharakteristik.anda_tidak_tahu
+12	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+12	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+12	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+12	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+12	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+12	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+12	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+12	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+12	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+12	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+12	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+12	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+13	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_sumber_daya_rahasia_sekolah_untuk_pelecehan_dan_kekerasan_seksual_dan_cara_menemukannya	pernahkah Anda menerima informasi dari sekolah Anda tentang: sumber daya rahasia sekolah untuk pelecehan dan kekerasan seksual dan cara menemukannya	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|kekerasan|seksual|dan|cara|menemukannya	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|kekerasan|seksual|dan|cara|menemukannya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON	||||||||||||||||||||					
+13	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+13	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+13	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+13	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+13	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+13	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+13	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+13	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+13	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+13	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+13	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+13	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+14	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_sumber_daya_rahasia_sekolah_untuk_pelecehan_dan_kekerasan_seksual_dan_cara_menemukannya_ya	pernahkah Anda menerima informasi dari sekolah Anda tentang: sumber daya rahasia sekolah untuk pelecehan dan kekerasan seksual dan cara menemukannya ya	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|kekerasan|seksual|dan|cara|menemukannya|ya	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|kekerasan|seksual|dan|cara|menemukannya|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON|PERSON	|||||||||||||||||||||					
+14	1	fb:cell_mengalami_kekerasan_seksual_persen.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+14	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+14	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+14	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+14	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+14	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+14	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+14	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+14	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+14	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+14	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+14	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+15	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_sumber_daya_rahasia_sekolah_untuk_pelecehan_dan_penyerangan_seksual_dan_cara_menemukannya_no	pernahkah Anda menerima informasi dari sekolah Anda tentang: sumber daya rahasia sekolah untuk pelecehan dan penyerangan seksual dan cara menemukannya no	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|penyerangan|seksual|dan|cara|menemukannya|no	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|penyerangan|seksual|dan|cara|menemukannya|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+15	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+15	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+15	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+15	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+15	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+15	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+15	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+15	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+15	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+15	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+15	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+15	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+16	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_sumber_daya_rahasia_sekolah_untuk_pelecehan_dan_kekerasan_seksual_dan_cara_menemukannya_tidak_tahu	pernahkah Anda menerima informasi dari sekolah Anda tentang: sumber daya rahasia sekolah untuk pelecehan dan kekerasan seksual dan cara menemukannya tidak tahu	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|kekerasan|seksual|dan|cara|menemukannya|tidak|tahu	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|sumber|daya|rahasia|sekolah|untuk|pelecehan|dan|kekerasan|seksual|dan|cara|menemukannya|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+16	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+16	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+16	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+16	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+16	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+16	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+16	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+16	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+16	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+16	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+16	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+16	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+17	0	fb:cell_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual_termasuk_tindakan_pengamat	sudahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual, termasuk tindakan pengamat	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|pengamat	sudahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|pengamat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||				sudahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual|termasuk tindakan pengamat	fb:part_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual|fb:part_kharakteristik.termasuk_tindakan_pengamat
+17	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+17	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+17	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+17	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+17	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+17	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+17	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+17	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+17	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+17	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+17	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+17	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+18	0	fb:cell_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual_termasuk_tindakan_pengamat_ya	sudahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual, termasuk tindakan pengamat ya	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|pengamat|ya	sudahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|pengamat|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||				sudahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual|termasuk tindakan pengamat ya	fb:part_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual|fb:part_kharakteristik.termasuk_tindakan_pengamat_ya
+18	1	fb:cell_mengalami_kekerasan_seksual_persen.72_0	72.0	72.0	72.0	CD	NUMBER	72.0	72.0				
+18	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.57_0	57.0	57.0	57.0	CD	NUMBER	57.0	57.0				
+18	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+18	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+18	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+18	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+18	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+18	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+18	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.93_0	93.0	93.0	93.0	CD	NUMBER	93.0	93.0				
+18	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+18	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+18	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+19	0	fb:cell_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual_termasuk_tindakan_pengamat_no	sudahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual, termasuk tindakan pengamat no	sudahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|pengamat|no	sudahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|pengamat|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||				sudahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual|termasuk tindakan pengamat no	fb:part_kharakteristik.sudahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual|fb:part_kharakteristik.termasuk_tindakan_pengamat_no
+19	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+19	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+19	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+19	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+19	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+19	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+19	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+19	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+19	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+19	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+19	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+19	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+20	0	fb:cell_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual_termasuk_tindakan_oleh_pengamat_tidak_tahu	pernahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual, termasuk tindakan oleh pengamat tidak tahu	pernahkah|anda|menerima|informasi|dari|sekolah|anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|oleh|pengamat|tidak|tahu	pernahkah|Anda|menerima|informasi|dari|sekolah|Anda|tentang|:|pilihan|untuk|membantu|mencegah|pelecehan|dan|kekerasan|seksual|,|termasuk|tindakan|oleh|pengamat|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||				pernahkah Anda menerima informasi dari sekolah Anda tentang: pilihan untuk membantu mencegah pelecehan dan kekerasan seksual|termasuk tindakan oleh pengamat tidak tahu	fb:part_kharakteristik.pernahkah_anda_menerima_informasi_dari_sekolah_anda_tentang_pilihan_untuk_membantu_mencegah_pelecehan_dan_kekerasan_seksual|fb:part_kharakteristik.termasuk_tindakan_oleh_pengamat_tidak_tahu
+20	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+20	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+20	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+20	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+20	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+20	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+20	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+20	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+20	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+20	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+20	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+20	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+21	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda?	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+21	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+21	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+21	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+21	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+21	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+21	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+21	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+21	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+21	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+21	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+21	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+21	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+22	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_prosedur_untuk_menangani_insiden_pelecehan_dan_kekerasan_seksual_yang_dilaporkan	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? prosedur untuk menangani insiden pelecehan dan kekerasan seksual yang dilaporkan	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||					
+22	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+22	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+22	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+22	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+22	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+22	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+22	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+22	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+22	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+22	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+22	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+22	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+23	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_prosedur_untuk_menangani_insiden_pelecehan_dan_kekerasan_seksual_yang_dilaporkan_ya	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? prosedur untuk menangani insiden pelecehan dan kekerasan seksual yang dilaporkan ya	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan|ya	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+23	1	fb:cell_mengalami_kekerasan_seksual_persen.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+23	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.58_0	58.0	58.0	58.0	CD	NUMBER	58.0	58.0				
+23	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+23	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+23	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+23	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+23	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+23	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+23	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+23	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+23	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+23	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+24	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_prosedur_untuk_menangani_insiden_pelecehan_dan_kekerasan_seksual_yang_dilaporkan_no	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? prosedur untuk menangani insiden pelecehan dan kekerasan seksual yang dilaporkan no	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan|no	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+24	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+24	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+24	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+24	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+24	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+24	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+24	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+24	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+24	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+24	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+24	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+24	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+25	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_prosedur_untuk_menangani_insiden_pelecehan_dan_kekerasan_seksual_yang_dilaporkan_tidak_diketahui	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? prosedur untuk menangani insiden pelecehan dan kekerasan seksual yang dilaporkan tidak diketahui	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan|tidak|diketahui	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|prosedur|untuk|menangani|insiden|pelecehan|dan|kekerasan|seksual|yang|dilaporkan|tidak|diketahui	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+25	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+25	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+25	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+25	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+25	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+25	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+25	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+25	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+25	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+25	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+25	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+25	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+26	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_layanan_yang_tersedia_di_sekolah_untuk_korban_pelecehan_dan_kekerasan_seksual	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? layanan yang tersedia di sekolah untuk korban pelecehan dan kekerasan seksual	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|layanan|yang|tersedia|di|sekolah|untuk|korban|pelecehan|dan|kekerasan|seksual	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|layanan|yang|tersedia|di|sekolah|untuk|korban|pelecehan|dan|kekerasan|seksual	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+26	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+26	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+26	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+26	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+26	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+26	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+26	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+26	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+26	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+26	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+26	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+26	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+27	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_layanan_yang_tersedia_di_sekolah_untuk_korban_pelecehan_dan_kekerasan_seksual_ya	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? layanan yang tersedia di sekolah untuk korban pelecehan dan kekerasan seksual ya	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|layanan|yang|tersedia|di|sekolah|untuk|korban|pelecehan|dan|kekerasan|seksual|ya	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|layanan|yang|tersedia|di|sekolah|untuk|korban|pelecehan|dan|kekerasan|seksual|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+27	1	fb:cell_mengalami_kekerasan_seksual_persen.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+27	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.59_0	59.0	59.0	59.0	CD	NUMBER	59.0	59.0				
+27	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+27	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+27	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+27	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+27	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+27	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+27	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.90_0	90.0	90.0	90.0	CD	NUMBER	90.0	90.0				
+27	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+27	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+27	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+28	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_layanan_yang_tersedia_di_sekolah_untuk_korban_pelecehan_dan_kekerasan_seksual_no	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? layanan yang tersedia di sekolah untuk korban pelecehan dan kekerasan seksual no	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|layanan|yang|tersedia|di|sekolah|untuk|korban|pelecehan|dan|kekerasan|seksual|no	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|layanan|yang|tersedia|di|sekolah|untuk|korban|pelecehan|dan|kekerasan|seksual|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+28	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+28	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+28	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+28	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+28	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+28	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+28	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+28	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+28	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+28	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+28	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+28	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+29	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_layanan_yang_tersedia_di_sekolah_bagi_korban_pelecehan_dan_kekerasan_seksual_tidak_tahu	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? layanan yang tersedia di sekolah bagi korban pelecehan dan kekerasan seksual tidak tahu	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|layanan|yang|tersedia|di|sekolah|bagi|korban|pelecehan|dan|kekerasan|seksual|tidak|tahu	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|layanan|yang|tersedia|di|sekolah|bagi|korban|pelecehan|dan|kekerasan|seksual|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||					
+29	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+29	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+29	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+29	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+29	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+29	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+29	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+29	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+29	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+29	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+29	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+29	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+30	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_sumber_daya_di_luar_kampus_untuk_korban_pelecehan_dan_kekerasan_seksual	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? sumber daya di luar kampus untuk korban pelecehan dan kekerasan seksual	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||					
+30	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+30	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+30	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+30	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+30	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+30	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+30	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+30	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+30	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+30	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+30	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+30	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+31	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_sumber_daya_di_luar_kampus_untuk_korban_pelecehan_dan_kekerasan_seksual_ya	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? sumber daya di luar kampus untuk korban pelecehan dan kekerasan seksual ya	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual|ya	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+31	1	fb:cell_mengalami_kekerasan_seksual_persen.65_0	65.0	65.0	65.0	CD	NUMBER	65.0	65.0				
+31	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.50_0	50.0	50.0	50.0	CD	NUMBER	50.0	50.0				
+31	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+31	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+31	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+31	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+31	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+31	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.69_0	69.0	69.0	69.0	CD	NUMBER	69.0	69.0				
+31	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+31	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+31	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.71_0	71.0	71.0	71.0	CD	NUMBER	71.0	71.0				
+31	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+32	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_sumber_daya_di_luar_kampus_untuk_korban_pelecehan_dan_kekerasan_seksual_no	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? sumber daya di luar kampus untuk korban pelecehan dan kekerasan seksual no	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual|no	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||					
+32	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+32	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+32	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+32	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+32	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+32	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+32	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+32	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+32	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.23_0	23.0	23.0	23.0	CD	NUMBER	23.0	23.0				
+32	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+32	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+32	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.18_0	18.0	18.0	18.0	CD	NUMBER	18.0	18.0				
+33	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_sumber_daya_di_luar_kampus_untuk_korban_pelecehan_dan_kekerasan_seksual_tidak_tahu	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? sumber daya di luar kampus untuk korban pelecehan dan kekerasan seksual tidak tahu	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual|tidak|tahu	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|sumber|daya|di|luar|kampus|untuk|korban|pelecehan|dan|kekerasan|seksual|tidak|tahu	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||					
+33	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+33	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+33	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+33	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+33	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+33	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+33	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+33	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.4_0	4.0	4.0	4.0	CD	NUMBER	4.0	4.0				
+33	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+33	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+33	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+33	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.13_0	13.0	13.0	13.0	CD	NUMBER	13.0	13.0				
+34	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_dimana_di_sekolah_mengajak_teman_untuk_mendapatkan_bantuan_jika_mereka_dilecehkan_atau_diserang_secara_seksual	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? dimana di sekolah mengajak teman untuk mendapatkan bantuan jika mereka dilecehkan atau diserang secara seksual	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|dimana|di|sekolah|mengajak|teman|untuk|mendapatkan|bantuan|jika|mereka|dilecehkan|atau|diserang|secara|seksual	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|dimana|di|sekolah|mengajak|teman|untuk|mendapatkan|bantuan|jika|mereka|dilecehkan|atau|diserang|secara|seksual	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NN|NN|NN|NN|NN|NN|NN|NN|NN|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||||					
+34	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+34	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+34	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+34	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.null											
+34	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+34	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.null											
+34	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+34	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+34	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+34	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.null											
+34	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+34	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+35	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_dimana_di_sekolah_mengajak_teman_untuk_mendapatkan_bantuan_jika_dilecehkan_atau_diserang_secara_seksual_ya	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? dimana di sekolah mengajak teman untuk mendapatkan bantuan jika dilecehkan atau diserang secara seksual ya	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|dimana|di|sekolah|mengajak|teman|untuk|mendapatkan|bantuan|jika|dilecehkan|atau|diserang|secara|seksual|ya	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|dimana|di|sekolah|mengajak|teman|untuk|mendapatkan|bantuan|jika|dilecehkan|atau|diserang|secara|seksual|ya	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|PRP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||||					
+35	1	fb:cell_mengalami_kekerasan_seksual_persen.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+35	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.53_0	53.0	53.0	53.0	CD	NUMBER	53.0	53.0				
+35	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.80_0	80.0	80.0	80.0	CD	NUMBER	80.0	80.0				
+35	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+35	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+35	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+35	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+35	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.77_0	77.0	77.0	77.0	CD	NUMBER	77.0	77.0				
+35	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.86_0	86.0	86.0	86.0	CD	NUMBER	86.0	86.0				
+35	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+35	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+35	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+36	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_dimana_di_sekolah_mengajak_teman_untuk_mendapatkan_bantuan_jika_mereka_dilecehkan_atau_diserang_secara_seksual_no	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? dimana di sekolah mengajak teman untuk mendapatkan bantuan jika mereka dilecehkan atau diserang secara seksual no	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|dimana|di|sekolah|mengajak|teman|untuk|mendapatkan|bantuan|jika|mereka|dilecehkan|atau|diserang|secara|seksual|no	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|dimana|di|sekolah|mengajak|teman|untuk|mendapatkan|bantuan|jika|mereka|dilecehkan|atau|diserang|secara|seksual|no	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|DT	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||||||					
+36	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+36	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+36	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+36	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				
+36	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+36	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+36	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+36	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+36	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.16_0	16.0	16.0	16.0	CD	NUMBER	16.0	16.0				
+36	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.12_0	12.0	12.0	12.0	CD	NUMBER	12.0	12.0				
+36	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+36	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+37	0	fb:cell_kharakteristik.apakah_anda_mengetahui_prosedur_dan_layanan_ini_di_sekolah_anda_dimana_di_sekolah_mengajak_teman_untuk_mencari_pertolongan_jika_dilecehkan_atau_diserang_secara_seksual_entahlah	apakah Anda mengetahui prosedur dan layanan ini di sekolah Anda? dimana di sekolah mengajak teman untuk mencari pertolongan jika dilecehkan atau diserang secara seksual entahlah	apakah|anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|anda|?|dimana|di|sekolah|mengajak|teman|untuk|mencari|pertolongan|jika|dilecehkan|atau|diserang|secara|seksual|entahlah	apakah|Anda|mengetahui|prosedur|dan|layanan|ini|di|sekolah|Anda|?|dimana|di|sekolah|mengajak|teman|untuk|mencari|pertolongan|jika|dilecehkan|atau|diserang|secara|seksual|entahlah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|.|NNP|NNP|NNP|NN|NN|NN|NN|NN|NN|NN|NN|NN|NN|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||||					
+37	1	fb:cell_mengalami_kekerasan_seksual_persen.null											
+37	2	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_dari.null											
+37	3	fb:cell_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.null											
+37	4	fb:cell_tidak_mengalami_kekerasan_seksual_persen.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+37	5	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+37	6	fb:cell_tidak_mengalami_kekerasan_seksual_dengan_interval_kepercayaan_95_2.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+37	7	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_persen.null											
+37	8	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.null											
+37	9	fb:cell_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.null											
+37	10	fb:cell_tidak_mengalami_persen_perilaku_seksual_yang_tidak_diinginkan.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+37	11	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95_dari.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+37	12	fb:cell_tidak_mengalami_perilaku_seksual_yang_tidak_diinginkan_dengan_interval_kepercayaan_95.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0				

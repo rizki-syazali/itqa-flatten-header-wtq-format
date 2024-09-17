@@ -1,0 +1,673 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.null	%	%	%	NN	O						
+-1	2	fb:row.row.interval_kepercayaan_95_dari	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	3	fb:row.row.interval_kepercayaan_95_sampai	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	4	fb:row.row.rasio_odds_yang_tidak_disesuaikan	rasio odds yang tidak disesuaikan	rasio|odds|yang|tidak|disesuaikan	rasio|odds|yang|tidak|disesuaikan	NNP|NNPS|NNP|NNP|NNP	PERSON|O|O|O|O	||||					
+-1	5	fb:row.row.interval_kepercayaan_95_dari_2	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	6	fb:row.row.interval_kepercayaan_95_sampai_2	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	7	fb:row.row.p	P	p	p	NN	O						
+-1	8	fb:row.row.rasio_odds_yang_disesuaikan	rasio odds yang disesuaikan	rasio|odds|yang|disesuaikan	rasio|odds|yang|disesuaikan	NNP|NNPS|NNP|NNP	PERSON|O|O|O	|||					
+-1	9	fb:row.row.interval_kepercayaan_95_dari_3	Interval kepercayaan 95% dari	interval|kepercayaan|95|%|dari	interval|kepercayaan|95|%|dari	NN|NN|CD|NN|NNP	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	10	fb:row.row.interval_kepercayaan_95_sampai_3	Interval kepercayaan 95% sampai	interval|kepercayaan|95|%|sampai	interval|kepercayaan|95|%|sampai	NN|NN|CD|NN|FW	O|O|PERCENT|PERCENT|O	||%95.0|%95.0|					
+-1	11	fb:row.row.p_2	P	p	p	NN	O						
+0	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+0	1	fb:cell_null.77_8	77.8	77.8	77.8	CD	NUMBER	77.8	77.8				
+0	2	fb:cell_interval_kepercayaan_95_dari.77_2	77.2	77.2	77.2	CD	NUMBER	77.2	77.2				
+0	3	fb:cell_interval_kepercayaan_95_sampai.78_3	78.3	78.3	78.3	CD	NUMBER	78.3	78.3				
+0	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+0	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+0	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+0	7	fb:cell_p.null											
+0	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+0	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+0	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+0	11	fb:cell_p_2.null											
+1	0	fb:cell_kharakteristik.usia	usia	usia	usia	NNP	ORGANIZATION						
+1	1	fb:cell_null.null											
+1	2	fb:cell_interval_kepercayaan_95_dari.null											
+1	3	fb:cell_interval_kepercayaan_95_sampai.null											
+1	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+1	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+1	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+1	7	fb:cell_p.null											
+1	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+1	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+1	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+1	11	fb:cell_p_2.null											
+2	0	fb:cell_kharakteristik.usia_18_hingga_24_tahun	usia 18 hingga 24 tahun	usia|18|hingga|24|tahun	usia|18|hingga|24|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|18.0||24.0|	18.0		24.0		
+2	1	fb:cell_null.86_7	86.7	86.7	86.7	CD	NUMBER	86.7	86.7				
+2	2	fb:cell_interval_kepercayaan_95_dari.85_7	85.7	85.7	85.7	CD	NUMBER	85.7	85.7				
+2	3	fb:cell_interval_kepercayaan_95_sampai.87_8	87.8	87.8	87.8	CD	NUMBER	87.8	87.8				
+2	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.2_58	2.58	2.58	2.58	CD	NUMBER	2.58	2.58				
+2	5	fb:cell_interval_kepercayaan_95_dari_2.2_33	2.33	2.33	2.33	CD	NUMBER	2.33	2.33				
+2	6	fb:cell_interval_kepercayaan_95_sampai_2.2_86	2.86	2.86	2.86	CD	NUMBER	2.86	2.86				
+2	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+2	8	fb:cell_rasio_odds_yang_disesuaikan.2_24	2.24	2.24	2.24	CD	NUMBER	2.24	2.24				
+2	9	fb:cell_interval_kepercayaan_95_dari_3.2_01	2.01	2.01	2.01	CD	NUMBER	2.01	2.01				
+2	10	fb:cell_interval_kepercayaan_95_sampai_3.2_49	2.49	2.49	2.49	CD	NUMBER	2.49	2.49				
+2	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+3	0	fb:cell_kharakteristik.usia_25_hingga_44_tahun	usia 25 hingga 44 tahun	usia|25|hingga|44|tahun	usia|25|hingga|44|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|25.0||44.0|	25.0		44.0		
+3	1	fb:cell_null.80_2	80.2	80.2	80.2	CD	NUMBER	80.2	80.2				
+3	2	fb:cell_interval_kepercayaan_95_dari.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+3	3	fb:cell_interval_kepercayaan_95_sampai.81_1	81.1	81.1	81.1	CD	NUMBER	81.1	81.1				
+3	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+3	5	fb:cell_interval_kepercayaan_95_dari_2.1_49	1.49	1.49	1.49	CD	NUMBER	1.49	1.49				
+3	6	fb:cell_interval_kepercayaan_95_sampai_2.1_73	1.73	1.73	1.73	CD	NUMBER	1.73	1.73				
+3	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+3	8	fb:cell_rasio_odds_yang_disesuaikan.1_62	1.62	1.62	1.62	CD	NUMBER	1.62	1.62				
+3	9	fb:cell_interval_kepercayaan_95_dari_3.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+3	10	fb:cell_interval_kepercayaan_95_sampai_3.1_76	1.76	1.76	1.76	CD	NUMBER	1.76	1.76				
+3	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+4	0	fb:cell_kharakteristik.usia_45_hingga_64_tahun	usia 45 hingga 64 tahun	usia|45|hingga|64|tahun	usia|45|hingga|64|tahun	NNP|CD|NN|CD|NN	ORGANIZATION|NUMBER|O|NUMBER|O	|45.0||64.0|	45.0		64.0		
+4	1	fb:cell_null.71_7	71.7	71.7	71.7	CD	NUMBER	71.7	71.7				
+4	2	fb:cell_interval_kepercayaan_95_dari.70_7	70.7	70.7	70.7	CD	NUMBER	70.7	70.7				
+4	3	fb:cell_interval_kepercayaan_95_sampai.72_7	72.7	72.7	72.7	CD	NUMBER	72.7	72.7				
+4	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+4	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+4	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+4	7	fb:cell_p.null											
+4	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+4	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+4	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+4	11	fb:cell_p_2.null											
+5	0	fb:cell_kharakteristik.seks	seks	seks	seks	NNP	O						
+5	1	fb:cell_null.null											
+5	2	fb:cell_interval_kepercayaan_95_dari.null											
+5	3	fb:cell_interval_kepercayaan_95_sampai.null											
+5	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+5	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+5	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+5	7	fb:cell_p.null											
+5	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+5	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+5	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+5	11	fb:cell_p_2.null											
+6	0	fb:cell_kharakteristik.pria_seks	pria seks	pria|seks	pria|seks	NNP|NNP	O|O	|					
+6	1	fb:cell_null.81_8	81.8	81.8	81.8	CD	NUMBER	81.8	81.8				
+6	2	fb:cell_interval_kepercayaan_95_dari.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+6	3	fb:cell_interval_kepercayaan_95_sampai.82_5	82.5	82.5	82.5	CD	NUMBER	82.5	82.5				
+6	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_59	1.59	1.59	1.59	CD	NUMBER	1.59	1.59				
+6	5	fb:cell_interval_kepercayaan_95_dari_2.1_49	1.49	1.49	1.49	CD	NUMBER	1.49	1.49				
+6	6	fb:cell_interval_kepercayaan_95_sampai_2.1_71	1.71	1.71	1.71	CD	NUMBER	1.71	1.71				
+6	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+6	8	fb:cell_rasio_odds_yang_disesuaikan.1_51	1.51	1.51	1.51	CD	NUMBER	1.51	1.51				
+6	9	fb:cell_interval_kepercayaan_95_dari_3.1_41	1.41	1.41	1.41	CD	NUMBER	1.41	1.41				
+6	10	fb:cell_interval_kepercayaan_95_sampai_3.1_63	1.63	1.63	1.63	CD	NUMBER	1.63	1.63				
+6	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+7	0	fb:cell_kharakteristik.wanita_seks	wanita seks	wanita|seks	wanita|seks	NNP|NNP	PERSON|PERSON	|					
+7	1	fb:cell_null.73_8	73.8	73.8	73.8	CD	NUMBER	73.8	73.8				
+7	2	fb:cell_interval_kepercayaan_95_dari.72_9	72.9	72.9	72.9	CD	NUMBER	72.9	72.9				
+7	3	fb:cell_interval_kepercayaan_95_sampai.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+7	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+7	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+7	7	fb:cell_p.null											
+7	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+7	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+7	11	fb:cell_p_2.null											
+8	0	fb:cell_kharakteristik.provinsi_atau_wilayah	provinsi atau wilayah	provinsi|atau|wilayah	provinsi|atau|wilayah	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_null.null											
+8	2	fb:cell_interval_kepercayaan_95_dari.null											
+8	3	fb:cell_interval_kepercayaan_95_sampai.null											
+8	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+8	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+8	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+8	7	fb:cell_p.null											
+8	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+8	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+8	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+8	11	fb:cell_p_2.null											
+9	0	fb:cell_kharakteristik.provinsi_atau_wilayah_newfoundland_dan_labrador	provinsi atau wilayah newfoundland dan labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	provinsi|atau|wilayah|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||					
+9	1	fb:cell_null.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+9	2	fb:cell_interval_kepercayaan_95_dari.79_7	79.7	79.7	79.7	CD	NUMBER	79.7	79.7				
+9	3	fb:cell_interval_kepercayaan_95_sampai.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+9	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.2_63	2.63	2.63	2.63	CD	NUMBER	2.63	2.63				
+9	5	fb:cell_interval_kepercayaan_95_dari_2.2_18	2.18	2.18	2.18	CD	NUMBER	2.18	2.18				
+9	6	fb:cell_interval_kepercayaan_95_sampai_2.3_17	3.17	3.17	3.17	CD	NUMBER	3.17	3.17				
+9	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+9	8	fb:cell_rasio_odds_yang_disesuaikan.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+9	9	fb:cell_interval_kepercayaan_95_dari_3.2_23	2.23	2.23	2.23	CD	NUMBER	2.23	2.23				
+9	10	fb:cell_interval_kepercayaan_95_sampai_3.3_28	3.28	3.28	3.28	CD	NUMBER	3.28	3.28				
+9	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+10	0	fb:cell_kharakteristik.provinsi_atau_wilayah_pulau_pangeran_edward	provinsi atau wilayah pulau pangeran edward	provinsi|atau|wilayah|pulau|pangeran|edward	provinsi|atau|wilayah|pulau|pangeran|edward	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+10	1	fb:cell_null.73_9	73.9	73.9	73.9	CD	NUMBER	73.9	73.9				
+10	2	fb:cell_interval_kepercayaan_95_dari.70_5	70.5	70.5	70.5	CD	NUMBER	70.5	70.5				
+10	3	fb:cell_interval_kepercayaan_95_sampai.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+10	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_64	1.64	1.64	1.64	CD	NUMBER	1.64	1.64				
+10	5	fb:cell_interval_kepercayaan_95_dari_2.1_33	1.33	1.33	1.33	CD	NUMBER	1.33	1.33				
+10	6	fb:cell_interval_kepercayaan_95_sampai_2.2_02	2.02	2.02	2.02	CD	NUMBER	2.02	2.02				
+10	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+10	8	fb:cell_rasio_odds_yang_disesuaikan.1_58	1.58	1.58	1.58	CD	NUMBER	1.58	1.58				
+10	9	fb:cell_interval_kepercayaan_95_dari_3.1_27	1.27	1.27	1.27	CD	NUMBER	1.27	1.27				
+10	10	fb:cell_interval_kepercayaan_95_sampai_3.1_97	1.97	1.97	1.97	CD	NUMBER	1.97	1.97				
+10	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+11	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nova_scotia	provinsi atau wilayah nova scotia	provinsi|atau|wilayah|nova|scotia	provinsi|atau|wilayah|nova|scotia	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+11	1	fb:cell_null.63_4	63.4	63.4	63.4	CD	NUMBER	63.4	63.4				
+11	2	fb:cell_interval_kepercayaan_95_dari.60_8	60.8	60.8	60.8	CD	NUMBER	60.8	60.8				
+11	3	fb:cell_interval_kepercayaan_95_sampai.66_0	66.0	66.0	66.0	CD	NUMBER	66.0	66.0				
+11	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+11	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+11	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+11	7	fb:cell_p.null											
+11	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+11	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+11	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+11	11	fb:cell_p_2.null											
+12	0	fb:cell_kharakteristik.provinsi_atau_wilayah_brunswick_baru	provinsi atau wilayah brunswick baru	provinsi|atau|wilayah|brunswick|baru	provinsi|atau|wilayah|brunswick|baru	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+12	1	fb:cell_null.72_3	72.3	72.3	72.3	CD	NUMBER	72.3	72.3				
+12	2	fb:cell_interval_kepercayaan_95_dari.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+12	3	fb:cell_interval_kepercayaan_95_sampai.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+12	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_51	1.51	1.51	1.51	CD	NUMBER	1.51	1.51				
+12	5	fb:cell_interval_kepercayaan_95_dari_2.1_27	1.27	1.27	1.27	CD	NUMBER	1.27	1.27				
+12	6	fb:cell_interval_kepercayaan_95_sampai_2.1_78	1.78	1.78	1.78	CD	NUMBER	1.78	1.78				
+12	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+12	8	fb:cell_rasio_odds_yang_disesuaikan.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+12	9	fb:cell_interval_kepercayaan_95_dari_3.1_27	1.27	1.27	1.27	CD	NUMBER	1.27	1.27				
+12	10	fb:cell_interval_kepercayaan_95_sampai_3.1_79	1.79	1.79	1.79	CD	NUMBER	1.79	1.79				
+12	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+13	0	fb:cell_kharakteristik.provinsi_atau_wilayah_quebec	provinsi atau wilayah quebec	provinsi|atau|wilayah|quebec	provinsi|atau|wilayah|quebec	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+13	1	fb:cell_null.85_4	85.4	85.4	85.4	CD	NUMBER	85.4	85.4				
+13	2	fb:cell_interval_kepercayaan_95_dari.84_3	84.3	84.3	84.3	CD	NUMBER	84.3	84.3				
+13	3	fb:cell_interval_kepercayaan_95_sampai.86_4	86.4	86.4	86.4	CD	NUMBER	86.4	86.4				
+13	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.3_36	3.36	3.36	3.36	CD	NUMBER	3.36	3.36				
+13	5	fb:cell_interval_kepercayaan_95_dari_2.2_93	2.93	2.93	2.93	CD	NUMBER	2.93	2.93				
+13	6	fb:cell_interval_kepercayaan_95_sampai_2.3_87	3.87	3.87	3.87	CD	NUMBER	3.87	3.87				
+13	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+13	8	fb:cell_rasio_odds_yang_disesuaikan.3_21	3.21	3.21	3.21	CD	NUMBER	3.21	3.21				
+13	9	fb:cell_interval_kepercayaan_95_dari_3.2_78	2.78	2.78	2.78	CD	NUMBER	2.78	2.78				
+13	10	fb:cell_interval_kepercayaan_95_sampai_3.3_71	3.71	3.71	3.71	CD	NUMBER	3.71	3.71				
+13	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+14	0	fb:cell_kharakteristik.provinsi_atau_wilayah_ontario	provinsi atau wilayah ontario	provinsi|atau|wilayah|ontario	provinsi|atau|wilayah|ontario	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+14	1	fb:cell_null.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+14	2	fb:cell_interval_kepercayaan_95_dari.75_0	75.0	75.0	75.0	CD	NUMBER	75.0	75.0				
+14	3	fb:cell_interval_kepercayaan_95_sampai.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+14	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_83	1.83	1.83	1.83	CD	NUMBER	1.83	1.83				
+14	5	fb:cell_interval_kepercayaan_95_dari_2.1_62	1.62	1.62	1.62	CD	NUMBER	1.62	1.62				
+14	6	fb:cell_interval_kepercayaan_95_sampai_2.2_07	2.07	2.07	2.07	CD	NUMBER	2.07	2.07				
+14	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+14	8	fb:cell_rasio_odds_yang_disesuaikan.1_97	1.97	1.97	1.97	CD	NUMBER	1.97	1.97				
+14	9	fb:cell_interval_kepercayaan_95_dari_3.1_74	1.74	1.74	1.74	CD	NUMBER	1.74	1.74				
+14	10	fb:cell_interval_kepercayaan_95_sampai_3.2_24	2.24	2.24	2.24	CD	NUMBER	2.24	2.24				
+14	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+15	0	fb:cell_kharakteristik.provinsi_atau_wilayah_manitoba	provinsi atau wilayah manitoba	provinsi|atau|wilayah|manitoba	provinsi|atau|wilayah|manitoba	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+15	1	fb:cell_null.78_2	78.2	78.2	78.2	CD	NUMBER	78.2	78.2				
+15	2	fb:cell_interval_kepercayaan_95_dari.75_8	75.8	75.8	75.8	CD	NUMBER	75.8	75.8				
+15	3	fb:cell_interval_kepercayaan_95_sampai.80_7	80.7	80.7	80.7	CD	NUMBER	80.7	80.7				
+15	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.2_08	2.08	2.08	2.08	CD	NUMBER	2.08	2.08				
+15	5	fb:cell_interval_kepercayaan_95_dari_2.1_73	1.73	1.73	1.73	CD	NUMBER	1.73	1.73				
+15	6	fb:cell_interval_kepercayaan_95_sampai_2.2_49	2.49	2.49	2.49	CD	NUMBER	2.49	2.49				
+15	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+15	8	fb:cell_rasio_odds_yang_disesuaikan.2_07	2.07	2.07	2.07	CD	NUMBER	2.07	2.07				
+15	9	fb:cell_interval_kepercayaan_95_dari_3.1_72	1.72	1.72	1.72	CD	NUMBER	1.72	1.72				
+15	10	fb:cell_interval_kepercayaan_95_sampai_3.2_48	2.48	2.48	2.48	CD	NUMBER	2.48	2.48				
+15	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+16	0	fb:cell_kharakteristik.provinsi_atau_wilayah_saskatchewan	provinsi atau wilayah saskatchewan	provinsi|atau|wilayah|saskatchewan	provinsi|atau|wilayah|saskatchewan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+16	1	fb:cell_null.75_9	75.9	75.9	75.9	CD	NUMBER	75.9	75.9				
+16	2	fb:cell_interval_kepercayaan_95_dari.73_8	73.8	73.8	73.8	CD	NUMBER	73.8	73.8				
+16	3	fb:cell_interval_kepercayaan_95_sampai.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+16	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_82	1.82	1.82	1.82	CD	NUMBER	1.82	1.82				
+16	5	fb:cell_interval_kepercayaan_95_dari_2.1_56	1.56	1.56	1.56	CD	NUMBER	1.56	1.56				
+16	6	fb:cell_interval_kepercayaan_95_sampai_2.2_12	2.12	2.12	2.12	CD	NUMBER	2.12	2.12				
+16	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+16	8	fb:cell_rasio_odds_yang_disesuaikan.1_73	1.73	1.73	1.73	CD	NUMBER	1.73	1.73				
+16	9	fb:cell_interval_kepercayaan_95_dari_3.1_47	1.47	1.47	1.47	CD	NUMBER	1.47	1.47				
+16	10	fb:cell_interval_kepercayaan_95_sampai_3.2_04	2.04	2.04	2.04	CD	NUMBER	2.04	2.04				
+16	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+17	0	fb:cell_kharakteristik.provinsi_atau_wilayah_alberta	provinsi atau wilayah alberta	provinsi|atau|wilayah|alberta	provinsi|atau|wilayah|alberta	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+17	1	fb:cell_null.74_8	74.8	74.8	74.8	CD	NUMBER	74.8	74.8				
+17	2	fb:cell_interval_kepercayaan_95_dari.73_1	73.1	73.1	73.1	CD	NUMBER	73.1	73.1				
+17	3	fb:cell_interval_kepercayaan_95_sampai.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+17	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_71	1.71	1.71	1.71	CD	NUMBER	1.71	1.71				
+17	5	fb:cell_interval_kepercayaan_95_dari_2.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+17	6	fb:cell_interval_kepercayaan_95_sampai_2.1_97	1.97	1.97	1.97	CD	NUMBER	1.97	1.97				
+17	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+17	8	fb:cell_rasio_odds_yang_disesuaikan.1_68	1.68	1.68	1.68	CD	NUMBER	1.68	1.68				
+17	9	fb:cell_interval_kepercayaan_95_dari_3.1_44	1.44	1.44	1.44	CD	NUMBER	1.44	1.44				
+17	10	fb:cell_interval_kepercayaan_95_sampai_3.1_95	1.95	1.95	1.95	CD	NUMBER	1.95	1.95				
+17	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+18	0	fb:cell_kharakteristik.provinsi_atau_wilayah_columbia_inggris	provinsi atau wilayah columbia inggris	provinsi|atau|wilayah|columbia|inggris	provinsi|atau|wilayah|columbia|inggris	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+18	1	fb:cell_null.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+18	2	fb:cell_interval_kepercayaan_95_dari.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+18	3	fb:cell_interval_kepercayaan_95_sampai.77_6	77.6	77.6	77.6	CD	NUMBER	77.6	77.6				
+18	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_83	1.83	1.83	1.83	CD	NUMBER	1.83	1.83				
+18	5	fb:cell_interval_kepercayaan_95_dari_2.1_6	1.6	1.6	1.6	CD	NUMBER	1.6	1.6				
+18	6	fb:cell_interval_kepercayaan_95_sampai_2.2_11	2.11	2.11	2.11	CD	NUMBER	2.11	2.11				
+18	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+18	8	fb:cell_rasio_odds_yang_disesuaikan.1_87	1.87	1.87	1.87	CD	NUMBER	1.87	1.87				
+18	9	fb:cell_interval_kepercayaan_95_dari_3.1_62	1.62	1.62	1.62	CD	NUMBER	1.62	1.62				
+18	10	fb:cell_interval_kepercayaan_95_sampai_3.2_16	2.16	2.16	2.16	CD	NUMBER	2.16	2.16				
+18	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+19	0	fb:cell_kharakteristik.provinsi_atau_wilayah_yukon	provinsi atau wilayah yukon	provinsi|atau|wilayah|yukon	provinsi|atau|wilayah|yukon	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+19	1	fb:cell_null.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+19	2	fb:cell_interval_kepercayaan_95_dari.72_5	72.5	72.5	72.5	CD	NUMBER	72.5	72.5				
+19	3	fb:cell_interval_kepercayaan_95_sampai.79_6	79.6	79.6	79.6	CD	NUMBER	79.6	79.6				
+19	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_83	1.83	1.83	1.83	CD	NUMBER	1.83	1.83				
+19	5	fb:cell_interval_kepercayaan_95_dari_2.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+19	6	fb:cell_interval_kepercayaan_95_sampai_2.2_27	2.27	2.27	2.27	CD	NUMBER	2.27	2.27				
+19	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+19	8	fb:cell_rasio_odds_yang_disesuaikan.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+19	9	fb:cell_interval_kepercayaan_95_dari_3.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36				
+19	10	fb:cell_interval_kepercayaan_95_sampai_3.2_11	2.11	2.11	2.11	CD	NUMBER	2.11	2.11				
+19	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+20	0	fb:cell_kharakteristik.provinsi_atau_wilayah_wilayah_barat_laut	provinsi atau wilayah wilayah barat laut	provinsi|atau|wilayah|wilayah|barat|laut	provinsi|atau|wilayah|wilayah|barat|laut	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+20	1	fb:cell_null.68_7	68.7	68.7	68.7	CD	NUMBER	68.7	68.7				
+20	2	fb:cell_interval_kepercayaan_95_dari.64_4	64.4	64.4	64.4	CD	NUMBER	64.4	64.4				
+20	3	fb:cell_interval_kepercayaan_95_sampai.73_0	73.0	73.0	73.0	CD	NUMBER	73.0	73.0				
+20	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_27	1.27	1.27	1.27	CD	NUMBER	1.27	1.27				
+20	5	fb:cell_interval_kepercayaan_95_dari_2.1_01	1.01	1.01	1.01	CD	NUMBER	1.01	1.01				
+20	6	fb:cell_interval_kepercayaan_95_sampai_2.1_59	1.59	1.59	1.59	CD	NUMBER	1.59	1.59				
+20	7	fb:cell_p.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+20	8	fb:cell_rasio_odds_yang_disesuaikan.0_88	0.88	0.88	0.88	CD	NUMBER	0.88	0.88				
+20	9	fb:cell_interval_kepercayaan_95_dari_3.0_68	0.68	0.68	0.68	CD	NUMBER	0.68	0.68				
+20	10	fb:cell_interval_kepercayaan_95_sampai_3.1_12	1.12	1.12	1.12	CD	NUMBER	1.12	1.12				
+20	11	fb:cell_p_2.0_29	0.29	0.29	0.29	CD	NUMBER	0.29	0.29				
+21	0	fb:cell_kharakteristik.provinsi_atau_wilayah_nunavut	provinsi atau wilayah nunavut	provinsi|atau|wilayah|nunavut	provinsi|atau|wilayah|nunavut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+21	1	fb:cell_null.72_4	72.4	72.4	72.4	CD	NUMBER	72.4	72.4				
+21	2	fb:cell_interval_kepercayaan_95_dari.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+21	3	fb:cell_interval_kepercayaan_95_sampai.76_8	76.8	76.8	76.8	CD	NUMBER	76.8	76.8				
+21	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_52	1.52	1.52	1.52	CD	NUMBER	1.52	1.52				
+21	5	fb:cell_interval_kepercayaan_95_dari_2.1_18	1.18	1.18	1.18	CD	NUMBER	1.18	1.18				
+21	6	fb:cell_interval_kepercayaan_95_sampai_2.1_94	1.94	1.94	1.94	CD	NUMBER	1.94	1.94				
+21	7	fb:cell_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+21	8	fb:cell_rasio_odds_yang_disesuaikan.0_74	0.74	0.74	0.74	CD	NUMBER	0.74	0.74				
+21	9	fb:cell_interval_kepercayaan_95_dari_3.0_55	0.55	0.55	0.55	CD	NUMBER	0.55	0.55				
+21	10	fb:cell_interval_kepercayaan_95_sampai_3.0_99	0.99	0.99	0.99	CD	NUMBER	0.99	0.99				
+21	11	fb:cell_p_2.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+22	0	fb:cell_kharakteristik.pendidikan	pendidikan	pendidikan	pendidikan	NNP	O						
+22	1	fb:cell_null.null											
+22	2	fb:cell_interval_kepercayaan_95_dari.null											
+22	3	fb:cell_interval_kepercayaan_95_sampai.null											
+22	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+22	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+22	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+22	7	fb:cell_p.null											
+22	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+22	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+22	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+22	11	fb:cell_p_2.null											
+23	0	fb:cell_kharakteristik.pendidikan_sekolah_menengah_atas_atau_kurang	pendidikan sekolah menengah atas atau kurang	pendidikan|sekolah|menengah|atas|atau|kurang	pendidikan|sekolah|menengah|atas|atau|kurang	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+23	1	fb:cell_null.80_8	80.8	80.8	80.8	CD	NUMBER	80.8	80.8				
+23	2	fb:cell_interval_kepercayaan_95_dari.79_8	79.8	79.8	79.8	CD	NUMBER	79.8	79.8				
+23	3	fb:cell_interval_kepercayaan_95_sampai.81_9	81.9	81.9	81.9	CD	NUMBER	81.9	81.9				
+23	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_62	1.62	1.62	1.62	CD	NUMBER	1.62	1.62				
+23	5	fb:cell_interval_kepercayaan_95_dari_2.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+23	6	fb:cell_interval_kepercayaan_95_sampai_2.1_77	1.77	1.77	1.77	CD	NUMBER	1.77	1.77				
+23	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+23	8	fb:cell_rasio_odds_yang_disesuaikan.1_51	1.51	1.51	1.51	CD	NUMBER	1.51	1.51				
+23	9	fb:cell_interval_kepercayaan_95_dari_3.1_37	1.37	1.37	1.37	CD	NUMBER	1.37	1.37				
+23	10	fb:cell_interval_kepercayaan_95_sampai_3.1_68	1.68	1.68	1.68	CD	NUMBER	1.68	1.68				
+23	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+24	0	fb:cell_kharakteristik.pendidikan_pasca_sekolah_menengah_di_bawah_tingkat_sarjana	pendidikan pasca sekolah menengah di bawah tingkat sarjana	pendidikan|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	pendidikan|pasca|sekolah|menengah|di|bawah|tingkat|sarjana	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+24	1	fb:cell_null.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+24	2	fb:cell_interval_kepercayaan_95_dari.78_6	78.6	78.6	78.6	CD	NUMBER	78.6	78.6				
+24	3	fb:cell_interval_kepercayaan_95_sampai.80_2	80.2	80.2	80.2	CD	NUMBER	80.2	80.2				
+24	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_48	1.48	1.48	1.48	CD	NUMBER	1.48	1.48				
+24	5	fb:cell_interval_kepercayaan_95_dari_2.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36				
+24	6	fb:cell_interval_kepercayaan_95_sampai_2.1_61	1.61	1.61	1.61	CD	NUMBER	1.61	1.61				
+24	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+24	8	fb:cell_rasio_odds_yang_disesuaikan.1_38	1.38	1.38	1.38	CD	NUMBER	1.38	1.38				
+24	9	fb:cell_interval_kepercayaan_95_dari_3.1_26	1.26	1.26	1.26	CD	NUMBER	1.26	1.26				
+24	10	fb:cell_interval_kepercayaan_95_sampai_3.1_51	1.51	1.51	1.51	CD	NUMBER	1.51	1.51				
+24	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+25	0	fb:cell_kharakteristik.gelar_universitas_pendidikan	gelar universitas pendidikan	gelar|universitas|pendidikan	gelar|universita|pendidikan	JJ|NNS|NN	O|O|O	||					
+25	1	fb:cell_null.72_2	72.2	72.2	72.2	CD	NUMBER	72.2	72.2				
+25	2	fb:cell_interval_kepercayaan_95_dari.70_9	70.9	70.9	70.9	CD	NUMBER	70.9	70.9				
+25	3	fb:cell_interval_kepercayaan_95_sampai.73_5	73.5	73.5	73.5	CD	NUMBER	73.5	73.5				
+25	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+25	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+25	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+25	7	fb:cell_p.null											
+25	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+25	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+25	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+25	11	fb:cell_p_2.null											
+26	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga	total pendapatan rumah tangga	total|pendapatan|rumah|tangga	total|pendapatan|rumah|tangga	JJ|NN|NN|NN	O|O|O|O	|||					
+26	1	fb:cell_null.null											
+26	2	fb:cell_interval_kepercayaan_95_dari.null											
+26	3	fb:cell_interval_kepercayaan_95_sampai.null											
+26	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+26	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+26	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+26	7	fb:cell_p.null											
+26	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+26	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+26	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+26	11	fb:cell_p_2.null											
+27	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_0_hingga_29_999	total pendapatan rumah tangga $0 hingga $29,999	total|pendapatan|rumah|tangga|$|0|hingga|$|29,999	total|pendapatan|rumah|tangga|$|0|hingga|$|29,999	JJ|NN|NN|NN|$|CD|NN|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$0.0|$0.0||$29999.0|$29999.0	0.0		29999.0		
+27	1	fb:cell_null.80_9	80.9	80.9	80.9	CD	NUMBER	80.9	80.9				
+27	2	fb:cell_interval_kepercayaan_95_dari.79_3	79.3	79.3	79.3	CD	NUMBER	79.3	79.3				
+27	3	fb:cell_interval_kepercayaan_95_sampai.82_5	82.5	82.5	82.5	CD	NUMBER	82.5	82.5				
+27	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+27	5	fb:cell_interval_kepercayaan_95_dari_2.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+27	6	fb:cell_interval_kepercayaan_95_sampai_2.1_56	1.56	1.56	1.56	CD	NUMBER	1.56	1.56				
+27	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+27	8	fb:cell_rasio_odds_yang_disesuaikan.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+27	9	fb:cell_interval_kepercayaan_95_dari_3.1_01	1.01	1.01	1.01	CD	NUMBER	1.01	1.01				
+27	10	fb:cell_interval_kepercayaan_95_sampai_3.1_28	1.28	1.28	1.28	CD	NUMBER	1.28	1.28				
+27	11	fb:cell_p_2.0_03	0.03	0.03	0.03	CD	NUMBER	0.03	0.03				
+28	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_30_000_hingga_59_999	total pendapatan rumah tangga $30.000 hingga $59.999	total|pendapatan|rumah|tangga|$|30.000|hingga|$|59.999	total|pendapatan|rumah|tangga|$|30.000|hingga|$|59.999	JJ|NN|NN|NN|$|CD|NN|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$30.0|$30.0||$59.999|$59.999	30.0		59.999		
+28	1	fb:cell_null.79_8	79.8	79.8	79.8	CD	NUMBER	79.8	79.8				
+28	2	fb:cell_interval_kepercayaan_95_dari.78_6	78.6	78.6	78.6	CD	NUMBER	78.6	78.6				
+28	3	fb:cell_interval_kepercayaan_95_sampai.81_0	81.0	81.0	81.0	CD	NUMBER	81.0	81.0				
+28	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_3	1.3	1.3	1.3	CD	NUMBER	1.3	1.3				
+28	5	fb:cell_interval_kepercayaan_95_dari_2.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+28	6	fb:cell_interval_kepercayaan_95_sampai_2.1_42	1.42	1.42	1.42	CD	NUMBER	1.42	1.42				
+28	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+28	8	fb:cell_rasio_odds_yang_disesuaikan.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+28	9	fb:cell_interval_kepercayaan_95_dari_3.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+28	10	fb:cell_interval_kepercayaan_95_sampai_3.1_25	1.25	1.25	1.25	CD	NUMBER	1.25	1.25				
+28	11	fb:cell_p_2.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+29	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_60_000_hingga_89_999	total pendapatan rumah tangga $60.000 hingga $89.999	total|pendapatan|rumah|tangga|$|60.000|hingga|$|89.999	total|pendapatan|rumah|tangga|$|60.000|hingga|$|89.999	JJ|NN|NN|NN|$|CD|NN|$|CD	O|O|O|O|MONEY|MONEY|O|MONEY|MONEY	||||$60.0|$60.0||$89.999|$89.999	60.0		89.999		
+29	1	fb:cell_null.78_7	78.7	78.7	78.7	CD	NUMBER	78.7	78.7				
+29	2	fb:cell_interval_kepercayaan_95_dari.77_5	77.5	77.5	77.5	CD	NUMBER	77.5	77.5				
+29	3	fb:cell_interval_kepercayaan_95_sampai.79_8	79.8	79.8	79.8	CD	NUMBER	79.8	79.8				
+29	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_22	1.22	1.22	1.22	CD	NUMBER	1.22	1.22				
+29	5	fb:cell_interval_kepercayaan_95_dari_2.1_12	1.12	1.12	1.12	CD	NUMBER	1.12	1.12				
+29	6	fb:cell_interval_kepercayaan_95_sampai_2.1_32	1.32	1.32	1.32	CD	NUMBER	1.32	1.32				
+29	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+29	8	fb:cell_rasio_odds_yang_disesuaikan.1_12	1.12	1.12	1.12	CD	NUMBER	1.12	1.12				
+29	9	fb:cell_interval_kepercayaan_95_dari_3.1_02	1.02	1.02	1.02	CD	NUMBER	1.02	1.02				
+29	10	fb:cell_interval_kepercayaan_95_sampai_3.1_22	1.22	1.22	1.22	CD	NUMBER	1.22	1.22				
+29	11	fb:cell_p_2.0_01	0.01	0.01	0.01	CD	NUMBER	0.01	0.01				
+30	0	fb:cell_kharakteristik.total_pendapatan_rumah_tangga_90_000_atau_lebih	total pendapatan rumah tangga $90.000 atau lebih	total|pendapatan|rumah|tangga|$|90.000|atau|lebih	total|pendapatan|rumah|tangga|$|90.000|atau|lebih	JJ|NN|NN|NN|$|CD|NN|NN	O|O|O|O|MONEY|MONEY|O|O	||||$90.0|$90.0||	90.0				
+30	1	fb:cell_null.75_2	75.2	75.2	75.2	CD	NUMBER	75.2	75.2				
+30	2	fb:cell_interval_kepercayaan_95_dari.74_3	74.3	74.3	74.3	CD	NUMBER	74.3	74.3				
+30	3	fb:cell_interval_kepercayaan_95_sampai.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+30	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+30	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+30	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+30	7	fb:cell_p.null											
+30	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+30	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+30	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+30	11	fb:cell_p_2.null											
+31	0	fb:cell_kharakteristik.negara_kelahiran	negara kelahiran	negara|kelahiran	negara|kelahiran	NNP|NNP	O|O	|					
+31	1	fb:cell_null.null											
+31	2	fb:cell_interval_kepercayaan_95_dari.null											
+31	3	fb:cell_interval_kepercayaan_95_sampai.null											
+31	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+31	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+31	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+31	7	fb:cell_p.null											
+31	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+31	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+31	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+31	11	fb:cell_p_2.null											
+32	0	fb:cell_kharakteristik.negara_kelahiran_lainnya	negara kelahiran lainnya	negara|kelahiran|lainnya	negara|kelahiran|lainnya	NNP|NNP|NNP	O|O|O	||					
+32	1	fb:cell_null.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+32	2	fb:cell_interval_kepercayaan_95_dari.75_7	75.7	75.7	75.7	CD	NUMBER	75.7	75.7				
+32	3	fb:cell_interval_kepercayaan_95_sampai.78_5	78.5	78.5	78.5	CD	NUMBER	78.5	78.5				
+32	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.0_95	0.95	0.95	0.95	CD	NUMBER	0.95	0.95				
+32	5	fb:cell_interval_kepercayaan_95_dari_2.0_87	0.87	0.87	0.87	CD	NUMBER	0.87	0.87				
+32	6	fb:cell_interval_kepercayaan_95_sampai_2.1_04	1.04	1.04	1.04	CD	NUMBER	1.04	1.04				
+32	7	fb:cell_p.0_27	0.27	0.27	0.27	CD	NUMBER	0.27	0.27				
+32	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+32	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+32	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+32	11	fb:cell_p_2.null											
+33	0	fb:cell_kharakteristik.negara_kelahiran_kanada	negara kelahiran Kanada	negara|kelahiran|kanada	negara|kelahiran|Kanada	NNP|NNP|NNP	O|O|O	||					
+33	1	fb:cell_null.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+33	2	fb:cell_interval_kepercayaan_95_dari.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+33	3	fb:cell_interval_kepercayaan_95_sampai.78_6	78.6	78.6	78.6	CD	NUMBER	78.6	78.6				
+33	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+33	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+33	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+33	7	fb:cell_p.null											
+33	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+33	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+33	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+33	11	fb:cell_p_2.null											
+34	0	fb:cell_kharakteristik.identitas_penduduk_asli	identitas penduduk asli	identitas|penduduk|asli	identitas|penduduk|asli	NNP|NNP|NNP	O|O|O	||					
+34	1	fb:cell_null.null											
+34	2	fb:cell_interval_kepercayaan_95_dari.null											
+34	3	fb:cell_interval_kepercayaan_95_sampai.null											
+34	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+34	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+34	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+34	7	fb:cell_p.null											
+34	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+34	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+34	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+34	11	fb:cell_p_2.null											
+35	0	fb:cell_kharakteristik.identitas_penduduk_asli_tidak_ada	identitas penduduk asli tidak ada	identitas|penduduk|asli|tidak|ada	identitas|penduduk|asli|tidak|ada	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||					
+35	1	fb:cell_null.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+35	2	fb:cell_interval_kepercayaan_95_dari.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+35	3	fb:cell_interval_kepercayaan_95_sampai.78_3	78.3	78.3	78.3	CD	NUMBER	78.3	78.3				
+35	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+35	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+35	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+35	7	fb:cell_p.null											
+35	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+35	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+35	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+35	11	fb:cell_p_2.null											
+36	0	fb:cell_kharakteristik.identitas_penduduk_asli_bangsa_pertama	identitas penduduk asli bangsa pertama	identitas|penduduk|asli|bangsa|pertama	identitas|penduduk|asli|bangsa|pertama	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+36	1	fb:cell_null.79_0	79.0	79.0	79.0	CD	NUMBER	79.0	79.0				
+36	2	fb:cell_interval_kepercayaan_95_dari.75_7	75.7	75.7	75.7	CD	NUMBER	75.7	75.7				
+36	3	fb:cell_interval_kepercayaan_95_sampai.82_2	82.2	82.2	82.2	CD	NUMBER	82.2	82.2				
+36	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_08	1.08	1.08	1.08	CD	NUMBER	1.08	1.08				
+36	5	fb:cell_interval_kepercayaan_95_dari_2.0_89	0.89	0.89	0.89	CD	NUMBER	0.89	0.89				
+36	6	fb:cell_interval_kepercayaan_95_sampai_2.1_31	1.31	1.31	1.31	CD	NUMBER	1.31	1.31				
+36	7	fb:cell_p.0_43	0.43	0.43	0.43	CD	NUMBER	0.43	0.43				
+36	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+36	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+36	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+36	11	fb:cell_p_2.null											
+37	0	fb:cell_kharakteristik.identitas_asli_metis	identitas asli metis	identitas|asli|metis	identitas|asli|metis	NNP|NNP|NNP	O|O|O	||					
+37	1	fb:cell_null.79_9	79.9	79.9	79.9	CD	NUMBER	79.9	79.9				
+37	2	fb:cell_interval_kepercayaan_95_dari.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+37	3	fb:cell_interval_kepercayaan_95_sampai.83_3	83.3	83.3	83.3	CD	NUMBER	83.3	83.3				
+37	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_14	1.14	1.14	1.14	CD	NUMBER	1.14	1.14				
+37	5	fb:cell_interval_kepercayaan_95_dari_2.0_91	0.91	0.91	0.91	CD	NUMBER	0.91	0.91				
+37	6	fb:cell_interval_kepercayaan_95_sampai_2.1_42	1.42	1.42	1.42	CD	NUMBER	1.42	1.42				
+37	7	fb:cell_p.0_25	0.25	0.25	0.25	CD	NUMBER	0.25	0.25				
+37	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+37	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+37	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+37	11	fb:cell_p_2.null											
+38	0	fb:cell_kharakteristik.identitas_penduduk_asli_inuk_atau_inuit	identitas penduduk asli inuk atau inuit	identitas|penduduk|asli|inuk|atau|inuit	identitas|penduduk|asli|inuk|atau|inuit	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+38	1	fb:cell_null.76_6	76.6	76.6	76.6	CD	NUMBER	76.6	76.6				
+38	2	fb:cell_interval_kepercayaan_95_dari.71_7	71.7	71.7	71.7	CD	NUMBER	71.7	71.7				
+38	3	fb:cell_interval_kepercayaan_95_sampai.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+38	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.0_94	0.94	0.94	0.94	CD	NUMBER	0.94	0.94				
+38	5	fb:cell_interval_kepercayaan_95_dari_2.0_71	0.71	0.71	0.71	CD	NUMBER	0.71	0.71				
+38	6	fb:cell_interval_kepercayaan_95_sampai_2.1_24	1.24	1.24	1.24	CD	NUMBER	1.24	1.24				
+38	7	fb:cell_p.0_65	0.65	0.65	0.65	CD	NUMBER	0.65	0.65				
+38	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+38	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+38	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+38	11	fb:cell_p_2.null											
+39	0	fb:cell_kharakteristik.bahasa_ibu	bahasa ibu	bahasa|ibu	bahasa|ibu	NNP|NNP	O|O	|					
+39	1	fb:cell_null.null											
+39	2	fb:cell_interval_kepercayaan_95_dari.null											
+39	3	fb:cell_interval_kepercayaan_95_sampai.null											
+39	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+39	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+39	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+39	7	fb:cell_p.null											
+39	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+39	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+39	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+39	11	fb:cell_p_2.null											
+40	0	fb:cell_kharakteristik.bahasa_ibu_bahasa_inggris	bahasa ibu bahasa inggris	bahasa|ibu|bahasa|inggris	bahasa|ibu|bahasa|inggris	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+40	1	fb:cell_null.75_4	75.4	75.4	75.4	CD	NUMBER	75.4	75.4				
+40	2	fb:cell_interval_kepercayaan_95_dari.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+40	3	fb:cell_interval_kepercayaan_95_sampai.76_2	76.2	76.2	76.2	CD	NUMBER	76.2	76.2				
+40	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+40	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+40	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+40	7	fb:cell_p.null											
+40	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+40	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+40	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+40	11	fb:cell_p_2.null											
+41	0	fb:cell_kharakteristik.bahasa_ibu_perancis	bahasa ibu Perancis	bahasa|ibu|perancis	bahasa|ibu|Perancis	NNP|NNP|NNP	O|O|O	||					
+41	1	fb:cell_null.83_4	83.4	83.4	83.4	CD	NUMBER	83.4	83.4				
+41	2	fb:cell_interval_kepercayaan_95_dari.82_4	82.4	82.4	82.4	CD	NUMBER	82.4	82.4				
+41	3	fb:cell_interval_kepercayaan_95_sampai.84_5	84.5	84.5	84.5	CD	NUMBER	84.5	84.5				
+41	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_64	1.64	1.64	1.64	CD	NUMBER	1.64	1.64				
+41	5	fb:cell_interval_kepercayaan_95_dari_2.1_51	1.51	1.51	1.51	CD	NUMBER	1.51	1.51				
+41	6	fb:cell_interval_kepercayaan_95_sampai_2.1_78	1.78	1.78	1.78	CD	NUMBER	1.78	1.78				
+41	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+41	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+41	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+41	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+41	11	fb:cell_p_2.null											
+42	0	fb:cell_kharakteristik.bahasa_ibu_lainnya	bahasa ibu lainnya	bahasa|ibu|lainnya	bahasa|ibu|lainnya	NNP|NNP|NNP	O|O|O	||					
+42	1	fb:cell_null.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+42	2	fb:cell_interval_kepercayaan_95_dari.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+42	3	fb:cell_interval_kepercayaan_95_sampai.79_5	79.5	79.5	79.5	CD	NUMBER	79.5	79.5				
+42	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_16	1.16	1.16	1.16	CD	NUMBER	1.16	1.16				
+42	5	fb:cell_interval_kepercayaan_95_dari_2.1_06	1.06	1.06	1.06	CD	NUMBER	1.06	1.06				
+42	6	fb:cell_interval_kepercayaan_95_sampai_2.1_27	1.27	1.27	1.27	CD	NUMBER	1.27	1.27				
+42	7	fb:cell_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+42	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+42	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+42	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+42	11	fb:cell_p_2.null											
+43	0	fb:cell_kharakteristik.wilayah_tempat_tinggal	wilayah tempat tinggal	wilayah|tempat|tinggal	wilayah|tempat|tinggal	JJ|NN|NN	O|O|O	||					
+43	1	fb:cell_null.null											
+43	2	fb:cell_interval_kepercayaan_95_dari.null											
+43	3	fb:cell_interval_kepercayaan_95_sampai.null											
+43	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+43	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+43	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+43	7	fb:cell_p.null											
+43	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+43	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+43	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+43	11	fb:cell_p_2.null											
+44	0	fb:cell_kharakteristik.daerah_tempat_tinggal_perkotaan	daerah tempat tinggal perkotaan	daerah|tempat|tinggal|perkotaan	daerah|tempat|tinggal|perkotaan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+44	1	fb:cell_null.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+44	2	fb:cell_interval_kepercayaan_95_dari.76_7	76.7	76.7	76.7	CD	NUMBER	76.7	76.7				
+44	3	fb:cell_interval_kepercayaan_95_sampai.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+44	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+44	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+44	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+44	7	fb:cell_p.null											
+44	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+44	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+44	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+44	11	fb:cell_p_2.null											
+45	0	fb:cell_kharakteristik.daerah_tempat_tinggal_pedesaan	daerah tempat tinggal pedesaan	daerah|tempat|tinggal|pedesaan	daerah|tempat|tinggal|pedesaan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+45	1	fb:cell_null.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+45	2	fb:cell_interval_kepercayaan_95_dari.78_4	78.4	78.4	78.4	CD	NUMBER	78.4	78.4				
+45	3	fb:cell_interval_kepercayaan_95_sampai.80_4	80.4	80.4	80.4	CD	NUMBER	80.4	80.4				
+45	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_12	1.12	1.12	1.12	CD	NUMBER	1.12	1.12				
+45	5	fb:cell_interval_kepercayaan_95_dari_2.1_05	1.05	1.05	1.05	CD	NUMBER	1.05	1.05				
+45	6	fb:cell_interval_kepercayaan_95_sampai_2.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+45	7	fb:cell_p.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+45	8	fb:cell_rasio_odds_yang_disesuaikan.1_17	1.17	1.17	1.17	CD	NUMBER	1.17	1.17				
+45	9	fb:cell_interval_kepercayaan_95_dari_3.1_08	1.08	1.08	1.08	CD	NUMBER	1.08	1.08				
+45	10	fb:cell_interval_kepercayaan_95_sampai_3.1_27	1.27	1.27	1.27	CD	NUMBER	1.27	1.27				
+45	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+46	0	fb:cell_kharakteristik.mempunyai_dokter_keluarga	mempunyai dokter keluarga	mempunyai|dokter|keluarga	mempunyai|dokter|keluarga	NNP|NNP|NNP	O|O|O	||					
+46	1	fb:cell_null.null											
+46	2	fb:cell_interval_kepercayaan_95_dari.null											
+46	3	fb:cell_interval_kepercayaan_95_sampai.null											
+46	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+46	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+46	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+46	7	fb:cell_p.null											
+46	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+46	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+46	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+46	11	fb:cell_p_2.null											
+47	0	fb:cell_kharakteristik.memiliki_dokter_keluarga_no	memiliki dokter keluarga no	memiliki|dokter|keluarga|no	memiliki|dokter|keluarga|no	NNP|NNP|NNP|DT	O|O|O|O	|||					
+47	1	fb:cell_null.88_5	88.5	88.5	88.5	CD	NUMBER	88.5	88.5				
+47	2	fb:cell_interval_kepercayaan_95_dari.87_5	87.5	87.5	87.5	CD	NUMBER	87.5	87.5				
+47	3	fb:cell_interval_kepercayaan_95_sampai.89_6	89.6	89.6	89.6	CD	NUMBER	89.6	89.6				
+47	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.2_55	2.55	2.55	2.55	CD	NUMBER	2.55	2.55				
+47	5	fb:cell_interval_kepercayaan_95_dari_2.2_29	2.29	2.29	2.29	CD	NUMBER	2.29	2.29				
+47	6	fb:cell_interval_kepercayaan_95_sampai_2.2_84	2.84	2.84	2.84	CD	NUMBER	2.84	2.84				
+47	7	fb:cell_p._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+47	8	fb:cell_rasio_odds_yang_disesuaikan.2_01	2.01	2.01	2.01	CD	NUMBER	2.01	2.01				
+47	9	fb:cell_interval_kepercayaan_95_dari_3.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+47	10	fb:cell_interval_kepercayaan_95_sampai_3.2_25	2.25	2.25	2.25	CD	NUMBER	2.25	2.25				
+47	11	fb:cell_p_2._0_001	<0.001	<|0.001	<|0.001	JJR|CD	O|NUMBER	|0.001	0.001				
+48	0	fb:cell_kharakteristik.punya_dokter_keluarga_ya	punya dokter keluarga ya	punya|dokter|keluarga|ya	punya|dokter|keluarga|ya	NN|NN|NNP|PRP	O|O|O|O	|||					
+48	1	fb:cell_null.75_2	75.2	75.2	75.2	CD	NUMBER	75.2	75.2				
+48	2	fb:cell_interval_kepercayaan_95_dari.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+48	3	fb:cell_interval_kepercayaan_95_sampai.75_8	75.8	75.8	75.8	CD	NUMBER	75.8	75.8				
+48	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+48	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+48	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+48	7	fb:cell_p.null											
+48	8	fb:cell_rasio_odds_yang_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+48	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+48	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+48	11	fb:cell_p_2.null											
+49	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan	kesehatan yang dirasakan	kesehatan|yang|dirasakan	kesehatan|yang|dirasakan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||					
+49	1	fb:cell_null.null											
+49	2	fb:cell_interval_kepercayaan_95_dari.null											
+49	3	fb:cell_interval_kepercayaan_95_sampai.null											
+49	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.null											
+49	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+49	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+49	7	fb:cell_p.null											
+49	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+49	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+49	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+49	11	fb:cell_p_2.null											
+50	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sangat_baik	kesehatan yang dirasakan sangat baik	kesehatan|yang|dirasakan|sangat|baik	kesehatan|yang|dirasakan|sangat|baik	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+50	1	fb:cell_null.77_3	77.3	77.3	77.3	CD	NUMBER	77.3	77.3				
+50	2	fb:cell_interval_kepercayaan_95_dari.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+50	3	fb:cell_interval_kepercayaan_95_sampai.78_5	78.5	78.5	78.5	CD	NUMBER	78.5	78.5				
+50	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_17	1.17	1.17	1.17	CD	NUMBER	1.17	1.17				
+50	5	fb:cell_interval_kepercayaan_95_dari_2.0_86	0.86	0.86	0.86	CD	NUMBER	0.86	0.86				
+50	6	fb:cell_interval_kepercayaan_95_sampai_2.1_59	1.59	1.59	1.59	CD	NUMBER	1.59	1.59				
+50	7	fb:cell_p.0_33	0.33	0.33	0.33	CD	NUMBER	0.33	0.33				
+50	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+50	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+50	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+50	11	fb:cell_p_2.null											
+51	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_sangat_baik	kesehatan yang dirasakan sangat baik	kesehatan|yang|dirasakan|sangat|baik	kesehatan|yang|dirasakan|sangat|baik	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+51	1	fb:cell_null.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+51	2	fb:cell_interval_kepercayaan_95_dari.77_1	77.1	77.1	77.1	CD	NUMBER	77.1	77.1				
+51	3	fb:cell_interval_kepercayaan_95_sampai.78_7	78.7	78.7	78.7	CD	NUMBER	78.7	78.7				
+51	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+51	5	fb:cell_interval_kepercayaan_95_dari_2.0_89	0.89	0.89	0.89	CD	NUMBER	0.89	0.89				
+51	6	fb:cell_interval_kepercayaan_95_sampai_2.1_64	1.64	1.64	1.64	CD	NUMBER	1.64	1.64				
+51	7	fb:cell_p.0_22	0.22	0.22	0.22	CD	NUMBER	0.22	0.22				
+51	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+51	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+51	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+51	11	fb:cell_p_2.null											
+52	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_baik	kesehatan yang dirasakan baik	kesehatan|yang|dirasakan|baik	kesehatan|yang|dirasakan|baik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+52	1	fb:cell_null.78_6	78.6	78.6	78.6	CD	NUMBER	78.6	78.6				
+52	2	fb:cell_interval_kepercayaan_95_dari.77_5	77.5	77.5	77.5	CD	NUMBER	77.5	77.5				
+52	3	fb:cell_interval_kepercayaan_95_sampai.79_7	79.7	79.7	79.7	CD	NUMBER	79.7	79.7				
+52	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_26	1.26	1.26	1.26	CD	NUMBER	1.26	1.26				
+52	5	fb:cell_interval_kepercayaan_95_dari_2.0_93	0.93	0.93	0.93	CD	NUMBER	0.93	0.93				
+52	6	fb:cell_interval_kepercayaan_95_sampai_2.1_72	1.72	1.72	1.72	CD	NUMBER	1.72	1.72				
+52	7	fb:cell_p.0_14	0.14	0.14	0.14	CD	NUMBER	0.14	0.14				
+52	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+52	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+52	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+52	11	fb:cell_p_2.null											
+53	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_adil	kesehatan yang dirasakan adil	kesehatan|yang|dirasakan|adil	kesehatan|yang|dirasakan|adil	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||					
+53	1	fb:cell_null.75_3	75.3	75.3	75.3	CD	NUMBER	75.3	75.3				
+53	2	fb:cell_interval_kepercayaan_95_dari.72_5	72.5	72.5	72.5	CD	NUMBER	72.5	72.5				
+53	3	fb:cell_interval_kepercayaan_95_sampai.78_2	78.2	78.2	78.2	CD	NUMBER	78.2	78.2				
+53	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_05	1.05	1.05	1.05	CD	NUMBER	1.05	1.05				
+53	5	fb:cell_interval_kepercayaan_95_dari_2.0_75	0.75	0.75	0.75	CD	NUMBER	0.75	0.75				
+53	6	fb:cell_interval_kepercayaan_95_sampai_2.1_46	1.46	1.46	1.46	CD	NUMBER	1.46	1.46				
+53	7	fb:cell_p.0_79	0.79	0.79	0.79	CD	NUMBER	0.79	0.79				
+53	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+53	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+53	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+53	11	fb:cell_p_2.null											
+54	0	fb:cell_kharakteristik.kesehatan_yang_dirasakan_buruk	kesehatan yang dirasakan buruk	kesehatan|yang|dirasakan|buruk	kesehatan|yang|dirasakan|buruk	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+54	1	fb:cell_null.74_5	74.5	74.5	74.5	CD	NUMBER	74.5	74.5				
+54	2	fb:cell_interval_kepercayaan_95_dari.68_7	68.7	68.7	68.7	CD	NUMBER	68.7	68.7				
+54	3	fb:cell_interval_kepercayaan_95_sampai.80_2	80.2	80.2	80.2	CD	NUMBER	80.2	80.2				
+54	4	fb:cell_rasio_odds_yang_tidak_disesuaikan.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+54	5	fb:cell_interval_kepercayaan_95_dari_2.null											
+54	6	fb:cell_interval_kepercayaan_95_sampai_2.null											
+54	7	fb:cell_p.null											
+54	8	fb:cell_rasio_odds_yang_disesuaikan.null											
+54	9	fb:cell_interval_kepercayaan_95_dari_3.null											
+54	10	fb:cell_interval_kepercayaan_95_sampai_3.null											
+54	11	fb:cell_p_2.null											

@@ -1,0 +1,76 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.saat_lahir_laki_laki	saat lahir laki-laki	saat|lahir|laki|laki	saat|lahir|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.saat_lahir_perempuan	saat lahir perempuan	saat|lahir|perempuan	saat|lahir|perempuan	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.pada_usia_65_tahun_laki_laki	pada usia 65 tahun laki-laki	pada|usia|65|tahun|laki|laki	pada|usia|65|tahun|laki|laki	NNP|NNP|CD|NNP|NNP|NNP	O|O|NUMBER|O|O|O	||65.0|||					
+-1	4	fb:row.row.pada_usia_65_tahun_perempuan	pada usia 65 tahun perempuan	pada|usia|65|tahun|perempuan	pada|usia|65|tahun|perempuan	NNP|NNP|CD|NN|NN	O|O|NUMBER|O|O	||65.0||					
+0	0	fb:cell_kharakteristik.dalam_beberapa_tahun_kanada	dalam beberapa tahun Kanada	dalam|beberapa|tahun|kanada	dalam|beberapa|tahun|Kanada	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_saat_lahir_laki_laki.79_6	79.6	79.6	79.6	CD	NUMBER	79.6	79.6				
+0	2	fb:cell_saat_lahir_perempuan.83_8	83.8	83.8	83.8	CD	NUMBER	83.8	83.8				
+0	3	fb:cell_pada_usia_65_tahun_laki_laki.19_0	19.0	19.0	19.0	CD	NUMBER	19.0	19.0				
+0	4	fb:cell_pada_usia_65_tahun_perempuan.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+1	0	fb:cell_kharakteristik.di_tahun_newfoundland_dan_labrador	di tahun newfoundland dan labrador	di|tahun|newfoundland|dan|labrador	di|tahun|newfoundland|dan|labrador	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+1	1	fb:cell_saat_lahir_laki_laki.77_4	77.4	77.4	77.4	CD	NUMBER	77.4	77.4				
+1	2	fb:cell_saat_lahir_perempuan.81_6	81.6	81.6	81.6	CD	NUMBER	81.6	81.6				
+1	3	fb:cell_pada_usia_65_tahun_laki_laki.17_3	17.3	17.3	17.3	CD	NUMBER	17.3	17.3				
+1	4	fb:cell_pada_usia_65_tahun_perempuan.20_2	20.2	20.2	20.2	CD	NUMBER	20.2	20.2				
+2	0	fb:cell_kharakteristik.di_tahun_pulau_pangeran_edward	di tahun pulau pangeran Edward	di|tahun|pulau|pangeran|edward	di|tahun|pulau|pangeran|Edward	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_saat_lahir_laki_laki.78_4	78.4	78.4	78.4	CD	NUMBER	78.4	78.4				
+2	2	fb:cell_saat_lahir_perempuan.83_1	83.1	83.1	83.1	CD	NUMBER	83.1	83.1				
+2	3	fb:cell_pada_usia_65_tahun_laki_laki.17_9	17.9	17.9	17.9	CD	NUMBER	17.9	17.9				
+2	4	fb:cell_pada_usia_65_tahun_perempuan.21_2	21.2	21.2	21.2	CD	NUMBER	21.2	21.2				
+3	0	fb:cell_kharakteristik.di_tahun_nova_scotia	di tahun nova scotia	di|tahun|nova|scotia	di|tahun|nova|scotia	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_saat_lahir_laki_laki.78_1	78.1	78.1	78.1	CD	NUMBER	78.1	78.1				
+3	2	fb:cell_saat_lahir_perempuan.82_5	82.5	82.5	82.5	CD	NUMBER	82.5	82.5				
+3	3	fb:cell_pada_usia_65_tahun_laki_laki.17_8	17.8	17.8	17.8	CD	NUMBER	17.8	17.8				
+3	4	fb:cell_pada_usia_65_tahun_perempuan.20_9	20.9	20.9	20.9	CD	NUMBER	20.9	20.9				
+4	0	fb:cell_kharakteristik.di_tahun_new_brunswick	di tahun New Brunswick	di|tahun|new|brunswick	di|tahun|New|Brunswick	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+4	1	fb:cell_saat_lahir_laki_laki.78_5	78.5	78.5	78.5	CD	NUMBER	78.5	78.5				
+4	2	fb:cell_saat_lahir_perempuan.83_1	83.1	83.1	83.1	CD	NUMBER	83.1	83.1				
+4	3	fb:cell_pada_usia_65_tahun_laki_laki.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+4	4	fb:cell_pada_usia_65_tahun_perempuan.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				
+5	0	fb:cell_kharakteristik.di_tahun_quebec	di tahun Quebec	di|tahun|quebec	di|tahun|Quebec	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_saat_lahir_laki_laki.79_7	79.7	79.7	79.7	CD	NUMBER	79.7	79.7				
+5	2	fb:cell_saat_lahir_perempuan.83_8	83.8	83.8	83.8	CD	NUMBER	83.8	83.8				
+5	3	fb:cell_pada_usia_65_tahun_laki_laki.18_8	18.8	18.8	18.8	CD	NUMBER	18.8	18.8				
+5	4	fb:cell_pada_usia_65_tahun_perempuan.21_8	21.8	21.8	21.8	CD	NUMBER	21.8	21.8				
+6	0	fb:cell_kharakteristik.dalam_beberapa_tahun_ontario	dalam beberapa tahun ontario	dalam|beberapa|tahun|ontario	dalam|beberapa|tahun|ontario	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+6	1	fb:cell_saat_lahir_laki_laki.80_1	80.1	80.1	80.1	CD	NUMBER	80.1	80.1				
+6	2	fb:cell_saat_lahir_perempuan.84_2	84.2	84.2	84.2	CD	NUMBER	84.2	84.2				
+6	3	fb:cell_pada_usia_65_tahun_laki_laki.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+6	4	fb:cell_pada_usia_65_tahun_perempuan.22_1	22.1	22.1	22.1	CD	NUMBER	22.1	22.1				
+7	0	fb:cell_kharakteristik.dalam_beberapa_tahun_manitoba	dalam beberapa tahun manitoba	dalam|beberapa|tahun|manitoba	dalam|beberapa|tahun|manitoba	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+7	1	fb:cell_saat_lahir_laki_laki.77_8	77.8	77.8	77.8	CD	NUMBER	77.8	77.8				
+7	2	fb:cell_saat_lahir_perempuan.82_3	82.3	82.3	82.3	CD	NUMBER	82.3	82.3				
+7	3	fb:cell_pada_usia_65_tahun_laki_laki.18_2	18.2	18.2	18.2	CD	NUMBER	18.2	18.2				
+7	4	fb:cell_pada_usia_65_tahun_perempuan.21_3	21.3	21.3	21.3	CD	NUMBER	21.3	21.3				
+8	0	fb:cell_kharakteristik.di_tahun_saskatchewan	di tahun Saskatchewan	di|tahun|saskatchewan	di|tahun|Saskatchewan	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_saat_lahir_laki_laki.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+8	2	fb:cell_saat_lahir_perempuan.82_3	82.3	82.3	82.3	CD	NUMBER	82.3	82.3				
+8	3	fb:cell_pada_usia_65_tahun_laki_laki.18_4	18.4	18.4	18.4	CD	NUMBER	18.4	18.4				
+8	4	fb:cell_pada_usia_65_tahun_perempuan.21_4	21.4	21.4	21.4	CD	NUMBER	21.4	21.4				
+9	0	fb:cell_kharakteristik.di_tahun_alberta	di tahun alberta	di|tahun|alberta	di|tahun|alberta	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_saat_lahir_laki_laki.79_2	79.2	79.2	79.2	CD	NUMBER	79.2	79.2				
+9	2	fb:cell_saat_lahir_perempuan.83_6	83.6	83.6	83.6	CD	NUMBER	83.6	83.6				
+9	3	fb:cell_pada_usia_65_tahun_laki_laki.18_9	18.9	18.9	18.9	CD	NUMBER	18.9	18.9				
+9	4	fb:cell_pada_usia_65_tahun_perempuan.21_9	21.9	21.9	21.9	CD	NUMBER	21.9	21.9				
+10	0	fb:cell_kharakteristik.dalam_beberapa_tahun_british_columbia	dalam beberapa tahun british columbia	dalam|beberapa|tahun|british|columbia	dalam|beberapa|tahun|british|columbia	NNP|NNP|NNP|NNP|NNP	O|O|O|MISC|O	||||					
+10	1	fb:cell_saat_lahir_laki_laki.80_4	80.4	80.4	80.4	CD	NUMBER	80.4	80.4				
+10	2	fb:cell_saat_lahir_perempuan.84_4	84.4	84.4	84.4	CD	NUMBER	84.4	84.4				
+10	3	fb:cell_pada_usia_65_tahun_laki_laki.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+10	4	fb:cell_pada_usia_65_tahun_perempuan.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+11	0	fb:cell_kharakteristik.dalam_beberapa_tahun_yukon	dalam beberapa tahun yukon	dalam|beberapa|tahun|yukon	dalam|beberapa|tahun|yukon	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+11	1	fb:cell_saat_lahir_laki_laki.76_3	76.3	76.3	76.3	CD	NUMBER	76.3	76.3				
+11	2	fb:cell_saat_lahir_perempuan.81_2	81.2	81.2	81.2	CD	NUMBER	81.2	81.2				
+11	3	fb:cell_pada_usia_65_tahun_laki_laki.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+11	4	fb:cell_pada_usia_65_tahun_perempuan.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+12	0	fb:cell_kharakteristik.dalam_beberapa_tahun_wilayah_barat_laut	dalam beberapa tahun wilayah barat laut	dalam|beberapa|tahun|wilayah|barat|laut	dalam|beberapa|tahun|wilayah|barat|laut	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+12	1	fb:cell_saat_lahir_laki_laki.75_6	75.6	75.6	75.6	CD	NUMBER	75.6	75.6				
+12	2	fb:cell_saat_lahir_perempuan.80_1	80.1	80.1	80.1	CD	NUMBER	80.1	80.1				
+12	3	fb:cell_pada_usia_65_tahun_laki_laki.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+12	4	fb:cell_pada_usia_65_tahun_perempuan.20_3	20.3	20.3	20.3	CD	NUMBER	20.3	20.3				
+13	0	fb:cell_kharakteristik.dalam_beberapa_tahun_nunavut	dalam beberapa tahun nunavut	dalam|beberapa|tahun|nunavut	dalam|beberapa|tahun|nunavut	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+13	1	fb:cell_saat_lahir_laki_laki.68_4	68.4	68.4	68.4	CD	NUMBER	68.4	68.4				
+13	2	fb:cell_saat_lahir_perempuan.72_9	72.9	72.9	72.9	CD	NUMBER	72.9	72.9				
+13	3	fb:cell_pada_usia_65_tahun_laki_laki.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+13	4	fb:cell_pada_usia_65_tahun_perempuan.14_8	14.8	14.8	14.8	CD	NUMBER	14.8	14.8				

@@ -1,0 +1,82 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.skor_total_ces_8	skor total ces-8	skor|total|ces-8	skor|total|ces-8	NNP|NNP|NNP	O|O|O	||					
+-1	2	fb:row.row.skor_total_ces_30	skor total ces-30	skor|total|ces-30	skor|total|ces-30	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.ptsd	ptsd	ptsd	ptsd	NN	O						
+-1	4	fb:row.row.mdd	mdd	mdd	mdd	NN	O						
+-1	5	fb:row.row.pikiran	pikiran	pikiran	pikiran	NNP	O						
+-1	6	fb:row.row.berkeluyuran	berkeluyuran	berkeluyuran	berkeluyuran	NNP	O						
+-1	7	fb:row.row.ide_bunuh_diri	ide bunuh diri	ide|bunuh|diri	ide|bunuh|diri	NN|NN|NN	O|O|O	||					
+-1	8	fb:row.row.minum_berisiko_tinggi	minum berisiko tinggi	minum|berisiko|tinggi	minum|berisiko|tinggi	NNP|NNP|NNP	O|O|O	||					
+0	0	fb:cell_kharakteristik.skor_total_ces_8	skor total ces-8	skor|total|ces-8	skor|total|ces-8	NNP|NNP|NNP	O|O|O	||	8.0				
+0	1	fb:cell_skor_total_ces_8.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+0	2	fb:cell_skor_total_ces_30.null											
+0	3	fb:cell_ptsd.null											
+0	4	fb:cell_mdd.null											
+0	5	fb:cell_pikiran.null											
+0	6	fb:cell_berkeluyuran.null											
+0	7	fb:cell_ide_bunuh_diri.null											
+0	8	fb:cell_minum_berisiko_tinggi.null											
+1	0	fb:cell_kharakteristik.skor_total_ces_30	skor total ces-30	skor|total|ces-30	skor|total|ces-30	NNP|NNP|NNP	O|O|O	||	30.0				
+1	1	fb:cell_skor_total_ces_8.0_85	0.85	0.85	0.85	CD	NUMBER	0.85	0.85				
+1	2	fb:cell_skor_total_ces_30.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+1	3	fb:cell_ptsd.null											
+1	4	fb:cell_mdd.null											
+1	5	fb:cell_pikiran.null											
+1	6	fb:cell_berkeluyuran.null											
+1	7	fb:cell_ide_bunuh_diri.null											
+1	8	fb:cell_minum_berisiko_tinggi.null											
+2	0	fb:cell_kharakteristik.ptsd	ptsd	ptsd	ptsd	NN	O						
+2	1	fb:cell_skor_total_ces_8.0_267	0.267	0.267	0.267	CD	NUMBER	0.267	0.267				
+2	2	fb:cell_skor_total_ces_30.0_218	0.218	0.218	0.218	CD	NUMBER	0.218	0.218				
+2	3	fb:cell_ptsd.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	4	fb:cell_mdd.null											
+2	5	fb:cell_pikiran.null											
+2	6	fb:cell_berkeluyuran.null											
+2	7	fb:cell_ide_bunuh_diri.null											
+2	8	fb:cell_minum_berisiko_tinggi.null											
+3	0	fb:cell_kharakteristik.mdd	mdd	mdd	mdd	NN	O						
+3	1	fb:cell_skor_total_ces_8.0_125	0.125	0.125	0.125	CD	NUMBER	0.125	0.125				
+3	2	fb:cell_skor_total_ces_30.0_085	0.085	0.085	0.085	CD	NUMBER	0.085	0.085				
+3	3	fb:cell_ptsd.0_458	0.458	0.458	0.458	CD	NUMBER	0.458	0.458				
+3	4	fb:cell_mdd.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+3	5	fb:cell_pikiran.null											
+3	6	fb:cell_berkeluyuran.null											
+3	7	fb:cell_ide_bunuh_diri.null											
+3	8	fb:cell_minum_berisiko_tinggi.null											
+4	0	fb:cell_kharakteristik.pikiran	pikiran	pikiran	pikiran	NNP	O						
+4	1	fb:cell_skor_total_ces_8.0_052000000000000005	0.052000000000000005	0.052000000000000005	0.052000000000000005	CD	NUMBER	0.052000000000000005	0.052000000000000005				
+4	2	fb:cell_skor_total_ces_30.0_037	0.037	0.037	0.037	CD	NUMBER	0.037	0.037				
+4	3	fb:cell_ptsd.0_217	0.217	0.217	0.217	CD	NUMBER	0.217	0.217				
+4	4	fb:cell_mdd._0_034	-0.034	-0.034	-0.034	CD	NUMBER	-0.034	0.034				
+4	5	fb:cell_pikiran.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+4	6	fb:cell_berkeluyuran.null											
+4	7	fb:cell_ide_bunuh_diri.null											
+4	8	fb:cell_minum_berisiko_tinggi.null											
+5	0	fb:cell_kharakteristik.berkeluyuran	berkeluyuran	berkeluyuran	berkeluyuran	NNP	O						
+5	1	fb:cell_skor_total_ces_8.0_064	0.064	0.064	0.064	CD	NUMBER	0.064	0.064				
+5	2	fb:cell_skor_total_ces_30.0_04	0.04	0.04	0.04	CD	NUMBER	0.04	0.04				
+5	3	fb:cell_ptsd.0_206	0.206	0.206	0.206	CD	NUMBER	0.206	0.206				
+5	4	fb:cell_mdd.0_158	0.158	0.158	0.158	CD	NUMBER	0.158	0.158				
+5	5	fb:cell_pikiran.0_114	0.114	0.114	0.114	CD	NUMBER	0.114	0.114				
+5	6	fb:cell_berkeluyuran.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+5	7	fb:cell_ide_bunuh_diri.null											
+5	8	fb:cell_minum_berisiko_tinggi.null											
+6	0	fb:cell_kharakteristik.ide_bunuh_diri	ide bunuh diri	ide|bunuh|diri	ide|bunuh|diri	NN|NN|NN	O|O|O	||					
+6	1	fb:cell_skor_total_ces_8.0_091	0.091	0.091	0.091	CD	NUMBER	0.091	0.091				
+6	2	fb:cell_skor_total_ces_30.0_071	0.071	0.071	0.071	CD	NUMBER	0.071	0.071				
+6	3	fb:cell_ptsd.0_328	0.328	0.328	0.328	CD	NUMBER	0.328	0.328				
+6	4	fb:cell_mdd.0_395	0.395	0.395	0.395	CD	NUMBER	0.395	0.395				
+6	5	fb:cell_pikiran.0_024	0.024	0.024	0.024	CD	NUMBER	0.024	0.024				
+6	6	fb:cell_berkeluyuran.0_142	0.142	0.142	0.142	CD	NUMBER	0.142	0.142				
+6	7	fb:cell_ide_bunuh_diri.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+6	8	fb:cell_minum_berisiko_tinggi.null											
+7	0	fb:cell_kharakteristik.minum_berisiko_tinggi	minum berisiko tinggi	minum|berisiko|tinggi	minum|berisiko|tinggi	NNP|NNP|NNP	O|O|O	||					
+7	1	fb:cell_skor_total_ces_8.0_17600000000000002	0.17600000000000002	0.17600000000000002	0.17600000000000002	CD	NUMBER	0.17600000000000002	0.17600000000000002				
+7	2	fb:cell_skor_total_ces_30.0_186	0.186	0.186	0.186	CD	NUMBER	0.186	0.186				
+7	3	fb:cell_ptsd.0_203	0.203	0.203	0.203	CD	NUMBER	0.203	0.203				
+7	4	fb:cell_mdd.0_12	0.12	0.12	0.12	CD	NUMBER	0.12	0.12				
+7	5	fb:cell_pikiran.0_072	0.072	0.072	0.072	CD	NUMBER	0.072	0.072				
+7	6	fb:cell_berkeluyuran.0_063	0.063	0.063	0.063	CD	NUMBER	0.063	0.063				
+7	7	fb:cell_ide_bunuh_diri.0_123	0.123	0.123	0.123	CD	NUMBER	0.123	0.123				
+7	8	fb:cell_minum_berisiko_tinggi.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				

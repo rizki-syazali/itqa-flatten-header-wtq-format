@@ -1,0 +1,86 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.poin_persentase_sampel_utama	poin persentase sampel utama	poin|persentase|sampel|utama	poin|persentase|sampel|utama	NN|NN|NN|NN	O|O|O|O	|||					
+-1	2	fb:row.row.persen_sampel_utama_dari_kesenjangan_keseluruhan	persen sampel utama dari kesenjangan keseluruhan	persen|sampel|utama|dari|kesenjangan|keseluruhan	persen|sampel|utama|dari|kesenjangan|keseluruhan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	3	fb:row.row.poin_persentase_sampel_kelahiran_kanada	poin persentase sampel kelahiran Kanada	poin|persentase|sampel|kelahiran|kanada	poin|persentase|sampel|kelahiran|Kanada	NN|NN|NN|NNP|NNP	O|O|O|O|O	||||					
+-1	4	fb:row.row.persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan	persentase sampel kelahiran Kanada dari kesenjangan keseluruhan	persentase|sampel|kelahiran|kanada|dari|kesenjangan|keseluruhan	persentase|sampel|kelahiran|Kanada|dari|kesenjangan|keseluruhan	NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.penguraian_gelbach	penguraian gelbach	penguraian|gelbach	penguraian|gelbach	JJ|NN	O|O	|					
+0	1	fb:cell_poin_persentase_sampel_utama.null											
+0	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.null											
+0	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.null											
+0	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.null											
+1	0	fb:cell_kharakteristik.kesenjangan_keseluruhan_dekomposisi_gelbach	kesenjangan keseluruhan dekomposisi gelbach	kesenjangan|keseluruhan|dekomposisi|gelbach	kesenjangan|keseluruhan|dekomposisi|gelbach	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+1	1	fb:cell_poin_persentase_sampel_utama.0_451	0.451	0.451	0.451	CD	NUMBER	0.451	0.451				
+1	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.null											
+1	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_467	0.467	0.467	0.467	CD	NUMBER	0.467	0.467				
+1	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.null											
+2	0	fb:cell_kharakteristik.dekomposisi_gelbach_menjelaskan_kesenjangan	dekomposisi gelbach menjelaskan kesenjangan	dekomposisi|gelbach|menjelaskan|kesenjangan	dekomposisi|gelbach|menjelaskan|kesenjangan	NN|NN|NN|NN	O|O|O|O	|||					
+2	1	fb:cell_poin_persentase_sampel_utama.0_331	0.331	0.331	0.331	CD	NUMBER	0.331	0.331				
+2	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.73_4	73.4	73.4	73.4	CD	NUMBER	73.4	73.4				
+2	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_337	0.337	0.337	0.337	CD	NUMBER	0.337	0.337				
+2	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+3	0	fb:cell_kharakteristik.bagian_dekomposisi_gelbach_dari_kesenjangan_pendapatan_dalam_partisipasi_resp_dicatat_oleh	bagian dekomposisi gelbach dari kesenjangan pendapatan dalam partisipasi resp dicatat oleh	bagian|dekomposisi|gelbach|dari|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh	bagian|dekomposisi|gelbach|dari|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+3	1	fb:cell_poin_persentase_sampel_utama.null											
+3	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.null											
+3	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.null											
+3	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.null											
+4	0	fb:cell_kharakteristik.bagian_dekomposisi_gelbach_dari_kesenjangan_pendapatan_dalam_partisipasi_sektoral_diperhitungkan_berdasarkan_demografi	bagian dekomposisi gelbach dari kesenjangan pendapatan dalam partisipasi sektoral diperhitungkan berdasarkan demografi	bagian|dekomposisi|gelbach|dari|kesenjangan|pendapatan|dalam|partisipasi|sektoral|diperhitungkan|berdasarkan|demografi	bagian|dekomposisi|gelbach|dari|kesenjangan|pendapatan|dalam|partisipasi|sektoral|diperhitungkan|berdasarkan|demografi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|JJ|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+4	1	fb:cell_poin_persentase_sampel_utama.0_013	0.013	0.013	0.013	CD	NUMBER	0.013	0.013				
+4	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+4	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_027	0.027	0.027	0.027	CD	NUMBER	0.027	0.027				
+4	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+5	0	fb:cell_kharakteristik.bagian_dekomposisi_gelbach_dari_kesenjangan_pendapatan_dalam_partisipasi_resp_dicatat_oleh_kekayaan_bersih	bagian dekomposisi gelbach dari kesenjangan pendapatan dalam partisipasi resp dicatat oleh kekayaan bersih	bagian|dekomposisi|gelbach|dari|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh|kekayaan|bersih	bagian|dekomposisi|gelbach|dari|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh|kekayaan|bersih	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+5	1	fb:cell_poin_persentase_sampel_utama.0_242	0.242	0.242	0.242	CD	NUMBER	0.242	0.242				
+5	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.53_7	53.7	53.7	53.7	CD	NUMBER	53.7	53.7				
+5	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_24	0.24	0.24	0.24	CD	NUMBER	0.24	0.24				
+5	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.53_2	53.2	53.2	53.2	CD	NUMBER	53.2	53.2				
+6	0	fb:cell_kharakteristik.dekomposisi_gelbach_bagian_kesenjangan_pendapatan_dalam_partisipasi_sektor_pendidikan	dekomposisi gelbach bagian kesenjangan pendapatan dalam partisipasi sektor pendidikan	dekomposisi|gelbach|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|pendidikan	dekomposisi|gelbach|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|pendidikan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+6	1	fb:cell_poin_persentase_sampel_utama.0_051	0.051	0.051	0.051	CD	NUMBER	0.051	0.051				
+6	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+6	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_048	0.048	0.048	0.048	CD	NUMBER	0.048	0.048				
+6	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+7	0	fb:cell_kharakteristik.dekomposisi_gelbach_bagian_kesenjangan_pendapatan_dalam_partisipasi_sektor_kesehatan_disebabkan_oleh_tingkat_melek_huruf	dekomposisi gelbach bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan disebabkan oleh tingkat melek huruf	dekomposisi|gelbach|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|kesehatan|disebabkan|oleh|tingkat|melek|huruf	dekomposisi|gelbach|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|kesehatan|disebabkan|oleh|tingkat|melek|huruf	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+7	1	fb:cell_poin_persentase_sampel_utama.0_025	0.025	0.025	0.025	CD	NUMBER	0.025	0.025				
+7	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+7	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_022	0.022	0.022	0.022	CD	NUMBER	0.022	0.022				
+7	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+8	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder	dekomposisi oaxaca-blinder	dekomposisi|oaxaca|blinder	dekomposisus|oaxaca|blinder	NNS|NNP|NNP	O|LOCATION|O	||					
+8	1	fb:cell_poin_persentase_sampel_utama.null											
+8	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.null											
+8	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.null											
+8	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.null											
+9	0	fb:cell_kharakteristik.kesenjangan_keseluruhan_dekomposisi_oaxaca_blinder	kesenjangan keseluruhan dekomposisi oaxaca-blinder	kesenjangan|keseluruhan|dekomposisi|oaxaca|blinder	kesenjangan|keseluruhan|dekomposisi|oaxaca|blinder	NNP|NNP|NNP|NNP|NNP	O|O|O|LOCATION|O	||||					
+9	1	fb:cell_poin_persentase_sampel_utama.0_451	0.451	0.451	0.451	CD	NUMBER	0.451	0.451				
+9	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.null											
+9	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_467	0.467	0.467	0.467	CD	NUMBER	0.467	0.467				
+9	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.null											
+10	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder_menjelaskan_kesenjangan	dekomposisi oaxaca-blinder menjelaskan kesenjangan	dekomposisi|oaxaca|blinder|menjelaskan|kesenjangan	dekomposisus|oaxaca|blinder|menjelaskan|kesenjangan	NNS|NNP|NNP|NNP|NNP	O|LOCATION|O|O|O	||||					
+10	1	fb:cell_poin_persentase_sampel_utama.0_29	0.29	0.29	0.29	CD	NUMBER	0.29	0.29				
+10	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.64_3	64.3	64.3	64.3	CD	NUMBER	64.3	64.3				
+10	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_306	0.306	0.306	0.306	CD	NUMBER	0.306	0.306				
+10	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+11	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder_bagian_kesenjangan_pendapatan_dalam_partisipasi_resp_dicatat_oleh	dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi resp dicatat oleh	dekomposisi|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh	dekomposisus|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|LOCATION|O|O|O|O|O|O|O|O|O	||||||||||					
+11	1	fb:cell_poin_persentase_sampel_utama.null											
+11	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.null											
+11	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.null											
+11	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.null											
+12	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder_bagian_kesenjangan_pendapatan_dalam_partisipasi_sektor_kesehatan_ditentukan_oleh_demografi	dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan ditentukan oleh demografi	dekomposisi|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|kesehatan|ditentukan|oleh|demografi	dekomposisus|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|kesehatan|ditentukan|oleh|demografi	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|LOCATION|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+12	1	fb:cell_poin_persentase_sampel_utama.0_016	0.016	0.016	0.016	CD	NUMBER	0.016	0.016				
+12	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+12	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_049	0.049	0.049	0.049	CD	NUMBER	0.049	0.049				
+12	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+13	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder_bagian_kesenjangan_pendapatan_dalam_partisipasi_resp_dicatat_oleh_kekayaan_bersih	dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi resp dicatat oleh kekayaan bersih	dekomposisi|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh|kekayaan|bersih	dekomposisus|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|resp|dicatat|oleh|kekayaan|bersih	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|LOCATION|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+13	1	fb:cell_poin_persentase_sampel_utama.0_227	0.227	0.227	0.227	CD	NUMBER	0.227	0.227				
+13	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.50_3	50.3	50.3	50.3	CD	NUMBER	50.3	50.3				
+13	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_226	0.226	0.226	0.226	CD	NUMBER	0.226	0.226				
+13	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.50_1	50.1	50.1	50.1	CD	NUMBER	50.1	50.1				
+14	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder_bagian_kesenjangan_pendapatan_dalam_partisipasi_sektor_kesehatan_disebabkan_oleh_pendidikan	dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan disebabkan oleh pendidikan	dekomposisi|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|kesehatan|disebabkan|oleh|pendidikan	dekomposisus|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|sektor|kesehatan|disebabkan|oleh|pendidikan	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|LOCATION|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+14	1	fb:cell_poin_persentase_sampel_utama.0_015	0.015	0.015	0.015	CD	NUMBER	0.015	0.015				
+14	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+14	3	fb:cell_poin_persentase_sampel_kelahiran_kanada._0_004	-0.004	-0.004	-0.004	CD	NUMBER	-0.004	0.004				
+14	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan._0_9	-0.9	-0.9	-0.9	CD	NUMBER	-0.9	0.9				
+15	0	fb:cell_kharakteristik.dekomposisi_oaxaca_blinder_bagian_kesenjangan_pendapatan_dalam_partisipasi_pernafasan_disebabkan_oleh_tingkat_melek_huruf	dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi pernafasan disebabkan oleh tingkat melek huruf	dekomposisi|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|pernafasan|disebabkan|oleh|tingkat|melek|huruf	dekomposisus|oaxaca|blinder|bagian|kesenjangan|pendapatan|dalam|partisipasi|pernafasan|disebabkan|oleh|tingkat|melek|huruf	NNS|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|LOCATION|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+15	1	fb:cell_poin_persentase_sampel_utama.0_031	0.031	0.031	0.031	CD	NUMBER	0.031	0.031				
+15	2	fb:cell_persen_sampel_utama_dari_kesenjangan_keseluruhan.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+15	3	fb:cell_poin_persentase_sampel_kelahiran_kanada.0_035	0.035	0.035	0.035	CD	NUMBER	0.035	0.035				
+15	4	fb:cell_persentase_sampel_kelahiran_kanada_dari_kesenjangan_keseluruhan.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				

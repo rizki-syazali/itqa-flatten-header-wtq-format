@@ -1,0 +1,52 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.berat_keranjang_sub_komponen_pada_bulan_tautan	berat keranjang sub-komponen pada bulan tautan	berat|keranjang|sub|komponen|pada|bulan|tautan	berat|keranjang|sub|komponen|pada|bulan|tautan	NNP|NNP|NN|NNP|NNP|NNP|NNP	LOCATION|O|O|O|O|O|O	||||||					
+-1	2	fb:row.row.donor_imputasi	donor imputasi	donor|imputasi	donor|imputasi	NN|NN	O|O	|					
+0	0	fb:cell_kharakteristik.operasi_rumah_tangga_perabotan_dan_peralatan	operasi rumah tangga, perabotan dan peralatan	operasi|rumah|tangga|,|perabotan|dan|peralatan	operasi|rumah|tangga|,|perabotan|dan|peralatan	NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				operasi rumah tangga|perabotan dan peralatan	fb:part_kharakteristik.operasi_rumah_tangga|fb:part_kharakteristik.perabotan_dan_peralatan
+0	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.null											
+0	2	fb:cell_donor_imputasi.null											
+1	0	fb:cell_kharakteristik.operasi_rumah_tangga_perabotan_dan_peralatan_layanan_penitipan_anak	operasi rumah tangga, perabotan dan peralatan layanan penitipan anak	operasi|rumah|tangga|,|perabotan|dan|peralatan|layanan|penitipan|anak	operasi|rumah|tangga|,|perabotan|dan|peralatan|layanan|penitipan|anak	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				operasi rumah tangga|perabotan dan peralatan layanan penitipan anak	fb:part_kharakteristik.operasi_rumah_tangga|fb:part_kharakteristik.perabotan_dan_peralatan_layanan_penitipan_anak
+1	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_15	0.15	0.15	0.15	CD	NUMBER	0.15	0.15				
+1	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+2	0	fb:cell_kharakteristik.operasi_rumah_tangga_perabotan_dan_peralatan_layanan_rumah_tangga	operasi rumah tangga, perabotan dan peralatan layanan rumah tangga	operasi|rumah|tangga|,|perabotan|dan|peralatan|layanan|rumah|tangga	operasi|rumah|tangga|,|perabotan|dan|peralatan|layanan|rumah|tangga	NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				operasi rumah tangga|perabotan dan peralatan layanan rumah tangga	fb:part_kharakteristik.operasi_rumah_tangga|fb:part_kharakteristik.perabotan_dan_peralatan_layanan_rumah_tangga
+2	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_31	0.31	0.31	0.31	CD	NUMBER	0.31	0.31				
+2	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+3	0	fb:cell_kharakteristik.angkutan	angkutan	angkutan	angkutan	NNP	O						
+3	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.null											
+3	2	fb:cell_donor_imputasi.null											
+4	0	fb:cell_kharakteristik.transportasi_transportasi_udara	transportasi transportasi udara	transportasi|transportasi|udara	transportasi|transportasi|udara	NN|NN|NN	O|O|O	||					
+4	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_35	0.35	0.35	0.35	CD	NUMBER	0.35	0.35				
+4	2	fb:cell_donor_imputasi.affected_sub_components_imputed_from_parent_air_transportation	affected sub-components imputed from parent, air transportation	affected|sub|components|imputed|from|parent|,|air|transportation	affect|sub|component|imputed|from|parent|,|air|transportation	VBN|NN|NNS|JJ|IN|NN|,|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||				affected sub-components imputed from parent|air transportation	fb:part_donor_imputasi.affected_sub_components_imputed_from_parent|fb:part_donor_imputasi.air_transportation
+5	0	fb:cell_kharakteristik.kesehatan_dan_perawatan_pribadi	kesehatan dan perawatan pribadi	kesehatan|dan|perawatan|pribadi	kesehatan|dan|perawatan|pribadi	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||					
+5	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.null											
+5	2	fb:cell_donor_imputasi.null											
+6	0	fb:cell_kharakteristik.layanan_perawatan_pribadi_kesehatan_dan_perawatan_pribadi	layanan perawatan pribadi kesehatan dan perawatan pribadi	layanan|perawatan|pribadi|kesehatan|dan|perawatan|pribadi	layanan|perawatan|pribadi|kesehatan|dan|perawatan|pribadi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|O|O|O	||||||					
+6	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_93	0.93	0.93	0.93	CD	NUMBER	0.93	0.93				
+6	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+7	0	fb:cell_kharakteristik.rekreasi	rekreasi	rekreasi	rekreasi	NNP	O						
+7	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.null											
+7	2	fb:cell_donor_imputasi.null											
+8	0	fb:cell_kharakteristik.layanan_rekreasi_rekreasi	layanan rekreasi rekreasi	layanan|rekreasi|rekreasi	layanan|rekreasi|rekreasi	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+8	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+9	0	fb:cell_kharakteristik.wisata_perjalanan_rekreasi	wisata perjalanan rekreasi	wisata|perjalanan|rekreasi	wisata|perjalanan|rekreasi	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.1_21	1.21	1.21	1.21	CD	NUMBER	1.21	1.21				
+9	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+10	0	fb:cell_kharakteristik.hiburan_penonton_rekreasi	hiburan penonton rekreasi	hiburan|penonton|rekreasi	hiburan|penonton|rekreasi	NNP|NNP|NNP	O|O|O	||					
+10	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_35	0.35	0.35	0.35	CD	NUMBER	0.35	0.35				
+10	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+11	0	fb:cell_kharakteristik.penggunaan_rekreasi_fasilitas_dan_layanan_rekreasi	penggunaan rekreasi fasilitas dan layanan rekreasi	penggunaan|rekreasi|fasilitas|dan|layanan|rekreasi	penggunaan|rekreasi|fasilitas|dan|layanan|rekreasi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+11	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_62	0.62	0.62	0.62	CD	NUMBER	0.62	0.62				
+11	2	fb:cell_donor_imputasi.all_items	all-items	all|items	all|item	DT|NNS	O|O	|					
+12	0	fb:cell_kharakteristik.minuman_beralkohol_produk_tembakau_dan_ganja_rekreasi	minuman beralkohol, produk tembakau, dan ganja rekreasi	minuman|beralkohol|,|produk|tembakau|,|dan|ganja|rekreasi	minuman|beralkohol|,|produk|tembakau|,|dan|ganja|rekreasi	NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON|PERSON	||||||||				minuman beralkohol|produk tembakau|dan ganja rekreasi	fb:part_kharakteristik.minuman_beralkohol|fb:part_kharakteristik.produk_tembakau|fb:part_kharakteristik.dan_ganja_rekreasi
+12	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.null											
+12	2	fb:cell_donor_imputasi.null											
+13	0	fb:cell_kharakteristik.minuman_beralkohol_produk_tembakau_dan_bir_ganja_rekreasional_yang_disajikan_di_tempat_berlisensi	minuman beralkohol, produk tembakau, dan bir ganja rekreasional yang disajikan di tempat berlisensi	minuman|beralkohol|,|produk|tembakau|,|dan|bir|ganja|rekreasional|yang|disajikan|di|tempat|berlisensi	minuman|beralkohol|,|produk|tembakau|,|dan|bir|ganja|rekreasional|yang|disajikan|di|tempat|berlisensi	NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|O|O|O|O|O|O|O|O	||||||||||||||				minuman beralkohol|produk tembakau|dan bir ganja rekreasional yang disajikan di tempat berlisensi	fb:part_kharakteristik.minuman_beralkohol|fb:part_kharakteristik.produk_tembakau|fb:part_kharakteristik.dan_bir_ganja_rekreasional_yang_disajikan_di_tempat_berlisensi
+13	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_34	0.34	0.34	0.34	CD	NUMBER	0.34	0.34				
+13	2	fb:cell_donor_imputasi.beer_purchased_from_stores	beer purchased from stores	beer|purchased|from|stores	beer|purchase|from|store	NN|VBD|IN|NNS	O|O|O|O	|||					
+14	0	fb:cell_kharakteristik.minuman_beralkohol_produk_tembakau_dan_anggur_ganja_rekreasional_yang_disajikan_di_tempat_berlisensi	minuman beralkohol, produk tembakau, dan anggur ganja rekreasional yang disajikan di tempat berlisensi	minuman|beralkohol|,|produk|tembakau|,|dan|anggur|ganja|rekreasional|yang|disajikan|di|tempat|berlisensi	minuman|beralkohol|,|produk|tembakau|,|dan|anggur|ganja|rekreasional|yang|disajikan|di|tempat|berlisensi	NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||				minuman beralkohol|produk tembakau|dan anggur ganja rekreasional yang disajikan di tempat berlisensi	fb:part_kharakteristik.minuman_beralkohol|fb:part_kharakteristik.produk_tembakau|fb:part_kharakteristik.dan_anggur_ganja_rekreasional_yang_disajikan_di_tempat_berlisensi
+14	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_13	0.13	0.13	0.13	CD	NUMBER	0.13	0.13				
+14	2	fb:cell_donor_imputasi.wine_purchased_from_stores	wine purchased from stores	wine|purchased|from|stores	wine|purchase|from|store	NN|VBD|IN|NNS	O|O|O|O	|||					
+15	0	fb:cell_kharakteristik.minuman_beralkohol_produk_tembakau_dan_minuman_keras_ganja_yang_disajikan_di_tempat_yang_memiliki_izin	minuman beralkohol, produk tembakau, dan minuman keras ganja yang disajikan di tempat yang memiliki izin	minuman|beralkohol|,|produk|tembakau|,|dan|minuman|keras|ganja|yang|disajikan|di|tempat|yang|memiliki|izin	minuman|beralkohol|,|produk|tembakau|,|dan|minuman|keras|ganja|yang|disajikan|di|tempat|yang|memiliki|izin	NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||				minuman beralkohol|produk tembakau|dan minuman keras ganja yang disajikan di tempat yang memiliki izin	fb:part_kharakteristik.minuman_beralkohol|fb:part_kharakteristik.produk_tembakau|fb:part_kharakteristik.dan_minuman_keras_ganja_yang_disajikan_di_tempat_yang_memiliki_izin
+15	1	fb:cell_berat_keranjang_sub_komponen_pada_bulan_tautan.0_19	0.19	0.19	0.19	CD	NUMBER	0.19	0.19				
+15	2	fb:cell_donor_imputasi.liquor_purchased_from_stores	liquor purchased from stores	liquor|purchased|from|stores	liquor|purchase|from|store	NN|VBD|IN|NNS	O|O|O|O	|||					

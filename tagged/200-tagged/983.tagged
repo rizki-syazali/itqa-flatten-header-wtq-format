@@ -1,0 +1,56 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.laki_laki_mengalami_pelecehan_di_tempat_kerja	laki-laki mengalami pelecehan di tempat kerja	laki|laki|mengalami|pelecehan|di|tempat|kerja	laki|laki|mengalami|pelecehan|di|tempat|kerja	NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O	||||||					
+-1	2	fb:row.row.laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja	laki-laki tidak mengalami pelecehan di tempat kerja	laki|laki|tidak|mengalami|pelecehan|di|tempat|kerja	laki|laki|tidak|mengalami|pelecehan|di|tempat|kerja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|O|O	|||||||					
+-1	3	fb:row.row.perempuan_mengalami_pelecehan_di_tempat_kerja	perempuan mengalami pelecehan di tempat kerja	perempuan|mengalami|pelecehan|di|tempat|kerja	perempuan|mengalami|pelecehan|di|tempat|kerja	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.perempuan_tidak_mengalami_pelecehan_di_tempat_kerja	perempuan tidak mengalami pelecehan di tempat kerja	perempuan|tidak|mengalami|pelecehan|di|tempat|kerja	perempuan|tidak|mengalami|pelecehan|di|tempat|kerja	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	0	fb:cell_kharakteristik.persen_hasil_yang_tidak_disesuaikan	persen hasil yang tidak disesuaikan	persen|hasil|yang|tidak|disesuaikan	persen|hasil|yang|tidak|disesuaikan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.null											
+0	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.null											
+0	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.null											
+0	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.null											
+1	0	fb:cell_kharakteristik.persen_hasil_yang_tidak_disesuaikan_tidak_puas_dengan_pekerjaan_saat_ini	persen hasil yang tidak disesuaikan, tidak puas dengan pekerjaan saat ini	persen|hasil|yang|tidak|disesuaikan|,|tidak|puas|dengan|pekerjaan|saat|ini	persen|hasil|yang|tidak|disesuaikan|,|tidak|puas|dengan|pekerjaan|saat|ini	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				persen hasil yang tidak disesuaikan|tidak puas dengan pekerjaan saat ini	fb:part_kharakteristik.persen_hasil_yang_tidak_disesuaikan|fb:part_kharakteristik.tidak_puas_dengan_pekerjaan_saat_ini
+1	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+1	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+1	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+1	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+2	0	fb:cell_kharakteristik.persen_hasil_yang_belum_disesuaikan_berencana_meninggalkan_pekerjaan_saat_ini_dalam_12_bulan_ke_depan	persen hasil yang belum disesuaikan berencana meninggalkan pekerjaan saat ini dalam 12 bulan ke depan	persen|hasil|yang|belum|disesuaikan|berencana|meninggalkan|pekerjaan|saat|ini|dalam|12|bulan|ke|depan	persen|hasil|yang|belum|disesuaikan|berencana|meninggalkan|pekerjaan|saat|ini|dalam|12|bulan|ke|depan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||||||12.0|||	12.0				
+2	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+2	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.16_6	16.6	16.6	16.6	CD	NUMBER	16.6	16.6				
+2	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.22_4	22.4	22.4	22.4	CD	NUMBER	22.4	22.4				
+2	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.15_3	15.3	15.3	15.3	CD	NUMBER	15.3	15.3				
+3	0	fb:cell_kharakteristik.persen_hasil_yang_tidak_disesuaikan_memiliki_motivasi_yang_rendah_untuk_melakukan_yang_terbaik_di_organisasi_saat_ini	persen hasil yang tidak disesuaikan memiliki motivasi yang rendah untuk melakukan yang terbaik di organisasi saat ini	persen|hasil|yang|tidak|disesuaikan|memiliki|motivasi|yang|rendah|untuk|melakukan|yang|terbaik|di|organisasi|saat|ini	persen|hasil|yang|tidak|disesuaikan|memiliki|motivasi|yang|rendah|untuk|melakukan|yang|terbaik|di|organisasi|saat|ini	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||					
+3	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.24_0	24.0	24.0	24.0	CD	NUMBER	24.0	24.0				
+3	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.9_2	9.2	9.2	9.2	CD	NUMBER	9.2	9.2				
+3	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.19_5	19.5	19.5	19.5	CD	NUMBER	19.5	19.5				
+3	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+4	0	fb:cell_kharakteristik.persen_yang_tidak_disesuaikan_mengakibatkan_lemahnya_rasa_memiliki_terhadap_organisasi_saat_ini	persen yang tidak disesuaikan mengakibatkan lemahnya rasa memiliki terhadap organisasi saat ini	persen|yang|tidak|disesuaikan|mengakibatkan|lemahnya|rasa|memiliki|terhadap|organisasi|saat|ini	persen|yang|tidak|disesuaikan|mengakibatkan|lemahnya|rasa|memiliki|terhadap|organisasus|saat|ini	NNP|NNP|NNP|NN|NN|NN|NN|NN|NN|NNS|VBP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+4	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.30_9	30.9	30.9	30.9	CD	NUMBER	30.9	30.9				
+4	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				
+4	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.26_7	26.7	26.7	26.7	CD	NUMBER	26.7	26.7				
+4	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+5	0	fb:cell_kharakteristik.probabilitas_prediksi_hasil_yang_disesuaikan	probabilitas prediksi hasil yang disesuaikan	probabilitas|prediksi|hasil|yang|disesuaikan	probabilitas|prediksi|hasil|yang|disesuaikan	NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||					
+5	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.null											
+5	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.null											
+5	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.null											
+5	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.null											
+6	0	fb:cell_kharakteristik.prediksi_probabilitas_hasil_yang_disesuaikan_tidak_puas_dengan_pekerjaan_saat_ini	prediksi probabilitas hasil yang disesuaikan tidak puas dengan pekerjaan saat ini	prediksi|probabilitas|hasil|yang|disesuaikan|tidak|puas|dengan|pekerjaan|saat|ini	prediksi|probabilitas|hasil|yang|disesuaikan|tidak|puas|dengan|pekerjaan|saat|ini	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+6	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.12_9	12.9	12.9	12.9	CD	NUMBER	12.9	12.9				
+6	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+6	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.11_9	11.9	11.9	11.9	CD	NUMBER	11.9	11.9				
+6	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+7	0	fb:cell_kharakteristik.prediksi_probabilitas_hasil_yang_disesuaikan_berencana_meninggalkan_pekerjaan_saat_ini_dalam_12_bulan_ke_depan	prediksi probabilitas hasil yang disesuaikan berencana meninggalkan pekerjaan saat ini dalam 12 bulan ke depan	prediksi|probabilitas|hasil|yang|disesuaikan|berencana|meninggalkan|pekerjaan|saat|ini|dalam|12|bulan|ke|depan	prediksi|probabilitas|hasil|yang|disesuaikan|berencana|meninggalkan|pekerjaan|saat|ini|dalam|12|bulan|ke|depan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||||||12.0|||	12.0				
+7	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+7	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.17_5	17.5	17.5	17.5	CD	NUMBER	17.5	17.5				
+7	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.19_7	19.7	19.7	19.7	CD	NUMBER	19.7	19.7				
+7	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.14_7	14.7	14.7	14.7	CD	NUMBER	14.7	14.7				
+8	0	fb:cell_kharakteristik.prediksi_probabilitas_hasil_yang_disesuaikan_motivasi_rendah_untuk_melakukan_yang_terbaik_di_organisasi_saat_ini	prediksi probabilitas hasil yang disesuaikan motivasi rendah untuk melakukan yang terbaik di organisasi saat ini	prediksi|probabilitas|hasil|yang|disesuaikan|motivasi|rendah|untuk|melakukan|yang|terbaik|di|organisasi|saat|ini	prediksi|probabilitas|hasil|yang|disesuaikan|motivasi|rendah|untuk|melakukan|yang|terbaik|di|organisasi|saat|ini	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||					
+8	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.23_2	23.2	23.2	23.2	CD	NUMBER	23.2	23.2				
+8	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.9_4	9.4	9.4	9.4	CD	NUMBER	9.4	9.4				
+8	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+8	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+9	0	fb:cell_kharakteristik.prediksi_probabilitas_hasil_yang_disesuaikan_lemahnya_rasa_memiliki_terhadap_organisasi_saat_ini	prediksi probabilitas hasil yang disesuaikan lemahnya rasa memiliki terhadap organisasi saat ini	prediksi|probabilitas|hasil|yang|disesuaikan|lemahnya|rasa|memiliki|terhadap|organisasi|saat|ini	prediksi|probabilitas|hasil|yang|disesuaikan|lemahnya|rasa|memiliki|terhadap|organisasi|saat|ini	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+9	1	fb:cell_laki_laki_mengalami_pelecehan_di_tempat_kerja.30_3	30.3	30.3	30.3	CD	NUMBER	30.3	30.3				
+9	2	fb:cell_laki_laki_tidak_mengalami_pelecehan_di_tempat_kerja.16_4	16.4	16.4	16.4	CD	NUMBER	16.4	16.4				
+9	3	fb:cell_perempuan_mengalami_pelecehan_di_tempat_kerja.25_6	25.6	25.6	25.6	CD	NUMBER	25.6	25.6				
+9	4	fb:cell_perempuan_tidak_mengalami_pelecehan_di_tempat_kerja.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2				

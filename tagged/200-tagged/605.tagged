@@ -1,0 +1,28 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.pembeli_daring	pembeli daring	pembeli|daring	pembeli|daring	NNP|JJ	O|O	|					
+-1	2	fb:row.row.pengeluaran_rata_rata	pengeluaran rata-rata	pengeluaran|rata|rata	pengeluaran|rata|rata	NNP|JJ|JJ	O|O|O	||					
+0	0	fb:cell_kharakteristik.setidaknya_satu_pembelian_layanan	setidaknya satu pembelian layanan	setidaknya|satu|pembelian|layanan	setidaknya|satu|pembelian|layanan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_pembeli_daring.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+0	2	fb:cell_pengeluaran_rata_rata.1399_0	1399.0	1399.0	1399.0	CD	NUMBER	1399.0	1399.0				
+1	0	fb:cell_kharakteristik.setidaknya_satu_pembelian_layanan_pengaturan_perjalanan	setidaknya satu pembelian layanan pengaturan perjalanan	setidaknya|satu|pembelian|layanan|pengaturan|perjalanan	setidaknya|satu|pembelian|layanan|pengaturan|perjalanan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+1	1	fb:cell_pembeli_daring.50_3	50.3	50.3	50.3	CD	NUMBER	50.3	50.3				
+1	2	fb:cell_pengeluaran_rata_rata.null											
+2	0	fb:cell_kharakteristik.minimal_satu_kali_pembelian_tiket_jasa_acara_hiburan	minimal satu kali pembelian tiket jasa acara hiburan	minimal|satu|kali|pembelian|tiket|jasa|acara|hiburan	minimal|satu|kali|pembelian|tiket|jasa|acara|hiburan	JJ|FW|FW|JJ|NN|NN|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+2	1	fb:cell_pembeli_daring.45_6	45.6	45.6	45.6	CD	NUMBER	45.6	45.6				
+2	2	fb:cell_pengeluaran_rata_rata.null											
+3	0	fb:cell_kharakteristik.setidaknya_satu_kali_pembelian_jasa_makanan_atau_minuman_yang_diantar_dari_restoran	setidaknya satu kali pembelian jasa makanan atau minuman yang diantar dari restoran	setidaknya|satu|kali|pembelian|jasa|makanan|atau|minuman|yang|diantar|dari|restoran	setidaknya|satu|kali|pembelian|jasa|makanan|atau|minuman|yang|diantar|dari|restoran	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|MISC|MISC|O|O|O|O|O|O|O|O	|||||||||||					
+3	1	fb:cell_pembeli_daring.31_9	31.9	31.9	31.9	CD	NUMBER	31.9	31.9				
+3	2	fb:cell_pengeluaran_rata_rata.null											
+4	0	fb:cell_kharakteristik.setidaknya_satu_pembelian_layanan_olahraga_atau_kebugaran_yang_diselenggarakan	setidaknya satu pembelian layanan olahraga atau kebugaran yang diselenggarakan	setidaknya|satu|pembelian|layanan|olahraga|atau|kebugaran|yang|diselenggarakan	setidaknya|satu|pembelian|layanan|olahraga|atau|kebugaran|yang|diselenggarakan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+4	1	fb:cell_pembeli_daring.14_6	14.6	14.6	14.6	CD	NUMBER	14.6	14.6				
+4	2	fb:cell_pengeluaran_rata_rata.null											
+5	0	fb:cell_kharakteristik.minimal_satu_kali_pembelian_jasa_layanan_fotografi	minimal satu kali pembelian jasa layanan fotografi	minimal|satu|kali|pembelian|jasa|layanan|fotografi	minimal|satu|kali|pembelian|jasa|layanan|fotografi	JJ|FW|FW|JJ|NN|NN|NN	O|O|O|O|O|O|O	||||||					
+5	1	fb:cell_pembeli_daring.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4				
+5	2	fb:cell_pengeluaran_rata_rata.null											
+6	0	fb:cell_kharakteristik.minimal_satu_kali_pembelian_layanan_pendaftaran_penitipan_anak	minimal satu kali pembelian layanan pendaftaran penitipan anak	minimal|satu|kali|pembelian|layanan|pendaftaran|penitipan|anak	minimal|satu|kali|pembelian|layanan|pendaftaran|penitipan|anak	JJ|FW|FW|JJ|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||					
+6	1	fb:cell_pembeli_daring.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+6	2	fb:cell_pengeluaran_rata_rata.null											
+7	0	fb:cell_kharakteristik.setidaknya_satu_pembelian_layanan_layanan_lain_yang_dipesan_secara_online	setidaknya satu pembelian layanan layanan lain yang dipesan secara online	setidaknya|satu|pembelian|layanan|layanan|lain|yang|dipesan|secara|online	setidaknya|satu|pembelian|layanan|layanan|lain|yang|dipesan|secara|online	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O|O|O|O	|||||||||					
+7	1	fb:cell_pembeli_daring.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+7	2	fb:cell_pengeluaran_rata_rata.null											

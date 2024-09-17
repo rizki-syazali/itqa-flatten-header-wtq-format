@@ -1,0 +1,161 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_lapangan_kerja_perempuan	tingkat lapangan kerja perempuan	tingkat|lapangan|kerja|perempuan	tingkat|lapangan|kerja|perempuan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	2	fb:row.row.tingkat_pengangguran_perempuan	tingkat pengangguran perempuan	tingkat|pengangguran|perempuan	tingkat|pengangguran|perempuan	NNP|NNP|NNP	O|O|O	||					
+-1	3	fb:row.row.tingkat_pekerjaan_laki_laki	tingkat pekerjaan laki-laki	tingkat|pekerjaan|laki|laki	tingkat|pekerjaan|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	4	fb:row.row.tingkat_pengangguran_laki_laki	tingkat pengangguran laki-laki	tingkat|pengangguran|laki|laki	tingkat|pengangguran|laki|laki	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	0	fb:cell_kharakteristik.wilayah_kelahiran	wilayah kelahiran	wilayah|kelahiran	wilayah|kelahiran	JJ|NN	O|O	|					
+0	1	fb:cell_tingkat_lapangan_kerja_perempuan.percent	percent	percent	percent	NN	O						
+0	2	fb:cell_tingkat_pengangguran_perempuan.percent	percent	percent	percent	NN	O						
+0	3	fb:cell_tingkat_pekerjaan_laki_laki.percent	percent	percent	percent	NN	O						
+0	4	fb:cell_tingkat_pengangguran_laki_laki.percent	percent	percent	percent	NN	O						
+1	0	fb:cell_kharakteristik.wilayah_kelahiran_karibia_dan_amerika_latin	wilayah kelahiran Karibia dan Amerika Latin	wilayah|kelahiran|karibia|dan|amerika|latin	wilayah|kelahiran|Karibia|dan|Amerika|Latin	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+1	1	fb:cell_tingkat_lapangan_kerja_perempuan.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+1	2	fb:cell_tingkat_pengangguran_perempuan.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+1	3	fb:cell_tingkat_pekerjaan_laki_laki.81_5	81.5	81.5	81.5	CD	NUMBER	81.5	81.5				
+1	4	fb:cell_tingkat_pengangguran_laki_laki.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+2	0	fb:cell_kharakteristik.wilayah_kelahiran_afrika	wilayah kelahiran Afrika	wilayah|kelahiran|afrika	wilayah|kelahiran|Afrika	JJ|NNP|NNP	O|O|O	||					
+2	1	fb:cell_tingkat_lapangan_kerja_perempuan.64_6	64.6	64.6	64.6	CD	NUMBER	64.6	64.6				
+2	2	fb:cell_tingkat_pengangguran_perempuan.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+2	3	fb:cell_tingkat_pekerjaan_laki_laki.78_8	78.8	78.8	78.8	CD	NUMBER	78.8	78.8				
+2	4	fb:cell_tingkat_pengangguran_laki_laki.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+3	0	fb:cell_kharakteristik.daerah_lahir_daerah_lain	daerah lahir daerah lain	daerah|lahir|daerah|lain	daerah|lahir|daerah|lain	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+3	1	fb:cell_tingkat_lapangan_kerja_perempuan.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+3	2	fb:cell_tingkat_pengangguran_perempuan.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+3	3	fb:cell_tingkat_pekerjaan_laki_laki.78_0	78.0	78.0	78.0	CD	NUMBER	78.0	78.0				
+3	4	fb:cell_tingkat_pengangguran_laki_laki.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+4	0	fb:cell_kharakteristik.negara_kelahiran	negara kelahiran	negara|kelahiran	negara|kelahiran	NNP|NNP	O|O	|					
+4	1	fb:cell_tingkat_lapangan_kerja_perempuan.null											
+4	2	fb:cell_tingkat_pengangguran_perempuan.null											
+4	3	fb:cell_tingkat_pekerjaan_laki_laki.null											
+4	4	fb:cell_tingkat_pengangguran_laki_laki.null											
+5	0	fb:cell_kharakteristik.negara_kelahiran_jamaika	negara kelahiran jamaika	negara|kelahiran|jamaika	negara|kelahiran|jamaika	NNP|NNP|NNP	O|O|O	||					
+5	1	fb:cell_tingkat_lapangan_kerja_perempuan.77_7	77.7	77.7	77.7	CD	NUMBER	77.7	77.7				
+5	2	fb:cell_tingkat_pengangguran_perempuan.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+5	3	fb:cell_tingkat_pekerjaan_laki_laki.81_9	81.9	81.9	81.9	CD	NUMBER	81.9	81.9				
+5	4	fb:cell_tingkat_pengangguran_laki_laki.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+6	0	fb:cell_kharakteristik.negara_kelahiran_haiti	negara kelahiran Haiti	negara|kelahiran|haiti	negara|kelahiran|Haiti	NNP|NNP|NNP	O|O|O	||					
+6	1	fb:cell_tingkat_lapangan_kerja_perempuan.76_1	76.1	76.1	76.1	CD	NUMBER	76.1	76.1				
+6	2	fb:cell_tingkat_pengangguran_perempuan.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+6	3	fb:cell_tingkat_pekerjaan_laki_laki.80_6	80.6	80.6	80.6	CD	NUMBER	80.6	80.6				
+6	4	fb:cell_tingkat_pengangguran_laki_laki.9_3	9.3	9.3	9.3	CD	NUMBER	9.3	9.3				
+7	0	fb:cell_kharakteristik.negara_kelahiran_trinidad_dan_tobago	negara kelahiran trinidad dan tobago	negara|kelahiran|trinidad|dan|tobago	negara|kelahiran|trinidad|dan|tobago	NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||					
+7	1	fb:cell_tingkat_lapangan_kerja_perempuan.76_5	76.5	76.5	76.5	CD	NUMBER	76.5	76.5				
+7	2	fb:cell_tingkat_pengangguran_perempuan.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+7	3	fb:cell_tingkat_pekerjaan_laki_laki.81_5	81.5	81.5	81.5	CD	NUMBER	81.5	81.5				
+7	4	fb:cell_tingkat_pengangguran_laki_laki.7_5	7.5	7.5	7.5	CD	NUMBER	7.5	7.5				
+8	0	fb:cell_kharakteristik.negara_kelahiran_guyana	negara kelahiran Guyana	negara|kelahiran|guyana	negara|kelahiran|Guyana	NNP|NNP|NNP	O|O|O	||					
+8	1	fb:cell_tingkat_lapangan_kerja_perempuan.75_4	75.4	75.4	75.4	CD	NUMBER	75.4	75.4				
+8	2	fb:cell_tingkat_pengangguran_perempuan.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+8	3	fb:cell_tingkat_pekerjaan_laki_laki.82_9	82.9	82.9	82.9	CD	NUMBER	82.9	82.9				
+8	4	fb:cell_tingkat_pengangguran_laki_laki.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+9	0	fb:cell_kharakteristik.negara_kelahiran_barbados	negara kelahiran barbados	negara|kelahiran|barbados	negara|kelahiran|barbados	NNP|NNP|NNP	O|O|O	||					
+9	1	fb:cell_tingkat_lapangan_kerja_perempuan.78_7	78.7	78.7	78.7	CD	NUMBER	78.7	78.7				
+9	2	fb:cell_tingkat_pengangguran_perempuan.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+9	3	fb:cell_tingkat_pekerjaan_laki_laki.84_9	84.9	84.9	84.9	CD	NUMBER	84.9	84.9				
+9	4	fb:cell_tingkat_pengangguran_laki_laki.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+10	0	fb:cell_kharakteristik.negara_kelahiran_saint_vincent_dan_grenadines	negara kelahiran saint vincent dan grenadines	negara|kelahiran|saint|vincent|dan|grenadines	negara|kelahiran|saint|vincent|dan|grenadines	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON|O	|||||					
+10	1	fb:cell_tingkat_lapangan_kerja_perempuan.65_3	65.3	65.3	65.3	CD	NUMBER	65.3	65.3				
+10	2	fb:cell_tingkat_pengangguran_perempuan.11_2	11.2	11.2	11.2	CD	NUMBER	11.2	11.2				
+10	3	fb:cell_tingkat_pekerjaan_laki_laki.76_0	76.0	76.0	76.0	CD	NUMBER	76.0	76.0				
+10	4	fb:cell_tingkat_pengangguran_laki_laki.10_8	10.8	10.8	10.8	CD	NUMBER	10.8	10.8				
+11	0	fb:cell_kharakteristik.negara_kelahiran_grenada	negara kelahiran grenada	negara|kelahiran|grenada	negara|kelahiran|grenada	NNP|NNP|NNP	O|O|O	||					
+11	1	fb:cell_tingkat_lapangan_kerja_perempuan.74_0	74.0	74.0	74.0	CD	NUMBER	74.0	74.0				
+11	2	fb:cell_tingkat_pengangguran_perempuan.10_6	10.6	10.6	10.6	CD	NUMBER	10.6	10.6				
+11	3	fb:cell_tingkat_pekerjaan_laki_laki.83_0	83.0	83.0	83.0	CD	NUMBER	83.0	83.0				
+11	4	fb:cell_tingkat_pengangguran_laki_laki.7_4	7.4	7.4	7.4	CD	NUMBER	7.4	7.4				
+12	0	fb:cell_kharakteristik.negara_kelahiran_santo_lucia	negara kelahiran santo lucia	negara|kelahiran|santo|lucia	negara|kelahiran|santo|lucia	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+12	1	fb:cell_tingkat_lapangan_kerja_perempuan.72_1	72.1	72.1	72.1	CD	NUMBER	72.1	72.1				
+12	2	fb:cell_tingkat_pengangguran_perempuan.11_8	11.8	11.8	11.8	CD	NUMBER	11.8	11.8				
+12	3	fb:cell_tingkat_pekerjaan_laki_laki.81_3	81.3	81.3	81.3	CD	NUMBER	81.3	81.3				
+12	4	fb:cell_tingkat_pengangguran_laki_laki.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+13	0	fb:cell_kharakteristik.negara_kelahiran_inggris	negara kelahiran inggris	negara|kelahiran|inggris	negara|kelahiran|inggris	NNP|NNP|NNP	O|O|O	||					
+13	1	fb:cell_tingkat_lapangan_kerja_perempuan.81_4	81.4	81.4	81.4	CD	NUMBER	81.4	81.4				
+13	2	fb:cell_tingkat_pengangguran_perempuan.7_0	7.0	7.0	7.0	CD	NUMBER	7.0	7.0				
+13	3	fb:cell_tingkat_pekerjaan_laki_laki.83_4	83.4	83.4	83.4	CD	NUMBER	83.4	83.4				
+13	4	fb:cell_tingkat_pengangguran_laki_laki.7_6	7.6	7.6	7.6	CD	NUMBER	7.6	7.6				
+14	0	fb:cell_kharakteristik.negara_lahir_amerika_serikat	negara lahir amerika serikat	negara|lahir|amerika|serikat	negara|lahir|amerika|serikat	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+14	1	fb:cell_tingkat_lapangan_kerja_perempuan.72_4	72.4	72.4	72.4	CD	NUMBER	72.4	72.4				
+14	2	fb:cell_tingkat_pengangguran_perempuan.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+14	3	fb:cell_tingkat_pekerjaan_laki_laki.78_4	78.4	78.4	78.4	CD	NUMBER	78.4	78.4				
+14	4	fb:cell_tingkat_pengangguran_laki_laki.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+15	0	fb:cell_kharakteristik.negara_kelahiran_ethiopia	negara kelahiran ethiopia	negara|kelahiran|ethiopia	negara|kelahiran|ethiopia	NNP|NNP|NNP	O|O|O	||					
+15	1	fb:cell_tingkat_lapangan_kerja_perempuan.65_4	65.4	65.4	65.4	CD	NUMBER	65.4	65.4				
+15	2	fb:cell_tingkat_pengangguran_perempuan.10_9	10.9	10.9	10.9	CD	NUMBER	10.9	10.9				
+15	3	fb:cell_tingkat_pekerjaan_laki_laki.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+15	4	fb:cell_tingkat_pengangguran_laki_laki.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+16	0	fb:cell_kharakteristik.negara_kelahiran_somalia	negara kelahiran Somalia	negara|kelahiran|somalia	negara|kelahiran|Somalia	NNP|NNP|NNP	O|O|O	||					
+16	1	fb:cell_tingkat_lapangan_kerja_perempuan.43_9	43.9	43.9	43.9	CD	NUMBER	43.9	43.9				
+16	2	fb:cell_tingkat_pengangguran_perempuan.17_1	17.1	17.1	17.1	CD	NUMBER	17.1	17.1				
+16	3	fb:cell_tingkat_pekerjaan_laki_laki.68_0	68.0	68.0	68.0	CD	NUMBER	68.0	68.0				
+16	4	fb:cell_tingkat_pengangguran_laki_laki.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+17	0	fb:cell_kharakteristik.negara_kelahiran_eritrea	negara kelahiran eritrea	negara|kelahiran|eritrea	negara|kelahiran|eritrea	NNP|NNP|NNP	O|O|O	||					
+17	1	fb:cell_tingkat_lapangan_kerja_perempuan.61_1	61.1	61.1	61.1	CD	NUMBER	61.1	61.1				
+17	2	fb:cell_tingkat_pengangguran_perempuan.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				
+17	3	fb:cell_tingkat_pekerjaan_laki_laki.78_8	78.8	78.8	78.8	CD	NUMBER	78.8	78.8				
+17	4	fb:cell_tingkat_pengangguran_laki_laki.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+18	0	fb:cell_kharakteristik.negara_kelahiran_sudan	negara kelahiran sudan	negara|kelahiran|sudan	negara|kelahiran|sudan	NNP|NNP|NNP	O|O|O	||					
+18	1	fb:cell_tingkat_lapangan_kerja_perempuan.45_9	45.9	45.9	45.9	CD	NUMBER	45.9	45.9				
+18	2	fb:cell_tingkat_pengangguran_perempuan.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+18	3	fb:cell_tingkat_pekerjaan_laki_laki.74_7	74.7	74.7	74.7	CD	NUMBER	74.7	74.7				
+18	4	fb:cell_tingkat_pengangguran_laki_laki.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+19	0	fb:cell_kharakteristik.negara_lahir_sudan_selatan	negara lahir sudan selatan	negara|lahir|sudan|selatan	negara|lahir|sudan|selatan	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+19	1	fb:cell_tingkat_lapangan_kerja_perempuan.59_4	59.4	59.4	59.4	CD	NUMBER	59.4	59.4				
+19	2	fb:cell_tingkat_pengangguran_perempuan.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+19	3	fb:cell_tingkat_pekerjaan_laki_laki.70_1	70.1	70.1	70.1	CD	NUMBER	70.1	70.1				
+19	4	fb:cell_tingkat_pengangguran_laki_laki.15_7	15.7	15.7	15.7	CD	NUMBER	15.7	15.7				
+20	0	fb:cell_kharakteristik.negara_lahir_burundi	negara lahir burundi	negara|lahir|burundi	negara|lahir|burundi	NNP|NNP|NNP	O|O|O	||					
+20	1	fb:cell_tingkat_lapangan_kerja_perempuan.65_6	65.6	65.6	65.6	CD	NUMBER	65.6	65.6				
+20	2	fb:cell_tingkat_pengangguran_perempuan.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+20	3	fb:cell_tingkat_pekerjaan_laki_laki.73_5	73.5	73.5	73.5	CD	NUMBER	73.5	73.5				
+20	4	fb:cell_tingkat_pengangguran_laki_laki.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+21	0	fb:cell_kharakteristik.negara_kelahiran_kenya	negara kelahiran kenya	negara|kelahiran|kenya	negara|kelahiran|kenya	NNP|NNP|NNP	O|O|O	||					
+21	1	fb:cell_tingkat_lapangan_kerja_perempuan.75_2	75.2	75.2	75.2	CD	NUMBER	75.2	75.2				
+21	2	fb:cell_tingkat_pengangguran_perempuan.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+21	3	fb:cell_tingkat_pekerjaan_laki_laki.82_4	82.4	82.4	82.4	CD	NUMBER	82.4	82.4				
+21	4	fb:cell_tingkat_pengangguran_laki_laki.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+22	0	fb:cell_kharakteristik.negara_kelahiran_zimbabwe	negara kelahiran Zimbabwe	negara|kelahiran|zimbabwe	negara|kelahiran|Zimbabwe	NNP|NNP|NNP	O|O|O	||					
+22	1	fb:cell_tingkat_lapangan_kerja_perempuan.82_4	82.4	82.4	82.4	CD	NUMBER	82.4	82.4				
+22	2	fb:cell_tingkat_pengangguran_perempuan.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5				
+22	3	fb:cell_tingkat_pekerjaan_laki_laki.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+22	4	fb:cell_tingkat_pengangguran_laki_laki.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+23	0	fb:cell_kharakteristik.negara_kelahiran_rwanda	negara kelahiran Rwanda	negara|kelahiran|rwanda	negara|kelahiran|Rwanda	NNP|NNP|NNP	O|O|O	||					
+23	1	fb:cell_tingkat_lapangan_kerja_perempuan.67_8	67.8	67.8	67.8	CD	NUMBER	67.8	67.8				
+23	2	fb:cell_tingkat_pengangguran_perempuan.11_1	11.1	11.1	11.1	CD	NUMBER	11.1	11.1				
+23	3	fb:cell_tingkat_pekerjaan_laki_laki.81_7	81.7	81.7	81.7	CD	NUMBER	81.7	81.7				
+23	4	fb:cell_tingkat_pengangguran_laki_laki.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+24	0	fb:cell_kharakteristik.negara_kelahiran_republik_demokratis_kongo	negara kelahiran republik demokratis kongo	negara|kelahiran|republik|demokratis|kongo	negara|kelahiran|republik|demokratis|kongo	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+24	1	fb:cell_tingkat_lapangan_kerja_perempuan.61_6	61.6	61.6	61.6	CD	NUMBER	61.6	61.6				
+24	2	fb:cell_tingkat_pengangguran_perempuan.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+24	3	fb:cell_tingkat_pekerjaan_laki_laki.74_2	74.2	74.2	74.2	CD	NUMBER	74.2	74.2				
+24	4	fb:cell_tingkat_pengangguran_laki_laki.13_7	13.7	13.7	13.7	CD	NUMBER	13.7	13.7				
+25	0	fb:cell_kharakteristik.negara_kelahiran_kamerun	negara kelahiran Kamerun	negara|kelahiran|kamerun	negara|kelahiran|Kamerun	NNP|NNP|NNP	O|O|O	||					
+25	1	fb:cell_tingkat_lapangan_kerja_perempuan.65_8	65.8	65.8	65.8	CD	NUMBER	65.8	65.8				
+25	2	fb:cell_tingkat_pengangguran_perempuan.14_9	14.9	14.9	14.9	CD	NUMBER	14.9	14.9				
+25	3	fb:cell_tingkat_pekerjaan_laki_laki.78_7	78.7	78.7	78.7	CD	NUMBER	78.7	78.7				
+25	4	fb:cell_tingkat_pengangguran_laki_laki.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+26	0	fb:cell_kharakteristik.negara_kelahiran_nigeria	negara kelahiran Nigeria	negara|kelahiran|nigeria	negara|kelahiran|Nigeria	NNP|NNP|NNP	O|O|O	||					
+26	1	fb:cell_tingkat_lapangan_kerja_perempuan.69_9	69.9	69.9	69.9	CD	NUMBER	69.9	69.9				
+26	2	fb:cell_tingkat_pengangguran_perempuan.12_7	12.7	12.7	12.7	CD	NUMBER	12.7	12.7				
+26	3	fb:cell_tingkat_pekerjaan_laki_laki.80_4	80.4	80.4	80.4	CD	NUMBER	80.4	80.4				
+26	4	fb:cell_tingkat_pengangguran_laki_laki.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+27	0	fb:cell_kharakteristik.negara_kelahiran_ghana	negara kelahiran Ghana	negara|kelahiran|ghana	negara|kelahiran|Ghana	NNP|NNP|NNP	O|O|O	||					
+27	1	fb:cell_tingkat_lapangan_kerja_perempuan.71_6	71.6	71.6	71.6	CD	NUMBER	71.6	71.6				
+27	2	fb:cell_tingkat_pengangguran_perempuan.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+27	3	fb:cell_tingkat_pekerjaan_laki_laki.83_5	83.5	83.5	83.5	CD	NUMBER	83.5	83.5				
+27	4	fb:cell_tingkat_pengangguran_laki_laki.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+28	0	fb:cell_kharakteristik.negara_kelahiran_pantai_gading	negara kelahiran pantai gading	negara|kelahiran|pantai|gading	negara|kelahiran|pantai|gading	NNP|NNP|NN|NN	O|O|O|O	|||					
+28	1	fb:cell_tingkat_lapangan_kerja_perempuan.64_9	64.9	64.9	64.9	CD	NUMBER	64.9	64.9				
+28	2	fb:cell_tingkat_pengangguran_perempuan.13_6	13.6	13.6	13.6	CD	NUMBER	13.6	13.6				
+28	3	fb:cell_tingkat_pekerjaan_laki_laki.78_2	78.2	78.2	78.2	CD	NUMBER	78.2	78.2				
+28	4	fb:cell_tingkat_pengangguran_laki_laki.12_4	12.4	12.4	12.4	CD	NUMBER	12.4	12.4				
+29	0	fb:cell_kharakteristik.negara_kelahiran_senegal	negara kelahiran Senegal	negara|kelahiran|senegal	negara|kelahiran|Senegal	NNP|NNP|NNP	O|O|O	||					
+29	1	fb:cell_tingkat_lapangan_kerja_perempuan.70_1	70.1	70.1	70.1	CD	NUMBER	70.1	70.1				
+29	2	fb:cell_tingkat_pengangguran_perempuan.11_4	11.4	11.4	11.4	CD	NUMBER	11.4	11.4				
+29	3	fb:cell_tingkat_pekerjaan_laki_laki.83_6	83.6	83.6	83.6	CD	NUMBER	83.6	83.6				
+29	4	fb:cell_tingkat_pengangguran_laki_laki.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+30	0	fb:cell_kharakteristik.negara_kelahiran_guinea	negara kelahiran guinea	negara|kelahiran|guinea	negara|kelahiran|guinea	NNP|NNP|NNP	O|O|O	||					
+30	1	fb:cell_tingkat_lapangan_kerja_perempuan.66_7	66.7	66.7	66.7	CD	NUMBER	66.7	66.7				
+30	2	fb:cell_tingkat_pengangguran_perempuan.13_9	13.9	13.9	13.9	CD	NUMBER	13.9	13.9				
+30	3	fb:cell_tingkat_pekerjaan_laki_laki.77_9	77.9	77.9	77.9	CD	NUMBER	77.9	77.9				
+30	4	fb:cell_tingkat_pengangguran_laki_laki.12_2	12.2	12.2	12.2	CD	NUMBER	12.2	12.2				

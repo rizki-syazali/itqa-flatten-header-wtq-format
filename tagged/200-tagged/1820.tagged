@@ -1,0 +1,64 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik	tingkat partisipasi persentase sangat baik atau sangat baik	tingkat|partisipasi|persentase|sangat|baik|atau|sangat|baik	tingkat|partisipasi|persentase|sangat|baik|atau|sangat|baik	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+-1	2	fb:row.row.tingkat_partisipasi_persen_baik	tingkat partisipasi persen baik	tingkat|partisipasi|persen|baik	tingkat|partisipasi|persen|baik	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.tingkat_partisipasi_persentase_adil_atau_buruk	tingkat partisipasi persentase adil atau buruk	tingkat|partisipasi|persentase|adil|atau|buruk	tingkat|partisipasi|persentase|adil|atau|buruk	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	4	fb:row.row.waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik	waktu rata-rata yang dihabiskan dalam jam-jam yang sangat baik atau sangat baik	waktu|rata|rata|yang|dihabiskan|dalam|jam|jam|yang|sangat|baik|atau|sangat|baik	waktu|rata|rata|yang|dihabiskan|dalam|jam|jam|yang|sangat|baik|atau|sangat|baik	NNP|JJ|JJ|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||					
+-1	5	fb:row.row.waktu_rata_rata_menghabiskan_waktu_berjam_jam	waktu rata-rata menghabiskan waktu berjam-jam	waktu|rata|rata|menghabiskan|waktu|berjam|jam	waktu|rata|rata|menghabiskan|waktu|berjam|jam	NNP|JJ|JJ|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||					
+-1	6	fb:row.row.waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk	waktu rata-rata yang dihabiskan pada jam-jam yang adil atau buruk	waktu|rata|rata|yang|dihabiskan|pada|jam|jam|yang|adil|atau|buruk	waktu|rata|rata|yang|dihabiskan|pada|jam|jam|yang|adil|atau|buruk	NNP|JJ|JJ|NN|NN|NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+0	0	fb:cell_kharakteristik.melakukan_pekerjaan_rumah_tangga_yang_tidak_dibayar	melakukan pekerjaan rumah tangga yang tidak dibayar	melakukan|pekerjaan|rumah|tangga|yang|tidak|dibayar	melakukan|pekerjaan|rumah|tangga|yang|tidak|dibayar	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.89_0	89.0	89.0	89.0	CD	NUMBER	89.0	89.0				
+0	2	fb:cell_tingkat_partisipasi_persen_baik.87_0	87.0	87.0	87.0	CD	NUMBER	87.0	87.0				
+0	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.84_0	84.0	84.0	84.0	CD	NUMBER	84.0	84.0				
+0	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+0	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+0	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+1	0	fb:cell_kharakteristik.terlibat_dalam_kegiatan_sipil_keagamaan_dan_organisasi	terlibat dalam kegiatan sipil, keagamaan dan organisasi	terlibat|dalam|kegiatan|sipil|,|keagamaan|dan|organisasi	terlibat|dalam|kegiatan|sipil|,|keagamaan|dan|organisasi	NN|NN|NN|NN|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				terlibat dalam kegiatan sipil|keagamaan dan organisasi	fb:part_kharakteristik.terlibat_dalam_kegiatan_sipil|fb:part_kharakteristik.keagamaan_dan_organisasi
+1	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+1	2	fb:cell_tingkat_partisipasi_persen_baik.9_0	9.0	9.0	9.0	CD	NUMBER	9.0	9.0				
+1	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+1	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+1	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+1	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+2	0	fb:cell_kharakteristik.bersosialisasi_dan_berkomunikasi	bersosialisasi dan berkomunikasi	bersosialisasi|dan|berkomunikasi	bersosialisasi|dan|berkomunikasi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||					
+2	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+2	2	fb:cell_tingkat_partisipasi_persen_baik.41_0	41.0	41.0	41.0	CD	NUMBER	41.0	41.0				
+2	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+2	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+2	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+2	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+3	0	fb:cell_kharakteristik.terlibat_dalam_waktu_luang_dan_aktivitas_fisik	terlibat dalam waktu luang dan aktivitas fisik	terlibat|dalam|waktu|luang|dan|aktivitas|fisik	terlibat|dalam|waktu|luang|dan|aktivitas|fisik	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+3	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.45_0	45.0	45.0	45.0	CD	NUMBER	45.0	45.0				
+3	2	fb:cell_tingkat_partisipasi_persen_baik.39_0	39.0	39.0	39.0	CD	NUMBER	39.0	39.0				
+3	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.36_0	36.0	36.0	36.0	CD	NUMBER	36.0	36.0				
+3	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.2_2	2.2	2.2	2.2	CD	NUMBER	2.2	2.2				
+3	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+3	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+4	0	fb:cell_kharakteristik.menggunakan_teknologi	menggunakan teknologi	menggunakan|teknologi	menggunakan|teknologi	NNP|NNP	O|O	|					
+4	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+4	2	fb:cell_tingkat_partisipasi_persen_baik.27_0	27.0	27.0	27.0	CD	NUMBER	27.0	27.0				
+4	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+4	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9				
+4	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+4	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.2_3	2.3	2.3	2.3	CD	NUMBER	2.3	2.3				
+5	0	fb:cell_kharakteristik.menonton_televisi_dan_video	menonton televisi dan video	menonton|televisi|dan|video	menonton|televisi|dan|video	NNP|NNP|NNP|NNP	O|O|PERSON|O	|||					
+5	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.82_0	82.0	82.0	82.0	CD	NUMBER	82.0	82.0				
+5	2	fb:cell_tingkat_partisipasi_persen_baik.88_0	88.0	88.0	88.0	CD	NUMBER	88.0	88.0				
+5	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.85_0	85.0	85.0	85.0	CD	NUMBER	85.0	85.0				
+5	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+5	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+5	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.4_9	4.9	4.9	4.9	CD	NUMBER	4.9	4.9				
+6	0	fb:cell_kharakteristik.membaca	membaca	membaca	membaca	NNP	O						
+6	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.42_0	42.0	42.0	42.0	CD	NUMBER	42.0	42.0				
+6	2	fb:cell_tingkat_partisipasi_persen_baik.37_0	37.0	37.0	37.0	CD	NUMBER	37.0	37.0				
+6	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.32_0	32.0	32.0	32.0	CD	NUMBER	32.0	32.0				
+6	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+6	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+6	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+7	0	fb:cell_kharakteristik.sedang_tidur	sedang tidur	sedang|tidur	sedang|tidur	NNP|NNP	O|O	|					
+7	1	fb:cell_tingkat_partisipasi_persentase_sangat_baik_atau_sangat_baik.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	2	fb:cell_tingkat_partisipasi_persen_baik.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	3	fb:cell_tingkat_partisipasi_persentase_adil_atau_buruk.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+7	4	fb:cell_waktu_rata_rata_yang_dihabiskan_dalam_jam_jam_yang_sangat_baik_atau_sangat_baik.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+7	5	fb:cell_waktu_rata_rata_menghabiskan_waktu_berjam_jam.9_1	9.1	9.1	9.1	CD	NUMBER	9.1	9.1				
+7	6	fb:cell_waktu_rata_rata_yang_dihabiskan_pada_jam_jam_yang_adil_atau_buruk.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				

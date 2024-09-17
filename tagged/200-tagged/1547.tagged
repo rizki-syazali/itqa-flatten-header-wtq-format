@@ -1,0 +1,137 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994	izin belajar pertama diperoleh pada tahun 1990 hingga 1994	izin|belajar|pertama|diperoleh|pada|tahun|1990|hingga|1994	izin|belajar|pertama|diperoleh|pada|tahun|1990|hingga|1994	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|DATE|O|DATE	||||||1990||1994					
+-1	2	fb:row.row.izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999	izin belajar pertama diperoleh pada tahun 1995 hingga 1999	izin|belajar|pertama|diperoleh|pada|tahun|1995|hingga|1999	izin|belajar|pertama|diperoleh|pada|tahun|1995|hingga|1999	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|DATE|O|DATE	||||||1995||1999					
+-1	3	fb:row.row.izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004	izin belajar pertama diperoleh pada tahun 2000 hingga 2004	izin|belajar|pertama|diperoleh|pada|tahun|2000|hingga|2004	izin|belajar|pertama|diperoleh|pada|tahun|2000|hingga|2004	NNP|NNP|NNP|NNP|NNP|NNP|CD|NNP|CD	O|O|O|O|O|O|DATE|O|DATE	||||||2000||2004					
+0	0	fb:cell_kharakteristik.persentase_tahun_belajar_di_kanada_sebelum_mendarat	persentase tahun belajar di Kanada sebelum mendarat	persentase|tahun|belajar|di|kanada|sebelum|mendarat	persentase|tahun|belajar|di|Kanada|sebelum|mendarat	NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+0	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.null											
+0	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.null											
+0	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.null											
+1	0	fb:cell_kharakteristik.persentase_tahun_studi_di_kanada_sebelum_mendarat_2_tahun_atau_kurang	persentase tahun studi di Kanada sebelum mendarat 2 tahun atau kurang	persentase|tahun|studi|di|kanada|sebelum|mendarat|2|tahun|atau|kurang	persentase|tahun|studi|di|Kanada|sebelum|mendarat|2|tahun|atau|kurang	NN|NNP|NNP|NNP|NNP|NNP|NN|CD|NN|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||2.0|||	2.0				
+1	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.42_6	42.6	42.6	42.6	CD	NUMBER	42.6	42.6				
+1	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.33_6	33.6	33.6	33.6	CD	NUMBER	33.6	33.6				
+1	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+2	0	fb:cell_kharakteristik.persentase_tahun_studi_di_kanada_sebelum_mendarat_3_sampai_4_tahun	persentase tahun studi di Kanada sebelum mendarat 3 sampai 4 tahun	persentase|tahun|studi|di|kanada|sebelum|mendarat|3|sampai|4|tahun	persentase|tahun|studi|di|Kanada|sebelum|mendarat|3|sampai|4|tahun	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|FW|CD|NN	O|O|O|O|O|O|O|NUMBER|O|NUMBER|O	|||||||3.0||4.0|	3.0		4.0		
+2	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.40_5	40.5	40.5	40.5	CD	NUMBER	40.5	40.5				
+2	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.42_9	42.9	42.9	42.9	CD	NUMBER	42.9	42.9				
+2	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.52_7	52.7	52.7	52.7	CD	NUMBER	52.7	52.7				
+3	0	fb:cell_kharakteristik.persentase_tahun_studi_di_kanada_sebelum_mendarat_5_tahun_atau_lebih	persentase tahun studi di Kanada sebelum mendarat 5 tahun atau lebih	persentase|tahun|studi|di|kanada|sebelum|mendarat|5|tahun|atau|lebih	persentase|tahun|studi|di|Kanada|sebelum|mendarat|5|tahun|atau|lebih	NN|NNP|NNP|NNP|NNP|NNP|NNP|CD|NN|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||5.0|||	5.0				
+3	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.16_9	16.9	16.9	16.9	CD	NUMBER	16.9	16.9				
+3	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.23_5	23.5	23.5	23.5	CD	NUMBER	23.5	23.5				
+3	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.26_7	26.7	26.7	26.7	CD	NUMBER	26.7	26.7				
+4	0	fb:cell_kharakteristik.persentase_memiliki_izin_kerja_di_kanada_sebelum_mendarat	persentase memiliki izin kerja di Kanada sebelum mendarat	persentase|memiliki|izin|kerja|di|kanada|sebelum|mendarat	persentase|memiliki|izin|kerja|di|Kanada|sebelum|mendarat	NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+4	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.null											
+4	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.null											
+4	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.null											
+5	0	fb:cell_kharakteristik.persentasenya_memiliki_izin_kerja_di_kanada_sebelum_mendarat_dengan_keterampilan_tinggi	persentasenya memiliki izin kerja di Kanada sebelum mendarat dengan keterampilan tinggi	persentasenya|memiliki|izin|kerja|di|kanada|sebelum|mendarat|dengan|keterampilan|tinggi	persentasenya|memiliki|izin|kerja|di|Kanada|sebelum|mendarat|dengan|keterampilan|tinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+5	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.19_8	19.8	19.8	19.8	CD	NUMBER	19.8	19.8				
+5	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.18_1	18.1	18.1	18.1	CD	NUMBER	18.1	18.1				
+5	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.22_3	22.3	22.3	22.3	CD	NUMBER	22.3	22.3				
+6	0	fb:cell_kharakteristik.persentase_memiliki_izin_kerja_di_kanada_sebelum_mendarat_dengan_keterampilan_rendah	persentase memiliki izin kerja di Kanada sebelum mendarat dengan keterampilan rendah	persentase|memiliki|izin|kerja|di|kanada|sebelum|mendarat|dengan|keterampilan|rendah	persentase|memiliki|izin|kerja|di|Kanada|sebelum|mendarat|dengan|keterampilan|rendah	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+6	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.4_1	4.1	4.1	4.1	CD	NUMBER	4.1	4.1				
+6	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.2_5	2.5	2.5	2.5	CD	NUMBER	2.5	2.5				
+6	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+7	0	fb:cell_kharakteristik.persentase_memiliki_izin_kerja_di_kanada_sebelum_mendarat_tingkat_keterampilannya_tidak_diketahui	persentase memiliki izin kerja di Kanada sebelum mendarat, tingkat keterampilannya tidak diketahui	persentase|memiliki|izin|kerja|di|kanada|sebelum|mendarat|,|tingkat|keterampilannya|tidak|diketahui	persentase|memiliki|izin|kerja|di|Kanada|sebelum|mendarat|,|tingkat|keterampilannya|tidak|diketahui	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				persentase memiliki izin kerja di Kanada sebelum mendarat|tingkat keterampilannya tidak diketahui	fb:part_kharakteristik.persentase_memiliki_izin_kerja_di_kanada_sebelum_mendarat|fb:part_kharakteristik.tingkat_keterampilannya_tidak_diketahui
+7	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.17_2	17.2	17.2	17.2	CD	NUMBER	17.2	17.2				
+7	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+7	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.25_0	25.0	25.0	25.0	CD	NUMBER	25.0	25.0				
+8	0	fb:cell_kharakteristik.persentase_memiliki_izin_kerja_di_kanada_sebelum_mendarat_tanpa_izin_kerja	persentase memiliki izin kerja di Kanada sebelum mendarat tanpa izin kerja	persentase|memiliki|izin|kerja|di|kanada|sebelum|mendarat|tanpa|izin|kerja	persentase|memiliki|izin|kerja|di|Kanada|sebelum|mendarat|tanpa|izin|kerja	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O	||||||||||					
+8	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.58_9	58.9	58.9	58.9	CD	NUMBER	58.9	58.9				
+8	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.62_5	62.5	62.5	62.5	CD	NUMBER	62.5	62.5				
+8	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.49_1	49.1	49.1	49.1	CD	NUMBER	49.1	49.1				
+9	0	fb:cell_kharakteristik.persentase_usia_di_imigrasi	persentase usia di imigrasi	persentase|usia|di|imigrasi	persentase|usia|di|imigrasi	NN|NNP|NNP|NNP	O|O|O|O	|||					
+9	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.null											
+9	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.null											
+9	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.null											
+10	0	fb:cell_kharakteristik.persentase_usia_di_imigrasi_di_bawah_18_tahun	persentase usia di imigrasi di bawah 18 tahun	persentase|usia|di|imigrasi|di|bawah|18|tahun	persentase|usia|di|imigrasi|di|bawah|18|tahun	NN|NNP|NNP|NNP|NNP|NNP|CD|NN	O|MISC|MISC|MISC|O|O|NUMBER|O	||||||18.0|	18.0				
+10	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+10	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.19_1	19.1	19.1	19.1	CD	NUMBER	19.1	19.1				
+10	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.9_7	9.7	9.7	9.7	CD	NUMBER	9.7	9.7				
+11	0	fb:cell_kharakteristik.persentase_usia_di_imigrasi_18_hingga_24	persentase usia di imigrasi 18 hingga 24	persentase|usia|di|imigrasi|18|hingga|24	persentase|usia|di|imigrasi|18|hingga|24	NN|NNP|NNP|NNP|CD|NN|CD	O|O|O|O|NUMBER|O|NUMBER	||||18.0||24.0	18.0		24.0		
+11	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+11	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.18_7	18.7	18.7	18.7	CD	NUMBER	18.7	18.7				
+11	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.19_6	19.6	19.6	19.6	CD	NUMBER	19.6	19.6				
+12	0	fb:cell_kharakteristik.persentase_usia_di_imigrasi_25_tahun_ke_atas	persentase usia di imigrasi 25 tahun ke atas	persentase|usia|di|imigrasi|25|tahun|ke|atas	persentase|usia|di|imigrasi|25|tahun|ke|atas	NN|NNP|NNP|NNP|CD|NNP|NNP|NNP	O|MISC|MISC|MISC|NUMBER|O|O|O	||||25.0|||	25.0				
+12	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.51_6	51.6	51.6	51.6	CD	NUMBER	51.6	51.6				
+12	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.62_2	62.2	62.2	62.2	CD	NUMBER	62.2	62.2				
+12	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.70_8	70.8	70.8	70.8	CD	NUMBER	70.8	70.8				
+13	0	fb:cell_kharakteristik.persentase_kualifikasi_pendidikan_saat_mendarat	persentase kualifikasi pendidikan saat mendarat	persentase|kualifikasi|pendidikan|saat|mendarat	persentase|kualifikasi|pendidikan|saat|mendarat	NN|NN|NN|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.null											
+13	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.null											
+13	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.null											
+14	0	fb:cell_kharakteristik.persentase_kualifikasi_pendidikan_di_tingkat_dasar_dan_menengah	persentase kualifikasi pendidikan di tingkat dasar dan menengah	persentase|kualifikasi|pendidikan|di|tingkat|dasar|dan|menengah	persentase|kualifikasi|pendidikan|di|tingkat|dasar|dan|menengah	NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+14	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.43_1	43.1	43.1	43.1	CD	NUMBER	43.1	43.1				
+14	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.31_4	31.4	31.4	31.4	CD	NUMBER	31.4	31.4				
+14	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.21_5	21.5	21.5	21.5	CD	NUMBER	21.5	21.5				
+15	0	fb:cell_kharakteristik.persentase_kualifikasi_pendidikan_di_perdagangan_pendaratan	persentase kualifikasi pendidikan di perdagangan pendaratan	persentase|kualifikasi|pendidikan|di|perdagangan|pendaratan	persentase|kualifikasi|pendidikan|di|perdagangan|pendaratan	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+15	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.5_3	5.3	5.3	5.3	CD	NUMBER	5.3	5.3				
+15	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+15	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+16	0	fb:cell_kharakteristik.persentase_kualifikasi_pendidikan_di_pasca_sekolah_menengah_lainnya	persentase kualifikasi pendidikan di pasca sekolah menengah, lainnya	persentase|kualifikasi|pendidikan|di|pasca|sekolah|menengah|,|lainnya	persentase|kualifikasi|pendidikan|di|pasca|sekolah|menengah|,|lainnya	NN|NN|NN|NNP|NNP|NNP|NNP|,|NNP	O|O|O|O|O|O|O|O|O	||||||||				persentase kualifikasi pendidikan di pasca sekolah menengah|lainnya	fb:part_kharakteristik.persentase_kualifikasi_pendidikan_di_pasca_sekolah_menengah|fb:part_kharakteristik.lainnya
+16	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.15_4	15.4	15.4	15.4	CD	NUMBER	15.4	15.4				
+16	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.16_7	16.7	16.7	16.7	CD	NUMBER	16.7	16.7				
+16	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.20_1	20.1	20.1	20.1	CD	NUMBER	20.1	20.1				
+17	0	fb:cell_kharakteristik.persentase_kualifikasi_pendidikan_di_jenjang_sarjana	persentase kualifikasi pendidikan di jenjang sarjana	persentase|kualifikasi|pendidikan|di|jenjang|sarjana	persentase|kualifikasi|pendidikan|di|jenjang|sarjana	NN|NN|NN|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+17	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.17_0	17.0	17.0	17.0	CD	NUMBER	17.0	17.0				
+17	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.25_9	25.9	25.9	25.9	CD	NUMBER	25.9	25.9				
+17	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.35_4	35.4	35.4	35.4	CD	NUMBER	35.4	35.4				
+18	0	fb:cell_kharakteristik.persentase_kualifikasi_pendidikan_saat_mendarat_di_atas_sarjana	persentase kualifikasi pendidikan saat mendarat di atas sarjana	persentase|kualifikasi|pendidikan|saat|mendarat|di|atas|sarjana	persentase|kualifikasi|pendidikan|saat|mendarat|di|atas|sarjana	NN|NN|NN|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+18	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.19_2	19.2	19.2	19.2	CD	NUMBER	19.2	19.2				
+18	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.23_1	23.1	23.1	23.1	CD	NUMBER	23.1	23.1				
+18	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.20_8	20.8	20.8	20.8	CD	NUMBER	20.8	20.8				
+19	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_saat_mendarat	persentase kemampuan bahasa resmi Kanada saat mendarat	persentase|kemampuan|bahasa|resmi|kanada|saat|mendarat	persentase|kemampuan|bahasa|resmi|Kanada|saat|mendarat	NN|NN|NN|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+19	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.null											
+19	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.null											
+19	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.null											
+20	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_inggris	persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu Inggris	persentase|kemampuan|bahasa|resmi|kanada|dalam|menggunakan|bahasa|ibu|inggris	persentase|kemampuan|bahasa|resmi|Kanada|dalam|menggunakan|bahasa|ibu|Inggris	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+20	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.17_9	17.9	17.9	17.9	CD	NUMBER	17.9	17.9				
+20	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.15_6	15.6	15.6	15.6	CD	NUMBER	15.6	15.6				
+20	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+21	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_berbahasa_ibu_perancis	persentase kemampuan bahasa resmi Kanada dalam berbahasa ibu Perancis	persentase|kemampuan|bahasa|resmi|kanada|dalam|berbahasa|ibu|perancis	persentase|kemampuan|bahasa|resmi|Kanada|dalam|berbahasa|ibu|Perancis	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O	||||||||					
+21	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+21	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+21	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.7_1	7.1	7.1	7.1	CD	NUMBER	7.1	7.1				
+22	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_lainnya_berbicara_bahasa_inggris	persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu lainnya, berbicara bahasa Inggris	persentase|kemampuan|bahasa|resmi|kanada|dalam|menggunakan|bahasa|ibu|lainnya|,|berbicara|bahasa|inggris	persentase|kemampuan|bahasa|resmi|Kanada|dalam|menggunakan|bahasa|ibu|lainnya|,|berbicara|bahasa|Inggris	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu lainnya|berbicara bahasa Inggris	fb:part_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_lainnya|fb:part_kharakteristik.berbicara_bahasa_inggris
+22	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.54_6	54.6	54.6	54.6	CD	NUMBER	54.6	54.6				
+22	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.55_1	55.1	55.1	55.1	CD	NUMBER	55.1	55.1				
+22	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.62_6	62.6	62.6	62.6	CD	NUMBER	62.6	62.6				
+23	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_lainnya_berbicara_bahasa_prancis	persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu lainnya, berbicara bahasa Prancis	persentase|kemampuan|bahasa|resmi|kanada|dalam|menggunakan|bahasa|ibu|lainnya|,|berbicara|bahasa|prancis	persentase|kemampuan|bahasa|resmi|Kanada|dalam|menggunakan|bahasa|ibu|lainnya|,|berbicara|bahasa|Prancis	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu lainnya|berbicara bahasa Prancis	fb:part_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_lainnya|fb:part_kharakteristik.berbicara_bahasa_prancis
+23	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+23	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+23	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0				
+24	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_lainnya_berbicara_bahasa_inggris_dan_perancis	persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu lainnya, berbicara bahasa Inggris dan Perancis	persentase|kemampuan|bahasa|resmi|kanada|dalam|menggunakan|bahasa|ibu|lainnya|,|berbicara|bahasa|inggris|dan|perancis	persentase|kemampuan|bahasa|resmi|Kanada|dalam|menggunakan|bahasa|ibu|lainnya|,|berbicara|bahasa|Inggris|dan|Perancis	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||||||||				persentase kemampuan bahasa resmi Kanada dalam menggunakan bahasa ibu lainnya|berbicara bahasa Inggris dan Perancis	fb:part_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_dalam_menggunakan_bahasa_ibu_lainnya|fb:part_kharakteristik.berbicara_bahasa_inggris_dan_perancis
+24	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.5_1	5.1	5.1	5.1	CD	NUMBER	5.1	5.1				
+24	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+24	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+25	0	fb:cell_kharakteristik.persentase_kemampuan_bahasa_resmi_kanada_saat_mendarat_tidak_ada_bahasa_inggris_atau_perancis	persentase kemampuan bahasa resmi Kanada saat mendarat tidak ada bahasa Inggris atau Perancis	persentase|kemampuan|bahasa|resmi|kanada|saat|mendarat|tidak|ada|bahasa|inggris|atau|perancis	persentase|kemampuan|bahasa|resmi|Kanada|saat|mendarat|tidak|ada|bahasa|inggri|atau|perancis	NN|NN|NN|NNP|NNP|NNP|NNP|NNP|NN|NN|VBZ|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||					
+25	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.12_3	12.3	12.3	12.3	CD	NUMBER	12.3	12.3				
+25	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.9_8	9.8	9.8	9.8	CD	NUMBER	9.8	9.8				
+25	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.6_8	6.8	6.8	6.8	CD	NUMBER	6.8	6.8				
+26	0	fb:cell_kharakteristik.persentase_kelas_imigrasi	persentase kelas imigrasi	persentase|kelas|imigrasi	persentase|kelas|imigrasi	NN|NN|NN	O|O|O	||					
+26	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.null											
+26	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.null											
+26	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.null											
+27	0	fb:cell_kharakteristik.persentase_kelas_ekonomi_imigrasi_pemohon_utama	persentase kelas ekonomi imigrasi, pemohon utama	persentase|kelas|ekonomi|imigrasi|,|pemohon|utama	persentase|kelas|ekonomi|imigrasi|,|pemohon|utama	NN|NNP|NNP|NNP|,|NNP|NNP	O|O|O|O|O|O|O	||||||				persentase kelas ekonomi imigrasi|pemohon utama	fb:part_kharakteristik.persentase_kelas_ekonomi_imigrasi|fb:part_kharakteristik.pemohon_utama
+27	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.30_0	30.0	30.0	30.0	CD	NUMBER	30.0	30.0				
+27	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.39_3	39.3	39.3	39.3	CD	NUMBER	39.3	39.3				
+27	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.47_7	47.7	47.7	47.7	CD	NUMBER	47.7	47.7				
+28	0	fb:cell_kharakteristik.persentase_kelas_ekonomi_imigrasi_pasangan_atau_tanggungan	persentase kelas ekonomi imigrasi, pasangan atau tanggungan	persentase|kelas|ekonomi|imigrasi|,|pasangan|atau|tanggungan	persentase|kelas|ekonomi|imigrasi|,|pasangan|atau|tanggungan	NN|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|MISC|MISC|O|O|O|O	|||||||				persentase kelas ekonomi imigrasi|pasangan atau tanggungan	fb:part_kharakteristik.persentase_kelas_ekonomi_imigrasi|fb:part_kharakteristik.pasangan_atau_tanggungan
+28	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.32_1	32.1	32.1	32.1	CD	NUMBER	32.1	32.1				
+28	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.25_8	25.8	25.8	25.8	CD	NUMBER	25.8	25.8				
+28	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+29	0	fb:cell_kharakteristik.persentase_kelas_keluarga_imigrasi	persentase kelas keluarga imigrasi	persentase|kelas|keluarga|imigrasi	persentase|kelas|keluarga|imigrasi	NN|NN|NN|NN	O|O|O|O	|||					
+29	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.30_4	30.4	30.4	30.4	CD	NUMBER	30.4	30.4				
+29	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.27_7	27.7	27.7	27.7	CD	NUMBER	27.7	27.7				
+29	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.22_5	22.5	22.5	22.5	CD	NUMBER	22.5	22.5				
+30	0	fb:cell_kharakteristik.persentase_kelas_pengungsi_imigrasi	persentase kelas pengungsi imigrasi	persentase|kelas|pengungsi|imigrasi	persentase|kela|pengungsi|imigrasi	NN|NNS|NN|NN	O|O|O|O	|||					
+30	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+30	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.6_6	6.6	6.6	6.6	CD	NUMBER	6.6	6.6				
+30	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.7_7	7.7	7.7	7.7	CD	NUMBER	7.7	7.7				
+31	0	fb:cell_kharakteristik.persentase_kelas_imigrasi_lainnya	persentase kelas imigrasi lainnya	persentase|kelas|imigrasi|lainnya	persentase|kelas|imigrasi|lainnya	NN|NN|NN|NN	O|O|O|O	|||					
+31	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+31	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.0_6	0.6	0.6	0.6	CD	NUMBER	0.6	0.6				
+31	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+32	0	fb:cell_kharakteristik.persentase_kelas_imigrasi_jumlah_pengamatan	persentase kelas imigrasi jumlah pengamatan	persentase|kelas|imigrasi|jumlah|pengamatan	persentase|kelas|imigrasi|jumlah|pengamatan	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+32	1	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1990_hingga_1994.41000_0	41000.0	41000.0	41000.0	CD	NUMBER	41000.0	41000.0				
+32	2	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_1995_hingga_1999.44000_0	44000.0	44000.0	44000.0	CD	NUMBER	44000.0	44000.0				
+32	3	fb:cell_izin_belajar_pertama_diperoleh_pada_tahun_2000_hingga_2004.71000_0	71000.0	71000.0	71000.0	CD	NUMBER	71000.0	71000.0				

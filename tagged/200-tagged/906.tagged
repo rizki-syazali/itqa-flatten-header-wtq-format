@@ -1,0 +1,33 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.1980_hingga_2000	1980 hingga 2000	1980|hingga|2000	1980|hingga|2000	CD|NNP|CD	DATE|O|DATE	1980||2000					
+-1	2	fb:row.row.2000_hingga_2015	2000 hingga 2015	2000|hingga|2015	2000|hingga|2015	CD|NNP|CD	DATE|O|DATE	2000||2015					
+-1	3	fb:row.row.2000_hingga_2015_dikurangi_1980_hingga_2000	2000 hingga 2015 dikurangi 1980 hingga 2000	2000|hingga|2015|dikurangi|1980|hingga|2000	2000|hingga|2015|dikurangi|1980|hingga|2000	CD|NNP|CD|NNP|CD|NNP|CD	DATE|O|DATE|O|DATE|O|DATE	2000||2015||1980||2000					
+0	0	fb:cell_kharakteristik.persen_pertumbuhan_nilai_tambah_riil	persen pertumbuhan nilai tambah riil	persen|pertumbuhan|nilai|tambah|riil	persen|pertumbuhan|nilai|tambah|riil	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_1980_hingga_2000.3_2	3.2	3.2	3.2	CD	NUMBER	3.2	3.2				
+0	2	fb:cell_2000_hingga_2015.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+0	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000._1_4	-1.4	-1.4	-1.4	CD	NUMBER	-1.4	1.4				
+1	0	fb:cell_kharakteristik.persen_pertumbuhan_pertumbuhan_nilai_tambah_riil_dalam_jam_kerja	persen pertumbuhan pertumbuhan nilai tambah riil dalam jam kerja	persen|pertumbuhan|pertumbuhan|nilai|tambah|riil|dalam|jam|kerja	persen|pertumbuhan|pertumbuhan|nilai|tambah|riil|dalam|jam|kerja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NN|NN	O|O|O|O|O|O|O|O|O	||||||||					
+1	1	fb:cell_1980_hingga_2000.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+1	2	fb:cell_2000_hingga_2015.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+1	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				
+2	0	fb:cell_kharakteristik.persen_pertumbuhan_pertumbuhan_produktivitas_tenaga_kerja_yang_bernilai_tambah_riil	persen pertumbuhan pertumbuhan produktivitas tenaga kerja yang bernilai tambah riil	persen|pertumbuhan|pertumbuhan|produktivitas|tenaga|kerja|yang|bernilai|tambah|riil	persen|pertumbuhan|pertumbuhan|produktivitas|tenaga|kerja|yang|bernilai|tambah|riil	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+2	1	fb:cell_1980_hingga_2000.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+2	2	fb:cell_2000_hingga_2015.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+2	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000._0_7	-0.7	-0.7	-0.7	CD	NUMBER	-0.7	0.7				
+3	0	fb:cell_kharakteristik.persen_kontribusi_terhadap_pertumbuhan_produktivitas_tenaga_kerja_dari	persen kontribusi terhadap pertumbuhan produktivitas tenaga kerja dari	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+3	1	fb:cell_1980_hingga_2000.null											
+3	2	fb:cell_2000_hingga_2015.null											
+3	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000.null											
+4	0	fb:cell_kharakteristik.persen_kontribusi_terhadap_pertumbuhan_produktivitas_tenaga_kerja_dari_pendalaman_modal	persen kontribusi terhadap pertumbuhan produktivitas tenaga kerja dari pendalaman modal	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari|pendalaman|modal	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari|pendalaman|modal	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+4	1	fb:cell_1980_hingga_2000.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+4	2	fb:cell_2000_hingga_2015.0_9	0.9	0.9	0.9	CD	NUMBER	0.9	0.9				
+4	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0				
+5	0	fb:cell_kharakteristik.persen_kontribusi_terhadap_pertumbuhan_produktivitas_tenaga_kerja_dari_komposisi_tenaga_kerja	persen kontribusi terhadap pertumbuhan produktivitas tenaga kerja dari komposisi tenaga kerja	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari|komposisi|tenaga|kerja	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari|komposisi|tenaga|kerja	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|MISC|MISC|MISC|MISC|MISC|MISC	||||||||||					
+5	1	fb:cell_1980_hingga_2000.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+5	2	fb:cell_2000_hingga_2015.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+5	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+6	0	fb:cell_kharakteristik.persen_kontribusi_terhadap_pertumbuhan_produktivitas_tenaga_kerja_dari_pertumbuhan_mfp	persen kontribusi terhadap pertumbuhan produktivitas tenaga kerja dari pertumbuhan mfp	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari|pertumbuhan|mfp	persen|kontribusi|terhadap|pertumbuhan|produktivitas|tenaga|kerja|dari|pertumbuhan|mfp	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+6	1	fb:cell_1980_hingga_2000.0_4	0.4	0.4	0.4	CD	NUMBER	0.4	0.4				
+6	2	fb:cell_2000_hingga_2015._0_2	-0.2	-0.2	-0.2	CD	NUMBER	-0.2	0.2				
+6	3	fb:cell_2000_hingga_2015_dikurangi_1980_hingga_2000._0_6	-0.6	-0.6	-0.6	CD	NUMBER	-0.6	0.6				

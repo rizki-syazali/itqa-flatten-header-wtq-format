@@ -1,0 +1,197 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.non_imigran	non-imigran	non|imigran	non|imigran	JJ|NN	O|O	|					
+-1	2	fb:row.row.imigran_belajar_di_kanada	imigran belajar di Kanada	imigran|belajar|di|kanada	imigran|belajar|di|Kanada	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+-1	3	fb:row.row.imigran_belajar_di_luar_kanada	imigran belajar di luar Kanada	imigran|belajar|di|luar|kanada	imigran|belajar|di|luar|Kanada	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin	prediksi probabilitas jenis kelamin	prediksi|probabilitas|jenis|kelamin	prediksi|probabilitas|jenis|kelamin	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+0	1	fb:cell_non_imigran.null											
+0	2	fb:cell_imigran_belajar_di_kanada.null											
+0	3	fb:cell_imigran_belajar_di_luar_kanada.null											
+1	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_wanita	prediksi probabilitas jenis kelamin wanita	prediksi|probabilitas|jenis|kelamin|wanita	prediksi|probabilitas|jenis|kelamin|wanita	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+1	1	fb:cell_non_imigran.3_6	3.6	3.6	3.6	CD	NUMBER	3.6	3.6				
+1	2	fb:cell_imigran_belajar_di_kanada.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+1	3	fb:cell_imigran_belajar_di_luar_kanada.15_0	15.0	15.0	15.0	CD	NUMBER	15.0	15.0				
+2	0	fb:cell_kharakteristik.prediksi_probabilitas_jenis_kelamin_pria	prediksi probabilitas jenis kelamin pria	prediksi|probabilitas|jenis|kelamin|pria	prediksi|probabilitas|jenis|kelamin|pria	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+2	1	fb:cell_non_imigran.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+2	2	fb:cell_imigran_belajar_di_kanada.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+2	3	fb:cell_imigran_belajar_di_luar_kanada.13_2	13.2	13.2	13.2	CD	NUMBER	13.2	13.2				
+3	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi	prediksi probabilitas tingkat pencapaian pendidikan tertinggi	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+3	1	fb:cell_non_imigran.null											
+3	2	fb:cell_imigran_belajar_di_kanada.null											
+3	3	fb:cell_imigran_belajar_di_luar_kanada.null											
+4	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_gelar_sarjana_tanpa_studi_lebih_lanjut	prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar sarjana tanpa studi lebih lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|sarjana|tanpa|studi|lebih|lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|sarjana|tanpa|studi|lebih|lanjut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+4	1	fb:cell_non_imigran.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+4	2	fb:cell_imigran_belajar_di_kanada.6_4	6.4	6.4	6.4	CD	NUMBER	6.4	6.4				
+4	3	fb:cell_imigran_belajar_di_luar_kanada.16_8	16.8	16.8	16.8	CD	NUMBER	16.8	16.8				
+5	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_gelar_sarjana_dengan_studi_lebih_lanjut	prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar sarjana dengan studi lebih lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|sarjana|dengan|studi|lebih|lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|sarjana|dengan|studi|lebih|lanjut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+5	1	fb:cell_non_imigran.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+5	2	fb:cell_imigran_belajar_di_kanada.2_7	2.7	2.7	2.7	CD	NUMBER	2.7	2.7				
+5	3	fb:cell_imigran_belajar_di_luar_kanada.11_7	11.7	11.7	11.7	CD	NUMBER	11.7	11.7				
+6	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_sertifikat_universitas_atau_diploma_di_atas_tingkat_sarjana_tanpa_studi_lebih_lanjut	prediksi probabilitas tingkat pencapaian pendidikan tertinggi sertifikat universitas atau diploma di atas tingkat sarjana tanpa studi lebih lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|sertifikat|universitas|atau|diploma|di|atas|tingkat|sarjana|tanpa|studi|lebih|lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|sertifikat|universitas|atau|diploma|di|atas|tingkat|sarjana|tanpa|studi|lebih|lanjut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||					
+6	1	fb:cell_non_imigran.1_8	1.8	1.8	1.8	CD	NUMBER	1.8	1.8				
+6	2	fb:cell_imigran_belajar_di_kanada.1_2	1.2	1.2	1.2	CD	NUMBER	1.2	1.2				
+6	3	fb:cell_imigran_belajar_di_luar_kanada.13_8	13.8	13.8	13.8	CD	NUMBER	13.8	13.8				
+7	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_sertifikat_universitas_atau_diploma_di_atas_tingkat_sarjana_dengan_studi_lebih_lanjut	prediksi probabilitas tingkat pencapaian pendidikan tertinggi sertifikat universitas atau diploma di atas tingkat sarjana dengan studi lebih lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|sertifikat|universitas|atau|diploma|di|atas|tingkat|sarjana|dengan|studi|lebih|lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|sertifikat|universitas|atau|diploma|di|atas|tingkat|sarjana|dengan|studi|lebih|lanjut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNPS|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||					
+7	1	fb:cell_non_imigran.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+7	2	fb:cell_imigran_belajar_di_kanada.0_7	0.7	0.7	0.7	CD	NUMBER	0.7	0.7				
+7	3	fb:cell_imigran_belajar_di_luar_kanada.10_7	10.7	10.7	10.7	CD	NUMBER	10.7	10.7				
+8	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_dalam_bidang_kedokteran_kedokteran_gigi_kedokteran_hewan_atau_optometri	prediksi probabilitas tingkat pencapaian pendidikan tertinggi dalam bidang kedokteran, kedokteran gigi, kedokteran hewan atau optometri	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|dalam|bidang|kedokteran|,|kedokteran|gigi|,|kedokteran|hewan|atau|optometri	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|dalam|bidang|kedokteran|,|kedokteran|gigi|,|kedokteran|hewan|atau|optometri	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||				prediksi probabilitas tingkat pencapaian pendidikan tertinggi dalam bidang kedokteran|kedokteran gigi|kedokteran hewan atau optometri	fb:part_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_dalam_bidang_kedokteran|fb:part_kharakteristik.kedokteran_gigi|fb:part_kharakteristik.kedokteran_hewan_atau_optometri
+8	1	fb:cell_non_imigran.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+8	2	fb:cell_imigran_belajar_di_kanada.0_5	0.5	0.5	0.5	CD	NUMBER	0.5	0.5				
+8	3	fb:cell_imigran_belajar_di_luar_kanada.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+9	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_gelar_master_tanpa_studi_lebih_lanjut	prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar master tanpa studi lebih lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|master|tanpa|studi|lebih|lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|master|tanpa|studi|lebih|lanjut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+9	1	fb:cell_non_imigran.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+9	2	fb:cell_imigran_belajar_di_kanada.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1				
+9	3	fb:cell_imigran_belajar_di_luar_kanada.9_5	9.5	9.5	9.5	CD	NUMBER	9.5	9.5				
+10	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_gelar_master_dengan_studi_lebih_lanjut	prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar master dengan studi lebih lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|master|dengan|studi|lebih|lanjut	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|gelar|master|dengan|studi|lebih|lanjut	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||					
+10	1	fb:cell_non_imigran.0_1	0.1	0.1	0.1	CD	NUMBER	0.1	0.1				
+10	2	fb:cell_imigran_belajar_di_kanada.ne	ne	ne	ne	NN	O						
+10	3	fb:cell_imigran_belajar_di_luar_kanada.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1				
+11	0	fb:cell_kharakteristik.prediksi_probabilitas_tingkat_pencapaian_pendidikan_tertinggi_doktor_yang_diperoleh	prediksi probabilitas tingkat pencapaian pendidikan tertinggi doktor yang diperoleh	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|doktor|yang|diperoleh	prediksi|probabilitas|tingkat|pencapaian|pendidikan|tertinggi|doktor|yang|diperoleh	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|PERSON|PERSON	||||||||					
+11	1	fb:cell_non_imigran.0_2	0.2	0.2	0.2	CD	NUMBER	0.2	0.2				
+11	2	fb:cell_imigran_belajar_di_kanada.ne	ne	ne	ne	NN	O						
+11	3	fb:cell_imigran_belajar_di_luar_kanada.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4				
+12	0	fb:cell_kharakteristik.bidang_studi_probabilitas_yang_diprediksi	bidang studi probabilitas yang diprediksi	bidang|studi|probabilitas|yang|diprediksi	bidang|studi|probabilitas|yang|diprediksi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+12	1	fb:cell_non_imigran.null											
+12	2	fb:cell_imigran_belajar_di_kanada.null											
+12	3	fb:cell_imigran_belajar_di_luar_kanada.null											
+13	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_pendidikan	prediksi probabilitas bidang studi pendidikan	prediksi|probabilitas|bidang|studi|pendidikan	prediksi|probabilitas|bidang|studi|pendidikan	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+13	1	fb:cell_non_imigran.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+13	2	fb:cell_imigran_belajar_di_kanada.3_0	3.0	3.0	3.0	CD	NUMBER	3.0	3.0				
+13	3	fb:cell_imigran_belajar_di_luar_kanada.17_7	17.7	17.7	17.7	CD	NUMBER	17.7	17.7				
+14	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_seni_visual_dan_pertunjukan_dan_teknologi_komunikasi	prediksi probabilitas bidang studi seni visual dan pertunjukan, dan teknologi komunikasi	prediksi|probabilitas|bidang|studi|seni|visual|dan|pertunjukan|,|dan|teknologi|komunikasi	prediksi|probabilitas|bidang|studi|seni|visual|dan|pertunjukan|,|dan|teknologi|komunikasi	NNP|NNP|NNP|NNP|NNP|JJ|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON	|||||||||||				prediksi probabilitas bidang studi seni visual dan pertunjukan|dan teknologi komunikasi	fb:part_kharakteristik.prediksi_probabilitas_bidang_studi_seni_visual_dan_pertunjukan|fb:part_kharakteristik.dan_teknologi_komunikasi
+14	1	fb:cell_non_imigran.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+14	2	fb:cell_imigran_belajar_di_kanada.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+14	3	fb:cell_imigran_belajar_di_luar_kanada.15_1	15.1	15.1	15.1	CD	NUMBER	15.1	15.1				
+15	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_humaniora	prediksi probabilitas bidang studi humaniora	prediksi|probabilitas|bidang|studi|humaniora	prediksi|probabilitas|bidang|studi|humaniora	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+15	1	fb:cell_non_imigran.8_9	8.9	8.9	8.9	CD	NUMBER	8.9	8.9				
+15	2	fb:cell_imigran_belajar_di_kanada.8_7	8.7	8.7	8.7	CD	NUMBER	8.7	8.7				
+15	3	fb:cell_imigran_belajar_di_luar_kanada.24_8	24.8	24.8	24.8	CD	NUMBER	24.8	24.8				
+16	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_ilmu_sosial_dan_perilaku_serta_hukum	prediksi probabilitas bidang studi ilmu sosial dan perilaku serta hukum	prediksi|probabilitas|bidang|studi|ilmu|sosial|dan|perilaku|serta|hukum	prediksi|probabilitas|bidang|studi|ilmu|sosial|dan|perilaku|serta|hukum	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||					
+16	1	fb:cell_non_imigran.5_6	5.6	5.6	5.6	CD	NUMBER	5.6	5.6				
+16	2	fb:cell_imigran_belajar_di_kanada.7_8	7.8	7.8	7.8	CD	NUMBER	7.8	7.8				
+16	3	fb:cell_imigran_belajar_di_luar_kanada.19_7	19.7	19.7	19.7	CD	NUMBER	19.7	19.7				
+17	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_bisnis_manajemen_dan_administrasi_publik	prediksi probabilitas bidang studi bisnis, manajemen dan administrasi publik	prediksi|probabilitas|bidang|studi|bisnis|,|manajemen|dan|administrasi|publik	prediksi|probabilitas|bidang|studi|bisnis|,|manajemen|dan|administrasi|publik	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|O	|||||||||				prediksi probabilitas bidang studi bisnis|manajemen dan administrasi publik	fb:part_kharakteristik.prediksi_probabilitas_bidang_studi_bisnis|fb:part_kharakteristik.manajemen_dan_administrasi_publik
+17	1	fb:cell_non_imigran.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+17	2	fb:cell_imigran_belajar_di_kanada.4_6	4.6	4.6	4.6	CD	NUMBER	4.6	4.6				
+17	3	fb:cell_imigran_belajar_di_luar_kanada.15_9	15.9	15.9	15.9	CD	NUMBER	15.9	15.9				
+18	0	fb:cell_kharakteristik.bidang_studi_ilmu_dan_teknologi_fisika_dan_kehidupan	bidang studi ilmu dan teknologi fisika dan kehidupan	bidang|studi|ilmu|dan|teknologi|fisika|dan|kehidupan	bidang|studi|ilmu|dan|teknologi|fisika|dan|kehidupan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||					
+18	1	fb:cell_non_imigran.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+18	2	fb:cell_imigran_belajar_di_kanada.4_4	4.4	4.4	4.4	CD	NUMBER	4.4	4.4				
+18	3	fb:cell_imigran_belajar_di_luar_kanada.14_5	14.5	14.5	14.5	CD	NUMBER	14.5	14.5				
+19	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_matematika_ilmu_komputer_dan_informasi	prediksi probabilitas bidang studi matematika, ilmu komputer dan informasi	prediksi|probabilitas|bidang|studi|matematika|,|ilmu|komputer|dan|informasi	prediksi|probabilitas|bidang|studi|matematika|,|ilmu|komputer|dan|informasi	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||				prediksi probabilitas bidang studi matematika|ilmu komputer dan informasi	fb:part_kharakteristik.prediksi_probabilitas_bidang_studi_matematika|fb:part_kharakteristik.ilmu_komputer_dan_informasi
+19	1	fb:cell_non_imigran.1_4	1.4	1.4	1.4	CD	NUMBER	1.4	1.4				
+19	2	fb:cell_imigran_belajar_di_kanada.1_5	1.5	1.5	1.5	CD	NUMBER	1.5	1.5				
+19	3	fb:cell_imigran_belajar_di_luar_kanada.8_0	8.0	8.0	8.0	CD	NUMBER	8.0	8.0				
+20	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_arsitektur_teknik_dan_teknologi_terkait	prediksi probabilitas bidang studi arsitektur, teknik, dan teknologi terkait	prediksi|probabilitas|bidang|studi|arsitektur|,|teknik|,|dan|teknologi|terkait	prediksi|probabilitas|bidang|studi|arsitektur|,|teknik|,|dan|teknologi|terkait	NNP|NNP|NNP|NNP|NNP|,|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|O|O|PERSON|O|O	||||||||||				prediksi probabilitas bidang studi arsitektur|teknik|dan teknologi terkait	fb:part_kharakteristik.prediksi_probabilitas_bidang_studi_arsitektur|fb:part_kharakteristik.teknik|fb:part_kharakteristik.dan_teknologi_terkait
+20	1	fb:cell_non_imigran.1_0	1.0	1.0	1.0	CD	NUMBER	1.0	1.0				
+20	2	fb:cell_imigran_belajar_di_kanada.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+20	3	fb:cell_imigran_belajar_di_luar_kanada.10_5	10.5	10.5	10.5	CD	NUMBER	10.5	10.5				
+21	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_pertanian_sumber_daya_alam_dan_konservasi	prediksi probabilitas bidang studi pertanian, sumber daya alam dan konservasi	prediksi|probabilitas|bidang|studi|pertanian|,|sumber|daya|alam|dan|konservasi	prediksi|probabilitas|bidang|studi|pertanian|,|sumber|daya|alam|dan|konservasi	NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||				prediksi probabilitas bidang studi pertanian|sumber daya alam dan konservasi	fb:part_kharakteristik.prediksi_probabilitas_bidang_studi_pertanian|fb:part_kharakteristik.sumber_daya_alam_dan_konservasi
+21	1	fb:cell_non_imigran.4_2	4.2	4.2	4.2	CD	NUMBER	4.2	4.2				
+21	2	fb:cell_imigran_belajar_di_kanada.7_2	7.2	7.2	7.2	CD	NUMBER	7.2	7.2				
+21	3	fb:cell_imigran_belajar_di_luar_kanada.25_4	25.4	25.4	25.4	CD	NUMBER	25.4	25.4				
+22	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_kesehatan_dan_bidang_terkait	prediksi probabilitas bidang studi kesehatan dan bidang terkait	prediksi|probabilitas|bidang|studi|kesehatan|dan|bidang|terkait	prediksi|probabilitas|bidang|studi|kesehatan|dan|bidang|terkait	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+22	1	fb:cell_non_imigran.1_7	1.7	1.7	1.7	CD	NUMBER	1.7	1.7				
+22	2	fb:cell_imigran_belajar_di_kanada.2_6	2.6	2.6	2.6	CD	NUMBER	2.6	2.6				
+22	3	fb:cell_imigran_belajar_di_luar_kanada.9_9	9.9	9.9	9.9	CD	NUMBER	9.9	9.9				
+23	0	fb:cell_kharakteristik.prediksi_probabilitas_bidang_studi_lainnya	prediksi probabilitas bidang studi lainnya	prediksi|probabilitas|bidang|studi|lainnya	prediksi|probabilitas|bidang|studi|lainnya	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+23	1	fb:cell_non_imigran.10_1	10.1	10.1	10.1	CD	NUMBER	10.1	10.1				
+23	2	fb:cell_imigran_belajar_di_kanada.ne	ne	ne	ne	NN	O						
+23	3	fb:cell_imigran_belajar_di_luar_kanada.18_3	18.3	18.3	18.3	CD	NUMBER	18.3	18.3				
+24	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi	prediksi tingkat kemungkinan keakraban dengan bahasa resmi	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+24	1	fb:cell_non_imigran.null											
+24	2	fb:cell_imigran_belajar_di_kanada.null											
+24	3	fb:cell_imigran_belajar_di_luar_kanada.null											
+25	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi_1_tingkat_tertinggi	prediksi tingkat kemungkinan keakraban dengan bahasa resmi 1. tingkat tertinggi	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi|1|.|tingkat|tertinggi	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi|1|.|tingkat|tertinggi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|.|NNP|NNP	O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||1.0|||	1.0				
+25	1	fb:cell_non_imigran.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+25	2	fb:cell_imigran_belajar_di_kanada.2_9	2.9	2.9	2.9	CD	NUMBER	2.9	2.9				
+25	3	fb:cell_imigran_belajar_di_luar_kanada.7_9	7.9	7.9	7.9	CD	NUMBER	7.9	7.9				
+26	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi_2	prediksi tingkat kemungkinan keakraban dengan bahasa resmi 2	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi|2	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi|2	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD	O|O|O|O|O|O|O|NUMBER	|||||||2.0	2.0				
+26	1	fb:cell_non_imigran.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+26	2	fb:cell_imigran_belajar_di_kanada.3_8	3.8	3.8	3.8	CD	NUMBER	3.8	3.8				
+26	3	fb:cell_imigran_belajar_di_luar_kanada.6_0	6.0	6.0	6.0	CD	NUMBER	6.0	6.0				
+27	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi3	prediksi tingkat kemungkinan keakraban dengan bahasa resmi3	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi3	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi3	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||	3.0				
+27	1	fb:cell_non_imigran.3_7	3.7	3.7	3.7	CD	NUMBER	3.7	3.7				
+27	2	fb:cell_imigran_belajar_di_kanada.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3				
+27	3	fb:cell_imigran_belajar_di_luar_kanada.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+28	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi4	prediksi tingkat kemungkinan keakraban dengan bahasa resmi4	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi4	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi4	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||	4.0				
+28	1	fb:cell_non_imigran.3_4	3.4	3.4	3.4	CD	NUMBER	3.4	3.4				
+28	2	fb:cell_imigran_belajar_di_kanada.4_8	4.8	4.8	4.8	CD	NUMBER	4.8	4.8				
+28	3	fb:cell_imigran_belajar_di_luar_kanada.12_5	12.5	12.5	12.5	CD	NUMBER	12.5	12.5				
+29	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi5	prediksi tingkat kemungkinan keakraban dengan bahasa resmi5	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi5	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi5	NNP|NNP|NNP|NNP|NNP|NNP|NN	O|O|O|O|O|O|O	||||||	5.0				
+29	1	fb:cell_non_imigran.4_5	4.5	4.5	4.5	CD	NUMBER	4.5	4.5				
+29	2	fb:cell_imigran_belajar_di_kanada.5_5	5.5	5.5	5.5	CD	NUMBER	5.5	5.5				
+29	3	fb:cell_imigran_belajar_di_luar_kanada.14_0	14.0	14.0	14.0	CD	NUMBER	14.0	14.0				
+30	0	fb:cell_kharakteristik.prediksi_tingkat_kemungkinan_keakraban_dengan_bahasa_resmi_6_tingkat_terendah	prediksi tingkat kemungkinan keakraban dengan bahasa resmi 6. tingkat terendah	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi|6|.|tingkat|terendah	prediksi|tingkat|kemungkinan|keakraban|dengan|bahasa|resmi|6|.|tingkat|terendah	NNP|NNP|NNP|NNP|NNP|NNP|NNP|CD|.|NNP|NNP	O|O|O|O|O|O|O|NUMBER|O|O|O	|||||||6.0|||	6.0				
+30	1	fb:cell_non_imigran.5_0	5.0	5.0	5.0	CD	NUMBER	5.0	5.0				
+30	2	fb:cell_imigran_belajar_di_kanada.6_7	6.7	6.7	6.7	CD	NUMBER	6.7	6.7				
+30	3	fb:cell_imigran_belajar_di_luar_kanada.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+31	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi	prediksi kemungkinan lokasi studi	prediksi|kemungkinan|lokasi|studi	prediksi|kemungkinan|lokasi|studi	NNP|NNP|NNP|NNP	O|O|O|O	|||					
+31	1	fb:cell_non_imigran.null											
+31	2	fb:cell_imigran_belajar_di_kanada.null											
+31	3	fb:cell_imigran_belajar_di_luar_kanada.null											
+32	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_penelitian_kanada	prediksi kemungkinan lokasi penelitian Kanada	prediksi|kemungkinan|lokasi|penelitian|kanada	prediksi|kemungkinan|lokasi|penelitian|Kanada	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+32	1	fb:cell_non_imigran.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5				
+32	2	fb:cell_imigran_belajar_di_kanada.null											
+32	3	fb:cell_imigran_belajar_di_luar_kanada.null											
+33	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_amerika_utara	prediksi kemungkinan lokasi studi di Amerika Utara	prediksi|kemungkinan|lokasi|studi|di|amerika|utara	prediksi|kemungkinan|lokasi|studi|di|Amerika|Utara	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+33	1	fb:cell_non_imigran.null											
+33	2	fb:cell_imigran_belajar_di_kanada.null											
+33	3	fb:cell_imigran_belajar_di_luar_kanada.7_3	7.3	7.3	7.3	CD	NUMBER	7.3	7.3				
+34	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_amerika_tengah_dan_selatan	prediksi kemungkinan lokasi studi di Amerika tengah dan selatan	prediksi|kemungkinan|lokasi|studi|di|amerika|tengah|dan|selatan	prediksi|kemungkinan|lokasi|studi|di|Amerika|tengah|dan|selatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|MISC|O|O|O	||||||||					
+34	1	fb:cell_non_imigran.null											
+34	2	fb:cell_imigran_belajar_di_kanada.null											
+34	3	fb:cell_imigran_belajar_di_luar_kanada.8_2	8.2	8.2	8.2	CD	NUMBER	8.2	8.2				
+35	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_karibia_dan_bermuda	prediksi kemungkinan lokasi studi Karibia dan Bermuda	prediksi|kemungkinan|lokasi|studi|karibia|dan|bermuda	prediksi|kemungkinan|lokasi|studi|Karibia|dan|Bermuda	NNP|NNP|NNP|NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC|MISC|PERSON|PERSON	||||||					
+35	1	fb:cell_non_imigran.null											
+35	2	fb:cell_imigran_belajar_di_kanada.null											
+35	3	fb:cell_imigran_belajar_di_luar_kanada.15_2	15.2	15.2	15.2	CD	NUMBER	15.2	15.2				
+36	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_eropa_barat	prediksi kemungkinan lokasi studi di eropa barat	prediksi|kemungkinan|lokasi|studi|di|eropa|barat	prediksi|kemungkinan|lokasi|studi|di|eropa|barat	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+36	1	fb:cell_non_imigran.null											
+36	2	fb:cell_imigran_belajar_di_kanada.null											
+36	3	fb:cell_imigran_belajar_di_luar_kanada.6_9	6.9	6.9	6.9	CD	NUMBER	6.9	6.9				
+37	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_eropa_timur	prediksi kemungkinan lokasi studi di eropa timur	prediksi|kemungkinan|lokasi|studi|di|eropa|timur	prediksi|kemungkinan|lokasi|studi|di|eropa|timur	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+37	1	fb:cell_non_imigran.null											
+37	2	fb:cell_imigran_belajar_di_kanada.null											
+37	3	fb:cell_imigran_belajar_di_luar_kanada.11_6	11.6	11.6	11.6	CD	NUMBER	11.6	11.6				
+38	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_eropa_utara	prediksi kemungkinan lokasi studi di eropa utara	prediksi|kemungkinan|lokasi|studi|di|eropa|utara	prediksi|kemungkinan|lokasi|studi|di|eropa|utara	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+38	1	fb:cell_non_imigran.null											
+38	2	fb:cell_imigran_belajar_di_kanada.null											
+38	3	fb:cell_imigran_belajar_di_luar_kanada.5_2	5.2	5.2	5.2	CD	NUMBER	5.2	5.2				
+39	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_eropa_selatan	prediksi kemungkinan lokasi studi di eropa selatan	prediksi|kemungkinan|lokasi|studi|di|eropa|selatan	prediksi|kemungkinan|lokasi|studi|di|eropa|selatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+39	1	fb:cell_non_imigran.null											
+39	2	fb:cell_imigran_belajar_di_kanada.null											
+39	3	fb:cell_imigran_belajar_di_luar_kanada.8_8	8.8	8.8	8.8	CD	NUMBER	8.8	8.8				
+40	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_penelitian_di_sub_sahara_afrika	prediksi kemungkinan lokasi penelitian di sub-sahara afrika	prediksi|kemungkinan|lokasi|penelitian|di|sub|sahara|afrika	prediksi|kemungkinan|lokasi|penelitian|di|sub|sahara|afrika	NNP|NNP|NNP|NNP|NNP|NN|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+40	1	fb:cell_non_imigran.null											
+40	2	fb:cell_imigran_belajar_di_kanada.null											
+40	3	fb:cell_imigran_belajar_di_luar_kanada.10_2	10.2	10.2	10.2	CD	NUMBER	10.2	10.2				
+41	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_afrika_utara	prediksi kemungkinan lokasi studi di afrika utara	prediksi|kemungkinan|lokasi|studi|di|afrika|utara	prediksi|kemungkinan|lokasi|studi|di|afrika|utara	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+41	1	fb:cell_non_imigran.null											
+41	2	fb:cell_imigran_belajar_di_kanada.null											
+41	3	fb:cell_imigran_belajar_di_luar_kanada.8_5	8.5	8.5	8.5	CD	NUMBER	8.5	8.5				
+42	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_asia_tengah_barat	prediksi kemungkinan lokasi studi di asia tengah barat	prediksi|kemungkinan|lokasi|studi|di|asia|tengah|barat	prediksi|kemungkinan|lokasi|studi|di|asia|tengah|barat	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+42	1	fb:cell_non_imigran.null											
+42	2	fb:cell_imigran_belajar_di_kanada.null											
+42	3	fb:cell_imigran_belajar_di_luar_kanada.10_4	10.4	10.4	10.4	CD	NUMBER	10.4	10.4				
+43	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_asia_timur	prediksi kemungkinan lokasi studi di asia timur	prediksi|kemungkinan|lokasi|studi|di|asia|timur	prediksi|kemungkinan|lokasi|studi|di|asia|timur	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+43	1	fb:cell_non_imigran.null											
+43	2	fb:cell_imigran_belajar_di_kanada.null											
+43	3	fb:cell_imigran_belajar_di_luar_kanada.10_0	10.0	10.0	10.0	CD	NUMBER	10.0	10.0				
+44	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_asia_tenggara	prediksi kemungkinan lokasi studi di asia tenggara	prediksi|kemungkinan|lokasi|studi|di|asia|tenggara	prediksi|kemungkinan|lokasi|studi|di|asia|tenggara	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+44	1	fb:cell_non_imigran.null											
+44	2	fb:cell_imigran_belajar_di_kanada.null											
+44	3	fb:cell_imigran_belajar_di_luar_kanada.23_6	23.6	23.6	23.6	CD	NUMBER	23.6	23.6				
+45	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_asia_selatan	prediksi kemungkinan lokasi studi di asia selatan	prediksi|kemungkinan|lokasi|studi|di|asia|selatan	prediksi|kemungkinan|lokasi|studi|di|asia|selatan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+45	1	fb:cell_non_imigran.null											
+45	2	fb:cell_imigran_belajar_di_kanada.null											
+45	3	fb:cell_imigran_belajar_di_luar_kanada.22_0	22.0	22.0	22.0	CD	NUMBER	22.0	22.0				
+46	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_oseania	prediksi kemungkinan lokasi studi di Oseania	prediksi|kemungkinan|lokasi|studi|di|oseania	prediksi|kemungkinan|lokasi|studi|di|Oseania	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+46	1	fb:cell_non_imigran.null											
+46	2	fb:cell_imigran_belajar_di_kanada.null											
+46	3	fb:cell_imigran_belajar_di_luar_kanada.11_3	11.3	11.3	11.3	CD	NUMBER	11.3	11.3				
+47	0	fb:cell_kharakteristik.prediksi_kemungkinan_lokasi_studi_di_luar_kanada	prediksi kemungkinan lokasi studi di luar Kanada	prediksi|kemungkinan|lokasi|studi|di|luar|kanada	prediksi|kemungkinan|lokasi|studi|di|luar|Kanada	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+47	1	fb:cell_non_imigran.4_7	4.7	4.7	4.7	CD	NUMBER	4.7	4.7				
+47	2	fb:cell_imigran_belajar_di_kanada.null											
+47	3	fb:cell_imigran_belajar_di_luar_kanada.null											

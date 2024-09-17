@@ -1,0 +1,41 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.nomor_file_master_tabulasi_ccr	nomor file master tabulasi ccr	nomor|file|master|tabulasi|ccr	nomor|file|master|tabulasi|ccr	NNP|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	2	fb:row.row.nomor_file_master_tabulasi_iarc	nomor file master tabulasi iarc	nomor|file|master|tabulasi|iarc	nomor|file|master|tabulasi|iarc	NNP|NN|NN|NN|NN	O|O|O|O|O	||||					
+-1	3	fb:row.row.nomor_kohort_tumor_cctlp	nomor kohort tumor cctlp	nomor|kohort|tumor|cctlp	nomor|kohort|tumor|cctlp	NNP|NNP|NN|NN	O|O|O|O	|||					
+-1	4	fb:row.row.persentase_cakupan_kohort_tumor_cctlp	persentase cakupan kohort tumor cctlp	persentase|cakupan|kohort|tumor|cctlp	persentase|cakupan|kohort|tumor|cctlp	NN|NN|NN|NN|NN	O|O|O|O|O	||||					
+0	0	fb:cell_kharakteristik.payudara_wanita	payudara wanita	payudara|wanita	payudara|wanita	NNP|NNP	O|O	|					
+0	1	fb:cell_nomor_file_master_tabulasi_ccr.52235_0	52235.0	52235.0	52235.0	CD	NUMBER	52235.0	52235.0				
+0	2	fb:cell_nomor_file_master_tabulasi_iarc.51775_0	51775.0	51775.0	51775.0	CD	NUMBER	51775.0	51775.0				
+0	3	fb:cell_nomor_kohort_tumor_cctlp.50740_0	50740.0	50740.0	50740.0	CD	NUMBER	50740.0	50740.0				
+0	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.97_1	97.1	97.1	97.1	CD	NUMBER	97.1	97.1				
+1	0	fb:cell_kharakteristik.kolon_dan_rektum	kolon dan rektum	kolon|dan|rektum	kolon|dan|rektum	NNP|NNP|NNP	ORGANIZATION|O|O	||					
+1	1	fb:cell_nomor_file_master_tabulasi_ccr.47555_0	47555.0	47555.0	47555.0	CD	NUMBER	47555.0	47555.0				
+1	2	fb:cell_nomor_file_master_tabulasi_iarc.45990_0	45990.0	45990.0	45990.0	CD	NUMBER	45990.0	45990.0				
+1	3	fb:cell_nomor_kohort_tumor_cctlp.44970_0	44970.0	44970.0	44970.0	CD	NUMBER	44970.0	44970.0				
+1	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.94_6	94.6	94.6	94.6	CD	NUMBER	94.6	94.6				
+2	0	fb:cell_kharakteristik.prostat	prostat	prostat	prostat	NN	O						
+2	1	fb:cell_nomor_file_master_tabulasi_ccr.53425_0	53425.0	53425.0	53425.0	CD	NUMBER	53425.0	53425.0				
+2	2	fb:cell_nomor_file_master_tabulasi_iarc.53395_0	53395.0	53395.0	53395.0	CD	NUMBER	53395.0	53395.0				
+2	3	fb:cell_nomor_kohort_tumor_cctlp.52905_0	52905.0	52905.0	52905.0	CD	NUMBER	52905.0	52905.0				
+2	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.99_0	99.0	99.0	99.0	CD	NUMBER	99.0	99.0				
+3	0	fb:cell_kharakteristik.kandung_kemih	kandung kemih	kandung|kemih	kandung|kemih	NNP|NNP	O|O	|					
+3	1	fb:cell_nomor_file_master_tabulasi_ccr.15280_0	15280.0	15280.0	15280.0	CD	NUMBER	15280.0	15280.0				
+3	2	fb:cell_nomor_file_master_tabulasi_iarc.15250_0	15250.0	15250.0	15250.0	CD	NUMBER	15250.0	15250.0				
+3	3	fb:cell_nomor_kohort_tumor_cctlp.14990_0	14990.0	14990.0	14990.0	CD	NUMBER	14990.0	14990.0				
+3	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.98_1	98.1	98.1	98.1	CD	NUMBER	98.1	98.1				
+4	0	fb:cell_kharakteristik.tiroid	tiroid	tiroid	tiroid	NN	O						
+4	1	fb:cell_nomor_file_master_tabulasi_ccr.12750_0	12750.0	12750.0	12750.0	CD	NUMBER	12750.0	12750.0				
+4	2	fb:cell_nomor_file_master_tabulasi_iarc.12750_0	12750.0	12750.0	12750.0	CD	NUMBER	12750.0	12750.0				
+4	3	fb:cell_nomor_kohort_tumor_cctlp.12585_0	12585.0	12585.0	12585.0	CD	NUMBER	12585.0	12585.0				
+4	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.98_7	98.7	98.7	98.7	CD	NUMBER	98.7	98.7				
+5	0	fb:cell_kharakteristik.paru_paru_dan_bronkus	paru-paru dan bronkus	paru|paru|dan|bronkus	paru|paru|dan|bronkus	NN|NN|NNP|NNP	O|O|O|O	|||					
+5	1	fb:cell_nomor_file_master_tabulasi_ccr.50110_0	50110.0	50110.0	50110.0	CD	NUMBER	50110.0	50110.0				
+5	2	fb:cell_nomor_file_master_tabulasi_iarc.49830_0	49830.0	49830.0	49830.0	CD	NUMBER	49830.0	49830.0				
+5	3	fb:cell_nomor_kohort_tumor_cctlp.49135_0	49135.0	49135.0	49135.0	CD	NUMBER	49135.0	49135.0				
+5	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.98_1	98.1	98.1	98.1	CD	NUMBER	98.1	98.1				
+6	0	fb:cell_kharakteristik.total	total	total	total	NN	O						
+6	1	fb:cell_nomor_file_master_tabulasi_ccr.231355_0	231355.0	231355.0	231355.0	CD	NUMBER	231355.0	231355.0				
+6	2	fb:cell_nomor_file_master_tabulasi_iarc.228990_0	228990.0	228990.0	228990.0	CD	NUMBER	228990.0	228990.0				
+6	3	fb:cell_nomor_kohort_tumor_cctlp.225330_0	225330.0	225330.0	225330.0	CD	NUMBER	225330.0	225330.0				
+6	4	fb:cell_persentase_cakupan_kohort_tumor_cctlp.97_4	97.4	97.4	97.4	CD	NUMBER	97.4	97.4				

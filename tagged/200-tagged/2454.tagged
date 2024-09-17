@@ -1,0 +1,21 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list	listId
+-1	0	fb:row.row.kharakteristik	kharakteristik	kharakteristik	kharakteristik	NNP	O						
+-1	1	fb:row.row.berguna_untuk_proporsi_pekerjaan_pasca_kelulusan	berguna untuk proporsi pekerjaan pasca-kelulusan	berguna|untuk|proporsi|pekerjaan|pasca|kelulusan	berguna|untuk|proporsi|pekerjaan|pasca|kelulusan	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+-1	2	fb:row.row.berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan	berguna untuk proporsi subkelompok pekerjaan pasca-kelulusan	berguna|untuk|proporsi|subkelompok|pekerjaan|pasca|kelulusan	berguna|untuk|proporsi|subkelompok|pekerjaan|pasca|kelulusan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	3	fb:row.row.tidak_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan	tidak berguna untuk proporsi pekerjaan pasca-kelulusan	tidak|berguna|untuk|proporsi|pekerjaan|pasca|kelulusan	tidak|berguna|untuk|proporsi|pekerjaan|pasca|kelulusan	NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||					
+-1	4	fb:row.row.tidak_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan	tidak berguna untuk proporsi subkelompok pekerjaan pasca-kelulusan	tidak|berguna|untuk|proporsi|subkelompok|pekerjaan|pasca|kelulusan	tidak|berguna|untuk|proporsi|subkelompok|pekerjaan|pasca|kelulusan	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O|O|O	|||||||					
+0	0	fb:cell_kharakteristik.persen_terkait_dengan_bidang_studi	persen terkait dengan bidang studi	persen|terkait|dengan|bidang|studi	persen|terkait|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||					
+0	1	fb:cell_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan.39_9	39.9	39.9	39.9	CD	NUMBER	39.9	39.9				
+0	2	fb:cell_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan.79_4	79.4	79.4	79.4	CD	NUMBER	79.4	79.4				
+0	3	fb:cell_tidak_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan.16_1	16.1	16.1	16.1	CD	NUMBER	16.1	16.1				
+0	4	fb:cell_tidak_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan.32_3	32.3	32.3	32.3	CD	NUMBER	32.3	32.3				
+1	0	fb:cell_kharakteristik.persen_tidak_berhubungan_dengan_bidang_studi	persen tidak berhubungan dengan bidang studi	persen|tidak|berhubungan|dengan|bidang|studi	persen|tidak|berhubungan|dengan|bidang|studi	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|O|O	|||||					
+1	1	fb:cell_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan.10_3	10.3	10.3	10.3	CD	NUMBER	10.3	10.3				
+1	2	fb:cell_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan.20_6	20.6	20.6	20.6	CD	NUMBER	20.6	20.6				
+1	3	fb:cell_tidak_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan.33_7	33.7	33.7	33.7	CD	NUMBER	33.7	33.7				
+1	4	fb:cell_tidak_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan.67_7	67.7	67.7	67.7	CD	NUMBER	67.7	67.7				
+2	0	fb:cell_kharakteristik.persen_total	persen total	persen|total	persen|total	NNP|NNP	O|O	|					
+2	1	fb:cell_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan.50_2	50.2	50.2	50.2	CD	NUMBER	50.2	50.2				
+2	2	fb:cell_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
+2	3	fb:cell_tidak_berguna_untuk_proporsi_pekerjaan_pasca_kelulusan.49_8	49.8	49.8	49.8	CD	NUMBER	49.8	49.8				
+2	4	fb:cell_tidak_berguna_untuk_proporsi_subkelompok_pekerjaan_pasca_kelulusan.100_0	100.0	100.0	100.0	CD	NUMBER	100.0	100.0				
